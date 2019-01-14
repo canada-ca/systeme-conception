@@ -207,7 +207,7 @@
     "USE": "Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, th&#233;matiques ou &#224; l’&#233;chelle du gouvernement du Canada qui durent pendant une p&#233;riode donn&#233;e. Ne l'utilisez pas pour le contenu essentiel &#224; une t&#226;che.",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Promotion",
-    "EXAMPLE": "&nbsp;",
+    "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/campaign-fr.html\">Campagne</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html\">Page de compte rendu du rendement des services institutionnels</a>",
@@ -263,7 +263,7 @@
     "USE": "Donne une description de 1 ou 2 phrases pour d&#233;crire la loi, permet aux personnes de lire la loi, and relie la loi aux sujets, aux institutions, aux ministres et aux autres lois",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Destination",
-    "EXAMPLE": "&nbsp;",
+    "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/act-fr.html\">Profil d'une loi</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html\">Page de profil des ministres</a>",
@@ -277,7 +277,7 @@
     "USE": "Donne une description de 1 ou 2 phrases pour d&#233;crire le r&#232;glement, permet aux personnes de lire le r&#232;glement, and relie le r&#232;glement aux sujets, aux institutions, aux ministres et aux autres lois",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Destination",
-    "EXAMPLE": "&nbsp;",
+    "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/regulations-fr.html\">Profil d’un r&#232;glement</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html\">Page de profil organisationnel</a>",
@@ -340,7 +340,7 @@
     "USE": "D&#233;crit et explique un &#233;v&#233;nement officiel organis&#233; par le gouvernement et qui se d&#233;roule dans un contexte promotionnel. Fournit des renseignements tels que la date, l'heure, l'endroit et le public cible de l'&#233;v&#233;nement.",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Promotion",
-    "EXAMPLE": "&nbsp;",
+    "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/event-fr.html\">&#201;v&#233;nements promotionnels</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-index.html#facettes\">Page d'index &#224; facettes</a>",
