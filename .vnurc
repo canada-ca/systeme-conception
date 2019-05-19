@@ -5,11 +5,4 @@ Duplicate ID “element4”.
 Duplicate ID “element9”.
 Duplicate ID “element10”.
 Stray end tag “section”.
-Element “figcaption” not allowed as child of element “section” in this context. (Suppressing further errors from this subtree.)
 Attribute “_rte_temp_el” not allowed on element “sup” at this point.
-Duplicate attribute “de”.
-“<” in attribute name. Probable cause: “>” missing immediately before.
-A slash was not immediately followed by “>”.
-Element “bmodèle” not allowed as child of element “figcaption” in this context. (Suppressing further errors from this subtree.)
-End tag “figcaption” seen, but there were open elements.
-Unclosed element “bmodèle”.
