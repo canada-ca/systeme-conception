@@ -5,8 +5,6 @@ Duplicate ID “element4”.
 Duplicate ID “element9”.
 Duplicate ID “element10”.
 Stray end tag “section”.
-Element “li” not allowed as child of element “section” in this context. (Suppressing further errors from this subtree.)
-Stray end tag “ul”.
 Element “figcaption” not allowed as child of element “section” in this context. (Suppressing further errors from this subtree.)
 Attribute “_rte_temp_el” not allowed on element “sup” at this point.
 Duplicate attribute “de”.
