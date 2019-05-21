@@ -1,0 +1,7 @@
+# Ignoring current failures
+Stray end tag “div”.
+Duplicate ID “element3”.
+Duplicate ID “element4”.
+Duplicate ID “element9”.
+Duplicate ID “element10”.
+Stray end tag “section”.
