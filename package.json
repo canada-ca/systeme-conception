@@ -1,0 +1,23 @@
+{
+  "name": "systeme-conception",
+  "version": "1.0.0",
+  "description": "**Bibliothèque de conception Canada.ca - Modèles fondés sur des données probantes**",
+  "main": "index.js",
+  "scripts": {
+    "test": "java -Xss4m -jar node_modules/vnu-jar/build/dist/vnu.jar --errors-only --skip-non-html --filterfile .vnurc --no-langdetect ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canada-ca/systeme-conception.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canada-ca/systeme-conception/issues"
+  },
+  "homepage": "https://github.com/canada-ca/systeme-conception#readme",
+  "devDependencies": {
+    "vnu-jar": "^18.11.5"
+  }
+}

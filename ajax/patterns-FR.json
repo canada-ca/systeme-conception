@@ -4,7 +4,7 @@
     "USE": "Utilisez pour pr&#233;senter de nouveaux renseignements importants devant &#234;tre affich&#233;s dans un contexte pr&#233;-existant",
     "CAT": "Configuration de conception",
     "TYPE": "Visuel",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/v4/design/alerts-fr.html\">BOEW: Alertes</a>",
+    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/design/alerts-fr.html\">BOEW: Alertes</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/autres-renseignements.html\">Autres renseignements pour les</a>",
@@ -39,7 +39,7 @@
     "USE": "Les boutons sont des objets cliquables incitant une personne &#224; ex&#233;cuter une action",
     "CAT": "Configuration de conception",
     "TYPE": "Interaction, Visuel",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/v4/design/buttons-fr.html\">BOEW: Boutons</a>",
+    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/design/buttons-fr.html\">BOEW: Boutons</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/carrousels.html\">Carrousels</a>",
@@ -116,14 +116,14 @@
     "USE": "Les icônes repr&#233;sentent des symboles servant &#224; indiquer des actions &#224; prendre ou des &#233;tats",
     "CAT": "Configuration de conception",
     "TYPE": "Visuel",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/v4/design/icons-fr.html\">BOEW : Ic&#244;nes</a>",
+    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/design/icons-fr.html\">BOEW : Ic&#244;nes</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/images.html\">Images</a>",
     "USE": "Utilisez pour embellir ou rehausser un texte",
     "CAT": "Configuration de conception",
     "TYPE": "Visuel",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/v4/design/images-fr.html\">BOEW : Images</a>",
+    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/design/images-fr.html\">BOEW : Images</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/institution-responsable.html\">Institution responsable</a>",
