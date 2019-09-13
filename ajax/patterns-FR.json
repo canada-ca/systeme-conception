@@ -46,7 +46,7 @@
     "USE": "Uutilisez-le pour promouvoir de multiples activit&#233;s, initiatives, programmes et services",
     "CAT": "Configuration de conception",
     "TYPE": "Promotion, Visuel",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/demos/tabs/tabs-carousel-fr.html\">BOEW: Carrousels</a> – utilisez le style 2",
+    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/demos/tabs/tabs-carousel-fr.html\">BOEW: Carrousels</a> – Utilisez le style 2",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/ce-que-nous-faisons.html\">Ce que nous faisons</a>",
@@ -92,7 +92,7 @@
     "MANDATORY": "Obligatoire"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/diagrammes-graphiques.html\">Diagrammes et graphiques</a>",
-    "USE": "Utilisez comme technique de Visuelisation permettant de communiquer des donn&#233;es ou des statistiques",
+    "USE": "Utilisez comme technique de visualisation permettant de communiquer des donn&#233;es ou des statistiques",
     "CAT": "Configuration de conception",
     "TYPE": "Visuel",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/docs/ref/charts/charts-fr.html\">BOEW: Graphiques</a>",
@@ -155,7 +155,7 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/liens-telechargement.html\">Liens de t&#233;l&#233;chargement</a>",
-    "USE": "Utilisez pour renvoyer &#224; des ficherss de format autre que HTMl",
+    "USE": "Utilisez pour renvoyer &#224; des fichers de format autre que HTML",
     "CAT": "Configuration de conception",
     "TYPE": "Visuel",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/components-fr.html\">Exemples de composantes</a>",
@@ -218,7 +218,7 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-contactez-nous.html\">Page de coordonn&#233;es</a>",
-    "USE": "Fournit un mod&#232;le d'option de communication dans Canada.ca. Utilisez pour pr&#233;senter les coordonn&#233;&#224;&#224;es d'une personne, d'un bureau, d'une organisation ou pour des urgences.",
+    "USE": "Fournit un mod&#232;le d'option de communication dans Canada.ca. Utilisez pour pr&#233;senter les coordonn&#233;es d'une personne, d'un bureau, d'une organisation ou pour des urgences.",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Institutionnel",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/institution-contact-fr.html\">Page de coordonn&#233;es institutionnelles</a>",
@@ -281,7 +281,7 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html\">Page de profil organisationnel</a>",
-    "USE": "Donne un aper&#231;u du mandat, des programmes, des renseignements et des services d'une organisation associci&#233;&#233;e &#224; une institution du gouvernement du Canada - <strong>Mod&#232;le obligatoire</strong>",
+    "USE": "Donne un aper&#231;u du mandat, des programmes, des renseignements et des services d'une organisation associci&#233;e &#224; une institution du gouvernement du Canada - <strong>Mod&#232;le obligatoire</strong>",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Institutionnel",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/organizational-fr.html\">Profil organisationnel</a>",
