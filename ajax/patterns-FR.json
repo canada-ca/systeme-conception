@@ -1,7 +1,7 @@
 ﻿{
   "data": [{
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html\">Alertes contextuelles</a>",
-    "USE": "Utilisez pour pr&#233;senter de nouveaux renseignements importants devant &#234;tre affich&#233;s dans un contexte pr&#233;-existant",
+    "USE": "Utilisez pour pr&#233;senter de nouveaux renseignements importants devant &#234;tre affich&#233;s dans un contexte pr&#233;existant",
     "CAT": "Configuration de conception",
     "TYPE": "Visuel",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/design/alerts-fr.html\">BOEW: Alertes</a>",
