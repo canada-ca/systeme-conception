@@ -281,7 +281,7 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html\">Page de profil organisationnel</a>",
-    "USE": "Donne un aper&#231;u du mandat, des programmes, des renseignements et des services d'une organisation associci&#233;e &#224; une institution du gouvernement du Canada - <strong>Mod&#232;le obligatoire</strong>",
+    "USE": "Donne un aper&#231;u du mandat, des programmes, des renseignements et des services d'une organisation associ&#233;e &#224; une institution du gouvernement du Canada - <strong>Mod&#232;le obligatoire</strong>",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Institutionnel",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/organizational-fr.html\">Profil organisationnel</a>",
