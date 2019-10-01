@@ -70,6 +70,13 @@
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/topic-fr.html\">Sujet</a>",
     "MANDATORY": "Non"
   }, {
+    "NAME": "<a href=\"https://conception.canada.ca/styles/couleurs.html\">Couleurs</a>",
+    "USE": "Couleurs de Canada.ca - <strong>Conception obligatoire</strong>",
+    "CAT": "Style",
+    "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Non"
+  }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html\">Contenu r&#233;ductible</a>",
     "USE": "Utilisez pour cacher le contenu secondaire jusqu'&#224; ce que l'utilisateur le demande",
     "CAT": "Configuration de conception",
@@ -161,6 +168,13 @@
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/components-fr.html\">Exemples de composantes</a>",
     "MANDATORY": "Non"
   }, {
+    "NAME": "<a href=\"https://conception.canada.ca/styles/mises-en-page.html\">Mises en page</a>",
+    "USE": "Mises en page de Canada.ca - <strong>Conception obligatoire</strong>",
+    "CAT": "Style",
+    "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Non"
+  }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/menu-site.html\">Menu thématique</a>",
     "USE": "Utilisez sur toutes les pages comme navigation principale par th&#232me - <strong>Conception obligatoire</strong>",
     "CAT": "Configuration de conception",
@@ -190,18 +204,18 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/page-accueil.html\">Page d’accueil de Canada.ca</a>",
-    "USE": "Affiche les produits et services du gouvernement du Canada les plus vus et les plus importants - <strong>Mod&#232;le obligatoire</strong>",
+    "USE": "Affiche les produits et services du gouvernement du Canada les plus vus et les plus importants",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement",
     "EXAMPLE": "<a href=\"https://www.canada.ca/fr.html\">Page d'accueil sur le site en direct</a>",
-    "MANDATORY": "Obligatoire"
+    "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#accueil\">Page d'accueil des nouvelles</a>",
-    "USE": "Donne acc&#232;s aux produits de nouvelles du gouvernement du Canada - <strong>Mod&#232;le obligatoire</strong>",
+    "USE": "Donne acc&#232;s aux produits de nouvelles du gouvernement du Canada",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement",
     "EXAMPLE": "&nbsp;",
-    "MANDATORY": "Obligatoire"
+    "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-campagnes.html\">Page de campagne</a>",
     "USE": "Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, th&#233;matiques ou &#224; l’&#233;chelle du gouvernement du Canada qui durent pendant une p&#233;riode donn&#233;e. Ne l'utilisez pas pour le contenu essentiel &#224; une t&#226;che.",
@@ -302,25 +316,25 @@
     "MANDATORY": "Obligatoire"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-recherche.html\">Page de recherche</a>",
-    "USE": "Fournit la mise en page pour le moteur de recherche de Canada.ca - <strong>Mod&#232;le obligatoire</strong>",
+    "USE": "Fournit la mise en page pour le moteur de recherche de Canada.ca",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement",
     "EXAMPLE": "&nbsp;",
-    "MANDATORY": "Obligatoire"
+    "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#resultats\">Page de r&#233;sultats des nouvelles</a>",
-    "USE": "Permet aux personnes de trouver un produit de nouvelle en filtrant rapidement les r&#233;sultats en fonction de mots-cl&#233;s et de m&#233;tadonn&#233;es - <strong>Mod&#232;le obligatoire</strong>",
+    "USE": "Permet aux personnes de trouver un produit de nouvelle en filtrant rapidement les r&#233;sultats en fonction de mots-cl&#233;s et de m&#233;tadonn&#233;es",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement",
     "EXAMPLE": "&nbsp;",
-    "MANDATORY": "Obligatoire"
+    "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/page-ministeres-organismes.html\">Page des minist&#232;res et organismes</a>",
-    "USE": "Fournit des liens vers toutes les institutions f&#233;d&#233;rales - <strong>Mod&#232;le obligatoire</strong>",
+    "USE": "Fournit des liens vers toutes les institutions f&#233;d&#233;rales",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/dept-fr.html\">Minist&#232;res et organismes</a>",
-    "MANDATORY": "Obligatoire"
+    "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/page-sujet.html\">Page de sujet</a>",
     "USE": "Permet aux personnes de d&#233;couvrir des services et des renseignements li&#233;s &#224; un sujet pr&#233;cis dans l’ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
@@ -446,6 +460,13 @@
     "CAT": "Configuration de conception",
     "TYPE": "Institutionnel, Visuel",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/widgets-fr.html\">Restez branch&#233;s</a>",
+    "MANDATORY": "Non"
+  }, {
+    "NAME": "<a href=\"https://conception.canada.ca/styles/typographie.html\">Typographie</a>",
+    "USE": "Typographie de Canada.ca - <strong>Conception obligatoire</strong>",
+    "CAT": "Style",
+    "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
+    "EXAMPLE": "&nbsp;",
     "MANDATORY": "Non"
     }]
 }
