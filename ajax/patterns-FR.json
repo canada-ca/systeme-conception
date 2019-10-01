@@ -71,7 +71,7 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/styles/couleurs.html\">Couleurs</a>",
-    "USE": "Couleurs de Canada.ca - <strong>Conception obligatoire</strong>",
+    "USE": "Couleurs de Canada.ca - <strong>Style obligatoire</strong>",
     "CAT": "Style",
     "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
     "EXAMPLE": "&nbsp;",
@@ -169,7 +169,7 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/styles/mises-en-page.html\">Mises en page</a>",
-    "USE": "Mises en page de Canada.ca - <strong>Conception obligatoire</strong>",
+    "USE": "Mises en page de Canada.ca - <strong>Style obligatoire</strong>",
     "CAT": "Style",
     "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
     "EXAMPLE": "&nbsp;",
@@ -463,7 +463,7 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/styles/typographie.html\">Typographie</a>",
-    "USE": "Typographie de Canada.ca - <strong>Conception obligatoire</strong>",
+    "USE": "Typographie de Canada.ca - <strong>Style obligatoire</strong>",
     "CAT": "Style",
     "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
     "EXAMPLE": "&nbsp;",
