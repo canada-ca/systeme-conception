@@ -206,9 +206,9 @@
 <p>Cette configuration permet au contenu d'être masqué jusqu'à ce que l'utilisateur le demande. Le modèle comprend un lien de déclenchement qui affiche ou masque le contenu réductible.</p>
 
 <div class="pattern-demo">
-  <p>Exemple de contnu affichable/masquable:</p>
+  <p>Exemple :</p>
   <details>
-    <summary>Cette section peut être affichée ou masquée</summary>
+    <summary>L'utilisateur doit cliquer sur cette zone pour afficher ou masquer le contenu</summary>
     <p>Ce texte est masqué jusqu'à ce qu'il soit affiché.</p>
   </details>
 </div>
@@ -227,12 +227,9 @@
 <section>
 
 <h2 id="rationale">Quand l'utiliser</h2>
-<p>Du contenu affichable/masquable peut être utilisé dans 2 situations : </p>
-<ul>
-	<li>présenter un choix lorsque les réponses s'excluent mutuellement, ce qui signifie qu'elles ne se chevauchent pas</li>
-	<li>présenter des renseignements secondaires</li>
-</ul>
-<h3>Choix entre des réponses qui s'excluent mutuellement</h3>
+<p>La configuration de contenu affichable/masquable peut être utilisée dans 2 situations : </p>
+
+<h3>Présnter un choix entre des réponses qui s'excluent mutuellement</h3>
 <p>Utilisez cette configuration lorsque les personnes doivent obtenir des réponses différentes en fonction de leur situation et que ces réponses s'excluent mutuellement.</p>
 <p>Cela réduit le risque que les gens pensent à tort qu’ils obtiennent la réponse qui s’applique à leur situation.</p>
 <h3>Présenter des renseignements secondaires</h3>
@@ -244,19 +241,19 @@
 <h2 id="cautions">Quoi éviter</h2>
 <p>N'utilisez pas cette configuration pour du contenu dont a besoin la majorité des personnes pour accomplir la tâche principale de la page, à moins que vous ne l'utilisiez pour des réponses mutuellement exclusives. </p>
 
-<p>N'utilisez pas ce composant si:</p>
+<p>N'utilisez pas cete configuration si:</p>
 <ul>
-  <li>les gens doivent répondent à plusieurs questions pour obtenir la réponse qui leur convient</li>
-  <li>l'une des réponses mutuellement exclusives comporte plusieurs sous-tâches ou plus d'une page de contenu de soutien </li>
+	<li>la majorité des gens a besoin de ce contenu pour accomplir la tâche principale de la page (sauf si les réponses mutuellement exclusives) </li>
+	<li>les gens doivent répondent à plusieurs questions pour obtenir la réponse qui leur convient (utilisez plutôt les <a href="../common-design-patterns/interactive-questions.html"> questions interactives</a>)</li>
+  <li>l'une des réponses mutuellement exclusives comporte plusieurs sous-tâches ou plus d'une page de contenu de soutien (utilisez plutôt les <a href="../common-design-patterns/interactive-questions.html"> questions interactives</a>) </li>
 </ul>
 
-<p>Dans ces cas, utilisez plutôt les <a href="../common-design-patterns/interactive-questions.html"> questions interactives</a>.</p>
 
 </section>
 <section>
 <h2 id="how">Mise en oeuvre et exemple</h2>
 <p>Utilisez seulement le <a href="http://wet-boew.github.io/wet-boew/demos/details/details-fr.html">composant «&nbsp;<span lang="en">Details/Summary</span>&nbsp;» (contenu affichable/masquable)</a> de la <abbr title="Boîte à outils de l’expérience Web">BOEW</abbr> pour ce modèle.</p>
-<h3>Choix entre des réponses qui s'excluent mutuellement</h3>
+<h3>Présenter un choix entre des réponses qui s'excluent mutuellement</h3>
 <div class="pattern-demo">
   <h3>Déterminez si vous êtes dans une situation de garde partagée</h3>
   <p>L'enfant passe-t-il son temps :</p>
@@ -373,7 +370,7 @@
     </section>
     <section>
 			<h2 id="research">Recherche</h2>
-			<p>L'utilisation de contenu affichable/masquable afin d'inciter les gens à choisir entre plusieurs options a été testée avec succès dans le cadre de 2 projets d'optimisation effectués avec du contenu de l'Agence de revenu du Canada.</dd>
+			<p>L'utilisation de la configuration de contenu affichable/masquable, afin d'inciter les gens à choisir entre plusieurs options, a été testée avec succès dans le cadre de 2 projets d'optimisation effectués avec du contenu de l'Agence de revenu du Canada.</dd>
 			</p>
 
 			<h2 id="changes">Derniers changements</h2>
