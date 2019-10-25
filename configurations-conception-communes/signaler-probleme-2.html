@@ -217,7 +217,7 @@
 <section>
 
 	<section>
-      <h2>Sur cette pag</h2>
+      <h2>Sur cette page</h2>
       <ul>
         <li><a href="#quand">Quand l'utiliser</a></li>
       	<li><a href="#eviter">Quoi éviter</a></li>
@@ -305,7 +305,7 @@
 																	<label for="problem5"><input type="checkbox" data-reveal="#find" name="problem" value="I can’t find what I’m looking for" id="problem5">Je ne trouve pas ce que je cherche</label>
 																</div>
 																<div class="form-group hide" id="find">
-																	<label for="problem5-detail">Fournissez plus de détails (facultatif) :</label>
+																	<label for="problem5-detail">Décrivez ce que vous recherchez (facultatif) :</label>
 																	<input type="text" class="form-control full-width" id="problem5-detail">
 																</div>
 																<div class="checkbox">
@@ -343,54 +343,54 @@
 													<summary>Code</summary>
 													<pre class="prettyprint"><code>&#x3C;div class=&#x22;row&#x22;&#x3E;
  &#x3C;div class=&#x22;col-sm-6 col-md-5 col-lg-4&#x22;&#x3E;
-  &#x3C;details class=&#x22;brdr-0&#x22; open=&#x22;&#x22;&#x3E;
+  &#x3C;details class=&#x22;brdr-0&#x22; closed&#x3E;
    &#x3C;summary class=&#x22;btn btn-default text-center&#x22;&#x3E;Signaler un probl&#xE8;me sur cette page&#x3C;/summary&#x3E;
    &#x3C;div class=&#x22;well row&#x22;&#x3E;
     &#x3C;div class=&#x22;gc-rprt-prblm&#x22;&#x3E;
-     &#x3C;div class=&#x22;gc-rprt-prblm-tggl&#x22; id=&#x22;wb-auto-7&#x22;&#x3E;
-      &#x3C;form action=&#x22;#&#x22;&#x3E;
+     &#x3C;div class=&#x22;gc-rprt-prblm-tggl&#x22;&#x3E;
+      &#x3C;form id=&#x22;gc-rprt-prblm-form&#x22; action=&#x22;#&#x22; method=&#x22;post&#x22;&#x3E;
        &#x3C;fieldset&#x3E;
-        &#x3C;legend&#x3E;&#x3C;span class=&#x22;field-name&#x22;&#x3E;Please select all that apply: &#x3C;/span&#x3E;&#x3C;/legend&#x3E;
+        &#x3C;legend&#x3E;&#x3C;span class=&#x22;field-name&#x22;&#x3E;Veuillez cocher toutes les réponses qui s'appliquent : &#x3C;/span&#x3E;&#x3C;/legend&#x3E;
         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem1&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#broken&#x22; name=&#x22;problem&#x22; value=&#x22;Something is broken&#x22; id=&#x22;problem1&#x22;&#x3E;Something is broken&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem1&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#broken&#x22; name=&#x22;problem&#x22; value=&#x22;Something is broken&#x22; id=&#x22;problem1&#x22;&#x3E;Quelque chose ne fonctionne pas&#x3C;/label&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;broken&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem1-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem1-detail&#x22;&#x3E;Fournissez plus de détails (facultatif) :&#x3C;/label&#x3E;
          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem1-detail&#x22;&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem2&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#spelling&#x22; name=&#x22;problem&#x22; value=&#x22;It has spelling or grammar mistakes&#x22; id=&#x22;problem2&#x22;&#x3E;It has spelling or grammar mistakes&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem2&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#spelling&#x22; name=&#x22;problem&#x22; value=&#x22;It has spelling or grammar mistakes&#x22; id=&#x22;problem2&#x22;&#x3E;Il y a une erreur d'orthographe ou de grammaire&#x3C;/label&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;spelling&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem2-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem2-detail&#x22;&#x3E;Fournissez plus de détails (facultatif) :&#x3C;/label&#x3E;
          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem2-detail&#x22;&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem3&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#wrong&#x22; name=&#x22;problem&#x22; value=&#x22;The information is wrong&#x22; id=&#x22;problem3&#x22;&#x3E;The information is wrong&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem3&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#wrong&#x22; name=&#x22;problem&#x22; value=&#x22;The information is wrong&#x22; id=&#x22;problem3&#x22;&#x3E;L'informaton est erronée&#x3C;/label&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;wrong&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem3-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem3-detail&#x22;&#x3E;Fournissez plus de détails (facultatif) :&#x3C;/label&#x3E;
          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem3-detail&#x22;&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem4&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#outdated&#x22; name=&#x22;problem&#x22; value=&#x22;The information is outdated&#x22; id=&#x22;problem4&#x22;&#x3E;The information is outdated&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem4&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#outdated&#x22; name=&#x22;problem&#x22; value=&#x22;The information is outdated&#x22; id=&#x22;problem4&#x22;&#x3E;L'information n'est plus à jour&#x3C;/label&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;outdated&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem4-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem4-detail&#x22;&#x3E;Fournissez plus de détails (facultatif) :&#x3C;/label&#x3E;
          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem4-detail&#x22;&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem5&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#find&#x22; name=&#x22;problem&#x22; value=&#x22;I can&#x2019;t find what I&#x2019;m looking for&#x22; id=&#x22;problem5&#x22;&#x3E;I can&#x2019;t find what I&#x2019;m looking for&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem5&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#find&#x22; name=&#x22;problem&#x22; value=&#x22;I can&#x2019;t find what I&#x2019;m looking for&#x22; id=&#x22;problem5&#x22;&#x3E;Je ne trouve pas ce que je cherche&#x3C;/label&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;find&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem5-detail&#x22;&#x3E;Describe what you&#x2019;re looking for (optional):&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem5-detail&#x22;&#x3E;Décrivez ce que vous recherchez (facultatif) :&#x3C;/label&#x3E;
          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem5-detail&#x22;&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;checkbox&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem6&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#confusing&#x22; name=&#x22;problem&#x22; value=&#x22;Other&#x22; id=&#x22;problem6&#x22;&#x3E;Other&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem6&#x22;&#x3E;&#x3C;input type=&#x22;checkbox&#x22; data-reveal=&#x22;#confusing&#x22; name=&#x22;problem&#x22; value=&#x22;Other&#x22; id=&#x22;problem6&#x22;&#x3E;Autre&#x3C;/label&#x3E;
         &#x3C;/div&#x3E;
         &#x3C;div class=&#x22;form-group hide&#x22; id=&#x22;confusing&#x22;&#x3E;
-         &#x3C;label for=&#x22;problem6-detail&#x22;&#x3E;Provide more details (optional):&#x3C;/label&#x3E;
+         &#x3C;label for=&#x22;problem6-detail&#x22;&#x3E;Fournissez plus de détails (facultatif) :&#x3C;/label&#x3E;
          &#x3C;input type=&#x22;text&#x22; class=&#x22;form-control full-width&#x22; id=&#x22;problem6-detail&#x22;&#x3E;
         &#x3C;/div&#x3E;
        &#x3C;/fieldset&#x3E;
@@ -398,8 +398,8 @@
       &#x3C;/form&#x3E;
      &#x3C;/div&#x3E;
      &#x3C;div class=&#x22;gc-rprt-prblm-thnk gc-rprt-prblm-tggl hide&#x22; id=&#x22;wb-auto-8&#x22;&#x3E;
-      &#x3C;h3&#x3E;Thank you for your help!&#x3C;/h3&#x3E;
-      &#x3C;p&#x3E;You will not receive a reply. For enquiries, please &#x3C;a href=&#x22;https://www.canada.ca/en/contact.html&#x22;&#x3E;contact us&#x3C;/a&#x3E;.&#x3C;/p&#x3E;
+      &#x3C;h3&#x3E;Merci de votre aide!&#x3C;/h3&#x3E;
+      &#x3C;p&#x3E;Vous ne recevrez pas de réponse. Pour toute question, &#x3C;a href=&#x22;https://www.canada.ca/fr/contact.html&#x22;&#x3E;communiquez avec nous&#x3C;/a&#x3E;.&#x3C;/p&#x3E;
      &#x3C;/div&#x3E;
     &#x3C;/div&#x3E;
    &#x3C;/div&#x3E;
@@ -407,6 +407,7 @@
  &#x3C;/div&#x3E;
 &#x3C;/div&#x3E;</code></pre>
 												</details>
+
 											</section>
 
 											<h2 id="discussion">Discussion</h2>
