@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Contenu affichable/masquable - Configuration de conception de Canada.ca de Canada.ca - Canada.ca</title>
+		<title>Afficher/Masquer - Configuration de conception de Canada.ca de Canada.ca - Canada.ca</title>
 
 		<meta content="width=device-width,initial-scale=1" name="viewport">
 
@@ -199,11 +199,11 @@
 <main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
 
 
-<h1 property="name" id="wb-cont" dir="ltr">Contenu affichable/masquable - Configuration de conception de Canada.ca</h1>
+<h1 property="name" id="wb-cont" dir="ltr">Afficher/masquer - Configuration de conception de Canada.ca</h1>
 
 <p class="gc-byline"><strong>De : Secrétariat du Conseil du Trésor du Canada</strong></p>
 
-<p>Cette configuration permet au contenu d'être masqué jusqu'à ce que l'utilisateur le demande. Le modèle comprend un lien de déclenchement qui affiche ou masque le contenu réductible.</p>
+<p>Le modèle afficher/masquer (aussi appelé accordéon) permet de masquer le contenu jusqu'à ce que l'utilisateur le demande. Le modèle comprend un lien de déclenchement qui affiche ou masque le contenu.</p>
 
 <div class="pattern-demo">
   <p>Exemple :</p>
@@ -227,32 +227,31 @@
 <section>
 
 <h2 id="rationale">Quand l'utiliser</h2>
-<p>La configuration de contenu affichable/masquable peut être utilisée dans 2 situations : </p>
+<p>Le modèle afficher/masquer peut être utilisé dans 2 situations : </p>
 
-<h3>Présnter un choix entre des réponses qui s'excluent mutuellement</h3>
-<p>Utilisez cette configuration lorsque les personnes doivent obtenir des réponses différentes en fonction de leur situation et que ces réponses s'excluent mutuellement.</p>
-<p>Cela réduit le risque que les gens pensent à tort qu’ils obtiennent la réponse qui s’applique à leur situation.</p>
+<h3>Présenter un choix entre des réponses mutuellement exclusives</h3>
+<p>Utilisez ce modèle lorsque les gens doivent obtenir des réponses différentes en fonction de leur situation et que ces réponses sont mutuellement exclusives.</p>
+<p>Cela réduit le risque que les gens pensent à tort qu’ils ont obtenu la réponse qui s’applique à leur situation.</p>
 <h3>Présenter des renseignements secondaires</h3>
-<p>Utilisez cette configuration pour empêcher le contenu secondaire de faire obstacle à la tâche principale. </p>
-<p>Il peut s'agir de contenu qui s'applique à la plupart des utilisateurs, mais que seules quelques personnes peuvent avoir besoin d'utiliser (par exemple, une déclaration de confidentialité ou des renseignements supplémentaires qui ne sont pas nécessaires pour accomplir la tâche principale).</p>
-<p>Il peut également s'agir de contenu qui ne s'applique qu'à une minorité de personnes (comme lorsqu'il existe des renseignents spécifiques destinées à un public spécifique).</p>
+<p>Utilisez ce modèle pour éviter que le contenu secondaire n'interfère avec la tâche principale. </p>
+<p>Il peut s'agir d'un contenu qui s'applique à la plupart des gens, mais que seules quelques personnes peuvent avoir besoin d'utiliser (par exemple, une déclaration de confidentialité ou des renseignements supplémentaires qui ne sont pas nécessaires pour accomplir la tâche principale).</p>
+<p>Il peut également s'agir d'un contenu qui ne s'applique qu'à une minorité de personnes (par exemple lorsqu'il existe des renseignements spécifiques destinées à un public spécifique).</p>
 </section>
 <section>
 <h2 id="cautions">Quoi éviter</h2>
-<p>N'utilisez pas cette configuration pour du contenu dont a besoin la majorité des personnes pour accomplir la tâche principale de la page, à moins que vous ne l'utilisiez pour des réponses mutuellement exclusives. </p>
 
-<p>N'utilisez pas cete configuration si:</p>
+<p>N'utilisez pas ce modèle si:</p>
 <ul>
-	<li>la majorité des gens a besoin de ce contenu pour accomplir la tâche principale de la page (sauf si les réponses mutuellement exclusives) </li>
-	<li>les gens doivent répondent à plusieurs questions pour obtenir la réponse qui leur convient (utilisez plutôt les <a href="../common-design-patterns/interactive-questions.html"> questions interactives</a>)</li>
-  <li>l'une des réponses mutuellement exclusives comporte plusieurs sous-tâches ou plus d'une page de contenu de soutien (utilisez plutôt les <a href="../common-design-patterns/interactive-questions.html"> questions interactives</a>) </li>
+	<li>la majorité des gens ont besoin du contenu pour accomplir la tâche principale de la page (sauf si les réponses sont mutuellement exclusives) </li>
+	<li>les gens doivent répondre à plusieurs questions pour obtenir la réponse qui s'appliquent à eux (utilisez plutôt des <a href="../common-design-patterns/interactive-questions.html"> questions interactives</a>)</li>
+  <li>l'une des réponses mutuellement exclusives comporte plusieurs sous-tâches ou plus d'une page de contenu à l'appui (utilisez plutôt des <a href="../common-design-patterns/interactive-questions.html"> questions interactives</a>) </li>
 </ul>
 
 
 </section>
 <section>
-<h2 id="how">Mise en oeuvre et exemple</h2>
-<h3>Présenter un choix entre des réponses qui s'excluent mutuellement</h3>
+<h2 id="how">Exemple et code</h2>
+<h3>Présenter un choix entre des réponses mutuellement exclusives</h3>
 <div class="pattern-demo">
   <h3>Déterminez si vous êtes dans une situation de garde partagée</h3>
   <p>L'enfant passe-t-il son temps :</p>
@@ -369,14 +368,14 @@
     </section>
     <section>
 			<h2 id="research">Recherche</h2>
-			<p>L'utilisation de la configuration de contenu affichable/masquable, afin d'inciter les gens à choisir entre plusieurs options, a été testée avec succès dans le cadre de 2 projets d'optimisation effectués avec du contenu de l'Agence de revenu du Canada.</dd>
+			<p>L'utilisation du modèle afficher/masquer pour inciter les gens à choisir entre différentes options, a été testée avec succès dans le cadre de 2 projets d'optimisation réalisés avec du contenu de l'Agence de revenu du Canada.</dd>
 			</p>
 
 			<h2 id="changes">Derniers changements</h2>
-			<p><strong>2019-10-25:</strong> les lignes directrices ont été modifiées pour permettre l'utilisation du contenu affichable/masquable pour des réponses qui s'excluent mutuellement.</p>
+			<p><strong>2019-10-31:</strong> les directives ont été modifiées pour permettre d'afficher/masquer du contenu pour des réponses qui sont mutuellement exclusives.</p>
 
 			<h2 id="discuss">Discussion</h2>
-			<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discutez de cette configuration dans GitHub</a></p>
+			<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discutez de ce modèle dans GitHub</a></p>
 
 
 
