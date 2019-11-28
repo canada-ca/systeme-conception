@@ -1,4 +1,4 @@
-﻿{
+{
   "data": [{
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html\">Alertes contextuelles</a>",
     "USE": "Utilisez pour pr&#233;senter de nouveaux renseignements importants devant &#234;tre affich&#233;s dans un contexte pr&#233;existant",
@@ -137,14 +137,14 @@
     "USE": "Lien vers l’institution responsable du contenu",
     "CAT": "Configuration de conception",
     "TYPE": "Institutionnel",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/content-fr.html\">Page de contenu</a>",
+    "EXAMPLE": "<a href=\"https://conception.canada.ca/mise-en-page/generique-institution.html\">Page de base avec institution responsable</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/interface-onglets.html\">Interface &#224; onglets</a>",
     "USE": "R&#233;partit le contenu entre diff&#233;rentes fen&#234;tres que l’on peut consulter une &#224; la fois ",
     "CAT": "Configuration de conception",
     "TYPE": "Navigation",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/act-fr.html\">Profil d'une loi</a>",
+    "EXAMPLE": "<a href=\"https://conception.canada.ca/mise-en-page/generique-onglet.html\">Page de base avec interface à onglets</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/changer-langue.html\">Lien pour changer de langue</a>",
@@ -182,6 +182,13 @@
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "Obligatoire"
   }, {
+	"NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/generique.html\">Mise en page de base</a>",
+    "USE": "Mise en page de base des pages de Canada.ca.",
+    "CAT": "Mod&#232;le de page",
+    "TYPE": "Destination",
+    "EXAMPLE": "<a href=\"https://conception.canada.ca/mise-en-page/generique-base.html\">Page de base</a>",
+    "MANDATORY": "Non"
+  }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/multimedia.html\">Multim&#233;dia (vid&#233;o et audio)</a>",
     "USE": "Utilisez pour compl&#233;ter ou rehausser le texte",
     "CAT": "Configuration de conception",
@@ -193,7 +200,7 @@
     "USE": "Ensemble de liens dirigeant vers un groupe form&#233; de plusieurs pages qui devraient &#234;tre lues dans un ordre de pr&#233;f&#233;rence",
     "CAT": "Configuration de conception",
     "TYPE": "Navigation",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/advancedservice/index-fr.html\">Lancement d'un service</a>",
+    "EXAMPLE": "<a href=\"https://conception.canada.ca/mise-en-page/generique-sit1.html\">Page de base avec navigation dans plusieurs pages ordonnées</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/nouveautes.html\">Nouveaut&#233;s</a>",
@@ -294,18 +301,11 @@
     "EXAMPLE": "<a href=\"https://wet-boew.github.io/themes-dist/GCWeb/regulations-fr.html\">Profil d’un r&#232;glement</a>",
     "MANDATORY": "Non"
   }, {
-    "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html\">Page de profil organisationnel</a>",
-    "USE": "Donne un aper&#231;u du mandat, des programmes, des renseignements et des services d'une organisation associ&#233;e &#224; une institution du gouvernement du Canada - <strong>Mod&#232;le obligatoire</strong>",
+    "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html\">Page d'accueil institutionnelle</a>",
+    "USE": "Page d'accueil pour les institutions et organismes du gouvernement du Canada. - <strong>Mod&#232;le obligatoire</strong>",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Institutionnel",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/organizational-fr.html\">Profil organisationnel</a>",
-    "MANDATORY": "Obligatoire"
-  }, {
-    "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html\">Page de profil institutionnel</a>",
-    "USE": "Donne un aper&#231;u du mandat, des programmes, des renseignements et des services de l'institution - <strong>Mod&#232;le obligatoire</strong>",
-    "CAT": "Mod&#232;le de page",
-    "TYPE": "Institutionnel",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/institution-fr.html\">Profil institutionnel</a>",
+    "EXAMPLE": "<a href=\"https://conception.canada.ca/mise-en-page/accueil-institution-ng.html\">Gabarit de page d'accueil institutionnelle</a>",
     "MANDATORY": "Obligatoire"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-publics-cibles.html\">Page de public cible &#224; l'&#233;chelle du gouvernement</a>",
@@ -452,7 +452,14 @@
     "USE": "Liste de liens dirigeant vers des sous-sections de la m&#234;me page",
     "CAT": "Configuration de conception",
     "TYPE": "Navigation",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/components-fr.html\">Exemples de composantes</a>",
+    "EXAMPLE": "<a href=\"https://conception.canada.ca/mise-en-page/generique-toc.html\">Page de base avec table des mati&#232;res</a>",
+    "MANDATORY": "Non"
+  }, {
+	"NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/transparence.html\">Transparence et rapports sur l'organisation</a>",
+    "USE": "Une page de rapports sur l'organisation fournit une divulgation proactive des renseignements offerts par cette institutions",
+    "CAT": "Mod&#232;le de page",
+    "TYPE": "Institutionnel",
+    "EXAMPLE": "<a href=\"https://conception.canada.ca/mise-en-page/transparence_ng.html\">Mod&#232;le de transparence</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/widget-medias-sociaux.html\">Widget des r&#233;seaux de m&#233;dias sociaux</a>",
