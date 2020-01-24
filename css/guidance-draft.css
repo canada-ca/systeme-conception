@@ -84,6 +84,12 @@
   } 
 }
 
+@media only screen and (max-width: 768px) {
+  .fr .guidance-toggle {
+    padding: 5px 10px;
+  }
+}
+
 @media only screen and (max-width: 375px) {
   .guidance-ban-nav .btn-group .btn {
     padding-left: 0px;
