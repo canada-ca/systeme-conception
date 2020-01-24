@@ -84,7 +84,7 @@
   } 
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 991px) {
   .fr .guidance-toggle {
     padding: 5px 10px;
   }
