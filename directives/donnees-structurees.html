@@ -255,19 +255,19 @@
 
 	<h4>Ajouter un script JSON-LD</h4>
 	<ul>
-	<li>le script est ajouté séparément du contenu HTML</li>
-	<li>un peu moins complexe à coder que RDFa, car vous pouvez coller un script et ajuster les valeurs, plutôt que d'ajouter des balises aux bons endroits dans le code</li>
-	<li>implique davantage de duplication de contenu que du code RDFa</li>
-	<li>augmente le risque de conflit avec les données structurées générées par le système de gestion du contenu</li>
+	<li>le script est ajouté sous la forme d'extrait de code séparé du contenu de la page</li>
+	<li>un exemple de code peut être copié/collé et les valeurs ajustées</li>
+	<li>nécessite une duplication du contenu</li>
+	<li>risque de conflit avec les données structurées déjà intégrées dans les gabarits de la BOEW</li>
 	<li>méthode recommandée par Google</li>
 	</ul>
 
 	<h4>Ajouter du code RDFa </h4>
 	<ul>
-	<li>les balises sont ajoutées directement dans le contenu HTML</li>
-	<li>le code RDFa est légèrement plus complexe à coder qu'un script JSON-LD car vous devez ajouter des balises aux bons endroits, plutôt que de simplement coller un script et ajuster les valeurs</li>
-	<li>implique moins de duplication de contenu que JSON-LD</li>
-	<li>diminue le risque de conflit avec les données structurées générées par le système de gestion du contenu</li>
+	<li>les attributs sont ajoutés aux éléments individuels de la page</li>
+	<li>peut nécessiter l'ajout d'éléments supplémentaires au code afin de créer une structure, tels que <code>section</code>, <code>div</code> et <code>span</code>.</li>
+	<li>pas de duplication de contenu</li>
+	<li>risque de conflit avec les données structurées déjà intégrées dans les gabarits de la BOEW</li>
 	</ul>
 
 
@@ -275,8 +275,8 @@
 	<h3>Étape 3 : Tester le code de données structurées</h3>
   <p>Vous pouvez copier des extraits de code ou des URL complètes pour tester le code avec différents outils :</p>
 	<ul>
-					<li><a href="https://search.google.com/test/rich-results">Tests de résultats de recherche riches</a> (en anglais seulement)</li>
-					<li><a href="https://search.google.com/structured-data/testing-tool/u/0/">Test de données structurées</a> (en anglais seulement)</li>
+					<li><a href="https://search.google.com/test/rich-results">Tests de résultats de recherche riches</a> (en anglais seulement) : montre quels types de résultats riches (supportés par Google) ont été trouvés sur la page, ainsi que toute erreur ou suggestion concernant vos données structurées.</li>
+					<li><a href="https://search.google.com/structured-data/testing-tool/u/0/">Test de données structurées</a> (en anglais seulement) : valide les données structurées.</li>
 	</ul>
 	<p>Les deux outils devraient donner le même résultat. En collant le code, vous pouvez voir s'il est valide et si les valeurs attribuées aux différents champs sont correctes.</p>
 
@@ -462,30 +462,29 @@ type="application/ld+json"&gt;
 				</details>
 				<details>
 					<summary>RDFa</summary>
-					<pre class="prettyprint"><code>&lt;main property="mainContentOfPage" class="container"&gt;
-&lt;div class="container" vocab="http://schema.org/" typeof="FAQPage"&gt;
-&lt;h1 property="name" id="wb-cont"&gt;Allocation canadienne pour enfants
- - Combien vous pourriez recevoir&lt;/h1&gt;
-&lt;div property="mainEntity" vocab="http://schema.org/" typeof="Question"&gt;
- &lt;h2 id="estimate" property="name"&gt;Calcul des versements&lt;/h2&gt;
-  &lt;div property="acceptedAnswer" vocab="http://schema.org/" typeof="Answer"&gt;
-   &lt;span property = "text"&gt;
-    &lt;p&gt;Utilisez le Calculateur de prestations pour enfants et familles pour mieux planifier votre budget et connaître le montant que vous pourriez recevoir.&lt;/p&gt;
-    &lt;a href="https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/calculateur-prestations-enfants-familles.html" class="btn btn-call-to-action"&gt;&lt;i class="fas fa-calculator"&gt;&lt;/i&gt;&nbsp; Calculez combien vous pourriez recevoir&lt;/a&gt;
-   &lt;/span&gt;
+					<pre class="prettyprint"><code>&lt;div class="container" typeof="schema:FAQPage"&gt;
+ &lt;h1 property="schema:name" id="wb-cont"&gt;Allocation canadienne pour enfants
+  - Combien vous pourriez recevoir&lt;/h1&gt;
+ &lt;section property="schema:mainEntity" typeof="schema:Question"&gt;
+  &lt;h2 id="estimate" property="schema:name"&gt;Calcul des versements&lt;/h2&gt;
+  &lt;div property="schema:acceptedAnswer" typeof="schema:Answer"&gt;
+   &lt;p property="schema:text"&gt;Utilisez le Calculateur de prestations pour enfants et familles pour mieux planifier votre budget et connaître le montant que vous pourriez recevoir.&lt;/p&gt;
+	 &lt;a href="https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/calculateur-prestations-enfants-familles.html" class="btn btn-call-to-action"&gt;&lt;i class="fas fa-calculator"&gt;&lt;/i&gt;&nbsp; Calculez combien vous pourriez recevoir&lt;/a&gt;
+   &lt;/p&gt;
   &lt;/div&gt;
-  &lt;div property="mainEntity" vocab="http://schema.org/" typeof="Question"&gt;
-   &lt;h2 id="shared" property="name"&gt;Garde partagée et vos versements&lt;/h2&gt;
-   &lt;div property="acceptedAnswer" vocab="http://schema.org/" typeof="Answer"&gt;
-    &lt;span property = "text"&gt;
-     &lt;p&gt;En situation de garde partagée, chaque parent reçoit 50 % du montant lié à son revenu familial net rajusté qu’il recevrait s’il avait la garde complète de son enfant.
-     &lt;/p&gt;
-     &lt;p&gt;Si l’Agence du revenu du Canada (ARC) considère que votre enfant est en garde partagée, l'ARC ne fractionne pas ce montant selon d’autres pourcentages, et elle n’accorde pas le montant complet à un seul des parents.
-     &lt;/p&gt;
-     &lt;p&gt;Si un enfant vit avec vous &lt;strong&gt;à temps partiel&lt;/strong&gt;, go to  &lt;a href="https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants-apercu/allocation-canadienne-enfants-avant-faire-demande.html#shared"&gt;Ententes de garde et vos prestations&lt;/a&gt; pour déterminer s’il s’agit d’une situation de garde partagée.&lt;/p&gt;
-   &lt;/span&gt;
+ &lt;/section&gt;
+ &lt;section property="schema:mainEntity" typeof="schema:Question"&gt;
+  &lt;h2 id="shared" property="schema:name"&gt;Garde partagée et vos versements&lt;/h2&gt;
+  &lt;div property="schema:acceptedAnswer" typeof="schema:Answer"&gt;
+   &lt;div property="schema:text"&gt;
+    &lt;p&gt;En situation de garde partagée, chaque parent reçoit 50 % du montant lié à son revenu familial net rajusté qu’il recevrait s’il avait la garde complète de son enfant.
+    &lt;/p&gt;
+    &lt;p&gt;Si l’Agence du revenu du Canada (ARC) considère que votre enfant est en garde partagée, l'ARC ne fractionne pas ce montant selon d’autres pourcentages, et elle n’accorde pas le montant complet à un seul des parents.
+    &lt;/p&gt;
+    &lt;p&gt;Si un enfant vit avec vous &lt;strong&gt;à temps partiel&lt;/strong&gt;, go to  &lt;a href="https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants-apercu/allocation-canadienne-enfants-avant-faire-demande.html#shared"&gt;Ententes de garde et vos prestations&lt;/a&gt; pour déterminer s’il s’agit d’une situation de garde partagée.&lt;/p&gt;
+   &lt;/div&gt;
   &lt;/div&gt;
- &lt;/div&gt;
+ &lt;/section&gt;
 &lt;/div&gt;</code></pre>
 				</details>
 			</div>
