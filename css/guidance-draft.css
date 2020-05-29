@@ -84,13 +84,7 @@
   } 
 }
 
-@media only screen and (max-width: 991px) {
-  .fr .guidance-toggle {
-    padding: 5px 10px;
-  }
-}
-
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 370px) {
   .guidance-ban-nav .btn-group .btn {
     padding-left: 0px;
     padding-right: 0px;
@@ -100,14 +94,6 @@
   }
   .guidance-nav a {
     max-width: 22ch;
-  }
-  .guidance-ban-nav.fr .btn-group .btn {
-    font-size: 14px !important;
-    padding-top: 8px;
   } 
 }
-@media only screen and (max-width: 320px) {
-  .fr .guidance-nav a {
-      max-width: 18ch;
-  }
-}
+

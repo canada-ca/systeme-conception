@@ -12,10 +12,11 @@
 
 		<!--[if gte IE 9 | !IE ]><!-->
 		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
-		<link rel="stylesheet" href="../css/custom.css">
-		<link rel="stylesheet" href="../css/ip.css">
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css" />
+			<link rel="stylesheet" href="../css/theme-topic.css" />
+			<link rel="stylesheet" href="../css/social-media.css" />
+			<link rel="stylesheet" href="../css/mr-bullets.css" />
+			<link rel="stylesheet" href="../css/guidance-draft.css">
 <!--<![endif]-->
 <!--[if lt IE 9]>
 		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
@@ -28,35 +29,21 @@
 
 
 		<![endif]-->
-<noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-105628416-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-3"></script>
-
-<script>
-
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag(){dataLayer.push(arguments);}
-
-  gtag('js', new Date());
-
-
-
-  gtag('config', 'UA-105628416-3');
-
-</script>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" />
+				<noscript>
+					<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
+				</noscript>
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+				<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-2"></script>
+				<script>
+					window.dataLayer = window.dataLayer || [];
+					function gtag() {
+						dataLayer.push(arguments);
+					}
+					gtag("js", new Date());
+					gtag("config", "UA-105628416-2");
+				</script>
+			</head>
 </head>
 <body vocab="http://schema.org/" typeof="WebPage">
 <ul id="wb-tphp">
@@ -67,6 +54,33 @@
 	<a class="wb-sl" href="#wb-info">Passer à «&#160;Au sujet du gouvernement&#160;»</a>
 </li>
 </ul>
+<nav class="guidance-ban-nav fr">
+	<h2 class="wb-inv">Navigation and controls</h2>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 col-lg-3 col-sm-4">
+				<div class="guidance-nav">
+					<a href="../modeles-obligatoire/theme-sujet-alpha.html"><span
+							class="fas fa-arrow-left padding-rght"></span>Page de thème et de sujet</a>
+				</div>
+			</div>
+			<div class="guidance-options col-md-6 col-sm-6 col-xs-12">
+				<div class="btn-group">
+					<button id="show-guidance-toggle" class="guidance-toggle btn btn-default active"><span
+							class="fas fa-laptop-code "></span>&nbsp;Voir les directives</button>
+					<button id="hide-guidance-toggle" class="guidance-toggle btn btn-default wb-toggle"
+						data-toggle='[{"selector":"#show-guidance-toggle", "stateOn":"active", "state":"on"},{"stateOn":"active", "state":"off"}]'><span
+							class="fas fa-pen-square"></span>&nbsp;Cacher les directives</button>
+				</div>
+			</div>
+			<div class="get-code col-md-2 col-sm-2 col-xs-12 pull-right">
+				<a href="../modeles-obligatoire/theme-sujet-alpha.html#code"
+					class="btn btn-sm btn-default pstn-rght-md pull-right pstn-get-code"><span
+						class="fas fa-external-link-alt"></span>&nbsp;<b>Obtenir le code</b></a>
+			</div>
+		</div>
+	</div>
+</nav>
 <header>
 <div id="wb-bnr" class="container">
 <section id="wb-lng" class="text-right">
@@ -231,125 +245,253 @@
 
 <!--/* Hide Nav; Hide Right Rail /*-->
 
-<main property="mainContentOfPage" typeof="WebPageElement" class="container">
-<p><a class="btn btn-primary" href="./theme-sujet_ng.html">Enlever les directives</a>  <a class="btn btn-default" href="../modeles-obligatoire/theme-sujet-alpha.html">Retourner à la page du modèle</a></p>
-<div class="ip-cover-img">
+<main property="mainContentOfPage" typeof="WebPageElement">
+			<div class="guidance-details">
+				<div class="container">
+				<div class="row col-md-8">
+					<details>
+						<summary><b>Directives:</b> fil d'Ariane <span class="fas fa-info-circle"></span></summary>
+						<section>
+							<h3>Fil d'Ariane</h3>
+							<p><span class="label label-danger">Obligatoire</span></p>
+							<p>Le fil d'Ariane devrait refléter la position de la page dans l'arborescence thématique de Canada, tel que :<br>
+								<a href="https://www.canada.ca/en.html">Canada.ca</a> > <a
+									href="#">[Thème]</a> > <a href="#">[Sujet]</a>.</p>
+							<p>Le fil d'Ariane peut montrer la version raccourcie des pages de l'architecture, tel que :<br>
+									<a href="https://www.canada.ca/en.html">Canada.ca</a> > <a href="#">Emlois <span style="text-decoration: line-through;">et milieu de travail</span></a>
+
+							</p>
+						</section>
+					</details>
+				</div>
+			</div>
+		</div>
+	<div class="provisional pstn-relative hide-hrztl-ovrflw">
+        <div class="container">
+           <div class="row">
+            <div class="intro col-md-6 col-sm-12 mrgn-bttm-md">
+              <h1 property="name" id="wb-cont">[Titre du thème ou du sujet]</h1>
+							<p class="pagetag provisional">1-2 phrases qui décrivent les sujets et les principales tâches accessibles sur cette page <a class="hidden-xs hidden-sm with btn btn-sm btn-default pull-right wb-inv"><span class="fas fa-image"></span>&nbsp;&nbsp;<b>Avec image</b></a></p>
+            </div>
+            <div class="tt-img provisional col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs">
+              <img alt="#"  src="./images/theme-topic-img-825x200.jpg"
+                 /> <a class="without btn btn-sm btn-default pstn-tp-md pstn-lft-md"><span class="fas fa-eye-slash"></span>&nbsp;&nbsp;<b>Sans image</b></a>
+
+            </div>
+          </div>
+        </div>
+	  </div>
+
+	<div class="guidance-details">
+		<div class="container">
+		<div class="row col-md-8">
+			<details>
+				<summary><b>Directives:</b> titre et image<span class="fas fa-info-circle"></span>
+				</summary>
+				<section>
+					<h3>Title</h3>
+					<p><span class="label label-danger">Obligatoire</span></p>
+					<p>Le titre de la page doit être descriptif et unique mais bref.</p>
+					<p>N'utilisez pas d'acronymes ou d'abréviations.</p>
+				</section>
+				<section>
+					<h3>Image</h3>
+					<p><span class="label label-info">Facultati</span></p>
+					<p>L'espace 825x200 à côté du H1 peut être utilisé pour une bannière ou une image.</p>
+				</section>
+			</details>
+			</div>
+		</div>
+	</div>
+      <section class="most-requested-bullets with-img provisional well well-sm brdr-0 mrgn-tp-md" >
         <div class="container">
           <div class="row">
-<section class="col-md-12"><div class="container row"><!-- container must wrap around top content in order to fit the page properly, only close it when you hit the Most Requested 'section' -->
-<div class="row col-md-7 col-sm-12 mrgn-bttm-lg">
-<h1 id="wb-cont" property="name">[Nom de thème et de sujet]</h1>
+            <div class="pddng-r-0 col-md-2">
+              <h2 class="mrgn-tp-md">En demande</h2>
+            </div>
+            <div class="col-md-10">
+              <ul class="wb-eqht mrgn-tp-md mrgn-bttm-md colcount-md-2"> <!-- can use colcount-md-1, colcount-md-2, colcount-md-3 ? -->
+                <li><a href="#">[Lien vers une tâche principale]</a></li>
+                <li><a href="#">[Lien vers une tâche principale]</a></li>
+                <li><a href="#">[Lien vers une tâche principale]</a></li>
+                <li><a href="#">[Lien vers une tâche principale]</a></li>
+                <li><a href="#">[Lien vers une tâche principale]</a></li>
+                <li><a href="#">[Lien vers une tâche principale]</a></li>
+              </ul>
+            </div>
+          </div>
+	  </div>
+			<div class="guidance-details">
+				<div class="container">
+					<div class="row col-md-8">
+						<details>
+							<summary><b>Directives:</b> En demande <span class="fas fa-info-circle"></span></summary>
+							<p><span class="label label-info">Facultatif</span></p>
+							<p>Présente les tâches principales spécifiques au thème ou au sujet.</p>
+							<p>Cette composante est obligatoire afin fournir des raccourcis vers les tâches les plus importantes du thème ou du sujet. Cependant, elle ne devrait pas être utilisée si toutes les tâches principales de l'institution sont déjà incluses en tant que liens directs sous « Services et renseignements ».</p>
+							<p><strong>Variations:</strong> remplacez la classe <code>colcount-md-2</code> par la classe
+								<code>colcount-md-1</code> si vous avez seulement 2 ou 3 items en demande</p>
+						</details>
+					</div>
+				</div>
+			</div>
+	  </section>
 
-<p>Bref texte d'introduction (facultatif)</p>
-</div>
-</div>
 
-<div class="row col-md-5 pull-right hidden-sm hidden-xs"><img alt="" src="" style="position: absolute; bottom:0; height: 215px;" /></div>
-</section></div>
-</main><!-- end container --><section class="most-requested well well-sm brdr-0 mrgn-tp-md"><!-- start most requested --><div class="container">
-<div class="float-left row col-md-2">
-<h2 class="mrgn-tp-md">En demande</h2>
-</div>
+    <div class="container">
+			<div class="row">
+				<section class="gc-srvinfo col-md-12">
+					<h2 class="wb-inv">Services et renseignements</h2>
+					<div class="wb-eqht row">
+						<div class="col-md-4">
+							<h3><a href="#">[Lien à un sujet]</a></h3>
+							<p>Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.</p>
+						</div>
+						<div class="col-md-4">
+							<h3><a href="#">[Lien à un sujet]</a></h3>
+							<p>Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.</p>
+						</div>
+						<div class="col-md-4">
+							<h3><a href="#">[Lien à un sujet]</a></h3>
+							<p>Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.</p>
+						</div>
+						<div class="col-md-4">
+							<h3><a href="#">[Lien à un sujet]</a></h3>
+							<p>Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.</p>
+						</div>
+						<div class="col-md-4">
+							<h3><a href="#">[Lien à un sujet]</a></h3>
+							<p>Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.</p>
+						</div>
+						<div class="col-md-4">
+							<h3><a href="#">[Lien à un sujet]</a></h3>
+							<p>Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.</p>
+						</div>
+						<div class="col-md-4">
+							<h3><a href="#">[Lien à un sujet]</a></h3>
+							<p>Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.</p>
+						</div>
+						<div class="col-md-4">
+							<h3><a href="#">[Lien à un sujet]</a></h3>
+							<p>Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.</p>
+						</div>
+						<div class="col-md-4">
+							<h3><a href="#">[Lien à un sujet]</a></h3>
+							<p>Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.</p>
+						</div>
+					</div>
+					<div class="row guidance-details">
+						<div class="col-md-8">
+							<details>
+								<summary><b>Directives : </b> Services et renseignements <i class="fas fa-info-circle"></i></summary>
+								<p><span class="label label-danger">Obligatoire</span></p>
+								<p>Dresse la liste des sujets ou des tâches spécifiques au thème ou au sujet.</p>
+								<p>L'en-tête « Services et renseignements » dans cette section doit avoir la classe <code>wb-inv</code> afin qu'il ne soit pas visible, mais qu'il soit tout de même présent pour des raisons sémantiques et pour les lecteurs d'écran.</p>
+								<p><b>Variations:</b> toutes les variations du modèle <a href="../configurations-conception-communes/services-renseignements.html">Services et renseignements</a> peuvent être utilisées dans cette section.</li>
+							</details>
+						</div>
+					</div>
 
-<div class="col-md-10">
-<ul class="wb-eqht mrgn-tp-md mrgn-bttm-md colcount-md-1">
-	<li><a href="#">[Lien vers une tâche principale]</a></li>
-	<li><a href="#">[Lien vers une tâche principale]</a></li>
-	<li><a href="#">[Lien vers une tâche principale]</a></li>
-</ul></div>
-</div>
-</section><!-- end of most requested --><div class="container">
-<div class="row wb-eqht">
-<div class="col-md-12">
-<h2 class="wb-inv">Services et renseignements</h2>
+						<a class="off-followus btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye-slash"></span>&nbsp;&nbsp;<b>Sans médias sociaux</b></a>
+						<a class="on-followus btn btn-sm btn-default mrgn-tp-lg wb-inv"><span class="fas fa-users"></span>&nbsp;&nbsp;<b>Avec médias sociaux</b></a>
+				</section>
+			</div>
 
-<div class="row gc-srvinfo">
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
+		</div>
+		<div class="container wb-inv single-feature provisional">
+			<div class="row">
+				<h2 class="wb-inv">En vedette</h2>
+				<section class="wb-eqht col-md-8 mrgn-bttm-md mrgn-tp-lg" id="gcwb_prts">
+					<div class="row">
+						<div class="col-md-6 gc-srvinfo pull-right mobile-left">
+							<h3 class="h5"><a href="#">Titre de l'élément en vedette</a>
+							</h3>
+							<p>Brève descripton de l'élément en vedette.</p>
+						</div>
+						<div class="col-md-6">
+							<a href="#"><img alt="" class="img-responsive thumbnail mrgn-bttm-sm"
+									src="./images/feature-img-488x164.jpg" /> </a>
+						</div>
+					</div>
+				</section>
+			</div> <!-- row -->
+		</div> <!-- container -->
+			<div class="provisional promo-social well well-sm brdr-0 mrgn-tp-md">
+				<div class="container">
+					<div class="row">
+						<h2 class="wb-inv">En vedette</h2>
+							<section class="wb-eqht col-md-8 mrgn-bttm-md mrgn-tp-lg" id="gcwb_prts">
+								<div class="row">
+									<div class="col-md-6 gc-srvinfo pull-right mobile-left">
+										<h3 class="h5"><a href="#">Titre de l'élément en vedette</a></h3>
+										<p>Brève descripton de l'élément en vedette.</p>
+									</div>
+									<div class="col-md-6">
+									<a href="#"></a><img alt="" class="img-responsive thumbnail mrgn-bttm-sm"
+											src="./images/feature-img-360x203.jpg" /> </a>
+									</div>
+								</div>
+							</section>
+						<div class="col-md-4 mrgn-bttm-sm pull-right mobile-left">
+							<section class="provisional followus followus-vertical">
+								<h2>Dans les médias sociaux
+								</h2>
+								<ul>
+									<li class="newicon facebook"><a href="#" rel="external" class="social-lnk"><b>NomPageFacebook</b></a></li>
+									<li class="newicon twitter"><a href="#" rel="external" class="social-lnk"><b>@CompteTwitter</b></a></li>
+									<li class="newicon youtube"><a href="#" rel="external" class="social-lnk"><b>NomYouTube</b></a></li>
+									<li class="newicon instagram"><a href="#" rel="external" class="social-lnk"><b>NomInstagram</b></a></li>
 
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
+								</ul>
+							</section>
+						</div> <!-- pull-right-->
+					</div> <!-- row -->
+					<div class="row guidance-details">
+						<div class="col-md-8">
+							<details>
+								<summary><b>Directives:</b> En vedette et médias sociaux <span class="fas fa-info-circle"></span></summary>
+								<h3 style="text-decoration: none;">En vedette</h3>
+								<p><span class="label label-info">Facultatif</span></p>
+								<p>Un élément en vedette doit être contextuel à la page.</p>
+								<h3 style="text-decoration: none;">Médias sociaux</h3>
+								<p><span class="label label-info">Facultatif</span></p>
+								<p>Afficher le nom du compte. S'il y a plus d'un compte par type, utilisez une fenêtre contextuelle et montrez aux gens les options parmi lesquelles ils peuvent choisir.</p>
+								<p>Les nouvelles icônes sont facultatives. Pour les utiliser, ajoutez la classe <code>newicon</code>. <mark>Can we host these somewhere? Do we need a download a code packet?</mark>.</p>
 
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
 
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section><div class="clearfix"> </div>
+							</details>
+						</div>
+					</div>
+				</div> <!-- container -->
 
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
-
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
-
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
-
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
-
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
-
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
-
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
-
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
-
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-<section class="col-md-4"><h3 class="h5"><a href="#">[Texte de l'hyperlien]</a></h3></h3>
-
-<p>Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.</p>
-</section>
-</section></div>
-</div>
-</div>
-
-<div class="promo-social">
-<section class="gc-prtts col-md-8"><div class="row">
-<aside class="container"><div class="wb-eqht row mrgn-bttm-lg mrgn-tp-xl" id="gcwb_prts">
-<div class="col-md-4 row cont-ad"><a href="#"><img alt="" class="img-responsive cust-thumbnail thumbnail mrgn-bttm-sm" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png" /></a></div>
-
-<section class="col-md-4 row gc-srvinfo"><h3 class="h5"><a href="http://www.rcmp-grc.gc.ca/en/police-officer-careers?careers">[Hyperlien de l'élément]</a></h3>
-
-<p>Brève description de l'élément en vedette.</p>
-</section></div>
-</aside></div>
-</section><div class="pull-right col-md-4 mobile-left mrgn-bttm-lg row">
-<section class="followus-2"><h2>Sur les médias sociaux</h2>
-
-<ul><li class="mrgn-bttm-lg"><a href="#" rel="external"><img alt="" src="https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/facebook.png" /><b><span class="media-spc">[Nom du compte de médias sociaux]</span></b><br /><span class="media-spc-2">sur Facebook</span></a></li>
-	<li><a href="#" rel="external"><img alt="" src="https://test.canada.ca/canada-child-benefit-2/validation/GCWeb/images/twitter.png" /><b><span class="media-spc">[Nom du compte de médias sociaux]</span></b><br /><span class="media-spc-2">sur Twitter</span></a></li>
-</ul></section></div>
-</div>
-
-<div class="clearfix"> </div>
-
-<h2 class="wb-inv">Collaborateurs</h2>
-
-<div class="row col-md-1">
-<h3 class="from">De :</h3>
-</div>
-
-<div class="col-md-11 contributors">
-<ul><li><a href="#">[Nom de l'institution]</a></li>
-	<li><a href="#">[Nom de l'institution]</a></li>
-</ul></div>
-</div>
-</div>
-
+			</div> <!-- promo-social -->
+				<div class="container">
+					<div class="row">
+						<h2 class="wb-inv">Collaborateurs</h2>
+						<div class="row">
+							<section class="col-md-12 provisional">
+								<div class="col-md-1">
+									<h3 class="from">De :</h3>
+								</div>
+								<div class="col-md-11 contributors">
+									<ul>
+										<li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Tréor</a></li>
+										<li><a href="">[Ministère ou agence]</a></li>
+									</ul>
+								</div>
+							</section>
+						</div>
+					</div>
+						<div class="row guidance-details">
+							<div class="col-md-8">
+								<details>
+									<summary><b>Directives:</b> Collaborateurs <span class="fas fa-info-circle"></span></summary>
+									<p><span class="label label-info">Optional</span></p>
+									<p>Fournit un lien vers les pages d'accueil institutionnelles des ministères ou agences qui sont responsables du contenu de ce thème ou sujet.</p>
+								</details>
+							</div>
+						</div>
+				</div>
 
 
 <div class="row pagedetails">

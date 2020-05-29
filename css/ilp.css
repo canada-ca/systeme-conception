@@ -23,6 +23,14 @@
 	font-size: 1em;
 }
 
+.contact-us h2, .about h2 {
+	margin-top: 15px;
+}
+
+.ministers img {
+	max-width: 200px;
+}
+
 /* supports the 3 column layout for MR instead of 4 columns */
 .list-responsive-3 > li {
     float: left;
@@ -44,12 +52,8 @@
     clear: both
 }
 
-.followus {
-	background-color: #f5f5f5;
-}
-
 .followus ul li a {
-	border: solid 2px #f5f5f5;
+	border: 0px;
 }
 
 .featured {
@@ -66,7 +70,6 @@
 ul.feeds-cont li a {
 	font-weight: bold;
 }
-
 
 @media screen and (max-width: 1200px) {
   .featured {
