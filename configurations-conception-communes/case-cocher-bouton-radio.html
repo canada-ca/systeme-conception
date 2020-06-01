@@ -1,242 +1,175 @@
-
-<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<!DOCTYPE html>
 <html class="no-js" lang="fr" dir="ltr">
-<!--<![endif]-->
 <head>
-<meta charset="utf-8">
-<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+	<meta charset="utf-8">
+	<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Case à cocher et bouton radio - Configuration de conception de Canada.ca de Canada.ca</title>
-
-		<meta content="width=device-width,initial-scale=1" name="viewport">
-
-		<!--[if gte IE 9 | !IE ]><!-->
-<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css"><link rel="stylesheet" href="../css/custom.css">
-<!--<![endif]-->
-<!--[if lt IE 9]>
-		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
-
-		<link rel="stylesheet" href="http://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/ie8-theme.min.css" />
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-		<script src="./wet-boew/js/ie8-wet-boew.min.js"></script>
-		<![endif]-->
-<!--[if lte IE 9]>
-
-
-		<![endif]-->
-<noscript><link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-105628416-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-3"></script>
-
-<script>
-
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag(){dataLayer.push(arguments);}
-
-  gtag('js', new Date());
-
-
-
-  gtag('config', 'UA-105628416-3');
-
-</script>
+	<title>Case à cocher et bouton radio - Configuration de conception de Canada.ca de Canada.ca</title>
+	<meta content="width=device-width,initial-scale=1" name="viewport">
+	<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
+	<link rel="stylesheet" href="../css/theme.css">
+	<link rel="stylesheet" href="../css/custom.css">
+	<noscript>
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
+	</noscript>
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-105628416-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-3"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+		gtag('config', 'UA-105628416-3');
+	</script>
 </head>
 <body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
-<ul id="wb-tphp">
-<li class="wb-slc">
-	<a class="wb-sl" href="#wb-cont">Passer au contenu principal</a>
-</li>
-<li class="wb-slc">
-	<a class="wb-sl" href="#wb-info">Passer à «&#160;Au sujet du gouvernement&#160;»</a>
-</li>
-</ul>
-<header>
-<div id="wb-bnr" class="container">
-<section id="wb-lng" class="text-right">
-<h2 class="wb-inv">Sélection de la langue</h2>
-<div class="row">
-<div class="col-md-12">
-<ul class="list-inline margin-bottom-none">
-	<li><a lang="en" href="https://design.canada.ca/common-design-patterns/checkboxes-radio-buttons.html">English</a></li>
-</ul>
-</div>
-</div>
-</section>
-<div class="row">
-<div class="brand col-xs-5 col-md-4">
-<a href="https://www.canada.ca/fr.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-fr.svg" alt=""><span class="wb-inv"> Gouvernement du Canada / <span lang="en">Government of Canada</span></span></a>
-</div>
-<section id="wb-srch" class="col-lg-8 text-right">
-	<h2>Recherche</h2>
-<form action="https://recherche-search.gc.ca/rGs/s_r?#wb-land" method="get" role="search" class="form-inline">
-
-<div class="form-group">
-
-	<label for="wb-srch-q" class="wb-inv">Rechercher dans Canada.ca</label>
-
-	<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Rechercher dans Canada.ca">
-
-<input name="st" value="s" type="hidden"/>
-
-<input name="num" value="10" type="hidden"/>
-
-<input name="langs" value="fra" type="hidden"/>
-
-<input name="st1rt" value="0" type="hidden">
-
-<input name="s5bm3ts21rch" value="x" type="hidden"/>
-
-<datalist id="wb-srch-q-ac">
-
-<!--[if lte IE 9]><select><![endif]-->
-
-<!--[if lte IE 9]></select><![endif]-->
-
-</datalist>
-
-</div>
-
-<div class="form-group submit">
-
-	<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
-
-
-</div>
-
-</form>
-
-
-</section>
-</div>
-</div>
-<nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
-<div class="container">
-<h2 class="wb-inv">Menu</h2>
-<button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
-<ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Emplois et milieu de travail</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration et citoyenneté</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Prestations</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport et infrastructure</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
-
-</ul>
-</div>
-</nav>
-<nav id="wb-bc" property="breadcrumb">
-<h2>Vous êtes ici :</h2>
-<div class="container">
-<ol class="breadcrumb">
-	<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a></li>
-	<li><a href='https://www.canada.ca/fr/gouvernement/a-propos.html'>À propos de Canada.ca</a></li>
-<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html'>Système de conception de Canada.ca</a></li>
-	<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html'>Bibliothèque de modèles et de configurations de conception</a></li>
-</ol>
-</div>
-</nav>
-</header>
-
-<!--/* Hide Nav; Hide Right Rail /*-->
-
-<main role="main" property="mainContentOfPage" class="container">
-
-
-<h1 property="name" id="wb-cont" dir="ltr">Case à cocher et bouton radio  - Configuration de conception de Canada.ca</h1>
-
-<p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
-<span class="wb-prettify all-pre"></span>
-<p>Les cases à cocher et les boutons radio servent de contrôle de formulaire et permettent de sélectionner une réponse à une question ou de confirmer des réponses, comme dans le cas d’une liste de contrôle.</p>
-<p>La conception des grandes cases à cocher et des boutons radio facilite et accélère leur sélection, en particulier sur un appareil mobile.</p>
-<h2>Sur cette page</h2>
-<ul>
-	<li><a href="#utilisation">Utilisation</a></li>
-	<li><a href="#eviter">Quoi éviter</a></li>
-	<li><a href="#mise-en-oeuvre">Mise en œuvre</a></li>
-	<li><a href="#configurations">Options de configurations</a></li>
-</ul>
-<section>
-	<h2 id="utilisation">Utilisation</h2>
-	<p>Les cases à cocher et les boutons radio doivent être utilisés pour les questions interactives, comme les formulaires de demande de service ou les assistants.</p>
-	<p>L’utilisation de questions interactives est fortement encouragée sur Canada.ca.</p>
-</section>
-<ul>
-	<li><a href="./questions-interactives.html">Questions interactives</a></li>
-</ul>
-<section>
-	<h2 id="eviter">Quoi éviter</h2>
-	<p>N'utilisez pas de cases à cocher ou de boutons radio si les options présentées ne sont pas facilement comparables. Envisager d’utiliser plutôt des configurations de navigation telles que la configuration Services et renseignements (lien et description).</p>
-	<ul>
-		<li><a href="./services-renseignements.html">Services et renseignements (lien et description)</a></li>
+	<ul id="wb-tphp">
+		<li class="wb-slc">
+			<a class="wb-sl" href="#wb-cont">Passer au contenu principal</a>
+		</li>
+		<li class="wb-slc">
+			<a class="wb-sl" href="#wb-info">Passer à «&#160;Au sujet du gouvernement&#160;»</a>
+		</li>
 	</ul>
-	<p>Pour une question autonome comportant peu d’options et une quantité gérable de contenu par option qui n’exige pas de pages distinctes, envisager d’utiliser plutôt du contenu affichable/masquable ou une interfce à onglets.</p>
-</section>
-<section>
-	<h2 id="mise-en-oeuvre">Mise en œuvre</h2>
-	<h3 id="grandes-cases-a-cocher">Grandes cases à cocher</h3>
-	<p><b>Utilisation&nbsp;:</b> Les grandes cases à cocher sont les cases à cocher utilisées par défaut. À utiliser particulièrement lorsque l’utilisateur peut faire une ou plusieurs sélections pour répondre à une question.</p>
-	<p><b>Quoi éviter&nbsp;:</b> Ne pas utiliser de grandes cases à cocher pour une liste de contrôle ayant des éléments qui nécessitent un saut de ligne, ou lorsqu’il y a un seul élément à cocher. Pour ces situations, utiliser les petites cases à cocher.</p>
-	<section>
-		<h4>Grandes cases à cocher avec étiquettes explicites</h4>
-		<div class="panel panel-default">
-			<div class="panel-body">
-				<fieldset class="provisional wb-chckbxrdio">
-					<legend>Choisissez vos condiments&nbsp;:</legend>
-					<ul class="list-unstyled lst-spcd-2">
-						<li class="checkbox">
-							<input type="checkbox" id="cond1">
-							<label for="cond1">Ketchup</label>
-						</li>
-						<li class="checkbox">
-							<input type="checkbox" id="cond2">
-							<label for="cond2">Relish</label>
-						</li>
-						<li class="checkbox">
-							<input type="checkbox" id="cond3">
-							<label for="cond3">Moutarde</label>
-						</li>
-					</ul>
-				</fieldset>
+	<header>
+		<div id="wb-bnr" class="container">
+			<section id="wb-lng" class="text-right">
+				<h2 class="wb-inv">Sélection de la langue</h2>
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="list-inline margin-bottom-none">
+							<li><a lang="en" href="https://design.canada.ca/common-design-patterns/checkboxes-radio-buttons.html">English</a></li>
+						</ul>
+					</div>
+				</div>
+			</section>
+			<div class="row">
+				<div class="brand col-xs-5 col-md-4">
+					<a href="https://www.canada.ca/fr.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-fr.svg" alt=""><span class="wb-inv"> Gouvernement du Canada / <span lang="en">Government of Canada</span></span></a>
+				</div>
+				<section id="wb-srch" class="col-lg-8 text-right">
+					<h2>Recherche</h2>
+					<form action="https://recherche-search.gc.ca/rGs/s_r?#wb-land" method="get" role="search" class="form-inline">
+						<div class="form-group">
+							<label for="wb-srch-q" class="wb-inv">Rechercher dans Canada.ca</label>
+							<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Rechercher dans Canada.ca">
+							<input name="st" value="s" type="hidden" />
+							<input name="num" value="10" type="hidden" />
+							<input name="langs" value="fra" type="hidden" />
+							<input name="st1rt" value="0" type="hidden">
+							<input name="s5bm3ts21rch" value="x" type="hidden" />
+							<datalist id="wb-srch-q-ac"></datalist>
+						</div>
+						<div class="form-group submit">
+							<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
+						</div>
+					</form>
+				</section>
 			</div>
 		</div>
-		<pre><code>&lt;fieldset class="provisional wb-chckbxrdio"&gt;
+		<nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
+			<div class="container">
+				<h2 class="wb-inv">Menu</h2>
+				<button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+				<ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Emplois et milieu de travail</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration et citoyenneté</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Prestations</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport et infrastructure</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+					<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+				</ul>
+			</div>
+		</nav>
+		<nav id="wb-bc" property="breadcrumb">
+			<h2>Vous êtes ici :</h2>
+			<div class="container">
+				<ol class="breadcrumb">
+					<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a></li>
+					<li><a href='https://www.canada.ca/fr/gouvernement/a-propos.html'>À propos de Canada.ca</a></li>
+					<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html'>Système de conception de Canada.ca</a></li>
+					<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html'>Bibliothèque de modèles et de configurations de conception</a></li>
+				</ol>
+			</div>
+		</nav>
+	</header>
+	<!--/* Hide Nav; Hide Right Rail /*-->
+	<main role="main" property="mainContentOfPage" class="container">
+		<h1 property="name" id="wb-cont" dir="ltr">Case à cocher et bouton radio - Configuration de conception de Canada.ca</h1>
+		<p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
+		<span class="wb-prettify all-pre"></span>
+		<p>Les cases à cocher et les boutons radio servent de contrôle de formulaire et permettent de sélectionner une réponse à une question ou de confirmer des réponses, comme dans le cas d’une liste de contrôle.</p>
+		<p>La conception des grandes cases à cocher et des boutons radio facilite et accélère leur sélection, en particulier sur un appareil mobile.</p>
+		<h2>Sur cette page</h2>
+		<ul>
+			<li><a href="#utilisation">Utilisation</a></li>
+			<li><a href="#eviter">Quoi éviter</a></li>
+			<li><a href="#mise-en-oeuvre">Mise en œuvre</a></li>
+			<li><a href="#configurations">Options de configurations</a></li>
+		</ul>
+		<section>
+			<h2 id="utilisation">Utilisation</h2>
+			<p>Les cases à cocher et les boutons radio doivent être utilisés pour les questions interactives, comme les formulaires de demande de service ou les assistants.</p>
+			<p>L’utilisation de questions interactives est fortement encouragée sur Canada.ca.</p>
+		</section>
+		<ul>
+			<li><a href="./questions-interactives.html">Questions interactives</a></li>
+		</ul>
+		<section>
+			<h2 id="eviter">Quoi éviter</h2>
+			<p>N'utilisez pas de cases à cocher ou de boutons radio si les options présentées ne sont pas facilement comparables. Envisager d’utiliser plutôt des configurations de navigation telles que la configuration Services et renseignements (lien et description).</p>
+			<ul>
+				<li><a href="./services-renseignements.html">Services et renseignements (lien et description)</a></li>
+			</ul>
+			<p>Pour une question autonome comportant peu d’options et une quantité gérable de contenu par option qui n’exige pas de pages distinctes, envisager d’utiliser plutôt du contenu affichable/masquable ou une interfce à onglets.</p>
+		</section>
+		<section>
+			<h2 id="mise-en-oeuvre">Mise en œuvre</h2>
+			<h3 id="grandes-cases-a-cocher">Grandes cases à cocher</h3>
+			<p><b>Utilisation&nbsp;:</b> Les grandes cases à cocher sont les cases à cocher utilisées par défaut. À utiliser particulièrement lorsque l’utilisateur peut faire une ou plusieurs sélections pour répondre à une question.</p>
+			<p><b>Quoi éviter&nbsp;:</b> Ne pas utiliser de grandes cases à cocher pour une liste de contrôle ayant des éléments qui nécessitent un saut de ligne, ou lorsqu’il y a un seul élément à cocher. Pour ces situations, utiliser les petites cases à cocher.</p>
+			<section>
+				<h4>Grandes cases à cocher avec étiquettes explicites</h4>
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<fieldset class="provisional wb-chckbxrdio">
+							<legend>Choisissez vos condiments&nbsp;:</legend>
+							<ul class="list-unstyled lst-spcd-2">
+								<li class="checkbox">
+									<input type="checkbox" id="cond1">
+									<label for="cond1">Ketchup</label>
+								</li>
+								<li class="checkbox">
+									<input type="checkbox" id="cond2">
+									<label for="cond2">Relish</label>
+								</li>
+								<li class="checkbox">
+									<input type="checkbox" id="cond3">
+									<label for="cond3">Moutarde</label>
+								</li>
+							</ul>
+						</fieldset>
+					</div>
+				</div>
+				<pre><code>&lt;fieldset class="provisional wb-chckbxrdio"&gt;
 	&lt;legend&gt;Choisissez vos condiments&nbsp;:&lt;/legend&gt;
 	&lt;ul class="list-unstyled lst-spcd-2"&gt;
 		&lt;li class="checkbox"&gt;
@@ -253,29 +186,29 @@
 		&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/fieldset&gt;</code></pre>
-		<h4>Grandes cases à cocher désactivé avec étiquettes explicites</h4>
-		<div class="panel panel-default">
-			<div class="panel-body">
-				<fieldset class="provisional wb-chckbxrdio">
-					<legend>Choisissez vos condiments&nbsp;:</legend>
-					<ul class="list-unstyled lst-spcd-2">
-						<li class="checkbox">
-							<input type="checkbox" id="cond4" disabled>
-							<label for="cond4">Ketchup</label>
-						</li>
-						<li class="checkbox">
-							<input type="checkbox" id="cond5" class="disabled">
-							<label for="cond5">Relish</label>
-						</li>
-						<li class="checkbox">
-							<input type="checkbox" id="cond6" class="disabled" disabled>
-							<label for="cond6">Moutarde</label>
-						</li>
-					</ul>
-				</fieldset>
-			</div>
-		</div>
-		<pre><code>&lt;fieldset class="provisional wb-chckbxrdio"&gt;
+				<h4>Grandes cases à cocher désactivé avec étiquettes explicites</h4>
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<fieldset class="provisional wb-chckbxrdio">
+							<legend>Choisissez vos condiments&nbsp;:</legend>
+							<ul class="list-unstyled lst-spcd-2">
+								<li class="checkbox">
+									<input type="checkbox" id="cond4" disabled>
+									<label for="cond4">Ketchup</label>
+								</li>
+								<li class="checkbox">
+									<input type="checkbox" id="cond5" class="disabled">
+									<label for="cond5">Relish</label>
+								</li>
+								<li class="checkbox">
+									<input type="checkbox" id="cond6" class="disabled" disabled>
+									<label for="cond6">Moutarde</label>
+								</li>
+							</ul>
+						</fieldset>
+					</div>
+				</div>
+				<pre><code>&lt;fieldset class="provisional wb-chckbxrdio"&gt;
 	&lt;legend&gt;Choisissez vos condiments&nbsp;:&lt;/legend&gt;
 	&lt;ul class="list-unstyled lst-spcd-2"&gt;
 		&lt;li class="checkbox"&gt;
@@ -292,39 +225,39 @@
 		&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/fieldset&gt;</code></pre>
-	</section>
-	<section>
-		<h3 id="small-checkboxes">Cases à petite coche (petites cases à cocher)</h3>
-		<p><b>Utilisation&nbsp;:</b> Utiliser les cases à petites coches uniquement lorsqu’il y a un seul élément à cocher, comme dans le cas d’une confirmation.</p>
-		<p><b>Quoi éviter&nbsp;:</b> Ne pas utiliser de cases à petites coches pour les réponses à une question ou les listes de contrôle. Pour ces situations, utiliser les grandes cases à cocher.</p>
-		<ul>
-			<li><a href="#grandes-cases-a-cocher">Grandes cases à cocher</a></li>
-		</ul>
-		<p>Envisager d’utiliser un bouton plutôt qu’une case à cocher lorsqu’il y a un seul élément à cocher, particulièrement lorsqu’il s’agit de l’action principale de la page ou d’un élément permettant de passer à l’étape suivante.</p>
-		<ul>
-			<li><a href="https://wet-boew.github.io/themes-dist/GCWeb/content-fr.html#call-to-action">Boutons</a></li>
-		</ul>
-		<h4>Élément unique avec étiquette explicite dans un formulaire horizontal</h4>
-		<div class="panel panel-default">
-			<div class="panel-body">
-				<form class="form-inline" method="get" action="#">
-					<div class="form-group">
-						<label class="wb-inv" for="exampleInputEmail2">Courriel</label>
-						<input type="email" class="form-control" id="exampleInputEmail2" placeholder="Entrez votre courriel" />
+			</section>
+			<section>
+				<h3 id="small-checkboxes">Cases à petite coche (petites cases à cocher)</h3>
+				<p><b>Utilisation&nbsp;:</b> Utiliser les cases à petites coches uniquement lorsqu’il y a un seul élément à cocher, comme dans le cas d’une confirmation.</p>
+				<p><b>Quoi éviter&nbsp;:</b> Ne pas utiliser de cases à petites coches pour les réponses à une question ou les listes de contrôle. Pour ces situations, utiliser les grandes cases à cocher.</p>
+				<ul>
+					<li><a href="#grandes-cases-a-cocher">Grandes cases à cocher</a></li>
+				</ul>
+				<p>Envisager d’utiliser un bouton plutôt qu’une case à cocher lorsqu’il y a un seul élément à cocher, particulièrement lorsqu’il s’agit de l’action principale de la page ou d’un élément permettant de passer à l’étape suivante.</p>
+				<ul>
+					<li><a href="https://wet-boew.github.io/themes-dist/GCWeb/content-fr.html#call-to-action">Boutons</a></li>
+				</ul>
+				<h4>Élément unique avec étiquette explicite dans un formulaire horizontal</h4>
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<form class="form-inline" method="get" action="#">
+							<div class="form-group">
+								<label class="wb-inv" for="exampleInputEmail2">Courriel</label>
+								<input type="email" class="form-control" id="exampleInputEmail2" placeholder="Entrez votre courriel" />
+							</div>
+							<div class="form-group">
+								<label class="wb-inv" for="exampleInputPassword2">Mot de passe</label>
+								<input type="password" class="form-control" id="exampleInputPassword2" placeholder="Mot de passe" />
+							</div>
+							<div class="checkbox provisional wb-chckbxrdio">
+								<input id="remember2" type="checkbox" class="checkbox-small" />
+								<label for="remember2">Se souvenir de moi</label>
+							</div>
+							<button type="submit" class="btn btn-default">Se connecter</button>
+						</form>
 					</div>
-					<div class="form-group">
-						<label class="wb-inv" for="exampleInputPassword2">Mot de passe</label>
-						<input type="password" class="form-control" id="exampleInputPassword2" placeholder="Mot de passe" />
-					</div>
-					<div class="checkbox provisional wb-chckbxrdio">
-						<input id="remember2" type="checkbox" class="checkbox-small"/>
-						<label for="remember2">Se souvenir de moi</label>
-					</div>
-					<button type="submit" class="btn btn-default">Se connecter</button>
-				</form>
-			</div>
-		</div>
-		<pre class="mrgn-tp-md"><code>&lt;form class="form-inline" method="get" action="#"&gt;
+				</div>
+				<pre class="mrgn-tp-md"><code>&lt;form class="form-inline" method="get" action="#"&gt;
 	&lt;div class="form-group"&gt;
 		&lt;label class="wb-inv" for="exampleInputEmail2"&gt;Courriel&lt;/label&gt;
 		&lt;input type="email" class="form-control" id="exampleInputEmail2" placeholder="Entrez votre courriel" /&gt;
@@ -339,33 +272,33 @@
 	&lt;/div&gt;
 	&lt;button type="submit" class="btn btn-default"&gt;Se connecter&lt;/button&gt;
 &lt;/form&gt;</code></pre>
-	</section>
-	<section>
-		<h3>Boutons radio</h3>
-		<h4>Grands boutons radio avec étiquettes explicites</h4>
-		<p><b>Utilisation&nbsp;:</b> Utiliser des boutons radio lorsqu’une seule sélection peut être faite.</p>
-		<div class="panel panel-default">
-			<div class="panel-body">
-				<fieldset class="provisional wb-chckbxrdio">
-					<legend>Quel est votre animal favori?&nbsp;:</legend>
-					<ul class="list-unstyled lst-spcd-2">
-						<li class="radio">
-							<input type="radio" name="animal" id="animal-1">
-							<label for="animal-1">Les chiens</label>
-						</li>
-						<li class="radio">
-							<input type="radio" name="animal" id="animal-2">
-							<label for="animal-2">Les chats</label>
-						</li>
-						<li class="radio">
-							<input type="radio" name="animal" id="animal-3">
-							<label for="animal-3">Les rats</label>
-						</li>
-					</ul>
-				</fieldset>
-			</div>
-		</div>
-		<pre><code>&lt;fieldset class="wb-chckbxrio"&gt;
+			</section>
+			<section>
+				<h3>Boutons radio</h3>
+				<h4>Grands boutons radio avec étiquettes explicites</h4>
+				<p><b>Utilisation&nbsp;:</b> Utiliser des boutons radio lorsqu’une seule sélection peut être faite.</p>
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<fieldset class="provisional wb-chckbxrdio">
+							<legend>Quel est votre animal favori?&nbsp;:</legend>
+							<ul class="list-unstyled lst-spcd-2">
+								<li class="radio">
+									<input type="radio" name="animal" id="animal-1">
+									<label for="animal-1">Les chiens</label>
+								</li>
+								<li class="radio">
+									<input type="radio" name="animal" id="animal-2">
+									<label for="animal-2">Les chats</label>
+								</li>
+								<li class="radio">
+									<input type="radio" name="animal" id="animal-3">
+									<label for="animal-3">Les rats</label>
+								</li>
+							</ul>
+						</fieldset>
+					</div>
+				</div>
+				<pre><code>&lt;fieldset class="wb-chckbxrio"&gt;
 	&lt;legend&gt;Quel est votre animal favori? &lt;small class="text-muted"&gt;(cases à cocher + explicit label, grande case)&lt;/small&gt;&lt;/legend&gt;
 	&lt;ul class="list-unstyled lst-spcd-2"&gt;
 		&lt;li class="radio"&gt;
@@ -382,27 +315,27 @@
 		&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/fieldset&gt;</code></pre>
-	<h4>Grands boutons radio avec étiquettes explicites dans un formulaire horizontal</h4>
-	<div class="panel panel-default">
-		<div class="panel-body">
-			<fieldset class="provisional wb-chckbxrdio form-inline">
-				<legend>Veuillez choisir une option&nbsp;:</legend>
-				<div class="label-inline">
-					<input type="radio" id="inlineRadio1" name="optradio">
-					<label for="inlineRadio1">Option 1</label>
+				<h4>Grands boutons radio avec étiquettes explicites dans un formulaire horizontal</h4>
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<fieldset class="provisional wb-chckbxrdio form-inline">
+							<legend>Veuillez choisir une option&nbsp;:</legend>
+							<div class="label-inline">
+								<input type="radio" id="inlineRadio1" name="optradio">
+								<label for="inlineRadio1">Option 1</label>
+							</div>
+							<div class="label-inline">
+								<input type="radio" id="inlineRadio2" name="optradio">
+								<label for="inlineRadio2">Option 2</label>
+							</div>
+							<div class="label-inline">
+								<input type="radio" id="inlineRadio3" name="optradio">
+								<label for="inlineRadio3">Option 3</label>
+							</div>
+						</fieldset>
+					</div>
 				</div>
-				<div class="label-inline">
-					<input type="radio" id="inlineRadio2" name="optradio">
-					<label for="inlineRadio2">Option 2</label>
-				</div>
-				<div class="label-inline">
-					<input type="radio" id="inlineRadio3" name="optradio">
-					<label for="inlineRadio3">Option 3</label>
-				</div>
-			</fieldset>
-		</div>
-	</div>
-	<pre><code>&lt;fieldset class="provisional wb-chckbxrdio form-inline"&gt;
+				<pre><code>&lt;fieldset class="provisional wb-chckbxrdio form-inline"&gt;
 	&lt;legend&gt;Veuillez choisir une option&nbsp;:&lt;/legend&gt;
 	&lt;div class="label-inline"&gt;
 		&lt;input type="radio" id="inlineRadio1" name="optradio"&gt;
@@ -417,128 +350,112 @@
 		&lt;label for="inlineRadio3"&gt;Option 3&lt;/label&gt;
 	&lt;/div&gt;
 &lt;/fieldset&gt;</code></pre>
-	</section>
-	<section>
-		<h2 id="configurations">Options de configuration</h2>
-		<table class="table">
-			<thead>
-				<tr>
-					<th>Option</th>
-					<th>Description</th>
-					<th>Mode d’emploi de la configuration</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>Grandes cases à cocher</td>
-					<td>Conception des grandes cases à cocher et des boutons radio</td>
-					<td>Ajouter la classe <code>wb-chckbxrdio</code> à l'élément <code>fieldset</code> ou l'élément parent qui contient toutes les zones d'entrée de type checkbox/radio</td>
-				</tr>
-				<tr>
-					<td>Cases à petites coches</td>
-					<td>Petites cases à cocher lorsqu’il n'y a qu'un seul élément à cocher, comme dans le cas d’une confirmation.</td>
-					<td>La classe <code>wb.chckbxrdio</code> doit être présent dans l'élément parent de la case à cocher et la class <code>checkbox-small</code> doit être appliquer à chaque élément de type checkbox</td>
-				</tr>
-				<tr>
-					<td>État de désactivation</td>
-					<td>Les entrées désactivées ne seront pas cliquables. Les indications visuelles comprennent le grisage de la commande et l’ajout d’une icône d’arrêt lorsque le pointeur de la souris est placé au-dessus de la commande.</td>
-					<td>Pour basculer un état de désactivation, ajouter un attribut <code>disabled</code> à la zone d’entrée</td>
-				</tr>
-				<tr>
-					<td>Format horizontal</td>
-					<td>Les boutons radio ou les cases à cocher en ligne s’affichent côte à côte sur un écran plus grand et se poursuivent sur de nouvelles lignes, plutôt que d’être alignés verticalement.</td>
-					<td>Ajouter la classe <code>form-inline</code> à l'élément qui contient l'ensemble des cases à coher ou des boutons radio. Aussi ajouter la classe <code>label-inline</code> à chaque élément parent de case à cocher ou de bouton radio.</td>
-				</tr>
-			</tbody>
-		</table>
-	</section>
-</section>
-
-<div class="row pagedetails">
-<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
-<div class="panel-pane pane-block pane-bean-report-problem-button"  >
-<div class="pane-content">
-<section>
-<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/fr/signaler-probleme.html">Signaler un problème sur cette page</a></div></div></div></section>
-</div>
-</div>
-</div>
-
-		<div class="col-sm-3 mrgn-tp-sm pull-right">
-		<div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
-</div>
-
-
-<div class="datemod col-xs-12 mrgn-tp-lg">
-		<dl id="wb-dtmd">
-<dt>Date de modification :</dt>
-<dd><time property="dateModified">2018-12-19</time></dd>
-</dl>
-</div>
-
-</div>
-</main>
-
-
-
-
-
-
-
-
-
-<footer id="wb-info">
-<div class="landscape">
-<nav class="container wb-navcurr">
-<h2 class="wb-inv">Au sujet du gouvernement</h2>
-<ul class="list-unstyled colcount-sm-2 colcount-md-3">
-<li><a href="https://www.canada.ca/fr/contact.html">Contactez-nous</a></li>
-<li><a href="https://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a></li>
-<li><a href="https://www.canada.ca/fr/gouvernement/fonctionpublique.html">Fonction publique et force militaire</a></li>
-<li><a href="https://www.canada.ca/fr/nouvelles.html">Nouvelles</a></li>
-<li><a href="https://www.canada.ca/fr/gouvernement/systeme/lois.html">Traités, lois et règlements</a></li>
-<li><a href="https://www.canada.ca/fr/transparence/rapports.html">Rapports à l'échelle du gouvernement</a></li>
-<li><a href="https://pm.gc.ca/fra">Premier ministre</a></li>
-<li><a href="https://www.canada.ca/fr/gouvernement/systeme.html">Comment le gouvernement fonctionne</a></li>
-<li><a href="https://ouvert.canada.ca/">Gouvernement ouvert</a></li>
-</ul>
-</nav>
-</div>
-<div class="brand">
-<div class="container">
-<div class="row">
-<nav class="col-md-9 col-lg-10 ftr-urlt-lnk">
-<h2 class="wb-inv">À propos du site</h2>
-<ul>
-<li><a href="https://www.canada.ca/fr/sociaux.html">Médias sociaux</a></li>
-<li><a href="https://www.canada.ca/fr/mobile.html">Applications mobiles</a></li>
-<li><a href="https://www1.canada.ca/fr/nouveausite.html">À propos de Canada.ca</a></li>
-<li><a href="https://www.canada.ca/fr/transparence/avis.html">Avis</a></li>
-<li><a href="https://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a></li>
-</ul>
-</nav>
-<div class="col-xs-6 visible-sm visible-xs tofpg">
-<a href="#wb-cont">Haut de la page <span class="glyphicon glyphicon-chevron-up"></span></a>
-</div>
-	<div class="col-xs-6 col-md-3 col-lg-2 text-right">
-	<img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada">
-	</div>
-	</div>
-	</div>
-	</div>
+			</section>
+			<section>
+				<h2 id="configurations">Options de configuration</h2>
+				<table class="table">
+					<thead>
+						<tr>
+							<th>Option</th>
+							<th>Description</th>
+							<th>Mode d’emploi de la configuration</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Grandes cases à cocher</td>
+							<td>Conception des grandes cases à cocher et des boutons radio</td>
+							<td>Ajouter la classe <code>wb-chckbxrdio</code> à l'élément <code>fieldset</code> ou l'élément parent qui contient toutes les zones d'entrée de type checkbox/radio</td>
+						</tr>
+						<tr>
+							<td>Cases à petites coches</td>
+							<td>Petites cases à cocher lorsqu’il n'y a qu'un seul élément à cocher, comme dans le cas d’une confirmation.</td>
+							<td>La classe <code>wb.chckbxrdio</code> doit être présent dans l'élément parent de la case à cocher et la class <code>checkbox-small</code> doit être appliquer à chaque élément de type checkbox</td>
+						</tr>
+						<tr>
+							<td>État de désactivation</td>
+							<td>Les entrées désactivées ne seront pas cliquables. Les indications visuelles comprennent le grisage de la commande et l’ajout d’une icône d’arrêt lorsque le pointeur de la souris est placé au-dessus de la commande.</td>
+							<td>Pour basculer un état de désactivation, ajouter un attribut <code>disabled</code> à la zone d’entrée</td>
+						</tr>
+						<tr>
+							<td>Format horizontal</td>
+							<td>Les boutons radio ou les cases à cocher en ligne s’affichent côte à côte sur un écran plus grand et se poursuivent sur de nouvelles lignes, plutôt que d’être alignés verticalement.</td>
+							<td>Ajouter la classe <code>form-inline</code> à l'élément qui contient l'ensemble des cases à coher ou des boutons radio. Aussi ajouter la classe <code>label-inline</code> à chaque élément parent de case à cocher ou de bouton radio.</td>
+						</tr>
+					</tbody>
+				</table>
+			</section>
+		</section>
+		<div class="row pagedetails">
+			<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
+				<div class="panel-pane pane-block pane-bean-report-problem-button">
+					<div class="pane-content">
+						<section>
+							<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden">
+								<div class="field-items">
+									<div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/fr/signaler-probleme.html">Signaler un problème sur cette page</a></div>
+								</div>
+							</div>
+						</section>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-3 mrgn-tp-sm pull-right">
+				<div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
+			</div>
+			<div class="datemod col-xs-12 mrgn-tp-lg">
+				<dl id="wb-dtmd">
+					<dt>Date de modification :</dt>
+					<dd><time property="dateModified">2018-12-19</time></dd>
+				</dl>
+			</div>
+		</div>
+	</main>
+	<footer id="wb-info">
+		<div class="landscape">
+			<nav class="container wb-navcurr">
+				<h2 class="wb-inv">Au sujet du gouvernement</h2>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3">
+					<li><a href="https://www.canada.ca/fr/contact.html">Contactez-nous</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/fonctionpublique.html">Fonction publique et force militaire</a></li>
+					<li><a href="https://www.canada.ca/fr/nouvelles.html">Nouvelles</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/systeme/lois.html">Traités, lois et règlements</a></li>
+					<li><a href="https://www.canada.ca/fr/transparence/rapports.html">Rapports à l'échelle du gouvernement</a></li>
+					<li><a href="https://pm.gc.ca/fra">Premier ministre</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/systeme.html">Comment le gouvernement fonctionne</a></li>
+					<li><a href="https://ouvert.canada.ca/">Gouvernement ouvert</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="brand">
+			<div class="container">
+				<div class="row">
+					<nav class="col-md-9 col-lg-10 ftr-urlt-lnk">
+						<h2 class="wb-inv">À propos du site</h2>
+						<ul>
+							<li><a href="https://www.canada.ca/fr/sociaux.html">Médias sociaux</a></li>
+							<li><a href="https://www.canada.ca/fr/mobile.html">Applications mobiles</a></li>
+							<li><a href="https://www1.canada.ca/fr/nouveausite.html">À propos de Canada.ca</a></li>
+							<li><a href="https://www.canada.ca/fr/transparence/avis.html">Avis</a></li>
+							<li><a href="https://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a></li>
+						</ul>
+					</nav>
+					<div class="col-xs-6 visible-sm visible-xs tofpg">
+						<a href="#wb-cont">Haut de la page <span class="glyphicon glyphicon-chevron-up"></span></a>
+					</div>
+					<div class="col-xs-6 col-md-3 col-lg-2 text-right">
+						<img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada">
+					</div>
+				</div>
+			</div>
+		</div>
 	</footer>
-	<!--[if gte IE 9 | !IE ]><!-->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
 	<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
-	<!--<![endif]-->
-	<!--[if lt IE 9]>
-			<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
-
-			<![endif]-->
 	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 	<script>
-	document.getElementById('submissionPage').value = location.href;
-</script>
-
+		document.getElementById('submissionPage').value = location.href;
+	</script>
 </body>
-	</html>
+</html>
