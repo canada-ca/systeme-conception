@@ -77,7 +77,7 @@
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "Non"
   }, {
-    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html\">Contenu r&#233;ductible</a>",
+    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html\">Afficher/masquer</a>",
     "USE": "Utilisez pour cacher le contenu secondaire jusqu'&#224; ce que l'utilisateur le demande",
     "CAT": "Configuration de conception",
     "TYPE": "Interaction",
