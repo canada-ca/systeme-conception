@@ -222,9 +222,9 @@
 					</div>
 
 					<!-- remove this div if you do not want a thumbnail image -->
-					<div class="thumbnail col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs">
+					<div class="col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs guidance-js-hide">
 						<img alt="#" src="./images/theme-topic-img-825x200.jpg" />
-						<a class="without btn btn-sm btn-default pstn-tp-md pstn-lft-md">
+						<a class="without btn btn-sm btn-default pstn-tp-md pstn-lft-md mrgn-tp-md" style="margin-left: 18px;">
 							<span class="fas fa-eye-slash"></span>&nbsp;&nbsp;<b>Sans image</b>
 						</a>
 					</div>
@@ -435,7 +435,7 @@
 						<div class="col-md-1">
 							<h3 class="provisional from">De :</h3>
 						</div>
-						<div class="col-md-11 contributors">
+						<div class="provisional col-md-11 contributors">
 							<ul>
 								<li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor</a></li>
 								<li><a href="">[Ministère ou agence]</a></li>
@@ -534,29 +534,29 @@
 	<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
 	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
 	<script>
-		$(".thumbnail").click(function () {
-			$(this).toggle();
-			$(".with").removeClass("wb-inv");
-			$(".intro").removeClass("col-md-6").addClass("col-md-12");
-		});
+		$(".guidance-js-hide").click(function () {
+				$(this).toggle();
+				$(".with").removeClass("wb-inv");
+				$(".intro").removeClass("col-md-6").addClass("col-md-12");
+			});
 
-		$(".with").click(function () {
-			$(this).addClass("wb-inv");
-			$(".thumbnail").toggle();
-			$(".intro").removeClass("col-md-12").addClass("col-md-6");
-		});
+			$(".with").click(function () {
+				$(this).addClass("wb-inv");
+				$(".guidance-js-hide").toggle();
+				$(".intro").removeClass("col-md-12").addClass("col-md-6");
+			});
 
-		$(".off-followus").click(function () {
-			$(this).addClass("wb-inv");
-			$(".single-feature").addClass("wb-inv");
-			$(".on-followus").removeClass("wb-inv");
-		});
+			$(".off-followus").click(function () {
+				$(this).addClass("wb-inv");
+				$(".followus").addClass("wb-inv");
+				$(".on-followus").removeClass("wb-inv");
+			});
 
-		$(".on-followus").click(function () {
-			$(this).addClass("wb-inv");
-			$(".single-feature").removeClass("wb-inv");
-			$(".off-followus").removeClass("wb-inv");
-		});
+			$(".on-followus").click(function () {
+				$(this).addClass("wb-inv");
+				$(".followus").removeClass("wb-inv");
+				$(".off-followus").removeClass("wb-inv");
+			});
 	</script>
 	<script src="../js/guidance-toggle.js"></script>
 </body>
