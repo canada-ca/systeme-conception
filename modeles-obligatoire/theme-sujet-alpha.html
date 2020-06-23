@@ -208,16 +208,16 @@
       &lt;div class="row"&gt;
       &lt;div class="intro col-md-6 col-sm-12 mrgn-bttm-md"&gt; &lt;!-- changez col-md-6 à col-md-12 si vous n'utilisez pas d'image --&gt;
         &lt;h1 property="name" id="wb-cont"&gt;[Titre du thème ou du sujet]&lt;/h1&gt;
-        &lt;p class="pagetag provisional"&gt;1-2 phrases qui décrivent les sujets et les principales tâches accessibles sur cette page.&lt;/p&gt;
+        &lt;p class="pagetag"&gt;1-2 phrases qui décrivent les sujets et les principales tâches accessibles sur cette page.&lt;/p&gt;
       &lt;/div&gt;
-      &lt;div class="provisional col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs"&gt; &lt;!-- supprimer ce div si vous ne voulez pas d'image --&gt;
+      &lt;div class="col-md-6 pstn-rght-md pstn-bttm-md hidden-sm hidden-xs"&gt; &lt;!-- supprimer ce div si vous ne voulez pas d'image --&gt;
         &lt;img alt="#"  src="./images/theme-topic-img-825x200.jpg"/&gt;
       &lt;/div&gt; &lt;!-- fin du div de l'image --&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;section class="most-requested-bullets with-img provisional well well-sm brdr-0 mrgn-tp-md"&gt; &lt;!-- supprimez la classe "with-img" si vous n'utilisez pas d'image --&gt;
+&lt;section class="provisional most-requested-bullets well well-sm brdr-0 mrgn-tp-0"&gt; &lt;!-- supprimez la classe "mrgn-tp-0" si vous n'utilisez pas d'image --&gt;
   &lt;div class="container"&gt;
     &lt;div class="row"&gt;
       &lt;div class="pddng-r-0 col-md-2"&gt;
@@ -283,35 +283,38 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class="provisional promo-social mrgn-tp-md"&gt; &lt;!-- section facultative : En vedette et médias sociaux - la conception est flexible --&gt;
+&lt;!-- section facultative : En vedette et médias sociaux - la conception est flexible --&gt;
+&lt;div class="provisional gc-prtts mrgn-tp-md"&gt;
   &lt;div class="container"&gt;
     &lt;div class="row"&gt;
-      &lt;h2 class="wb-inv"&gt;En vedette&lt;/h2&gt;
-        &lt;section class="col-md-8 mrgn-bttm-md mrgn-tp-lg"&gt;
-          &lt;div class="row"&gt;
-            &lt;div class="col-md-6 gc-srvinfo pull-right mobile-left"&gt;
-              &lt;h3 class="h5"&gt;&lt;a href="#"&gt;Titre de l'élément en vedette&lt;/a&gt;&lt;/h3&gt;
+	  &lt;section class="provisional single-feature col-md-8 mrgn-bttm-md mrgn-tp-lg"&gt;
+		&lt;h2 class="wb-inv"&gt;En vedette&lt;/h2&gt;
+        &lt;a href="#"&gt;
+          &lt;figure class="row"&gt;
+            &lt;figcaption class="pull-right col-md-6 col-xs-12"&gt;[Titre de l'élément en vedette]&lt;/figcaption&gt;
+            &lt;div class="pull-left col-md-6 col-xs-12"&gt;
+              &lt;img src="./images/feature-img-360x203.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm"&gt;
+            &lt;/div&gt;
+            &lt;div class="pull-right col-md-6 col-xs-12"&gt;
               &lt;p&gt;Brève descripton de l'élément en vedette.&lt;/p&gt;
             &lt;/div&gt;
-            &lt;div class="col-md-6"&gt;
-            &lt;a href="#"&gt;&lt;img alt="" class="img-responsive thumbnail mrgn-bttm-sm"
-                src="./images/feature-img-360x203.jpg" /&gt; &lt;/a&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/section&gt;
-      &lt;div class="col-md-4 mrgn-bttm-sm pull-right mobile-left"&gt; &lt;!-- supprimer ce div et cette section si vous n'incluez pas de renseignements sur les médias sociaux --&gt;
-        &lt;section class="provisional followus followus-vertical"&gt;
-          &lt;h2&gt;Dans les médias sociaux
-          &lt;/h2&gt;
+          &lt;/figure&gt;
+        &lt;/a&gt;
+      &lt;/section&gt;
+
+	&lt;!-- supprimer ce div et cette section si vous n'incluez pas de renseignements sur les médias sociaux --&gt;
+      &lt;section class="col-md-4 mrgn-bttm-sm"&gt;
+        &lt;div class="provisional followus followus-vertical"&gt;
+          &lt;h2&gt;Dans les médias sociaux&lt;/h2&gt;
           &lt;ul&gt;
-            &lt;li class="newicon facebook"&gt;&lt;a href="#" rel="external" class="social-lnk"&gt;&lt;b&gt;NomPageFacebook&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
-            &lt;li class="newicon twitter"&gt;&lt;a href="#" rel="external" class="social-lnk"&gt;&lt;b&gt;@CompteTwitter&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
-            &lt;li class="newicon youtube"&gt;&lt;a href="#" rel="external" class="social-lnk"&gt;&lt;b&gt;NomYouTube&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
-            &lt;li class="newicon instagram"&gt;&lt;a href="#" rel="external" class="social-lnk"&gt;&lt;b&gt;NomInstagram&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;li class="facebook"&gt;&lt;a href="#" rel="external" class="social-lnk"&gt;&lt;b&gt;NomPageFacebook&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;li class="twitter"&gt;&lt;a href="#" rel="external" class="social-lnk"&gt;&lt;b&gt;@CompteTwitter&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;li class="youtube"&gt;&lt;a href="#" rel="external" class="social-lnk"&gt;&lt;b&gt;NomYouTube&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;li class="instagram"&gt;&lt;a href="#" rel="external" class="social-lnk"&gt;&lt;b&gt;NomInstagram&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;
           &lt;/ul&gt;
-        &lt;/section&gt;
-      &lt;/div&gt; &lt;!-- fin du div des médias sociaux --&gt;
-    &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/section&gt;
+    &lt;/div&gt; &lt;!-- fin du div des médias sociaux --&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -319,11 +322,11 @@
   &lt;div class="row"&gt;
     &lt;h2 class="wb-inv"&gt;Collaborateurs&lt;/h2&gt;
     &lt;div class="row"&gt;
-      &lt;section class="col-md-12 provisional"&gt;
+      &lt;section class="col-md-12"&gt;
         &lt;div class="col-md-1"&gt;
-          &lt;h3 class="from"&gt;De :&lt;/h3&gt;
+          &lt;h3 class="provisional from"&gt;De :&lt;/h3&gt;
         &lt;/div&gt;
-        &lt;div class="col-md-11 contributors"&gt;
+        &lt;div class="provisional contributors col-md-11"&gt;
           &lt;ul&gt;
             &lt;li&gt;&lt;a href=""&gt;[Ministère ou agence]&lt;/a&gt;&lt;/li&gt;
           &lt;/ul&gt;
