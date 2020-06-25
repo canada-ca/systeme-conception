@@ -112,6 +112,13 @@
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/topic-fr.html\">Sujet</a>",
     "MANDATORY": "Non"
   }, {
+    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/en-tete-general.html\">En-t&#234;te g&#233;n&#233;ral </a>",
+    "USE": "L'en-t&#234;teg&#233;n&#233;ral (à l'&#233;chelle du site) qui se trouve au haut de chaque page Web - <strong>Conception obligatoire</strong>",
+    "CAT": "Configuration de conception",
+    "TYPE": "Configuration &#224; l'&#233;chelle du site",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Obligatoire"
+  }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/fil-ariane.html\">Fil d'Ariane</a>",
     "USE": "Repr&#233;sente l’emplacement de la page actuelle dans le mod&#232le de navigation de l’utilisateur du site - <strong>Conception obligatoire</strong>",
     "CAT": "Configuration de conception",
