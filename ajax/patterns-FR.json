@@ -113,7 +113,7 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/en-tete-general.html\">En-t&#234;te g&#233;n&#233;ral </a>",
-    "USE": "L'en-t&#234;teg&#233;n&#233;ral (à l'&#233;chelle du site) qui se trouve au haut de chaque page Web - <strong>Conception obligatoire</strong>",
+    "USE": "L'en-t&#234;te g&#233;n&#233;ral (à l'&#233;chelle du site) qui se trouve au haut de chaque page Web - <strong>Conception obligatoire</strong>",
     "CAT": "Configuration de conception",
     "TYPE": "Configuration &#224; l'&#233;chelle du site",
     "EXAMPLE": "&nbsp;",
