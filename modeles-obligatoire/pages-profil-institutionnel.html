@@ -43,37 +43,6 @@
       gtag('js', new Date());
       gtag('config', 'UA-105628416-3');
     </script>
-    <style>
-      /* added to detail summaries inside the code to remove the bottom spacing */
-      .pattern-demo-code-ex details {
-        margin-bottom: 0px !important;
-      }
-
-      .pattern-demo-code-ex .featured {
-        margin-left: .07em !important;
-        margin-right: .07em !important;
-      }
-
-      .pattern-demo {
-        padding: 0px !important;
-        margin: 0px !important;
-        border: none !important;
-      }
-
-      .pattern-demo-code-ex {
-        margin-left: -35px !important;
-        margin-right: -35px !important;
-      }
-
-      .guidance-details details, .guidance-details summary, .guidance-details details summary:focus, .guidance-details details summary:hover {
-        background-color: white;
-      }
-      @media (min-width: 1200px) {
-        .pattern-demo-ex .container {
-          width: 1100px;
-        }
-      }
-    </style>
   </head>
   <body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
     <ul id="wb-tphp">
@@ -236,244 +205,188 @@
                     <summary>HTML</summary>
                     <pre>
                       <code>
-&lt;div class="ip-cover-img"&gt;
-&lt;div class="container"&gt;
-  &lt;div class="row"&gt;
-    &lt;div class="col-md-7"&gt;
-      &lt;h1 property="name" id="wb-cont"&gt;[Nom de l'institution]&lt;/h1&gt;
-      &lt;p&gt;Brève description du mandat de l'institution.&lt;/p&gt;
-      &lt;a class="btn btn-call-to-action ip-btn" href="#"&gt;Bouton vers une super-tâche [facultatif]&lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="clearfix"&gt;&lt;/div&gt;
-  &lt;/div&gt;
+&lt;div class="provisional ilp-cover-img"&gt;
+	&lt;div class="container"&gt;
+		&lt;div class="row"&gt;
+			&lt;div class="col-md-7"&gt;
+				&lt;h1 property="name" id="wb-cont"&gt;[Nom de l'institution]&lt;/h1&gt;
+				&lt;p&gt;Brève description du mandat de l'institution.&lt;/p&gt;
+				&lt;a class="btn btn-call-to-action ilp-btn" href="#"&gt;Lien vers une super-tâche [facultatif]&lt;/a&gt;
+			&lt;/div&gt;
+			&lt;div class="clearfix"&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;section class="featured opct-90"&gt;
-&lt;div class="container"&gt;
-  &lt;div class="row"&gt;
-    &lt;div class="col-sm-12"&gt;
-      &lt;h2 class="wb-inv"&gt;En vedette&lt;/h2&gt;
-      &lt;a class="h5" href="#"&gt;Lien en vedette [facultatif]&lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;section class="provisional featured opct-90"&gt;
+	&lt;div class="container"&gt;
+		&lt;h2 class="wb-inv"&gt;Lien en vedette&lt;/h2&gt;
+		&lt;a class="h5" href="#"&gt;Lien en vedette [facultatif]&lt;/a&gt;
+	&lt;/div&gt;
 &lt;/section&gt;
-&lt;section class="most-requested well well-md brdr-0"&gt;
-&lt;div class="container"&gt;
-  &lt;div class="row"&gt;
-    &lt;div class="col-sm-12"&gt;
-      &lt;h2 class="mrgn-tp-md"&gt;En demande&lt;/h2&gt;
-      &lt;ul class="wb-eqht list-unstyled mrgn-tp-md mrgn-bttm-sm lst-spcd-2 list-responsive-3"&gt;
-        &lt;!-- can use 'list-responsive' to get 4 column option --&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;section class="provisional most-requested-bullets well well-sm brdr-0"&gt;
+	&lt;div class="container"&gt;
+		&lt;div class="row"&gt;
+			&lt;div class="pddng-r-0 col-md-2"&gt;
+				&lt;h2 class="mrgn-tp-md"&gt;En demande&lt;/h2&gt;
+			&lt;/div&gt;
+			&lt;div class="col-md-10"&gt;
+				&lt;ul class="wb-eqht mrgn-tp-md mrgn-bttm-md colcount-md-2"&gt;
+					&lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;[Lien vers une tâche principale]&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
 &lt;/section&gt;
-&lt;section class="gc-srvinfo mrgn-bttm-lg"&gt;
-&lt;div class="container"&gt;
-  &lt;div class="row"&gt;
-    &lt;h2 class="wb-inv"&gt;Services et renseignements&lt;/h2&gt;
-    &lt;div class="wb-eqht"&gt;
-      &lt;section class="col-md-4"&gt;
-        &lt;h3&gt;&lt;a href="#"&gt;[Texte de l'hyperlien]&lt;/a&gt;&lt;/h3&gt;
-        &lt;p&gt;Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.&lt;/p&gt;
-      &lt;/section&gt;
-      &lt;section class="col-md-4"&gt;
-        &lt;h3&gt;&lt;a href="#"&gt;[Texte de l'hyperlien]&lt;/a&gt;&lt;/h3&gt;
-        &lt;p&gt;Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.&lt;/p&gt;
-      &lt;/section&gt;
-      &lt;section class="col-md-4"&gt;
-        &lt;h3&gt;&lt;a href="#"&gt;[Texte de l'hyperlien]&lt;/a&gt;&lt;/h3&gt;
-        &lt;p&gt;Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.&lt;/p&gt;
-      &lt;/section&gt;
-      &lt;section class="col-md-4"&gt;
-        &lt;h3&gt;&lt;a href="#"&gt;[Texte de l'hyperlien]&lt;/a&gt;&lt;/h3&gt;
-        &lt;p&gt;Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.&lt;/p&gt;
-      &lt;/section&gt;
-      &lt;section class="col-md-4"&gt;
-        &lt;h3&gt;&lt;a href="#"&gt;[Texte de l'hyperlien]&lt;/a&gt;&lt;/h3&gt;
-        &lt;p&gt;Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.&lt;/p&gt;
-      &lt;/section&gt;
-      &lt;section class="col-md-4"&gt;
-        &lt;h3&gt;&lt;a href="#"&gt;[Texte de l'hyperlien]&lt;/a&gt;&lt;/h3&gt;
-        &lt;p&gt;Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.&lt;/p&gt;
-      &lt;/section&gt;
-      &lt;section class="col-md-4"&gt;
-        &lt;h3&gt;&lt;a href="#"&gt;[Texte de l'hyperlien]&lt;/a&gt;&lt;/h3&gt;
-        &lt;p&gt;Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.&lt;/p&gt;
-      &lt;/section&gt;
-      &lt;section class="col-md-4"&gt;
-        &lt;h3&gt;&lt;a href="#"&gt;[Texte de l'hyperlien]&lt;/a&gt;&lt;/h3&gt;
-        &lt;p&gt;Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.&lt;/p&gt;
-      &lt;/section&gt;
-      &lt;section class="col-md-4"&gt;
-        &lt;h3&gt;&lt;a href="#"&gt;[Texte de l'hyperlien]&lt;/a&gt;&lt;/h3&gt;
-        &lt;p&gt;Utilisez une formulation basée sur l'action, ou faites simplement une les des mots-clés qui résument les renseignements disponibles ou des tâches pouvant être accomplies sur la page liée.&lt;/p&gt;
-      &lt;/section&gt;
-      &lt;div class="clearfix"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;section class="gc-srvinfo col-md-12 mrgn-bttm-lg"&gt;
+	&lt;div class="container"&gt;
+		&lt;div class="row"&gt;
+			&lt;h2 class="wb-inv"&gt;Services et renseignements&lt;/h2&gt;
+			&lt;div class="wb-eqht"&gt;
+				&lt;div class="col-lg-4 col-md-6"&gt;
+					&lt;h3&gt;&lt;a href="#"&gt;[Lien à un sujet]&lt;/a&gt;&lt;/h3&gt;
+					&lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés
+						et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class="col-lg-4 col-md-6"&gt;
+					&lt;h3&gt;&lt;a href="#"&gt;[Lien à un sujet]&lt;/a&gt;&lt;/h3&gt;
+					&lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés
+						et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class="col-lg-4 col-md-6"&gt;
+					&lt;h3&gt;&lt;a href="#"&gt;[Lien à un sujet]&lt;/a&gt;&lt;/h3&gt;
+					&lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés
+						et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class="col-lg-4 col-md-6"&gt;
+					&lt;h3&gt;&lt;a href="#"&gt;[Lien à un sujet]&lt;/a&gt;&lt;/h3&gt;
+					&lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés
+						et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class="col-lg-4 col-md-6"&gt;
+					&lt;h3&gt;&lt;a href="#"&gt;[Lien à un sujet]&lt;/a&gt;&lt;/h3&gt;
+					&lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés
+						et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class="col-lg-4 col-md-6"&gt;
+					&lt;h3&gt;&lt;a href="#"&gt;[Lien à un sujet]&lt;/a&gt;&lt;/h3&gt;
+					&lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés
+						et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class="col-lg-4 col-md-6"&gt;
+					&lt;h3&gt;&lt;a href="#"&gt;[Lien à un sujet]&lt;/a&gt;&lt;/h3&gt;
+					&lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés
+						et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class="col-lg-4 col-md-6"&gt;
+					&lt;h3&gt;&lt;a href="#"&gt;[Lien à un sujet]&lt;/a&gt;&lt;/h3&gt;
+					&lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés
+						et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class="col-lg-4 col-md-6"&gt;
+					&lt;h3&gt;&lt;a href="#"&gt;[Lien à un sujet]&lt;/a&gt;&lt;/h3&gt;
+					&lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés
+						et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
+				&lt;/div&gt;
+				&lt;div class="clearfix"&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
 &lt;/section&gt;
-&lt;div class="most-requested well well-sm brdr-0"&gt;
+&lt;div class="clearfix"&gt;&lt;/div&gt;
+&lt;section class="well well-sm brdr-0"&gt;
+	&lt;div class="container"&gt;
+		&lt;div class="wb-eqht"&gt;
+			&lt;h2 class="h3 mrgn-tp-md"&gt;Coordonnées&lt;/h2&gt;
+			&lt;ul class="provisional list-bld list-unstyled mrgn-tp-lg lst-spcd-2 colcount-md-3"&gt;
+				&lt;li&gt;&lt;a href="#"&gt;Communiquer avec [institution]&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="#"&gt;[Tâche de contact 2]&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="#"&gt;[Tâche de contact 3]&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		&lt;div class="row"&gt;
+			&lt;section class="col-md-8 pull-left mrgn-bttm-lg"&gt;
+				&lt;h2 class="h3 mrgn-tp-md"&gt;À propos de [Institution]&lt;/h2&gt;
+				&lt;ul class="provisional list-bld list-unstyled mrgn-tp-lg lst-spcd-2 colcount-md-2"&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Mandat&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Structure organisationnelle&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Transparence&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Possibilités d'emploi&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Rapports&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Observation&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;Avis de mesure d'exécution&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;[Lien institutionnel]&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="#"&gt;[Lien institutionnel]&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;En savoir plus: &lt;a href="#" rel="external"&gt;Au sujet de [institution]&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/section&gt;
+			&lt;div class="col-md-4 col-sm-5 pull-right mobile-left"&gt;
+				&lt;section class="lnkbx"&gt;
+					&lt;h2 class="h3"&gt;Ministre&lt;/h2&gt;
+					&lt;p&gt;&lt;a href="#"&gt;[(L'honorable) prénom et nom de famille]&lt;/a&gt;&lt;br&gt;
+					&lt;small&gt;Titre officiel du ministre&lt;/small&gt;&lt;/p&gt;
+					&lt;p&gt;&lt;a href="#"&gt;[(L'honorable) prénom et nom de famille]&lt;/a&gt;&lt;br&gt;
+					&lt;small&gt;Titre officiel du ministre&lt;/small&gt;&lt;/p&gt;
+					&lt;p&gt;&lt;a href="#"&gt;[(L'honorable) prénom et nom de famille]&lt;/a&gt;&lt;br&gt;
+					&lt;small&gt;Titre officiel du ministre&lt;/small&gt;&lt;/p&gt;
+				&lt;/section&gt;
+				&lt;section class="provisional followus"&gt;
+					&lt;h2 class="mrgn-tp-lg h3"&gt;Suivez&lt;/h2&gt;
+					&lt;ul&gt;
+						&lt;li&gt;&lt;a href="#" class="facebook" rel="external"&gt;&lt;span class="wb-inv"&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="#" class="twitter" rel="external"&gt;&lt;span class="wb-inv"&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="#" class="youtube" rel="external"&gt;&lt;span class="wb-inv"&gt;YouTube&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href="#" class="linkedin" rel="external"&gt;&lt;span class="wb-inv"&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/section&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
 &lt;div class="container"&gt;
-  &lt;div class="row"&gt;
-    &lt;section class="wb-eqht"&gt;
-      &lt;h2 class="col-lg-3 h3"&gt;Coordonnées&lt;/h2&gt;
-      &lt;span class="clearfix"&gt;&lt;/span&gt;
-      &lt;section class="col-lg-4 col-sm-6"&gt;
-        &lt;h3 class="h5"&gt;&lt;a href="#"&gt;Communiquer avec [institution]&lt;/a&gt;&lt;/h3&gt;
-      &lt;/section&gt;
-      &lt;section class="col-lg-4 col-sm-6"&gt;
-        &lt;h3 class="h5"&gt;&lt;a href="#"&gt;[Tâche de contact 2]&lt;/a&gt;&lt;/h3&gt;
-      &lt;/section&gt;
-      &lt;section class="col-lg-4 col-sm-6"&gt;
-        &lt;h3 class="h5"&gt;&lt;a href="#"&gt;[Tâche de contact 3]&lt;/a&gt;&lt;/h3&gt;
-      &lt;/section&gt;
-    &lt;/section&gt;
-  &lt;/div&gt;
-  &lt;div class="row"&gt;
-    &lt;section class="col-md-8 pull-left mrgn-bttm-lg"&gt;
-      &lt;h2 class="h3"&gt;À propos de [Institution]&lt;/h2&gt;
-      &lt;div class="wb-eqht row"&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;section&gt;
-            &lt;h3 class="h5"&gt;
-              &lt;a href="#"&gt;Mandat&lt;/a&gt;
-            &lt;/h3&gt;
-          &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;section&gt;
-            &lt;h3 class="h5"&gt;
-              &lt;a href="#"&gt;Structure organisationnelle&lt;/a&gt;
-            &lt;/h3&gt;
-          &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;section&gt;
-            &lt;h3 class="h5"&gt;
-              &lt;a href="#" rel="external"&gt;Transparence&lt;/a&gt;
-            &lt;/h3&gt;
-          &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;section&gt;
-            &lt;h3 class="h5"&gt;
-              &lt;a href="#" rel="external"&gt;Possibilités d'emploi&lt;/a&gt;
-            &lt;/h3&gt;
-          &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;section&gt;
-            &lt;h3 class="h5"&gt;
-              &lt;a href="#"&gt;Rapports&lt;/a&gt;
-            &lt;/h3&gt;
-          &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;section&gt;
-            &lt;h3 class="h5"&gt;
-              &lt;a href="#"&gt;Observation&lt;/a&gt;
-            &lt;/h3&gt;
-          &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;section&gt;
-            &lt;h3 class="h5"&gt;
-              &lt;a href="#"&gt;Avis de mesure d'exécution&lt;/a&gt;
-            &lt;/h3&gt;
-          &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;section&gt;
-            &lt;h3 class="h5"&gt;
-              &lt;a href="#"&gt;Lien institutionnel&lt;/a&gt;
-            &lt;/h3&gt;
-          &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;section&gt;
-            &lt;h3 class="h5"&gt;
-              &lt;a href="#"&gt;Lien institutionnel&lt;/a&gt;
-            &lt;/h3&gt;
-          &lt;/section&gt;
-        &lt;/div&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;section&gt;
-            &lt;h3 class="h5"&gt;En savoir plus&nbsp;:
-              &lt;a href="#" rel="external"&gt;Au sujet de [institution]&lt;/a&gt;
-            &lt;/h3&gt;
-          &lt;/section&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;
-    &lt;div class="col-md-4 col-sm-5 pull-right mobile-left"&gt;
-      &lt;section class="lnkbx"&gt;
-        &lt;h2 class="h3"&gt;Ministre&lt;/h2&gt;
-        &lt;p&gt;&lt;a href="#"&gt;[(L'honorable) prénom et nom de famille]&lt;/a&gt;&lt;br&gt;
-          &lt;small&gt;Titre officiel du ministre&lt;/small&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;a href="#"&gt;[(L'honorable) prénom et nom de famille]&lt;/a&gt;&lt;br&gt;
-          &lt;small&gt;Titre officiel du ministre&lt;/small&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;a href="#"&gt;[(L'honorable) prénom et nom de famille]&lt;/a&gt;&lt;br&gt;
-          &lt;small&gt;Titre officiel du ministre&lt;/small&gt;&lt;/p&gt;
-      &lt;/section&gt;
-      &lt;section class="followus experimental"&gt;
-        &lt;h2 class="mrgn-tp-lg h3"&gt;Suivez&lt;/h2&gt;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href="https://www.facebook.com/canrevagency" class="facebook" rel="external"&gt;&lt;span class="wb-inv"&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href="https://twitter.com/CanRevAgency" class="twitter" rel="external"&gt;&lt;span class="wb-inv"&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href="https://www.youtube.com/user/CanRevAgency" class="youtube" rel="external"&gt;&lt;span class="wb-inv"&gt;YouTube&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href="https://www.linkedin.com/company/cra-arc" class="linkedin" rel="external"&gt;&lt;span class="wb-inv"&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/section&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- News bar start --&gt;
-&lt;div class="container"&gt;
-&lt;div class="row"&gt;
-  &lt;section class="col-md-4 wb-feeds limit-3 gc-nws"&gt;
-    &lt;h2 class="h3"&gt;Nouvelles&lt;/h2&gt;
-    &lt;!-- demonstrate the look - use json feed where applicable --&gt;
-    &lt;ul class="feeds-cont list-unstyled lst-spcd feed-active"&gt;
-      &lt;li&gt;&lt;a href="#"&gt;[Titre de nouvelle]&lt;/a&gt;&lt;br&gt; &lt;small class="feeds-date"&gt;AAAA-MM-JJ HH:MM&lt;/small&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href="#"&gt;[Titre de nouvelle]&lt;/a&gt;&lt;br&gt; &lt;small class="feeds-date"&gt;AAAA-MM-JJ HH:MM&lt;/small&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href="#"&gt;[Titre de nouvelle]&lt;/a&gt;&lt;br&gt; &lt;small class="feeds-date"&gt;AAAA-MM-JJ HH:MM&lt;/small&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;p&gt;En savoir plus: &lt;a href="#" class="admin"&gt;Nouvelles de [Institution]&lt;/a&gt;&lt;/p&gt;
-  &lt;/section&gt;
-  &lt;section class="col-md-8 gc-prtts"&gt;
-    &lt;h2 class="h3"&gt;En vedette&lt;/h2&gt;
-    &lt;div class="row wb-eqht"&gt;
-      &lt;div class="col-md-6 mrgn-bttm-md"&gt;
-        &lt;a class="hght-inhrt" href="#"&gt;
-          &lt;section class="well well-sm brdr-rds-0 hght-inhrt"&gt;
-            &lt;img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png"&gt;
-            &lt;h3 class="h5"&gt;[Hyperlien de l'élément]&lt;/h3&gt;
-            &lt;p&gt;Brève description de l'élément en vedette.&lt;/p&gt;
-          &lt;/section&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div class="col-md-6 mrgn-bttm-md"&gt;
-        &lt;a class="hght-inhrt" href="https://www.canada.ca/en/revenue-agency/campaigns/my-benefits-credits.html"&gt;
-          &lt;section class="well well-sm brdr-rds-0 hght-inhrt"&gt;&lt;img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png"&gt;
-            &lt;h3 class="h5"&gt;[Hyperlien de l'élément]&lt;/h3&gt;
-            &lt;p&gt;Brève description de l'élément en vedette.&lt;/p&gt;
-          &lt;/section&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/section&gt;
-&lt;/div&gt;
+	&lt;div class="row"&gt;
+		&lt;section class="col-md-4 wb-feeds limit-3 gc-nws"&gt;
+			&lt;h2 class="h3"&gt;Nouvelles&lt;/h2&gt;
+			&lt;!-- démonstration de l'apparence - utiliser le flux json le cas échéant --&gt;
+			&lt;ul class="feeds-cont list-unstyled lst-spcd feed-active"&gt;
+				&lt;li&gt;&lt;a href="#"&gt;[Titre de nouvelle]&lt;/a&gt;&lt;br&gt; &lt;small class="feeds-date"&gt;AAAA-MM-JJ HH:MM&lt;/small&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="#"&gt;[Titre de nouvelle]&lt;/a&gt;&lt;br&gt; &lt;small class="feeds-date"&gt;AAAA-MM-JJ HH:MM&lt;/small&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="#"&gt;[Titre de nouvelle]&lt;/a&gt;&lt;br&gt; &lt;small class="feeds-date"&gt;AAAA-MM-JJ HH:MM&lt;/small&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+			&lt;!-- exemple de flux json pour les nouvelles
+			&lt;ul class="feeds-cont list-unstyled lst-spcd"&gt;
+				&lt;li&gt; &lt;a data-ajax="https://www.canada.ca/content/canadasite/api/nws/fds/en/web-feeds/revenue-agency.json" href="https://www.canada.ca/en/revenue-agency.atom.xml" rel="external"&gt;Canada Revenue Agency news items&lt;/a&gt; &lt;/li&gt;
+			&lt;/ul&gt;--&gt;
+			&lt;p&gt;En savoir plus: &lt;a href="#" class="admin"&gt;Nouvelles de [Institution]&lt;/a&gt;&lt;/p&gt;
+		&lt;/section&gt;
+		&lt;section class="col-md-8 gc-prtts"&gt;
+			&lt;h2 class="h3"&gt;En vedette&lt;/h2&gt;
+			&lt;div class="row wb-eqht gc-srvinfo"&gt;
+				&lt;div class="col-md-6 mrgn-bttm-md"&gt;
+					&lt;a class="hght-inhrt" href="#"&gt;
+						&lt;figure class="well well-sm brdr-rds-0 hght-inhrt"&gt;
+							&lt;img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png" /&gt;
+							&lt;figcaption class="mrgn-lft-sm"&gt;[Hyperlien de l'élément]&lt;/figcaption&gt;
+							&lt;p class="mrgn-lft-sm"&gt;Brève description de l'élément en vedette.&lt;/p&gt;
+						&lt;/figure&gt;
+					&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class="col-md-6 mrgn-bttm-md"&gt;
+					&lt;a class="hght-inhrt" href="#"&gt;
+						&lt;figure class="well well-sm brdr-rds-0 hght-inhrt"&gt;
+							&lt;img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png" /&gt;
+							&lt;figcaption class="mrgn-lft-sm"&gt;[Hyperlien de l'élément]&lt;/figcaption&gt;
+							&lt;p class="mrgn-lft-sm"&gt;Brève description de l'élément en vedette.&lt;/p&gt;
+						&lt;/figure&gt;
+					&lt;/a&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/section&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
                       </code>
                     </pre>
@@ -482,130 +395,178 @@
                     <summary>CSS</summary>
                     <pre>
                     <code>
-.ip-cover-img {
-background-image: url("https://test.canada.ca/experimental/working-on/images/ip-cover-image.jpg");
-background-repeat: no-repeat;
-background-size: cover;
-background-position: right;
-margin-top: 15px;
-padding-bottom: 25px;
+.provisional.ilp-cover-img {
+	background-image: url("https://design.canada.ca/coded-layout/images/ip-cover-image-1200x726.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right;
+	margin-top: 15px;
+	padding-bottom: 25px;
 }
 
-.most-requested li {
-font-family: "Lato", sans-serif;
-font-size: 17px;
-font-weight: 600;
-line-height: 26px;
-margin-top: 0
+.provisional .ilp-btn {
+	font-size: 1em;
 }
 
-.most-requested h2 {
-font-size: 1.2em;
+.provisional.featured {
+	margin-bottom: 0em;
+	padding-top:20px;
+	padding-bottom:20px;
+	background: #31708f;
 }
 
-.ip-btn {
-font-size: 1em;
-}
-
-/* supports the 3 column layout for MR instead of 4 columns */
-.list-responsive-3 &gt; li {
-float: left;
-padding-right: 5px;
-width: 50%
-}
-
-.list-responsive-3 &gt; li:nth-child(2n+2) {
-clear: right
-}
-
-.list-responsive-3:before,
-.list-responsive-3:after {
-content: " ";
-display: table
-}
-
-.list-responsive-3:after {
-clear: both
-}
-
-.followus.experimental {
-background-color: #f5f5f5;
-padding: 0;
-}
-
-.followus.experimental h2 {
-display: block;
-}
-
-.followus.experimental h2,
-.followus.experimental ul {
-margin-left: 0;
-}
-
-.followus.experimental ul li a {
-border: solid 2px #f5f5f5;
-}
-
-.featured {
-margin-bottom: 0em;
-padding-top:20px;
-padding-bottom:20px;
-background: #31708f;
-}
-
-.featured a {
-color:#fff
+.provisional.featured a {
+	color:#fff
 }
 
 ul.feeds-cont li a {
-font-weight: bold;
+	font-weight: bold;
 }
 
-@media screen and (max-width: 1200px) {
-.featured {
-  padding-left:.8em;
-}
+.provisional.most-requested-bullets li {
+	font-family: 'Lato', sans-serif;
+	font-size: 17px;
+	font-weight: 600;
+	line-height: 26px;
+	margin-top: 0
 }
 
-@media screen and (min-width: 1200px) {
-.list-responsive-3 &gt; li {
-  width: 33%;
+.provisional.most-requested-bullets .pddng-r-0 {
+	padding-right: 0px;
 }
+
+.provisional.most-requested-bullets h2 {
+	font-size: 1.2em;
+}
+
+.provisional.list-bld {
+	font-weight: 600;
+}
+
+.provisional.followus h2 {
+	font-size: 1.1em;
+	margin-top: 10px;
+}
+
+.provisional.followus {
+	padding: 0;
+}
+
+.provisional.followus h2 {
+	display: block;
+}
+
+.provisional.followus h2,
+.provisional.followus ul {
+	margin-left: 0;
+}
+
+.provisional.followus-vertical {
+	line-height: 0em;
+}
+
+.provisional.followus-vertical,
+.provisional.followus {
+	background-color: transparent;
+}
+
+.provisional.followus-vertical a {
+	text-decoration: none;
+}
+
+.provisional.followus-vertical ul {
+	display: block;
+	list-style-type: none;
+	margin-block-start: 1em;
+	padding-inline-start: 1em;
+	font-size: 16px;
+	margin-block-end: 0em;
+}
+
+.provisional.followus-vertical ul li {
+	margin-bottom: 15px;
+}
+
+.provisional.followus-vertical ul li:last-child {
+	margin-bottom: 0px;
+}
+
+.provisional.followus-vertical ul li a {
+	border: none;
+	padding: 0px 5px;
+}
+
+.provisional.followus ul li a {
+	border: none;
+}
+
+.provisional .social-lnk {
+	position: relative;
+	bottom:-18px;
+	left:45px;
+}
+
+.provisional.followus-vertical li {
+	display: block;
+	background-position: left;
+}
+
+.provisional.followus .facebook,
+.provisional.followus .twitter,
+.provisional.followus .youtube,
+.provisional.followus .instagram,
+.provisional.followus .linkedin {
+	display: block;
+	height: 38px;
+	width: 38px;
+}
+/* supprimez cette section si vous ne voulez pas les nouvelles icônes */
+
+.provisional.followus .facebook {
+	background: url("https://design.canada.ca/images/social-media/facebook.png") 0 0 / cover no-repeat;
+}
+.provisional.followus .twitter {
+	background: url("https://design.canada.ca/images/social-media/twitter.png") 0 0 / cover no-repeat;
+}
+.provisional.followus .youtube {
+	background: url("https://design.canada.ca/images/social-media/youtube.png") 0 0 / cover no-repeat;
+}
+.provisional.followus .instagram {
+	background: url("https://design.canada.ca/images/social-media/instagram.png") 0 0 / cover no-repeat;
+}
+.provisional.followus .linkedin {
+	background: url("https://design.canada.ca/images/social-media/linkedin.png") 0 0 / cover no-repeat;
+}
+/* fin des nouvelles icônes de réseaux sociaux */
+
+@media screen and (max-width: 425px) {
+	.ilp-cover-hide-xxs {
+		background-image: url("none") !important;
+	}
 }
 
 @media screen and (max-width: 767px) {
-.btn-call-to-action {
-  font-size: 19px !important;
-}
+	.btn-call-to-action {
+		font-size: 19px !important;
+		}
 
-.most-requested li {
-  font-size: 19px;
-}
-
-.list-responsive-3 &gt; li {
-  clear: right;
-  width: 100%
-}
-
-.mobile-left {
-  float: left !important;
-}
+	.mobile-left {
+		float: left !important;
+		}
 }
 
 @media screen and (max-width: 768px) {
-
-  .ip-cover-hide-tablet {
-    background-image: url("none") !important;
-  }
-
-
-@media screen and (max-width: 425px) {
-
-  .ip-cover-hide-mobile {
-   background-image: url("none") !important;
-  }
-
+	.ilp-cover-hide-xs {
+		background-image: url("none") !important;
+	}
 }
+
+@media screen and (max-width: 991px) {
+	.provisional.most-requested-bullets li {
+		font-size: 19px;
+	}
+}
+
                     </code>
                   </pre>
                 </details>
@@ -1194,7 +1155,13 @@ font-weight: bold;
           <p><a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">Résumé de recherche : Communiquer avec l’ARC</a></p>
         </section>
         <section>
-          <h2 id="changements">Derniers changements</h2>
+		  <h2 id="changements">Derniers changements</h2>
+		<p><strong>2020-07-13 :</strong></p>
+		<ul>
+			<li>Modifications apportées pour résoudre les problèmes d'accessibilité</li>
+			<li>La section « En demande » a té mise à jour pour utiliser des puces</li>
+			<li>Modifications à la disposition des colonnes de la section Services et renseignements pour les tablettes</li>
+		</ul>
           <p><strong>2020-03-05 :</strong> ajouté une classe CSS facultative pour masquer l'image d'en-tête en mode tablette</p>
           <p><strong>2019-11-28 :</strong> une nouvelle version bêta de ce modèle a été ajoutée.</p>
         </section>
