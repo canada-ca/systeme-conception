@@ -13,8 +13,9 @@
 		<!--[if gte IE 9 | !IE ]><!-->
 		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
 		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
-		<link rel="stylesheet" href="../css/custom.css">
-		<link rel="stylesheet" href="../css/ip.css">
+    <link rel="stylesheet" href="https://design.canada.ca/css/custom.css">
+
+    <link rel="stylesheet" href="https://design.canada.ca/css/guidance-draft.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
 <!--<![endif]-->
 <!--[if lt IE 9]>
@@ -67,6 +68,33 @@
 	<a class="wb-sl" href="#wb-info">Passer à «&#160;Au sujet du gouvernement&#160;»</a>
 </li>
 </ul>
+  <nav class="guidance-ban-nav fr">
+    <h2 class="wb-inv">Navigation and controls</h2>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 col-lg-3 col-sm-4">
+          <div class="guidance-nav">
+            <a href="../modeles-recommandes/transparence.html"><span
+                class="fas fa-arrow-left padding-rght"></span>Transparence et rapports sur l'organisation</a>
+          </div>
+        </div>
+        <div class="guidance-options col-md-6 col-sm-6 col-xs-12">
+          <div class="btn-group">
+            <button id="show-guidance-toggle" class="guidance-toggle btn btn-default active"><span
+                class="fas fa-laptop-code "></span>&nbsp;Voir les directives</button>
+            <button id="hide-guidance-toggle" class="guidance-toggle btn btn-default wb-toggle"
+              data-toggle='[{"selector":"#show-guidance-toggle", "stateOn":"active", "state":"on"},{"stateOn":"active", "state":"off"}]'><span
+                class="fas fa-pen-square"></span>&nbsp;Cacher les directives</button>
+          </div>
+        </div>
+        <div class="get-code col-md-2 col-sm-2 col-xs-12 pull-right">
+          <a href="../modeles-recommandes/transparence.html#code"
+            class="btn btn-sm btn-default pstn-rght-md pull-right pstn-get-code"><span
+              class="fas fa-external-link-alt"></span>&nbsp;<b>Obtenir le code</b></a>
+        </div>
+      </div>
+    </div>
+  </nav>
 <header>
 <div id="wb-bnr" class="container">
 <section id="wb-lng" class="text-right">
@@ -168,11 +196,8 @@
 <h2>Vous êtes ici :</h2>
 <div class="container">
 <ol class="breadcrumb">
-	<li><a href='https://www.canada.ca/fr.html'>Accueil</a></li>
-	<li><a href='https://www.canada.ca/fr/gouvernement/a-propos.html'>À propos de Canada.ca</a></li>
-<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html'>Système de conception de Canada.ca</a></li>
-	<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html'>Bibliothèque de modèles et de configurations de conception</a></li>
-	<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html'>Page d'accueil institutionnelle</a></li>
+	<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a></li>
+	<li><a href='#'>[Fil d'Ariane]</a></li>
 </ol>
 </div>
 </nav>
@@ -232,7 +257,6 @@
 <!--/* Hide Nav; Hide Right Rail /*-->
 
 <main property="mainContentOfPage" typeof="WebPageElement" class="container">
-<p><a class="btn btn-primary" href="./transparence_ng.html">Enlever les directives</a>  <a class="btn btn-default" href="../modeles-recommandes/transparence.html">Retourner à la page du modèle</a></p>
 <h1 property="name" id="wb-cont">Transparence: [Institution]</h1>
 <p class="pagetag">Divulgation proactive de l’information de [institution], qui est rendue publique afin que la population canadienne et le Parlement soient mieux en mesure de demander des comptes au gouvernement et aux représentants du secteur public.</p>
 <div class="row guidance-details">
@@ -354,7 +378,7 @@
           <div class="col-md-12">
             <section class="mrgn-bttm-lg">
               <h2>Vous n’avez pas trouvé ce que vous cherchiez</h2>
-              <p>Présentez une demande d’accès à l’information ou à des renseignements personnels.</p>
+              <p>Demandes d'accès à l’information et protection des renseignements personnels (<abbr title="Accès à l’information et protection des renseignements personnels">AIPRP</abbr>) : </p>
               <ul class="list-unstyled">
                 <li class="pull-left mrgn-rght-lg"><a class="btn btn-primary" href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/presenter-demande.html">Faites une demande d'<abbr title="Accès à l’information et protection des renseignements personnels">AIPRP</abbr></a></li>
                 <li class="pull-left mrgn-tp-sm"><a href="https://ouvert.canada.ca/fr/search/ati?ati%5B0%5D=ss_ati_organization_en%3ATreasury%20Board%20of%20Canada%20Secretariat">Trouvez une demande précédente d'<abbr title="Accès à l’information et protection des renseignements personnels">AIPRP</abbr></a></li>
@@ -386,6 +410,7 @@
 <div class="panel-pane pane-block pane-bean-report-problem-button"  >
 <div class="pane-content">
 <section>
+	<h2 class="wb-inv">Signaler un problème</h2>
 <div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/fr/signaler-probleme.html">Signaler un problème sur cette page</a></div></div></div></section>
 </div>
 </div>
@@ -462,7 +487,8 @@
 			<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
 
 			<![endif]-->
-	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+  <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+  <script src="../js/guidance-toggle.js"></script>
 	<script>
 	document.getElementById('submissionPage').value = location.href;
 </script>

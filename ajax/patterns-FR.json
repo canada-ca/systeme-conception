@@ -77,7 +77,7 @@
     "EXAMPLE": "&nbsp;",
     "MANDATORY": "Non"
   }, {
-    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html\">Contenu r&#233;ductible</a>",
+    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html\">Afficher/masquer</a>",
     "USE": "Utilisez pour cacher le contenu secondaire jusqu'&#224; ce que l'utilisateur le demande",
     "CAT": "Configuration de conception",
     "TYPE": "Interaction",
@@ -111,6 +111,13 @@
     "TYPE": "Navigation",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/topic-fr.html\">Sujet</a>",
     "MANDATORY": "Non"
+  }, {
+    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/en-tete-general.html\">En-t&#234;te g&#233;n&#233;ral </a>",
+    "USE": "L'en-t&#234;te g&#233;n&#233;ral (à l'&#233;chelle du site) qui se trouve au haut de chaque page Web - <strong>Conception obligatoire</strong>",
+    "CAT": "Configuration de conception",
+    "TYPE": "Configuration &#224; l'&#233;chelle du site",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Obligatoire"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/fil-ariane.html\">Fil d'Ariane</a>",
     "USE": "Repr&#233;sente l’emplacement de la page actuelle dans le mod&#232le de navigation de l’utilisateur du site - <strong>Conception obligatoire</strong>",
@@ -336,18 +343,11 @@
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/dept-fr.html\">Minist&#232;res et organismes</a>",
     "MANDATORY": "Non"
   }, {
-    "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/page-sujet.html\">Page de sujet</a>",
-    "USE": "Permet aux personnes de d&#233;couvrir des services et des renseignements li&#233;s &#224; un sujet pr&#233;cis dans l’ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
+    "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/theme-sujet.html\">Page de th&#232;me et de sujet</a>",
+    "USE": "Permet aux personnes de d&#233;couvrir des services et des renseignements li&#233;s &#224; un th&#232;me ou un sujet pr&#233;cis dans l’ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Mod&#232;le de th&#232;me",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/topic-fr.html\">Sujet</a>",
-    "MANDATORY": "Obligatoire"
-  }, {
-    "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-theme.html\">Page de th&#232;me</a>",
-    "USE": " Organise des sujets qui sont logiques pour les personnes afin qu’ils puissent acc&#233;der aux renseignements et services &#224; l’&#233;chelle du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
-    "CAT": "Mod&#232;le de page",
-    "TYPE": "Mod&#232;le de th&#232;me",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/theme-fr.html\">Th&#232;me</a>",
+    "EXAMPLE": "<a href=\"https://conception.canada.ca/mise-en-page/theme-sujet_directives.html\">Th&#232;me et sujet</a>",
     "MANDATORY": "Obligatoire"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-evenements-promotionnels.html\">Page d'&#233;v&#233;nements promotionnels</a>",
