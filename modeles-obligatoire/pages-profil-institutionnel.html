@@ -395,27 +395,30 @@
                     <summary>CSS</summary>
                     <pre>
                     <code>
-.provisional.ilp-cover-img {
-	background-image: url("https://design.canada.ca/coded-layout/images/ip-cover-image-1200x726.jpg");
-	background-repeat: no-repeat;
+.provisional.bg-cover {
 	background-size: cover;
-	background-position: right;
-	margin-top: 15px;
-	padding-bottom: 25px;
 }
 
-.provisional .ilp-btn {
+.provisional.bg-right {
+	background-position: right;
+}
+
+.provisional.pb-3 {
+	padding-bottom: 15px;
+}
+
+.provisional.btn-call-to-action {
 	font-size: 1em;
 }
 
-.provisional.featured {
+.provisional.gc-featured-lnk {
+	background: #31708f;
 	margin-bottom: 0em;
 	padding-top:20px;
 	padding-bottom:20px;
-	background: #31708f;
 }
 
-.provisional.featured a {
+.provisional.gc-featured-lnk a {
 	color:#fff
 }
 
@@ -555,15 +558,15 @@ ul.feeds-cont li a {
 		}
 }
 
-@media screen and (max-width: 768px) {
-	.ilp-cover-hide-xs {
+@media screen and (max-width: 767px) {
+	.provisional.bg-hide-xs {
 		background-image: url("none") !important;
 	}
 }
 
-@media screen and (max-width: 991px) {
-	.provisional.most-requested-bullets li {
-		font-size: 19px;
+@media (min-width:768px) and (max-width:991px) {
+	.provisional.bg-hide-sm {
+		background-image: url("none") !important;
 	}
 }
 
