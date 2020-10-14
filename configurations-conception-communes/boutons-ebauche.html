@@ -177,7 +177,7 @@
 
 <!--/* Hide Nav; Hide Right Rail /*-->
 
-<main role="main" property="mainContentOfPage" class="container">
+<main role="main" property="mainContentOfPage"  class="container wb-prettify all-pre">
 
 
 <h1 property="name" id="wb-cont" dir="ltr">Boutons - Configuration de conception de Canada.ca</h1>
@@ -201,7 +201,7 @@
 	   <p>Utiliser cette configuration pour exécuter des mesures ou des commandes qui modifieront l’état du système en aval ou en amont (par exemple « Ajouter un commentaire », « Soumettre », « Envoyer »).</p>
 	   <p>Utiliser des boutons pour :</p>
 	   <ul>
-	      <li>aider une personne à amorcer ou à mener à bien une transaction (un bouton « Rétroaction », par exemple);</li>
+	      <li>aider une personne à amorcer ou à mener à bien une transaction (un bouton « Se connecter », par exemple);</li>
 	      <li>invoquer une fonction, commme « Partager cette page »;</li>
 	      <li>offrir un ensemble permanent de commandes d’interface utilisateur dans une série de page, par exemple « précédent », « suivant », ou « retour à la table des matières »</li>
 	   </ul>
@@ -229,50 +229,91 @@
 	      <li>débuter une série de questions interactives</li>
 	      <li>trouver un clinique</li>
 	   </ul>
+		 <p>Il peut aussi être utilisé dans la <a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d'accueil institutionnelle</a>.</p>
 	   <p><strong>Quoi éviter :</strong> ne pas utiliser de bouton d'appel à l'action pour promouvoir quelque chose qui n'est pas la tâche principale que les gens recherchent sur cette page. Pour les promotions, utilisez plutôt des <a href="https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a> ou une <a href="https://conception.canada.ca/configurations-conception-communes/banniere-promotionnelle.html">Bannière promotionnelle</a>. </p>
 	   <div class="pattern-demo mrgn-bttm-md">
-	      <button class="btn btn-call-to-action">Action</button>
+	      <button class="btn btn-call-to-action">Calculer combien vous pourriez recevoir</button>
 	   </div>
 	   <details>
 	      <summary>Code</summary>
-	      <pre><code>&lt;button class="btn btn-call-to-action"&gt;Action&lt;/button&gt;</code></pre>
+	      <pre><code>&lt;button class="btn btn-call-to-action"&gt;Calculer combien vous pourriez recevoir&lt;/button&gt;</code></pre>
 	   </details>
 	   <h3 id="primaire">2. Bouton primaire</h3>
 	   <p><strong>Quand l'utiliser : </strong>utiliser les boutons primaires pour les actions qu'une personne est susceptible d'effectuer sur cette page, comme passer à la page suivante ou pour un bouton de soumission dans un formulaire.</p>
+		 <p><strong>Quoi éviter :</strong> ne pas utiliser plus d'un bouton primaire par page.</p>
 	   <div class="pattern-demo mrgn-bttm-md">
-	      <button class="btn btn-primary">Action</button>
+	      <button class="btn btn-primary">Soumettre</button>
 	   </div>
 	   <details>
 	      <summary>Code</summary>
-	      <pre><code>&lt;button class="btn btn-primary"&gt;Action&lt;/button&gt;</code></pre>
+	      <pre><code>&lt;button class="btn btn-primary"&gt;Soumettre&lt;/button&gt;</code></pre>
 	   </details>
 	   <h3 id="secondaire">3. Bouton secondaire</h3>
 	   <p><strong>Quand l'utiliser : </strong>utiliser des boutons secondaires pour les options alternatives, moins importantes ou moins susceptibles d'être utilisées, comme le bouton "précédent" dans un formulaire.</p>
 	   <div class="pattern-demo mrgn-bttm-md">
-	      <button class="btn btn-default">Action</button>
+	      <button class="btn btn-default">Précédent</button>
 	   </div>
 	   <details>
 	      <summary>Code</summary>
-	      <pre><code>&lt;button class="btn btn-default"&gt;Action&lt;/button&gt;</code></pre>
+	      <pre><code>&lt;button class="btn btn-default"&gt;Précédent&lt;/button&gt;</code></pre>
 	   </details>
 	   <h3 id="danger">4. Bouton danger</h3>
 	   <p><strong>Quand l'utiliser : </strong>Utiliser les boutons danger pour attirer l'attention sur une action qui pourrait avoir des conséquences, comme supprimer un formulaire ou quitter une applications authentifiée.</p>
+		 <p><strong>Quoi éviter :</strong> ne pas utiliser de bouton danger à moins que ce soit absolument nécessaire.</p>
 	   <div class="pattern-demo mrgn-bttm-md">
-	      <button class="btn btn-danger">Action</button>
+	      <button class="btn btn-danger">Effacer le formulaire</button>
 	   </div>
 	   <details>
 	      <summary>Code</summary>
-	      <pre><code>&lt;button class="btn btn-danger"&gt;Action&lt;/button&gt;</code></pre>
+	      <pre><code>&lt;button class="btn btn-danger"&gt;Effacer le formulaire&lt;/button&gt;</code></pre>
 	   </details>
 	   <h3 id="lien">5. Bouton lien</h3>
 	   <p><strong>Quand l'utiliser : </strong>Utiliser les boutons lien pour les options peu utilisées, par exemple pour redémarrer un assistant ou une calculatrice.</p>
 	   <div class="pattern-demo mrgn-bttm-md">
-	      <button class="btn btn-link">Action</button>
+	      <button class="btn btn-link">Lien</button>
 	   </div>
 	   <details>
 	      <summary>Code</summary>
-	      <pre><code>&lt;button class="btn btn-link"&gt;Action&lt;/button&gt;</code></pre>
+	      <pre><code>&lt;button class="btn btn-link"&gt;Lien&lt;/button&gt;</code></pre>
 	   </details>
+		 <h3>Modifications des boutons</h3>
+   		<table class="table">
+       	<thead>
+           <tr>
+               <th>Option</th>
+               <th>Description</th>
+               <th>Comment mettre en oeuvre</th>
+           </tr>
+       </thead>
+       <tbody>
+           <tr>
+               <td>Pleine largeur</td>
+               <td>Faites en sorte qu'un bouton occupe toute la largeur de sa colonne.</td>
+               <td>Ajouter la classe <code>btn-block</code> au bouton</td>
+           </tr>
+           <tr>
+               <td>Boutons groupés</td>
+               <td>Les boutons peuvent être groupés côte à côte, par exemple pour les boutons qui permettent de basculer d'un état à un autre.</td>
+               <td>Entourer les boutons groupés d'un <code>div</code> avec la classe <code>btn-group</code>.</td>
+           </tr>
+           <tr>
+               <td>Changer la taille</td>
+               <td>Les boutons peuvent être dimensionnés de manière à améliorer la visibilité pour l'appel à l'action ou pour gagner de la place dans les conceptions tels que boutons qui permettent de basculer d'un état à un autre.</td>
+               <td>Ajouter les classe suivantes au bouton :
+                   <ul>
+                       <li>Grand: <code>btn-lg</code></li>
+                       <li>Petit: <code>btn-sm</code></li>
+                       <li>Très petit: <code>btn-xs</code></li>
+                   </ul>
+               </td>
+           </tr>
+           <tr>
+               <td>Désactiver le bouton</td>
+               <td>Mettre un bouton en gris pour qu'il ne soit pas cliquable. En général, essayez de supprimer le bouton plutôt que de le désactiver.</td>
+               <td>Ajouter la classe <code>disabled</code> au button.</td>
+           </tr>
+       </tbody>
+     </table>
 	</section>
 	<section>
 	   <h2 id="discussion">Discussion</h2>
