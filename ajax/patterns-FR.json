@@ -84,6 +84,13 @@
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/demos/details/details-fr.html\">BOEW: Contenu affichable/masquable</a>",
     "MANDATORY": "Non"
   }, {
+    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/cases-cocher-boutons-radio.html\">Cases &#224; cocher et boutons radio</a>",
+    "USE": "Permettent aux gens de s&#233;lectionner une r&#233;ponse &#224; une question ou de confirmer des r&#233;ponses.",
+    "CAT": "Configuration de conception",
+    "TYPE": "Interaction",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Non"
+  }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/coordonnees.html\">Coordonn&#233;es</a>",
     "USE": "Utilisez pour pr&#233;senter des coordonn&#233;es sur une page de Canada.ca",
     "CAT": "Configuration de conception",
@@ -104,6 +111,13 @@
     "TYPE": "Visuel",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/docs/ref/charts/charts-fr.html\">BOEW: Graphiques</a>",
     "MANDATORY": "Non"
+  }, {
+    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/canada-point-ca.html\">Domaine Canada.ca</a>",
+    "USE": "Le principal domaine pour la pr&#233;sence du gouvernement du Canada sur le Web",
+    "CAT": "Configuration de conception",
+    "TYPE": "Configuration &#224; l'&#233;chelle du site",
+    "EXAMPLE": "&nbsp;",
+    "MANDATORY": "Obligatoire"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/en-demande.html\">En demande</a>",
     "USE": "Utilisez pour pr&#233;senter les t&#226;ches principales li&#233;es &#224; la page",
