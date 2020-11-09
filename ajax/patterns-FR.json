@@ -43,8 +43,7 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/carrousels.html\">Carrousels</a>",
-    "USE": "Utilisez cette composante pour des situations telles que des galeries d'images ou de vid&#233;os.
-",
+    "USE": "Utilisez cette composante pour des situations telles que des galeries d'images ou de vid&#233;os",
     "CAT": "Configuration de conception",
     "TYPE": "Promotion, Visuel",
     "EXAMPLE": "<a href=\"http://wet-boew.github.io/themes-dist/GCWeb/demos/tabs/tabs-carousel-fr.html\">BOEW: Carrousels</a> – Utilisez le style 2",
