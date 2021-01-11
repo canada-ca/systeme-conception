@@ -1,25 +1,33 @@
 <!DOCTYPE html>
 <html class="no-js" lang="fr" dir="ltr">
-
 	<head>
 		<meta charset="utf-8">
-		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Navigation de style métro - Configuration de conception de Canada.ca de Canada.ca</title>
+		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+			wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+		<title>Navigation de style métro - Configuration de conception de Canada.ca - Canada.ca</title>
 		<meta content="width=device-width,initial-scale=1" name="viewport">
 		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
 		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
 		<link rel="stylesheet" href="https://design.canada.ca/css/custom.css">
+
 		<link rel="stylesheet" href="https://design.canada.ca/css/provisional-alerts.css">
+		<link rel="stylesheet" href="https://design.canada.ca/css/split-h1.css">
+
 		<noscript>
-			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
-		</noscript>
-		<style>
-			.pattern-demo {
-				padding: 19px;
-			}
-		</style>
+			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
+		<script>
+			(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+			})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+			ga('create', 'UA-105628416-1', 'auto');
+			ga('send', 'pageview');
+		</script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-1"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-3"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
 			function gtag() { dataLayer.push(arguments); }
@@ -27,7 +35,6 @@
 			gtag('config', 'UA-105628416-3');
 		</script>
 	</head>
-
 	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
 		<ul id="wb-tphp">
 			<li class="wb-slc">
@@ -44,14 +51,14 @@
 					<div class="row">
 						<div class="col-md-12">
 							<ul class="list-inline margin-bottom-none">
-								<li><a lang="en" href="https://design.canada.ca/common-design-patterns/subway-navigation.html">English</a></li>
+								<li><a lang="en" href="https://design.canada.ca/common-design-patterns/subway-navigation-new.html">English</a></li>
 							</ul>
 						</div>
 					</div>
 				</section>
 				<div class="row">
 					<div class="brand col-xs-5 col-md-4">
-						<a href="https://www.canada.ca/fr.html"><img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-fr.svg" alt=""><span class="wb-inv"> Gouvernement du Canada / <span lang="en">Government of Canada</span></span></a>
+						<a href="https://www.canada.ca/fr.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-fr.svg" alt=""><span class="wb-inv"> Gouvernement du Canada / <span lang="en">Government of Canada</span></span></a>
 					</div>
 					<section id="wb-srch" class="col-lg-8 text-right">
 						<h2>Recherche</h2>
@@ -97,7 +104,7 @@
 				</div>
 			</nav>
 			<nav id="wb-bc" property="breadcrumb">
-				<h2>Vous êtes ici :</h2>
+				<h2>Vous êtes ici&nbsp;:</h2>
 				<div class="container">
 					<ol class="breadcrumb">
 						<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a></li>
@@ -108,62 +115,299 @@
 				</div>
 			</nav>
 		</header>
+		</div>
+		</div>
 		<!--/* Hide Nav; Hide Right Rail /*-->
-		<main property="mainContentOfPage" class="container">
-			<h1 property="name" id="wb-cont" dir="ltr">Navigation de style métro - Bêta - Configuration de conception de Canada.ca</h1>
-			<div class="row profile">
-				<div class="col-md-9">
-					<p class="pagetag">Diviser un service ou un contenu en sections qui se concentrent chacune sur une étape ou une réponse spécifique que les gens doivent consulter avant de passer à l'étape ou à la section suivante.</p>
-				</div>
-				<div class="col-md-3">
-					<div class="small">
-						<ul class="list-unstyled">
-							<li><span class="label label-info">Bêta</span></li>
-							<li class="mrgn-rght-lg"><strong>Version:</strong> 0.1</li>
-							<li class="mrgn-rght-lg"><strong>Mis à jour:</strong> 30 octobre, 2020</li>
-						</ul>
-					</div>
-				</div>
-				<section class="col-md-12">
-					<h2 id="on-this-page">Sur cette page</h2>
-					<ul>
-						<li><a href="#design">Spécifications de conception</a></li>
-						<li><a href="#usage">Utilisation</a></li>
-						<li><a href="#avoid">Quoi éviter</a></li>
-						<li><a href="#versions">Derniers changements</a></li>
-						<li><a href="#discussion">Discussion</a></li>
-					</ul>
-				</section>
-				<div class="col-md-12">
-					<h2 id="design">Spécifications de conception</h2>
-					<div id="demo-tabs" class="pattern-demo pattern-demo-component no-pddng">
-						<div id="tabs-demo" class="component-demo mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
-							<nav class="provisional gc-subway">
-								<h1>[Nom du service]</h1>
-								<ul class="gc-subway-steps">
-									<li><a href="#">[Nom de l'étape ou de la section 1]<span class="wb-inv">: Nom du service</span></a></li>
-									<li><a href="#">[Nom de l'étape ou de la section 1]<span class="wb-inv">: Nom du service</span></a></li>
-									<li><a href="#">[Nom de l'étape ou de la section 2]<span class="wb-inv">: Nom du service</span></a></li>
-									<li class="active"><a aria-current="page">[Nom de l'étape ou de la section 3]<span class="wb-inv">: Nom du service</span></a></li>
-									<li><a href="#">[Nom de l'étape ou de la section 4]<span class="wb-inv">: Nom du service</span></a></li>
-									<li><a href="#">[Nom de l'étape ou de la section 5]<span class="wb-inv">: Nom du service</span></a></li>
-								</ul>
-							</nav>
-							<h1 property="name" id="wb-cont-demo" class="provisional gc-thickline">[Nom de l'étape ou de la section 3]</h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo elementum est, ac ultrices urna convallis vitae. Nulla nec convallis felis. Ut pretium nisl nisi. Nam gravida gravida aliquet. Morbi tincidunt lorem in purus imperdiet, id rutrum mauris sodales. Vivamus nec mattis tellus. Nunc turpis dolor, malesuada non magna nec, scelerisque tristique velit.</p>
-							<p>Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.</p>
-							<p>Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-12 mrgn-tp-lg">
-					<p>Cette configuration de conception est toujours en version bêta, et le code est toujours en cours de révision. Il peut encore faire l'objet de modifications.</p>
-					<p>Vous devrez utiliser le <a href="https://wet-boew.github.io/themes-dist/GCWeb/provisional-en.html">CSS provisoire</a> pour utiliser cette configuration de conception. </p>
-					<details class="wb-prettify all-pre">
-						<summary>Code</summary>
-						<details>
-							<summary>HTML</summary>
-							<pre><code>&lt;nav class="provisional gc-subway"&gt;
+		<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
+		<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Navigation de style métro</span>: <span>Système de conception de Canada.ca</span></span></h1>
+		<div class="row">
+			<div class="col-md-12 pull-left">
+				<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+					<li class="mrgn-rght-lg"> <span class="label label-info">Bêta</span></li>
+					<li class="mrgn-rght-lg"> Dernière modification : 2020-01-12</li>
+				</ul>
+			</div>
+		</div>
+		<p>Diviser un service ou un contenu en sections qui se concentrent chacune sur une étape ou une réponse spécifique que les gens doivent consulter avant de passer à l'étape ou à la section suivante.</p>
+		<!--
+		<div class="pattern-demo mrgn-bttm-md">
+			<img src="../images/navigation-metro.png" alt="Exemple de navigation de style metro" class="img-responsive">
+		</div>
+		-->
+		<section>
+			<h2>Sur cette page</h2>
+			<ul>
+				<li><a href="#quand">Quand utiliser cette configuration</a></li>
+				<li><a href="#eviter">Quoi éviter</a></li>
+				<li><a href="#comment">Comment mettre en oeuvre</a></li>
+				<li><a href="#recherche">Recerche et blogue</a></li>
+				<li><a href="#derniers">Derniers changements</a></li>
+				<li><a href="#discussion">Discussion</a></li>
+			</ul>
+		</section>
+		<section>
+			<h2 id="quand">Quand utiliser cette configuration</h2>
+			<p>Utilisez cette configurtion pour regrouper des pages de tâches connexes et assurer la navigation entre ces pages. </p>
+			<p>Gardez le nombre de pages liées ensemble à un nombre raisonnable (maximum 6).</p>
+		</section>
+		<section>
+			<h2 id="eviter">Quoi éviter</h2>
+			<p>N'utilisez pas de chiffres lorsque vous utilisez ce modèle pour des étapes séquentielles. Des tests ont montré que les Canadiens ont moins de chances d'arriver à la section dont ils ont besoin si les éléments sont numérotés.</p>
+			<p>Les sous-étapes n'ont pas encore été testées correctement - évitez de les utiliser.</p>
+		</section>
+		<section>
+			<h2 id="comment">Comment mettre en oeuvre</h2>
+			<p>Cette configuration de conception est toujours en version bêta, et le code est toujours en cours de révision. Utilisez-la avec parcimonue, puisqu'elle peut encore faire l'objet de modifications.</p>
+			<p>Vous devrez utiliser le <a href="https://wet-boew.github.io/themes-dist/GCWeb/provisional-en.html">CSS provisoire</a> pour utiliser cette configuration de conception. </p>
+			<ol>
+				<li><a href="#1">Page d'index</a></li>
+				<li><a href="#2">Page d'étape</a></li>
+			</ol>
+			<h3 id="1">1. Page d'index</h3>
+			<p><strong>Quand utiliser cette variante&nbsp;:</strong> Utilisez comme page d'accueil pour un ensemble de pages connexes qui utilisent la navigation de style métro. Son utilisation est facultative.</p>
+			<div class="pattern-demo mrgn-bttm-md" style="padding: 0;">
+				<iframe src="fragments/gc-subway-index.html" title="Exemple codé de la page d'index" style="border: none; height: 573px; width: 100%;"></iframe>
+			</div>
+			<details>
+				<summary>Code</summary>
+				<details>
+					<summary>HTML</summary>
+					<pre><code>&lt;nav class="provisional gc-subway ajaxed-in"&gt;
+	&lt;h2&gt;Sections&lt;/h2&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;
+			&lt;a href="#"&gt;[Nom de l'étape ou de la section 1]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+		&lt;dt&gt;
+			&lt;a href="#"&gt;[Nom de l'étape ou de la section 2]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+		&lt;dt&gt;
+			&lt;a href="#"&gt;[Nom de l'étape ou de la section 3]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+		&lt;dt&gt;
+			&lt;a href="#"&gt;[Nom de l'étape ou de la section 4]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+		&lt;dt&gt;
+			&lt;a href="#"&gt;[Nom de l'étape ou de la section 5]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+		&lt;dt&gt;
+			&lt;a href="#"&gt;[Nom de l'étape ou de la section 6]&lt;/a&gt;
+		&lt;/dt&gt;
+		&lt;dd&gt;
+			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+&lt;/nav&gt;</code></pre>
+				</details>
+				<details>
+					<summary>CSS</summary>
+					<pre><code class="prettyprint lang-css">.provisional.gc-subway {
+	border-radius: 0 6px 6px 0;
+	border-right: 4px solid #26374a;
+	border-top: 4px solid #26374a;
+	margin-top: 38px;
+}
+
+.provisional.gc-subway dl,
+.provisional.gc-subway ul {
+	clear: both;
+	list-style: none;
+	padding-left: 0.57em;
+	padding-top: 10px;
+	position: relative;
+}
+
+.provisional.gc-subway dl dt,
+.provisional.gc-subway ul dt {
+	border-left: 4px solid #26374a;
+	padding: 0 20px 3px 1em;
+	font-weight: normal;
+}
+
+.provisional.gc-subway dl dt a::before,
+.provisional.gc-subway ul dt a::before {
+	background-color: #fff;
+	border: 3px solid #26374a;
+	border-radius: 50%;
+	content: "";
+	height: 1.2em;
+	left: 0;
+	position: absolute;
+	-webkit-transition: width 0.2s, height 0.2s, left 0.2s, margin-top 0.2s;
+	transition: width 0.2s, height 0.2s, left 0.2s, margin-top 0.2s;
+	width: 1.3em;
+}
+
+.provisional.gc-subway dl dt a.active,
+.provisional.gc-subway ul dt a.active {
+	color: #333333;
+	text-decoration: none;
+}
+
+.provisional.gc-subway dl dt a.active::before,
+.provisional.gc-subway ul dt a.active::before {
+	background-color: #26374a;
+}
+
+.provisional.gc-subway dl dt a.active:focus,
+.provisional.gc-subway dl dt a.active:hover,
+.provisional.gc-subway ul dt a.active:focus,
+.provisional.gc-subway ul dt a.active:hover {
+	color: #0535d2;
+	text-decoration: underline;
+}
+
+.provisional.gc-subway dl dt a:not(.active):focus::before,
+.provisional.gc-subway dl dt a:not(.active):hover::before,
+.provisional.gc-subway ul dt a:not(.active):focus::before,
+.provisional.gc-subway ul dt a:not(.active):hover::before {
+	height: 1.5em;
+	left: -0.1em;
+	margin-top: -0.1em;
+	width: 1.5em;
+}
+
+.provisional.gc-subway dl dt:last-of-type,
+.provisional.gc-subway ul dt:last-of-type {
+	border-left: 5px solid transparent;
+	padding-bottom: 0;
+}
+
+.provisional.gc-subway dl dd,
+.provisional.gc-subway ul dd {
+	border-left: 4px solid #26374a;
+	line-height: inherit !important;
+	margin-bottom: 0;
+	margin-top: -3px;
+	padding: 0 20px 20px 1em;
+}
+
+.provisional.gc-subway dl dd:last-child,
+.provisional.gc-subway ul dd:last-child {
+	border-left: 5px solid transparent;
+	padding-bottom: 0;
+}
+
+.provisional.gc-subway dl li,
+.provisional.gc-subway ul li {
+	border-left: 4px solid #26374a;
+	padding: 0 20px 30px 1em;
+}
+
+.provisional.gc-subway dl li a::before,
+.provisional.gc-subway ul li a::before {
+	background-color: #fff;
+	border: 3px solid #26374a;
+	border-radius: 50%;
+	content: "";
+	height: 1.2em;
+	left: 0.05em;
+	position: absolute;
+	-webkit-transition: width 0.2s, height 0.2s, left 0.2s, margin-top 0.2s;
+	transition: width 0.2s, height 0.2s, left 0.2s, margin-top 0.2s;
+	width: 1.2em;
+}
+
+.provisional.gc-subway dl li a.active,
+.provisional.gc-subway ul li a.active {
+	color: #333333;
+	text-decoration: none;
+}
+
+.provisional.gc-subway dl li a.active::before,
+.provisional.gc-subway ul li a.active::before {
+	background-color: #26374a;
+}
+
+.provisional.gc-subway dl li a.active:focus,
+.provisional.gc-subway dl li a.active:hover,
+.provisional.gc-subway ul li a.active:focus,
+.provisional.gc-subway ul li a.active:hover {
+	color: #0535d2;
+	text-decoration: underline;
+}
+
+.provisional.gc-subway dl li a:not(.active):focus::before,
+.provisional.gc-subway dl li a:not(.active):hover::before,
+.provisional.gc-subway ul li a:not(.active):focus::before,
+.provisional.gc-subway ul li a:not(.active):hover::before {
+	height: 1.5em;
+	left: -0.1em;
+	margin-top: -0.1em;
+	width: 1.5em;
+}
+
+.provisional.gc-subway dl li::first-line,
+.provisional.gc-subway ul li::first-line {
+	line-height: 1 !important;
+}
+
+.provisional.gc-subway dl li:last-child,
+.provisional.gc-subway ul li:last-child {
+	border-bottom: 4px solid #26374a;
+	border-bottom-left-radius: 6px;
+	border-left: 4px solid #26374a;
+}
+
+.provisional.gc-subway dl li ul,
+.provisional.gc-subway ul li ul {
+	margin-top: 20px;
+	padding-left: 0.55em;
+}
+
+.provisional.gc-subway dl li ul li:last-child,
+.provisional.gc-subway ul li ul li:last-child {
+	border-bottom-width: 0;
+	padding-bottom: 0;
+}
+
+.provisional.gc-subway h1 {
+	float: left;
+}
+
+.provisional.gc-subway h1,
+.provisional.gc-subway-section .gc-subway-h1 {
+	background-color: #fff;
+	border-bottom-width: 0;
+	color: #555;
+	font-size: 1.3em;
+	margin-right: 20px;
+	margin-top: -19px;
+	padding: 0 20px 10px 0;
+}
+
+h1~.provisional.gc-subway {
+	border-right: none;
+	border-top: none;
+}</code></pre>
+				</details>
+			</details>
+			<h3 id="primary">2. Page d'étape</h3>
+			<p><strong>Quand utiliser cette variante :</strong> Utilisez sur chaque page liée par la navigation de style métro.</p>
+			<div class="pattern-demo mrgn-bttm-md">
+				<div data-ajax-replace="fragments/gc-subway-page.html" ></div>
+				<div class="clearfix"></div>
+			</div>
+			<details class="wb-prettify all-pre">
+				<summary>Code</summary>
+				<details>
+					<summary>HTML</summary>
+					<pre><code>&lt;nav class="provisional gc-subway"&gt;
 	&lt;h1&gt;[Nom du service]&lt;/h1&gt;
 	&lt;ul class="gc-subway-steps"&gt;
 		&lt;li&gt;&lt;a href="#"&gt;[Nom de l'étape ou de la section 1]&lt;span class="wb-inv"&gt;: [Nom du service]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
@@ -178,10 +422,10 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo elementum est, ac ultrices urna convallis vitae. Nulla nec convallis felis. Ut pretium nisl nisi. Nam gravida gravida aliquet. Morbi tincidunt lorem in purus imperdiet, id rutrum mauris sodales. Vivamus nec mattis tellus. Nunc turpis dolor, malesuada non magna nec, scelerisque tristique velit.&lt;/p&gt;
 &lt;p&gt;Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.&lt;/p&gt;
 &lt;p&gt;Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.&lt;/p&gt;</code></pre>
-						</details>
-						<details>
-							<summary>CSS</summary>
-							<pre class="prettyprint lang-css"><code>.provisional.gc-subway {
+				</details>
+				<details>
+					<summary>CSS</summary>
+					<pre class="prettyprint lang-css"><code>.provisional.gc-subway {
 	border-radius: 0px 6px 6px 0px;
 	border-right: 4px solid #26374a;
 	border-top: 4px solid #26374a;
@@ -293,13 +537,13 @@
 		display: block;
 	}
 }</code></pre>
-						</details>
-						<details>
-							<summary>JS</summary>
-							<pre><code>( function( $, window, wb ) {
-"use strict";
+				</details>
+				<details>
+					<summary>JS</summary>
+					<pre><code>( function( $, window, wb ) {
+	"use strict";
 
-var $document = wb.doc,
+	var $document = wb.doc,
 	componentName = "gc-subway",
 	selector = ".provisional." + componentName,
 	initEvent = "wb-init ." + componentName,
@@ -318,9 +562,9 @@ var $document = wb.doc,
 	$h1, $h2, $h1Copy, $menu, $main,
 
 	/**
-	 * @method init
-	 * @param {jQuery Event} événement Event qui déclenche l'appel de la fonction
-	 */
+		* @method init
+		* @param {jQuery Event} événement Event qui déclenche l'appel de la fonction
+		*/
 	init = function( event ) {
 
 		// Start initialization
@@ -341,10 +585,10 @@ var $document = wb.doc,
 	},
 
 	/**
-	 * Mutation du DOM en fonction du point d'arrêt (breakpoint)
-	 * @method onResize
-	 * @param {jQuery DOM element | jQuery Event} $elm Élément ciblé par ce plugin, qui est la balise nav | Événement de redimensionnement
-	 */
+		* Mutation du DOM en fonction du point d'arrêt (breakpoint)
+		* @method onResize
+		* @param {jQuery DOM element | jQuery Event} $elm Élément ciblé par ce plugin, qui est la balise nav | Événement de redimensionnement
+		*/
 	onResize = function( $elm ) {
 
 		if ( !$elm.length ) {
@@ -372,10 +616,10 @@ var $document = wb.doc,
 	},
 
 	/**
-	 * Lancer la configuration pour le mode bureau
-	 * @method initDesktop
-	 * @param {jQuery DOM element} $elm Élément ciblé par ce plugin, qui est la balise nav
-	 */
+		* Lancer la configuration pour le mode bureau
+		* @method initDesktop
+		* @param {jQuery DOM element} $elm Élément ciblé par ce plugin, qui est la balise nav
+		*/
 	initDesktop = function( $elm ) {
 		$h1 = $( "h1", $elm );
 		$h2 = $( "<h2 class='h3 hidden-xs visible-md visible-lg mrgn-tp-0'>Sections</h2>" );
@@ -391,69 +635,58 @@ var $document = wb.doc,
 		desktopInited = true;
 	};
 
-// Écoute le redimensionnement et modifie le DOM en conséquence
-$document.on( wb.resizeEvents, onResize );
+	// Écoute le redimensionnement et modifie le DOM en conséquence
+	$document.on( wb.resizeEvents, onResize );
 
-// Lie l'événement init du plugin
-$document.on( "timerpoke.wb " + initEvent, selector + ".provisional", init );
+	// Lie l'événement init du plugin
+	$document.on( "timerpoke.wb " + initEvent, selector + ".provisional", init );
 
-// Ajoute le minuteur pour initialiser le plugin
-wb.add( selector );
+	// Ajoute le minuteur pour initialiser le plugin
+	wb.add( selector );
 
-} )( jQuery, window, wb );</code></pre>
-						</details>
-					</details>
-				</div>
-			</div>
-			<section>
-				<h2 id="usage">Utilisation</h2>
-				<section class="design-usage">
-					<p>Utilisez cette configurtion pour regrouper des pages de tâches connexes et assurer la navigation entre ces pages. </p>
-					<h2 id="avoid">Quoi éviter</h2>
-					<p>N'utilisez pas de chiffres lorsque vous utilisez ce modèle pour des étapes séquentielles. Des tests ont montré que les Canadiens ont moins de chances d'arriver à la section dont ils ont besoin si les éléments sont numérotés.</p>
-				</section>
-				<section>
-					<h2>Modèle connexe</h2>
-					<p><a href="https://design.canada.ca/recommended-templates/service-initiation-pages.html">Service initiation page</a></p>
-				</section>
-				<section>
-					<h2 id="versions">Derniers changements</h2>
-					<dl class="dl-horizontal">
-						<dt>Version 0.1:<br><small><time datetime="2020-10-30" class="link-muted">30 octobre, 2020</time></small></dt>
-						<dd>Lancé de la version bêta du modèle de navigation de style métro.</dd>
-					</dl>
-				</section>
-				<section>
-					<h2 id="discuss">Discussion</h2>
-					<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuss the pattern in github issues</a></p>
-				</section>
-				</div>
-				</div>
-				<div class="row pagedetails">
-					<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
-						<div class="panel-pane pane-block pane-bean-report-problem-button">
-							<div class="pane-content">
-								<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden">
-									<div class="field-items">
-										<div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/fr/signaler-probleme.html">Signaler un problème sur cette page</a></div>
-									</div>
+	} )( jQuery, window, wb );</code></pre>
+				</details>
+			</details>
+		</section>
+		<h2 id="recherche">Recherche et blogue</h2>
+		<p>Cette configuration a été développée avec l'ARC dans le cadre d'un projet d'optimisation de la Prestation canadienne pour enfants. Elle s'est avérée efficace pour montrer la relation entre des pages liées et elle fonctionne bien sur les appareils mobiles.</p>
+		<h2 id="derniers">Derniers changements</h2>
+		<section>
+			<dl class="dl-horizontal">
+				<dt><time datetime="2021-01-12" class="link-muted">2021-01-12</time></dt>
+				<dd>Lancé la navigation de style métro en bêta</dd>
+			</dl>
+		</section>
+		<section>
+			<h2 id="discussion">Discussion</h2>
+			<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discutez de cette configuration dans GitHub</a></p>
+		</section>
+		<div class="row pagedetails">
+			<div class="col-sm-6 col-lg-4 mrgn-tp-sm">
+				<div class="panel-pane pane-block pane-bean-report-problem-button">
+					<div class="pane-content">
+						<section>
+							<div class="field field-name-field-bean-wetkit-body field-type-text-long field-label-hidden">
+								<div class="field-items">
+									<div class="field-item even"><a class="btn btn-default btn-block" href="https://www.canada.ca/fr/signaler-probleme.html">Signaler un problème sur cette page</a></div>
 								</div>
 							</div>
-						</div>
-					</div>
-					<div class="col-sm-3 mrgn-tp-sm pull-right">
-						<div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
-					</div>
-					<div class="datemod col-xs-12 mrgn-tp-lg">
-						<dl id="wb-dtmd">
-							<dt>Date de modification :</dt>
-							<dd><time property="dateModified">2020-10-21</time></dd>
-						</dl>
+						</section>
 					</div>
 				</div>
-			</section>
-		</main>
-		<footer id="wb-info">
+			</div>
+			<div class="col-sm-3 mrgn-tp-sm pull-right">
+				<div class="wb-share" data-wb-share='{&#34;lnkClass&#34;: &#34;btn btn-default btn-block&#34;}'></div>
+			</div>
+			<div class="datemod col-xs-12 mrgn-tp-lg">
+				<dl id="wb-dtmd">
+					<dt>Date de modification&nbsp;:</dt>
+					<dd><time property="dateModified">2021-01-12</time></dd>
+				</dl>
+			</div>
+		</div>
+	</main>
+	<footer id="wb-info">
 			<div class="landscape">
 				<nav class="container wb-navcurr">
 					<h2 class="wb-inv">Au sujet du gouvernement</h2>
@@ -487,7 +720,7 @@ wb.add( selector );
 							<a href="#wb-cont">Haut de la page <span class="glyphicon glyphicon-chevron-up"></span></a>
 						</div>
 						<div class="col-xs-6 col-md-3 col-lg-2 text-right">
-							<img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada">
+							<img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada">
 						</div>
 					</div>
 				</div>
