@@ -540,9 +540,9 @@ h1~.provisional.gc-subway {
 				<details>
 					<summary>JS</summary>
 					<pre><code>( function( $, window, wb ) {
-	"use strict";
+"use strict";
 
-	var $document = wb.doc,
+var $document = wb.doc,
 	componentName = "gc-subway",
 	selector = ".provisional." + componentName,
 	initEvent = "wb-init ." + componentName,
@@ -561,9 +561,9 @@ h1~.provisional.gc-subway {
 	$h1, $h2, $h1Copy, $menu, $main,
 
 	/**
-		* @method init
-		* @param {jQuery Event} événement Event qui déclenche l'appel de la fonction
-		*/
+	 * @method init
+	 * @param {jQuery Event} event Event that triggered the function call
+	 */
 	init = function( event ) {
 
 		// Start initialization
@@ -584,14 +584,21 @@ h1~.provisional.gc-subway {
 	},
 
 	/**
-		* Mutation du DOM en fonction du point d'arrêt (breakpoint)
-		* @method onResize
-		* @param {jQuery DOM element | jQuery Event} $elm Élément ciblé par ce plugin, qui est la balise nav | Événement de redimensionnement
-		*/
+	 * Mutate DOM depending on breakpoint
+	 * @method onResize
+	 * @param {jQuery DOM element | jQuery Event} $elm Element targetted by this plugin, which is the nav | Resizing event
+	 */
 	onResize = function( $elm ) {
 
 		if ( !$elm.length ) {
 			$elm = $( selector );
+		}
+
+		// Ensure the page contains at least two heading level 1
+		if ( $( "main h1" ).length < 2 ) {
+			$document.off( wb.resizeEvents, onResize );
+			$elm.addClass( "no-blink p-0" );
+			return;
 		}
 
 		// Desktop view, setup and mutate H1s
@@ -615,10 +622,10 @@ h1~.provisional.gc-subway {
 	},
 
 	/**
-		* Lancer la configuration pour le mode bureau
-		* @method initDesktop
-		* @param {jQuery DOM element} $elm Élément ciblé par ce plugin, qui est la balise nav
-		*/
+	 * Initate setup for desktop mode
+	 * @method initDesktop
+	 * @param {jQuery DOM element} $elm Element targetted by this plugin, which is the nav
+	 */
 	initDesktop = function( $elm ) {
 		$h1 = $( "h1", $elm );
 		$h2 = $( "<h2 class='h3 hidden-xs visible-md visible-lg mrgn-tp-0'>Sections</h2>" );
@@ -634,16 +641,16 @@ h1~.provisional.gc-subway {
 		desktopInited = true;
 	};
 
-	// Écoute le redimensionnement et modifie le DOM en conséquence
-	$document.on( wb.resizeEvents, onResize );
+// Listen for resizing and mutate the DOM accordingly
+$document.on( wb.resizeEvents, onResize );
 
-	// Lie l'événement init du plugin
-	$document.on( "timerpoke.wb " + initEvent, selector + ".provisional", init );
+// Bind the init event of the plugin
+$document.on( "timerpoke.wb " + initEvent, selector + ".provisional", init );
 
-	// Ajoute le minuteur pour initialiser le plugin
-	wb.add( selector );
+// Add the timer poke to initialize the plugin
+wb.add( selector );
 
-	} )( jQuery, window, wb );</code></pre>
+} )( jQuery, window, wb );</code></pre>
 				</details>
 			</details>
 		</section>
