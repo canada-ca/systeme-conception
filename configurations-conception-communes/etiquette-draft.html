@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 			wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>[Nom de la confiuration]  - Configuration de conception de Canada.ca - Canada.ca</title>
+		<title>Étiquette - Configuration de conception de Canada.ca - Canada.ca</title>
 		<meta content="width=device-width,initial-scale=1" name="viewport">
 		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
 		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
@@ -124,7 +124,7 @@
          <div class="row">
         	<div class="col-md-12 pull-left">
         	  <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
-                <li class="mrgn-rght-lg"> Dernière modification : 2020-12-02</li>
+                <li class="mrgn-rght-lg"> Dernière modification : 2021-02-01</li>
 
         	  </ul>
         	</div>
@@ -135,7 +135,8 @@
                <p>Les étiquettes sont des indicateurs visuels qui attribuent une étiquette à quelque chose comme un item, un programme, un service, etc.</p>
 
 							 <div class="pattern-demo mrgn-bttm-md">
-               <span class="label label-primary">Primaire</span>
+							 <span class="label label-default">Défaut</span>
+							 <span class="label label-primary">Primaire</span>
                <span class="label label-success">Succès</span>
                <span class="label label-info">Information</span>
                <span class="label label-warning">Avertissement</span>
@@ -147,6 +148,7 @@
                      <li><a href="#quand">Quand utiliser cette configuration</a></li>
                      <li><a href="#eviter">Quoi éviter</a></li>
                      <li><a href="#comment">Comment mettre en oeuvre</a></li>
+										 <li><a href="#recherche">Recherche et blogue</a></li>
                      <li><a href="#derniers">Derniers changements</a></li>
                      <li><a href="#discussion">Discussion</a></li>
 
@@ -154,7 +156,14 @@
                </section>
                <section>
                   <h2 id="quand">Quand utiliser cette configuration</h2>
-                  <p>Utilisez des étiquettes pour signaler qu'un article, un programme ou un service appartient à une catégorie. Par exemple, si certains programmes sont ouverts, d'autres fermés, et que d'autres encore seront bientôt ouverts, il peut être utile d'utiliser des étiquettes pour transmettre cette information.</p>
+                  <p>Utilisez des étiquettes dans les cas suivants :
+
+										<ul>
+	                  <li>Signaler qu'un item, un programme ou un service appartient à une catégorie (par exemple, pour montrer que certins programmes sont ouverts, que d'autres sont fermés, et ue d'autres seront bientôt disponibles).</li>
+	                  <li>Étiquetter ou étamper des items avec des renseignements supplémentairs, comme la date de la denière mise à jour, ou la fermeture d'une zone.</li>
+	                  <li>Indiquer les différents stades d'avancement dans une liste d'items (par exemple, pour montrer quels vaccins sont en cours d'examen et lesquels sont approuvés)</li>
+	               </ul>
+
 
 									<p>Assurez-vous que la conception indique clairement à quel item s'applique l'étiquette.</p>
 
@@ -169,13 +178,26 @@
                   <h2 id="comment">Comment mettre en oeuvre</h2>
 									<p>Utilisez le bon type d'étiquette : </p>
 		               <ol>
-		                  <li><a href="#primaire">Primaire</a></li>
+										  <li><a href="#defaut">Défaut</a></li>
+											<li><a href="#primaire">Primaire</a></li>
 		                  <li><a href="#succes">Succès</a></li>
 		                  <li><a href="#info">Information</a></li>
 		                  <li><a href="#avertissement">Avertissement</a></li>
 		                  <li><a href="#danger">Danger</a></li>
 		               </ol>
-									 <h3 id="primaire">1. Étiquette primaire</h3>
+
+									 <h3 id="defaut">1. Étiquette par défaut</h3>
+                <p><strong>Quand l'utiliser :</strong> pour donner des renseignements supplémentaires sur un item. Par exemple, ajouter des dates à une liste d'items.</p>
+
+                <div class="pattern-demo mrgn-bttm-md">
+                  <a href="#">Évaluation du programme de citoyenneté</a> <span class="label label-default">Juillet 2020</span></h3>
+                </div>
+                <details>
+                   <summary>Code</summary>
+                   <pre><code>&lt;a href="#"&gt;Évaluation du programme de citoyenneté&lt;/a&gt; &lt;span class="label label-default"&gt;Juillet 2020&lt;/span&gt;</code></pre>
+                </details>
+
+									 <h3 id="primaire">2. Étiquette primaire</h3>
                 <p><strong>Quand l'utiliser :</strong> pour transmettre une information importante sur un item. Par exemple, lorsqu'un nouveau programme n'est pas encore ouvert mais qu'il le sera bientôt.</p>
 
                 <div class="pattern-demo mrgn-bttm-md">
@@ -185,8 +207,8 @@
                    <summary>Code</summary>
                    <pre><code>&lt;h3 class="h5"&gt;&lt;a href="#"&gt;Prestation canadienne de la relance économique (PCRE)&lt;/a&gt; &lt;span class="label label-primary"&gt;Ouvre le 12 octobre&lt;/span&gt;&lt;/h3&gt;</code></pre>
                 </details>
-                <h3 id="succes">2. Étiquette de succès</h3>
-                <p><strong>Quand l'utiliser :</strong> pour signaler qu'un item est ouvert ou disponible.</p>
+                <h3 id="succes">3. Étiquette de succès</h3>
+                <p><strong>Quand l'utiliser :</strong> pour signaler qu'un item est ouvert, disponible ou approuvé.</p>
 
                 <div class="pattern-demo mrgn-bttm-md">
                    <p><a href="#">Protection de l’eau douce au Canada</a> <span class="label label-success">Ouverte – Avis acceptés</span></p>
@@ -196,8 +218,8 @@
                    <summary>Code</summary>
                    <pre><code>&lt;p&gt;&lt;a href="#"&gt;Protection de l’eau douce au Canada&lt;/a&gt; &lt;span class="label label-success"&gt;Ouverte – Avis acceptés&lt;/span&gt;&lt;/p&gt;</code></pre>
                 </details>
-                <h3 id="info">3. Étiquette d'information</h3>
-                <p><strong>Quand l'utiliser :</strong> pour étiquetter un article avec une catégorie. Par exemple, pour identifier un nouvel article de blog.</p>
+                <h3 id="info">4. Étiquette d'information</h3>
+                <p><strong>Quand l'utiliser :</strong> pour étiquetter un article avec une catégorie. Par exemple, pour identifier un nouvel article de blogue. Les nouvelles étiquettes devraient être temporaires. </p>
 
 
                 <div class="pattern-demo mrgn-bttm-md">
@@ -207,7 +229,7 @@
                    <summary>Code</summary>
                    <pre><code>&lt;h3 class="h5"&gt;&lt;a href="#"&gt;Étude sur les étiquettes : quels mots fonctionnent le mieux&lt;/a&gt; &lt;span class="label label-info"&gt;Nouveau&lt;/span&gt;&lt;/h3&gt;</code></pre>
                 </details>
-                <h3 id="avertissement">4. Étiquette d'avertissement</h3>
+                <h3 id="avertissement">5. Étiquette d'avertissement</h3>
                 <p><strong>Quand l'utiliser :</strong> lorsque vous voulez attirer l'attention sur un élément pour avertir les gens d'un changement. Par exemple, si un programme se termine bientôt.</p>
 
                 <div class="pattern-demo mrgn-bttm-md">
@@ -219,8 +241,8 @@
                 </details>
 
 
-                <h3 id="danger">5. Étiquette de danger</h3>
-                <p><strong>Quand l'utiliser :</strong> lorsqu'un item n'est plus disponible. Par exemple, lorsqu'un programme n'est plus disponible.</p>
+                <h3 id="danger">6. Étiquette de danger</h3>
+                <p><strong>Quand l'utiliser :</strong> lorsqu'un item ou fermé ou qu'il n'est plus disponible . Par exemple, lorsqu'un programme est terminé ou qu'une zone est fermée.</p>
 
                 <div class="pattern-demo mrgn-bttm-md">
                   <h3 class="h5"><a href="#">Prestation canadienne d’urgence (PCU)</a> <span class="label label-danger">Fermée</span></h3>
@@ -232,10 +254,13 @@
 
                </section>
 
+							 <h2 id="recherche">Recherche et blogue</h2>
+               <p>Nous avons testé avec succès l'utilisation des étiquettes pendant la période de transition entre la Prestation canadienne d'urgence et les nouvelles prestations qui l'ont remplacée. L'ajout d'étiquettes aux différents programmes sur la page de thème a permis aux gens de comprendre plus facilement ce qui leur était offert.</p>
+
                <h2 id="derniers">Derniers changements</h2>
 							 <section>
                <dl class="dl-horizontal">
-                  <dt><time datetime="2020-12-02" class="link-muted">2020-12-02</time></dt>
+                  <dt><time datetime="2021-02-01" class="link-muted">2021-02-01</time></dt>
                   <dd>Ajout de la documenttion pour les étiquettes dans le système de conception</dd>
                </dl>
             </section>
@@ -266,7 +291,7 @@
 				<div class="datemod col-xs-12 mrgn-tp-lg">
 					<dl id="wb-dtmd">
 						<dt>Date de modification&nbsp;:</dt>
-						<dd><time property="dateModified">2020-04-24</time></dd>
+						<dd><time property="dateModified">2021-02-01</time></dd>
 					</dl>
 				</div>
 			</div>
