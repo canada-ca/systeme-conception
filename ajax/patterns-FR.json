@@ -118,7 +118,7 @@
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/fil-ariane.html\">Fil d'Ariane</a>",
     "USE": "Repr&#233;sente l’emplacement de la page actuelle dans le mod&#232le de navigation de l’utilisateur du site - <strong>Conception obligatoire</strong>",
     "CAT": "Configuration de conception",
-    "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
+    "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction, Navigation",
     "MANDATORY": "Obligatoire"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/icones.html\">Ic&#244;nes</a>",
@@ -208,7 +208,7 @@
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/page-accueil.html\">Page d’accueil de Canada.ca</a>",
     "USE": "Affiche les produits et services du gouvernement du Canada les plus vus et les plus importants",
     "CAT": "Mod&#232;le de page",
-    "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement",
+    "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement, Navigation",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#accueil\">Page d'accueil des nouvelles</a>",
@@ -250,7 +250,7 @@
     "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-lancement-service.html\">Page de lancement d'un service</a>",
     "USE": "Fournit aux personnes les renseignements dont elles ont besoin avant de commencer la tâche, en expliquant les crit&#232;res d'admissibilit&#233; ou les &#233;tapes &#224; suivre, par exemple. Fournit un acc&#232;s facile aux normes de service, aux d&#233;lais de traitement, aux services connexes, aux guides et &#224; l'aide.",
     "CAT": "Mod&#232;le de page",
-    "TYPE": "Destination",
+    "TYPE": "Destination, Navigation",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#produit\">Page de nouvelles</a>",
@@ -286,7 +286,7 @@
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html\">Page d'accueil institutionnelle</a>",
     "USE": "Page d'accueil pour les institutions et organismes du gouvernement du Canada. - <strong>Mod&#232;le obligatoire</strong>",
     "CAT": "Mod&#232;le de page",
-    "TYPE": "Institutionnel",
+    "TYPE": "Institutionnel, Navigation",
     "MANDATORY": "Obligatoire"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-publics-cibles.html\">Page de public cible &#224; l'&#233;chelle du gouvernement</a>",
@@ -316,7 +316,7 @@
     "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/theme-sujet.html\">Page de th&#232;me et de sujet</a>",
     "USE": "Permet aux personnes de d&#233;couvrir des services et des renseignements li&#233;s &#224; un th&#232;me ou un sujet pr&#233;cis dans l’ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
     "CAT": "Mod&#232;le de page",
-    "TYPE": "Mod&#232;le de th&#232;me",
+    "TYPE": "Mod&#232;le de th&#232;me, Navigation",
     "MANDATORY": "Obligatoire"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-evenements-promotionnels.html\">Page d'&#233;v&#233;nements promotionnels</a>",
@@ -376,7 +376,7 @@
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/questions-interactives.html\">Questions interactives</a>",
     "USE": "Utilisez pour pr&#233;senter une s&#233;quence de questions simples qui m&#232;nent &#224; la r&#233;ponse dont les personnes ont besoin pour poursuivre leur t&#226;che ou l’achever",
     "CAT": "Configuration de conception",
-    "TYPE": "Destination",
+    "TYPE": "Destination, Navigation",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/services-renseignements.html\">Services et renseignements</a>",
