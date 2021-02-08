@@ -115,6 +115,12 @@
     "TYPE": "Configuration &#224; l'&#233;chelle du site",
     "MANDATORY": "Obligatoire"
   }, {
+    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/etiquettes.html\">&#201;tiquettes</a>",
+    "USE": "Les &#233tiquettes sont des indicateurs visuels qui attribuent une &#233tiquette &#224; des items comme des &#233v&#233nements, des produits, des programmes ou des services.",
+    "CAT": "Configuration de conception",
+    "TYPE": "Visuel",
+    "MANDATORY": "Non"
+  }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/fil-ariane.html\">Fil d'Ariane</a>",
     "USE": "Repr&#233;sente l’emplacement de la page actuelle dans le mod&#232le de navigation de l’utilisateur du site - <strong>Conception obligatoire</strong>",
     "CAT": "Configuration de conception",
