@@ -207,7 +207,7 @@
 	<section>
 		<h2 id="quoi">Que sont les données structurées</h2>
 		<p>Les données structurées sont un moyen d'étiqueter le contenu de manière à ce qu'il soit lisible par une machine.</p>
-		<p>Elles aident les moteurs de recherche à donner une siginification à la page en vous permettant d'ajouter des informations qui clarifient le sens du contenu.</p>
+		<p>Elles aident les moteurs de recherche à donner une signification à la page en vous permettant d'ajouter des informations qui clarifient le sens du contenu.</p>
 
 		<p>Cela devrait aider à créer:</p>
 
@@ -260,25 +260,25 @@
 
 	<h3>Étape 2 : Rédiger le code JSON-LD</h3>
 
-	<p>Bien que les données structurées puissent également être codées en RDFa, nous suggérons d'utiliser plutôt le langage JSON-LD. JSON-LD est en train de devenir le langage de données structurées préféré des moteurs de recherche. Il offre également un peu plus de flexibilité, en permettant par exemple d'injecter du HTML dans des extraits riches des résultats de recherche.
+	<p>Bien que les données structurées puissent être codées en RDFa, nous suggérons d'utiliser plutôt le langage JSON-LD. JSON-LD est en train de devenir le langage de données structurées préféré des moteurs de recherche. Il offre également un peu plus de flexibilité, en permettant par exemple d'injecter du HTML dans des extraits riches des résultats de recherche.
 </p>
 
 	<p>JSON-LD existe séparément du contenu réel. Si vous mettez à jour le contenu, n'oubliez pas d'ajuster le code JSON-LD en conséquence.</p>
 
-	<p>Comme certains éléments peuvent déjà être codés en RDFa dans vos modèles, assurez-vous qu'il n'y a pas de collision entre les 2.</p>
+	<p>Comme certains éléments peuvent déjà être codés en RDFa dans vos modèles, assurez-vous qu'il n'y a pas de collision entre les deux.</p>
 
 	<p>Utilisez un validateur, tel que <a href="https://jsonlint.com/">JSONLint</a> (en anglais), pour vous assurer que votre code JSON-LD est valide.</p>
 
-	<h4>Ajoutuer du code JSON-LD dans Adobe Experience Manager (AEM)</h4>
+	<h4>Ajouter du code JSON-LD dans Adobe Experience Manager (AEM)</h4>
 <p>Si votre page est publiée dans AEM, vous pouvez ajouter des données structurées dans JSON-LD en utilisant le composant de données structurées dans les propriétés de la page.</p>
 
-<p>Suivez les <a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">instructions dans GCPedia</a> ((uniquement disponible sur le réseau GC).</p>
+<p>Suivez les <a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">instructions dans GCPedia</a> (uniquement disponible sur le réseau GC).</p>
 
 
 	<h3>Étape 3 : Tester le code de données structurées</h3>
-  <p>Vous pouvez copier des extraits de code ou des URL complètes pour tester le code avec <a href="https://search.google.com/test/rich-results">l'outil de tests de résultats de recherche riches</a> (en anglais seulement)</p>
+  <p>Vous pouvez copier des extraits de code ou des URL complètes pour tester le code avec <a href="https://search.google.com/test/rich-results">l'outil de tests de résultats de recherche riches</a> (en anglais seulement).</p>
 
-	<p>Il indique les types de résultats riches (pris en charge par Google) qui ont été trouvés sur la page, ainsi que les erreurs ou suggestions concernant vos données structurées</p>
+	<p>Il indique les types de résultats riches (pris en charge par Google) qui ont été trouvés sur la page, ainsi que les erreurs ou suggestions concernant vos données structurées.</p>
 
 <p>En copiant l'URL ou le code de la page, vous pouvez voir si elle est valide et si les valeurs attribuées aux différents champs sont correctes.</p>
 
@@ -447,13 +447,19 @@ type="application/ld+json"&gt;
 <details>
 <summary><h3 class="h4">FAQPage</h3></summary>
 <h4>Quand l'utiliser</h4>
-<p>Permet d'ajouter un ensemble de "questions et réponses" (ou un ensemble de rubriques et leur contenu respectif). Vous pouvez soit baliser le contenu visible (en utilisant RDFa), soit ajouter une couche en JSON-LD.</p>
+<p>Permet d'ajouter un ensemble de rubriques et leur contenu respectif qui fournissent des réponses aux questions importantes liées à une page. </p>
 
 <p>À utiliser sur les pages suivantes : </p>
 <ul>
-				<li>Page de lancement de service</li>
-				<li>Documents de directive</li>
-				<li>Foires aux questions (FAQ), bien que les pages FAQ soient fortement déconseillées sur Canada.ca dans la plupart des cas - lisez <a href="https://blogue.canada.ca/2020/05/25/eviter-les-faq.html">Éviter les <abbr title="foire qux questions">FAQ</abbr>, à une exception près</a></li>
+				<li>page de lancement de service</li>
+				<li>documents de directive</li>
+				<li>foires aux questions (FAQ)</li>
+	</ul>
+
+Les foires aux questions sont fortement déconseillées sur Canada.ca dans la plupart des cas.</p>
+
+<ul>
+				<li><a href="https://blogue.canada.ca/2020/05/25/eviter-les-faq.html">Éviter les <abbr title="foire qux questions">FAQ</abbr>, à une exception près</a> (blogue)</li>
 </ul>
 <h4>Directives officielles</h4>
 <ul>
@@ -678,7 +684,7 @@ type="application/ld+json"&gt;
 <h4>Quand l'utiliser</h4>
 <p>Utilisez-le pour identifier toute section de contenu qui conviendrait le mieux à la synthèse vocale : la partie de la page qui résume la chose la plus importante que les gens recherchent sur cette page.</p>
 
-<p>Peut être utilisé sur n'importe quelle page.</p>
+<p>Vous pouvez utilise ce schéma sur n'importe quelle page.</p>
 
 <h4>Directives officielles</h4>
 
