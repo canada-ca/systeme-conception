@@ -18,12 +18,6 @@
     "TYPE": "Interaction",
     "MANDATORY": "Non"
   }, {
-    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/banniere-promotionnelle.html\">Banni&#232;re promotionnelle</a>",
-    "USE": "Utilisez pour promouvoir des activit&#233;s, des initiatives, des programmes et des services &#224; l’&#233;chelle du gouvernement et institutionnels ",
-    "CAT": "Configuration de conception",
-    "TYPE": "Promotion, Visuel",
-    "MANDATORY": "Non"
-  }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html\">Bloc des r&#233;seaux de m&#233;dias sociaux (fen&#234;tre « Suivez »)</a>",
     "USE": "Utilisez pour permettre aux gens de suivre les comptes officiels de m&#233;dias sociaux du gouvernement du Canada sur diverses plateformes de m&#233;dias sociaux",
     "CAT": "Configuration de conception",
