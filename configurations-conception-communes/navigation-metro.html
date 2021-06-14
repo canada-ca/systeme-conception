@@ -6,27 +6,14 @@
 			wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
 		<title>Navigation de style métro - Configuration de conception de Canada.ca - Canada.ca</title>
 		<meta content="width=device-width,initial-scale=1" name="viewport">
-		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">      <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
-      <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css" />
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-         integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
-      <link rel="stylesheet" href="https://design.canada.ca/css/custom.css">
-		<link rel="stylesheet" href="https://design.canada.ca/css/provisional-alerts.css">
-		<link rel="stylesheet" href="https://design.canada.ca/css/split-h1.css">
+		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css" />
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+		<link rel="stylesheet" href="https://design.canada.ca/css/custom.css">
 		<noscript>
 			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
 		</noscript>
-		<script>
-			(function (i, s, o, g, r, a, m) {
-			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-				(i[r].q = i[r].q || []).push(arguments)
-			}, i[r].l = 1 * new Date(); a = s.createElement(o),
-				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-			})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-			ga('create', 'UA-105628416-1', 'auto');
-			ga('send', 'pageview');
-		</script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-3"></script>
 		<script>
@@ -35,6 +22,12 @@
 			gtag('js', new Date());
 			gtag('config', 'UA-105628416-3');
 		</script>
+		<style>
+			iframe {
+				width: 1px;
+				min-width: 100%;
+			}
+		</style>
 	</head>
 	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
 		<ul id="wb-tphp">
@@ -166,48 +159,48 @@
 			</ol>
 			<h3 id="1">1. Page d'index</h3>
 			<p><strong>Quand utiliser cette variante&nbsp;:</strong> Utilisez comme page d'accueil pour un ensemble de pages connexes qui utilisent la navigation de style métro. Son utilisation est facultative.</p>
-			<div class="pattern-demo">
-				<figure id="iframe"></figure>
-			</div>
+			<iframe title="Exemple de page d'index de navigation métro" class="pattern-demo" src="fragments/gc-subway-index.html" frameBorder="0" loading="lazy"></iframe>
 			<details>
 				<summary>Code</summary>
 				<details>
 					<summary>HTML</summary>
-					<pre><code>&lt;nav class="provisional gc-subway ajaxed-in"&gt;
+					<pre><code>&lt;h1 property="name" id="wb-cont" class="gc-thickline"&gt;[Nom du service]&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut [...].&lt;/p&gt;
+&lt;nav class="provisional gc-subway"&gt;
 	&lt;h2&gt;Sections&lt;/h2&gt;
 	&lt;dl&gt;
 		&lt;dt&gt;
-			&lt;a href="#"&gt;[Nom de l'étape ou de la section 1]&lt;/a&gt;
+			&lt;a href="#"&gt;[Nom de l&apos;&eacute;tape ou de la section 1]&lt;/a&gt;
 		&lt;/dt&gt;
 		&lt;dd&gt;
 			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
 		&lt;/dd&gt;
 		&lt;dt&gt;
-			&lt;a href="#"&gt;[Nom de l'étape ou de la section 2]&lt;/a&gt;
+			&lt;a href="#"&gt;[Nom de l&apos;&eacute;tape ou de la section 2]&lt;/a&gt;
 		&lt;/dt&gt;
 		&lt;dd&gt;
 			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
 		&lt;/dd&gt;
 		&lt;dt&gt;
-			&lt;a href="#"&gt;[Nom de l'étape ou de la section 3]&lt;/a&gt;
+			&lt;a href="#"&gt;[Nom de l&apos;&eacute;tape ou de la section 3]&lt;/a&gt;
 		&lt;/dt&gt;
 		&lt;dd&gt;
 			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
 		&lt;/dd&gt;
 		&lt;dt&gt;
-			&lt;a href="#"&gt;[Nom de l'étape ou de la section 4]&lt;/a&gt;
+			&lt;a href="#"&gt;[Nom de l&apos;&eacute;tape ou de la section 4]&lt;/a&gt;
 		&lt;/dt&gt;
 		&lt;dd&gt;
 			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
 		&lt;/dd&gt;
 		&lt;dt&gt;
-			&lt;a href="#"&gt;[Nom de l'étape ou de la section 5]&lt;/a&gt;
+			&lt;a href="#"&gt;[Nom de l&apos;&eacute;tape ou de la section 5]&lt;/a&gt;
 		&lt;/dt&gt;
 		&lt;dd&gt;
 			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
 		&lt;/dd&gt;
 		&lt;dt&gt;
-			&lt;a href="#"&gt;[Nom de l'étape ou de la section 6]&lt;/a&gt;
+			&lt;a href="#"&gt;[Nom de l&apos;&eacute;tape ou de la section 6]&lt;/a&gt;
 		&lt;/dt&gt;
 		&lt;dd&gt;
 			Description de la page. Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -400,29 +393,48 @@ h1~.provisional.gc-subway {
 			</details>
 			<h3 id="2">2. Page d'étape</h3>
 			<p><strong>Quand utiliser cette variante :</strong> Utilisez sur chaque page liée par la navigation de style métro.</p>
-			<div class="pattern-demo mrgn-bttm-md">
-				<div data-ajax-replace="fragments/gc-subway-page.html" ></div>
-				<div class="clearfix"></div>
-			</div>
+			<iframe title="Exemple de navigation métro" class="pattern-demo" frameBorder="0" loading="lazy" src="fragments/gc-subway-page.html"></iframe>
 			<details class="wb-prettify all-pre">
 				<summary>Code</summary>
 				<details>
 					<summary>HTML</summary>
 					<pre><code>&lt;nav class="provisional gc-subway"&gt;
-	&lt;h1&gt;[Nom du service]&lt;/h1&gt;
-	&lt;ul class="gc-subway-steps"&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Nom de l'étape ou de la section 1]&lt;span class="wb-inv"&gt;: [Nom du service]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Nom de l'étape ou de la section 1]&lt;span class="wb-inv"&gt;: [Nom du service]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Nom de l'étape ou de la section 2]&lt;span class="wb-inv"&gt;: [Nom du service]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li class="active"&gt;&lt;a aria-current="page"&gt;[Nom de l'étape ou de la section 3]&lt;span class="wb-inv"&gt;: [Nom du service]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Nom de l'étape ou de la section 4]&lt;span class="wb-inv"&gt;: [Nom du service]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-		&lt;li&gt;&lt;a href="#"&gt;[Nom de l'étape ou de la section 5]&lt;span class="wb-inv"&gt;: [Nom du service]&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;h1 id="gc-document-nav"&gt;[Nom du service]&lt;/h1&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="#" class="active" aria-current="page"&gt;[Page 1]&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="hidden-xs hidden-sm"&gt;[Page 2]&lt;/a&gt;
+			&lt;a href="#gc-document-nav" class="visible-xs visible-sm"&gt;[Page 2]&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="hidden-xs hidden-sm"&gt;[Page 3]&lt;/a&gt;
+			&lt;a href="#gc-document-nav" class="visible-xs visible-sm"&gt;[Page 3]&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="hidden-xs hidden-sm"&gt;[Page 4]&lt;/a&gt;
+			&lt;a href="#gc-document-nav" class="visible-xs visible-sm"&gt;[Page 4]&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="hidden-xs hidden-sm"&gt;[Page 5]&lt;/a&gt;
+			&lt;a href="#gc-document-nav" class="visible-xs visible-sm"&gt;[Page 5]&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href="#" class="hidden-xs hidden-sm"&gt;[Page 6]&lt;/a&gt;
+			&lt;a href="#gc-document-nav" class="visible-xs visible-sm"&gt;[Page 6]&lt;/a&gt;
+		&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/nav&gt;
-&lt;h1 property="name" id="wb-cont" class="provisional gc-thickline"&gt;[Nom de l'étape ou de la section 3]&lt;/h1&gt;
+
+&lt;h1 property="name" id="wb-cont" class="gc-thickline"&gt;[Page 1]&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo elementum est, ac ultrices urna convallis vitae. Nulla nec convallis felis. Ut pretium nisl nisi. Nam gravida gravida aliquet. Morbi tincidunt lorem in purus imperdiet, id rutrum mauris sodales. Vivamus nec mattis tellus. Nunc turpis dolor, malesuada non magna nec, scelerisque tristique velit.&lt;/p&gt;
-&lt;p&gt;Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.&lt;/p&gt;
-&lt;p&gt;Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis.&lt;/p&gt;</code></pre>
+&lt;p&gt;Sed consectetur eu ligula a molestie. Vivamus convallis libero malesuada pharetra suscipit. In a pulvinar mi, quis aliquet mauris. Duis convallis nunc nunc, in euismod nisi volutpat sit amet. Integer convallis lacus non orci imperdiet, ac convallis massa mollis. Aliquam erat volutpat. Ut maximus euismod auctor. Ut ac gravida nunc. Nam non efficitur neque. Pellentesque tincidunt, libero luctus condimentum laoreet, turpis magna maximus nibh, at cursus lectus tellus in augue. Aenean scelerisque eros dui, at tincidunt eros tristique nec.&lt;/p&gt;
+
+&lt;nav class="mrgn-bttm-lg mrgn-tp-lg"&gt;
+	&lt;h3 class="wb-inv"&gt;Navigation du document&lt;/h3&gt;
+	&lt;ul class="pager"&gt;
+		&lt;li class="next"&gt;&lt;a href="page2-fr.html#wb-cont" rel="next"&gt;&lt;span class="wb-inv"&gt;Suivant: &lt;/span&gt;[Page 2]&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/nav&gt;</code></pre>
 				</details>
 				<details>
 					<summary>CSS</summary>
@@ -559,6 +571,7 @@ var $document = wb.doc,
 	mainClass = "gc-subway-section",
 	toggleClass = "wb-inv",
 	desktopInited = false,
+	skipLink = false,
 	$html = wb.html,
 	$h1, $h2, $h1Copy, $menu, $main,
 
@@ -572,10 +585,23 @@ var $document = wb.doc,
 		// returns DOM object = proceed with init
 		// returns undefined = do not proceed with init (e.g., already initialized)
 		var elm = wb.init( event, componentName, selector ),
+			h1,
 			$elm;
 
 		if ( elm ) {
 			$elm = $( elm );
+			$h1 = $( "h1", $elm );
+			h1 = $h1.get( 0 );
+
+			// Ensure the element have an ID
+			if ( !h1.id ) {
+				h1.id = wb.getId();
+			}
+
+			// Add subway H1 to skip links
+			if ( !skipLink ) {
+				skipLink = wb.addSkipLink( wb.i18n( "skip-prefix" ) + " " + h1.textContent, { href: "#" + h1.id } );
+			}
 
 			// trigger resizing
 			onResize( $elm );
@@ -629,9 +655,8 @@ var $document = wb.doc,
 	 * @param {jQuery DOM element} $elm Element targetted by this plugin, which is the nav
 	 */
 	initDesktop = function( $elm ) {
-		$h1 = $( "h1", $elm );
 		$h2 = $( "<h2 class='h3 hidden-xs visible-md visible-lg mrgn-tp-0'>Sections</h2>" );
-		$h1Copy = $( "<p class='gc-subway-h1' aria-hidden='true'>" + $h1.text() + "</p>" );
+		$h1Copy = $( "<div class='gc-subway-h1' aria-hidden='true'>" + $h1.text() + "</div>" );
 		$( "ul", $elm ).first().wrap( "<div class='gc-subway-menu-nav'></div>" );
 		$menu = $( ".gc-subway-menu-nav", $elm );
 		$elm.nextUntil( ".pagedetails, .gc-subway-section-end" ).wrapAll( "<section class='provisional " + mainClass + "'>" );
@@ -760,7 +785,7 @@ wb.add( selector );
 	</div>
 	<div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
 		<div class="wb-share"
-			data-wb-share="{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}">
+			data-wb-share="{"pnlId":"pnlShrPg", "lnkClass": "btn btn-default btn-block mrgn-tp-md"}">
 		</div>
 	</div>
 </div>
@@ -815,35 +840,34 @@ wb.add( selector );
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
 		<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
 		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-		<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js" integrity="sha512-dnvR4Aebv5bAtJxDunq3eE8puKAJrY9GBJYl9GC6lTOEC76s1dbDfJFcL9GyzpaDW4vlI/UjR8sKbc1j6Ynx6w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 		<script>
-			var pattern_demo = new pym.Parent("iframe", "fragments/gc-subway-index.html", { trackscroll: true });
+			iFrameResize({ log: true }, 'iframe')
 		</script>
-					<!-- START SCRIPT PAGE FEEDBACK WIDGET -->
-
-					<script>
-						$(document).on("wb-ready.wb", function () {
-							$("#btnno").click(function (e) {
-								$(".gc-pg-hlpfl-no").removeClass("nojs-show");
-								$(".gc-pg-hlpfl-btn").addClass("hide");
-								$("#helpful").val("No");
-							});
-							$("#gc-pg-hlpfl-frm").submit(function (e) {
-								e.preventDefault();
-								$(".gc-pg-hlpfl-thnk").removeClass("hide");
-								$("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
-								$.ajax({
-									url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
-									type: 'POST',
-									dataType: 'text',
-									data: $('form#gc-pg-hlpfl-frm').serialize(),
-									success: function (data) { },
-									error: function (xhr, status, err) {
-										console.log(xhr.responseText);
-									}
-								});
-							});
-						});
-					</script>
+		<!-- START SCRIPT PAGE FEEDBACK WIDGET -->
+		<script>
+			$(document).on("wb-ready.wb", function () {
+				$("#btnno").click(function (e) {
+					$(".gc-pg-hlpfl-no").removeClass("nojs-show");
+					$(".gc-pg-hlpfl-btn").addClass("hide");
+					$("#helpful").val("No");
+				});
+				$("#gc-pg-hlpfl-frm").submit(function (e) {
+					e.preventDefault();
+					$(".gc-pg-hlpfl-thnk").removeClass("hide");
+					$("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
+					$.ajax({
+						url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
+						type: 'POST',
+						dataType: 'text',
+						data: $('form#gc-pg-hlpfl-frm').serialize(),
+						success: function (data) { },
+						error: function (xhr, status, err) {
+							console.log(xhr.responseText);
+						}
+					});
+				});
+			});
+		</script>
 	</body>
 </html>
