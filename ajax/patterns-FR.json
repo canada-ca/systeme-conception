@@ -386,10 +386,10 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/signaler-probleme.html\">Signaler un probl&#232;me sur cette page</a>",
-    "USE": "Permet aux gens de fournir une r&#233;troaction au moyen d’un formulaire pour tous les probl&#232;mes qu’ils ont pu rencontrer- <strong>Conception obligatoire</strong>",
+    "USE": "Permet aux gens de fournir une r&#233;troaction au moyen d’un formulaire pour tous les probl&#232;mes qu’ils ont pu rencontrer",
     "CAT": "Configuration de conception",
     "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
-    "MANDATORY": "Obligatoire"
+    "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/signature.html\">Signature du gouvernement du Canada</a>",
     "USE": "La signature du gouvernement du Canada d&#233;finie dans les instruments strat&#233;giques du Programme de coordination de l’image de marque (PCIM) est mise en &#233;vidence dans l’en-t&#234;te g&#233;n&#233;ral du site Web Canada.ca. - <strong>Conception obligatoire</strong>",
