@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+			wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+		<title>Recherche et prototypage - Amélioration continue du contenu web - Canada.ca</title>
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+		<link rel="stylesheet" href="https://design.canada.ca/css/custom.css">
+		<link rel="stylesheet" href="https://design.canada.ca/css/split-h1.css">
+		<link rel="stylesheet" href="https://design.canada.ca/css/provisional-alerts.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+
+		<noscript>
+			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
+		<script>
+			(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+			})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+			ga('create', 'UA-105628416-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-3"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() { dataLayer.push(arguments); }
+			gtag('js', new Date());
+			gtag('config', 'UA-105628416-3');
+		</script>
+	</head>
+	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
+		<ul id="wb-tphp">
+			<li class="wb-slc">
+				<a class="wb-sl" href="#wb-cont">Passer au contenu principal</a>
+			</li>
+			<li class="wb-slc">
+				<a class="wb-sl" href="#wb-info">Passer à «&#160;Au sujet du gouvernement&#160;»</a>
+			</li>
+		</ul>
+		<header>
+			<div id="wb-bnr" class="container">
+				<section id="wb-lng" class="text-right">
+					<h2 class="wb-inv">Sélection de la langue</h2>
+					<div class="row">
+						<div class="col-md-12">
+							<ul class="list-inline margin-bottom-none">
+								<li><a lang="en" href="https://design.canada.ca/designing-content.html">English</a></li>
+							</ul>
+						</div>
+					</div>
+				</section>
+				<div class="row">
+					<div class="brand col-xs-5 col-md-4">
+						<a href="https://www.canada.ca/fr.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-fr.svg" alt=""><span class="wb-inv"> Gouvernement du Canada / <span lang="en">Government of Canada</span></span></a>
+					</div>
+					<section id="wb-srch" class="col-lg-8 text-right">
+						<h2>Recherche</h2>
+						<form action="https://recherche-search.gc.ca/rGs/s_r?#wb-land" method="get" role="search" class="form-inline">
+							<div class="form-group">
+								<label for="wb-srch-q" class="wb-inv">Rechercher dans Canada.ca</label>
+								<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Rechercher dans Canada.ca">
+								<input name="st" value="s" type="hidden" />
+								<input name="num" value="10" type="hidden" />
+								<input name="langs" value="fra" type="hidden" />
+								<input name="st1rt" value="0" type="hidden">
+								<input name="s5bm3ts21rch" value="x" type="hidden" />
+								<datalist id="wb-srch-q-ac"></datalist>
+							</div>
+							<div class="form-group submit">
+								<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
+							</div>
+						</form>
+					</section>
+				</div>
+			</div>
+			<nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
+				<div class="container">
+					<h2 class="wb-inv">Menu</h2>
+					<button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+					<ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Emplois et milieu de travail</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration et citoyenneté</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Prestations</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport et infrastructure</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+					</ul>
+				</div>
+			</nav>
+			<nav id="wb-bc" property="breadcrumb">
+				<h2>Vous êtes ici&nbsp;:</h2>
+				<div class="container">
+					<ol class="breadcrumb">
+						<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a></li>
+						<li><a href='https://www.canada.ca/fr/gouvernement/a-propos.html'>À propos de Canada.ca</a></li>
+						<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html'>Système de conception de Canada.ca</a></li>
+						<li><a href='../amelioration-continue.html'>Amélioration continue</a></li>
+					</ol>
+				</div>
+			</nav>
+		</header>
+		</div>
+		</div>
+		<!--/* Hide Nav; Hide Right Rail /*-->
+		<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
+			<h1 property="name" id="wb-cont" dir="ltr" class="provisional gc-thickline"><span class="stacked"><span>Recherche et prototypage</span>: <span>Amélioration continue du contenu Web</span></span></h1>
+
+
+		<h2>On this page</h2>
+		<ul>
+			<li><a href="#processus">Processus</a></li>
+			<li><a href="#initiation">Initiation</a></li>
+			 <li><a href="#exploratoire">Phase exploratoire</a></li>
+			 <li><a href="#reference">Étude de référence</a></li>
+			 <li><a href="#prototype">Protoypage d'idées pour améliorer le succès</a></li>
+			 <li><a href="#comparaison">Étude comparative</a></li>
+			 <li><a href="#resources">Ressources et gabarits</a></li>
+		</ul>
+
+		<h2 id="processus">Processus</h2>
+
+		<p>Il n'existe pas de méthode unique d'amélioration continue, mais la plupart des approches suivent un processus similaire. Identifier un problème, effectuer des recherches sur la question, établir une base de référence, créer un prototype et le tester (autant de fois que nécessaire), le publier, et finalement mesurer les résultats de votre travail.</p>
+
+		<p>La méthode décrite ici est la façon dont le Bureau de la transformation numérique aborde les projets d'optimisation du contenu.</p>
+
+
+		<figure>
+			<img class="img-responsive border" alt="Une longue description se trouve après l'image." src="../images/processus_optimisation.png" />
+			</figure>
+			<details>
+			<summary>Processus d'optimisation du BTN</summary>
+			<p>Étape 1: Initiation. Démarrage du projet, définition du problème.</p>
+			<p>Étape 2: Recherche exploratoire. Recherche initiale, détermination des tâches.</p>
+			<p>Étape 3: Étude de référence. Tester le service actuel avec les utilisateurs.</p>
+			<p>Étape 4: Conception et prototypage. Développer le prototype, tester et itérer.</p>
+			<p>Étape 5: Étude comparative. Test du prototype avec les utilisateurs, itération pour l'améliorer.</p>
+			<p>Étape 6: Transition. Transfert du prototype et transition vers les pages en direct.</p>
+			</details>
+
+		<h2 id="initiation">Initiation</h2>
+
+		<p>Vous devez identifier toutes les parties prenantes, en particulier celles qui auront une influence sur la mise en oeuvre de votre projet. Si les bonnes personnes ne sont pas impliquées dès le début, vous risquez de subir des retards importants. Dans le pire des cas, votre travail pourrait ne jamais voir le jour.</p>
+
+		<p>Mettez-vous d'accord sur ce que vous essayez d'accomplir et assurez-vous d'avoir une bonne compréhension des obstacles qui peuvent empêcher la mise en oeuvre.</p>
+
+
+		<p>Au BTN, nous utilisons une feuille de suivi de projet où nous pouvons établir un lien avec tous les artefacts importants de l'étude :</p>
+
+		<ul>
+			 <li>Gabarit: <a href="https://docs.google.com/spreadsheets/d/1-GdYRLYISXDXZZAqFNrLPOImAzPka5mAw4aJdiLhCnM/edit?usp=sharing">Feuille de calcul d'un projet d'optimisation</a> (Google Docs) **** NEED FRENCH *** </li>
+
+
+		</ul>
+
+		<h2 id="discovery">Phase exploratoire</h2>
+
+		<p>L'objectif de la phase exploratoire est de mener des recherches sur les utilisateurs qui vont :</p>
+
+		 <ul>
+			 <li>vous informer sur les personnes qui utilisent votre contenu;</li>
+				<li>identifier les tâches qu'ils essaient d'accomplir;</li>
+				<li>identifier les défis auxquels ils sont confrontés;</li>
+				<li>vous aider à formuler des hypothèses pour un plan de test de convivialité;</li>
+				<li>vous aider à définir ou à affiner les objectifs spécifiques de votre projet.</li>
+		 </ul>
+
+		 <p>Évitez de faire des présuppositions ou de penser à des solutions avant que la recherche ne soit terminée. Il est important de comprendre d'abord les problèmes que les gens rencontrent. Vous aborderez les solutions potentielles par le biais de prototypes lors de la phase suivante.</p>
+
+		 <h3>Méthodes de recherche courantes dans la phase exploratoire</h3>
+		 <blockquote>
+
+						 <p>Poser vos propres questions et savoir comment trouver les réponses est un aspect essentiel du métier de concepteur.</p>
+						 <p class="small">Source: Erika Hall, Just Enough Research</p>
+					 </blockquote>
+
+
+			<p>Pour créer des questions de recherche, vous devez comprendre les lacunes et les faiblesses de la situation actuelle. Utilisez toutes ou certaines de ces méthodes pour analyser votre situation actuelle.</p>
+
+
+			<h4>Recherche qualitative</h4>
+
+		 <ul>
+				<li>Rétroaction des utilisateurs</li>
+				<li><a href="https://numerique.canada.ca/outils-et-ressources/guide-entrevue/">Entrevues avec des utilisateurs</a></li>
+				<li>Tests de convivialité antérieures</li>
+				<li>Tests de convivialité : tests de premier clic, tri de cartes, tests d'arobrescence</li>
+				<li>Sondages ou autres rapports d'analyse comportementale</li>
+				<li>Écoute sociale : forums web, médias sociaux</li>
+		 </ul>
+
+		 <h4>Recherche quantitative</h4>
+
+		<ul>
+			 <li>Inventaires et cartes de contenu</li>
+			 <li>Rapports de centres d'appels</li>
+			 <li>Analytique Web</li>
+		</ul>
+
+		<h3>Learn about people using your content</h3>
+		<p>By understanding the people who use your content, you will know more about who they are and their behaviours. This will help you narrow down who you need to recruit for usability testing. </p>
+
+		<h3>Record your findings and the challenges people are facing</h3>
+		<p>Some ways to summarize these findings include:</p>
+
+		<ul>
+			 <li>kanban board</li>
+			 <li>spreadsheets with analytics</li>
+			 <li>concept maps</li>
+			 <li>interview transcripts</li>
+			 <li>journey maps</li>
+		</ul>
+
+		<h3>Identify the specific tasks people are doing</h3>
+
+		<p>Decide which specific tasks you will address as part of the optimization work. </p>
+
+		<p>You will build the solutions you prototype around these tasks.</p>
+
+		<p>Some examples of specific tasks from the Canada Child Benefit program:</p>
+		<ul>
+			 <li>How much will the payment be?</li>
+			 <li>When will the payment be sent / deposited?</li>
+			 <li>Check if you are eligible to receive the Canada Child Benefit</li>
+			 <li>interview transcripts</li>
+			 <li>How to update your address</li>
+		</ul>
+
+		<h3>Sharing the discovery research </h3>
+
+		<p>Summarizing and sharing what you’ve learned is an important milestone. This is a living document that you add to as you learn more through your research.  You’ll refer back to these artifacts often.</p>
+
+		<h2 id="baseline">Baseline measurement phase</h2>
+
+		<p>A baseline measurement gives you a direct comparison of how a task performed before you optimize it. </p>
+
+		<p>If having a direct comparison is important to demonstrate the impact and value of your solutions, this is an important step to include. Make sure to use the same measurement method before and after optimization if you want comparable results.</p>
+
+
+			<p>If your improvement is completely new you may not have anything to baseline test. </p>
+
+			<p>Additionally, if your proposed solution is small or you have another metric (like call centre data) that you will use to evaluate effectiveness, you could skip running a baseline study.</p>
+
+<h3>Why run a baseline usability study</h3>
+
+<p>Watching real people use your content is one of the most effective ways to gather evidence about the problems you’re looking to solve.</p>
+<p>Perform moderated or unmoderated baseline studies with people trying scenarios on existing web content.</p>
+
+<h3>When to use moderated and unmoderated testing</h3>
+<table class="table table-bordered">
+<tbody>
+<tr class="bg-primary">
+	<td>Moderated is best for:</td>
+	<td>Unmoderated is best for:</td>
+</tr>
+<tr>
+	<td>
+		<ul>
+			<li>a complicated process or concept</li>
+			<li>when you want to ask follow-up questions if a participant is stuck or confused</li>
+			<li>working with a specialized group of participants</li>
+		</ul></td>
+	<td><ul>
+			<li>quick results</li>
+			<li>studying a few very specific tasks </li>
+			<li>if you only need to select participants using basic demographics (age or income)</li>
+
+		</ul></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+<p>At the DTO, we include 16-18 participants in moderated baseline studies when we want to generate percentage task success scores that have reproducible results.</p>
+<p>You can run smaller studies with fewer participants to gain insights about specific parts of your site. In our work at the DTO, we often run qualitative usability tests with 6-8 participants, but you can run studies with as few as 3-5 participants and still get useful results. </p>
+<p>In small studies, do not report success or failure as percentages since the results are not reproducible.</p>
+
+<table class="table table-bordered">
+<tbody>
+<tr class="bg-primary">
+	<td>Correct</td>
+	<td>Incorrect</td>
+</tr>
+<tr>
+	<td>
+		2 / 8 participants were able to complete the task successfully
+</td>
+	<td>25% of participants were able to complete the task successfully
+</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Recruiting participants</h3>
+		<p>Recruit people for your usability tests that are <strong>representative of the audience for your content or service</strong>. You can work with a company to help recruit participants or use screening criteria in unmoderated tools to help find the right people to reduce variability in your results.</p>
+	<p>Plan to over-recruit - expect that there will be no-shows or that some unmoderated tests may not work out as expected.</p>
+
+	<p>Whoever is recruiting participants and conducting research is responsible for protecting the privacy of participants and ensuring they have informed consent before starting the study.</p>
+
+
+	<details>
+<summary>Collecting personal information</summary>
+
+<p>Before collecting participants’ personal information, check in with your privacy group.</p>
+<p>The <cite><a href="https://laws-lois.justice.gc.ca/eng/acts/p-21/page-1.html">Privacy Act</a></cite> governs how the federal government handles personal information.</p>
+<ul>
+<li>Section 3: Definitions</li>
+<li>Section 4: Authority to Collect</li>
+<li>Section 8 (2): Appropriate Disclosure of Information</li>
+</ul>
+<p>The <cite><a href="https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2018.html">Tri-council policy statement on Ethical Conduct for research involving humans</a></cite> outlines best practices for conducting research with participants.</p>
+<ul>
+<li>Chapter 3 provides guidelines for collecting informed consent.</li>
+</ul>
+
+
+<p>The <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18309">Directive on Privacy Practices</a></cite> provides direction on how to implement effective privacy practices including collecting and notifying participants how their information will be used.</p>
+<ul>
+<li>Section 6: Requirements</li>
+<li>Section 6.2.9: Privacy Notice</li>
+</ul>
+
+<p>When using unmoderated usability testing tools, we include a screening question that tells participants how we may use the recordings.  At this point, they are given the choice to opt out.</p>
+
+<h4>Example privacy screener text</h4>
+<p>“We sometimes use recordings in public blog posts, with any personally identifying information hidden and voices altered. Please only accept this test if you consent to us using your recording in this way.”</p>
+
+</details>
+
+		<h3>Write task scenarios</h3>
+		<h4>Research questions</h4>
+<p>Using your discovery research, you now have a prioritized list of challenges that you're facing and potential tasks to test.</p>
+		<p>Develop research questions based on these tasks.  (What do you want to find out? To prove?)  Research questions help narrow the scope of your study to the behaviours you want evidence on - <strong>make sure everyone agrees on them!</strong></p>
+
+
+
+		<p>With your list of research questions in hand, draft tasks that will help you gather evidence and provide insights about ideas to prototype.</p>
+
+		<h4>Tasks</h4>
+		<p>These must be <strong>real things</strong> people are trying to accomplish. </p>
+
+			<p>Hypothesize about what you think may happen during the test.</p>
+
+		<p>We find that we can test 8-10 small tasks in an hour-long moderated session or 5-6 tasks in an unmoderated 30-minute session. </p>
+
+		<h4>Scenarios</h4>
+		<p>Scenarios are realistic narratives for a task that the team creates together.</p>
+
+		<p>Using the job story formula, identify a situation a user may find themselves in and the strategies they use to arrive at a desired outcome.</p>
+
+		<p>A job story follows this format:</p>
+		<blockquote><p> “When I (situation), I want to (motivation), so I can (expected outcome)”</p></blockquote>
+
+		<p>This is a valuable approach to reinforce your understanding of how and why a service is used. </p>
+
+<div class="well well-sm">
+		<p><strong>Example task</strong><br/>Change direct deposit bank account details.</p>
+
+		<p><strong>Job story</strong> <br/><strong>When</strong> I move my mortgage to a new bank, <strong>I want</strong>the CRA to put my tax refund into the new account, <strong>so I can</strong> pay my mortgage on time. </p>
+
+		<p><strong>Scenario</strong> <br/>You renewed your mortgage, and you moved all your bank accounts to a new bank. What number would you call to get your personal tax refund into your new bank account? (answer: 1-800-959-8281)</p>
+	</div>
+
+		<p>Fine-tune these tasks so they tell you as much as possible, are accurate, and feasible for your participants to complete. Make sure each task has a clear answer. Answers may be yes/no, or else something specific such as a number or percentage, a date, a telephone number, etc.</p>
+
+		<p>Before you run your first official test, make sure you pilot your task scenarios. For example, you can ask a friend or colleague to try doing the task to get a sense of whether participants will understand what you’re asking them to do.</p>
+
+
+
+		<h4>More information on writing task scenarios</h4>
+		<ul>
+			 <li><a href="https://www.nngroup.com/articles/task-scenarios-usability-testing/">Turn User Goals into Task Scenarios for Usability Testing </a> - Nielsen Norman Group</li>
+			 <li><a href="https://www.ontario.ca/page/usability-testing#section-3">Types of tasks</a> - - Ontario.ca User research guide</li>
+
+		</ul>
+
+
+		<h3>Running a moderated or unmoderated baseline study</h3>
+
+		<p>You can use an outside firm to run a moderated study for you or set it up yourself. If setting up a moderated study yourself, you will need to select a screen and audio sharing tool. Pay attention to any special installation requirements. If possible, let participants know in advance which tool you will be using so they can prepare their computer or device ahead of time.</p>
+
+		<p>You can choose from a range of third party services that provide moderated and unmoderated study tools. An unmoderated study can be run outside of work hours and is generally less expensive to run.</p>
+
+	<p>In both scenarios, you want to have video recordings at the end of each session that you can use to complete a detailed analysis.</p>
+
+
+	<h4>Additional resources on moderated and unmoderated testing:</h4>
+	<ul>
+		 <li><a href="https://www.nngroup.com/articles/moderated-remote-usability-test/">Remote moderated usability tests: How to do them</a> - Nielsen Norman Group</li>
+		 <li><a href="https://www.usability.gov/how-to-and-tools/methods/remote-testing.html">Remote testing</a> - Usability.gov</li>
+	</ul>
+
+		<h3>Analyzing baseline results</h3>
+
+		<p>Involve everyone on the team in the analysis process, at least as an observer. </p>
+
+		<p>Reviewing transcripts and summary reports is helpful but there is no replacement for first-hand observations with real users. Ensure the whole team can participate by watching videos or live sessions.</p>
+
+		<h4>Take notes of key behaviours during the sessions</h4>
+
+		<ul>
+			 <li>clicks - note all links clicked, and every click on anything, whether it’s clickable or not</li>
+			 <li>direct quotations of feedback about an issue </li>
+			 <li>scrolling the page</li>
+			 <li>reading headings aloud</li>
+			 <li>skimming text - missing links in skimmed text</li>
+			 <li>observations about issues encountered</li>
+			 <li>the point where they arrived on the page with the answer</li>
+			 <li>if they found the correct answer</li>
+		</ul>
+
+
+		<h4>Share any shorthand you use in your notes</h4>
+
+		<ul>
+			 <li>use identifiers for clicks on navigation like breadcrumb BC, back button B, menu link M</li>
+			 <li>note search, filter and find attempts with keywords used S keyword, F keyword</li>
+		</ul>
+
+		<p>When analyzing the data you’ve collected, read through the notes carefully looking for patterns and be sure to add a description of each of the problems. Look for trends and keep a count of problems that occurred across participants.</p>
+
+<h4>Share your findings</h4>
+		<p>Summarize the test results in a usability test report with your findings and recommendations. An effective report will include visuals such as screen shots and short video clips to illustrate specific problems. </p>
+
+
+		<p>We recommend presenting the findings in person. This is an effective way to make sure that stakeholders and approvers understand the issues that you are trying to fix. These sessions are a great way to build empathy for users with members of the team that did not observe or participate in analysis of the usability tests.</p>
+
+		<p>An emailed report is an ignored report!</p>
+
+
+		<h4>Outcome of the baseline testing phase</h4>
+		<ul>
+			 <li>You have a baseline score for each task scenario</li>
+			 <li>You have videos of people attempting tasks</li>
+			 <li>Project team members and stakeholders have watched all videos for at least 1 task</li>
+			 <li>You know exactly how many people did what in each case</li>
+			 <li>You have a list of issues that need to be addressed</li>
+			 <li>All project stakeholders understand the issues and <strong>want to get them fixed</strong></li>
+
+		</ul>
+
+
+
+		<h2 id="prototyping">Prototype ideas to improve success</h2>
+
+
+			<p>There are different approaches to prototyping, from basic wireframing to fully working HTML pages.</p> Basic designs help in the early stages of ideating for teams to discuss and visualize. Fully working HTML prototypes can make testing easier since they behave exactly, or almost exactly, like the real live content would.</p>
+		<p>Make sure prototypes aren’t behind firewalls or in staging/development servers that are not publicly accessible if you’re testing with members of the public.
+		<p>Our preferred prototyping tool at the DTO is GitHub, but there are other options for creating high-fidelity interactive prototypes including:</p>
+
+		<ul>
+			 <li>Figma</li>
+				<li>InVision</li>
+				<li>Axure</li>
+				<li>Adobe XD</li>
+
+			 </ul>
+
+
+<p>Prototypes are a great change management tool. Doing demonstrations using prototypes can bring together diverse perspectives (for instance from communications and policy, or across branch or departmental lines).</p>
+<p>A prototype that can be easily updated during workshops can be very effective.  A live editing session can turn ideas from participants into something concrete in real time. It also reinforces just how easy it is to make changes, which helps create buy-in for an iterative approach.</p>
+<p>Prototyping is a risk-reduction strategy. It lets stakeholders see the proposed approach and comment on it or correct it before it goes live.</p>
+
+
+<p><a href="https://blog.canada.ca/2021/05/10/codesign-with-deciders">Co-design with approvers at the table</a> (blog post)</p>
+
+
+		<h2 id="comparison">Comparison testing</h2>
+
+		<p>Once your prototypes are ready, you need to test them to see whether your ideas and solutions work with users. When possible, use the same test questions and testing approach as you did for the baseline study so that you can make direct comparisons and verify whether you met objectives.</p>
+
+		<p>As testing progresses, you may find it necessary to continue fine-tuning or adjusting your prototypes, if participants continue to struggle. The participants will help you understand what helped, and why.  </p>
+
+		<blockquote><p>No matter how smart or experienced you are, you <strong>will</strong> be surprised by what you see people do.</p></blockquote>
+
+		<p>Follow up testing with analysis and reporting. The testing report or presentation should communicate improvements or areas that require further work. Include a plan to complete those additional changes.  </p>
+
+		<p>This report will be a critical tool for building the case for change among decision makers during the following implementation phase. </p>
+
+		<ul>
+			 <li>Template: <a href="https://docs.google.com/presentation/d/1aQlhNaRKeGDwOhxSMhA012hzNk114JW3K9yQCMS6yeA/edit?usp=sharing">Usability study report</a> (Google Docs)</li>
+
+
+		</ul>
+
+
+		<nav role="navigation" class="mrgn-bttm-lg">
+        <ul class="pager">
+        <li class="next"><a href="./designing.html" rel="next">Next: Designing content</a></li>
+        </ul>
+
+	<!-- START PAGE FEEDBACK WIDGET -->
+<div class="row row-no-gutters mrgn-tp-xl">
+<div class="col-sm-7 col-lg-6">
+		<section class="gc-pg-hlpfl provisional">
+				<div class="well mrgn-bttm-0">
+						<form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
+<input type="hidden" name="institutionopt" value="tbs">
+<input type="hidden" name="themeopt" value="Policies">
+<input type="hidden" name="language" value="FR">
+<input type="hidden" name="pageTitle" value="Concevoir du contenu pour Canada.ca">
+<input type="hidden" name="submissionPage" value="https://conception.canada.ca/amelioration-continue/recherche.html">
+<input type="hidden" name="sectionopt" value="Design system">
+
+
+								<input type="hidden" id="helpful" name="helpful" value="Yes">
+
+								<div class="gc-pg-hlpfl-btn">
+										<div class="row row-no-gutters">
+												<div class="col-xs-12 col-sm-7 mrgn-tp-sm">
+														<h2 class="mrgn-tp-sm h5">Avez-vous trouvé ce que vous cherchiez?</h2>
+												</div>
+												<div class="col-xs-8 col-sm-5 text-right">
+														<button id="btnyes" type="submit" value="Yes" class="btn btn-primary">Oui</button>
+														<button id="btnno" type="button" class="btn btn-primary mrgn-lft-sm nojs-hide">Non</button>
+												</div>
+										</div>
+								</div>
+								<p class="h3 hidden nojs-show">Sinon, dites nous pourquoi&nbsp;:</p>
+								<div class="gc-pg-hlpfl-no nojs-show">
+										<fieldset>
+												<legend class="h4 mrgn-tp-0 mrgn-bttm-md">Qu’est-ce qui n’allait pas?</legend>
+												<div class="radio">
+														<label for="problem1">
+																<input name="problem" id="problem1" type="radio" value="Je ne peux pas trouver l’information" data-gc-analytics-wtph-value="I can't find the information-Je ne peux pas trouver l'information" data-gc-analytics-collect="notPrivate">
+																Je ne peux pas <strong>trouver</strong> l’information
+														</label>
+												</div>
+												<div class="radio">
+														<label for="problem2">
+																<input name="problem" id="problem2" type="radio" value="L'information est difficile à comprendre" data-gc-analytics-wtph-value="The information is hard to understand-J'ai trouvé l'information difficile à comprendre" data-gc-analytics-collect="notPrivate">
+																L'information est difficile à <strong>comprendre</strong>
+														</label>
+												</div>
+												<div class="radio">
+														<label for="problem3">
+																<input name="problem" id="problem3" type="radio" value="Il y avait une erreur / quelque chose ne fonctionnait pas" data-gc-analytics-wtph-value="There was an error or something didn't work-Il y avait une erreur our quelque chose ne fonctionnait pas" data-gc-analytics-collect="notPrivate">
+																Il y avait une erreur / quelque chose <strong>ne fonctionnait pas</strong>
+														</label>
+												</div>
+												<div class="radio">
+														<label for="problem4">
+																<input name="problem" id="problem4" type="radio" value="Other reason" data-gc-analytics-wtph-value="Other reason-Autre raison" data-gc-analytics-collect="notPrivate">
+																Autre raison
+														</label>
+												</div>
+										</fieldset>
+										<label for="problem6" class="mrgn-bttm-0">Veuillez fournir plus de détails</label>
+										<p class="small">
+												<strong>Vous ne recevrez aucune réponse. Les numéros de téléphone et les adresses électroniques seront supprimés.</strong>
+												<br>
+												<span class="small">Maximum de 300 caractères</span>
+										</p>
+										<textarea id="problem6" name="details" class="full-width" maxlength="300"></textarea>
+										<button type="submit" value="No" class="btn btn-primary mrgn-tp-md mrgn-bttm-sm">Soumettre</button>
+								</div>
+						</form>
+						<div class="gc-pg-hlpfl-thnk hide">
+								<p class="h6 mrgn-tp-sm mrgn-bttm-sm"><span class="far fa-check-circle text-success mrgn-rght-sm" aria-hidden="true"></span> Merci de vos commentaires</p>
+						</div>
+				</div>
+		</section>
+</div>
+<div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
+		<div class="wb-share" data-wb-share="{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}"></div>
+</div>
+</div>
+<!-- END PAGE FEEDBACK WIDGET -->
+		<div class="pagedetails">
+			<dl id="wb-dtmd">
+				<dt>Date de modification&nbsp;:</dt>
+				<dd><time property="dateModified">2020-11-23</time></dd>
+			</dl>
+		</div>
+		</main>
+		<footer id="wb-info">
+			<div class="landscape">
+				<nav class="container wb-navcurr">
+					<h2 class="wb-inv">Au sujet du gouvernement</h2>
+					<ul class="list-unstyled colcount-sm-2 colcount-md-3">
+						<li><a href="https://www.canada.ca/fr/contact.html">Contactez-nous</a></li>
+						<li><a href="https://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a></li>
+						<li><a href="https://www.canada.ca/fr/gouvernement/fonctionpublique.html">Fonction publique et force militaire</a></li>
+						<li><a href="https://www.canada.ca/fr/nouvelles.html">Nouvelles</a></li>
+						<li><a href="https://www.canada.ca/fr/gouvernement/systeme/lois.html">Traités, lois et règlements</a></li>
+						<li><a href="https://www.canada.ca/fr/transparence/rapports.html">Rapports à l'échelle du gouvernement</a></li>
+						<li><a href="https://pm.gc.ca/fra">Premier ministre</a></li>
+						<li><a href="https://www.canada.ca/fr/gouvernement/systeme.html">Comment le gouvernement fonctionne</a></li>
+						<li><a href="https://ouvert.canada.ca/">Gouvernement ouvert</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="brand">
+				<div class="container">
+					<div class="row">
+						<nav class="col-md-9 col-lg-10 ftr-urlt-lnk">
+							<h2 class="wb-inv">À propos du site</h2>
+							<ul>
+								<li><a href="https://www.canada.ca/fr/sociaux.html">Médias sociaux</a></li>
+								<li><a href="https://www.canada.ca/fr/mobile.html">Applications mobiles</a></li>
+								<li><a href="https://www1.canada.ca/fr/nouveausite.html">À propos de Canada.ca</a></li>
+								<li><a href="https://www.canada.ca/fr/transparence/avis.html">Avis</a></li>
+								<li><a href="https://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a></li>
+							</ul>
+						</nav>
+						<div class="col-xs-6 visible-sm visible-xs tofpg">
+							<a href="#wb-cont">Haut de la page <span class="glyphicon glyphicon-chevron-up"></span></a>
+						</div>
+						<div class="col-xs-6 col-md-3 col-lg-2 text-right">
+							<img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada">
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
+		<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
+		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+		<script>
+			document.getElementById('submissionPage').value = location.href;
+		</script>
+<script>
+$(document).on("wb-ready.wb", function() {
+   $("#btnno").click(function(e) {
+       $(".gc-pg-hlpfl-no").removeClass("nojs-show");
+       $(".gc-pg-hlpfl-btn").addClass("hide");
+       $("#helpful").val("No");
+   });
+   $("#gc-pg-hlpfl-frm").submit(function(e) {
+       e.preventDefault();
+       $(".gc-pg-hlpfl-thnk").removeClass("hide");
+       $("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
+       $.ajax({
+           url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
+           type: 'POST',
+           dataType: 'text',
+           data: $('form#gc-pg-hlpfl-frm').serialize(),
+           success: function(data) {},
+           error: function(xhr, status, err) {
+               console.log(xhr.responseText);
+           }
+       });
+   });
+});
+</script>
+<!-- END SCRIPT PAGE FEEDBACK WIDGET -->
+	</body>
+</html>
