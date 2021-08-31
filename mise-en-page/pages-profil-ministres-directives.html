@@ -236,13 +236,14 @@
 			<div class="container">
 				<ol class="breadcrumb">
 					<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a></li>
-					<li><a href="https://www.canada.ca/fr/gouvernement/ministres.html">Ministres et secrétaires parlementaires</a></li>
+					<li class="guidance-shared"><a href="https://www.canada.ca/fr/gouvernement/ministres.html">Ministres et secrétaires parlementaires</a></li>
+					<li class="guidance-head wb-inv"><a href="#">[Profil institutionnel]</a></li>
 				</ol>
 			</div>
 		</nav>
 	</header>
 		<main property="mainContentOfPage" typeof="WebPageElement">
-			<div class="guidance-details">
+			<div class="guidance-details guidance-shared">
 				<div class="container">
 					<div class="row col-md-8">
 						<details>
@@ -261,12 +262,31 @@
 					</div>
 				</div>
 			</div>
-
+			<div class="guidance-details guidance-head wb-inv">
+				<div class="container">
+					<div class="row col-md-8">
+						<details>
+							<summary><b>Directive&nbsp;:</b> Fil d'Ariane <span class="fas fa-info-circle"></span></summary>
+							<section>
+								<h3>fil d'Ariane</h3>
+								<p><span class="label label-danger">Obligatoire</span></p>
+								<p>Pour les chefs d'institution, le fil d'Ariane devrait mener au profil institutionnel.</p>
+							</section>
+						</details>
+					</div>
+				</div>
+			</div>
 
 		<div class="container">
+				<a class="off-psec btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Secrétaires parlementaires</b></a>
+				<a class="on-head btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Chefs d'institution</b></a>
+				<a class="on-psec btn btn-sm btn-default mrgn-tp-lg wb-inv"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Ministre</b></a>
+
 			<div class="row">
 				<h1 class="guidance-minister" property="name" id="wb-cont">L’honorable [nom du ministre], député</h1>
-				<h1 class="guidance-psec wb-inv" property="name" id="wb-cont-alt">Nom du ou de la secrétaire parlementaire</h1> <!-- modification for parliamentary secretary -->
+				<h1 class="guidance-psec wb-inv" property="name" id="wb-cont-2">Nom du ou de la secrétaire parlementaire</h1> <!-- modification for parliamentary secretary -->
+				<h1 class="guidance-head wb-inv" property="name" id="wb-cont-3"><mark>Head of institution or organization's name</mark></h1><!-- modification for head of institution -->
+				<!-- modification for parliamentary secretary -->
 
 				<div class="guidance-details guidance-minister">
 					<div class="container">
@@ -294,22 +314,21 @@
 						</div>
 					</div>
 				</div>
-				<div class="guidance-details guidance-psec wb-inv">
+				<div class="guidance-details guidance-psec-head wb-inv">
 					<div class="container">
 						<div class="row col-md-8">
 							<details>
-								<summary><b>Directive&nbsp;:</b> Nom et photo du ou de la secrétaire parlementaire <span
+								<summary><b>Directive&nbsp;:</b> Nom et photo <span
 										class="fas fa-info-circle"></span></summary>
 								<p><span class="label label-danger">Obligatoire</span></p>
-								<h3>Nom du ou de la secrétaire parlementaire</h3>
-								<p>Fournit le nom du/de la secrétaire parlementaire.</p>
+								<h3>Nom</h3>
 								<ul>
-									<li>Elle doit suivre la formulation obligatoire : [prénom et nom du/de la secrétaire parlementaire].</li>
-									<li>Le nom du ou de la secrétaire parlementaire doit être une balise H1 unique.</li>
+									<li>Elle doit suivre la formulation obligatoire : [prénom et nom].</li>
+									<li>Le nom doit être une balise H1 unique.</li>
 								</ul>
 								<p><span class="label label-info">Facultatif</span></p>
-								<h3>Photo du ou de la secrétaire parlementaire</h3>
-								<p>Présente une image de qualité supérieure du ou de la secrétaire parlementaire.</p>
+								<h3>Photo</h3>
+								<p>Présente une image de qualité supérieure.</p>
 
 							</details>
 						</div>
@@ -365,8 +384,10 @@
 							</div>
 						</div>
 				</div>
-								<a class="off-psec btn btn-sm btn-default mrgn-tp-lg"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Secrétaires parlementaires</b></a>
-								<a class="on-psec btn btn-sm btn-default mrgn-tp-lg wb-inv"><span class="fas fa-eye"></span>&nbsp;&nbsp;<b>Profil ministériel</b></a>
+				<div class="col-md-6 guidance-head wb-inv">
+					<p class="mrgn-tp-lg"><strong><mark>[Official title of the head]</mark></strong></p>
+					<!-- modification for head of institution -->
+				</div>
 				<div class="col-md-6 guidance-psec wb-inv">
 
 					<p class="mrgn-tp-lg"><strong>Secrétaire parlementaire de/de la <a href="#">[nom du ou de la ministre du portefeuille]</a></strong></p> <!-- modification for parliamentary secretary -->
@@ -598,17 +619,36 @@
 			$(".off-psec").click(function () {
 					$(this).addClass("wb-inv");
 					$(".off-psec").addClass("wb-inv");
+					$(".on-head").removeClass("wb-inv");
 					$(".guidance-minister").addClass("wb-inv");
+					$(".guidance-head").addClass("wb-inv");
 					$(".on-psec").removeClass("wb-inv");
 					$(".guidance-psec").removeClass("wb-inv");
+					$(".guidance-shared").removeClass("wb-inv");
+					$(".guidance-psec-head").removeClass("wb-inv");
 
 				});
-
-			$(".on-psec").click(function () {
+				$(".on-head").click(function () {
 					$(this).addClass("wb-inv");
 					$(".off-psec").removeClass("wb-inv");
+					$(".on-psec").removeClass("wb-inv");
+					$(".guidance-minister").addClass("wb-inv");
+					$(".guidance-psec").addClass("wb-inv");
+					$(".guidance-shared").addClass("wb-inv");
+					$(".guidance-psec-head").removeClass("wb-inv");
+					$(".guidance-head").removeClass("wb-inv");
+				});
+
+				$(".on-psec").click(function () {
+					$(this).addClass("wb-inv");
+					$(".off-psec").removeClass("wb-inv");
+					$(".on-head").removeClass("wb-inv");
+					$(".guidance-head").addClass("wb-inv");
 					$(".guidance-minister").removeClass("wb-inv");
 					$(".guidance-psec").addClass("wb-inv");
+					$(".guidance-psec-head").addClass("wb-inv");
+					$(".guidance-shared").removeClass("wb-inv");
+
 				});
 		</script>
 		<script src="../js/guidance-toggle.js"></script>
