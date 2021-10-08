@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/canada-ca/systeme-conception#readme",
   "devDependencies": {
-    "vnu-jar": "^21.9.2"
+    "vnu-jar": "^21.10.8"
   }
 }
