@@ -25,7 +25,7 @@
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html\">Bouton de connexion contextuel</a>",
-    "USE": "Le bouton &amp;laquo;&amp;nbsp;Se connecter&amp;nbsp;&amp;raquo; est un &eacute;l&eacute;ment facultatif de l'en-t&ecirc;te qui dirige les utilisateurs vers des comptes gouvernementaux n&eacute;cessitant une authentification.",
+    "USE": "Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un &eacute;l&eacute;ment facultatif de l'en-t&ecirc;te qui dirige les utilisateurs vers des comptes gouvernementaux n&eacute;cessitant une authentification.",
     "CAT": "Configuration de conception",
     "TYPE": "Interaction, Visuel",
     "MANDATORY": "Non"
