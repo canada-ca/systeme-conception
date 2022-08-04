@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-<title>Bloc des réseaux de médias sociaux - Configuration de conception de Canada.ca de Canada.ca</title>
+<title>Bouton de connexion contextuel - Configuration de conception de Canada.ca de Canada.ca</title>
 <meta content="width=device-width,initial-scale=1" name="viewport">
 
 <!--[if gte IE 9 | !IE ]><!-->
@@ -15,6 +15,7 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
          integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://design.canada.ca/css/custom.css">
+<link rel="stylesheet" href="https://design.canada.ca/css/split-h1.css">
 
 <!--<![endif]--> 
 <!--[if lt IE 9]>
@@ -71,7 +72,7 @@
       <div class="row">
         <div class="col-md-12">
           <ul class="list-inline margin-bottom-none">
-            <li><a lang="en" href="https://design.canada.ca/common-design-patterns/social-media-channels.html">English</a></li>
+            <li><a lang="en" href="https://design.canada.ca/common-design-patterns/contextual-signin.html">English</a></li>
           </ul>
         </div>
       </div>
@@ -142,52 +143,107 @@
 
 <!--/* Hide Nav; Hide Right Rail /*-->
 
-<main role="main" property="mainContentOfPage" class="container">
-  <h1 property="name" id="wb-cont" dir="ltr">Bloc des réseaux de médias sociaux - Configuration de conception de Canada.ca</h1>
-  <p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
-  <p>Le bloc des réseaux de médias sociaux (fenêtre «&nbsp;Suivez&nbsp;») est une composante d’intérieur de page qui permet aux gens de suivre les comptes officiels de médias sociaux du gouvernement du Canada sur diverses plateformes de médias sociaux.</p>
-  <section>
-    <h2>Quand utiliser cette configuration</h2>
-    <ul>
-      <li>Utilisez cette fenêtre lorsque les comptes de médias sociaux du GC sont pertinents dans le contexte actuel.</li>
-      <li>Ne pas utiliser cette composante lorsqu’une tâche accomplie par une personne ne doit pas être interrompue (par exemple pendant une transaction).</li>
-      <li>Ne pas reproduire le contenu d’autres composantes promotionnelles de la page.</li>
-    </ul>
-  </section>
-  <section>
-    <h2>Comment utiliser cette configuration</h2>
-    <ul>
-      <li>La fenêtre «&nbsp;Suivez&nbsp;:&nbsp;» des réseaux de médias sociaux comprend l’en-tête «&nbsp;Suivez&nbsp;:&nbsp;» et des icônes pointant vers les comptes officiels de médias sociaux du GC ou les fils RSS qui sont pertinents pour la page.</li>
-      <li>Les comptes indiqués dans la boîte Suivre doivent respecter la <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la Gestion des communications</a> dans son entièreté.</li>
-      <li>Aligner un maximum de sept icônes sur une même ligne horizontale en utilisant le jeu d’icônes standard sous le thème de la <abbr title="Boîte à outils de l’expérience Web">BOEW</abbr> de Canada.ca.</li>
-      <li>Utiliser une seule icône pour chaque plateforme de médias sociaux. S’il y a plus d’un compte pour une même plateforme&nbsp;:
-        <ul>
-          <li>énumérez-les dans un menu déroulant cliquable;</li>
-          <li>prévoyez un maximum de huit liens de texte en utilisant les noms des comptes comme étiquettes;</li>
-          <li>s’il faut plus de huit liens, prévoir un lien «&nbsp;Tout afficher&nbsp;» comme dernier élément de la liste. Ce lien doit pointer vers la rubrique pertinente de la galerie de médias sociaux de Canada.ca, où tous les comptes pertinents seront énumérés.</li>
-        </ul>
-      </li>
-      <li>Positionner la fenêtre «&nbsp;Suivez&nbsp;:&nbsp;» de manière à ne pas masquer le contenu primaire de la page.</li>
-      <li>Accentuer la forme de la fenêtre de cette composante à l’aide d’une couleur d’arrière-plan plus sombre que l’arrière-plan environnant de la page.</li>
-      <li>Utiliser les catégories de présentation définies sous le thème de la <abbr title="Boîte à outils de l’expérience Web">BOEW</abbr> de Canada.ca.</li>
-    </ul>
-  </section>
-  <section>
-    <h2>Exemple concret</h2>
-    <ul>
-      <li><a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-fr.html">Page de sujet</a></li>
-    </ul>
-  </section>
-  <section class="panel panel-primary">
-    <header class="panel-heading">
-      <h3 class="panel-title">Exemple</h3>
-    </header>
-    <div class="panel-body">
-      <figure class="mrgn-bttm-sm">
-        <figcaption class="text-center"><b>Modèle de bloc des réseaux de médias sociaux (boîte «&nbsp;Suivre&nbsp;»)</b></figcaption>
-        <img src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/social-media-channels-block-fra.jpg" class="img-responsive center-block" alt="Capture d’écran illustrant le modèle de bloc des réseaux de médias sociaux (boîte «&nbsp;Suivre&nbsp;») dans le site Canada.ca. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image."></figure>
+<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
+  <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Bouton de connexion contextuel</span>: <span>Système de conception de Canada.ca</span></span></h1>
+  <div class="row">
+    <div class="col-md-12 pull-left">
+      <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+        <li class="mrgn-rght-lg"> Dernière modification : 2022-07-25</li>
+      </ul>
     </div>
-  </section>
+  </div>
+  <!-- START CONTENT -->
+  <p>Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un élément facultatif de l'en-tête qui dirige les utilisateurs vers des comptes gouvernementaux nécessitant une authentification. Il s’agit d’un appel à l’action contextuel et persistant au sein d’un groupe de pages connexes.</p>
+  <div class="pattern-demo">
+    <figure class="mrgn-bttm-lg">
+      <figcaption><strong>Se connecter – grand écran</strong></figcaption>
+      <img src="../images/signin-button-fr.png" class="img-responsive brdr"
+                     alt="Se connecter – grand écran"> </figure>
+    <figure class="mrgn-bttm-lg">
+      <figcaption><strong>Se connecter – petit écran</strong></figcaption>
+      <img src="../images/signin-button-mobile-fr.png" class="img-responsive brdr" alt="Se connecter – petit écran"> </figure>
+  </div>
+  <h2>Sur cette page</h2>
+  <ul>
+    <li><a href="#a1">Quand utiliser cette configuration</a></li>
+    <li><a href="#a2">Quoi éviter</a></li>
+    <li><a href="#a3">Comment mettre en œuvre</a></li>
+    <li><a href="#a4">Recherche et blogue</a></li>
+    <li><a href="#a4">Derniers changements</a></li>
+    <li><a href="#a6">Discussion</a></li>
+  </ul>
+  <h2 id="a1">Quand utiliser cette configuration</h2>
+  <p>Utiliser le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; quand la connexion à un compte est une tâche connexe dans une série de pages. Cela comprend&nbsp;:</p>
+  <ul>
+    <li>Les pages où il existe déjà un lien ou un bouton vers un ou plusieurs comptes.</li>
+    <li>Une série de pages qui délimitent un service (comme l'assurance-emploi, la TPS)</li>
+    <li>Les pages où les analyses montrent que les gens utilisent le menu ou la barre de recherche pour accéder à un compte.</li>
+  </ul>
+  <h2 id="a2">Quoi éviter</h2>
+  <ul>
+    <li>Utiliser &laquo;&nbsp;Se connecter&nbsp;&raquo;, et non &laquo;&nbsp;Ourvrir une session&nbsp;&raquo; (billet de blogue)</li>
+    <li>Exclure le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; de&nbsp;:
+      <ul>
+        <li>toute page de tri ou de processus de connexion</li>
+        <li>pages qui ne sont pas liées au service authentifié</li>
+      </ul>
+    </li>
+  </ul>
+  <h2 id="a3">Comment mettre en œuvre</h2>
+  <ul>
+    <li>Déterminer le groupe de pages qui devraient contenir le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;, basé sur les pages qui sont reliées au service authentifié spécifique</li>
+    <li>Lier le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; directement à la page où vous commencez votre processus de connexion, ou à une page de triage avec les différents comptes auxquels vous pouvez vous connecter</li>
+    <li>Utiliser &laquo;&nbsp;Se connecter&nbsp;&raquo; comme étiquette
+      <ul>
+        <li>Petits écrans&nbsp;: 12 caractères au total y compris les espaces (pas de texte descriptif supplémentaire)</li>
+        <li>Écrans de taille moyenne et de grande taille : 25 caractères au total (pour du texte descriptif supplémentaire au besoin, par exemple &laquo;&nbsp;Se connecter à [nom du compte]&nbsp;&raquo;)</li>
+      </ul>
+    </li>
+  </ul>
+  <p>Comme il s’agit d’un nouveau modèle, vous pouvez utiliser le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; en plus d’un bouton de super-tâche sur la même page. Si vous avez un bouton de super-tâche existant, ne le supprimez pas. Ajoutez plutôt le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;.  Il se peut que vous constatez des changements d'utilisation au fil du temps dans vos analyses qui montrent que vous pouvez supprimer le bouton de super tâche.</p>
+  <h3>Spécifications de conception</h3>
+  <h4>Structure du bouton</h4>
+  <ul>
+    <li>bordure&nbsp;: 1px solid</li>
+    <li>rayon de la bordure&nbsp;: 0</li>
+    <li>épaisseur de la police&nbsp;: 400</li>
+    <li>taille de la police&nbsp;: 16px</li>
+    <li>marge en haut&nbsp;: 0px</li>
+    <li>rembourrage en haut&nbsp;: 10 pages</li>
+    <li>rembourrage en bas&nbsp;: 10 pages</li>
+    <li>rembourrage à gauche&nbsp;: 14px</li>
+    <li>rembourrage à droite&nbsp;: 14px</li>
+    <li>couleur&nbsp;: #fff</li>
+  </ul>
+  <h4>Affichage normal</h4>
+  <div class="pattern-demo mrgn-bttm-md"> <img class="img-responsive" src="../images/signin-button-norm-fr.png" alt="Affichage normal"> </div>
+  <ul>
+    <li>couleur d’arrière-plan&nbsp;: #26374a</li>
+    <li>couleur de la bordure&nbsp;: #26374a</li>
+  </ul>
+  <h4>Affichage en survol</h4>
+  <div class="pattern-demo mrgn-bttm-md"> <img class="img-responsive" src="../images/signin-button-hover-fr.png" alt="Affichage en survol"> </div>
+  <ul>
+    <li>couleur d’arrière-plan&nbsp;: #444</li>
+    <li>couleur de la bordure&nbsp;: #444</li>
+  </ul>
+  <h3>Code</h3>
+  <p><a href="https://wet-boew.github.io/GCWeb/sites/authentication/authentication-fr.html">GCWeb (WET) Variables, paramètres et exemples de travail pour la Boîte à outils de l’expérience Web</a></p>
+  <h2 id="a4">Recherche et blogue</h2>
+  <ul>
+    <li>Utiliser &laquo;&nbsp;Se connecter&nbsp;&raquo;, et non &laquo;&nbsp;Ourvrir une session&nbsp;&raquo; (billet de blogue)</li>
+  </ul>
+  <h2 id="a5">Derniers changements</h2>
+  <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2022-07-21" class="link-muted">2022-07-21</time>
+    </dt>
+    <dd>Ajout de lignes directrices sur le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;.</dd>
+  </dl>
+  <h2 id="a6">Discussion</h2>
+  <p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuter de cette configuration dans GitHub</a></p>
+  
+  <!-- END CONTENT --> 
   
   <!-- START PAGE FEEDBACK WIDGET -->
   <div class="row row-no-gutters mrgn-tp-xl">
@@ -200,7 +256,7 @@
             <input type="hidden" name="language" value="FR">
             <input type="hidden" name="pageTitle" value="Concevoir du contenu pour Canada.ca">
             <input type="hidden" name="submissionPage"
-							value="https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html">
+							value="https://conception.canada.ca/configurations-conception-communes/boutons.html">
             <input type="hidden" name="sectionopt" value="Design system">
             <input type="hidden" id="helpful" name="helpful" value="Yes">
             <div class="gc-pg-hlpfl-btn">
@@ -275,9 +331,9 @@
   <!-- END PAGE FEEDBACK WIDGET -->
   <div class="pagedetails">
     <dl id="wb-dtmd">
-      <dt>Date de modification :</dt>
+      <dt>Date de modification&nbsp;:</dt>
       <dd>
-        <time property="dateModified">2018-12-19</time>
+        <time property="dateModified">2022-07-25</time>
       </dd>
     </dl>
   </div>
