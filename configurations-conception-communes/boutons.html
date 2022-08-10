@@ -175,7 +175,7 @@
       <p>Utiliser cette configuration pour exécuter des mesures ou des commandes qui modifieront l’état du système en aval ou en amont (par exemple « Ajouter un commentaire », « Soumettre », « Envoyer »).</p>
       <p>Utiliser des boutons pour :</p>
       <ul>
-        <li>aider une personne à amorcer ou à mener à bien une transaction (un bouton « Se connecter », par exemple);</li>
+        <li>aider une personne à amorcer ou à mener à bien une transaction (un bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;, par exemple);</li>
         <li>invoquer une fonction, commme « Partager cette page »;</li>
         <li>offrir un ensemble permanent de commandes d’interface utilisateur dans une série de page, par exemple « précédent », « suivant », ou « retour à la table des matières »</li>
       </ul>
@@ -194,7 +194,7 @@
         <li><a href="#secondaire">Secondaire</a></li>
         <li><a href="#danger">Danger</a></li>
         <li><a href="#lien">Lien</a></li>
-        <li><a href="#connecter">Se connecter (bêta)</a></li>
+        <li><a href="#connecter">Se connecter</a></li>
       </ol>
       <h3 id="action">1. Bouton de super-tâche</h3>
       <p><strong>Quand l'utiliser :</strong> utiliser un bouton de super-tâche pour lancer la tâche principale ou l'étape suivante que les personnes tentent d'accomplir à partir d'une page spécifique, par exemple :</p>
@@ -254,52 +254,12 @@
         <summary>Code</summary>
         <pre><code>&lt;button class="btn btn-link"&gt;Redémarrer le calculateur&lt;/button&gt;</code></pre>
       </details>
-      <h3 id="connecter">6. Bouton de connexion - Bêta</h3>
-      <p><strong>Quand l'utiliser :</strong> Ajouter un bouton de connexion contextuel uniforme sur les pages où se connecter à un compte est une tâche importante. Utilisez l'étiquette « Se connecter ».</p>
-      <p>Remarque : vous devrez utiliser du code CSS personnalisé pour utiliser ce bouton pour le moment.</p>
+      <h3 id="connecter">6. Bouton contextual &laquo;&nbsp;Se connecter&nbsp;&raquo;</h3>
+      <p><strong>Quand l'utiliser :</strong> Le bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo; est un élément facultatif de <a href="en-tete-general.html">l’en-tête global</a>. À utiliser  sur les pages où la connexion à un compte est une tâche importante. Utiliser l’étiquette &laquo;&nbsp;Se connecter&nbsp;&raquo;.</p>
+      <p><a href="connexion-contextuel.html">Conseils sur le bouton contextual &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></p>
       <div class="pattern-demo mrgn-bttm-md">
         <figure> <img class="img-responsive border" alt="Un bouton carré bleu en haut à droite de l'écran pour se connecter à un compte" src="../images/sign-in-button-fr.png" width="300" /> </figure>
       </div>
-      <details>
-        <summary>Code</summary>
-        <details>
-          <summary>HTML</summary>
-          <pre><code>
-&lt;div class="pull-right"&gt;
-	&lt;button class="provisional btn btn-login"&gt;Se connecter&lt;/button&gt;
-&lt;/div&gt;
-								</code></pre>
-        </details>
-        <details>
-          <summary>CSS</summary>
-          <pre><code>
-.provisional.btn-login {
-	background-color: #26374a;
-	border: 1px solid #26374a;
-	border-radius: 0;
-	color: #fff;
-	font-weight: 600;
-	font-size: 17px;
-	margin-top: 0px;
-	padding-top: 7px;
-	padding-bottom: 7px;
-	padding-left: 16px;
-	padding-right: 16px;
-}
-
-.provisional.btn-login:hover {
-	background-color: #444;
-	border-color: #444;
-}
-
-@media screen and (min-width:479px) {
-   .provisional.btn-login {
-      margin-right: 15px;
-   }
-}
-								</code></pre>
-        </details>
-      </details>
       <h3>Modifications des boutons</h3>
       <table class="table">
         <thead>
