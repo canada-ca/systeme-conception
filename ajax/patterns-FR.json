@@ -24,6 +24,12 @@
     "TYPE": "Institutionnel",
     "MANDATORY": "Non"
   }, {
+    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html\">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a>",
+    "USE": "Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un &eacute;l&eacute;ment facultatif de l'en-t&ecirc;te qui dirige les utilisateurs vers des comptes gouvernementaux n&eacute;cessitant une authentification.",
+    "CAT": "Configuration de conception",
+    "TYPE": "Interaction, Visuel",
+    "MANDATORY": "Non"
+  }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/boutons.html\">Boutons</a>",
     "USE": "Les boutons sont des objets cliquables incitant une personne &#224; ex&#233;cuter une action",
     "CAT": "Configuration de conception",
@@ -103,8 +109,8 @@
     "TYPE": "Navigation",
     "MANDATORY": "Non"
   }, {
-    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/en-tete-general.html\">En-t&#234;te g&#233;n&#233;ral </a>",
-    "USE": "L'en-t&#234;te g&#233;n&#233;ral (à l'&#233;chelle du site) qui se trouve au haut de chaque page Web - <strong>Conception obligatoire</strong>",
+    "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/en-tete-general.html\">En-t&#234;te global </a>",
+    "USE": "L'en-t&#234;te global (à l'&#233;chelle du site) qui se trouve au haut de chaque page Web - <strong>Conception obligatoire</strong>",
     "CAT": "Configuration de conception",
     "TYPE": "Configuration &#224; l'&#233;chelle du site",
     "MANDATORY": "Obligatoire"
@@ -175,7 +181,7 @@
     "TYPE": "Configuration &#224; l'&#233;chelle du site",
     "MANDATORY": "Obligatoire"
   }, {
-	  "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/generique.html\">Mise en page de base</a>",
+    "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/generique.html\">Mise en page de base</a>",
     "USE": "Mise en page de base des pages de Canada.ca.",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Destination",
@@ -409,7 +415,7 @@
     "TYPE": "Navigation",
     "MANDATORY": "Non"
   }, {
-	"NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/transparence.html\">Transparence et rapports sur l'organisation</a>",
+    "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/transparence.html\">Transparence et rapports sur l'organisation</a>",
     "USE": "Une page de rapports sur l'organisation fournit une divulgation proactive des renseignements offerts par cette institutions",
     "CAT": "Mod&#232;le de page",
     "TYPE": "Institutionnel",
@@ -426,5 +432,5 @@
     "CAT": "Style",
     "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
     "MANDATORY": "Non"
-    }]
+  }]
 }
