@@ -4,7 +4,7 @@
     "USE": "Utilisez pour pr&#233;senter de nouveaux renseignements importants devant &#234;tre affich&#233;s dans un contexte pr&#233;existant",
     "CAT": "Configuration de conception",
     "TYPE": "Visuel",
-    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/design/alerts-fr.html\">BOEW: Alertes</a>",
+    "EXAMPLE": "<a href=\"http://wet-boew.github.io/wet-boew-styleguide/design/alertes.html\">BOEW: Alertes</a>",
     "MANDATORY": "Non"
   }, {
     "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/autres-renseignements.html\">Autres renseignements pour les</a>",
