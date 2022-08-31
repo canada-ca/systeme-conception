@@ -1,0 +1,67 @@
+<!DOCTYPE html><!--[if lt IE 9]>-->
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Table – Basic example - Canada.ca Design System</title>
+    <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+	<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css" />
+
+    <!--[if lt IE 9]>
+      <script src="/javascripts/head-ie8-a371085ca251931cc9b5360c7da328f6.js"></script>
+    <![endif]-->
+    <!-- <script src="./scaling-sample/javascripts/vendor/modernizr.js"></script> JM: flex-box stuff, not entirely sure the benefit yet -->
+
+  </head>
+  <body>
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+    <!-- Disable browser validation for any examples that include form elements -->
+    <form action="/form-handler" method="post" novalidate class="mrgn-rght-lg mrgn-lft-lg mrgn-tp-lg mrgn-bttm-lg">
+
+        <table class="provisional gc-table table" id="myTable">
+            <caption>Croissance de la population dans les villes canadiennes</caption>
+            <thead>
+              <tr>
+                <th scope="col">Ville</th>
+                <th scope="col">Population en 2007</th>
+                <th scope="col">Population en 2017</th>
+                <th scope="col">Variation en pourcentage</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td data-label="Ville">Toronto</td>
+                <td data-label="Population en 2007">5&#160;418&#160;207</td>
+                <td data-label="Population en 2017">6&#160;346&#160;088</td>
+                <td data-label="Variation en pourcentage">17,1%</td>
+              </tr>
+              <tr>
+                <td data-label="Ville">Montréal</td>
+                <td data-label="Population en 2007">3&#160;714&#160;846</td>
+                <td data-label="Population en 2017">4&#160;138&#160;254</td>
+                <td data-label="Variation en pourcentage">11,4%</td>
+              </tr>
+              <tr>
+                <td data-label="Ville">Vancouver</td>
+                <td data-label="Population en 2007">2&#160;218&#160;134</td>
+                <td data-label="Population en 2017">2&#160;571&#160;262</td>
+                <td data-label="Variation en pourcentage">15,9%</td>
+              </tr>
+              <tr>
+                <td data-label="Ville">Ottawa–Gatineau</td>
+                <td data-label="Population en 2007">1&#160;188&#160;073</td>
+                <td data-label="Population en 2017">1&#160;377&#160;016	</td>
+                <td data-label="Variation en pourcentage">15,9%</td>
+              </tr>
+            </tbody>
+          </table>
+
+    </form>
+   <script type="text/javascript" src="https://www.canada.ca/etc/clientlibs/granite/jquery.min.js"></script>
+   <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
+
+    <!--  <script src="./scaling-sample/javascripts/vendor/iframeResizer.contentWindow.js"></script>
+    JM: supposed to force a frame to resize - but not seeing any benefit on initial tinkering -->
+  </body>
+</html>
