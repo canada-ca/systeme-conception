@@ -367,10 +367,10 @@
       "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
       "MANDATORY": "Obligatoire"
     }, {
-      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/pied-page.html\">Pied de page du site</a>",
-      "USE": "Le pied de page g&#233;n&#233;ral (à l'&#233;chelle du site) qui se trouve au bas de chaque page Web - <strong>Conception obligatoire</strong>",
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/pied-page.html\">Pied de page général</a>",
+      "USE": "Le pied de page général à l'échelle du site qui se trouve au bas de chaque page Web et comprend la bande contextuelle, la bande principale et la bande sous pied de page - <strong>Conception obligatoire</strong>",
       "CAT": "Configuration de conception",
-      "TYPE": "Configuration &#224; l'&#233;chelle du site",
+      "TYPE": "Configuration à l'échelle du site",
       "MANDATORY": "Obligatoire"
     }, {
       "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html \">Profil de partenariat ou d’entente de collaboration</a>",
