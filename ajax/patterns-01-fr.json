@@ -1,1294 +1,1412 @@
 {
-  "data":[
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca\">Orientation dans Canada.ca</a>",
-      "SOURCE":"Résumé de recherche",
-      "DESCRIPTION":"explique le contexte de la recherche et les constatations qui ont mené aux mises à jour de la conception",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2022/12/21/le-projet-orientation.html\">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"explique les changements proposés à la conception de Canada.ca et comment ils seront mis en œuvre",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2022/09/23/presentation-bouton-contextuel-se-connecter.html\">Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Ajouter un bouton contextuel «&nbsp;Se connecter&nbsp;» à l’en-tête générale Canada.ca sur les pages où les gens doivent se connecter à un compte",
-      "WHENTOUSE":"Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un &eacute;l&eacute;ment facultatif de l'en-t&ecirc;te qui dirige les utilisateurs vers des comptes gouvernementaux n&eacute;cessitant une authentification.",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Interaction, Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/amelioration-continue/mesure/retroaction.html\">Outil de rétroaction sur la page</a>",
-      "SOURCE":"Amélioration continue",
-      "DESCRIPTION":"L'outil de rétroaction est un modèle facultatif pour découvrir les problèmes spécifiques au niveau de la page qui affectent la performance de la tâche.",
-      "WHENTOUSE":"L'outil de r&eacute;troaction est un mod&egrave;le facultatif pour d&eacute;couvrir les probl&egrave;mes sp&eacute;cifiques au niveau de la page qui affectent la performance de la t&acirc;che.",
-      "CATEGORY":" Configuration de conception",
-      "TYPE":"Interaction",
-      "MANDATORY":"No",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2021/04/08/utilisation-de-questions-interactives.html\">Les questions interactives pour aider les gens</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"La configuration est utilisée pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2021/03/25/maintenir-le-contenu-web.html\">Maintenir et améliorer le contenu web tout au long de son cycle de vie</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"De petits changements font une grande différence pour améliorer Canada.ca. Poursuivons la discussion sur le passage des données à l'action. Voici 4 problèmes courants et les mesures que vous pouvez prendre.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html\">L’importance de collaborer avec les centres d’appels</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"L’utilisation des données des centres d'appel peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2021/02/04/les-donnees-a-laction.html\">Exploiter les données pour améliorer le contenu</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2022/07/28/communiques\">Utilisation d’alertes pour maintenir la synchronisation des communiqués de presse et du contenu Web</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Utilisez une alerte temporaire pour synchroniser les communications lorsque vous ne pouvez pas mettre à jour le contenu Web dans les mêmes délais que ceux prévus pour la publication d'un communiqué de presse.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2020/12/18/lueurs-despoir-2020.html\">2020 : lueurs d’espoir</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Dire que 2020 a été parsemée de défis et d’un grand nombre de changements relève presque de l’euphémisme.  Malgré les défis, de nombreux points positifs sont à noter cette année.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html\">Utilisation de listes de vérification interactives pour simplifier les critères d’admissibilité</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Utiliser des listes interactives peut aider les gens à ralentir et bien comprendre les critères d'admissibilité.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2020/12/17/choisir-des-boutons.html\">Choisir le bon bouton pour la réussite des tâches</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"La façon d’utiliser le bon style de bouton dans la bonne situation peut aider les gens à mieux réussir sur votre page Web.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"http://blogue.canada.ca/2020/10/28/modele-de-transparence.html\">Accroître la transparence sur Canada.ca</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Nous avons lancé un nouveau modèle de transparence dans le système de conception de GC.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"http://blogue.canada.ca/2020/10/21/utiliser-des-graphiques.html\">Utiliser des graphiques pour combler les lacunes linguistiques</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Les Territoires du Nord-Ouest (T.N.-O.) ont expliqué la façon dont ils utilisent des illustrations pour rendre le contenu Web et les produits de communication sur la COVID-19 plus accessibles à toutes leurs collectivités.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html\">Recueillir la rétroaction, trouver les problèmes</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"En mai 2020, quelques équipes ont collaboré au lancement de l’étude pilote d’un widget pour obtenir la rétroaction des gens sur les pages Canada.ca.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"http://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html\">Étude sur les étiquettes : quels mots fonctionnent le mieux</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Le public compte sur nous pour choisir les bons mots pour la catégorie et les étiquettes de liens afin de s'assurer qu'il puisse trouver des réponses rapidement et facilement sur Canada.ca.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2020/09/18/afficher-masquer.html\">Utiliser le modèle afficher/masquer pour faire des choix</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Utilisation du modèle afficher/masquer pour présenter un choix entre des réponses mutuellement exclusives.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html\">De quelle façon déterminons-nous les principales tâches pour Canada.ca</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Comment nous identifions les principales tâches pour aider à établir les priorités du travail.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html\">Comment nous optimisons les principales tâches sur le site Canada.ca</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Les projets d'optimisation sont un moyen d'apporter des améliorations significatives pour les Canadiens.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2018/05/30/tout-est-question-de-dates.html\">Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Dans une étude de convivialité récente, nous avons vu des gens qui n’ont pas tenu compte des résultats de recherche de Canada.ca qui semblaient trop vieux.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2020/01/28/optimisation-recherche-vocale.html\">Optimiser votre contenu pour la recherche vocale</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Nos apprentissages sur l’amélioration des services vocaux pour les Canadiens",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2020/02/05/methode-pour-mesurer.html\">Trouver la bonne méthode pour mesurer la réussite des tâches en ligne</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2020/05/25/eviter-les-faq.html\">Éviter les FAQ, à une exception près</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Pourquoi les FAQ sont un choix de conception de contenu inefficace la plupart du temps, et quand elles peuvent réellement fonctionner.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html\">Un exemple en faveur du texte de lien descriptif</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Un texte de lien clair peut aider des milliers de personnes supplémentaires à accéder rapidement et facilement au contenu de Canada.ca dont elles ont besoin.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html\">Conception axée sur l’accessibilité pendant la pandémie de la COVID-19</a>",
-      "SOURCE":"Blogue",
-      "DESCRIPTION":"Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/liste-institutions.html\">Institutions soumises au système de conception de Canada.ca</a>",
-      "SOURCE":"Concevoir le contenu",
-      "DESCRIPTION":"Liste des institutions du gouvernement du Canada assujetties au système de conception de Canada.ca",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/ministeres-responsables-themes.html\">Ministères responsables des thèmes et des publics cibles de Canada.ca</a>",
-      "SOURCE":"Concevoir le contenu",
-      "DESCRIPTION":"Ministères responsables des 15 thèmes et des 3 publics cibles de Canada.ca",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html\">Arborescence thématique et types de contenu</a>",
-      "SOURCE":"Concevoir le contenu",
-      "DESCRIPTION":"Taxonomies de Canada.ca : structure des thèmes et des sujets, types de contenu",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html\">Alertes et perturbations de service sur Canada.ca</a>",
-      "SOURCE":"Concevoir le contenu",
-      "DESCRIPTION":"Ces recommandations contribueront à uniformiser les communications de chaque ministère sur les interruptions de service en cas de crise.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/directives/donnees-structurees.html\">Ajout de données structurées sur les pages de Canada.ca</a>",
-      "SOURCE":"Concevoir le contenu",
-      "DESCRIPTION":"Comment ajouter des données structurées pour améliorer les résultats de recherche ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/utilisation-concept-canadaca.html\">Qui doit utiliser ce système de conception</a>",
-      "SOURCE":"Spécifications du contenu et de l’architecture de l'information",
-      "DESCRIPTION":"Quelles institutions doivent utiliser le système de conception de Canada.ca pour leur présence sur le Web",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html\">Éléments obligatoires</a>",
-      "SOURCE":"Spécifications du contenu et de l’architecture de l'information",
-      "DESCRIPTION":"Ce que chaque institution doit suivre : Couleurs, typographie, en-tête et pied de page, modèles obligatoires",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
-      "SOURCE":"Spécifications du contenu et de l’architecture de l'information",
-      "DESCRIPTION":"Comment les gens trouvent des tâches sur Canada.ca",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
-      "SOURCE":"Spécifications du contenu et de l’architecture de l'information",
-      "DESCRIPTION":"Comment les gens trouvent des tâches sur Canada.ca",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html#toc3\">Modèle d'URL</a>",
-      "SOURCE":"Spécifications du contenu et de l’architecture de l'information",
-      "DESCRIPTION":"Modèle d'URL Canada.ca",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/modeles.html#principes\">Principes de conception de Canada.ca</a>",
-      "SOURCE":"Spécifications du contenu et de l’architecture de l'information",
-      "DESCRIPTION":"Principes de conception de Canada.ca",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/crise/contenu.html\">Aide-mémoire pour la conception du contenu des communications de crise</a>",
-      "SOURCE":"Concevoir le contenu",
-      "DESCRIPTION":"Conseils sur la façon de concevoir du contenu en temps de crise",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/crise/contenu.html\">Alertes contextuelles</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Les alertes sont des avis présentant de nouveaux renseignements importants qui doivent apparaître dans la page.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter de nouveaux renseignements importants devant &#234;tre affich&#233;s dans un contexte pr&#233;existant",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html\">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Le bouton «&nbsp;Se connecter&nbsp;» est un élément facultatif de l'en-tête qui dirige les utilisateurs vers des comptes gouvernementaux nécessitant une authentification.",
-      "WHENTOUSE":"Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un &eacute;l&eacute;ment facultatif de l'en-t&ecirc;te qui dirige les utilisateurs vers des comptes gouvernementaux n&eacute;cessitant une authentification.",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Interaction, Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/boutons.html\">Boutons</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Les boutons sont des objets cliquables incitant une personne à exécuter une action.",
-      "WHENTOUSE":"Les boutons sont des objets cliquables incitant une personne &#224; ex&#233;cuter une action",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Interaction, Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/cases-cocher-boutons-radio.html\">Cases à cocher et boutons radio</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Les cases à cocher et les boutons radio servent de contrôle de formulaire - ils permettent aux gens de sélectionner une réponse à une question ou de confirmer des réponses.",
-      "WHENTOUSE":"Permettent aux gens de s&#233;lectionner une r&#233;ponse &#224; une question ou de confirmer des r&#233;ponses.",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Interaction",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-obligatoire/theme-sujet.html\">Page de thème et de sujet</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Les pages de thème et les pages de sujet fournissent un accès aux sujets et aux pages de destination qui appuient l’achèvement des tâches.",
-      "WHENTOUSE":"Permet aux personnes de d&#233;couvrir des services et des renseignements li&#233;s &#224; un th&#232;me ou un sujet pr&#233;cis dans l’ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Mod&#232;le de th&#232;me, Navigation",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html\">Pages d'accueil institutionnelle</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez ce modèle comme page d'accueil pour les nstitutions et organismes du gouvernement du Canada.",
-      "WHENTOUSE":"Page d'accueil pour les institutions et organismes du gouvernement du Canada. - <strong>Mod&#232;le obligatoire</strong>",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Institutionnel, Navigation",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-lois-reglements.html#profil-loi\">Page de profil d’une loi</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Donne une description de 1 ou 2 phrases pour décrire la loi, permet aux personnes de lire la loi, and relie la loi aux sujets, aux institutions, aux ministres et aux autres lois ",
-      "WHENTOUSE":"Donne une description de 1 ou 2 phrases pour d&#233;crire la loi, permet aux personnes de lire la loi, and relie la loi aux sujets, aux institutions, aux ministres et aux autres lois",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Destination",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/generique.html\">Page de contenu de base</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"La mise en page de base des pages de Canada.ca ",
-      "WHENTOUSE":"Mise en page de base des pages de Canada.ca.",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Destination",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/fil-ariane.html\">Fil d'Ariane</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Représente l’emplacement de la page actuelle dans le modèle de navigation de l’utilisateur du site ",
-      "WHENTOUSE":"Repr&#233;sente l’emplacement de la page actuelle dans le mod&#232le de navigation de l’utilisateur du site - <strong>Conception obligatoire</strong>",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site, Interaction, Navigation",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-campagnes.html\">Pages de campagne</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, thématiques ou à l’échelle du gouvernement du Canada qui durent pendant une période donnée ",
-      "WHENTOUSE":"Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, th&#233;matiques ou &#224; l’&#233;chelle du gouvernement du Canada qui durent pendant une p&#233;riode donn&#233;e. Ne l'utilisez pas pour le contenu essentiel &#224; une t&#226;che.",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Promotion",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/canada-point-ca.html\">Domaine Canada.ca</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Le principal domaine pour la présence du gouvernement du Canada sur le Web",
-      "WHENTOUSE":"Le principal domaine pour la pr&#233;sence du gouvernement du Canada sur le Web",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/carrousels.html\">Carrousels</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez cette composante pour des situations telles que des galeries d'images ou de vidéos.",
-      "WHENTOUSE":"Utilisez cette composante pour des situations telles que des galeries d'images ou de vid&#233;os",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Promotion, Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/diagrammes-graphiques.html\">Diagrammes et graphiques</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez comme technique de visualisation permettant de communiquer des données ou des statistiques.",
-      "WHENTOUSE":"Utilisez comme technique de visualisation permettant de communiquer des donn&#233;es ou des statistiques",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/styles/couleurs.html\">Couleurs</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Couleurs de Canada.ca ",
-      "WHENTOUSE":"Couleurs de Canada.ca - <strong>Style obligatoire</strong>",
-      "CATEGORY":"Style",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site, Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/etiquettes.html\">Étiquettes</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Les étiquettes sont des indicateurs visuels qui attribuent une étiquette à des items comme des événements, des produits, des programmes ou des services",
-      "WHENTOUSE":"Les &#233tiquettes sont des indicateurs visuels qui attribuent une &#233tiquette &#224; des items comme des &#233v&#233nements, des produits, des programmes ou des services.",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-consultations.html\">Pages de profil d'une consultation</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Décrit une activité de consultation ou de mobilisation",
-      "WHENTOUSE":"Décrit une activité de consultation ou de mobilisation. Fournit l'état et les résultats de l'initiative, des documents généraux, des données et des renseignements au sujet d'événements prévus ou achevés.",
-      "CATEGORY":"Modèle de page",
-      "TYPE":"Destination",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/coordonnees.html\">Coordonnées</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour présenter des coordonnées sur une page de Canada.ca.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter des coordonn&#233;es sur une page de Canada.ca",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-contactez-nous.html\">Pages de coordonnées</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Fournit un modèle d'option de communication dans Canada.ca - utilisez pour présenter les coordonnées d'une personne, d'un bureau, d'une organisation ou pour des urgences ",
-      "WHENTOUSE":"Fournit un mod&#232;le d'option de communication dans Canada.ca. Utilisez pour pr&#233;senter les coordonn&#233;es d'une personne, d'un bureau, d'une organisation ou pour des urgences.",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html\">Promotions contextuelles</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour promouvoir des activités, des initiatives, des programmes et des services.",
-      "WHENTOUSE":"Utilisez pour promouvoir des activit&#233;s, des initiatives, des programmes et des services ",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Promotion, Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/collaborateurs.html\">Collaborateurs</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour lier aux institutions ou aux organisations qui soutiennent le contenu sur la page.",
-      "WHENTOUSE":"Utilisez pour lier aux institutions ou aux organisations qui soutiennent le contenu sur la page",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/tableaux.html\">Tableaux de données</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour communiquer des données.",
-      "WHENTOUSE":"Utilisez pour communiquer des donn&#233;es",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/date-modification.html\">Date de modification</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Indique la date de la dernière mise à jour récente du contenu de la page Web",
-      "WHENTOUSE":"Indique la date de la derni&#232;re mise à jour r&#233;cente du contenu de la page Web - <strong>Conception obligatoire</strong>",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-obligatoire/page-ministeres-organismes.html\">Page des ministères et organismes</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Fournit des liens vers toutes les institutions fédérales",
-      "WHENTOUSE":"Fournit des liens vers toutes les institutions f&#233;d&#233;rales",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Mod&#232;le &#224; l'&#233;chelle du gouvernement",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/avis-confidentialite.html\">Avis de confidentialité</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour afficher des avis de confidentialité",
-      "WHENTOUSE":"Utilisez pour afficher des avis de confidentialit&#233;",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Interaction",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/liens-telechargement.html\">Liens de téléchargement</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour renvoyer à des fichers de format autre que HTML.",
-      "WHENTOUSE":"Utilisez pour renvoyer à des fichers de format autre que HTML",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html\">Afficher/masquer</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Le modèle afficher/masquer (aussi appelé accordéon) permet de masquer le contenu jusqu'à ce qu'il soit demandé.",
-      "WHENTOUSE":"Utilisez pour cacher le contenu secondaire jusqu'&#224; ce que l'utilisateur le demande",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Interaction",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-index.html#facettes\">Page d’index à facettes</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez-le pour présenter une liste de plus de 100 liens connexes qui peuvent être filtrés - indique le nombre de résultats utilisant des facettes.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter une liste de plus de 100 liens connexes pouvant &#234;tre filtr&#233;s &#224; l’aide de m&#233;tadonn&#233;es. Affiche les r&#233;sultats &#224; l'aide de facettes.",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-index.html#filtre\">Page avec filtres</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez-le pour présenter une liste de plus de 100 liens connexes qui peuvent être filtrés.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter une liste de plus de 100 liens connexes pouvant &#234;tre filtr&#233;s &#224; l’aide de m&#233;tadonn&#233;es. Utilisez lorsqu’il faut permettre aux personnes de cr&#233;er des requ&#234;tes simples par rapport &#224; une grande quantit&#233; de r&#233;sultats.",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/en-tete-general.html\">En-tête global</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"L'en-tête global (à l'échelle du site) qui se trouve au haut de chaque page Web ",
-      "WHENTOUSE":"L'en-t&#234;te global (à l'&#233;chelle du site) qui se trouve au haut de chaque page Web - <strong>Conception obligatoire</strong>",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/signature.html\">Signature du gouvernement du Canada</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"La signature du gouvernement du Canada définie dans les instruments stratégiques du Programme de coordination de l’image de marque (PCIM) ",
-      "WHENTOUSE":"La signature du gouvernement du Canada d&#233;finie dans les instruments strat&#233;giques du Programme de coordination de l’image de marque (PCIM) est mise en &#233;vidence dans l’en-t&#234;te g&#233;n&#233;ral du site Web Canada.ca. - <strong>Conception obligatoire</strong>",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site, Visuel",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-publics-cibles.html\">Page de public cible à l'échelle du gouvernement</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Donne accès aux renseignements et aux services pertinents pour le public cible de l’ensemble du gouvernement ",
-      "WHENTOUSE":"Donne acc&#232;s aux renseignements et aux services pertinents pour le public cible de l’ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Mod&#232;le de th&#232;me",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-directives-lois.html\">Pages de directives sur les lois</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Donne accès aux directives sur les lois, aux détails et aux documents connexes ",
-      "WHENTOUSE":"Donne acc&#232;s aux directives sur les lois. Donne acc&#232;s aux d&#233;tails et aux documents connexes.",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Destination",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-obligatoire/page-accueil.html\">Page d’accueil de Canada.ca</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Affiche les produits et services du gouvernement du Canada les plus vus et les plus importants ",
-      "WHENTOUSE":"Affiche les produits et services du gouvernement du Canada les plus vus et les plus importants",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Mod&#232;le &#224; l'&#233;chelle du gouvernement, Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/icones.html\">Icônes</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Les icônes représentent des symboles servant à indiquer des actions à prendre ou des états.",
-      "WHENTOUSE":"Les icônes repr&#233;sentent des symboles servant &#224; indiquer des actions &#224; prendre ou des &#233;tats",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/images.html\">Images</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour embellir ou rehausser un texte.",
-      "WHENTOUSE":"Utilisez pour embellir ou rehausser un texte",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/table-matiere-interieur.html\">Table des matières à l’intérieur de la page</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Liste de liens dirigeant vers des sous-sections de la même page ",
-      "WHENTOUSE":"Liste de liens dirigeant vers des sous-sections de la m&#234;me page",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/institution-responsable.html\">Institution responsable</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Lien vers l’institution responsable du contenu ",
-      "WHENTOUSE":"Lien vers l’institution responsable du contenu",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html\">Page de compte rendu du rendement des services institutionnels</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour présenter toutes les normes de service, conformément aux exigences de la Politique sur les services.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter toutes les normes de service, conform&#233;ment aux exigences de la Politique sur les services",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/questions-interactives.html\">Questions interactives</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter une s&#233;quence de questions simples qui m&#232;nent &#224; la r&#233;ponse dont les personnes ont besoin pour poursuivre leur t&#226;che ou l’achever",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Destination, Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/changer-langue.html\">Lien pour changer de langue</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Donne à la personne accès au contenu soit en français soit en anglais ",
-      "WHENTOUSE":"Donne à la personne acc&#232s au contenu soit en français soit en anglais - <strong>Conception obligatoire</strong>",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site, Interaction",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/nouveautes.html\">Nouveautés</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour afficher les nouvelles les plus récentes.",
-      "WHENTOUSE":"Utilisez pour afficher les nouvelles les plus r&#233;centes",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/styles/mises-en-page.html\">Mises en page</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Mises en page de Canada.ca ",
-      "WHENTOUSE":"Mises en page de Canada.ca - <strong>Style obligatoire</strong>",
-      "CATEGORY":"Style",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site, Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-index.html#long\">Page d’index long</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utiliser pour présenter une liste de plus de 50 liens connexes sans description.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter une liste de plus de 50 liens connexes sans description",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html\">Pages de profil des ministres</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Donne un aperçu de la biographie et des liens les activités et les annonces récentes du ministre, et les réseaux de médias sociaux ",
-      "WHENTOUSE":"Donne un aper&#231;u de la biographie et des liens les activit&#233;s et les annonces r&#233;centes du ministre, et les r&#233;seaux de m&#233;dias sociaux - <strong>Mod&#232;le obligatoire</strong>",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/autres-renseignements.html\">Autres renseignements pour les</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour lier à une page connexe d’un public cible à l’échelle du gouvernement.",
-      "WHENTOUSE":"Utilisez pour lier &#224; une page connexe d’un public cible &#224; l’&#233;chelle du gouvernement",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/en-demande.html\">En demande</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour présenter les tâches principales liées à la page.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter les t&#226;ches principales li&#233;es &#224; la page",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/multimedia.html\">Multimédia (vidéo et audio)</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour compléter ou rehausser le texte.",
-      "WHENTOUSE":"Utilisez pour compl&#233;ter ou rehausser le texte",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#accueil\">Page d’accueil des nouvelles</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Donne accès aux produits de nouvelles du gouvernement du Canada ",
-      "WHENTOUSE":"Donne acc&#232;s aux produits de nouvelles du gouvernement du Canada",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Mod&#232;le &#224; l'&#233;chelle du gouvernement",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#produit\">Page de nouvelles</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Permet aux personnes de lire un produit de nouvelle ",
-      "WHENTOUSE":"Permet aux personnes de lire un produit de nouvelle - <strong>Mod&#232;le obligatoire</strong>",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#resultats\">Page de résultats des nouvelles</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Permet aux personnes de trouver un produit de nouvelle en filtrant rapidement les résultats en fonction de mots-clés et de métadonnées ",
-      "WHENTOUSE":"Permet aux personnes de trouver un produit de nouvelle en filtrant rapidement les r&#233;sultats en fonction de mots-cl&#233;s et de m&#233;tadonn&#233;es",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Mod&#232;le &#224; l'&#233;chelle du gouvernement",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/navigation-plusieurs-pages.html\">Navigation dans plusieurs pages ordonnées</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Ensemble de liens dirigeant vers un groupe formé de plusieurs pages qui devraient être lues dans un ordre de préférence ",
-      "WHENTOUSE":"Ensemble de liens dirigeant vers un groupe form&#233; de plusieurs pages qui devraient &#234;tre lues dans un ordre de pr&#233;f&#233;rence",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/navigation-metro.html\">Navigation de style métro</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Diviser du contenu long et complexe en sections qui se concentrent chacune sur une étape ou une réponse spécifique dont les gens ont besoin avant de passer à l'étape ou à la section suivante.",
-      "WHENTOUSE":"Diviser du contenu long et complexe en sections qui se concentrent chacune sur une &#233;tape ou une réponse sp&#233;cifique dont les gens ont besoin avant de passer &#224; l'&#233;tape ou &#224; la section suivante.",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html\">Profil de partenariat ou d’entente de collaboration</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Donne un aperçu du mandat, des renseignements et des services du partenariat ou de l'entente de collaboration ",
-      "WHENTOUSE":" Donne un aper&#231;u du mandat, des renseignements et des services du partenariat ou de l'entente de collaboration",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-description-programme.html\">Page de description de programme</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Fournit des détails sur un programme et donne accès aux services liés à un programme - utilisez pour donner des renseignements généraux sur un programme.",
-      "WHENTOUSE":"Fournit des d&#233;tails sur un programme. Donne acc&#232;s aux services li&#233;s &#224; un programme. Utilisez pour donner des renseignements g&#233;n&#233;raux sur un programme. Ne pas utiliser pour d&#233;buter une tâche.",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-evenements-promotionnels.html\">Page d'événements promotionnels</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Décrit et explique un événement officiel organisé par le gouvernement et qui se déroule dans un contexte promotionnel, et fournit des renseignements tels que la date, l'heure, l'endroit et le public cible de l'événement ",
-      "WHENTOUSE":"D&#233;crit et explique un &#233;v&#233;nement officiel organis&#233; par le gouvernement et qui se d&#233;roule dans un contexte promotionnel. Fournit des renseignements tels que la date, l'heure, l'endroit et le public cible de l'&#233;v&#233;nement.",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Promotion",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-lois-reglements.html#profil-reglement\">Page de profil d’un règlement</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Donne une description de 1 ou 2 phrases pour décrire le règlement, permet aux personnes de lire le règlement, et relie le règlement aux sujets, aux institutions, aux ministres et aux autres lois.",
-      "WHENTOUSE":"D&#233;crit une activit&#233; de consultation ou de mobilisation. Fournit l'&#233;tat et les r&#233;sultats de l'initiative, des documents g&#233;n&#233;raux, des donn&#233;es et des renseignements au sujet d'&#233;v&#233;nements pr&#233;vus ou achev&#233;s.",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Destination",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/liens-connexes.html\">Liens connexes</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Une liste de liens menant à du contenu se rapportant à la page sur ",
-      "WHENTOUSE":"Liste de liens menant &#224; du contenu se rapportant &#224; la page sur laquelle elle figure.",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/signaler-probleme.html\">Signaler un problème sur cette page</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Permet aux gens de fournir une rétroaction au moyen d’un formulaire pour tous les problèmes qu’ils ont pu rencontrer ",
-      "WHENTOUSE":"Permet aux gens de fournir une r&#233;troaction au moyen d’un formulaire pour tous les probl&#232;mes qu’ils ont pu rencontrer",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site, Interaction",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-recherche.html\">Page de recherche</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Fournit la mise en page pour le moteur de recherche de Canada.ca ",
-      "WHENTOUSE":"Fournit la mise en page pour le moteur de recherche de Canada.ca",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Mod&#232;le &#224; l'&#233;chelle du gouvernement",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-lancement-service.html\">Pages de lancement d’un service</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Fournit aux personnes les renseignements dont elles ont besoin avant de commencer la tâche, en expliquant les critères d'admissibilité ou les étapes à suivre, par exemple ",
-      "WHENTOUSE":"Fournit aux personnes les renseignements dont elles ont besoin avant de commencer la tâche, en expliquant les crit&#232;res d'admissibilit&#233; ou les &#233;tapes &#224; suivre, par exemple. Fournit un acc&#232;s facile aux normes de service, aux d&#233;lais de traitement, aux services connexes, aux guides et &#224; l'aide.",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Destination, Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/services-renseignements.html\">Services et renseignements</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour présenter des ensembles de liens avec des descriptions connexes.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter des ensembles de liens avec des descriptions connexes",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/partagez-page.html\">Partagez cette page</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Permet aux gens de partager le contenu de la page à d'autres personnes ",
-      "WHENTOUSE":"Permet aux gens de partager le contenu de la page &#224; d'autres personnes",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site, Interaction",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/pages-index.html#court\">Page d’index court</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour présenter une liste de 10 à 50 liens connexes sans description textuelle.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter une liste de 10 &#224; 50 liens connexes sans description",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/pied-page.html\">Pied de page général</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Le pied de page à l'échelle du site qui se trouve au bas de chaque page Web et comprend la bande contextuelle, la bande principale et la bande sous pied de page",
-      "WHENTOUSE":"Le pied de page général à l'échelle du site qui se trouve au bas de chaque page Web et comprend la bande contextuelle, la bande principale et la bande sous pied de page - <strong>Conception obligatoire</strong>",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration à l'échelle du site",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/champ-recherche.html\">Champ de recherche du site</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Permet d’effectuer une recherche dans tout le contenu du gouvernement du Canada",
-      "WHENTOUSE":"Permet d’effectuer une recherche dans tout le contenu du gouvernement du Canada - <strong>Conception obligatoire</strong>",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site, Interaction",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html\">Bloc des réseaux de médias sociaux (fenêtre « Suivez »)</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour permettre aux gens de suivre les comptes officiels de médias sociaux du gouvernement du Canada sur diverses plateformes de médias sociaux.",
-      "WHENTOUSE":"Utilisez pour permettre aux gens de suivre les comptes officiels de m&#233;dias sociaux du gouvernement du Canada sur diverses plateformes de m&#233;dias sociaux",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/widget-medias-sociaux.html\">Widget des réseaux de médias sociaux</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour imbriquer les plus récents messages affichés sur les comptes de medias sociaux du gouvernement du Canada.",
-      "WHENTOUSE":"Utilisez pour imbriquer les plus r&#233;cents messages affich&#233;s sur les comptes de medias sociaux du gouvernement du Canada",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Institutionnel, Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/interface-onglets.html\">Interface à onglets</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Répartit le contenu entre différentes fenêtres que l’on peut consulter une à la fois ",
-      "WHENTOUSE":"R&#233;partit le contenu entre diff&#233;rentes fen&#234;tres que l’on peut consulter une &#224; la fois ",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Navigation",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/menu-site.html\">Menu thématique</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez sur toutes les pages comme navigation principale par thème.",
-      "WHENTOUSE":"Utilisez sur toutes les pages comme navigation principale par th&#232me - <strong>Conception obligatoire</strong>",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site",
-      "MANDATORY":"Obligatoire",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/modeles-recommandes/transparence.html\">Transparence et rapports sur l'organisation</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Une page de rapports sur l'organisation fournit une divulgation proactive des renseignements offerts par cette institutions ",
-      "WHENTOUSE":"Une page de rapports sur l'organisation fournit une divulgation proactive des renseignements offerts par cette institutions",
-      "CATEGORY":"Mod&#232;le de page",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/styles/typographie.html\">Typographie</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"La typographie et les polices de caractères pour Canada.ca ",
-      "WHENTOUSE":"Typographie de Canada.ca - <strong>Style obligatoire</strong>",
-      "CATEGORY":"Style",
-      "TYPE":"Configuration &#224; l'&#233;chelle du site, Visuel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://conception.canada.ca/configurations-conception-communes/ce-que-nous-faisons.html\">Ce que nous faisons</a>",
-      "SOURCE":"Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION":"Utilisez pour présenter des liens vers du contenu qui fournit des renseignements généraux ou des explications des activités du gouvernement du Canada à l’appui de la création ou de l’amélioration des politiques publiques.",
-      "WHENTOUSE":"Utilisez pour pr&#233;senter des liens vers du contenu qui fournit des renseignements g&#233;n&#233;raux ou des explications des activit&#233;s du gouvernement du Canada &#224; l’appui de la cr&#233;ation ou de l’am&#233;lioration des politiques publiques",
-      "CATEGORY":"Configuration de conception",
-      "TYPE":"Institutionnel",
-      "MANDATORY":"Non",
-      "TANDP":"1"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc5\">Principes de rédaction pour le contenu Web</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Principes d'écriture qui reflètent la façon dont les gens lisent et utilisent le contenu du web ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc6\">Langage clair et simple</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Utilisez un langage simple afin de rendre les informations lisibles et compréhensibles pour tous.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc7\">Ton de l'écriture</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Lignes directrices sur le bon ton à utiliser lors de la conception de contenu pour Canada.ca ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc8\">Style de présentation</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Règles détaillées sur le formatage et le style à utiliser sur Canada.ca ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-1\">Majuscules et ponctuation</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Utilisez ces styles pour la capitalisation et la ponctuation du contenu dans les textes, les liens et les applications.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-2\">Soulignement, caractères gras et italique</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Quand utiliser le soulignement, le gras et l'italique sur Canada.ca ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-3\">Symboles</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Quand utiliser des symboles tels que &amp; et % sur Canada.ca ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-4\">Abréviations, acronymes et référence</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"N'utilisez pas d'abréviation ou d'acronyme à moins qu'il ne soit mieux connu du plus grand nombre que son équivalent long format.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-5\">Contractions</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Utilisez les contractions que les gens utilisent lorsqu'ils parlent.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-5\">Nombres</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Comment écrire des chiffres sur Canada.ca ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-6\">Dates</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Comment écrire des dates sur Canada.ca ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-7\">Heures</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Comment écrire l'heure sur Canada.ca ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-8\">Numéros de téléphone</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Comment écrire des numéros de téléphone sur Canada.ca ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-9\">Adresses</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Comment écrire des adresses sur Canada.ca ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc9\">Structure du contenu</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Comment organiser la structure et la présentation des éléments de contenu pour aider les gens à trouver rapidement ce dont ils ont besoin ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-1\">Titres et sous-titres de page descriptifs</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Rédigez des titres et des rubriques qui ont du sens et qui aident les gens à survoler la page.",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-2\">Listes</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Comment rédiger des listes qui aident les gens à survoler le contenu ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-3\">Tableaux</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Comment concevoir des tableaux pour organiser les données ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc10\">Images et vidéos</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Comment utiliser des images et des vidéos dans votre contenu ",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
-    },
-    {
-      "NAME":"<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc11\">Liens</a>",
-      "SOURCE":"Guide de rédaction du contenu",
-      "DESCRIPTION":"Comment utiliser les liens sur Canada.ca",
-      "WHENTOUSE":"",
-      "CATEGORY":"",
-      "TYPE":"",
-      "MANDATORY":"",
-      "TANDP":"0"
+  "data": [{
+      "NAME": "<a href=\"https://blogue.canada.ca/2022/03/23/reussite-des-taches.html\">Utiliser les données sur la réussite des tâches pour améliorer l’expérience des utilisateurs</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Utiliser les données sur la réussite des tâches pour améliorer l’expérience des utilisateurs : Les données tirées du Sondage sur la réussite des tâches du GC peuvent contribuer à favoriser un changement de culture positif au sein de votre organisation.",
+      "WHENTOUSE": "Comment utiliser le sondage sur la réussite des tâches pour améliorer l’efficacité du contenu des tâches principales.",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2022/02/07/agent-conversationnel.html\">Vous songez à ajouter un agent conversationnel?</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Vous songez à ajouter un agent conversationnel? : Avant de décider de créer un agent conversationnel pour améliorer la prestation de vos services, il est important d’évaluer si cette solution est adaptée à votre clientèle ainsi qu’à l’équipe dont vous disposez pour la construire et la soutenir.",
+      "WHENTOUSE": "Que faut-il prendre en compte pour décider si un agent conversationnel est le meilleur moyen d’aider vos utilisateurs à trouver les réponses dont ils ont besoin?",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2021/12/07/concevoir-avec-humilite.html\">Concevoir avec humilité</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Concevoir avec humilité :  Lorsque vous concevez du contenu pour Canada.ca, vous concevez pour les gens. Mettez les gens au cœur de votre travail et prenez le temps de regarder comment ils utilisent votre conception. L’humilité est une force motrice incroyable qui vous aidera à concevoir de meilleurs services.",
+      "WHENTOUSE": "Placez les personnes au centre de votre travail, prenez le temps d’observer comment ils utilisent votre conception, soyez ouvert à de nouvelles idées et élaborez des produits qui répondent aux besoins des personnes.",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"\">Éviter les carrousels promotionnels, améliorer le contenu Web</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Éviter les carrousels promotionnels, améliorer le contenu Web :  Les carrousels utilisés à des fins promotionnelles sur Canada.ca ne sont pas aussi efficaces qu'on pourrait le croire. Examinons pourquoi il en est ainsi et comment vous pouvez concevoir un contenu qui réussit mieux à atteindre votre public.",
+      "WHENTOUSE": "Les pièges de l’utilisation des carrousels (diapositives rotatives qui affichent plusieurs éléments dans le même espace) et comment concevoir des promotions plus efficaces.",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2021/07/20/liens-plus-efficaces.html\">3 étapes pour rendre les liens plus efficaces</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Éliminez les obstacles et faites en sorte qu'il soit plus facile pour les gens de trouver leur chemin grâce à une sélection minutieuse, un placement stratégique et un étiquetage clair de vos liens.",
+      "WHENTOUSE": "Quand ajouter des liens, où les placer et comment rédiger un bon texte de lien?",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2021/05/10/participation-approbateurs-conception.html\">Participation des approbateurs à la conception conjointe</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "L'élaboration d'un contenu digne de confiance et à jour sur Canada.ca, conçu en fonction des utilisateurs, exige collaboration et planification. Apprenez à naviguer parmi les approbations et à mettre le contenu en ligne sur Canada.ca rapidement, au moment où les gens en ont le plus besoin.",
+      "WHENTOUSE": "Comment la mise en place d’une culture de conception conjointe et le travail direct avec les approbateurs peuvent vous aider à mettre du contenu en ligne plus rapidement.",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/09/24/taches-principales-a-la-covid-19\">Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Il est essentiel d'utiliser les données pour comprendre l'évolution des besoins de navigation afin de s'assurer que le bon contenu est toujours au premier plan.",
+      "WHENTOUSE": "Utiliser les données pour comprendre l'évolution des besoins de navigation afin de s'assurer que le bon contenu est toujours au premier plan",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/08/10/canadapointca-source-fiable\">Canada.ca est une source fiable</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Remplacer &laquo;&nbsp;Accueil&nbsp;&raquo; par &laquo;&nbsp;Canada.ca&nbsp;&raquo; dans le fil d’Ariane de Canada.ca pour améliorer la confiance et la sensibilisation",
+      "WHENTOUSE": "Remplacer &laquo;&nbsp;Accueil&nbsp;&raquo; par &laquo;&nbsp;Canada.ca&nbsp;&raquo; dans le fil d’Ariane de Canada.ca pour améliorer la confiance et la sensibilisation",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/07/15/fatigue-dalerte.html\">La &laquo;&nbsp;fatigue d’alerte&nbsp;&raquo; pendant la COVID-19</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Les alertes attirent l’attention sur une situation qui sort de l’ordinaire, mais nous devons gérer soigneusement leur cycle de vie pour nous assurer de leur efficacité.",
+      "WHENTOUSE": "Les alertes attirent l’attention sur les changements dans le contenu régulier. Apprendre comment faire en sorte qu’elles aient la plus grande incidence possible.",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2019/12/20/les-dix-lecons.html\">Les 10 leçons tirées en 2019 par l’équipe de conception du contenu de Canada.ca</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site Canada.ca.",
+      "WHENTOUSE": "Observer les gens, collaborer avec les autres, être ouvert au changement, guider les gens, utiliser les bons mots, tester le contenu, se concentrer sur les tâches principales, etc.",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2019/11/01/conseils-voyageurs-contact.html\">Conseils de conception de contenu tirés de nos projets d’optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l’ARC&nbsp;&raquo;</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Fournir des réponses dans le contenu Web, aiguiller les utilisateurs vers l’information, aider les personnes à faire des choix, mettre à profit les expériences acquises par le passé, etc.",
+      "WHENTOUSE": "Conseils de conception de contenu tirés de nos projets d’optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l’ARC&nbsp;&raquo;",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2019/08/26/conseils-conception-contentu.html\">Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Retirer des couches, regrouper le contenu en fonction des tâches, utiliser les données pour concevoir le vocabulaire, ne demandez pas aux gens de faire les calculs, utiliser les chiffres avec modération, mettre des réponses là où les gens les cherchent",
+      "WHENTOUSE": "Retirer des couches, regrouper le contenu en fonction des tâches, utiliser les données pour concevoir le vocabulaire, ne demandez pas aux gens de faire les calculs, utiliser les chiffres avec modération, mettre des réponses là où les gens les cherchent",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca\">Orientation dans Canada.ca</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "explique le contexte de la recherche et les constatations qui ont mené aux mises à jour de la conception",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2022/12/21/le-projet-orientation.html\">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "explique les changements proposés à la conception de Canada.ca et comment ils seront mis en œuvre",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2022/09/23/presentation-bouton-contextuel-se-connecter.html\">Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Ajouter un bouton contextuel «&nbsp;Se connecter&nbsp;» à l’en-tête générale Canada.ca sur les pages où les gens doivent se connecter à un compte",
+      "WHENTOUSE": "Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un &eacute;l&eacute;ment facultatif de l'en-t&ecirc;te qui dirige les utilisateurs vers des comptes gouvernementaux n&eacute;cessitant une authentification.",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Interaction, Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/amelioration-continue/mesure/retroaction.html\">Outil de rétroaction sur la page</a>",
+      "SOURCE": "Amélioration continue",
+      "DESCRIPTION": "L'outil de rétroaction est un modèle facultatif pour découvrir les problèmes spécifiques au niveau de la page qui affectent la performance de la tâche.",
+      "WHENTOUSE": "L'outil de r&eacute;troaction est un mod&egrave;le facultatif pour d&eacute;couvrir les probl&egrave;mes sp&eacute;cifiques au niveau de la page qui affectent la performance de la t&acirc;che.",
+      "CATEGORY": " Configuration de conception",
+      "TYPE": "Interaction",
+      "MANDATORY": "No",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2021/04/08/utilisation-de-questions-interactives.html\">Les questions interactives pour aider les gens</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "La configuration est utilisée pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2021/03/25/maintenir-le-contenu-web.html\">Maintenir et améliorer le contenu web tout au long de son cycle de vie</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "De petits changements font une grande différence pour améliorer Canada.ca. Poursuivons la discussion sur le passage des données à l'action. Voici 4 problèmes courants et les mesures que vous pouvez prendre.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html\">L’importance de collaborer avec les centres d’appels</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "L’utilisation des données des centres d'appel peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2021/02/04/les-donnees-a-laction.html\">Exploiter les données pour améliorer le contenu</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2022/07/28/communiques\">Utilisation d’alertes pour maintenir la synchronisation des communiqués de presse et du contenu Web</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Utilisez une alerte temporaire pour synchroniser les communications lorsque vous ne pouvez pas mettre à jour le contenu Web dans les mêmes délais que ceux prévus pour la publication d'un communiqué de presse.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/12/18/lueurs-despoir-2020.html\">2020 : lueurs d’espoir</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Dire que 2020 a été parsemée de défis et d’un grand nombre de changements relève presque de l’euphémisme.  Malgré les défis, de nombreux points positifs sont à noter cette année.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html\">Utilisation de listes de vérification interactives pour simplifier les critères d’admissibilité</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Utiliser des listes interactives peut aider les gens à ralentir et bien comprendre les critères d'admissibilité.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/12/17/choisir-des-boutons.html\">Choisir le bon bouton pour la réussite des tâches</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "La façon d’utiliser le bon style de bouton dans la bonne situation peut aider les gens à mieux réussir sur votre page Web.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"http://blogue.canada.ca/2020/10/28/modele-de-transparence.html\">Accroître la transparence sur Canada.ca</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Nous avons lancé un nouveau modèle de transparence dans le système de conception de GC.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"http://blogue.canada.ca/2020/10/21/utiliser-des-graphiques.html\">Utiliser des graphiques pour combler les lacunes linguistiques</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Les Territoires du Nord-Ouest (T.N.-O.) ont expliqué la façon dont ils utilisent des illustrations pour rendre le contenu Web et les produits de communication sur la COVID-19 plus accessibles à toutes leurs collectivités.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html\">Recueillir la rétroaction, trouver les problèmes</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "En mai 2020, quelques équipes ont collaboré au lancement de l’étude pilote d’un widget pour obtenir la rétroaction des gens sur les pages Canada.ca.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"http://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html\">Étude sur les étiquettes : quels mots fonctionnent le mieux</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Le public compte sur nous pour choisir les bons mots pour la catégorie et les étiquettes de liens afin de s'assurer qu'il puisse trouver des réponses rapidement et facilement sur Canada.ca.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/09/18/afficher-masquer.html\">Utiliser le modèle afficher/masquer pour faire des choix</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Utilisation du modèle afficher/masquer pour présenter un choix entre des réponses mutuellement exclusives.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html\">De quelle façon déterminons-nous les principales tâches pour Canada.ca</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Comment nous identifions les principales tâches pour aider à établir les priorités du travail.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html\">Comment nous optimisons les principales tâches sur le site Canada.ca</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Les projets d'optimisation sont un moyen d'apporter des améliorations significatives pour les Canadiens.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2018/05/30/tout-est-question-de-dates.html\">Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Dans une étude de convivialité récente, nous avons vu des gens qui n’ont pas tenu compte des résultats de recherche de Canada.ca qui semblaient trop vieux.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/01/28/optimisation-recherche-vocale.html\">Optimiser votre contenu pour la recherche vocale</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Nos apprentissages sur l’amélioration des services vocaux pour les Canadiens",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/02/05/methode-pour-mesurer.html\">Trouver la bonne méthode pour mesurer la réussite des tâches en ligne</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/05/25/eviter-les-faq.html\">Éviter les FAQ, à une exception près</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Pourquoi les FAQ sont un choix de conception de contenu inefficace la plupart du temps, et quand elles peuvent réellement fonctionner.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html\">Un exemple en faveur du texte de lien descriptif</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Un texte de lien clair peut aider des milliers de personnes supplémentaires à accéder rapidement et facilement au contenu de Canada.ca dont elles ont besoin.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html\">Conception axée sur l’accessibilité pendant la pandémie de la COVID-19</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/liste-institutions.html\">Institutions soumises au système de conception de Canada.ca</a>",
+      "SOURCE": "Concevoir le contenu",
+      "DESCRIPTION": "Liste des institutions du gouvernement du Canada assujetties au système de conception de Canada.ca",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/ministeres-responsables-themes.html\">Ministères responsables des thèmes et des publics cibles de Canada.ca</a>",
+      "SOURCE": "Concevoir le contenu",
+      "DESCRIPTION": "Ministères responsables des 15 thèmes et des 3 publics cibles de Canada.ca",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html\">Arborescence thématique et types de contenu</a>",
+      "SOURCE": "Concevoir le contenu",
+      "DESCRIPTION": "Taxonomies de Canada.ca : structure des thèmes et des sujets, types de contenu",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html\">Alertes et perturbations de service sur Canada.ca</a>",
+      "SOURCE": "Concevoir le contenu",
+      "DESCRIPTION": "Ces recommandations contribueront à uniformiser les communications de chaque ministère sur les interruptions de service en cas de crise.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/directives/donnees-structurees.html\">Ajout de données structurées sur les pages de Canada.ca</a>",
+      "SOURCE": "Concevoir le contenu",
+      "DESCRIPTION": "Comment ajouter des données structurées pour améliorer les résultats de recherche ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/utilisation-concept-canadaca.html\">Qui doit utiliser ce système de conception</a>",
+      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "DESCRIPTION": "Quelles institutions doivent utiliser le système de conception de Canada.ca pour leur présence sur le Web",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html\">Éléments obligatoires</a>",
+      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "DESCRIPTION": "Ce que chaque institution doit suivre : Couleurs, typographie, en-tête et pied de page, modèles obligatoires",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
+      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
+      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html#toc3\">Modèle d'URL</a>",
+      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "DESCRIPTION": "Modèle d'URL Canada.ca",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/modeles.html#principes\">Principes de conception de Canada.ca</a>",
+      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "DESCRIPTION": "Principes de conception de Canada.ca",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/crise/contenu.html\">Aide-mémoire pour la conception du contenu des communications de crise</a>",
+      "SOURCE": "Concevoir le contenu",
+      "DESCRIPTION": "Conseils sur la façon de concevoir du contenu en temps de crise",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/crise/contenu.html\">Alertes contextuelles</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Les alertes sont des avis présentant de nouveaux renseignements importants qui doivent apparaître dans la page.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter de nouveaux renseignements importants devant &#234;tre affich&#233;s dans un contexte pr&#233;existant",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html\">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Le bouton «&nbsp;Se connecter&nbsp;» est un élément facultatif de l'en-tête qui dirige les utilisateurs vers des comptes gouvernementaux nécessitant une authentification.",
+      "WHENTOUSE": "Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un &eacute;l&eacute;ment facultatif de l'en-t&ecirc;te qui dirige les utilisateurs vers des comptes gouvernementaux n&eacute;cessitant une authentification.",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Interaction, Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/boutons.html\">Boutons</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Les boutons sont des objets cliquables incitant une personne à exécuter une action.",
+      "WHENTOUSE": "Les boutons sont des objets cliquables incitant une personne &#224; ex&#233;cuter une action",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Interaction, Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/cases-cocher-boutons-radio.html\">Cases à cocher et boutons radio</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Les cases à cocher et les boutons radio servent de contrôle de formulaire - ils permettent aux gens de sélectionner une réponse à une question ou de confirmer des réponses.",
+      "WHENTOUSE": "Permettent aux gens de s&#233;lectionner une r&#233;ponse &#224; une question ou de confirmer des r&#233;ponses.",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Interaction",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/theme-sujet.html\">Page de thème et de sujet</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Les pages de thème et les pages de sujet fournissent un accès aux sujets et aux pages de destination qui appuient l’achèvement des tâches.",
+      "WHENTOUSE": "Permet aux personnes de d&#233;couvrir des services et des renseignements li&#233;s &#224; un th&#232;me ou un sujet pr&#233;cis dans l’ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Mod&#232;le de th&#232;me, Navigation",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html\">Pages d'accueil institutionnelle</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez ce modèle comme page d'accueil pour les nstitutions et organismes du gouvernement du Canada.",
+      "WHENTOUSE": "Page d'accueil pour les institutions et organismes du gouvernement du Canada. - <strong>Mod&#232;le obligatoire</strong>",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Institutionnel, Navigation",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-lois-reglements.html#profil-loi\">Page de profil d’une loi</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Donne une description de 1 ou 2 phrases pour décrire la loi, permet aux personnes de lire la loi, and relie la loi aux sujets, aux institutions, aux ministres et aux autres lois ",
+      "WHENTOUSE": "Donne une description de 1 ou 2 phrases pour d&#233;crire la loi, permet aux personnes de lire la loi, and relie la loi aux sujets, aux institutions, aux ministres et aux autres lois",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Destination",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/generique.html\">Page de contenu de base</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "La mise en page de base des pages de Canada.ca ",
+      "WHENTOUSE": "Mise en page de base des pages de Canada.ca.",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Destination",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/fil-ariane.html\">Fil d'Ariane</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Représente l’emplacement de la page actuelle dans le modèle de navigation de l’utilisateur du site ",
+      "WHENTOUSE": "Repr&#233;sente l’emplacement de la page actuelle dans le mod&#232le de navigation de l’utilisateur du site - <strong>Conception obligatoire</strong>",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction, Navigation",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-campagnes.html\">Pages de campagne</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, thématiques ou à l’échelle du gouvernement du Canada qui durent pendant une période donnée ",
+      "WHENTOUSE": "Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, th&#233;matiques ou &#224; l’&#233;chelle du gouvernement du Canada qui durent pendant une p&#233;riode donn&#233;e. Ne l'utilisez pas pour le contenu essentiel &#224; une t&#226;che.",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Promotion",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/canada-point-ca.html\">Domaine Canada.ca</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Le principal domaine pour la présence du gouvernement du Canada sur le Web",
+      "WHENTOUSE": "Le principal domaine pour la pr&#233;sence du gouvernement du Canada sur le Web",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/carrousels.html\">Carrousels</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez cette composante pour des situations telles que des galeries d'images ou de vidéos.",
+      "WHENTOUSE": "Utilisez cette composante pour des situations telles que des galeries d'images ou de vid&#233;os",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Promotion, Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/diagrammes-graphiques.html\">Diagrammes et graphiques</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez comme technique de visualisation permettant de communiquer des données ou des statistiques.",
+      "WHENTOUSE": "Utilisez comme technique de visualisation permettant de communiquer des donn&#233;es ou des statistiques",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/styles/couleurs.html\">Couleurs</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Couleurs de Canada.ca ",
+      "WHENTOUSE": "Couleurs de Canada.ca - <strong>Style obligatoire</strong>",
+      "CATEGORY": "Style",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/etiquettes.html\">Étiquettes</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Les étiquettes sont des indicateurs visuels qui attribuent une étiquette à des items comme des événements, des produits, des programmes ou des services",
+      "WHENTOUSE": "Les &#233tiquettes sont des indicateurs visuels qui attribuent une &#233tiquette &#224; des items comme des &#233v&#233nements, des produits, des programmes ou des services.",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-consultations.html\">Pages de profil d'une consultation</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Décrit une activité de consultation ou de mobilisation",
+      "WHENTOUSE": "Décrit une activité de consultation ou de mobilisation. Fournit l'état et les résultats de l'initiative, des documents généraux, des données et des renseignements au sujet d'événements prévus ou achevés.",
+      "CATEGORY": "Modèle de page",
+      "TYPE": "Destination",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/coordonnees.html\">Coordonnées</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour présenter des coordonnées sur une page de Canada.ca.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter des coordonn&#233;es sur une page de Canada.ca",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-contactez-nous.html\">Pages de coordonnées</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Fournit un modèle d'option de communication dans Canada.ca - utilisez pour présenter les coordonnées d'une personne, d'un bureau, d'une organisation ou pour des urgences ",
+      "WHENTOUSE": "Fournit un mod&#232;le d'option de communication dans Canada.ca. Utilisez pour pr&#233;senter les coordonn&#233;es d'une personne, d'un bureau, d'une organisation ou pour des urgences.",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html\">Promotions contextuelles</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour promouvoir des activités, des initiatives, des programmes et des services.",
+      "WHENTOUSE": "Utilisez pour promouvoir des activit&#233;s, des initiatives, des programmes et des services ",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Promotion, Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/collaborateurs.html\">Collaborateurs</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour lier aux institutions ou aux organisations qui soutiennent le contenu sur la page.",
+      "WHENTOUSE": "Utilisez pour lier aux institutions ou aux organisations qui soutiennent le contenu sur la page",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/tableaux.html\">Tableaux de données</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour communiquer des données.",
+      "WHENTOUSE": "Utilisez pour communiquer des donn&#233;es",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/date-modification.html\">Date de modification</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Indique la date de la dernière mise à jour récente du contenu de la page Web",
+      "WHENTOUSE": "Indique la date de la derni&#232;re mise à jour r&#233;cente du contenu de la page Web - <strong>Conception obligatoire</strong>",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/page-ministeres-organismes.html\">Page des ministères et organismes</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Fournit des liens vers toutes les institutions fédérales",
+      "WHENTOUSE": "Fournit des liens vers toutes les institutions f&#233;d&#233;rales",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/avis-confidentialite.html\">Avis de confidentialité</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour afficher des avis de confidentialité",
+      "WHENTOUSE": "Utilisez pour afficher des avis de confidentialit&#233;",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Interaction",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/liens-telechargement.html\">Liens de téléchargement</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour renvoyer à des fichers de format autre que HTML.",
+      "WHENTOUSE": "Utilisez pour renvoyer à des fichers de format autre que HTML",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html\">Afficher/masquer</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Le modèle afficher/masquer (aussi appelé accordéon) permet de masquer le contenu jusqu'à ce qu'il soit demandé.",
+      "WHENTOUSE": "Utilisez pour cacher le contenu secondaire jusqu'&#224; ce que l'utilisateur le demande",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Interaction",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-index.html#facettes\">Page d’index à facettes</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez-le pour présenter une liste de plus de 100 liens connexes qui peuvent être filtrés - indique le nombre de résultats utilisant des facettes.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter une liste de plus de 100 liens connexes pouvant &#234;tre filtr&#233;s &#224; l’aide de m&#233;tadonn&#233;es. Affiche les r&#233;sultats &#224; l'aide de facettes.",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-index.html#filtre\">Page avec filtres</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez-le pour présenter une liste de plus de 100 liens connexes qui peuvent être filtrés.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter une liste de plus de 100 liens connexes pouvant &#234;tre filtr&#233;s &#224; l’aide de m&#233;tadonn&#233;es. Utilisez lorsqu’il faut permettre aux personnes de cr&#233;er des requ&#234;tes simples par rapport &#224; une grande quantit&#233; de r&#233;sultats.",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/en-tete-general.html\">En-tête global</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "L'en-tête global (à l'échelle du site) qui se trouve au haut de chaque page Web ",
+      "WHENTOUSE": "L'en-t&#234;te global (à l'&#233;chelle du site) qui se trouve au haut de chaque page Web - <strong>Conception obligatoire</strong>",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/signature.html\">Signature du gouvernement du Canada</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "La signature du gouvernement du Canada définie dans les instruments stratégiques du Programme de coordination de l’image de marque (PCIM) ",
+      "WHENTOUSE": "La signature du gouvernement du Canada d&#233;finie dans les instruments strat&#233;giques du Programme de coordination de l’image de marque (PCIM) est mise en &#233;vidence dans l’en-t&#234;te g&#233;n&#233;ral du site Web Canada.ca. - <strong>Conception obligatoire</strong>",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-publics-cibles.html\">Page de public cible à l'échelle du gouvernement</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Donne accès aux renseignements et aux services pertinents pour le public cible de l’ensemble du gouvernement ",
+      "WHENTOUSE": "Donne acc&#232;s aux renseignements et aux services pertinents pour le public cible de l’ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Mod&#232;le de th&#232;me",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-directives-lois.html\">Pages de directives sur les lois</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Donne accès aux directives sur les lois, aux détails et aux documents connexes ",
+      "WHENTOUSE": "Donne acc&#232;s aux directives sur les lois. Donne acc&#232;s aux d&#233;tails et aux documents connexes.",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Destination",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/page-accueil.html\">Page d’accueil de Canada.ca</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Affiche les produits et services du gouvernement du Canada les plus vus et les plus importants ",
+      "WHENTOUSE": "Affiche les produits et services du gouvernement du Canada les plus vus et les plus importants",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement, Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/icones.html\">Icônes</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Les icônes représentent des symboles servant à indiquer des actions à prendre ou des états.",
+      "WHENTOUSE": "Les icônes repr&#233;sentent des symboles servant &#224; indiquer des actions &#224; prendre ou des &#233;tats",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/images.html\">Images</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour embellir ou rehausser un texte.",
+      "WHENTOUSE": "Utilisez pour embellir ou rehausser un texte",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/table-matiere-interieur.html\">Table des matières à l’intérieur de la page</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Liste de liens dirigeant vers des sous-sections de la même page ",
+      "WHENTOUSE": "Liste de liens dirigeant vers des sous-sections de la m&#234;me page",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/institution-responsable.html\">Institution responsable</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Lien vers l’institution responsable du contenu ",
+      "WHENTOUSE": "Lien vers l’institution responsable du contenu",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html\">Page de compte rendu du rendement des services institutionnels</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour présenter toutes les normes de service, conformément aux exigences de la Politique sur les services.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter toutes les normes de service, conform&#233;ment aux exigences de la Politique sur les services",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/questions-interactives.html\">Questions interactives</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter une s&#233;quence de questions simples qui m&#232;nent &#224; la r&#233;ponse dont les personnes ont besoin pour poursuivre leur t&#226;che ou l’achever",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Destination, Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/changer-langue.html\">Lien pour changer de langue</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Donne à la personne accès au contenu soit en français soit en anglais ",
+      "WHENTOUSE": "Donne à la personne acc&#232s au contenu soit en français soit en anglais - <strong>Conception obligatoire</strong>",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/nouveautes.html\">Nouveautés</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour afficher les nouvelles les plus récentes.",
+      "WHENTOUSE": "Utilisez pour afficher les nouvelles les plus r&#233;centes",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/styles/mises-en-page.html\">Mises en page</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Mises en page de Canada.ca ",
+      "WHENTOUSE": "Mises en page de Canada.ca - <strong>Style obligatoire</strong>",
+      "CATEGORY": "Style",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-index.html#long\">Page d’index long</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utiliser pour présenter une liste de plus de 50 liens connexes sans description.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter une liste de plus de 50 liens connexes sans description",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html\">Pages de profil des ministres</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Donne un aperçu de la biographie et des liens les activités et les annonces récentes du ministre, et les réseaux de médias sociaux ",
+      "WHENTOUSE": "Donne un aper&#231;u de la biographie et des liens les activit&#233;s et les annonces r&#233;centes du ministre, et les r&#233;seaux de m&#233;dias sociaux - <strong>Mod&#232;le obligatoire</strong>",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/autres-renseignements.html\">Autres renseignements pour les</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour lier à une page connexe d’un public cible à l’échelle du gouvernement.",
+      "WHENTOUSE": "Utilisez pour lier &#224; une page connexe d’un public cible &#224; l’&#233;chelle du gouvernement",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/en-demande.html\">En demande</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour présenter les tâches principales liées à la page.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter les t&#226;ches principales li&#233;es &#224; la page",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/multimedia.html\">Multimédia (vidéo et audio)</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour compléter ou rehausser le texte.",
+      "WHENTOUSE": "Utilisez pour compl&#233;ter ou rehausser le texte",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#accueil\">Page d’accueil des nouvelles</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Donne accès aux produits de nouvelles du gouvernement du Canada ",
+      "WHENTOUSE": "Donne acc&#232;s aux produits de nouvelles du gouvernement du Canada",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#produit\">Page de nouvelles</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Permet aux personnes de lire un produit de nouvelle ",
+      "WHENTOUSE": "Permet aux personnes de lire un produit de nouvelle - <strong>Mod&#232;le obligatoire</strong>",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#resultats\">Page de résultats des nouvelles</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Permet aux personnes de trouver un produit de nouvelle en filtrant rapidement les résultats en fonction de mots-clés et de métadonnées ",
+      "WHENTOUSE": "Permet aux personnes de trouver un produit de nouvelle en filtrant rapidement les r&#233;sultats en fonction de mots-cl&#233;s et de m&#233;tadonn&#233;es",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/navigation-plusieurs-pages.html\">Navigation dans plusieurs pages ordonnées</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Ensemble de liens dirigeant vers un groupe formé de plusieurs pages qui devraient être lues dans un ordre de préférence ",
+      "WHENTOUSE": "Ensemble de liens dirigeant vers un groupe form&#233; de plusieurs pages qui devraient &#234;tre lues dans un ordre de pr&#233;f&#233;rence",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/navigation-metro.html\">Navigation de style métro</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Diviser du contenu long et complexe en sections qui se concentrent chacune sur une étape ou une réponse spécifique dont les gens ont besoin avant de passer à l'étape ou à la section suivante.",
+      "WHENTOUSE": "Diviser du contenu long et complexe en sections qui se concentrent chacune sur une &#233;tape ou une réponse sp&#233;cifique dont les gens ont besoin avant de passer &#224; l'&#233;tape ou &#224; la section suivante.",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html\">Profil de partenariat ou d’entente de collaboration</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Donne un aperçu du mandat, des renseignements et des services du partenariat ou de l'entente de collaboration ",
+      "WHENTOUSE": " Donne un aper&#231;u du mandat, des renseignements et des services du partenariat ou de l'entente de collaboration",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-description-programme.html\">Page de description de programme</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Fournit des détails sur un programme et donne accès aux services liés à un programme - utilisez pour donner des renseignements généraux sur un programme.",
+      "WHENTOUSE": "Fournit des d&#233;tails sur un programme. Donne acc&#232;s aux services li&#233;s &#224; un programme. Utilisez pour donner des renseignements g&#233;n&#233;raux sur un programme. Ne pas utiliser pour d&#233;buter une tâche.",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-evenements-promotionnels.html\">Page d'événements promotionnels</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Décrit et explique un événement officiel organisé par le gouvernement et qui se déroule dans un contexte promotionnel, et fournit des renseignements tels que la date, l'heure, l'endroit et le public cible de l'événement ",
+      "WHENTOUSE": "D&#233;crit et explique un &#233;v&#233;nement officiel organis&#233; par le gouvernement et qui se d&#233;roule dans un contexte promotionnel. Fournit des renseignements tels que la date, l'heure, l'endroit et le public cible de l'&#233;v&#233;nement.",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Promotion",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-lois-reglements.html#profil-reglement\">Page de profil d’un règlement</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Donne une description de 1 ou 2 phrases pour décrire le règlement, permet aux personnes de lire le règlement, et relie le règlement aux sujets, aux institutions, aux ministres et aux autres lois.",
+      "WHENTOUSE": "D&#233;crit une activit&#233; de consultation ou de mobilisation. Fournit l'&#233;tat et les r&#233;sultats de l'initiative, des documents g&#233;n&#233;raux, des donn&#233;es et des renseignements au sujet d'&#233;v&#233;nements pr&#233;vus ou achev&#233;s.",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Destination",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/liens-connexes.html\">Liens connexes</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Une liste de liens menant à du contenu se rapportant à la page sur ",
+      "WHENTOUSE": "Liste de liens menant &#224; du contenu se rapportant &#224; la page sur laquelle elle figure.",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/signaler-probleme.html\">Signaler un problème sur cette page</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Permet aux gens de fournir une rétroaction au moyen d’un formulaire pour tous les problèmes qu’ils ont pu rencontrer ",
+      "WHENTOUSE": "Permet aux gens de fournir une r&#233;troaction au moyen d’un formulaire pour tous les probl&#232;mes qu’ils ont pu rencontrer",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-obligatoire/pages-recherche.html\">Page de recherche</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Fournit la mise en page pour le moteur de recherche de Canada.ca ",
+      "WHENTOUSE": "Fournit la mise en page pour le moteur de recherche de Canada.ca",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-lancement-service.html\">Pages de lancement d’un service</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Fournit aux personnes les renseignements dont elles ont besoin avant de commencer la tâche, en expliquant les critères d'admissibilité ou les étapes à suivre, par exemple ",
+      "WHENTOUSE": "Fournit aux personnes les renseignements dont elles ont besoin avant de commencer la tâche, en expliquant les crit&#232;res d'admissibilit&#233; ou les &#233;tapes &#224; suivre, par exemple. Fournit un acc&#232;s facile aux normes de service, aux d&#233;lais de traitement, aux services connexes, aux guides et &#224; l'aide.",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Destination, Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/services-renseignements.html\">Services et renseignements</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour présenter des ensembles de liens avec des descriptions connexes.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter des ensembles de liens avec des descriptions connexes",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/partagez-page.html\">Partagez cette page</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Permet aux gens de partager le contenu de la page à d'autres personnes ",
+      "WHENTOUSE": "Permet aux gens de partager le contenu de la page &#224; d'autres personnes",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/pages-index.html#court\">Page d’index court</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour présenter une liste de 10 à 50 liens connexes sans description textuelle.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter une liste de 10 &#224; 50 liens connexes sans description",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/pied-page.html\">Pied de page général</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Le pied de page à l'échelle du site qui se trouve au bas de chaque page Web et comprend la bande contextuelle, la bande principale et la bande sous pied de page",
+      "WHENTOUSE": "Le pied de page général à l'échelle du site qui se trouve au bas de chaque page Web et comprend la bande contextuelle, la bande principale et la bande sous pied de page - <strong>Conception obligatoire</strong>",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration à l'échelle du site",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/champ-recherche.html\">Champ de recherche du site</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Permet d’effectuer une recherche dans tout le contenu du gouvernement du Canada",
+      "WHENTOUSE": "Permet d’effectuer une recherche dans tout le contenu du gouvernement du Canada - <strong>Conception obligatoire</strong>",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html\">Bloc des réseaux de médias sociaux (fenêtre « Suivez »)</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour permettre aux gens de suivre les comptes officiels de médias sociaux du gouvernement du Canada sur diverses plateformes de médias sociaux.",
+      "WHENTOUSE": "Utilisez pour permettre aux gens de suivre les comptes officiels de m&#233;dias sociaux du gouvernement du Canada sur diverses plateformes de m&#233;dias sociaux",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/widget-medias-sociaux.html\">Widget des réseaux de médias sociaux</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour imbriquer les plus récents messages affichés sur les comptes de medias sociaux du gouvernement du Canada.",
+      "WHENTOUSE": "Utilisez pour imbriquer les plus r&#233;cents messages affich&#233;s sur les comptes de medias sociaux du gouvernement du Canada",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Institutionnel, Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/interface-onglets.html\">Interface à onglets</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Répartit le contenu entre différentes fenêtres que l’on peut consulter une à la fois ",
+      "WHENTOUSE": "R&#233;partit le contenu entre diff&#233;rentes fen&#234;tres que l’on peut consulter une &#224; la fois ",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Navigation",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/menu-site.html\">Menu thématique</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez sur toutes les pages comme navigation principale par thème.",
+      "WHENTOUSE": "Utilisez sur toutes les pages comme navigation principale par th&#232me - <strong>Conception obligatoire</strong>",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/transparence.html\">Transparence et rapports sur l'organisation</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Une page de rapports sur l'organisation fournit une divulgation proactive des renseignements offerts par cette institutions ",
+      "WHENTOUSE": "Une page de rapports sur l'organisation fournit une divulgation proactive des renseignements offerts par cette institutions",
+      "CATEGORY": "Mod&#232;le de page",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/styles/typographie.html\">Typographie</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "La typographie et les polices de caractères pour Canada.ca ",
+      "WHENTOUSE": "Typographie de Canada.ca - <strong>Style obligatoire</strong>",
+      "CATEGORY": "Style",
+      "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/ce-que-nous-faisons.html\">Ce que nous faisons</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Utilisez pour présenter des liens vers du contenu qui fournit des renseignements généraux ou des explications des activités du gouvernement du Canada à l’appui de la création ou de l’amélioration des politiques publiques.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter des liens vers du contenu qui fournit des renseignements g&#233;n&#233;raux ou des explications des activit&#233;s du gouvernement du Canada &#224; l’appui de la cr&#233;ation ou de l’am&#233;lioration des politiques publiques",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc5\">Principes de rédaction pour le contenu Web</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Principes d'écriture qui reflètent la façon dont les gens lisent et utilisent le contenu du web ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc6\">Langage clair et simple</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Utilisez un langage simple afin de rendre les informations lisibles et compréhensibles pour tous.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc7\">Ton de l'écriture</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Lignes directrices sur le bon ton à utiliser lors de la conception de contenu pour Canada.ca ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc8\">Style de présentation</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Règles détaillées sur le formatage et le style à utiliser sur Canada.ca ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-1\">Majuscules et ponctuation</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Utilisez ces styles pour la capitalisation et la ponctuation du contenu dans les textes, les liens et les applications.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-2\">Soulignement, caractères gras et italique</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Quand utiliser le soulignement, le gras et l'italique sur Canada.ca ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-3\">Symboles</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Quand utiliser des symboles tels que &amp; et % sur Canada.ca ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-4\">Abréviations, acronymes et référence</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "N'utilisez pas d'abréviation ou d'acronyme à moins qu'il ne soit mieux connu du plus grand nombre que son équivalent long format.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-5\">Contractions</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Utilisez les contractions que les gens utilisent lorsqu'ils parlent.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-5\">Nombres</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Comment écrire des chiffres sur Canada.ca ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-6\">Dates</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Comment écrire des dates sur Canada.ca ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-7\">Heures</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Comment écrire l'heure sur Canada.ca ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-8\">Numéros de téléphone</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Comment écrire des numéros de téléphone sur Canada.ca ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-9\">Adresses</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Comment écrire des adresses sur Canada.ca ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc9\">Structure du contenu</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Comment organiser la structure et la présentation des éléments de contenu pour aider les gens à trouver rapidement ce dont ils ont besoin ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-1\">Titres et sous-titres de page descriptifs</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Rédigez des titres et des rubriques qui ont du sens et qui aident les gens à survoler la page.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-2\">Listes</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Comment rédiger des listes qui aident les gens à survoler le contenu ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-3\">Tableaux</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Comment concevoir des tableaux pour organiser les données ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc10\">Images et vidéos</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Comment utiliser des images et des vidéos dans votre contenu ",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc11\">Liens</a>",
+      "SOURCE": "Guide de rédaction du contenu",
+      "DESCRIPTION": "Comment utiliser les liens sur Canada.ca",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
     }
   ]
 }
