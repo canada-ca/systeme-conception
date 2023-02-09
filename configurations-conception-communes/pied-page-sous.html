@@ -15,7 +15,7 @@
 <meta name="dcterms.language" content="fra" />
 <meta name="dcterms.subject" content="Système de conception" />
 <meta name="dcterms.issued" content="2022-11-30" />
-<meta name="dcterms.modified" content="2022-12-23" />
+<meta name="dcterms.modified" content="2023-02-08" />
 
 <!--[if gte IE 9 | !IE ]><!-->
 <link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
@@ -155,12 +155,12 @@
 
 <main role="main" property="mainContentOfPage" class="container">
   <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Pied de page général : Bande sous pied de page </span>: <span>Système de conception de Canada.ca</span></span></h1>
-  <p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-01-18</p>
+  <p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-02-08</p>
   <section>
     <p><span class="label label-danger">Obligatoire </span></p>
-	     <p>La bande sous pied de page est un élément secondaire du pied de page général. Il contient une série de liens et le
+    <p>La bande sous pied de page est un élément secondaire du pied de page général. Il contient une série de liens et le
       mot-symbole Canada.</p>
-<p><strong>Mise à jour de conception en 2022</strong>&nbsp;: Nous avons récemment mis à jour ce modèle dans le cadre d’une nouvelle stratégie de navigation issue du projet de recherche Orientation dans Canada.ca. Pour en savoir plus, consultez la section <a href="#recherches">Recherches et justification</a> de cette page.</p>
+    <p><strong>Mise à jour de conception en 2022</strong>&nbsp;: Nous avons récemment mis à jour ce modèle dans le cadre d’une nouvelle stratégie de navigation issue du projet de recherche Orientation dans Canada.ca. Pour en savoir plus, consultez la section <a href="#recherches">Recherches et justification</a> de cette page.</p>
     <div class="pattern-demo mrgn-tp-lg"> <img src="../images/footer-sub-crop-fr.jpg" class="img-responsive" alt=""> </div>
     <section>
       <h2>Sur cette page</h2>
@@ -189,7 +189,7 @@
         <li>Confidentialité – lient peut être contextualisé pour renvoyer aux renseignements de confidentialité du ministère ou du programme responsable du contenu de la page</li>
       </ul>
       <p>Sur les pages <strong>transactionnelles</strong> et de <strong>campagne</strong>, vous pouvez omettre les liens Médias sociaux, Applications mobiles et À propos de Canada.ca sur.</p>
-		<p>Sur les pages <strong>transactionnelles</strong>, veillez à ce que les liens Avis et Confidentialité permettent aux utilisateurs de rester dans leur session actuelle (pour les applications authentifiées, gardez-les dans l'environnement de l'application).</p>
+      <p>Sur les pages <strong>transactionnelles</strong>, veillez à ce que les liens Avis et Confidentialité permettent aux utilisateurs de rester dans leur session actuelle (pour les applications authentifiées, gardez-les dans l'environnement de l'application).</p>
       <h4>Mot-symbole Canada</h4>
       <p>Inclure le mot-symbole Canada dans la bande sous pied de page sur toutes les pages de Canada.ca. Cela permet de
         consolider la marque et de donner un indice supplémentaire aux gens qu’ils lisent du contenu provenant du gouvernement
@@ -279,22 +279,63 @@
         <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footers-fr.html">Bande sous pieds pied de page sans liens facultatifs</a></li>
       </ul>
     </section>
+     <section>
+      <h3>Mises en œuvre</h3>
+      <p>Déterminez la configuration du pied de page qui répond le mieux à vos besoins pour le type de page que vous créez. Consultez les conseils de votre mise en œuvre pour personnaliser les liens de la bande contextuelle ou de la bande de sous-pied.</p>
+      <div class="wb-tabs">
+        <div class="tabpanels">
+          <details id="004" open="open">
+            <summary><strong>AEM du GC</strong></summary>
+            <p class="mrgn-tp-lg">Pour l'Adobe Experience Manager du Gouvernement du Canada (AEM) :</p>
+            <ul>
+              <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/8/8c/Documentation-AEM-6.5-Unite-3-1-1-Personnaliser_le_pied_de_page_general.pdf">Personnaliser le pied de page général (PDF - disponible uniquement sur le réseau du gouvernement du Canada)</a></li>
+              <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d'AEM / Service Web Géré (disponible uniquement sur le réseau du gouvernement du Canada)</a></li>
+            </ul>
+          </details>
+          <details id="005">
+            <summary><strong>SGDC</strong></summary>
+            <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC) :</p>
+            <ul>
+              <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_47/cdts/samples/footer-fr.html">Pied de page complet (les bandes contextuelle, principale, et sous pied de page)</a></li>
+              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation SGDC documentation</a></li>
+            </ul>
+          </details>
+          <details id="006">
+            <summary><strong>Drupal WxT</strong></summary>
+            <p class="mrgn-tp-lg">Pour Drupal WxT :</p>
+            <ul>
+              <li><a href="https://www.drupal.org/node/3335298">Mettre à jour le pied de page GCWeb (en anglais seulement)</a></li>  
+              <li><a href="https://drupalwxt.github.io/en/">Documentation Drupal WxT (en anglais seulement)</a></li>
+            </ul>
+          </details>
+        </div>
+      </div>
+    </section>
     <section>
       <h2 id="recherches">Recherches et justification</h2>
       <p>Nous avons mis à jour le pied de page général de Canada.ca pour le faire correspondre à une nouvelle stratégie de
         navigation générale issue du projet de recherche Orientation dans Canada.ca.</p>
-		  <ul>	
-	<li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca">Résumé de la recherche sur l’orientation dans Canada.ca</a>&nbsp;: Ce résumé explique le contexte de la recherche et les constatations qui ont mené aux mises à jour de la conception.</a>
-</li>
-		<li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a>&nbsp;: Ce billet de blogue explique les changements proposés à la conception de Canada.ca et comment ils seront mis en œuvre.</li>
-</ul> 
+      <ul>
+        <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca">Résumé de la recherche sur l’orientation dans Canada.ca</a><br>
+          Ce résumé explique le contexte de la recherche et les constatations qui ont mené aux mises à jour de la conception.</li>
+        <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a><br>
+          Ce billet de blogue explique les changements proposés à la conception de Canada.ca et comment ils seront mis en œuvre.</li>
+      </ul>
     </section>
     <section>
       <h2 id="modifications">Dernières modifications</h2>
       <dl class="dl-horizontal">
-		  <dt><time datetime="2023-01-18" class="link-muted">2023-01-18</time></dt>
-        <dd>Clarification du fait que sur les pages transactionnelles, les liens Avis et Confidentialité doivent permettre aux utilisateurs de rester dans leur session actuelle.</dd>    
-		  <dt><time datetime="2022-12-23" class="link-muted">2022-12-23</time></dt>
+        <dt>
+          <time datetime="2023-02-08" class="link-muted">2023-02-08</time>
+        </dt>
+        <dd>Ajout des liens vers les conseils de mise en œuvre de l'AEM du GC, la SGDC et le Drupal WxT</dd>
+        <dt>
+          <time datetime="2023-01-18" class="link-muted">2023-01-18</time>
+        </dt>
+        <dd>Clarification du fait que sur les pages transactionnelles, les liens Avis et Confidentialité doivent permettre aux utilisateurs de rester dans leur session actuelle.</dd>
+        <dt>
+          <time datetime="2022-12-23" class="link-muted">2022-12-23</time>
+        </dt>
         <dd>Ajout des liens pour le résumé de recherche et le billet de blogue pour le projet Orientation dans Canada.ca</dd>
         <dt>
           <time datetime="2022-11-30" class="link-muted">2022-11-30</time>
@@ -402,7 +443,7 @@
     <dl id="wb-dtmd">
       <dt>Date de modification :</dt>
       <dd>
-        <time property="dateModified">2022-12-23</time>
+        <time property="dateModified">2023-02-08</time>
       </dd>
     </dl>
   </div>
