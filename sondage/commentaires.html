@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+			wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+		<title>Comment analyser les commentaires - Canada.ca</title>
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+		<link rel="stylesheet" href="https://design.canada.ca/css/custom.css">
+
+		<link rel="stylesheet" href="https://design.canada.ca/css/provisional-alerts.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+
+		<noscript>
+			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" /></noscript>
+		<script>
+			(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+			})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+			ga('create', 'UA-105628416-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-3"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() { dataLayer.push(arguments); }
+			gtag('js', new Date());
+			gtag('config', 'UA-105628416-3');
+		</script>
+	</head>
+	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
+		<ul id="wb-tphp">
+			<li class="wb-slc">
+				<a class="wb-sl" href="#wb-cont">Passer au contenu principal</a>
+			</li>
+			<li class="wb-slc">
+				<a class="wb-sl" href="#wb-info">Passer à «&#160;Au sujet du gouvernement&#160;»</a>
+			</li>
+		</ul>
+		<header>
+			<div id="wb-bnr" class="container">
+				<section id="wb-lng" class="text-right">
+					<h2 class="wb-inv">Sélection de la langue</h2>
+					<div class="row">
+						<div class="col-md-12">
+							<ul class="list-inline margin-bottom-none">
+								<li><a lang="en" href="https://design.canada.ca/survey/analyze-feedback.html">English</a></li>
+							</ul>
+						</div>
+					</div>
+				</section>
+				<div class="row">
+					<div class="brand col-xs-5 col-md-4">
+						<a href="https://www.canada.ca/fr.html"><img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-fr.svg" alt=""><span class="wb-inv"> Gouvernement du Canada / <span lang="en">Government of Canada</span></span></a>
+					</div>
+					<section id="wb-srch" class="col-lg-8 text-right">
+						<h2>Recherche</h2>
+						<form action="https://canada.ca/fr/sr/srb.html" method="get" role="search" class="form-inline">
+							<div class="form-group">
+								<label for="wb-srch-q" class="wb-inv">Rechercher dans Canada.ca</label>
+								<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Rechercher dans Canada.ca">
+								<input name="st" value="s" type="hidden" />
+								<input name="num" value="10" type="hidden" />
+								<input name="langs" value="fra" type="hidden" />
+								<input name="st1rt" value="0" type="hidden">
+								<input name="s5bm3ts21rch" value="x" type="hidden" />
+								<datalist id="wb-srch-q-ac"></datalist>
+							</div>
+							<div class="form-group submit">
+								<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
+							</div>
+						</form>
+					</section>
+				</div>
+			</div>
+			<nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
+				<div class="container">
+					<h2 class="wb-inv">Menu</h2>
+					<button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+					<ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Emplois et milieu de travail</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration et citoyenneté</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Prestations</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport et infrastructure</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+						<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+					</ul>
+				</div>
+			</nav>
+			<nav id="wb-bc" property="breadcrumb">
+				<h2>Vous êtes ici&nbsp;:</h2>
+				<div class="container">
+					<ol class="breadcrumb">
+						<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a></li>
+						<li><a href='https://www.canada.ca/fr/gouvernement/a-propos.html'>À propos de Canada.ca</a></li>
+						<li><a href='https://www.canada.ca/fr/analytique.html'>Analyses, sondage et commentaires</a></li>
+						  <li><a href='sondage.html'>Sondage sur la réussite des tâches</a></li>
+					</ol>
+				</div>
+			</nav>
+		</header>
+		<!--/* Hide Nav; Hide Right Rail /*-->
+		<main role="main" property="mainContentOfPage" class="container wb-prettify all-pre">
+			
+			
+
+			<h1 property="name" id="wb-cont" class="provisional gc-thickline" dir="ltr">Comment analyser les commentaires</h1>
+
+			</div>
+			<div class="mwsgeneric-base-html parbase section">
+
+			  <div class="gc-stp-stp">
+			  		<div class="row">
+			  			<ul class="toc lst-spcd col-md-12">
+			  				<li class="col-md-4 col-sm-6"><a class="list-group-item" href="acceder-resultats.html">Résultats et aux rapports du sondage</a></li>
+			  								<li class="col-md-4 col-sm-6"><a class="list-group-item active" href="commentaires.html">Comment analyser les commentaires</a></li>
+			        <li class="col-md-4 col-sm-6"><a class="list-group-item" href="partager.html">Partager les idées</a></li>
+
+			        	<li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qui doit être amélioré</a></li>
+			          
+			  			</ul>
+			  		</div>
+			  	</div>
+			    
+					
+					    <h2>Sur cette page</h2>
+					    <ul>
+					      <li><a href="#qui">Qui doit analyser les commentaires</a></li>
+					     <li><a href="#quantite">Quantité de commentaires à lire</a></li>
+					   <!--  <li><a href="#analyse">Analyse automatisée des commentaires</a></li>-->
+							  <li><a href="#manuelle">Analyse manuelle des commentaires</a></li>
+							 <li><a href="#outils">Outils et modèles</a></li>
+							 <li><a href="#sources">Inclure d’autres sources de données complémentaires</a></li>
+					    </ul>
+		
+
+							<h2 id="qui">Qui doit analyser les commentaires</h2>
+							
+							<p>Cela devrait être fait par des gens qui connaissent très bien le sujet.</p>
+							<p>Les gens devraient être habiles à repérer les régularités et les thèmes dans les données.</p>
+								<p>Il est préférable d’avoir quelqu’un qui soit bilingue.</p>
+								
+								
+
+								<p>Si plusieurs personnes se partagent la lecture des commentaires, il est très important d’avoir une compréhension commune des problèmes et de la façon de regrouper les commentaires.</p>
+								<p>Il est bon de prendre l’habitude d’examiner les commentaires des visiteurs de manière régulière afin d’identifier les problèmes émergents ou persistants qui nuisent à la réussite de la tâche.</p>
+
+
+								<h2 id="quantite">Quantité de commentaires à lire</h2>
+								
+								<p>Il n’y a pas de chiffre magique pour le nombre de commentaires dont vous avez besoin.</p>
+
+									<p>Vous cherchez suffisamment de commentaires pour décrire un problème ou répondre à une question de recherche. Il y a un point de rendement décroissant où le fait de collecter plus de commentaires ne donne pas plus de perspectives. C’est ce qu’on appelle la « saturation ».</p>
+									
+									<p>Commencez par une petite période de données pour voir si vous pouvez identifier les problèmes et les tendances dans les commentaires. Élargissez la plage de dates afin d’inclure davantage de données et de mieux comprendre la situation.</p>  
+
+
+<!--
+
+						<h2 id="analyse">Analyse automatisée des commentaires</h2>
+						<P><span class="label label-info">Expérimentation</span></p>
+
+						<p>Nous faisons des expériences avec l’apprentissage automatique pour analyser et regrouper les commentaires qui se ressemblent.</p>
+
+						<p>Cette analyse automatisée est disponible pour le dernier trimestre de données de la tâche lorsqu’il y a suffisamment de données.
+</p>
+
+						<p><a href="https://analytics-analytique.tbs.alpha.canada.ca/fr/">Recherche de tâches dans les résultats du sondage</a> (accessible seulement sur le réseau du GC) </p>
+						
+					-->
+								<h2 id="manuelle">Analyse manuelle des commentaires</h2>
+								
+								
+								
+								<p>Le regroupement des commentaires ayant des problèmes similaires avec des étiquettes est utile pour les petits et les grands ensembles de données. Cela vous aide à accroître votre efficacité pour ce qui est de l’analyse en vous permettant d’analyser des ensembles de données de moindre taille.</p>
+
+						<p>Dans le cas d’un petit ensemble de données, un petit nombre d’étiquettes peut suffire pour éclairer la rétroaction. Un ensemble de données volumineux peut nécessiter des étiquettes à deux niveaux pour mettre en lumière des problèmes de contenu spécifiques.</p>
+
+
+
+
+						<h3>Meilleures pratiques pour choisir la façon de regrouper et d’étiqueter les commentaires</h3>
+
+						<details>
+						<summary>Familiarisez-vous avec les données</summary>
+						<p>Lisez un échantillon de commentaires et essayez de repérer les schémas récurrents. Prenez-les en note afin d’avoir une vue d’ensemble des tâches, sujets ou questions dont les gens parlent.</p>
+
+						<p>Tous les commentaires ne seront pas utiles – parfois, ils ne seront pas suffisamment clairs pour être utilisés ou ils porteront sur un tout autre sujet.</p>
+
+						</details>
+
+						<details>
+						<summary>Déterminez des étiquettes en fonction d’une tâche ou d’un problème</summary>
+
+						<p>Il est recommandé d’utiliser des étiquettes centrées sur les tâches lors de l’analyse de commentaires pour un groupe de pages où il y a plusieurs tâches.</p>
+
+						<p>Pour identifier les tâches, demandez-vous la raison de la visite de l’utilisateur. Qu’essaie-t-il de faire ou à quelle question essayait-il de répondre?  </p>
+
+
+
+
+
+										<table class="provisional gc-table table table-striped" id="myTable1">
+											<caption class="wb-inv">Exemple </caption>
+												<thead>
+												 <tr>
+													 <th scope="col">Étiquette de la tâche</th>
+													 <th scope="col">Tâche ou question de l’utilisateur</th>
+													 <th scope="col">Sujets inclus dans cette étiquette</th>
+
+												 </tr>
+												</thead>
+												<tbody>
+											
+													<tr>
+													 <td data-label="Tag"><span class="text-left">Sécurité des vaccins</span></td>
+													 <td data-label="User task"><span class="text-left">Le vaccin est-il sécuritaire pour moi?</span></td>
+													 <td data-label="Topics included"><span class="text-left">Conditions préexistantes, ingrédients/allergies, effets secondaires</span></td>
+												 </tr>
+											 
+												 <tr>
+													<td data-label="Tag"><span class="text-left">Se faire vacciner</span></td>
+													<td data-label="User task"><span class="text-left">Comment puis-je me faire vacciner?</span></td>
+													<td data-label="Topics included"><span class="text-left">Admissibilité, quand, où, comment s’inscrire</span></td>
+												</tr>
+												
+												<tr>
+												 <td data-label="Tag"><span class="text-left">Preuve de vaccination</span></td>
+												 <td data-label="User task"><span class="text-left">Comment puis-je obtenir une copie de mon reçu ou de mon dossier de vaccination?</span></td>
+												 <td data-label="Topics included"><span class="text-left">Dossiers de vaccins, applications provinciales, application fédérale pour la preuve des vaccins</span></td>
+											 </tr>
+
+																
+												</tbody>
+											</table>
+
+
+						<p class="mrgn-tp-xl">Les étiquettes basées sur des problèmes peuvent être une meilleure stratégie pour recueillir des commentaires sur une seule page, un seul sujet ou lorsqu’une seule tâche domine vos commentaires.</p>
+
+						<table class="provisional gc-table table table-striped" id="myTable1">
+							<caption class="wb-inv">Exemple</caption>
+								<thead>
+								 <tr>
+									 <th scope="col">Étiquette du problème</th>
+									 <th scope="col">Problème rencontré</th>
+									
+
+								 </tr>
+								</thead>
+								<tbody>
+							
+							
+								<tr>
+								 <td data-label="Issue tag"><span class="text-left">Pas de rendez-vous</span></td>
+								 <td data-label="User issue"><span class="text-left">Pas de rendez-vous, pas de rendez-vous pendant plusieurs semaines.</span></td>
+							 </tr>
+							 
+
+												
+								</tbody>
+							</table>
+
+						<p class="mrgn-tp-xl"><strong>Pour les ensembles volumineux de données,</strong> il se peut qu’un deuxième niveau de balises soit nécessaire afin de les rendre plus précis. Vous pouvez le faire en même temps que vous étiquetez les commentaires OU lorsque vous êtes prêt à analyser un ensemble plus petit de commentaires.</p>
+
+						</details>
+
+						<details>
+						<summary>Limitez le nombre d’étiquettes utilisées</summary>
+
+						<p>Commencez par des étiquettes larges, n’incluez que celles dont vous disposez de plusieurs exemples. L’objectif de ce premier examen est de regrouper succinctement les sujets et les questions récurrentes.</p>
+
+						<p>Essayez de maintenir l’ensemble d’étiquettes à moins de 15 pour la tâche. En limitant le nombre d’étiquettes, il sera plus facile d’identifier les problèmes qui nécessitent une assistance plus importante.</p>
+						
+						<p>La mention « Autre » constitue également une étiquette! Identifiez les commentaires ponctuels ou peu fréquents à l’aide de l’étiquette « Autre » jusqu’à ce qu’il y en ait assez pour avoir leur propre étiquette.</p>
+						</details>
+						
+
+						<details>
+						<summary>Évitez d’utiliser des étiquettes ambiguës ou qui se chevauchent </summary>
+						<p>Assurez-vous que chaque étiquette se différencie clairement des autres. Votre objectif est de réduire les doutes au sujet de l’étiquette devant être attribuée à un commentaire.</p>
+						</details>
+
+						<details>
+						<summary>Soyez prêt à ajuster votre choix d’étiquettes</summary>
+						<p>Passez en revue vos choix initiaux.</P>
+							
+						<p>Sont-ils clairs et sans ambiguïté? Est-ce qu’une seule étiquette couvre la majorité des commentaires? Avez-vous besoin de les diviser en deux étiquettes?</p>
+						<p>Il n’y a pas de stratégie universelle.  </p>
+						<p>À mesure que vous recueillez des commentaires ou que vous ajoutez l’outil de rétroaction à plus de pages, vous aurez besoin d’ajuster votre choix d’étiquettes.</p>
+						</details>
+
+						<details>
+						<summary>Documenter et tester votre stratégie d’étiquetage</summary>
+						
+						<p>Documentez votre choix d’étiquettes avec des exemples. Cela est particulièrement utile si plus d’une personne partage la responsabilité d’examiner la rétroaction.</p>
+
+						<p>Demandez à d’autres personnes de revoir vos choix d’étiquettes pour s’assurer qu’elles sont claires pour les autres personnes. Cela est particulièrement important si plus d’une personne aide à analyser la rétroaction. En convenant d’un ensemble commun d’étiquettes au début (et lors de l’ajustement des étiquettes), on évite que la rétroaction soit mal étiquetée d’une personne à une autre.</p>
+
+
+											
+											<a class="btn btn-primary" href="images/modele-etiquetage.xlsx" role="button">
+												<span class="fa fa-download" aria-hidden="true"></span> Télécharger un modèle de stratégie de étiquetage (Excel, 61Ko)
+										</a>
+							
+										
+										
+
+						</details>
+
+						<h3>Choses à éviter lors de l’étiquetage des commentaires</h3>
+
+						<details>
+						<summary>Mélangez les types d’étiquettes</summary>
+						<p>Si vous voulez ajouter d’autres façons d’analyser votre ensemble de données, il est préférable de créer de nouvelles colonnes dans votre feuille de calcul pour noter différents aspects. </p>
+						</details>
+
+						<details>
+						<summary>Essayer d’être trop précis</summary>
+						<p>Le but de l’étiquetage est de vous aider à trouver des façons d’améliorer votre contenu Web. L’étiquetage doit être suffisant à cette fin. Une approche « assez bonne » de la définition et de l’assignation des étiquettes permettra de le faire.</p>
+
+
+						<p>Si vos pages recueillent plus de commentaires que vous ne pouvez examiner, classer et analyser, ajustez votre stratégie : concentrez-vous sur une tâche, limitez le nombre de pages sur lesquelles l’outil est déployé ou limitez la période de collecte de données.</p>
+						</details>
+
+						<h2 id="outils">Outils et modèles pour l’analyse des commentaires</h2>
+
+						<p>Pour les petits ensembles de données, tout logiciel de chiffrier devrait faire l’affaire (Excel, Google Sheets, etc.).   </p>
+
+						<p>Pour les ensembles de données plus volumineux, il est utile d’utiliser un outil qui offre des fonctionnalités plus avancées pour trier, filtrer et marquer. Si vous avez un spécialiste en science des données, il se peut qu’il on un outil préfèré.   </p>
+
+						<h3>Modèles</h3>
+						<ul>
+						<li><a href="images/modele-etiquetage.xlsx">
+						Télécharger un modèle de stratégie de étiquetage (Excel, 61Ko)
+					</a> (Excel, 61Ko)</li>
+						<li><a href="https://docs.google.com/spreadsheets/d/1ANmW8Nlyjff6DMHXJvFkMiBsNOfZzfibbrHuQ47uq64/edit?usp=sharing">
+					Téléchargez un modèle pour analyser les commentaires des pages et les commentaires du Sondage sur la réussite des tâches du GC 
+						</a> (Google Sheets)</li>
+						</ul>
+
+
+
+
+						<h2 id="sources">Inclure d’autres sources de données complémentaires </h2>
+
+						<p>Intégrez d’autres sources de données dans vos rapports afin de créer un tableau plus complet, de déterminer vos idées ou d’ajouter une urgence à partir de sources comme les suivantes :</p>
+
+						<ul>
+
+						<li>analyse</li>
+						<li>volumes dans les centres d’appels.</li>
+					
+						<li>retour de page </li>
+						<li>tendances de recherches</li>
+							<li>résultats de l’étude sur utilité</li>
+						<li>questions reçues sur les médias sociaux</a>
+						</ul>
+
+
+
+						<nav role="navigation" class="mrgn-bttm-lg">
+						<ul class="pager">
+						<li class="next"><a href="partager.html" rel="next">Suivant : Partager des idées</a></li>
+						</ul>
+						</nav>
+
+
+
+						</div>
+						
+						
+									
+							<!-- START PAGE FEEDBACK WIDGET -->
+						<div class="row row-no-gutters mrgn-tp-xl">
+						<div class="col-sm-7 col-lg-6">
+								<section class="gc-pg-hlpfl provisional">
+										<div class="well mrgn-bttm-0">
+												<form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
+						<input type="hidden" name="institutionopt" value="tbs">
+						<input type="hidden" name="themeopt" value="Policies">
+						<input type="hidden" name="language" value="FR">
+						<input type="hidden" name="pageTitle" value="Comment analyser les commentaires">
+						<input type="hidden" name="submissionPage" value="https://conception.canada.ca/sondage/commentaires.html">
+						<input type="hidden" name="sectionopt" value="Design system">
+
+
+														<input type="hidden" id="helpful" name="helpful" value="Yes">
+
+														<div class="gc-pg-hlpfl-btn">
+																<div class="row row-no-gutters">
+																		<div class="col-xs-12 col-sm-7 mrgn-tp-sm">
+																				<h2 class="mrgn-tp-sm h5">Avez-vous trouvé ce que vous cherchiez?</h2>
+																		</div>
+																		<div class="col-xs-8 col-sm-5 text-right">
+																				<button id="btnyes" type="submit" value="Yes" class="btn btn-primary">Oui</button>
+																				<button id="btnno" type="button" class="btn btn-primary mrgn-lft-sm nojs-hide">Non</button>
+																		</div>
+																</div>
+														</div>
+														<p class="h3 hidden nojs-show">Sinon, dites nous pourquoi&nbsp;:</p>
+														<div class="gc-pg-hlpfl-no nojs-show">
+																<fieldset>
+																		<legend class="h4 mrgn-tp-0 mrgn-bttm-md">Qu’est-ce qui n’allait pas?</legend>
+																		<div class="radio">
+																				<label for="problem1">
+																						<input name="problem" id="problem1" type="radio" value="Je ne peux pas trouver l’information" data-gc-analytics-wtph-value="I can't find the information-Je ne peux pas trouver l'information" data-gc-analytics-collect="notPrivate">
+																						Je ne peux pas <strong>trouver</strong> l’information
+																				</label>
+																		</div>
+																		<div class="radio">
+																				<label for="problem2">
+																						<input name="problem" id="problem2" type="radio" value="L'information est difficile à comprendre" data-gc-analytics-wtph-value="The information is hard to understand-J'ai trouvé l'information difficile à comprendre" data-gc-analytics-collect="notPrivate">
+																						L'information est difficile à <strong>comprendre</strong>
+																				</label>
+																		</div>
+																		<div class="radio">
+																				<label for="problem3">
+																						<input name="problem" id="problem3" type="radio" value="Il y avait une erreur / quelque chose ne fonctionnait pas" data-gc-analytics-wtph-value="There was an error or something didn't work-Il y avait une erreur our quelque chose ne fonctionnait pas" data-gc-analytics-collect="notPrivate">
+																						Il y avait une erreur / quelque chose <strong>ne fonctionnait pas</strong>
+																				</label>
+																		</div>
+																		<div class="radio">
+																				<label for="problem4">
+																						<input name="problem" id="problem4" type="radio" value="Other reason" data-gc-analytics-wtph-value="Other reason-Autre raison" data-gc-analytics-collect="notPrivate">
+																						Autre raison
+																				</label>
+																		</div>
+																</fieldset>
+																<label for="problem6" class="mrgn-bttm-0">Veuillez fournir plus de détails</label>
+																<p class="small">
+																		<strong>Vous ne recevrez aucune réponse. Les numéros de téléphone et les adresses électroniques seront supprimés.</strong>
+																		<br>
+																		<span class="small">Maximum de 300 caractères</span>
+																</p>
+																<textarea id="problem6" name="details" class="full-width" maxlength="300"></textarea>
+																<button type="submit" value="No" class="btn btn-primary mrgn-tp-md mrgn-bttm-sm">Soumettre</button>
+														</div>
+												</form>
+												<div class="gc-pg-hlpfl-thnk hide">
+														<p class="h6 mrgn-tp-sm mrgn-bttm-sm"><span class="far fa-check-circle text-success mrgn-rght-sm" aria-hidden="true"></span> Merci de vos commentaires</p>
+												</div>
+										</div>
+								</section>
+						</div>
+						<div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
+								<div class="wb-share" data-wb-share="{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}"></div>
+						</div>
+						</div>
+						<!-- END PAGE FEEDBACK WIDGET -->					
+						
+						
+
+		<div class="pagedetails">
+			<dl id="wb-dtmd">
+				<dt>Date de modification&nbsp;:</dt>
+				<dd><time property="dateModified">2023-02-28</time></dd>
+			</dl>
+		</div>
+		</main>
+		<footer id="wb-info">
+			<div class="landscape">
+				<nav class="container wb-navcurr">
+					<h2 class="wb-inv">Au sujet du gouvernement</h2>
+					<ul class="list-unstyled colcount-sm-2 colcount-md-3">
+						<li><a href="https://www.canada.ca/fr/contact.html">Contactez-nous</a></li>
+						<li><a href="https://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a></li>
+						<li><a href="https://www.canada.ca/fr/gouvernement/fonctionpublique.html">Fonction publique et force militaire</a></li>
+						<li><a href="https://www.canada.ca/fr/nouvelles.html">Nouvelles</a></li>
+						<li><a href="https://www.canada.ca/fr/gouvernement/systeme/lois.html">Traités, lois et règlements</a></li>
+						<li><a href="https://www.canada.ca/fr/transparence/rapports.html">Rapports à l'échelle du gouvernement</a></li>
+						<li><a href="https://pm.gc.ca/fra">Premier ministre</a></li>
+						<li><a href="https://www.canada.ca/fr/gouvernement/systeme.html">Comment le gouvernement fonctionne</a></li>
+						<li><a href="https://ouvert.canada.ca/">Gouvernement ouvert</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="brand">
+				<div class="container">
+					<div class="row">
+						<nav class="col-md-9 col-lg-10 ftr-urlt-lnk">
+							<h2 class="wb-inv">À propos du site</h2>
+							<ul>
+								<li><a href="https://www.canada.ca/fr/sociaux.html">Médias sociaux</a></li>
+								<li><a href="https://www.canada.ca/fr/mobile.html">Applications mobiles</a></li>
+								<li><a href="https://www1.canada.ca/fr/nouveausite.html">À propos de Canada.ca</a></li>
+								<li><a href="https://www.canada.ca/fr/transparence/avis.html">Avis</a></li>
+								<li><a href="https://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a></li>
+							</ul>
+						</nav>
+						<div class="col-xs-6 visible-sm visible-xs tofpg">
+							<a href="#wb-cont">Haut de la page <span class="glyphicon glyphicon-chevron-up"></span></a>
+						</div>
+						<div class="col-xs-6 col-md-3 col-lg-2 text-right">
+							<img src="http://www.canada.ca/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada">
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
+		<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
+		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+		<script>
+			document.getElementById('submissionPage').value = location.href;
+		</script>
+<script>
+$(document).on("wb-ready.wb", function() {
+   $("#btnno").click(function(e) {
+       $(".gc-pg-hlpfl-no").removeClass("nojs-show");
+       $(".gc-pg-hlpfl-btn").addClass("hide");
+       $("#helpful").val("No");
+   });
+   $("#gc-pg-hlpfl-frm").submit(function(e) {
+       e.preventDefault();
+       $(".gc-pg-hlpfl-thnk").removeClass("hide");
+       $("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
+       $.ajax({
+           url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
+           type: 'POST',
+           dataType: 'text',
+           data: $('form#gc-pg-hlpfl-frm').serialize(),
+           success: function(data) {},
+           error: function(xhr, status, err) {
+               console.log(xhr.responseText);
+           }
+       });
+   });
+});
+</script>
+<!-- END SCRIPT PAGE FEEDBACK WIDGET -->
+	</body>
+</html>
