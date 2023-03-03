@@ -9,8 +9,8 @@
 		<!-- Meta data -->
 		<!-- Meta data-->
 		<!-- Load closure template scripts -->
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_31/cdts/compiled/soyutils.js"></script>
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_31/cdts/compiled/wet-en.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4.0_47/cdts/compiled/soyutils.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4.0_47/cdts/compiled/wet-en.js"></script>
 
 		<!-- Write closure template -->
 		<script type="text/javascript">
@@ -382,17 +382,7 @@
 	});
 </script>
 		</main>
-		<div id="def-footer">
-
-		</div>
-		<!-- Write closure template -->
-		<script type="text/javascript">
-			var defFooter = document.getElementById("def-footer");
-			defFooter.outerHTML = wet.builder.footer({
-				showFooter: true,
-				showFeatures: true
-			});
-		</script>
+		{% include footer-fr.html %}
 		<!-- Write closure template -->
 		<script type="text/javascript">
 			document.write(wet.builder.refFooter({
