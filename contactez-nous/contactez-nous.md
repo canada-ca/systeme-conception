@@ -31,13 +31,7 @@ title: "Contactez le Bureau de la transformation numérique"
   <li><a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
 </ul>
 <aside>
-  <h2 id="communiquez-avec-le-bureau-de-la-transformation-numérique-du-secrétariat-du-conseil-du-trésor">Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor</h2>
-  <ul>
-    <li>Courriel&nbsp;: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
-    <li>Twitter&nbsp;: #Canadapointca (français) / #Canadadotca (anglais)</li>
-    <li>Slack&nbsp;: <a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">http://design-GC-conception.slack.com</a></li>
-  </ul>
-  <h2 id="abonnez-vous-à-la-liste-d’envoi-du-bureau-de-la-transformation-numérique">Abonnez-vous à la liste d’envoi du Bureau de la transformation numérique</h2>
+   <h2 id="abonnez-vous-à-la-liste-d’envoi-du-bureau-de-la-transformation-numérique">Abonnez-vous à la liste d’envoi du Bureau de la transformation numérique</h2>
   <div class="row">
     <form action="https://github.us12.list-manage.com/subscribe/post?u=5700d338d6ab413ebca1099f4&amp;id=c6bb0b9f64" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="col-sm-8 validate paddingc" target="_blank" novalidate>
       <div id="mc_embed_signup_scroll" class="well well-sm">
