@@ -13,7 +13,7 @@ date: 2023-03-20
 dateModified: 2023-03-20
 description: "Contactez le Bureau de la transformation numérique"
 lang: en
-layout: without-h1
+layout: void
 title: "Contactez le Bureau de la transformation numérique"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contactez le Bureau de la transformation numérique</span>: <span>Canada.ca design</span></span></h1>
