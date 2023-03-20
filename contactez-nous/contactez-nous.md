@@ -18,3 +18,15 @@ title: "Contactez le Bureau de la transformation numérique"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Contactez le Bureau de la transformation numérique</span>: <span>Canada.ca design</span></span></h1>
 <p>Communiquez avec nous pour poser des questions sur la conception de Canada.ca ou pour nous faire part de vos suggestions à ce sujet.</p>
+  <h2><span class="far fa-envelope fa-lg mrgn-rght-sm"></span> Email</h2>
+  <ul class="mrgn-tp-lg">
+    <li><a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
+  </ul>
+  <h2><span class="fab fa-twitter fa-lg mrgn-rght-sm"></span> Twitter</h2>
+  <ul class="mrgn-tp-lg">
+    <li>#CanadaDotCa (English) / #CanadaPointCa (French)</li>
+  </ul>
+  <h2><span class="fab fa-slack fa-lg mrgn-rght-sm"></span> Slack</h2>
+  <ul class="mrgn-tp-lg">
+    <li><a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
+  </ul>
