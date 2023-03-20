@@ -1,12 +1,20 @@
+analytics:
+  providers:
+  - adobe
+  adobe:
+    tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
+    service: TBS-DTO_BTN-SCT
+baseurl: ""
+language: fr
+plugins:
+  - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll
 title: Système de conception de Canada.ca
-
-language: fr
 
 #
 # Page front matter defaults
 # defaults:
 #  - scope:
 #      path: "" # Ensure it's applied to all pages
-#    values:
+#     values:
 #      layout: default
