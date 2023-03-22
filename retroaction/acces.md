@@ -41,7 +41,6 @@ Le visualiseur de rétroaction est un environnement protégé par un mot de pass
 
 Adresse courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 
-**Connexion :** [Visualiseur de rétroaction](https://feedback-viewer.tbs.alpha.canada.ca)
 
 ### Filtres du visualiseur de rétroaction
 
