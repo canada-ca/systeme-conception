@@ -26,8 +26,8 @@ title: Comment accéder à la rétroaction sur la page
 L’outil de rétroaction sur la page en est encore à la phase pilote. Cela signifie que vous pouvez utiliser l’outil, mais sachez que son apparence ou son codage pourrait changer ultérieurement.
 
 ## Sur cette page
-*   [Où la rétroaction est stockée](#ou-la-retroaction-est-stockee)
-*   [Comment accéder à la rétroaction](#comment-acceder-a-la-retroaction)
+*   [Où la rétroaction est stockée](#où-la-rétroaction-est-stockée)
+*   [Comment accéder à la rétroaction](#comment-accéder-à-la-rétroaction)
 
 ## Où la rétroaction est stockée
 
