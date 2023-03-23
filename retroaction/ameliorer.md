@@ -24,10 +24,10 @@ title: Comment la rétroaction sur une page peut aider votre travail
 			    
 ## Sur cette page
 
-*   [Améliorer le contenu et la navigation](#améliorer-le contenu-et-la-navigation)
+*   [Améliorer le contenu et la navigation](#améliorer-le-contenu-et-la-navigation)
 *   [Informer les responsables des politiques et des programmes](#informer-les-responsables-des-politiques-et-des-programmes)
 *   [Professionnaliser le contenu et les activités de recherche](#professionnaliser-le-contenu-et-les-activités-de-recherche)
-*   [Études de cas](#cas)
+*   [Études de cas](#études-de-cas)
 
 ## Améliorer le contenu et la navigation
 
