@@ -1,192 +1,203 @@
 ---
 ---
-<!DOCTYPE html>
+<!doctype html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
 <html class="no-js" lang="fr" dir="ltr">
-	<head>
-		<meta charset="utf-8">
-		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Cases à cocher et boutons radio - Configuration de conception de Canada.ca de Canada.ca</title>
-		<meta content="width=device-width,initial-scale=1" name="viewport">
-		<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-		<link rel="stylesheet" href="../css/theme.css">
-		<link rel="stylesheet" href="../css/custom.css">
-			<link rel="stylesheet" href="../css/split-h1.css">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+<title>Cases à cocher et boutons radio - Configuration de conception de Canada.ca de Canada.ca</title>
+<meta content="width=device-width,initial-scale=1" name="viewport">
 
-		<noscript>
-			<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
-		</noscript>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-1"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag() { dataLayer.push(arguments); }
-			gtag('js', new Date());
-			gtag('config', 'UA-105628416-3');
-		</script>
-	</head>
-	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
-		<ul id="wb-tphp">
-			<li class="wb-slc">
-				<a class="wb-sl" href="#wb-cont">Passer au contenu principal</a>
-			</li>
-			<li class="wb-slc">
-				<a class="wb-sl" href="#wb-info">Passer à «&#160;Au sujet du gouvernement&#160;»</a>
-			</li>
-		</ul>
-		<header>
-			<div id="wb-bnr" class="container">
-				<section id="wb-lng" class="text-right">
-					<h2 class="wb-inv">Sélection de la langue</h2>
-					<div class="row">
-						<div class="col-md-12">
-							<ul class="list-inline margin-bottom-none">
-								<li><a lang="en" href="https://design.canada.ca/common-design-patterns/checkboxes-radio-buttons.html">English</a></li>
-							</ul>
-						</div>
-					</div>
-				</section>
-				<div class="row">
-					<div class="brand col-xs-5 col-md-4">
-						<a href="https://www.canada.ca/fr.html"><img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-fr.svg" alt=""><span class="wb-inv"> Gouvernement du Canada / <span lang="en">Government of Canada</span></span></a>
-					</div>
-					<section id="wb-srch" class="col-lg-8 text-right">
-						<h2>Recherche</h2>
-						<form action="https://canada.ca/fr/sr/srb.html" method="get" role="search" class="form-inline">
-							<div class="form-group">
-								<label for="wb-srch-q" class="wb-inv">Rechercher dans Canada.ca</label>
-								<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Rechercher dans Canada.ca">
-								<input name="st" value="s" type="hidden" />
-								<input name="num" value="10" type="hidden" />
-								<input name="langs" value="fra" type="hidden" />
-								<input name="st1rt" value="0" type="hidden">
-								<input name="s5bm3ts21rch" value="x" type="hidden" />
-								<datalist id="wb-srch-q-ac"></datalist>
-							</div>
-							<div class="form-group submit">
-								<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
-							</div>
-						</form>
-					</section>
-				</div>
-			</div>
-			<nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
-				<div class="container">
-					<h2 class="wb-inv">Menu</h2>
-					<button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
-					<ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Emplois et milieu de travail</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration et citoyenneté</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Prestations</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport et infrastructure</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
-						<li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
-					</ul>
-				</div>
-			</nav>
-			<nav id="wb-bc" property="breadcrumb">
-				<h2>Vous êtes ici :</h2>
-				<div class="container">
-					<ol class="breadcrumb">
-						<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a></li>
-						<li><a href='https://www.canada.ca/fr/gouvernement/a-propos.html'>À propos de Canada.ca</a></li>
-						<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html'>Système de conception de Canada.ca</a></li>
-						<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html'>Bibliothèque de modèles et de configurations de conception</a></li>
-					</ol>
-				</div>
-			</nav>
-		</header>
-		<!--/* Hide Nav; Hide Right Rail /*-->
-		<main property="mainContentOfPage" class="container">
+<!--[if gte IE 9 | !IE ]><!-->
+<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/wet-boew.min.css" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+<link rel="stylesheet" href="../css/custom.css">
+<link rel="stylesheet" href="../css/split-h1.css">
+<!--<![endif]--> 
+<!--[if lt IE 9]>
+		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
 
-			<h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Cases à cocher et boutons radio</span>: <span>Système de conception de Canada.ca</span></span></h1>
-
-			 <div class="row">
-				<div class="col-md-12 pull-left">
-					<ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
-						<li class="mrgn-rght-lg"> <span class="label label-info">Bêta</span></li>
-						<li class="mrgn-rght-lg"> Dernière modification : 2020-10-21</li>
-
-					</ul>
-				</div>
-
-			</div>
+		<link rel="stylesheet" href="http://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/ie8-theme.min.css" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script src="./wet-boew/js/ie8-wet-boew.min.js"></script>
+		<![endif]--> 
+<!--[if lte IE 9]>
 
 
-					<p>Les cases à cocher et les boutons radio servent de contrôle de formulaire. Ils permettent aux gens de sélectionner une réponse à une question ou de confirmer des réponses.</p>
-					<p>Les cases à cocher et les boutons radio en grand format sont plus faciles à sélectionner et à utiliser, en particulier sur un appareil mobile.</p>
+		<![endif]-->
+<noscript>
+<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
+</noscript>
 
-					<section>
-						<h2>Sur cette page</h2>
-						<ul>
-							<li><a href="#utilisation">Utilisation</a></li>
-							<li><a href="#eviter">Quoi éviter</a></li>
-							<li><a href="#mise-en-oeuvre">Mise en œuvre</a></li>
-							<li><a href="#recherche">Recherche et blogue</a></li>
-							<li><a href="#derniers">Derniers changements</a></li>
-							<li><a href="#discussion">Discussion</a></li>
-						</ul>
-					</section>
-					<section>
-						<h2 id="utilisation">Utilisation</h2>
-						<p>Les cases à cocher et les boutons radio doivent être utilisés pour les questions interactives, comme les formulaires de demande ou les assistants:</p>
-						<ul>
-							<li><a href="./questions-interactives.html">Questions interactives</a></li>
-						</ul>
-					</section>
-					<section>
-						<h2 id="eviter">Quoi éviter</h2>
-						<p>N'utilisez pas de cases à cocher ou de boutons radio si les options présentées ne sont pas facilement comparables. Dans ces cas, utilisez plutôt la configuration « Services et renseignements » (lien et description).</p>
-						<ul>
-							<li><a href="./services-renseignements.html">Services et renseignements (lien et description)</a></li>
-						</ul>
-						<p>Pour une question autonome comportant peu d’options et une quantité gérable de contenu par option qui n’exige pas de pages distinctes, utilisez plutôt du contenu affichable/masquable ou une interface à onglets :</p>
-						<ul>
-							<li><a href="./contenu-reductible.html">Afficher/masquer</a></li>
-							<li><a href="./interface-onglets.html">Interface à onglets</a></li>
-						</ul>
-					</section>
-					<section>
-						<h2 id="mise-en-oeuvre">Mise en œuvre</h2>
-						<h3 id="grandes-cases-a-cocher">Grandes cases à cocher</h3>
-						<p><b>Utilisation&nbsp;:</b> Les grandes cases à cocher sont la conception recommandée pour les cases à cocher. À utiliser particulièrement lorsque l’utilisateur peut faire une ou plusieurs sélections pour répondre à une question.</p>
-						<p><b>Quoi éviter&nbsp;:</b> Ne pas utiliser de grandes cases à cocher pour une liste de contrôle ayant des éléments qui nécessitent un saut de ligne, ou lorsqu’il y a un seul élément à cocher. Pour ces situations, utilisez plutôt les petites cases à cocher.</p>
-						<section>
-							<h4>Grandes cases à cocher avec étiquettes explicites</h4>
-							<div class="panel panel-default pattern-demo">
-								<div class="panel-body">
-									<fieldset class="provisional gc-chckbxrdio">
-										<legend>Choisissez vos condiments&nbsp;:</legend>
-										<ul class="list-unstyled lst-spcd-2">
-											<li class="checkbox">
-												<input type="checkbox" id="cond1">
-												<label for="cond1">Ketchup</label>
-											</li>
-											<li class="checkbox">
-												<input type="checkbox" id="cond2">
-												<label for="cond2">Relish</label>
-											</li>
-											<li class="checkbox">
-												<input type="checkbox" id="cond3">
-												<label for="cond3">Moutarde</label>
-											</li>
-										</ul>
-									</fieldset>
-								</div>
-							</div>
-							<details>
-								<summary>Code</summary>
-								<details>
-									<summary>HTML</summary>
-									<pre><code>&lt;fieldset class="provisional gc-chckbxrdio"&gt;
+<!-- Global site tag (gtag.js) - Google Analytics --> 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-1"></script> 
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+
+  gtag('config', 'UA-105628416-2');
+
+</script>
+</head>
+
+<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage">
+<ul id="wb-tphp">
+  <li class="wb-slc"> <a class="wb-sl" href="#wb-cont">Passer au contenu principal</a> </li>
+  <li class="wb-slc"> <a class="wb-sl" href="#wb-info">Passer à «&#160;Au sujet du gouvernement&#160;»</a> </li>
+</ul>
+<header>
+  <div id="wb-bnr" class="container">
+    <section id="wb-lng" class="text-right">
+      <h2 class="wb-inv">Sélection de la langue</h2>
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="list-inline margin-bottom-none">
+            <li><a lang="en" href="https://design.canada.ca/common-design-patterns/checkboxes-radio-buttons.html">English</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <div class="row">
+      <div class="brand col-xs-5 col-md-4"> <a href="https://www.canada.ca/fr.html"><img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-fr.svg" alt=""><span class="wb-inv"> Gouvernement du Canada / <span lang="en">Government of Canada</span></span></a> </div>
+      <section id="wb-srch" class="col-lg-8 text-right">
+        <h2>Recherche</h2>
+        <form action="https://canada.ca/fr/sr/srb.html" method="get" role="search" class="form-inline">
+          <div class="form-group">
+            <label for="wb-srch-q" class="wb-inv">Rechercher dans Canada.ca</label>
+            <input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Rechercher dans Canada.ca">
+            <input name="st" value="s" type="hidden" />
+            <input name="num" value="10" type="hidden" />
+            <input name="langs" value="fra" type="hidden" />
+            <input name="st1rt" value="0" type="hidden">
+            <input name="s5bm3ts21rch" value="x" type="hidden" />
+            <datalist id="wb-srch-q-ac"></datalist>
+          </div>
+          <div class="form-group submit">
+            <button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
+          </div>
+        </form>
+      </section>
+    </div>
+  </div>
+  <nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
+    <div class="container">
+      <h2 class="wb-inv">Menu</h2>
+      <button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+      <ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Emplois et milieu de travail</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration et citoyenneté</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Prestations</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport et infrastructure</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+        <li role="none"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+      </ul>
+    </div>
+  </nav>
+  <nav id="wb-bc" property="breadcrumb">
+    <h2>Vous êtes ici :</h2>
+    <div class="container">
+      <ol class="breadcrumb">
+        <li><a href="https://www.canada.ca/fr.html">Canada.ca</a></li>
+        <li><a href="https://www.canada.ca/fr/gouvernement/a-propos.html">À propos de Canada.ca</a></li>
+        <li><a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html">Système de conception de Canada.ca</a></li>
+        <li><a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></li>
+      </ol>
+    </div>
+  </nav>
+</header>
+<!--/* Hide Nav; Hide Right Rail /*-->
+<main property="mainContentOfPage" class="container">
+  <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Cases à cocher et boutons radio</span>: <span>Système de conception de Canada.ca</span></span></h1>
+  <div class="row">
+    <div class="col-md-12 pull-left">
+      <ul class="list-inline small mrgn-bttm-sm" style="line-height:1.65em" id="list-inline-desktop-only">
+        <li class="mrgn-rght-lg"> <span class="label label-info">Bêta</span></li>
+        <li class="mrgn-rght-lg"> Dernière modification : 2020-10-21</li>
+      </ul>
+    </div>
+  </div>
+  <p>Les cases à cocher et les boutons radio servent de contrôle de formulaire. Ils permettent aux gens de sélectionner une réponse à une question ou de confirmer des réponses.</p>
+  <p>Les cases à cocher et les boutons radio en grand format sont plus faciles à sélectionner et à utiliser, en particulier sur un appareil mobile.</p>
+  <section>
+    <h2>Sur cette page</h2>
+    <ul>
+      <li><a href="#utilisation">Utilisation</a></li>
+      <li><a href="#eviter">Quoi éviter</a></li>
+      <li><a href="#mise-en-oeuvre">Mise en œuvre</a></li>
+      <li><a href="#recherche">Recherche et blogue</a></li>
+      <li><a href="#derniers">Derniers changements</a></li>
+      <li><a href="#discussion">Discussion</a></li>
+    </ul>
+  </section>
+  <section>
+    <h2 id="utilisation">Utilisation</h2>
+    <p>Les cases à cocher et les boutons radio doivent être utilisés pour les questions interactives, comme les formulaires de demande ou les assistants:</p>
+    <ul>
+      <li><a href="./questions-interactives.html">Questions interactives</a></li>
+    </ul>
+  </section>
+  <section>
+    <h2 id="eviter">Quoi éviter</h2>
+    <p>N'utilisez pas de cases à cocher ou de boutons radio si les options présentées ne sont pas facilement comparables. Dans ces cas, utilisez plutôt la configuration « Services et renseignements » (lien et description).</p>
+    <ul>
+      <li><a href="./services-renseignements.html">Services et renseignements (lien et description)</a></li>
+    </ul>
+    <p>Pour une question autonome comportant peu d’options et une quantité gérable de contenu par option qui n’exige pas de pages distinctes, utilisez plutôt du contenu affichable/masquable ou une interface à onglets :</p>
+    <ul>
+      <li><a href="./contenu-reductible.html">Afficher/masquer</a></li>
+      <li><a href="./interface-onglets.html">Interface à onglets</a></li>
+    </ul>
+  </section>
+  <section>
+    <h2 id="mise-en-oeuvre">Mise en œuvre</h2>
+    <h3 id="grandes-cases-a-cocher">Grandes cases à cocher</h3>
+    <p><b>Utilisation&nbsp;:</b> Les grandes cases à cocher sont la conception recommandée pour les cases à cocher. À utiliser particulièrement lorsque l’utilisateur peut faire une ou plusieurs sélections pour répondre à une question.</p>
+    <p><b>Quoi éviter&nbsp;:</b> Ne pas utiliser de grandes cases à cocher pour une liste de contrôle ayant des éléments qui nécessitent un saut de ligne, ou lorsqu’il y a un seul élément à cocher. Pour ces situations, utilisez plutôt les petites cases à cocher.</p>
+    <section>
+      <h4>Grandes cases à cocher avec étiquettes explicites</h4>
+      <div class="panel panel-default pattern-demo">
+        <div class="panel-body">
+          <fieldset class="provisional gc-chckbxrdio">
+            <legend>Choisissez vos condiments&nbsp;:</legend>
+            <ul class="list-unstyled lst-spcd-2">
+              <li class="checkbox">
+                <input type="checkbox" id="cond1">
+                <label for="cond1">Ketchup</label>
+              </li>
+              <li class="checkbox">
+                <input type="checkbox" id="cond2">
+                <label for="cond2">Relish</label>
+              </li>
+              <li class="checkbox">
+                <input type="checkbox" id="cond3">
+                <label for="cond3">Moutarde</label>
+              </li>
+            </ul>
+          </fieldset>
+        </div>
+      </div>
+      <details>
+        <summary>Code</summary>
+        <details>
+          <summary>HTML</summary>
+          <pre><code>&lt;fieldset class="provisional gc-chckbxrdio"&gt;
 	&lt;legend&gt;Choisissez vos condiments&nbsp;:&lt;/legend&gt;
 	&lt;ul class="list-unstyled lst-spcd-2"&gt;
 		&lt;li class="checkbox"&gt;
@@ -203,10 +214,10 @@
 		&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/fieldset&gt;</code></pre>
-								</details>
-								<details>
-									<summary>CSS</summary>
-									<pre><code>.provisional.gc-chckbxrdio label {
+        </details>
+        <details>
+          <summary>CSS</summary>
+          <pre><code>.provisional.gc-chckbxrdio label {
 	cursor: pointer;
 	display: block;
 	font-size: 20px;
@@ -272,35 +283,35 @@
 	transform: rotate(45deg);
 	width: 13px;
 }</code></pre>
-								</details>
-							</details>
-							<h4>Grandes cases à cocher désactivées avec étiquettes explicites</h4>
-							<div class="panel panel-default pattern-demo">
-								<div class="panel-body">
-									<fieldset class="provisional gc-chckbxrdio">
-										<legend>Choisissez vos condiments&nbsp;:</legend>
-										<ul class="list-unstyled lst-spcd-2">
-											<li class="checkbox">
-												<input type="checkbox" id="cond4" disabled>
-												<label for="cond4">Ketchup</label>
-											</li>
-											<li class="checkbox">
-												<input type="checkbox" id="cond5">
-												<label for="cond5">Relish</label>
-											</li>
-											<li class="checkbox">
-												<input type="checkbox" id="cond6" disabled>
-												<label for="cond6">Moutarde</label>
-											</li>
-										</ul>
-									</fieldset>
-								</div>
-							</div>
-							<details>
-								<summary>Code</summary>
-								<details>
-									<summary>HTML</summary>
-									<pre><code>&lt;fieldset class="provisional gc-chckbxrdio"&gt;
+        </details>
+      </details>
+      <h4>Grandes cases à cocher désactivées avec étiquettes explicites</h4>
+      <div class="panel panel-default pattern-demo">
+        <div class="panel-body">
+          <fieldset class="provisional gc-chckbxrdio">
+            <legend>Choisissez vos condiments&nbsp;:</legend>
+            <ul class="list-unstyled lst-spcd-2">
+              <li class="checkbox">
+                <input type="checkbox" id="cond4" disabled>
+                <label for="cond4">Ketchup</label>
+              </li>
+              <li class="checkbox">
+                <input type="checkbox" id="cond5">
+                <label for="cond5">Relish</label>
+              </li>
+              <li class="checkbox">
+                <input type="checkbox" id="cond6" disabled>
+                <label for="cond6">Moutarde</label>
+              </li>
+            </ul>
+          </fieldset>
+        </div>
+      </div>
+      <details>
+        <summary>Code</summary>
+        <details>
+          <summary>HTML</summary>
+          <pre><code>&lt;fieldset class="provisional gc-chckbxrdio"&gt;
 	&lt;legend&gt;Choisissez vos condiments&nbsp;:&lt;/legend&gt;
 	&lt;ul class="list-unstyled lst-spcd-2"&gt;
 		&lt;li class="checkbox"&gt;
@@ -317,10 +328,10 @@
 		&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/fieldset&gt;</code></pre>
-								</details>
-								<details>
-									<summary>CSS</summary>
-									<pre><code>.provisional.gc-chckbxrdio label {
+        </details>
+        <details>
+          <summary>CSS</summary>
+          <pre><code>.provisional.gc-chckbxrdio label {
 	cursor: pointer;
 	display: block;
 	font-size: 20px;
@@ -386,45 +397,45 @@
 	transform: rotate(45deg);
 	width: 13px;
 }</code></pre>
-								</details>
-							</details>
-						</section>
-						<section>
-							<h3 id="small-checkboxes">Petites cases à cocher</h3>
-							<p><b>Utilisation&nbsp;:</b> Utiliser les petites cases à cocher uniquement lorsqu’il y a un seul élément à cocher, comme dans le cas d’une confirmation.</p>
-							<p><b>Quoi éviter&nbsp;:</b> Ne pas utiliser de petites cases à cocher pour les réponses à une question ou les listes de contrôle. Pour ces situations, utilisez plutôt les grandes cases à cocher :</p>
-							<ul>
-								<li><a href="#grandes-cases-a-cocher">Grandes cases à cocher</a></li>
-							</ul>
-							<p>Utilisez un bouton plutôt qu’une case à cocher lorsqu’il n'y a qu'un seul élément à cocher, particulièrement lorsqu’il s’agit de l’action principale de la page ou d’un élément permettant de passer à l’étape suivante.</p>
-							<ul>
-								<li><a href="./boutons.html">Boutons</a></li>
-							</ul>
-							<h4>Élément unique avec étiquette explicite dans un formulaire horizontal</h4>
-							<div class="panel panel-default pattern-demo">
-								<div class="panel-body">
-									<form class="form-inline" method="get" action="#">
-										<div class="form-group">
-											<label class="wb-inv" for="exampleInputEmail2">Courriel</label>
-											<input type="email" class="form-control" id="exampleInputEmail2" placeholder="Entrez votre courriel" />
-										</div>
-										<div class="form-group">
-											<label class="wb-inv" for="exampleInputPassword2">Mot de passe</label>
-											<input type="password" class="form-control" id="exampleInputPassword2" placeholder="Mot de passe" />
-										</div>
-										<div class="checkbox provisional gc-chckbxrdio">
-											<input id="remember2" type="checkbox" />
-											<label for="remember2">Se souvenir de moi</label>
-										</div>
-										<button type="submit" class="btn btn-default">Se connecter</button>
-									</form>
-								</div>
-							</div>
-							<details>
-								<summary>Code</summary>
-								<details>
-									<summary>HTML</summary>
-									<pre class="mrgn-tp-md"><code>&lt;form class="form-inline" method="get" action="#"&gt;
+        </details>
+      </details>
+    </section>
+    <section>
+      <h3 id="small-checkboxes">Petites cases à cocher</h3>
+      <p><b>Utilisation&nbsp;:</b> Utiliser les petites cases à cocher uniquement lorsqu’il y a un seul élément à cocher, comme dans le cas d’une confirmation.</p>
+      <p><b>Quoi éviter&nbsp;:</b> Ne pas utiliser de petites cases à cocher pour les réponses à une question ou les listes de contrôle. Pour ces situations, utilisez plutôt les grandes cases à cocher :</p>
+      <ul>
+        <li><a href="#grandes-cases-a-cocher">Grandes cases à cocher</a></li>
+      </ul>
+      <p>Utilisez un bouton plutôt qu’une case à cocher lorsqu’il n'y a qu'un seul élément à cocher, particulièrement lorsqu’il s’agit de l’action principale de la page ou d’un élément permettant de passer à l’étape suivante.</p>
+      <ul>
+        <li><a href="./boutons.html">Boutons</a></li>
+      </ul>
+      <h4>Élément unique avec étiquette explicite dans un formulaire horizontal</h4>
+      <div class="panel panel-default pattern-demo">
+        <div class="panel-body">
+          <form class="form-inline" method="get" action="#">
+            <div class="form-group">
+              <label class="wb-inv" for="exampleInputEmail2">Courriel</label>
+              <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Entrez votre courriel" />
+            </div>
+            <div class="form-group">
+              <label class="wb-inv" for="exampleInputPassword2">Mot de passe</label>
+              <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Mot de passe" />
+            </div>
+            <div class="checkbox provisional gc-chckbxrdio">
+              <input id="remember2" type="checkbox" />
+              <label for="remember2">Se souvenir de moi</label>
+            </div>
+            <button type="submit" class="btn btn-default">Se connecter</button>
+          </form>
+        </div>
+      </div>
+      <details>
+        <summary>Code</summary>
+        <details>
+          <summary>HTML</summary>
+          <pre class="mrgn-tp-md"><code>&lt;form class="form-inline" method="get" action="#"&gt;
 	&lt;div class="form-group"&gt;
 		&lt;label class="wb-inv" for="exampleInputEmail2"&gt;Courriel&lt;/label&gt;
 		&lt;input type="email" class="form-control" id="exampleInputEmail2" placeholder="Entrez votre courriel" /&gt;
@@ -439,10 +450,10 @@
 	&lt;/div&gt;
 	&lt;button type="submit" class="btn btn-default"&gt;Se connecter&lt;/button&gt;
 &lt;/form&gt;</code></pre>
-								</details>
-								<details>
-									<summary>CSS</summary>
-									<pre><code>.provisional.gc-chckbxrdio label {
+        </details>
+        <details>
+          <summary>CSS</summary>
+          <pre><code>.provisional.gc-chckbxrdio label {
 	cursor: pointer;
 	display: block;
 	font-size: 20px;
@@ -526,39 +537,39 @@
 	transform: rotate(45deg);
 	width: 13px;
 }</code></pre>
-								</details>
-							</details>
-						</section>
-						<section>
-							<h3>Boutons radio</h3>
-							<h4>Grands boutons radio avec étiquettes explicites</h4>
-							<p><b>Utilisation&nbsp;:</b> Utiliser des boutons radio lorsqu’une seule sélection peut être faite dans une liste.</p>
-							<div class="panel panel-default pattern-demo">
-								<div class="panel-body">
-									<fieldset class="provisional gc-chckbxrdio">
-										<legend>Quel est votre animal favori?&nbsp;:</legend>
-										<ul class="list-unstyled lst-spcd-2">
-											<li class="radio">
-												<input type="radio" name="animal" id="animal-1">
-												<label for="animal-1">Les chiens</label>
-											</li>
-											<li class="radio">
-												<input type="radio" name="animal" id="animal-2">
-												<label for="animal-2">Les chats</label>
-											</li>
-											<li class="radio">
-												<input type="radio" name="animal" id="animal-3">
-												<label for="animal-3">Les rats</label>
-											</li>
-										</ul>
-									</fieldset>
-								</div>
-							</div>
-							<details>
-								<summary>Code</summary>
-								<details>
-									<summary>HTML</summary>
-									<pre><code>&lt;fieldset class="gc-chckbxrio"&gt;
+        </details>
+      </details>
+    </section>
+    <section>
+      <h3>Boutons radio</h3>
+      <h4>Grands boutons radio avec étiquettes explicites</h4>
+      <p><b>Utilisation&nbsp;:</b> Utiliser des boutons radio lorsqu’une seule sélection peut être faite dans une liste.</p>
+      <div class="panel panel-default pattern-demo">
+        <div class="panel-body">
+          <fieldset class="provisional gc-chckbxrdio">
+            <legend>Quel est votre animal favori?&nbsp;:</legend>
+            <ul class="list-unstyled lst-spcd-2">
+              <li class="radio">
+                <input type="radio" name="animal" id="animal-1">
+                <label for="animal-1">Les chiens</label>
+              </li>
+              <li class="radio">
+                <input type="radio" name="animal" id="animal-2">
+                <label for="animal-2">Les chats</label>
+              </li>
+              <li class="radio">
+                <input type="radio" name="animal" id="animal-3">
+                <label for="animal-3">Les rats</label>
+              </li>
+            </ul>
+          </fieldset>
+        </div>
+      </div>
+      <details>
+        <summary>Code</summary>
+        <details>
+          <summary>HTML</summary>
+          <pre><code>&lt;fieldset class="gc-chckbxrio"&gt;
 	&lt;legend&gt;Quel est votre animal favori? &lt;small class="text-muted"&gt;(cases à cocher + explicit label, grande case)&lt;/small&gt;&lt;/legend&gt;
 	&lt;ul class="list-unstyled lst-spcd-2"&gt;
 		&lt;li class="radio"&gt;
@@ -575,10 +586,10 @@
 		&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/fieldset&gt;</code></pre>
-								</details>
-								<details>
-									<summary>CSS</summary>
-									<pre><code>.provisional.gc-chckbxrdio label {
+        </details>
+        <details>
+          <summary>CSS</summary>
+          <pre><code>.provisional.gc-chckbxrdio label {
 	cursor: pointer;
 	display: block;
 	font-size: 20px;
@@ -636,35 +647,35 @@
 .provisional.gc-chckbxrdio input[type="radio"]:checked + label::before {
 	background: #444;
 }</code></pre>
-								</details>
-							</details>
-							<h4>Grands boutons radio avec étiquettes explicites dans un formulaire horizontal</h4>
-							<div class="panel panel-default pattern-demo">
-								<div class="panel-body">
-									<fieldset class="provisional gc-chckbxrdio form-inline">
-										<legend>Veuillez choisir une option&nbsp;:</legend>
-										<div class="label-inline">
-											<input type="radio" id="inlineRadio1" name="optradio">
-											<label for="inlineRadio1">Option 1</label>
-										</div>
-										<div class="label-inline">
-											<input type="radio" id="inlineRadio2" name="optradio">
-											<label for="inlineRadio2">Option 2</label>
-										</div>
-										<div class="label-inline">
-											<input type="radio" id="inlineRadio3" name="optradio">
-											<label for="inlineRadio3">Option 3</label>
-										</div>
-									</fieldset>
-								</div>
-							</div>
-						</section>
-					</section>
-					<details>
-						<summary>Code</summary>
-						<details>
-							<summary>HTML</summary>
-							<pre><code>&lt;fieldset class="provisional gc-chckbxrdio form-inline"&gt;
+        </details>
+      </details>
+      <h4>Grands boutons radio avec étiquettes explicites dans un formulaire horizontal</h4>
+      <div class="panel panel-default pattern-demo">
+        <div class="panel-body">
+          <fieldset class="provisional gc-chckbxrdio form-inline">
+            <legend>Veuillez choisir une option&nbsp;:</legend>
+            <div class="label-inline">
+              <input type="radio" id="inlineRadio1" name="optradio">
+              <label for="inlineRadio1">Option 1</label>
+            </div>
+            <div class="label-inline">
+              <input type="radio" id="inlineRadio2" name="optradio">
+              <label for="inlineRadio2">Option 2</label>
+            </div>
+            <div class="label-inline">
+              <input type="radio" id="inlineRadio3" name="optradio">
+              <label for="inlineRadio3">Option 3</label>
+            </div>
+          </fieldset>
+        </div>
+      </div>
+    </section>
+  </section>
+  <details>
+    <summary>Code</summary>
+    <details>
+      <summary>HTML</summary>
+      <pre><code>&lt;fieldset class="provisional gc-chckbxrdio form-inline"&gt;
 	&lt;legend&gt;Veuillez choisir une option&nbsp;:&lt;/legend&gt;
 	&lt;div class="label-inline"&gt;
 		&lt;input type="radio" id="inlineRadio1" name="optradio"&gt;
@@ -679,10 +690,10 @@
 		&lt;label for="inlineRadio3"&gt;Option 3&lt;/label&gt;
 	&lt;/div&gt;
 &lt;/fieldset&gt;</code></pre>
-						</details>
-						<details>
-							<summary>CSS</summary>
-							<pre><code>.provisional.gc-chckbxrdio label {
+    </details>
+    <details>
+      <summary>CSS</summary>
+      <pre><code>.provisional.gc-chckbxrdio label {
 	cursor: pointer;
 	display: block;
 	font-size: 20px;
@@ -746,169 +757,159 @@
 .provisional.gc-chckbxrdio.form-inline .label-inline label {
 	padding-left: 10px;
 }</code></pre>
-						</details>
-					</details>
-					<section>
-						<h2 id="configurations">Options de configuration</h2>
-						<table class="table">
-							<thead>
-								<tr>
-									<th>Option</th>
-									<th>Description</th>
-									<th>Mode d’emploi de la configuration</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>Grandes cases à cocher</td>
-									<td>Conception des grandes cases à cocher et des boutons radio</td>
-									<td>Ajouter la classe <code>gc-chckbxrdio</code> à l'élément <code>fieldset</code> ou l'élément parent qui contient toutes les zones d'entrée de type checkbox/radio</td>
-								</tr>
-								<tr>
-									<td>Petites case à cocher</td>
-									<td>Utiliser les petites cases à cocher lorsqu’il n'y a qu'un seul élément à cocher, comme dans le cas d’une confirmation.</td>
-									<td>
-										<p>Pour des cases à cocher plus compactes, la classe <code>gc-chckbxrdio</code> doit être présente dans l'élément parent de la case à cocher avec la classe <code>checkbox</code></p>
-									</td>
-								</tr>
-								<tr>
-									<td>État de désactivation</td>
-									<td>Les entrées désactivées ne seront pas cliquables. Les indications visuelles comprennent le grisage de la commande et l’ajout d’une icône d’arrêt lorsque le pointeur de la souris est placé au-dessus de la commande.</td>
-									<td>Pour ajouter un état de désactivation, ajouter un attribut <code>disabled</code> à la zone d’entrée</td>
-								</tr>
-								<tr>
-									<td>Format horizontal</td>
-									<td>Les boutons radio ou les cases à cocher en ligne s’affichent côte à côte sur un écran plus grand et se poursuivent sur de nouvelles lignes, plutôt que d’être alignés verticalement.</td>
-									<td>Ajouter la classe <code>form-inline</code> à l'élément qui contient l'ensemble des cases à coher ou des boutons radio. Aussi ajouter la classe <code>label-inline</code> à chaque élément parent de case à cocher ou de bouton radio.</td>
-								</tr>
-							</tbody>
-						</table>
-					</section>
-					<h2 id="recherche">Recherche et blogue</h2>
-					<p>Nous avons testé avec succès l'utilisation listes à cocher interactives lors d'un projet d'optimisation avec l'Agence du revenu du Canada et pour la création de listes concernant les restrictions de voyage dues à la COVID-19.</dd>
-					</p>
-					<ul>
-						<li><a href="https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html">Utilisation de listes de vérification interactives pour simplifier les critères d’admissibilité</a> (blogue)</li>
-						<li><a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">Résumé de recherche : Communiquer avec l’ARC</a></li>
-				</ul>
-					<section>
-						<h2 id="derniers">Derniers changements</h2>
-						<dl class="dl-horizontal">
-							<dt>Version 0.1:<br><small><time datetime="2020-10-19" class="link-muted">21 octobre 2020</time></small></dt>
-							<dd>Lancé la version bêta des cases à cocher et boutons radio.</dd>
-						</dl>
-					</section>
-					<section>
-						<h2 id="discussion">Discussion</h2>
-						<p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuter de cette configuration dans GitHub</a></p>
-					</section>
-				</div>
-			</div>
-<!-- START PAGE FEEDBACK WIDGET -->
-<div class="row row-no-gutters mrgn-tp-xl">
-	<div class="col-sm-7 col-lg-6">
-		<section class="gc-pg-hlpfl provisional">
-			<div class="well mrgn-bttm-0">
-				<form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
-					<input type="hidden" name="institutionopt" value="tbs">
-					<input type="hidden" name="themeopt" value="Policies">
-					<input type="hidden" name="language" value="FR">
-					<input type="hidden" name="pageTitle" value="Concevoir du contenu pour Canada.ca">
-					<input type="hidden" name="submissionPage"
+    </details>
+  </details>
+  <section>
+    <h2 id="configurations">Options de configuration</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Option</th>
+          <th>Description</th>
+          <th>Mode d’emploi de la configuration</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Grandes cases à cocher</td>
+          <td>Conception des grandes cases à cocher et des boutons radio</td>
+          <td>Ajouter la classe <code>gc-chckbxrdio</code> à l'élément <code>fieldset</code> ou l'élément parent qui contient toutes les zones d'entrée de type checkbox/radio</td>
+        </tr>
+        <tr>
+          <td>Petites case à cocher</td>
+          <td>Utiliser les petites cases à cocher lorsqu’il n'y a qu'un seul élément à cocher, comme dans le cas d’une confirmation.</td>
+          <td><p>Pour des cases à cocher plus compactes, la classe <code>gc-chckbxrdio</code> doit être présente dans l'élément parent de la case à cocher avec la classe <code>checkbox</code></p></td>
+        </tr>
+        <tr>
+          <td>État de désactivation</td>
+          <td>Les entrées désactivées ne seront pas cliquables. Les indications visuelles comprennent le grisage de la commande et l’ajout d’une icône d’arrêt lorsque le pointeur de la souris est placé au-dessus de la commande.</td>
+          <td>Pour ajouter un état de désactivation, ajouter un attribut <code>disabled</code> à la zone d’entrée</td>
+        </tr>
+        <tr>
+          <td>Format horizontal</td>
+          <td>Les boutons radio ou les cases à cocher en ligne s’affichent côte à côte sur un écran plus grand et se poursuivent sur de nouvelles lignes, plutôt que d’être alignés verticalement.</td>
+          <td>Ajouter la classe <code>form-inline</code> à l'élément qui contient l'ensemble des cases à coher ou des boutons radio. Aussi ajouter la classe <code>label-inline</code> à chaque élément parent de case à cocher ou de bouton radio.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+  <h2 id="recherche">Recherche et blogue</h2>
+  <p>Nous avons testé avec succès l'utilisation listes à cocher interactives lors d'un projet d'optimisation avec l'Agence du revenu du Canada et pour la création de listes concernant les restrictions de voyage dues à la COVID-19.</p>
+  <ul>
+    <li><a href="https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html">Utilisation de listes de vérification interactives pour simplifier les critères d’admissibilité</a> (blogue)</li>
+    <li><a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">Résumé de recherche : Communiquer avec l’ARC</a></li>
+  </ul>
+  <section>
+    <h2 id="derniers">Derniers changements</h2>
+    <dl class="dl-horizontal">
+      <dt>Version 0.1:<br>
+        <small>
+        <time datetime="2020-10-19" class="link-muted">21 octobre 2020</time>
+        </small></dt>
+      <dd>Lancé la version bêta des cases à cocher et boutons radio.</dd>
+    </dl>
+  </section>
+  <section>
+    <h2 id="discussion">Discussion</h2>
+    <p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuter de cette configuration dans GitHub</a></p>
+  </section>
+  
+  <!-- START PAGE FEEDBACK WIDGET -->
+  <div class="row row-no-gutters mrgn-tp-xl">
+    <div class="col-sm-7 col-lg-6">
+      <section class="gc-pg-hlpfl provisional">
+        <div class="well mrgn-bttm-0">
+          <form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
+            <input type="hidden" name="institutionopt" value="tbs">
+            <input type="hidden" name="themeopt" value="Policies">
+            <input type="hidden" name="language" value="FR">
+            <input type="hidden" name="pageTitle" value="Concevoir du contenu pour Canada.ca">
+            <input type="hidden" name="submissionPage"
 						value="https://conception.canada.ca/configurations-conception-communes/cases-cocher-boutons-radio.html">
-					<input type="hidden" name="sectionopt" value="Design system">
-
-
-					<input type="hidden" id="helpful" name="helpful" value="Yes">
-
-					<div class="gc-pg-hlpfl-btn">
-						<div class="row row-no-gutters">
-							<div class="col-xs-12 col-sm-7 mrgn-tp-sm">
-								<h2 class="mrgn-tp-sm h5">Avez-vous trouvé ce que vous cherchiez?</h2>
-							</div>
-							<div class="col-xs-8 col-sm-5 text-right">
-								<button id="btnyes" type="submit" value="Yes" class="btn btn-primary">Oui</button>
-								<button id="btnno" type="button"
+            <input type="hidden" name="sectionopt" value="Design system">
+            <input type="hidden" id="helpful" name="helpful" value="Yes">
+            <div class="gc-pg-hlpfl-btn">
+              <div class="row row-no-gutters">
+                <div class="col-xs-12 col-sm-7 mrgn-tp-sm">
+                  <h2 class="mrgn-tp-sm h5">Avez-vous trouvé ce que vous cherchiez?</h2>
+                </div>
+                <div class="col-xs-8 col-sm-5 text-right">
+                  <button id="btnyes" type="submit" value="Yes" class="btn btn-primary">Oui</button>
+                  <button id="btnno" type="button"
 									class="btn btn-primary mrgn-lft-sm nojs-hide">Non</button>
-							</div>
-						</div>
-					</div>
-					<p class="h3 hidden nojs-show">Sinon, dites nous pourquoi&nbsp;:</p>
-					<div class="gc-pg-hlpfl-no nojs-show">
-						<fieldset>
-							<legend class="h4 mrgn-tp-0 mrgn-bttm-md">Qu’est-ce qui n’allait pas?</legend>
-							<div class="radio">
-								<label for="problem1">
-									<input name="problem" id="problem1" type="radio"
+                </div>
+              </div>
+            </div>
+            <p class="h3 hidden nojs-show">Sinon, dites nous pourquoi&nbsp;:</p>
+            <div class="gc-pg-hlpfl-no nojs-show">
+              <fieldset>
+                <legend class="h4 mrgn-tp-0 mrgn-bttm-md">Qu’est-ce qui n’allait pas?</legend>
+                <div class="radio">
+                  <label for="problem1">
+                    <input name="problem" id="problem1" type="radio"
 										value="Je ne peux pas trouver l’information"
 										data-gc-analytics-wtph-value="I can't find the information-Je ne peux pas trouver l'information"
 										data-gc-analytics-collect="notPrivate">
-									Je ne peux pas <strong>trouver</strong> l’information
-								</label>
-							</div>
-							<div class="radio">
-								<label for="problem2">
-									<input name="problem" id="problem2" type="radio"
+                    Je ne peux pas <strong>trouver</strong> l’information </label>
+                </div>
+                <div class="radio">
+                  <label for="problem2">
+                    <input name="problem" id="problem2" type="radio"
 										value="L'information est difficile à comprendre"
 										data-gc-analytics-wtph-value="The information is hard to understand-J'ai trouvé l'information difficile à comprendre"
 										data-gc-analytics-collect="notPrivate">
-									L'information est difficile à <strong>comprendre</strong>
-								</label>
-							</div>
-							<div class="radio">
-								<label for="problem3">
-									<input name="problem" id="problem3" type="radio"
+                    L'information est difficile à <strong>comprendre</strong> </label>
+                </div>
+                <div class="radio">
+                  <label for="problem3">
+                    <input name="problem" id="problem3" type="radio"
 										value="Il y avait une erreur / quelque chose ne fonctionnait pas"
 										data-gc-analytics-wtph-value="There was an error or something didn't work-Il y avait une erreur our quelque chose ne fonctionnait pas"
 										data-gc-analytics-collect="notPrivate">
-									Il y avait une erreur / quelque chose <strong>ne fonctionnait pas</strong>
-								</label>
-							</div>
-							<div class="radio">
-								<label for="problem4">
-									<input name="problem" id="problem4" type="radio" value="Other reason"
+                    Il y avait une erreur / quelque chose <strong>ne fonctionnait pas</strong> </label>
+                </div>
+                <div class="radio">
+                  <label for="problem4">
+                    <input name="problem" id="problem4" type="radio" value="Other reason"
 										data-gc-analytics-wtph-value="Other reason-Autre raison"
 										data-gc-analytics-collect="notPrivate">
-									Autre raison
-								</label>
-							</div>
-						</fieldset>
-						<label for="problem6" class="mrgn-bttm-0">Veuillez fournir plus de détails</label>
-						<p class="small">
-							<strong>Vous ne recevrez aucune réponse. Les numéros de téléphone et les adresses
-								électroniques seront supprimés.</strong>
-							<br>
-							<span class="small">Maximum de 300 caractères</span>
-						</p>
-						<textarea id="problem6" name="details" class="full-width" maxlength="300"></textarea>
-						<button type="submit" value="No"
+                    Autre raison </label>
+                </div>
+              </fieldset>
+              <label for="problem6" class="mrgn-bttm-0">Veuillez fournir plus de détails</label>
+              <p class="small"> <strong>Vous ne recevrez aucune réponse. Les numéros de téléphone et les adresses
+                électroniques seront supprimés.</strong> <br>
+                <span class="small">Maximum de 300 caractères</span> </p>
+              <textarea id="problem6" name="details" class="full-width" maxlength="300"></textarea>
+              <button type="submit" value="No"
 							class="btn btn-primary mrgn-tp-md mrgn-bttm-sm">Soumettre</button>
-					</div>
-				</form>
-				<div class="gc-pg-hlpfl-thnk hide">
-					<p class="h6 mrgn-tp-sm mrgn-bttm-sm"><span class="far fa-check-circle text-success mrgn-rght-sm"
+            </div>
+          </form>
+          <div class="gc-pg-hlpfl-thnk hide">
+            <p class="h6 mrgn-tp-sm mrgn-bttm-sm"><span class="far fa-check-circle text-success mrgn-rght-sm"
 							aria-hidden="true"></span> Merci de vos commentaires</p>
-				</div>
-			</div>
-		</section>
-	</div>
-	<div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
-		<div class="wb-share"
-			data-wb-share="{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}">
-		</div>
-	</div>
-</div>
-<!-- END PAGE FEEDBACK WIDGET -->
-				<div class="pagedetails">
-					<dl id="wb-dtmd">
-						<dt>Date de modification :</dt>
-						<dd><time property="dateModified">2021-04-22</time></dd>
-					</dl>
-				</div>
-		</main>
-		{% include footer-fr.html %}
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
-		<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
-		<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
-	</body>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
+      <div class="wb-share"
+			data-wb-share="{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}"> </div>
+    </div>
+  </div>
+  <!-- END PAGE FEEDBACK WIDGET -->
+  <div class="pagedetails">
+    <dl id="wb-dtmd">
+      <dt>Date de modification :</dt>
+      <dd>
+        <time property="dateModified">2021-04-22</time>
+      </dd>
+    </dl>
+  </div>
+</main>
+{% include footer-fr.html %} 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script> 
+<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script> 
+<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+</body>
 </html>
