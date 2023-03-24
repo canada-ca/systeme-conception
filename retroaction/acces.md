@@ -1,5 +1,5 @@
 ---
-altLangPage: https://design.canada.ca/feedback/index.html
+altLangPage: https://design.canada.ca/feedback/access-feedback.html
 breadcrumbs:
   - title: À propos de Canada.ca
     link: https://www.canada.ca/fr/gouvernement/a-propos.html
@@ -22,7 +22,7 @@ title: Comment accéder à la rétroaction sur la page
 </ul>
 </div>
 </div>
-			    
+
 L’outil de rétroaction sur la page en est encore à la phase pilote. Cela signifie que vous pouvez utiliser l’outil, mais sachez que son apparence ou son codage pourrait changer ultérieurement.
 
 ## Sur cette page
@@ -51,8 +51,8 @@ Le visualiseur de rétroaction comprend des filtres qui vous permettent d’acc�
 *   URL
 *   Langue
 *   Recherche dans les champs de rétroaction
-						
-						
+
+
 <details>
 <summary>Image du visualiseur de rétroaction</summary>
 <p><img src="images/feedback-viewer.png" alt="Image du visualiseur de rétroaction" class="img-responsive"/></p>

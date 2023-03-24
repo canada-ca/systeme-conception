@@ -1,5 +1,5 @@
 ---
-altLangPage: https://design.canada.ca/feedback/index.html
+altLangPage: https://design.canada.ca/feedback/benefits.html
 breadcrumbs:
   - title: À propos de Canada.ca
     link: https://www.canada.ca/fr/gouvernement/a-propos.html

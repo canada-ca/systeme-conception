@@ -1,5 +1,5 @@
 ---
-altLangPage: https://design.canada.ca/feedback/index.html
+altLangPage: https://design.canada.ca/feedback/support.html
 breadcrumbs:
   - title: À propos de Canada.ca
     link: https://www.canada.ca/fr/gouvernement/a-propos.html
@@ -27,5 +27,3 @@ Adresse courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 Le groupe de travail sur l’outil de rétroaction sur la page guide l’orientation de l’outil. Les membres du groupe de travail apportent leur contribution et définissent la stratégie à suivre pour l’outil.
 
 Adresse courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-
-	
