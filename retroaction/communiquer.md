@@ -29,7 +29,7 @@ title: Partager les idées tirées de la rétroaction
 *   [Modèles de diapositives et de graphiques](#modèles-de-diapositives-et-de-graphiques)
 *   [Affichage des résultats avant et après](#affichage-des-résultats-avant-et-après)
 
-<a id="creation"></a>
+<a id="création"></a>
 ## Création d’un récit avec des données de rétroaction
 
 Pour obtenir de bonnes idées et y donner suite, il faut :
