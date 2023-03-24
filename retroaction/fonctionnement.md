@@ -55,7 +55,7 @@ L’outil de rétroaction invite les visiteurs à :
 <details>
 			<summary>Image du pied de page de Canada.ca avec l'outil de rétroaction</summary>
 			<figure class="mrgn-tp-lg">
-			<img class="img-responsive border" alt="Image du pied de page, avec l'outil de rétroaction placé après le contenu de la page et avant la date modifiée" src="images/footer_feedback_EN.png" />
+			<img class="img-responsive border" alt="Image du pied de page, avec l'outil de rétroaction placé après le contenu de la page et avant la date modifiée" src="images/footer-feedback-fr.png" />
 			</figure>
 </details>
 
