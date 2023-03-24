@@ -66,14 +66,8 @@ L’outil de rétroaction invite les visiteurs à :
 			</figure>
 			<details>
 			<summary>Outil de rétroaction</summary>
-			<p>Une rubrique intitulée « Ce qui n’allait pas » est suivie d’options à sélectionner :</p>
-			<ul>
-			<li>Je ne peux pas trouver le renseignement</li>
-			<li>Le renseignement est difficile à comprendre</li>
-			<li>Il y a eu une erreur ou quelque chose n’a pas fonctionné</li>
-			<li>Autre raison</li>
-			</ul>
-			<p>Puis, il y a le texte « Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum 300 caractères », suivi d’un champ de texte pour fournir plus de détails.</p>
+		
+			<p>Il y a le texte « Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum 300 caractères », suivi d’un champ de texte pour fournir plus de détails.</p>
 			
 </details>
 </details>
