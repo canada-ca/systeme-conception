@@ -20,14 +20,15 @@ title: Quand utiliser l’outil de rétroaction sur la page
 </ul>
 </div>
 </div>
-			    
+
 ## Sur cette page
 
-*   [Cas d’utilisation de l’outil de rétroaction sur la page](#cas-d&rsquo;utilisation-de-l&rsquo;outil-de-rétroaction)
+*   [Cas d’utilisation de l’outil de rétroaction sur la page](#cas)
 *   [Attentes et engagement](#attentes-et-engagement)
-*   [Comment ne pas utiliser l’outil de rétroaction]("#comment-ne-pas-utiliser-l'outil-de-rétroaction")
+*   [Comment ne pas utiliser l’outil de rétroaction]("#ne-pas-utiliser")
 
-## Cas d&rsquo;utilisation de l&rsquo;outil de rétroaction sur la page
+<a id="cas"></a>
+## Cas d'utilisation de loutil de rétroaction sur la page
 
 Envisagez d’utiliser l’outil de rétroaction sur la page pour :
 
@@ -48,6 +49,7 @@ Il est important de s’engager à lire et à examiner la rétroaction soumise e
 
 Dans certains cas, les gens donneront leur avis sur un certain programme ou une certaine politique. Le traitement d’une question de politique dépasse le champ d’action des équipes Web. Il est donc important de communiquer cette rétroaction à des collègues responsables des programmes et des politiques.
 
+<a id="ne-pas-utiliser"></a>
 ## Comment ne pas utiliser l’outil de rétroaction
 
 L’outil de rétroaction ne doit pas être utilisé aux fins suivantes :
@@ -79,7 +81,7 @@ Nous ne recommandons pas de garder l’outil de rétroaction sur une page contin
 ### Espaces sécurisés
 
 Nous ne recommandons pas l'utilisation de l'outil dans les espaces sécurisés. Dans ces espaces, il est préférable de s'assurer que les utilisateurs ont un accès clair aux canaux d'assistance directe.					
-					 
+
 <nav role="navigation" class="mrgn-bttm-lg">
 <ul class="pager">
 <li class="next"><a href="ameliorer.html" rel="next">Suivant : Comment la rétroaction peut aider</a></li>
