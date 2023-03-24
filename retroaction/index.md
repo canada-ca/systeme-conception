@@ -57,7 +57,7 @@ L’outil de rétroaction sur la page est un <strong>outil de recherche</strong>
 
 <div class="col-md-4">
 <section>
-<h3><a href="../design-system/design-patterns/page-feedback.html">Mise en œuvre</a></h3>
+<h3><a href="../systeme-conception/configurations-conception-communes/outil-de-retroaction.html">Mise en œuvre</a></h3>
 <p><mark>link to French once pattern is ok'd and translated</mark> Obtenez le code pour mettre en œuvre l’outil de rétroaction sur votre site</p>
 </section>
 </div>
