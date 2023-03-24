@@ -25,7 +25,7 @@ title: Quand utiliser l’outil de rétroaction sur la page
 
 *   [Cas d’utilisation de l’outil de rétroaction sur la page](#cas)
 *   [Attentes et engagement](#attentes-et-engagement)
-*   [Comment ne pas utiliser l’outil de rétroaction]("#ne-pas-utiliser")
+*   [Comment ne pas utiliser l’outil de rétroaction](#ne-pas-utiliser)
 
 <a id="cas"></a>
 ## Cas d'utilisation de loutil de rétroaction sur la page
