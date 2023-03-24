@@ -49,20 +49,20 @@ L’outil de rétroaction est un **modèle facultatif**. Ajoutez-le au bas d’u
 L’outil de rétroaction invite les visiteurs à :
 
 *   indiquer s’ils ont trouvé ce qu’ils cherchaient (oui / non)
-*   indicate a reason for why not
-*   offer their feedback describing the problem
+*   donner leur avis en décrivant le problème
+
 
 <details>
 			<summary>Image du pied de page de Canada.ca avec l'outil de rétroaction</summary>
 			<figure class="mrgn-tp-lg">
-			<img class="img-responsive border" alt="Image du pied de page, avec l'outil de rétroaction placé après le contenu de la page et avant la date modifiée" src="/images/footer_feedback_EN.png" />
+			<img class="img-responsive border" alt="Image du pied de page, avec l'outil de rétroaction placé après le contenu de la page et avant la date modifiée" src="images/footer_feedback_EN.png" />
 			</figure>
 </details>
 
 <details>
 			<summary>Image des options après avoir cliqué sur « Non »</summary>
 			<figure class="mrgn-tp-lg">
-			<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/images/description-fr.jpg" />
+			<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="images/description-fr.jpg" />
 			</figure>
 			<details>
 			<summary>Outil de rétroaction</summary>
