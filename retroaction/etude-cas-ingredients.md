@@ -34,11 +34,11 @@ Les commentaires concernant les ingrédients sur la page « Ce que vous devez 
 
 Le lien vers les ingrédients à partir de la navigation « Sur cette page » est devenu le deuxième lien le plus utilisé sur la page après l’ajout.
 
-			<figure class="gc-complex-img" role="group">
-			  <img alt="Une longue description peut être trouvée après l'image." src="https://d33wubrfki0l68.cloudfront.net/089065ffe5c8fea339c60eb88f22690d18629a74/d8e4e/images/action-2.png" />
-			  <figcaption><details>
-			      <summary>Rétroaction sur la liste d’ingrédients</summary>
-			      <table class="table">
+<figure class="gc-complex-img" role="group">
+<img alt="Une longue description peut être trouvée après l'image." src="https://d33wubrfki0l68.cloudfront.net/089065ffe5c8fea339c60eb88f22690d18629a74/d8e4e/images/action-2.png" />
+<figcaption><details>
+<summary>Rétroaction sur la liste d’ingrédients</summary>
+<table class="table">
 			    <tr>
 			      <th>Date</th>
 			      <th>Nombre de commentaires sur les ingrédients et les allergies</th>
@@ -55,9 +55,11 @@ Le lien vers les ingrédients à partir de la navigation « Sur cette page �
 			      <td>15 décembre 2020</td>
 			      <td>2</td>
 			    </tr>
-			  </table>
-			    </details></figcaption>
-			</figure>
+</table>
+</details>
+</figcaption>
+</figure>
+
 
 ## En savoir plus
 
