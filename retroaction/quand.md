@@ -11,37 +11,37 @@ dateModified: 2023-02-28
 layout: default
 title: Quand utiliser l’outil de rétroaction sur la page
 ---
+
 <div class="gc-stp-stp">
-<div class="row">
-<ul class="toc lst-spcd col-md-12">
-<li class="col-md-4 col-sm-6"><a class="list-group-item" href="fonctionnement.html">Fonctionnement de l’outil</a></li>
-<li class="col-md-4 col-sm-6"><a class="list-group-item active" href="quand.html">Quand utiliser l’outil de rétroaction</a></li>
-<li class="col-md-4 col-sm-6"><a class="list-group-item" href="ameliorer.html">Comment la rétroaction peut aider</a></li>
-</ul>
-</div>
+  <div class="row">
+    <ul class="toc lst-spcd col-md-12">
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="fonctionnement.html">Fonctionnement de l’outil</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="quand.html">Quand utiliser l’outil de rétroaction</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="ameliorer.html">Comment la rétroaction peut aider</a></li>
+    </ul>
+  </div>
 </div>
 
 ## Sur cette page
 
-*   [Cas d’utilisation de l’outil de rétroaction sur la page](#cas)
-*   [Attentes et engagement](#attentes-et-engagement)
-*   [Comment ne pas utiliser l’outil de rétroaction](#ne-pas-utiliser)
+* [Cas d’utilisation de l’outil de rétroaction sur la page](#cas-d-utilisation-de-l-outil-de-r-troaction-sur-la-page)
+* [Attentes et engagement](#attentes-et-engagement)
+* [Comment ne pas utiliser l’outil de rétroaction](#ne-pas-utiliser)
 
-<a id="cas"></a>
 ## Cas d'utilisation de loutil de rétroaction sur la page
 
-Envisagez d’utiliser l’outil de rétroaction sur la page pour :
+Envisagez d’utiliser l’outil de rétroaction sur la page pour&nbsp;:
 
-*   découvrir des problèmes propres à la page qui modifient votre note sur le sondage sur la réussite des tâches du GC
-*   comprendre les problèmes de contenu des pages sur lesquelles vous travaillerez à l’avenir
-*   déterminer si les nouvelles pages ou existantes répondent aux besoins des utilisateurs
-*   déterminer les problèmes émergents
-*   assurer le suivi des améliorations de la page après leur mise en ligne
+* découvrir des problèmes propres à la page qui modifient votre note sur le sondage sur la réussite des tâches du GC
+* comprendre les problèmes de contenu des pages sur lesquelles vous travaillerez à l’avenir
+* déterminer si les nouvelles pages ou existantes répondent aux besoins des utilisateurs
+* déterminer les problèmes émergents
+* assurer le suivi des améliorations de la page après leur mise en ligne
 
-Nous recommandons d’utiliser l’outil de rétroaction lorsqu’il y a un engagement à lire la rétroaction et à prendre des mesures en fonction de celle-ci :
+Nous recommandons d’utiliser l’outil de rétroaction lorsqu’il y a un engagement à lire la rétroaction et à prendre des mesures en fonction de celle-ci&nbsp;:
 
-*   par rapport à des pages spécifiques;
-*   pendant une période définie
+* par rapport à des pages spécifiques;
+* pendant une période définie
 
 ## Attentes et engagement
 
@@ -49,18 +49,17 @@ Il est important de s’engager à lire et à examiner la rétroaction soumise e
 
 Dans certains cas, les gens donneront leur avis sur un certain programme ou une certaine politique. Le traitement d’une question de politique dépasse le champ d’action des équipes Web. Il est donc important de communiquer cette rétroaction à des collègues responsables des programmes et des politiques.
 
-<a id="ne-pas-utiliser"></a>
 ## Comment ne pas utiliser l’outil de rétroaction
 
-L’outil de rétroaction ne doit pas être utilisé aux fins suivantes :
+L’outil de rétroaction ne doit pas être utilisé aux fins suivantes&nbsp;:
 
 ### Évaluer le succès de la page en fonction des boutons oui/non
 
-L’outil de rétroaction tend surtout à recueillir des réponses « non » pour plusieurs raisons :
+L’outil de rétroaction tend surtout à recueillir des réponses «&nbsp;non&nbsp;» pour plusieurs raisons&nbsp;:
 
-*   Les êtres humains, de nature, ont un biais de négativité
-*   Nous ne recueillons que des commentaires si quelqu’un sélectionne « non ».
-*   S’ils avaient trouvé une réponse, ils n’auraient peut-être jamais atteint le bas de la page
+* Les êtres humains, de nature, ont un biais de négativité
+* Nous ne recueillons que des commentaires si quelqu’un sélectionne «&nbsp;non&nbsp;».
+* S’ils avaient trouvé une réponse, ils n’auraient peut-être jamais atteint le bas de la page
 
 ### Évaluer l’importance statistique de la rétroaction en fonction des visites de pages
 
@@ -83,7 +82,7 @@ Nous ne recommandons pas de garder l’outil de rétroaction sur une page contin
 Nous ne recommandons pas l'utilisation de l'outil dans les espaces sécurisés. Dans ces espaces, il est préférable de s'assurer que les utilisateurs ont un accès clair aux canaux d'assistance directe.					
 
 <nav role="navigation" class="mrgn-bttm-lg">
-<ul class="pager">
-<li class="next"><a href="ameliorer.html" rel="next">Suivant : Comment la rétroaction peut aider</a></li>
-</ul>
+  <ul class="pager">
+    <li class="next"><a href="ameliorer.html" rel="next">Suivant&nbsp;: Comment la rétroaction peut aider</a></li>
+  </ul>
 </nav>

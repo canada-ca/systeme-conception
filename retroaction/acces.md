@@ -13,21 +13,21 @@ title: Comment accéder à la rétroaction sur la page
 ---
 
 <div class="gc-stp-stp">
-<div class="row">
-<ul class="toc lst-spcd col-md-12">
-<li class="col-md-4 col-sm-6"><a class="list-group-item active" href="acces.html">Accéder à la rétroaction</a></li>
-<li class="col-md-4 col-sm-6"><a class="list-group-item" href="methodes.html">Analyser la rétroaction</a></li>
-<li class="col-md-4 col-sm-6"><a class="list-group-item" href="communiquer.html">Partager des idées</a></li>
-<li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qu’il faut améliorer</a></li>
-</ul>
-</div>
+  <div class="row">
+    <ul class="toc lst-spcd col-md-12">
+      <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="acces.html">Accéder à la rétroaction</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="methodes.html">Analyser la rétroaction</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="communiquer.html">Partager des idées</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qu’il faut améliorer</a></li>
+    </ul>
+  </div>
 </div>
 
 L’outil de rétroaction sur la page en est encore à la phase pilote. Cela signifie que vous pouvez utiliser l’outil, mais sachez que son apparence ou son codage pourrait changer ultérieurement.
 
 ## Sur cette page
-*   [Où la rétroaction est stockée](#où-la-rétroaction-est-stockée)
-*   [Comment accéder à la rétroaction](#comment-accéder-à-la-rétroaction)
+* [Où la rétroaction est stockée](#où-la-rétroaction-est-stockée)
+* [Comment accéder à la rétroaction](#comment-accéder-à-la-rétroaction)
 
 ## Où la rétroaction est stockée
 
@@ -39,27 +39,24 @@ On peut consulter et télécharger la rétroaction sous forme de fichiers CSV ou
 
 Le visualiseur de rétroaction est un environnement protégé par un mot de passe, accessible à tous les participants de la rétroaction sur les pages. Contactez le DTO pour accéder au site.
 
-Adresse courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-
+Adresse courriel&nbsp;: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 
 ### Filtres du visualiseur de rétroaction
 
-Le visualiseur de rétroaction comprend des filtres qui vous permettent d’accéder à une rétroaction en particulier et de la télécharger, notamment :
-
-*   Plage de dates
-*   Institution, thème et section de contenu
-*   URL
-*   Langue
-*   Recherche dans les champs de rétroaction
-
+Le visualiseur de rétroaction comprend des filtres qui vous permettent d’accéder à une rétroaction en particulier et de la télécharger, notamment&nbsp;:
+* Plage de dates
+* Institution, thème et section de contenu
+* URL
+* Langue
+* Recherche dans les champs de rétroaction
 
 <details>
-<summary>Image du visualiseur de rétroaction</summary>
-<p><img src="images/feedback-viewer.png" alt="Image du visualiseur de rétroaction" class="img-responsive"/></p>
+  <summary>Image du visualiseur de rétroaction</summary>
+  <p><img src="images/feedback-viewer.png" alt="Image du visualiseur de rétroaction" class="img-responsive"/></p>
 </details>
 
 <nav role="navigation" class="mrgn-bttm-lg">
-<ul class="pager">
-<li class="next"><a href="methodes.html" rel="next">Suivant : Méthodes d’analyse de la rétroaction</a></li>
-</ul>
+  <ul class="pager">
+    <li class="next"><a href="methodes.html" rel="next">Suivant&nbsp;: Méthodes d’analyse de la rétroaction</a></li>
+  </ul>
 </nav>

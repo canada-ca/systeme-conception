@@ -20,9 +20,9 @@ En décembre 2020, lorsque Santé Canada a approuvé le premier vaccin contre la
 
 Entre le 11 et le 14 décembre 2020, 60 % (87/144) de la rétroaction sur la page [Ce que vous devez savoir de Pfizer-BioNTech concernait les ingrédients et les allergies](https://www.canada.ca/en/health-canada/services/drugs-health-products/covid19-industry/drugs-vaccines-treatments/vaccines/pfizer-biontech.html).
 
-> « Je voulais connaître la liste d’ingrédients, car j’ai une allergie et je veux me faire vacciner à cet effet. »
+> «&nbsp;Je voulais connaître la liste d’ingrédients, car j’ai une allergie et je veux me faire vacciner à cet effet.&nbsp;»
 
-> « Où se trouve cette liste? »
+> «&nbsp;Où se trouve cette liste?&nbsp;»
 
 ## Ce qui a été fait
 
@@ -30,37 +30,37 @@ Voyant ce besoin des utilisateurs dans les données, Santé Canada a rapidement 
 
 ## Résultats
 
-Les commentaires concernant les ingrédients sur la page « Ce que vous devez savoir » de Pfizer-BioNTech sont passés de 35 le 13 décembre à 2 le lendemain de l’ajout de la liste d’ingrédients
+Les commentaires concernant les ingrédients sur la page «&nbsp;Ce que vous devez savoir&nbsp;» de Pfizer-BioNTech sont passés de 35 le 13 décembre à 2 le lendemain de l’ajout de la liste d’ingrédients
 
-Le lien vers les ingrédients à partir de la navigation « Sur cette page » est devenu le deuxième lien le plus utilisé sur la page après l’ajout.
+Le lien vers les ingrédients à partir de la navigation «&nbsp;Sur cette page&nbsp;» est devenu le deuxième lien le plus utilisé sur la page après l’ajout.
 
 <figure class="gc-complex-img" role="group">
-<img alt="Une longue description peut être trouvée après l'image." src="https://d33wubrfki0l68.cloudfront.net/089065ffe5c8fea339c60eb88f22690d18629a74/d8e4e/images/action-2.png" />
-<figcaption><details>
-<summary>Rétroaction sur la liste d’ingrédients</summary>
-<table class="table">
-			    <tr>
-			      <th>Date</th>
-			      <th>Nombre de commentaires sur les ingrédients et les allergies</th>
-			    </tr>
-			    <tr>
-			      <td>13 décembre 2020</td>
-			      <td>35</td>
-			    </tr>
-			    <tr>
-			      <td>14 décembre 2020</td>
-			      <td>16</td>
-			    </tr>
-			    <tr>
-			      <td>15 décembre 2020</td>
-			      <td>2</td>
-			    </tr>
-</table>
-</details>
-</figcaption>
+	<img alt="Une longue description peut être trouvée après l'image." src="./images/action-2.png" />
+	<figcaption>
+		<details>
+			<summary>Rétroaction sur la liste d’ingrédients</summary>
+			<table class="table">
+				<tr>
+					<th>Date</th>
+					<th>Nombre de commentaires sur les ingrédients et les allergies</th>
+				</tr>
+				<tr>
+          <td>13 décembre 2020</td>
+          <td>35</td>
+				</tr>
+				<tr>
+          <td>14 décembre 2020</td>
+          <td>16</td>
+				</tr>
+				<tr>
+          <td>15 décembre 2020</td>
+          <td>2</td>
+				</tr>
+			</table>
+		</details>
+	</figcaption>
 </figure>
-
 
 ## En savoir plus
 
-*   [Message sur le blogue : Exploiter les données pour améliorer le contenu](https://blogue.canada.ca/2021/02/04/les-donnees-a-laction.html)
+* [Message sur le blogue&nbsp;: Exploiter les données pour améliorer le contenu](https://blogue.canada.ca/2021/02/04/les-donnees-a-laction.html)
