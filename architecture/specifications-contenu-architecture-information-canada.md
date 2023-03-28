@@ -5,16 +5,9 @@ breadcrumbs:
     link: "https://www.canada.ca/fr/gouvernement/a-propos.html"
   - title: Système de conception de Canada.ca
     link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
-css:
-- https://design.canada.ca/css/split-h1.css
-- https://design.canada.ca/css/custom.css
-- https://use.fontawesome.com/releases/v5.15.4/css/all.css
-- https://prycrane.github.io/experimental/prycrane/datatables/css/datatables-fun.css
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "Les Spécifications du contenu et de l'architecture de l'information pour Canada.ca s’agit d’un manuel de conception qui fournit des modèles testés par l’utilisateur, des modèles de navigation d’architecture de l’information pour présenter et organiser le contenu pour le site Canada.ca."
-language: fr
-layout: default
 title: "Spécifications du contenu et de l’architecture de l'information pour Canada.ca"
 ---
 <p class="gc-byline"><strong>De : <a href="/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
