@@ -1,5 +1,5 @@
 ---
-altLangPage: "#"
+altLangPage: "https://design.canada.ca/architecture/templates.html"
 breadcrumbs:
   - title: À propos de Canada.ca
     link: "https://www.canada.ca/fr/gouvernement/a-propos.html"
