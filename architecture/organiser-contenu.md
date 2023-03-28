@@ -1,5 +1,5 @@
 ---
-altLangPage: "#"
+altLangPage: "https://design.canada.ca/architecture/organizing-content.html"
 breadcrumbs:
   - title: À propos de Canada.ca
     link: "https://www.canada.ca/fr/gouvernement/a-propos.html"
@@ -25,7 +25,7 @@ title: "Organiser le contenu dans Canada.ca"
         <li class="col-md-4"><a href="utilisation-concept-canadaca.html" class="list-group-item">Qui doit utiliser ce système</a> </li>
         <li class="col-md-4"><a href="elements-obligatoires.html" class="list-group-item">Éléments obligatoires</a> </li>
         <li class="col-md-4"><a href="organiser-contenu.html" class="list-group-item cust-active active">Organiser le contenu</a> </li>
-        <li class="col-md-4"><a href="/modeles.html" class="list-group-item">Concevoir le contenu</a> </li>
+        <li class="col-md-4"><a href="modeles.html" class="list-group-item">Concevoir le contenu</a> </li>
       </ul>
     </div>
   </div>
