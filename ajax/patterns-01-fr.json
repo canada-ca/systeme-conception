@@ -421,7 +421,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/utilisation-concept-canadaca.html\">Qui doit utiliser ce système de conception</a>",
+      "NAME": "<a href=\"https://conception.canada.ca/architecture/utilisation-concept-canadaca.html\">Qui doit utiliser ce système de conception</a>",
       "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
       "DESCRIPTION": "Quelles institutions doivent utiliser le système de conception de Canada.ca pour leur présence sur le Web",
       "WHENTOUSE": "",
@@ -431,7 +431,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html\">Éléments obligatoires</a>",
+      "NAME": "<a href=\"https://conception.canada.ca/architecture/elements-obligatoires.html\">Éléments obligatoires</a>",
       "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
       "DESCRIPTION": "Ce que chaque institution doit suivre : Couleurs, typographie, en-tête et pied de page, modèles obligatoires",
       "WHENTOUSE": "",
@@ -441,7 +441,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
+      "NAME": "<a href=\"https://conception.canada.ca/architecture/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
       "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
       "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
       "WHENTOUSE": "",
@@ -451,7 +451,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
+      "NAME": "<a href=\"https://conception.canada.ca/architecture/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
       "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
       "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
       "WHENTOUSE": "",
@@ -461,7 +461,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html#toc3\">Modèle d'URL</a>",
+      "NAME": "<a href=\"https://conception.canada.ca/architecture/organiser-contenu.html#toc3\">Modèle d'URL</a>",
       "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
       "DESCRIPTION": "Modèle d'URL Canada.ca",
       "WHENTOUSE": "",
@@ -471,7 +471,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/modeles.html#principes\">Principes de conception de Canada.ca</a>",
+      "NAME": "<a href=\"https://conception.canada.ca/architecture/modeles.html#principes\">Principes de conception de Canada.ca</a>",
       "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
       "DESCRIPTION": "Principes de conception de Canada.ca",
       "WHENTOUSE": "",
