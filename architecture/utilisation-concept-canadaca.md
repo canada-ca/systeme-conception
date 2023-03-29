@@ -6,7 +6,7 @@ breadcrumbs:
   - title: Système de conception de Canada.ca
     link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
   - title: Spécifications du contenu et de l'architecture de l'information pour Canada.ca
-    link: "https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html"
+    link: "{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html"
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "Les exigences énumérées dans ce document s’appliquent aux ministères et aux autres parties de l’administration publique établie comme l’établissent les annexes I, I.1 et II de la Loi sur la gestion finances. Par conséquent, les institutions de la portée doivent appliquer les exigences en matière de conception de Canada.ca pour tous les sites Web ou toutes les services numériques."
