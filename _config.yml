@@ -7,11 +7,13 @@ analytics:
 baseurl: ""
 global:
   contextualFooter:
-    title: Bureau de la transformation numérique (BTN)
-    links: 
-      - url: "mailto:dto.btn@tbs-sct.gc.ca"
-        text: Contactez-nous
-  lang: fr
+    title:
+      fr: Bureau de la transformation numérique (BTN)
+    links:
+      fr:
+        - url: "mailto:dto.btn@tbs-sct.gc.ca"
+          text: Contactez-nous
+lang: fr
 plugins:
   - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll
@@ -23,4 +25,7 @@ defaults:
   - scope:
       path: "" # Ensure it's applied to all pages
     values:
+      css:
+        - /css/split-h1.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
       pageclass: cnt-wdth-lmtd
