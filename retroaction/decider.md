@@ -26,8 +26,8 @@ Vous ne pourrez pas tout améliorer. Certaines tâches sont beaucoup plus import
 
 ## Sur cette page
 
-* [Déterminer les tâches qui présentent des problèmes](#déterminer--les-tâches-qui-présentent-des-problèmes)
-* [Recherche de problèmes affectant ces tâches](#recherche-de problèmes-affectant-ces-tâches)
+* [Déterminer les tâches qui présentent des problèmes](#déterminer-les-tâches-qui-présentent-des-problèmes)
+* [Recherche de problèmes affectant ces tâches](#recherche-de-problèmes-affectant-ces-tâches)
 * [Hiérarchisation des problèmes à résoudre](#hiérarchisation-des-problèmes-à-résoudre)
 * [Déterminer ce qui est faisable](#déterminer-ce-qui-est-faisable)
 
