@@ -13,9 +13,9 @@ date: 2022-11-30
 dateModified: 2023-04-06
 description: "Il s’agit d’un élément du pied de page général (à l’échelle du site) qui est obligatoire dans les pages standard."
 layout: default
-title: "Bande contextuelle de pied de page"
+title: "Pied de page général&nbsp;: Bande principale"
 ---
-<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-02-08</p>
+<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-04-06</p>
 <section>
   <p><span class="label label-danger">Obligatoire dans les pages régulières </span></p>
   <p>La bande principale du pied de page est l’élément principal du pied de page général. Elle contient des liens vers la
