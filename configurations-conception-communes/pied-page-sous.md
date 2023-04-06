@@ -135,8 +135,8 @@ title: "Pied de page général&nbsp;: Bande sous pied de page"
       <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-main-fr.html">Bande principale et bande sous pied de page sans les liens facultatifs</a></li>
       <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-main-fr.html">Bande contextuelle et bande sous pied de page</a></li>
       <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-contextual-fr.html">Bande contextuelle et bande sous pied de page sans les liens facultatifs</a></li>
-      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-corporate-fr.html">Bande sous pieds de page uniquement</a></li>
-      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footers-fr.html">Bande sous pieds pied de page sans liens facultatifs</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-corporate-fr.html">Uniquement la bande sous pied de page</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footers-fr.html">Uniquement la bande sous pied de page sans liens facultatifs</a></li>
     </ul>
   </section>
   <section>
