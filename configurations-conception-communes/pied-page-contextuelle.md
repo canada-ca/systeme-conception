@@ -13,7 +13,7 @@ date: 2022-11-30
 dateModified: 2023-04-06
 description: "Il s’agit d’un élément facultatif du pied de page général (à l’échelle du site)."
 layout: default
-title: "Bande contextuelle de pied de page"
+title: "Pied de page général&nbsp;: Bande contextuelle"
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-04-06</p>
 <section>
