@@ -111,10 +111,24 @@ title: "Pied de page général&nbsp;: Bande contextuelle"
   </section>
   <section>
     <h2 id="comment">Comment mettre en œuvre</h2>
-    <p>Vérifiez quels éléments du pied de page global sont obligatoires pour le type de page que vous construisez avant de procéder à la mise en œuvre de ce modèle.</p>
+    <p>Trouvez des exemples pratiques et du code pour mettre en œuvre le pied de page.</p>
+    <h3>Référence de mise en oeuvre du thème GCWeb</h3>
+    <h4>Norme</h4>
     <ul>
-      <li><a href="./pied-page.html#utiliser">Pied de page général&nbsp;: Quand utiliser</a></li>
-      <li><a href="./pied-page.html#comment">Pied de page général&nbsp;: Comment mettre en œuvre</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-contextual-fr.html">Bande principale et bande sous pied de page</a></li>
+    </ul>
+    <h4>Mise en œuvre alternée pour les pages régulières</h4>
+    <ul>
+      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/footers-fr.html">Pied de page complet (bande contextuelle, bande principale et bande sous de pied de page)</a></li>
+    </ul>
+    <h4>Mises en œuvre alternatives pour les pages transactionnelles et les pages de campagne</h4>
+    <ul>
+      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/footers-fr.html">Pied de page complet (bande contextuelle, bande principale et bande sous de pied de page)</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-main-fr.html">Bande principale et bande sous pied de page sans les liens facultatifs</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-main-fr.html">Bande contextuelle et bande sous pied de page</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-contextual-fr.html">Bande contextuelle et bande sous pied de page sans les liens facultatifs</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/only-footer-corporate-fr.html">Uniquement la bande sous pied de page</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footers-fr.html">Uniquement la bande sous pied de page sans liens facultatifs</a></li>
     </ul>
   </section>
   <section>
