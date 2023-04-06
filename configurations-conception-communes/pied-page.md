@@ -5,6 +5,8 @@ breadcrumbs:
     link: "https://www.canada.ca/fr/gouvernement/a-propos.html"
   - title: Système de conception de Canada.ca
     link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+  - title: Bibliothèque de modèles et de configurations de conception
+    link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
 date: 2019-01-08
 dateModified: 2023-04-06
 description: "Le pied de page général (à l’échelle du site) qui se trouve au bas de chaque page. Il comprend la bande principale, une bande contextuelle et une bande sous pied de page. Il s’agit d’un modèle obligatoire avec des éléments facultatifs."
