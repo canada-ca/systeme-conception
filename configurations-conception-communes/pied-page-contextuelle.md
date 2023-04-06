@@ -15,7 +15,7 @@ description: "Il s’agit d’un élément facultatif du pied de page général 
 layout: default
 title: "Bande contextuelle de pied de page"
 ---
-<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-02-08</p>
+<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-04-06</p>
 <section>
   <p><span class="label label-info">Optionnel</span></p>
   <p>La bande contextuelle de pied de page est un élément facultatif du pied de page général.</p>
