@@ -5,6 +5,10 @@ breadcrumbs:
     link: "https://www.canada.ca/fr/gouvernement/a-propos.html"
   - title: Système de conception de Canada.ca
     link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+  - title: Bibliothèque de modèles et de configurations de conception
+    link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+  - title: Pied de page général
+    link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/pied-page.html"	
 date: 2022-11-30
 dateModified: 2023-04-06
 description: "Il s’agit d’un élément facultatif du pied de page général (à l’échelle du site)."
