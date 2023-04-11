@@ -26,6 +26,17 @@ defaults:
       path: "" # Ensure it's applied to all pages
     values:
       css:
-        - ./css/split-h1.css
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css    
+        - /css/split-h1.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
       pageclass: cnt-wdth-lmtd
+  - scope:
+      path: "sondage"
+    values:
+      breadcrumbs:
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Analyses, sondage et commentaires
+        link: https://www.canada.ca/fr/analytique.html
+      - title: Sondage sur la réussite des tâches
+        link: sondage/index.html
+      layout: default
