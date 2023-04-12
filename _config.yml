@@ -12,7 +12,6 @@ global:
     links:
       fr:
         - url: "/contactez-nous/"
-        - url: "/contactez-nous/"
           text: Contactez-nous
   lang: fr
 plugins:

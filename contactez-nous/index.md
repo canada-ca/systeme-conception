@@ -68,7 +68,7 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
     <div class="form-group">
       <label for="subject1"><span class="field-name">Objet (255 caractères maximum)</span></label>
       <input class="form-control full-width" id="subject1" name="subject1" type="text" data-rule-minlength="2">
-    </div>         
+    </div>
     <div class="form-group">
       <label for="message" class="required gc-font-2019"><span class="field-name">Message</span> <strong class="required" aria-hidden="true">(obligatoire)</strong></label>
       <div>
