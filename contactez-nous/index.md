@@ -1,7 +1,7 @@
 ---
 altLangPage: "contact-us.html"
 breadcrumbs: false
-dateModified: 2023-04-12
+dateModified: 2023-04-17
 description: "Contactez le Bureau de la transformation numérique au sujet du système de conception Canada.ca."
 lang: fr
 layout: default
@@ -18,7 +18,7 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
   <div class="col-md-8">
     <details class="mrgn-tp-lg">
       <summary>La protection des renseignements personnels</summary>
-      <p class="mrgn-tp-lg">Nous recueillons les informations personnelles que vous soumettez au moyen du présent formulaire permettant de communiquer avec nous en vertu de <i>la Loi sur la gestion des finances publiques</i>, afin de pouvoir vous répondre. Les renseignements demandés sont fournis sur une base volontaire. Les renseignements personnels recueillis seront mis à la disposition du personnel du programme chargé de l'administration du site web et seront utilisés et protégés conformément à <i>la Loi sur la protection des renseignements personnels</i> et tel qu’il est indiqué dans le fichier de renseignements personnels POU 914 - Communications publiques. En vertu de <i>la Loi sur la protection des renseignements personnels</i>, qui protège vos renseignements personnels, vous avez le droit de consulter ces renseignements et de demander que des corrections y soient apportées. Si vous avez des questions à propos des présents renseignements sur la protection des renseignements personnels, veuillez communiquer avec le coordinateur/la coordonnatrice de l’accès à l’information et de la protection des renseignements personnels (AIPRP) du SCT. Si la réponse du SCT à vos préoccupations en matière de protection des renseignements personnels ne vous satisfait pas, vous pouvez communiquer avec le Commissariat à la protection de la vie privée.</p>
+      <p class="mrgn-tp-lg">Nous recueillons les informations personnelles que vous soumettez au moyen du présent formulaire permettant de communiquer avec nous en vertu de <cite>la Loi sur la gestion des finances publiques</cite>, afin de pouvoir vous répondre. Les renseignements demandés sont fournis sur une base volontaire. Les renseignements personnels recueillis seront mis à la disposition du personnel du programme chargé de l'administration du site web et seront utilisés et protégés conformément à <cite>la Loi sur la protection des renseignements personnels</cite> et tel qu’il est indiqué dans le fichier de renseignements personnels POU 914 - Communications publiques. En vertu de <cite>la Loi sur la protection des renseignements personnels</cite>, qui protège vos renseignements personnels, vous avez le droit de consulter ces renseignements et de demander que des corrections y soient apportées. Si vous avez des questions à propos des présents renseignements sur la protection des renseignements personnels, veuillez communiquer avec le coordinateur/la coordonnatrice de l’accès à l’information et de la protection des renseignements personnels (AIPRP) du SCT. Si la réponse du SCT à vos préoccupations en matière de protection des renseignements personnels ne vous satisfait pas, vous pouvez communiquer avec le Commissariat à la protection de la vie privée.</p>
       <h2>Coordonnées</h2>
       <p>Coordonnateur/Coordonnatrice de l’AIPRP du Conseil du Trésor</p>
       <ul>
@@ -31,7 +31,7 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
       </ul>
       <h2>Références</h2>
       <ul>
-        <li><a href="https://laws-lois.justice.gc.ca/fra/lois/p-21/index.html"><i>Loi sur la protection des renseignements personnels</i></a></li>
+        <li><a href="https://laws-lois.justice.gc.ca/fra/lois/p-21/index.html"><cite>Loi sur la protection des renseignements personnels</cite></a></li>
         <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html#pou914">Fichier de renseignements personnels POU 914 - Communications publiques</a></li>
       </ul>
     </details>
@@ -39,10 +39,10 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
 </div>
 
 <div class="wb-frmvld row">
-  <form action="merci.html" method="get" id="contact-dto" class="mrgn-tp-lg col-md-8 gc-font-2019" netlify>
+  <form action="/contactez-nous/merci.html" method="post" id="contact-dto" class="mrgn-tp-lg col-md-8 gc-font-2019" netlify>
     <input type="hidden" value="" name="referer" id="referrer">
     <div class="wb-fieldflow" data-wb-fieldflow='{"noForm": true, "renderas":"radio", "gcChckbxrdio":true}'>
-      <p>Souhaitez-vous que nous communiquions avec vous au sujet de vos commentaires&nbsp;?</p>
+      <p>Souhaitez-vous que nous communiquions avec vous au sujet de vos commentaires?</p>
       <ul>
         <li data-wb-fieldflow='{"action": "query", "name": "feedback_type", "value": "feedback_type1"}'>Non</li>
         <li data-wb-fieldflow='[
@@ -79,5 +79,30 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
   </form>
 </div>
 <script>
-  document.getElementById("referrer").value = document.referrer;
+  ( function ( $, document, wb ) {
+    "use strict";
+    var componentName = "gc-contact",
+        selector = "." + componentName,
+        initEvent = "wb-init" + selector,
+        doc = wb.doc,
+        init = function( event ) {
+				  var element = wb.init( event, componentName, selector ),
+			        elm;
+          if ( element ) {
+            elm = $( element );
+            elm.trigger( "submit" );
+            wb.ready( elm, componentName );
+          }
+        };
+    doc.on( "submit", selector, function( event ) {
+      var element = event.currentTarget,
+          elm = $( element );
+      event.preventDefault();
+      jQuery.( "referrer" ).val( document.referrer );
+      sessionStorage.setItem( "contact-dto", $( this ).serialize() );
+      document.location.href = "thank-you.html";
+    } );
+    doc.on( "timerpoke.wb " + initEvent, selector, init );
+    wb.add( selector );
+  } )( jQuery, window, wb );
 </script>
