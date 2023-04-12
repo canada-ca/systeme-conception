@@ -11,7 +11,7 @@ global:
       fr: Bureau de la transformation numérique (BTN)
     links:
       fr:
-        - url: "mailto:dto.btn@tbs-sct.gc.ca"
+        - url: "/contactez-nous/"
           text: Contactez-nous
   lang: fr
 plugins:
