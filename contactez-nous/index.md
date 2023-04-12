@@ -1,15 +1,18 @@
 ---
 altLangPage: "contact-us.html"
 breadcrumbs: false
-dateModified: 2023-04-17
+contextualFooter:
+  title: ""
+dateModified: 2023-04-18
 description: "Contactez le Bureau de la transformation numérique au sujet du système de conception Canada.ca."
 lang: fr
 layout: default
-share: false
-nositesearch: true
 nomenu: true
-showFeedback: false
+nositesearch: true
 noReportProblem: true
+script: ./gc-referrer.js
+share: false
+showFeedback: false
 title: "Contactez le Bureau de la transformation numérique"
 ---
 Communiquez avec nous pour poser des questions sur la conception du site Canada.ca ou pour nous faire part de vos suggestions à ce sujet.
@@ -63,7 +66,7 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
       </div>
     </div>
     <div class="form-group">
-      <label for="subject1"><span class="field-name">Sujet (255 caractères maximum)</span></label>
+      <label for="subject1"><span class="field-name">Objet (255 caractères maximum)</span></label>
       <input class="form-control full-width" id="subject1" name="subject1" type="text" data-rule-minlength="2">
     </div>         
     <div class="form-group">
@@ -78,31 +81,3 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
     </ul>
   </form>
 </div>
-<script>
-  ( function ( $, document, wb ) {
-    "use strict";
-    var componentName = "gc-contact",
-        selector = "." + componentName,
-        initEvent = "wb-init" + selector,
-        doc = wb.doc,
-        init = function( event ) {
-				  var element = wb.init( event, componentName, selector ),
-			        elm;
-          if ( element ) {
-            elm = $( element );
-            elm.trigger( "submit" );
-            wb.ready( elm, componentName );
-          }
-        };
-    doc.on( "submit", selector, function( event ) {
-      var element = event.currentTarget,
-          elm = $( element );
-      event.preventDefault();
-      jQuery.( "referrer" ).val( document.referrer );
-      sessionStorage.setItem( "contact-dto", $( this ).serialize() );
-      document.location.href = "thank-you.html";
-    } );
-    doc.on( "timerpoke.wb " + initEvent, selector, init );
-    wb.add( selector );
-  } )( jQuery, window, wb );
-</script>
