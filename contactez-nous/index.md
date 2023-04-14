@@ -42,7 +42,7 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
   <form action="merci.html" method="get" id="contact-dto" class="mrgn-tp-lg col-md-8 gc-font-2019" netlify>
     <input type="hidden" value="" name="referer" id="referrer">
     <div class="wb-fieldflow" data-wb-fieldflow='{"noForm": true, "renderas":"radio", "gcChckbxrdio":true}'>
-      <p>Voulez-vous que nous vous contactions au sujet de vos commentaires&nbsp;?</p>
+      <p>Souhaitez-vous que nous communiquions avec vous au sujet de vos commentaires&nbsp;?</p>
       <ul>
         <li data-wb-fieldflow='{"action": "query", "name": "feedback_type", "value": "feedback_type1"}'>Non</li>
         <li data-wb-fieldflow='[
