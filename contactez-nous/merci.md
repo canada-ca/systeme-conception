@@ -13,7 +13,7 @@ noReportProblem: true
 title: "Contactez le Bureau de la transformation numérique"
 ---
 Nous avons bien reçu votre message. Si vous avez fourni une adresse courriel, un membre de notre équipe vous répondra dans les 5 jours ouvrables.
-Nous apprécions vos commentaires et vos questions.
+Nous vous remercions de nous avoir transmis vos commentaires et vos questions.
 
 Retourner à la [ page que vous visionniez précédemment ]( / ){: #return}
 
