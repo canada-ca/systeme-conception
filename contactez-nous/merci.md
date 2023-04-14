@@ -17,7 +17,7 @@ Nous vous remercions de nous avoir transmis vos commentaires et vos questions.
 
 Retourner à la [ page que vous visionniez précédemment ]( / ){: #return}
 
-[Inscrivez-vous à la liste de diffusion du Bureau de la transformation numérique](https://blogue.canada.ca/pages/inscrire.html)
+[Inscrivez-vous à la liste d'envoi du Bureau de la transformation numérique](https://blogue.canada.ca/pages/inscrire.html)
 
 <script>
     const params = new Proxy(new URLSearchParams(window.location.search), {
