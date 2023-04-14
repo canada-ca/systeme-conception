@@ -17,7 +17,7 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
 <div class="row">
   <div class="col-md-8">
     <details class="mrgn-tp-lg">
-      <summary>Information sur la confidentialité </summary>
+      <summary>La protection des renseignements personnels</summary>
       <p class="mrgn-tp-lg">Nous recueillons les informations personnelles que vous soumettez par le biais de ce formulaire de contact en vertu de <i>la Loi sur la gestion des finances publiques</i>, afin de pouvoir vous répondre. La fourniture des informations demandées dans ce formulaire est volontaire. Les informations personnelles collectées seront accessibles au personnel du programme chargé de l'administration du site web et seront utilisées et protégées conformément à <i>la Loi sur la protection des renseignements personnels</i> et à la description du fichier de renseignements personnels intitulé Communications publiques (POU 914). En vertu de <i>la Loi sur la protection des renseignements personnels</i>, vous avez le droit de faire corriger vos informations personnelles, de demander l'accès à celles-ci et de faire protéger vos données personnelles. Si vous avez des questions concernant cette déclaration de confidentialité, contactez le coordonnateur de l'accès à l'information et de la protection de la vie privée du SCT. Si vous n'êtes pas satisfait de la réponse du SCT à vos préoccupations en matière de protection de la vie privée, vous pouvez contacter le Commissariat à la protection de la vie privée.</p>
       <h2>Coordonnées</h2>
       <p>Coordonnateur de l’AIPRP du Secrétariat du Conseil du Trésor du Canada</p>
