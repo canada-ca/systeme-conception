@@ -12,7 +12,7 @@ showFeedback: false
 noReportProblem: true
 title: "Contactez le Bureau de la transformation numérique"
 ---
-Communiquez avec nous pour poser des questions sur la conception de Canada.ca ou pour nous faire part de vos suggestions à ce sujet.
+Communiquez avec nous pour poser des questions sur la conception du site Canada.ca ou pour nous faire part de vos suggestions à ce sujet.
 
 <div class="row">
   <div class="col-md-8">
