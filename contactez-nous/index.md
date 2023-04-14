@@ -48,7 +48,7 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
         <li data-wb-fieldflow='[
           {"action": "toggle", "toggle": "#email_request_other", "live":true },
           {"action": "query", "name": "feedback_type", "value": "feedback_type3" }
-          ]'>Oui, je suis prêt à fournir mon courriel uniquement à des fins de contact.</li>
+          ]'>Oui, je suis à l’aise de fournir mon adresse courriel à des fins de communication seulement.</li>
       </ul>
     </div>
     <div id="email_request_other" class="hidden">
