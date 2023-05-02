@@ -13,7 +13,7 @@ description: "Les Spécifications du contenu et de l'architecture de l'informati
 layout: default
 title: "Éléments obligatoires du système de conception de Canada.ca"
 ---
-<p class="gc-byline"><strong>De : <a href="/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
+<p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row  mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
