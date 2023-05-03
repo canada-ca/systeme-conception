@@ -1,5 +1,5 @@
 ---
-altLangPage: https://design.canada.ca/survey/support.html
+altLangPage: https://design.canada.ca/survey/index.html
 dateModified: 2023-04-05
 description: ""
 title: Sondage sur la réussite des tâches du gouvernement du Canada
