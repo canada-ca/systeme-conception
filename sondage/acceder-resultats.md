@@ -32,7 +32,6 @@ Le visualiseur de commentaires est protégé par un mot de passe.
 Les instructions concernant le mot de passe se trouvent sur [GCPedia (accessible seulement sur le réseau du GC)](https://www.gcpedia.gc.ca/wiki/Sondage_sur_la_r%C3%A9ussite_des_t%C3%A2ches_du_gouvernement_du_Canada_-_Donn%C3%A9es#R.C3.A9ponses_[…]t_commentaires).
 {: .alert .alert-info}
 
-[Se connecter au visualiseur de commentaires ](https://feedback-viewer.tbs.alpha.canada.ca){: .btn .btn-primary}
 
 ## Rapports du sondage
 
