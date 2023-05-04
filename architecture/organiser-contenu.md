@@ -46,7 +46,7 @@ title: "Organiser le contenu dans Canada.ca"
       <p>Voyez où se situe votre contenu dans les thèmes et les sujets correspondants de <a href="/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#arborescence">l'arborescence thématique de Canada.ca</a>.</p>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"><b>Aperçu conceptuel de la navigation de l’utilisateur</b></figcaption>
-        <img src="/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/conceptual-overview-fra.png" class="img-responsive center-block" alt="Diagramme de l’aperçu conceptuel de l’architecture de l’information. La version textuelle se trouve ci-dessous&nbsp;:">
+        <img src="./images/conceptual-overview-fra.png" class="img-responsive center-block" alt="Diagramme de l’aperçu conceptuel de l’architecture de l’information. La version textuelle se trouve ci-dessous&nbsp;:">
         <details>
           <summary class="wb-toggle" data-toggle="’{&quot;print&quot;:&quot;on&quot;}’">Graghique 1 – Version textuelle</summary>
           <p>Les personnes qui ne comprennent pas les opérations ou l’organisation du gouvernement du Canada (GC) peuvent accéder au contenu par le biais de la navigation par thème. Les pages thématiques organisent les sujets de manière à ce que les personnes les comprennent facilement afin de trouver rapidement le contenu lié à leurs tâches. Les pages thématiques sont liées aux pages de sujet et/ou au contenu de destination. Les pages thématiques permettent aux utilisateurs de découvrir le contenu pour les principales tâches liées à un sujet spécifique à l’ensemble du GC. Ils sont également liés au contenu de destination. Les gens peuvent également accéder au contenu grâce à la navigation institutionnelle. Cette navigation est destinée aux personnes habituées à traiter avec des institutions spécifiques. Le profil institutionnel / organisationnel présente tous les contenus opportuns et pertinents offerts par une institution. Il conduit ensuite les utilisateurs vers des pages de thème ou de sujet, ou directement vers le contenu de destination. Le contenu de destination est un contenu concernant les services ou les renseignements, le développement de programmes et de stratégies, les nouvelles, les campagnes et promotions, ou les informations sur l’organisation.</p>
@@ -259,7 +259,7 @@ title: "Organiser le contenu dans Canada.ca"
   <h2 id="types">Types de contenu et état du contenu</h2>
   <h3>Types de contenu</h3>
   <p>Un type de contenu est un élément unique qui décrit la nature du contenu de la page.</p>
-  <p>Utilisez la <a href="/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#types">liste des types de contenu de Canada.ca</a>, une taxonomie commune, pour classer et filtrer les longues listes de contenu en fonction du type de contenu.</p>
+  <p>Utilisez la <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#types">liste des types de contenu de Canada.ca</a>, une taxonomie commune, pour classer et filtrer les longues listes de contenu en fonction du type de contenu.</p>
   <h3>État du contenu</h3>
   <p>Il y a 3 différents états de contenu pour le contenu publié sur Canada.ca : </p>
   <ol>
