@@ -1,7 +1,161 @@
 ---
----
+--- 
 {
   "data": [{
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/trouver-emploi-resume-recherche.html\">Trouver un emploi</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "En facilitant la tâche de trouver les emplois du gouvernement, nous avons appris à éliminer les pages redondantes, à orienter le contenu pour les utilisateurs et leurs principales tâches, à concevoir le contenu en fonction de réponses et non de renseignements, à utiliser des titres d’emploi consultables, à répondre aux attentes des utilisateurs à l’égard d’une seule plateforme de recherche d’emploi.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html\">Orientation dans Canada.ca</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "L’examen de la façon dont les utilisateurs naviguent dans le site Canada.ca. a mené à des changements visant à remplacer le menu thématique. Les modifications comprennent un nouveau pied de page, un bouton contextuel « se connecter » et une conception stratifiée pour les pages thématiques.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/rappels-securite-resume-recherche.html\">Optimisation de la recherche de rappels et d’avis de sécurité (deuxième série)</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Expérimenter avec une solution en source ouverte pour effectuer des recherches efficaces. Ce que nous avons appris : comprendre les cas d’utilisation de recherche, corriger les données à la source avec l’aide des bonnes personnes, et affecter des ressources à la surveillance du rendement et à la conservation des données.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/rappels-resume-recherche.html\">Rappels et avis de sécurité</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "L’optimisation du contenu pour les appareils mobiles peut améliorer la repérabilité et les taux de réussite globale des tâches. Fournir des réponses et non des renseignements, optimiser le flux des tâches, simplifier l’approche, personnaliser les algorithmes de recherche et utiliser du contenu clair, abrégé et lisible.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/achats-electroniques-resume-recherche.html\">Portail de solution d’achats électroniques (SAE)</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Afin de privilégier les processus en ligne plutôt que les processus fondés sur le papier, il faut repenser la façon de présenter la documentation. Des techniques efficaces comprennent une recherche personnalisée et des assistants, du contenu HTML navigable plutôt que des documents en format PDF, et un résumé de renseignements essentiels pour une meilleure lisibilité.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html\">Conseils aux voyageurs et avertissements</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Pour concevoir du contenu qui communique clairement les risques, on doit accorder la priorité à la repérabilité. Les techniques comprennent l’utilisation de rubriques claires et d’étiquettes pour une meilleure piste vers l’information, rendant le contenu facile à consulter et améliorant les relations entre les sujets parents et les sous-sujets.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html\">Communiquer avec l’ARC</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "L’amélioration des pages de contact peut réduire la correspondance et les appels et peut permettre de rediriger certaines personnes vers des ressources en ligne. Aider les gens à choisir la bonne option avec du contenu rétractable, regrouper des renseignements pour améliorer les résultats de recherche, utiliser des assistants pour faciliter l'accès aux différentes options.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/design-conversationnel.html\">Fournir des services gouvernementaux grâce au design conversationnel</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Les agents conversationnels sont des outils puissants, mais il n'y a aucune magie. Ils nécessitent du temps et du personnel pour analyser continuellement les données et ajuster la façon dont les outils réagissent. Ce sont de nouvelles offres de services et elles doivent être dotées de ressources, conçues et gérées comme telles.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html\">Optimisation des prêts et des bourses aux étudiants</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Lorsque les provinces et les territoires sont les fournisseurs de services, les pages du site Canada.ca doivent rediriger les gens. Supprimer des renseignements relatifs aux programmes qui ne fournissent pas les réponses recherchées, modifier les chemins de navigation pour se concentrer sur les tâches, utiliser des données probantes à l’égard de la langue de conception.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/examen-citoyennete-resume-recherche.html\">Projet d’optimisation de l’examen pour la citoyenneté</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Lorsqu’on transforme de longs documents en contenu Web, présenter les processus étape par étape en une séquence claire, inclure des fonctions de recherche et de navigation dans le document, éliminer les liens qui distraient, et utiliser un langage clair et simple pour que les étiquettes soient plus claires.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/comptes-entreprises-resume-recherche.html\">Inscription des entreprises et tenue des comptes – ARC</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Réduire les volumes d’appels en répondant aux questions courantes sous forme de contenu Web. Mettre les mots-clés au début des titres, réorganiser le contenu en fonction des endroits où les gens cherchent des réponses, ajouter un simple assistant pour aider les gens à obtenir une réponse précise.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca//resumes-recherche/prochesaidants-resume-recherche.html\">Prestations d’assurance-emploi pour proches aidants</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Réduire le nombre de demandes inadmissibles en aidant les gens à comprendre les règles d’admissibilité et la façon de présenter une demande. Offrir un simple aperçu visuel du processus entier, utiliser de manière stratégique des mots-clés, inclure des renseignements importants à l’emplacement attendu, et simplifier le langage employé.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/impots-resume-recherche.html\">Déclaration de la TPS/TVH et de retenues sur la paie</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Lorsque les gens peuvent trouver de l’information mais ne la comprennent pas (haut taux de repérabilité, faible taux de réussite des tâches), il faut se servir de techniques pour améliorer la compréhension. Utiliser le langage de l’utilisateur, se servir d’une structure étape par étape et réduire la complexité en divisant les longues pages en de plus petits morceaux.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/maladies-resume-recherche.html\">Maladies et vaccination</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Concevoir du contenu pour aider les gens à faire des choix éclairés concernant leur santé. Fournir des réponses et non des renseignements, concevoir en priorité pour des appareils mobiles, réduire le nombre de couches, et retirer le contenu des documents et des affiches en format PDF.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/meteo-resume-recherche.html\">Renseignements météorologiques</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "La refonte du contenu pour un public qui le consulte principalement à partir d’un appareil mobile signifie l’optimisation de l'espace. Regrouper les tâches et les sous-tâches, raccourcir le fil d’Ariane, choisir le bon style d’alerte, abréger le contenu en s’attachant à fournir des réponses plutôt que des renseignements.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/2018/03/29/visiter-le-canada-optimisation.html\">Visiter le Canada : optimisation</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Le contenu au sujet des règles peut être complexe. S’attarder à orienter les gens pour qu’ils obtiennent les réponses dont ils ont besoin dans leur situation. Simplifier la navigation pour réduire la charge cognitive, utiliser un assistant pour guider les gens qui effectuent la tâche, et réduire le nombre de liens qui éloignent les gens de leur chemin d’accès idéal.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"https://blogue.canada.ca/2018/02/20/demarrer_une_entreprise.html\">Aider les Canadiens à lancer une entreprise</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Pour améliorer l’expérience utilisateur dans le cadre de tâches comportant plusieurs étapes, indiquer les différentes actions et décisions exigées d’un utilisateur, mettre davantage en évidence les liens pour les principales tâches, réduire les liens qui éloignent les gens de leur chemin d’accès idéal.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
       "NAME": "<a href=\"https://blogue.canada.ca/2022/03/23/reussite-des-taches.html\">Utiliser les données sur la réussite des tâches pour améliorer l’expérience des utilisateurs</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Utiliser les données sur la réussite des tâches pour améliorer l’expérience des utilisateurs : Les données tirées du Sondage sur la réussite des tâches du GC peuvent contribuer à favoriser un changement de culture positif au sein de votre organisation.",
@@ -115,16 +269,6 @@
       "SOURCE": "Blogue",
       "DESCRIPTION": "Retirer des couches, regrouper le contenu en fonction des tâches, utiliser les données pour concevoir le vocabulaire, ne demandez pas aux gens de faire les calculs, utiliser les chiffres avec modération, mettre des réponses là où les gens les cherchent",
       "WHENTOUSE": "Retirer des couches, regrouper le contenu en fonction des tâches, utiliser les données pour concevoir le vocabulaire, ne demandez pas aux gens de faire les calculs, utiliser les chiffres avec modération, mettre des réponses là où les gens les cherchent",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "0"
-    },
-    {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca\">Orientation dans Canada.ca</a>",
-      "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "explique le contexte de la recherche et les constatations qui ont mené aux mises à jour de la conception",
-      "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
