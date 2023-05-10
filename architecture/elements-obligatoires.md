@@ -2,9 +2,9 @@
 altLangPage: "https://design.canada.ca/architecture/mandatory-elements.html"
 breadcrumbs:
   - title: À propos de Canada.ca
-    link: https://www.canada.ca/fr/gouvernement/a-propos.html
-  - title: Système de conception de Canada.ca
-    link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+    link: "https://www.canada.ca/fr/gouvernement/a-propos.html"
+  - title: Système de conception de Canada.ca"
+    link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
   - title: Spécifications du contenu et de l'architecture de l'information pour Canada.ca
     link: {{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html
 date: 2017-10-05
