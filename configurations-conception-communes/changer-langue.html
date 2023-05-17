@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-		<title>Domaine Canada.ca - Configuration de conception de Canada.ca - Canada.ca</title>
+		<title>Lien pour changer de langue - Configuration de conception de Canada.ca - Canada.ca</title>
 
 		<meta content="width=device-width,initial-scale=1" name="viewport">
 
@@ -76,7 +76,7 @@
 <div class="row">
 <div class="col-md-12">
 <ul class="list-inline margin-bottom-none">
-	<li><a lang="en" href="https://design.canada.ca/common-design-patterns/canada-dot-ca.html">English</a></li>
+	<li><a lang="en" href="https://design.canada.ca/common-design-patterns/language-toggle.html">English</a></li>
 </ul>
 </div>
 </div>
@@ -184,45 +184,34 @@
 <main role="main" property="mainContentOfPage" class="container">
 
 
-<h1 property="name" id="wb-cont" dir="ltr">Domaine Canada.ca - Configuration de conception de Canada.ca </h1>
+<h1 property="name" id="wb-cont" dir="ltr">Lien pour changer de langue - Configuration de conception de Canada.ca </h1>
 
 <p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
 
 
 <section>
-	<p><span class="label label-danger">Obligatoire</span></p>
-	<p>Le domaine Canada.ca est le principal domaine pour la présence du gouvernement du Canada sur le Web.</p>
-</section>
-<section>
-	<h2>Sur cette page</h2>
-	<ul>
-		<li><a href="#utilisation">Utilisation</a></li>
-		<li><a href="#eviter">Quoi éviter</a></li>
-		<li><a href="#mise-en-oeuvre">Mise en oeuvre</a></li>
-		<li><a href="#discussion">Discussion</a></li>
-	</ul>
+<p><span class="label label-danger">Obligatoire sur toutes les pages</span></p>
+<p>Tout le contenu du gouvernement du Canada destiné au public est accessible au moins dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’en-tête général du site, donne à la personne accès à la page correspondante dans l'autre langue officielle.</p>
+<figure>
+		<figcaption><b>Lien pour changer de langue</b></figcaption>
+		<img src="../images/lang-toggle-fr.png" alt="Le lien pour changer de langue apparaît dans le coin supérieur droit du gabarit Canada.ca">
+</figure>
 </section>
 
 <section>
- <h2 id="utilisation">Utilisation</h2>
- <p>Utiliser le domaine Canada.ca pour toutes les pages Web du gouvernement du Canada destinées au public, afin d'assurer la cohérence et de renforcer la confiance. Cela comprend les sites Web ou les services destinés aux personnes qui ne font pas partie du gouvernement, mais dont l'accès nécessite une connexion.</p>
- <p>Deux approches peuvent être utilisées :</p>
- <ul>
-    <li>sans sous-domaine : <a href="https://canada.ca/fr/services/emplois.html">https://canada.ca/fr/services/emplois.html</a></li>
-    <li>avec un sous-domaine : <a href="https://tc.canada.ca/fr/aviation">https://tc.canada.ca/fr/aviation</a></li>
- </ul>
+<h2>Objectif</h2>
+<p>Le lien permettant de changer de langue dirige systématiquement la personne vers la page équivalente dans l’autre langue officielle, ce qui fait en sorte qu’il peut passer d’une langue à l’autre sans perdre l’endroit où il se trouvait auparavant.</p>
 </section>
 <section>
- <h2 id="eviter">Quoi éviter</h2>
- <p>Ne pas utiliser le domaine Canada.ca pour les sites de collaboration où le gouvernement du Canada n'est pas le partenaire principal.</p>
+<h2>Quand utiliser le lien pour changer de langue</h2>
+<p>Le lien pour changer de langue est obligatoire sur toutes les pages. Pour en savoir plus, allez à <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html#entete-piedpage">Éléments obligatoires du système de conception</a>.</p>
 </section>
 <section>
- <h2 id="mise-en-oeuvre">Mise en oeuvre</h2>
- <p>Pour les détails sur la rédaction des URLs pour Canada, allez à <a href="{{ site.url }}/architecture/organiser-contenu.html#toc3">Modèle d'URL</a>.</p>
-</section>
-<section>
-	 <h2 id="discussion">Discussion</h2>
-	 <p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuter de cette configuration dans GitHub</a></p>
+<h2>Comment mettre en œuvre le lien pour changer de langue</h2>
+<ul>
+<li>Le lien permettant de changer de langue ne consiste qu’en un seul élément&nbsp;: il s’agit d’un simple lien textuel indiquant «&nbsp;English&nbsp;» ou «&nbsp;Français&nbsp;».</li>
+<li>Le lien est toujours affiché dans le coin supérieur droit de l’en-tête général, peu importe la taille de l'écran.</li>
+</ul>
 </section>
 
 	<!-- START PAGE FEEDBACK WIDGET -->
@@ -236,7 +225,7 @@
 						<input type="hidden" name="language" value="FR">
 						<input type="hidden" name="pageTitle" value="Concevoir du contenu pour Canada.ca">
 						<input type="hidden" name="submissionPage"
-							value="https://conception.canada.ca/configurations-conception-communes/canada-point-ca.html">
+							value="https://conception.canada.ca/configurations-conception-communes/changer-langue.html">
 						<input type="hidden" name="sectionopt" value="Design system">
 
 
@@ -322,7 +311,7 @@
 	<!-- END PAGE FEEDBACK WIDGET --><div class="pagedetails">
 		<dl id="wb-dtmd">
 <dt>Date de modification :</dt>
-<dd><time property="dateModified">2020-10-16</time></dd>
+<dd><time property="dateModified">2018-12-19</time></dd>
 		</dl>
 	</div>
 </main>{% include footer-fr.html %}
