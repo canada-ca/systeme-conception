@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://design.canada.ca/common-design-patterns/breadcrumb-trail.html"
+altLangPage: "https://design.canada.ca/common-design-patterns/site-menu.html"
 breadcrumbs:
   - title: "À propos de Canada.ca"
     link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
