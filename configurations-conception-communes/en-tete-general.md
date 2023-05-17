@@ -32,7 +32,7 @@ title: "En-tête global"
   </ul>
   <p><strong>Mise à jour de la conception en 2023</strong>&nbsp;: nous avons récemment mis à jour ce modèle dans le cadre d’une nouvelle stratégie de navigation issue du projet de recherche Orientation. Pour en savoir plus sur ce projet, consultez la section <a href="#recherche">Recherche et justification</a>.</p>
   <div class="pattern-demo mrgn-tp-lg">
-    <figure class="mrgn-bttm-sm"><img src="./images/01-signin-button-lg-fr.png" class="img-responsive" alt=""></figure>
+    <figure class="mrgn-bttm-sm"><img src="../images/01-signin-button-lg-fr.png" class="img-responsive" alt=""></figure>
   </div>
   <section>
     <h2>Sur cette page</h2>
@@ -69,19 +69,19 @@ title: "En-tête global"
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/en-tete-general.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
+                  <td><a href="en-tete-general.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/changer-langue.html">Lien pour changer de langue</a></td>
+                  <td><a href="changer-langue.html">Lien pour changer de langue</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">Champ de recherche du site</a></td>
+                  <td><a href="connexion-contextuel.html">Champ de recherche du site</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></td>
+                  <td><a href="connexion-contextuel.html">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Facultatif</span></td>
                 </tr>
                 <tr>
@@ -89,11 +89,11 @@ title: "En-tête global"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/menu-site.html">Menu thématique</a></td>
+                  <td><a href="menu-site.html">Menu thématique</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span> <span class="small">(<a href="#smenu-note" id="smenu">Nota</a>)</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/fil-ariane.html">Fil d'Ariane</a></td>
+                  <td><a href="fil-ariane.html">Fil d'Ariane</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
@@ -128,19 +128,19 @@ title: "En-tête global"
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/en-tete-general.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
+                  <td><a href="en-tete-general.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span> (Le lien vers la page d'accueil de Canada.ca est facultatif)</td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/changer-langue.html">Lien pour changer de langue</a></td>
+                  <td><a href="changer-langue.html">Lien pour changer de langue</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span> <span class="small">(<a href="#tmenu-note" id="tmenu">Nota</a>)</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">Champ de recherche du site</a></td>
+                  <td><a href="connexion-contextuel.html">Champ de recherche du site</a></td>
                   <td>Facultatif</td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></td>
+                  <td><a href="connexion-contextuel.html">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></td>
                   <td>Facultatif</td>
                 </tr>
                 <tr>
@@ -148,11 +148,11 @@ title: "En-tête global"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/menu-site.html">Menu thématique</a></td>
+                  <td><a href="menu-site.html">Menu thématique</a></td>
                   <td>Facultatif</td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/fil-ariane.html">Fil d'Ariane</a></td>
+                  <td><a href="fil-ariane.html">Fil d'Ariane</a></td>
                   <td>Facultatif</td>
                 </tr>
                 <tr>
@@ -187,19 +187,19 @@ title: "En-tête global"
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/en-tete-general.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
+                  <td><a href="en-tete-general.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/changer-langue.html">Lien pour changer de langue</a></td>
+                  <td><a href="changer-langue.html">Lien pour changer de langue</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">Champ de recherche du site</a></td>
+                  <td><a href="connexion-contextuel.html">Champ de recherche du site</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></td>
+                  <td><a href="connexion-contextuel.html">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></td>
                   <td>Facultatif</td>
                 </tr>
                 <tr>
@@ -207,11 +207,11 @@ title: "En-tête global"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/menu-site.html">Menu thématique</a></td>
+                  <td><a href="menu-site.html">Menu thématique</a></td>
                   <td>Facultatif</td>
                 </tr>
                 <tr>
-                  <td><a href="https://conception.canada.ca/configurations-conception-communes/fil-ariane.html">Fil d'Ariane</a></td>
+                  <td><a href="fil-ariane.html">Fil d'Ariane</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
@@ -246,7 +246,7 @@ title: "En-tête global"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>En-tête global : pages régulières, grand écran</b></figcaption>
-        <img src="./images/01-signin-button-lg-fr.png" class="img-responsive" alt="">
+        <img src="../images/01-signin-button-lg-fr.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Texte de remplacement&nbsp;: schéma de l’en-tête global pour les grands écrans.</summary>
           <p class="mrgn-tp-lg">Sur les grands écrans, l’en-tête global sur une page régulière comporte 4 lignes&nbsp;:</p>
@@ -262,7 +262,7 @@ title: "En-tête global"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>En-tête global : pages régulières, petit écran</b></figcaption>
-        <img src="./images/01-signin-button-sm-fr.png" class="img-responsive" alt="">
+        <img src="../images/01-signin-button-sm-fr.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Texte de remplacement&nbsp;: schéma de l’en-tête global pour les petits écrans.</summary>
           <p class="mrgn-tp-lg">Sur les petits écrans, l’en-tête global sur une page régulière comporte 4 lignes&nbsp;:</p>
@@ -281,7 +281,7 @@ title: "En-tête global"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>En-tête global minimum&nbsp;: pages transactionnelles, grand écran</b></figcaption>
-        <img src="./images/01-global-header-transactional-lg-fr.png" class="img-responsive" alt="">
+        <img src="../images/01-global-header-transactional-lg-fr.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Texte de remplacement&nbsp;: schéma de l’en-tête global minimum sur un grand écran</summary>
           <p class="mrgn-tp-lg">Sur les grands écrans, l’en-tête global minimum sur une page régulière comporte 2 lignes&nbsp;:</p>
@@ -295,7 +295,7 @@ title: "En-tête global"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>En-tête global minimum&nbsp;: pages transactionnelles, petit écran</b></figcaption>
-        <img src="./images/01-global-header-transactional-sm-fr.png" class="img-responsive" alt="">
+        <img src="../images/01-global-header-transactional-sm-fr.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Texte de remplacement&nbsp;: schéma de l’en-tête global minimum sur un petit écran</summary>
           <p class="mrgn-tp-lg">Sur les petits écrans, l’en-tête global minimum sur une page régulière comporte une seule ligne&nbsp;:</p>
@@ -311,7 +311,7 @@ title: "En-tête global"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>En-tête global minimum&nbsp;: pages de campagne, grand écran</b></figcaption>
-        <img src="./images/01-global-header-campaign-lg-fr.png" class="img-responsive" alt="">
+        <img src="../images/01-global-header-campaign-lg-fr.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Texte de remplacement&nbsp;: schéma de l’en-tête global minimum sur un grand écran</summary>
           <p class="mrgn-tp-lg">Sur les grands écrans, l’en-tête global minimum sur une page de campagne comporte 3 lignes&nbsp;:</p>
@@ -326,7 +326,7 @@ title: "En-tête global"
     <div class="pattern-demo mrgn-tp-lg">
       <figure>
         <figcaption><b>En-tête global minimum&nbsp;: pages de campagne, petit écran</b></figcaption>
-        <img src="./images/01-global-header-campaign-sm-fr.png" class="img-responsive" alt="">
+        <img src="../images/01-global-header-campaign-sm-fr.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Texte de remplacement&nbsp;: schéma de l’en-tête global minimum sur un petit écran</summary>
           <p class="mrgn-tp-lg">Sur les petits écrans, l’en-tête global minimum sur une page de campagne comporte 3 lignes&nbsp;:</p>
