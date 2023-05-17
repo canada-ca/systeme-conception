@@ -41,7 +41,7 @@ defaults:
         link: sondage/index.html
       layout: default
   - scope:
-      path: architecture
+      path: "architecture"
     values:
       breadcrumbs:
       - title: À propos de Canada.ca
