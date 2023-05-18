@@ -6,7 +6,7 @@ breadcrumbs:
   - title: "Système de conception de Canada.ca"
     link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
   - title: "Bibliothèque de modèles et de configurations de conception"
-    link: "https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html"   
+    link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Orientation sur l’utilisation de l’en-tête général sur les pages Canada.ca. L’en-tête général se trouve dans la partie supérieure de chaque page Web du gouvernement du Canada."
