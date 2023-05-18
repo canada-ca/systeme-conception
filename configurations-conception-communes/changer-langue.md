@@ -6,7 +6,9 @@ breadcrumbs:
   - title: "Système de conception de Canada.ca"
     link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
   - title: "Bibliothèque de modèles et de configurations de conception"
-    link: "https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html"   
+    link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+  - title: "Bibliothèque de modèles et de configurations de conception"
+    link: "https://conception.canada.ca/configurations-conception-communes/en-tete-general.html"  
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Orientation sur l’utilisation de la fonction de changement de langue sur le site Canada.ca Le contenu du gouvernement du Canada est offert dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’en-tête général du site, donne à la personne accès à la page correspondante dans l’autre langue officielle."
