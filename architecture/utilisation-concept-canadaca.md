@@ -20,7 +20,7 @@ title: "Qui doit utiliser le sysème de conception de Canada.ca"
   </div>
   <section>
     <p> Les Spécifications du contenu et de l'architecture de l'information pour Canada.ca sont mentionnées à l'« Annexe D : Procédure obligatoire relative à l'utilisation des médias sociaux et aux communications sur le Web » de la&nbsp;<a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682"><cite>Directive sur la gestion des communications</cite></a>. Ses exigences s'appliquent  aux ministères et aux autres parties de l'administration publique qui se  trouvent aux annexes&nbsp;<a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-19.html">I</a>,&nbsp;<a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-20.html">I.1</a>&nbsp;et&nbsp;<a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-21.html">II</a>&nbsp;de la <cite>Loi sur la  gestion des finances publiques</cite>.</p>
-    <p><a href="/fr/gouvernement/a-propos/systeme-conception/liste-institutions.html">Ces institutions</a> doivent mettre en œuvre les exigences en matière de conception de Canada.ca pour tous leurs sites Web ou tous les services numériques accessibles au public, sans égards à  la technologie, au nom de domaine (à la fois canada.ca et gc.ca) ou à la plateforme de publication utilisée pour les publier.</p>
+    <p><a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/liste-institutions.html">Ces institutions</a> doivent mettre en œuvre les exigences en matière de conception de Canada.ca pour tous leurs sites Web ou tous les services numériques accessibles au public, sans égards à  la technologie, au nom de domaine (à la fois canada.ca et gc.ca) ou à la plateforme de publication utilisée pour les publier.</p>
   </section>
   <section>
     <h2>Ce qui ne fait pas partie de Canada.ca</h2>
@@ -31,7 +31,7 @@ title: "Qui doit utiliser le sysème de conception de Canada.ca"
       <li>les entreprises ou les  organisations qui ne font pas partie du gouvernement du Canada</li>
     </ul>
     <h2>Utiliser la Boîte à outils de l'expérience Web</h2>
-    <p>On encourage toutes les institutions à utiliser les composants de la&nbsp;<a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/boite-outils-experience-web.html">Boîte à outils de l'expérience Web</a>&nbsp;pour leurs produits internes et externes. Ces composants sont gratuits et disponibles de façon ouverte. Ils reflètent les résultats des tests de convivialité.  Ils facilitent la  conformité aux exigences en matière d'accessibilité et de conception réactive  pour une diversité d'appareils avec un large éventail de tailles d'écran.</p>
+    <p>On encourage toutes les institutions à utiliser les composants de la&nbsp;<a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/boite-outils-experience-web.html">Boîte à outils de l'expérience Web</a>&nbsp;pour leurs produits internes et externes. Ces composants sont gratuits et disponibles de façon ouverte. Ils reflètent les résultats des tests de convivialité.  Ils facilitent la  conformité aux exigences en matière d'accessibilité et de conception réactive  pour une diversité d'appareils avec un large éventail de tailles d'écran.</p>
     <section>
       <h3>Adapter la Boîte à outils de l'expérience Web pour les situations qui ne font pas partie de Canada.ca</h3>
       <p>Si vous ne deviez pas utiliser le système de conception de Canada.ca pour votre site Web ou votre service, mais que vous voulez utiliser la Boîte à outils de l'expérience Web, vous devez faire les modifications minimales suivantes.</p>
@@ -50,8 +50,8 @@ title: "Qui doit utiliser le sysème de conception de Canada.ca"
     <nav role="navigation" class="mrgn-bttm-lg">
       <h2 class="wb-inv">Navigation de document</h2>
       <ul class="pager">
-        <li class="previous"><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html" rel="prev">Précédent<span class="wb-inv">: Spécifications du contenu et de l’architecture de l'information pour Canada.ca</span></a></li>
-        <li class="next"><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html" rel="next">Suivant<span class="wb-inv">: Éléments obligatoires</span></a></li>
+        <li class="previous"><a href="https:/www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html" rel="prev">Précédent<span class="wb-inv">: Spécifications du contenu et de l’architecture de l'information pour Canada.ca</span></a></li>
+        <li class="next"><a href="elements-obligatoires.html" rel="next">Suivant<span class="wb-inv">: Éléments obligatoires</span></a></li>
       </ul>
     </nav>
   </section>
