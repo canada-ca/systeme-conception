@@ -50,7 +50,7 @@ title: "Qui doit utiliser le sysème de conception de Canada.ca"
     <nav role="navigation" class="mrgn-bttm-lg">
       <h2 class="wb-inv">Navigation de document</h2>
       <ul class="pager">
-        <li class="previous"><a href="https:/www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html" rel="prev">Précédent<span class="wb-inv">: Spécifications du contenu et de l’architecture de l'information pour Canada.ca</span></a></li>
+        <li class="previous"><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html" rel="prev">Précédent<span class="wb-inv">: Spécifications du contenu et de l’architecture de l'information pour Canada.ca</span></a></li>
         <li class="next"><a href="elements-obligatoires.html" rel="next">Suivant<span class="wb-inv">: Éléments obligatoires</span></a></li>
       </ul>
     </nav>
