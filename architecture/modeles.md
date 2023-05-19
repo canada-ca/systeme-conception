@@ -39,13 +39,13 @@ title: "Concevoir le contenu pour Canada.ca"
   <section class="wb-eqht gc-drmt">
     <div class="col-md-4">
       <section>
-        <h3 class="h5"><a href="/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></h3>
+        <h3 class="h5"><a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></h3>
         <p>Trouvez le modèle ou la configuration dont vous avez besoin pour votre contenu.</p>
       </section>
     </div>
     <div class="col-md-4">
       <section>
-        <h3 class="h5"><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html">Guide de rédaction du contenu du site Canada.ca</a></h3>
+        <h3 class="h5"><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html">Guide de rédaction du contenu du site Canada.ca</a></h3>
         <p>Techniques d’écriture et principes qui aident à rendre le contenu clair et adapté aux besoins de tous.</p>
       </section>
     </div>
