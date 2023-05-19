@@ -56,7 +56,7 @@ title: "Concevoir le contenu pour Canada.ca"
     <h2 id="principes">Principes de conception de Canada.ca</h2>
     <p>Canada.ca est basé sur les principes suivants.</p>
     <h3 id="concept">Conception ouverte et collaborative</h3>
-    <p>Les règles et les concepts présentés dans ce système de conception ont été élaborés en collaboration avec les des <a href="/fr/gouvernement/a-propos/systeme-conception/ministeres-responsables-themes.html">ministères responsables des thèmes</a>. D'autres ministères et organismes ont également apporté leur contribution.</p>
+    <p>Les règles et les concepts présentés dans ce système de conception ont été élaborés en collaboration avec les des <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/ministeres-responsables-themes.html">ministères responsables des thèmes</a>. D'autres ministères et organismes ont également apporté leur contribution.</p>
     <p>Nous collaborons activement avec la communauté de plusieurs façons :</p>
     <ul>
       <li>une présence dans les médias sociaux, grâce à l'utilisation de #Canadapointca</li>
@@ -88,7 +88,7 @@ title: "Concevoir le contenu pour Canada.ca"
   <section>
     <h3 id="mobile">Optimisation pour les appareils mobiles</h3>
     <p>Les Canadiens utilisent de plus en plus les appareils mobiles, y compris les tablettes et les téléphones intelligents.</p>
-    <p>La conception actuelle du site Canada.ca aide les personnes à facilement trouver le même contenu sur leur appareil mobile ou sur leur ordinateur de bureau. Le système de conception, y compris les modèles et les composants de conception de la <a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/boite-outils-experience-web.html">Boîte à outils de l’expérience Web (BOEW)</a>, a été testé afin de vérifier qu'il fonctionne bien sur les appareils mobiles.</p>
+    <p>La conception actuelle du site Canada.ca aide les personnes à facilement trouver le même contenu sur leur appareil mobile ou sur leur ordinateur de bureau. Le système de conception, y compris les modèles et les composants de conception de la <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/boite-outils-experience-web.html">Boîte à outils de l’expérience Web (BOEW)</a>, a été testé afin de vérifier qu'il fonctionne bien sur les appareils mobiles.</p>
     <p>Une instance mobile distincte du site n'est pas nécessaire.</p>
     <p>Pour bien fonctionner sur les appareils mobiles, l’<abbr title="Architecture de l’information">AI</abbr> est simple, avec le moins de niveaux possible. La navigation à l’intérieur de la page est plus efficace que les menus, et les tailles de page doivent être limitées. Les spécifications du contenu et l’orientation liée à la rédaction tiennent compte de cet environnement mobile, et indiquent également comment créer un contenu qui se téléchargera facilement sur les appareils mobiles. Ceci permet aux personnes d'accéder rapidement aux renseignements, peu importe où ils se trouvent.</p>
   </section>
