@@ -47,6 +47,7 @@ title: "Qui doit utiliser le sysème de conception de Canada.ca"
       </ul>
       <p>Ces modifications aident les utilisateurs à distinguer les différents sites. Elles permettent de conserver le caractère unique de la conception de  Canada.ca.</p>
     </section>
+    <section>
     <nav role="navigation" class="mrgn-bttm-lg">
       <h2 class="wb-inv">Navigation de document</h2>
       <ul class="pager">
