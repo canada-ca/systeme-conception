@@ -274,3 +274,12 @@ title: "Organiser le contenu dans Canada.ca"
     <h4>Contenu historique</h4>
     <p>Le contenu historique englobe l’information qui a été révisée ou remplacée par des éléments de contenu plus récents. Retirez ce contenu du site Web et conservez-le dans le dépôt de contenu de l’organisation aux fins de la gestion des documents.</p>
   </section>
+  <section>
+    <nav role="navigation" class="mrgn-bttm-lg">
+      <h2 class="wb-inv">Navigation de document</h2>
+      <ul class="pager">
+        <li class="previous"><a href="elements-obligatoires.html" rel="prev">Précédent<span class="wb-inv">: Éléments obligatoires</span></a></li>
+        <li class="next"><a href="modeles.html" rel="next">Suivant<span class="wb-inv">: Concevoir le contenu</span></a></li>
+      </ul>
+    </nav>
+  </section>
