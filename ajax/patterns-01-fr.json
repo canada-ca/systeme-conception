@@ -852,7 +852,7 @@
       "CATEGORY": "Configuration de conception",
       "TYPE": "Configuration &#224; l'&#233;chelle du site",
       "MANDATORY": "Obligatoire",
-      "TANDP": "0"
+      "TANDP": "1"
     },
     {
       "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/page-ministeres-organismes.html\">Page des ministères et organismes</a>",
