@@ -40,11 +40,11 @@ title: "Champ de recherche du site"
   </ul>
 </section>
 <h2 id="quand">Quand l’utiliser</h2>
-<p>Le champ de recherche du site est obligatoire sur toutes les pages, sauf les pages transactionnelles.</p>
+<p>Le champ de recherche du site est obligatoire sur toutes les pages, sauf pour les pages transactionnelles.</p>
 <h2 id="eviter">Quoi éviter</h2>
 <p>Ne pas utiliser le champ de recherche du site pour rechercher un contenu autre que celui indexé par GC Recherche. Placer le champ de recherche d’autres jeux de données dans la zone de contenu de la page.</p>
 <h2 id="contenu">Contenu et conception</h2>
-<p>Trouver des spécifications de contenu et de conception et des exemples visuels.</p>
+<p>Trouver des spécifications de contenu et de conception ainsi que des exemples visuels.</p>
 <h3>Spécifications du contenu</h3>
 <p>Le champ de recherche du site est composé de trois éléments visuels&nbsp;:</p>
 <ul>
@@ -86,7 +86,7 @@ title: "Champ de recherche du site"
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Champ de recherche du site – grand écran</summary>
       <p class="mrgn-tp-lg">Le champ de recherche s’affiche dans le coin supérieur droit, sous le lien qui permet de changer de langue et directement à l’opposé de la signature du gouvernement du Canada.</p>
-      <p>La barre de recherche du site est un rectangle défini par des lignes gris clair. Dans le rectangle, on peut lire les mots &laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo;. À la droite du rectangle se trouve un carré bleu dans lequel il y a une icône de loupe blanche.</p>
+      <p>La barre de recherche du site est un rectangle défini par un contour gris clair. Dans le rectangle, on peut lire les mots &laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo;. À la droite du rectangle se trouve un carré bleu dans lequel il y a une icône de loupe blanche.</p>
     </details>
   </figure>
 </div>
@@ -97,12 +97,12 @@ title: "Champ de recherche du site"
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Champ de recherche du site – Petit écran</summary>
       <p class="mrgn-tp-lg">Le champ de recherche s’affiche dans l’en-tête, directement sous la signature du gouvernement du Canada et le lien qui permet de changer de langue. Il couvre la largeur de l’écran.</p>
-      <p>La barre de recherche du site est un rectangle défini par des lignes gris clair. Dans le rectangle, on peut lire les mots &laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo;. À la droite du rectangle se trouve un carré bleu dans lequel il y a une icône de loupe blanche.</p>
+      <p>La barre de recherche du site est un rectangle défini par un contour gris clair. Dans le rectangle, on peut lire les mots &laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo;. À la droite du rectangle se trouve un carré bleu dans lequel il y a une icône de loupe blanche.</p>
     </details>
   </figure>
 </div>
 <h2 id="implementation">Comment procéder à la mise en œuvre</h2>
-<p>Trouver des exemples fonctionnels de la mise en œuvre des fils d’Ariane.</p>
+<p>Trouver des exemples fonctionnels de la mise en œuvre du champ de recherche du site.</p>
 <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
 <p>La référence à la mise en œuvre comprend la façon de configurer chaque élément de l’en-tête.</p>
 <ul>
