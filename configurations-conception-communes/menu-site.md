@@ -22,7 +22,7 @@ title: "Menu thématique"
     </ul>
   </div>
 </div>
-<p><span class="label label-danger">Obligatoire sur les pages standard</span></p>
+<p><span class="label label-danger">Obligatoire sur les pages standards</span></p>
 <p>Le menu thématique donne accès aux principales tâches de tous les sites Web du gouvernement du Canada regroupés sous les principaux thèmes de Canada.ca.</p>
 <div class="pattern-demo mrgn-tp-lg">
   <figure class="mrgn-bttm-sm"><img src="../images/01-theme-menu-flyout-fr.png" class="img-responsive" alt=""></figure>
@@ -47,7 +47,7 @@ title: "Menu thématique"
   <li><strong>Pages transactionnelles</strong> facultatives, mais déconseillées</li>
   <li><strong>Pages thématiques</strong> obligatoires</li>
 </ul>
-<p>Sur les <strong>pages de destination standard</strong> et les <strong>pages d’accueil institutionnelles</strong>, le menu thématique est obligatoire jusqu’à ce que TOUTES les conditions suivantes soient remplies&nbsp;:</p>
+<p>Sur les <strong>pages de destination standards</strong> et les <strong>pages d’accueil institutionnelles</strong>, le menu thématique est obligatoire jusqu’à ce que TOUTES les conditions suivantes soient remplies&nbsp;:</p>
 <ul>
   <li>La page comporte le <a href="https://conception.canada.ca/configurations-conception-communes/pied-page.html"> pied de page général</a> de&nbsp;2023.</li>
   <li>Le menu reçoit régulièrement moins de 1&nbsp;% des clics au sein d’un groupe de pages liées.
@@ -106,7 +106,7 @@ title: "Menu thématique"
 <h4>Interactions</h4>
 <h5>Grands écrans</h5>
 <ul>
-  <li>Cliquer sur le bouton de menu développe l’élément de la liste de thèmes avec le menu déroulant des travaux ouvert.</li>
+  <li>Cliquer sur le bouton de menu développe l’élément de la liste de thèmes avec le menu déroulant des travaux ouverts.</li>
   <li>Une fois ouvert, survoler ou cliquer sur l’un des 15 thèmes révèle un menu déroulant pour ce thème.</li>
   <li>Il faut cliquer une deuxième fois sur le menu pour le fermer.</li>
 </ul>
@@ -126,7 +126,7 @@ title: "Menu thématique"
       <li>Taille du texte&nbsp;: 20px ou 1em</li>
       <li>Police&nbsp;: Noto Sans</li>
     </ul>
-    <p>Remarque : La page d’accueil de Canada.ca utilise un style différent pour le bouton de menu. Ce style est réservé à la page d’accueil uniquement.</p>
+    <p>Remarque : la page d’accueil de Canada.ca utilise un style différent pour le bouton de menu. Ce style est réservé à la page d’accueil uniquement.</p>
   </li>
   <li class="mrgn-tp-lg">Styles de liste de thèmes&nbsp;:
     <ul>
@@ -236,11 +236,11 @@ title: "Menu thématique"
 <p><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche : Orientation dans Canada.ca</a><br>
   Ce résumé explique le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception.</p>
 <p><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
-  This blog post explains the changes that are being made to the Canada.ca design, and how they are being implemented.</p>
+  Ce billet de blogue explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre.</p>
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt>
     <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
   </dt>
-  <dd>Modèle mis à jour pour refléter les changements de conception du projet Orientation.  Modèle mis à jour pour refléter les changements de conception du projet Orientation.</dd>
+  <dd>Modèle mis à jour pour refléter les changements de conception du projet Orientation.</dd>
 </dl>
