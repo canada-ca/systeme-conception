@@ -21,131 +21,72 @@ title: "Champ de recherche du site"
   </div>
 </div>
 </section>
-<div class="row">
-<div class="brand col-xs-5 col-md-4">
-<a href="https://www.canada.ca/fr.html"><img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-fr.svg" alt=""><span class="wb-inv"> Gouvernement du Canada / <span lang="en">Government of Canada</span></span></a>
-</div>
-<section id="wb-srch" class="col-lg-8 text-right">
-	<h2>Recherche</h2>
-<form action="https://canada.ca/fr/sr/srb.html" method="get" role="search" class="form-inline">
-
-<div class="form-group">
-
-	<label for="wb-srch-q" class="wb-inv">Rechercher dans Canada.ca</label>
-
-	<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Rechercher dans Canada.ca">
-
-<input name="st" value="s" type="hidden"/>
-
-<input name="num" value="10" type="hidden"/>
-
-<input name="langs" value="fra" type="hidden"/>
-
-<input name="st1rt" value="0" type="hidden">
-
-<input name="s5bm3ts21rch" value="x" type="hidden"/>
-
-<datalist id="wb-srch-q-ac">
-
-<!--[if lte IE 9]><select><![endif]-->
-
-<!--[if lte IE 9]></select><![endif]-->
-
-</datalist>
-
-</div>
-
-<div class="form-group submit">
-
-	<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
-
-
-</div>
-
-</form>
-
-
-</section>
-</div>
-</div>
-<nav class="gweb-v2 gcweb-menu" typeof="SiteNavigationElement">
-<div class="container">
-<h2 class="wb-inv">Menu</h2>
-<button type="button" aria-haspopup="true" aria-controls="gc-mnu" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
-<ul id="gc-mnu" role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
-	<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Emplois et milieu de travail</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration et citoyenneté</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Prestations</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport et infrastructure</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="http://international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
-
-<li role="none presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
-
+<h2 id="quand">Quand l’utiliser</h2>
+<p>Le champ de recherche du site est obligatoire sur toutes les pages, sauf pour les pages transactionnelles.</p>
+<h2 id="eviter">Quoi éviter</h2>
+<p>Ne pas utiliser le champ de recherche du site pour rechercher un contenu autre que celui indexé par GC Recherche. Placer le champ de recherche d’autres jeux de données dans la zone de contenu de la page.</p>
+<h2 id="contenu">Contenu et conception</h2>
+<p>Trouver des spécifications de contenu et de conception ainsi que des exemples visuels.</p>
+<h3>Spécifications du contenu</h3>
+<p>Le champ de recherche du site est composé de trois éléments visuels&nbsp;:</p>
+<ul>
+  <li>un champ de saisie de texte (170 caractères tout au plus);</li>
+  <li>un texte réservé pour le champ de saisie;</li>
+  <li>un bouton de recherche et une icône de loupe.</li>
 </ul>
+<p>Dans le champ de saisie de texte, l’étiquette de l’espace réservé est la suivante&nbsp;:</p>
+<ul>
+  <li>&laquo;&nbsp;Search Canada.ca&nbsp;&raquo; en anglais</li>
+  <li>&laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo; en français</li>
+</ul>
+<p>L’étiquette de l’espace réservé dans un champ de recherche personnalisé est la suivante&nbsp;:</p>
+<ul>
+  <li>&laquo;&nbsp;Search [institution]&nbsp;&raquo; en anglais</li>
+  <li>&laquo;&nbsp;Rechercher dans [institution]&nbsp;&raquo; en français</li>
+</ul>
+<h4>Interactions</h4>
+<ul>
+  <li>Les recherches interrogent l’index de GC Recherche. Lorsque l’on saisit un terme de recherche dans le champ de saisie et que l’on sélectionne l’icône de recherche, une page de résultats s’ouvre.</li>
+</ul>
+<h3>Spécifications de conception</h3>
+<p>Les spécifications de conception pour le champ de recherche du site sont les suivantes&nbsp;:</p>
+<ul>
+  <li>Position&nbsp;: coin supérieur droit de la zone de l’en-tête général, sous le lien qui permet de changer de langue</li>
+  <li>Catégorie de formulaire&nbsp;: form-inline</li>
+  <li>Icône de bouton&nbsp;: glyphicon-search glyphicon</li>
+  <li>Catégorie de bouton&nbsp;: btn btn-primary btn-small</li>
+  <li>Couleur&nbsp;: n<sup>o</sup>&nbsp;26374a</li>
+  <li>Longueur du champ de saisie&nbsp;: longueur maximale&nbsp;=&nbsp;170</li>
+  <li>Taille de valeur&nbsp;: 34</li>
+</ul>
+<p>Les éléments de recherche sont réactifs. Ils s’adaptent à la taille de l’écran.</p>
+<h3>Exemples visuels</h3>
+<div class="pattern-demo mrgn-tp-lg">
+  <figure>
+    <figcaption><b>Champ de recherche du site – grand écran</b></figcaption>
+    <img src="../images/01-site-search-fr.png" class="img-responsive" alt=" ">
+    <details class="mrgn-tp-md">
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Champ de recherche du site – grand écran</summary>
+      <p class="mrgn-tp-lg">Le champ de recherche s’affiche dans le coin supérieur droit, sous le lien qui permet de changer de langue et directement à l’opposé de la signature du gouvernement du Canada.</p>
+      <p>La barre de recherche du site est un rectangle défini par un contour gris clair. Dans le rectangle, on peut lire les mots &laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo;. À la droite du rectangle se trouve un carré bleu dans lequel il y a une icône de loupe blanche.</p>
+    </details>
+  </figure>
 </div>
-</nav>
-<nav id="wb-bc" property="breadcrumb">
-<h2>Vous êtes ici :</h2>
-<div class="container">
-<ol class="breadcrumb">
-	<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a></li>
-	<li><a href='https://www.canada.ca/fr/gouvernement/a-propos.html'>À propos de Canada.ca</a></li>
-<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html'>Système de conception de Canada.ca</a></li>
-	<li><a href='https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html'>Bibliothèque de modèles et de configurations de conception</a></li>
-</ol>
+<div class="pattern-demo mrgn-tp-lg">
+  <figure>
+    <figcaption><b>Champ de recherche du site – Petit écran</b></figcaption>
+    <img src="../images/01-site-search-sm-fr.png" class="img-responsive" alt="">
+    <details class="mrgn-tp-md">
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Champ de recherche du site – Petit écran</summary>
+      <p class="mrgn-tp-lg">Le champ de recherche s’affiche dans l’en-tête, directement sous la signature du gouvernement du Canada et le lien qui permet de changer de langue. Il couvre la largeur de l’écran.</p>
+      <p>La barre de recherche du site est un rectangle défini par un contour gris clair. Dans le rectangle, on peut lire les mots &laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo;. À la droite du rectangle se trouve un carré bleu dans lequel il y a une icône de loupe blanche.</p>
+    </details>
+  </figure>
 </div>
-</nav>
-</header>
-
-<!--/* Hide Nav; Hide Right Rail /*-->
-
-<main role="main" property="mainContentOfPage" class="container">
-
-
-<h1 property="name" id="wb-cont" dir="ltr">Champ de recherche du site - Configuration de conception de Canada.ca</h1>
-
-<p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
-
-
-<section>
-<p><span class="label label-danger">Obligatoire sur les pages régulières</span></p>
-<p>La capacité d’effectuer une recherche dans tout le contenu du gouvernement du Canada est prise en charge par un simple champ de recherche, qui figure dans l’en-tête général du site.</p>
-<section>
-<h2>Objectif</h2>
-<p>La fonction de recherche fournit une autre méthode pour découvrir du contenu que les visiteurs peuvent utiliser afin de repérer directement du contenu affiché sur Canada.ca. Elle permet à la personne de contourner complètement la navigation en saisissant des mots-clés que le système associera avec le contenu pertinent du gouvernement du Canada.</p>
-</section>
-<figure>
-		<figcaption><b>Champ de recherche du site</b></figcaption>
-		<img src="../images/site-search-fr.png" alt="Le champ de recherche du site est dans le coin supérieur droit du gabarit Canada.ca.">
-	</figure>
-<section>
-<h2>Quand utiliser le champ de recherche du site</h2>
-<p>La champ de recherche du site est obligatoire sur toutes les pages, à l'exception des pages de campagne et des pages transactionnelles. Pour en savoir plus, allez à <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html#entete-piedpage">Éléments obligatoires du système de conception</a>.</p>
-</section>
-<section>
-<h2>Comment mettre en œuvre le champ de recherche du site</h2>
+<h2 id="implementation">Comment procéder à la mise en œuvre</h2>
+<p>Trouver des exemples fonctionnels de la mise en œuvre du champ de recherche du site.</p>
+<h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
+<p>La référence à la mise en œuvre comprend la façon de configurer chaque élément de l’en-tête.</p>
 <ul>
 <li>Une recherche de base comprend 2 éléments&nbsp;: un champ de texte pour saisir le mot-clé et un bouton pour lancer la requête.</li>
 <li>Sur les grans écrans, le champ de recherche de base se trouve à la droite, dans l’en-tête général</li>
