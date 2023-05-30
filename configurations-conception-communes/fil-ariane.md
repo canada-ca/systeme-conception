@@ -46,7 +46,7 @@ title: "Fil d'Ariane"
   <p>Évitez les longues étiquettes de liens. Utilisez une version abrégée du titre de la page, au besoin.</p>
   <p>N’affichez pas la page actuelle à la fin du fil d’Ariane (avec ou sans lien). Cela augmente inutilement la longueur du fil d’Ariane, surtout sur les appareils mobiles. L’en-tête de la page est suffisant pour indiquer aux internautes où ils se trouvent.</p>
   <h2 id="contenu">Contenu et conception</h2>
-  <p>Trouver des spécifications du contenu et de conception et des exemples visuels.</p>
+  <p>Trouver des spécifications du contenu et de conception ainsi que des exemples visuels.</p>
   <h3>Spécifications du contenu</h3>
   <ul>
     <li>Alignez le fil d’Ariane à gauche, directement sous le bouton de menu (ou la ligne de séparation s’il n’y a pas de bouton de menu).</li>
@@ -61,13 +61,13 @@ title: "Fil d'Ariane"
       </ul>
     </li>
     <li>Utilisez un GLYPHICON de chevron droit simple pour séparer chaque lien du fil d’Ariane.</li>
-    <li>Incluez le titre de la page dans l’étiquette des fils d’Ariane.
+    <li>Incluez le titre de la page dans l’étiquette du fil d’Ariane.
       <ul>
-        <li>Abrégez les étiquettes des fil d’Ariane dans la mesure du possible pour améliorer la lisibilité et réduire l’espace occupé.</li>
+        <li>Abrégez les étiquettes du fil d’Ariane dans la mesure du possible pour améliorer la lisibilité et réduire l’espace occupé.</li>
       </ul>
     </li>
   </ul>
-  <p>Ainsi, ces fils d’Ariane&nbsp;:</p>
+  <p>Ainsi, ce fil d’Ariane&nbsp;:</p>
 </div>
 <div class="container">
   <p class="breadcrumb">Canada.ca <span class="glyphicon glyphicon-chevron-right small"></span> Immigration et citoyenneté <span class="glyphicon glyphicon-chevron-right small"></span> Citoyenneté canadienne <span class="glyphicon glyphicon-chevron-right small"></span> Présenter une demande de citoyenneté canadienne <span class="glyphicon glyphicon-chevron-right small"></span> Se préparer à l’examen pour la citoyenneté et à l’entrevue</p>
@@ -86,7 +86,7 @@ title: "Fil d'Ariane"
     <li>Lorsqu’il est sélectionné, chaque fil d’Ariane doit amener l’utilisateur à une page unique.</li>
   </ul>
   <h3>Spécifications de conception</h3>
-  <p>Voici les spécifications de conception des fils d’Ariane :</p>
+  <p>Voici les spécifications de conception du fil d’Ariane :</p>
   <ul>
     <li>Type&nbsp;: lien</li>
     <li>Position&nbsp;: coin supérieur gauche</li>
@@ -110,7 +110,7 @@ title: "Fil d'Ariane"
     <li>Icône&nbsp;: glyphicon-chevron-right</li>
   </ul>
   <h4>Accessibilité</h4>
-  <p>Programmez les fils d’Ariane en tant que liste ordonnée.</p>
+  <p>Programmez le fil d’Ariane en tant que liste ordonnée.</p>
   <h4>Structure du fil d’Ariane</h4>
   <p>Voici des exemples de fils d’Ariane dans différents endroits sur le site Canada.ca.</p>
 </div>
@@ -162,7 +162,7 @@ title: "Fil d'Ariane"
       <img src="../images/01-breadcrumbs-main-fr.png" class="img-responsive" alt=" ">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: En-tête général avec fil d’Ariane – grand écran</summary>
-        <p class="mrgn-tp-lg">Le fil d’Ariane apparaît sous le bouton de menu dans une ligne horizontale.</p>
+        <p class="mrgn-tp-lg">Le fil d’Ariane apparaît sous le bouton de menu sur une ligne horizontale.</p>
       </details>
     </figure>
   </div>
@@ -177,7 +177,7 @@ title: "Fil d'Ariane"
     </figure>
   </div>
   <h2 id="implementation">Comment procéder à la mise en œuvre</h2>
-  <p>Trouver des exemples fonctionnels de l’implémentation des fils d’Ariane.</p>
+  <p>Trouver des exemples fonctionnels de l’implémentation du fil d’Ariane.</p>
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <p>La référence à l’implémentation comprend la façon de configurer chaque élément de l’en-tête.</p>
   <ul>
@@ -185,7 +185,7 @@ title: "Fil d'Ariane"
     <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-fr.html">Documentation de l’en-tête GCWeb (Boîte à outils de l’expérience Web)</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide d’implémentation rapide - thème GCWeb</a></li>
   </ul>
-  <h3>Mise en œuvre</h3>
+  <h3>Mises en œuvre</h3>
   <p>Déterminez ce qui convient le mieux au type de page que vous créez. Consultez les instructions applicables à votre implémentation si vous souhaitez exclure les fils d’Ariane.</p>
   <div class="row">
     <div class="col-md-8">
