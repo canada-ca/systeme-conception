@@ -99,7 +99,7 @@ title: "Lien pour changer de langue"
       <img src="../images/01-lang-toggle-en.png" class="img-responsive" alt="">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;:  Changer la langue – grand écran (Page anglaise)</summary>
-        <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en anglais avec mise en surbrillance du mot lié Français dans le coin supérieur droit</p>
+        <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en anglais avec mise en surbrillance du mot lié Français dans le coin supérieur droit.</p>
       </details>
     </figure>
   </div>
@@ -109,7 +109,7 @@ title: "Lien pour changer de langue"
       <img src="../images/01-lang-toggle-fr.png" class="img-responsive" alt="">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Changer la langue (Page française) – grand écran</summary>
-        <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en français avec mise en surbrillance du mot lié English dans le coin supérieur droit </p>
+        <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en français avec mise en surbrillance du mot lié English dans le coin supérieur droit.</p>
       </details>
     </figure>
   </div>
@@ -119,7 +119,7 @@ title: "Lien pour changer de langue"
       <img src="../images/01-lang-toggle-sm-en.png" class="img-responsive" alt="">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Changer la langue (Page anglaise) – petit écran</summary>
-        <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en anglais avec mise en surbrillance de l’abréviation liée FR dans le coin supérieur droit</p>
+        <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en anglais avec mise en surbrillance de l’abréviation liée FR dans le coin supérieur droit.</p>
       </details>
     </figure>
   </div>
@@ -129,12 +129,12 @@ title: "Lien pour changer de langue"
       <img src="../images/01-lang-toggle-sm-fr.png" class="img-responsive" alt="">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Changer la langue (Page française) – petit écran</summary>
-        <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en anglais avec mise en surbrillance de l’abréviation liée EN dans le coin supérieur droit</p>
+        <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en français avec mise en surbrillance de l’abréviation liée EN dans le coin supérieur droit.</p>
       </details>
     </figure>
   </div>
   <h2 id="implementation">Comment procéder à la mise en oeuvre</h2>
-  <p>Trouver des exemples fonctionnels de l’implémentation des fils d’Ariane.</p>
+  <p>Trouver des exemples fonctionnels de l’implémentation du lien pour changer de langue.</p>
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <p>La référence à l’implémentation comprend la façon de configurer chaque élément de l’en-tête.</p>
   <ul>
