@@ -113,12 +113,12 @@ title: "En-tête global"
         </details>
         <details id="002">
           <summary><strong>Pages transactionnelles</strong></summary>
-          <p class="mrgn-tp-lg"><strong>Transactional web pages</strong> are pages with an interaction task where people might lose data, trigger errors, or terminate their session if they navigate away from the page.</p>
-          <h3>Global header requirements for transactional pages</h3>
+          <p class="mrgn-tp-lg">Les <strong>pages transactionnelles</strong> sont des pages où les gens sont engagés dans un processus transactionnel, et le fait de suivre par erreur d’autres liens entraînerait des erreurs, une perte de données ou une interruption accidentelle de la session.</p>
+          <h3>Exigences pour l’entête globale sur une page transactionnelle/h3>
           <div class="panel panel-default mrgn-tp-md">
             <table class="table table-striped" id="mandatory-02" aria-live="polite">
               <caption class="wb-inv">
-              Global header requirements
+              Exigences pour l’entête globale 
               </caption>
               <thead>
                 <tr>
@@ -173,11 +173,11 @@ title: "En-tête global"
         <details id="003">
           <summary><strong>Pages de campagne</strong></summary>
           <p class="mrgn-tp-lg">Les <strong>Pages de campagne</strong> sont des pages d'accueil pour les campagnes de marketing ou de publicité externes. La flexibilité de la présentation permet aux institutions de faire correspondre des éléments de leur campagne externe avec cette page d'accueil.</p>
-          <h3>Global header requirements for a campaign page</h3>
+          <h3>Exigences pour l’entête globale sur une page de campagne</h3>
           <div class="panel panel-default mrgn-tp-md">
             <table class="table table-striped" id="mandatory-03" aria-live="polite">
               <caption class="wb-inv">
-              Global header requirements
+              Exigences pour l’entête globale 
               </caption>
               <thead>
                 <tr>
@@ -229,7 +229,7 @@ title: "En-tête global"
 <div class="cnt-wdth-lmtd">
   <h2 id="eviter">Ce qu’il faut éviter</h2>
   <p>Ne personnalisez pas les éléments obligatoires de l’en-tête global au-delà de ce qui est recommandé dans les instructions pour chacun d’entre eux. La cohérence dans cet espace est essentielle pour renforcer la notoriété de la marque et la confiance des utilisateurs.</p>
-  <p>Par exemple, le symbole du drapeau dans la signature du gouvernement du Canada devrait toujours être du ton de rouge approprié, et le premier lien du fil d’Ariane devrait toujours être intitulé &laquo;&nbsp;Canada.ca&nbsp;&raquo; et pointer vers la page d’accueil de Canada.ca.</p>
+  <p>Par exemple, le symbole du drapeau dans la signature du gouvernement du Canada devrait toujours être du ton de rouge approprié. Le premier lien du fil d’Ariane devrait toujours être intitulé &laquo;&nbsp;Canada.ca&nbsp;&raquo; et pointer vers la page d’accueil de Canada.ca.</p>
   <h2 id="contenu">Contenu et conception</h2>
   <p>Trouver des spécifications du contenu et de conception et des exemples visuels.</p>
   <ul>
@@ -362,7 +362,7 @@ title: "En-tête global"
           </ul>
         </details>
         <details id="005">
-          <summary><strong>CDTS</strong></summary>
+          <summary><strong>SGDC</strong></summary>
           <p class="mrgn-tp-lg">Pour la solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
           <ul>
             <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
@@ -382,7 +382,7 @@ title: "En-tête global"
 <div class="cnt-wdth-lmtd">
   <h2 id="recherche">Recherche et justification</h2>
   <p>Consultez les conclusions des recherches et la justification de la politique.</p>
-  <h3>Constations découlant des recherches</h3>
+  <h3>Constatations découlant des recherches</h3>
   <p>Deux projets de recherche sont à la base des dernières mises à jour des directives relatives à l’en-tête.</p>
   <h4>Étude sur la confiance du Canada.ca</h4>
   <p>Notre étude sur la confiance du Canada.ca et des recherches antérieures montrent qu’un en-tête cohérent est nécessaire pour maintenir une marque de confiance.</p>
@@ -398,7 +398,7 @@ title: "En-tête global"
     <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche : Orientation dans Canada.ca</a><br>
       Ce résumé explique le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception.</li>
     <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
-      Ce billet de blogue explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre..</li>
+      Ce billet de blogue explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre.</li>
   </ul>
   <h3>Justification stratégique</h3>
   <p>Ce modèle est un élément obligatoire des spécifications du contenu et de l’architecture de l’information pour Canada.ca.</p>
@@ -410,11 +410,11 @@ title: "En-tête global"
     <dt>
       <time datetime="YYYY-MM-DD" class="link-muted">YYYY-MM-DD</time>
     </dt>
-    <dd>Mise à jour du modèle pour refléter les changements de la conception en fonction de l’étude sur la confiance et du projet Orientation, ajout d’exemples visuels pour les différents types de pages, ajout de liens vers des projets de recherche qui servent à éclairer les directives relatives à l’en-tête</dd>
+    <dd>Mise à jour du modèle pour refléter les changements de la conception en fonction de l’étude sur la confiance et du projet Orientation, ajout d’exemples visuels pour les différents types de pages et ajout de liens vers des projets de recherche qui servent à éclairer les directives relatives à l’en-tête</dd>
     <dt>
       <time datetime="2022-08-17" class="link-muted">2022-08-17</time>
     </dt>
-    <dd>Mise à jour de la conception du contenu pour plus de clarté, ajout d’un bouton contextuel de connexion, ajout de ressources de mise en œuvre</dd>
+    <dd>Mise à jour de la conception du contenu pour plus de clarté, ajout d’un bouton contextuel de connexion et ajout de ressources de mise en œuvre</dd>
     <dt>
       <time datetime="2020-06-25" class="link-muted">2020-06-25</time>
     </dt>
