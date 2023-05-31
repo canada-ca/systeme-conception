@@ -22,8 +22,8 @@ title: "Signature du gouvernement du Canada"
     </ul>
   </div>
 </div>
-<p><span class="label label-danger">Obligatoire sur tous des pages</span></p>
-<p>La signature du gouvernement du Canada est un élément obligatoire de l’en-tête global. Elle est un symbole officiel du gouvernement du Canada et combine le symbole du drapeau et &laquo;&nbsp;gouvernement du Canada&nbsp;&raquo; dans les deux langues officielles.</p>
+<p><span class="label label-danger">Obligatoire sur toutes les pages</span></p>
+<p>La signature du gouvernement du Canada est un élément obligatoire de l’en-tête global. Elle est un symbole officiel du gouvernement du Canada et combine le symbole du drapeau et &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; dans les deux langues officielles.</p>
 <p>La signature du gouvernement du Canada aide les utilisateurs à réaliser que la page sur laquelle ils se trouvent appartient au gouvernement du Canada.</p>
 <div class="pattern-demo mrgn-tp-lg">
   <figure class="mrgn-bttm-sm"><img src="../images/01-sig-fr.png" class="img-responsive" alt=""></figure>
@@ -54,7 +54,7 @@ title: "Signature du gouvernement du Canada"
   <li>La signature doit, en premier lieu, être affichée en anglais sur les pages anglaises et en français sur les pages françaises</li>
 </ul>
 <h4>Accessibilité</h4>
-<p>Ajoutez &laquo;&nbsp;Government of Canada&nbsp;&raquo; en guise de texte de remplacement sur les pages anglaises, et &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; en guise de texte de remplacement sur les pages françaises.</p>
+<p>Ajoutez &laquo;&nbsp;Government of Canada&nbsp;&raquo; en guise de texte de remplacement sur les pages anglaises et &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; en guise de texte de remplacement sur les pages françaises.</p>
 <h4>Interactions</h4>
 <p>Lorsque l’utilisateur sélectionne la signature, cela lui permet d’accéder à la page d’accueil de Canada.ca.</p>
 <h3>Spécifications du contenu</h3>
@@ -67,7 +67,7 @@ title: "Signature du gouvernement du Canada"
   <li>Texte de remplacement&nbsp;: Gouvernement du Canada</li>
 </ul>
 <p>La signature est un fichier SVG (graphique vectoriel adaptable), configuré pour s’adapter automatiquement à la taille de l’écran. </p>
-<p>La signature est un fichier image qui doit être formatée conformément aux <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/norme-graphique/couleurs-norme-graphique-pfim.html">spécifications de conception du Programme de coordination de l’image de marque</a>.</p>
+<p>La signature est un fichier image qui doit être formaté conformément aux <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/norme-graphique/couleurs-norme-graphique-pfim.html">spécifications de conception du Programme de coordination de l’image de marque</a>.</p>
 <h3>Exemples visuels</h3>
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
