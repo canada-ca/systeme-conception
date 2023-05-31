@@ -114,7 +114,7 @@ title: "En-tête global"
         <details id="002">
           <summary><strong>Pages transactionnelles</strong></summary>
           <p class="mrgn-tp-lg">Les <strong>pages transactionnelles</strong> sont des pages où les gens sont engagés dans un processus transactionnel, et le fait de suivre par erreur d’autres liens entraînerait des erreurs, une perte de données ou une interruption accidentelle de la session.</p>
-          <h3>Exigences pour l’entête globale sur une page transactionnelle/h3>
+          <h3>Exigences pour l’entête globale sur une page transactionnelle</h3>
           <div class="panel panel-default mrgn-tp-md">
             <table class="table table-striped" id="mandatory-02" aria-live="polite">
               <caption class="wb-inv">
@@ -157,13 +157,13 @@ title: "En-tête global"
                 </tr>
                 <tr>
                   <td>Couleur d'arrière-plan (blanc)</td>
-                  <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
+                  <td><span class="far fa-check-circle text-success"></span><span class="wb-inv">Obligatoire</span></td>
                 </tr>
               </tbody>
               <tfoot>
                 <tr>
                   <td colspan="2"><div class="fn-rtn small mrgn-tp-md" id="tmenu-note">
-                      <p><a href="#tmenu"><span class="wb-inv">Retour à la note </span>Nota<span class="wb-inv"> referrer</span></a>&nbsp;: Les nouvelles pages transactionnelles des applications Web doivent permettre aux utilisateurs de basculer entre les langues officielles. Les anciennes applications Web qui ne permettent pas de basculer d’une langue à l’autre doivent être mises à jour ou remplacées. En attendant, vous pouvez omettre le basculement entre les langues si son utilisation entraîne une perte de données.</p>
+                      <p><a href="#tmenu"><span class="wb-inv">Retour à la note</span>Nota<span class="wb-inv"> referrer</span></a>&nbsp;: Les nouvelles pages transactionnelles des applications Web doivent permettre aux utilisateurs de basculer entre les langues officielles. Les anciennes applications Web qui ne permettent pas de basculer d’une langue à l’autre doivent être mises à jour ou remplacées. En attendant, vous pouvez omettre le basculement entre les langues si son utilisation entraîne une perte de données.</p>
                     </div></td>
                 </tr>
               </tfoot>
