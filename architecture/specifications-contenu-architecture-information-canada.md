@@ -13,8 +13,8 @@ title: "Spécifications du contenu et de l’architecture de l'information pour 
 ---
 <p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
 <p>Le système de conception de Canada.ca fournit des modèles, des configurations de conception et des principes de conception testés par les utilisateurs. Le système permet aux concepteurs et aux développeurs de créer une expérience en ligne plus conviviale, plus cohérente et plus fiable pour les gens qui accèdent aux services numériques du gouvernement du Canada.</p>
-<p class="text-right">Version 2.1.2</p>
-<p class="text-right">Révisé&nbsp;: le
+<p>Version 2.1.2</p>
+<p">Révisé&nbsp;: le
   <time datetime="2020-10-21">21 octobre 2020</time>
 </p>
 <div class="row">
@@ -45,5 +45,5 @@ title: "Spécifications du contenu et de l’architecture de l'information pour 
     </div>
   </section>
 </div>
-<p class="mrgn-tp-lg text-center small">© Sa Majesté la Reine du chef du Canada, représentée par le président du Conseil du Trésor, 2017,<br>
+<p class="mrgn-tp-lg small">© Sa Majesté la Reine du chef du Canada, représentée par le président du Conseil du Trésor, 2017,<br>
   ISBN&nbsp;: 978-0-660-09332-1</p>
