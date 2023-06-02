@@ -43,5 +43,5 @@ title: "Spécifications du contenu et de l’architecture de l'information pour 
     </div>
   </section>
 </div>
-<p class="mrgn-tp-lg small">© Sa Majesté la Reine du chef du Canada, représentée par le président du Conseil du Trésor, 2017,<br>
+<p class="mrgn-tp-lg small">© Sa Majesté la Reine du chef du Canada, représentée par le président du Conseil du Trésor, 2017<br>
   ISBN&nbsp;: 978-0-660-09332-1</p>
