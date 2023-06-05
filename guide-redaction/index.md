@@ -60,7 +60,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h2 id="toc4">Politiques, normes et procédures connexes</h2>
     <p>Votre contenu doit se conformer aux&nbsp;:</p>
     <ul>
-      <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <cite><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite></li>
+      <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <cite><a href="{{ site.url}}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite></li>
       <li>exigences énoncées dans les instruments&nbsp;législatifs et politiques, notamment&nbsp;:
         <ul>
           <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683">Politique sur les communications et l'image de marque</a></cite></li>
