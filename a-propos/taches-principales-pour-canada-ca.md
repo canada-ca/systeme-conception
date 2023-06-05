@@ -26,121 +26,121 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>1</td>
       <td>Vérifiez l’état de sa demande</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>37747</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Compte sécurisé d'IRCC - enregistrer, connecter, aide</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>11842</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Présenter une demande de permis de travail</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>10663</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Immigrez dans le cadre d’Entrée express</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>9417</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Assurance-emploi – Soumettre une déclaration d'assurance-emploi</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a></td>
       <td>8885</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Consulter mes feuillets de renseignements T4</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>8533</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Obtenir une copie de mon avis de cotisation ou de nouvelle cotisation</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>8018</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Étudier au Canada – pour les non-Canadiens</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>7594</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Visualiser l’état de votre demande d'assurance-emploi</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a></td>
       <td>7390</td>
     </tr>
     <tr>
       <td>10</td>
       <td>Prestation canadienne de la relance économique (PCRE)</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>6633</td>
     </tr>
     <tr>
       <td>11</td>
       <td>Présenter une demande de visa de visiteur au Canada</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>6275</td>
     </tr>
     <tr>
       <td>12</td>
       <td>Emploi à la fonction publique fédérale</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/commission-fonction-publique.html">Commission de la fonction publique du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/commission-fonction-publique.html">Commission de la fonction publique du Canada</a></td>
       <td>6189</td>
     </tr>
     <tr>
       <td>13</td>
       <td>Consulter mon courrier en ligne</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>6056</td>
     </tr>
     <tr>
       <td>14</td>
       <td>Emploi dans le secteur privé</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a></td>
       <td>5931</td>
     </tr>
     <tr>
       <td>15</td>
       <td>Vérifiez les délais de traitement</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>5681</td>
     </tr>
     <tr>
       <td>16</td>
       <td>Présenter une demande de prestations de l'assurance-emploi</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a></td>
       <td>5185</td>
     </tr>
     <tr>
       <td>17</td>
       <td>Présentez une demande de citoyenneté canadienne</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>4602</td>
     </tr>
     <tr>
       <td>18</td>
       <td>Communiquez avec Immigration, Réfugiés et Citoyenneté Canada</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>4541</td>
     </tr>
     <tr>
       <td>19</td>
       <td>Nombre de cas de COVID-19, statistiques</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/sante-canada.html">Santé Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/sante-canada.html">Santé Canada</a></td>
       <td>3615</td>
     </tr>
     <tr>
       <td>20</td>
       <td>Exigences concernant les tests de COVID-10 pour les voyageurs</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/sante-publique.html">Agence de la santé publique du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/sante-publique.html">Agence de la santé publique du Canada</a></td>
       <td>3565</td>
     </tr>
     <tr>
@@ -158,13 +158,13 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>23</td>
       <td>Vaccins et traitements [COVID-19]</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/sante-canada.html">Santé Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/sante-canada.html">Santé Canada</a></td>
       <td>3437</td>
     </tr>
     <tr>
       <td>24</td>
       <td>Obtenir votre preuve de vaccination canadienne contre la COVID-19</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/sante-canada.html">Santé Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/sante-canada.html">Santé Canada</a></td>
       <td>3352</td>
     </tr>
     <tr>
@@ -176,19 +176,19 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>26</td>
       <td>Ouvrir un compte pour le service Mon dossier</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>3049</td>
     </tr>
     <tr>
       <td>27</td>
       <td>Immigrez en tant que candidat d’une province</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>2609</td>
     </tr>
     <tr>
       <td>28</td>
       <td>Canada Recovery Sickness Benefit (CRSB)</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>2563</td>
     </tr>
     <tr>
@@ -200,73 +200,73 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>30</td>
       <td>Produire une déclaration de TPS/TVH</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>2138</td>
     </tr>
     <tr>
       <td>31</td>
       <td>Parrainez les membres de votre famille aux fins d’immigration au Canada</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>2136</td>
     </tr>
     <tr>
       <td>32</td>
       <td>Trouvez une trousse de demande ou un formulaire d’IRCC</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>2067</td>
     </tr>
     <tr>
       <td>33</td>
       <td>Symptômes et dépistage</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/sante-canada.html">Santé Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/sante-canada.html">Santé Canada</a></td>
       <td>2051</td>
     </tr>
     <tr>
       <td>34</td>
       <td>Prestation canadienne pour les travailleurs en cas de confinement (PCTCC)</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>2047</td>
     </tr>
     <tr>
       <td>35</td>
       <td>Se renseigner sur le plafond de cotisation annuel à un compte d’épargne libre d’impôt (CÉLI)</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>1962</td>
     </tr>
     <tr>
       <td>36</td>
       <td>Savoir quand je peux m’attendre à recevoir mon remboursement d’impôt</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>1937</td>
     </tr>
     <tr>
       <td>37</td>
       <td>Faire un paiement à l’Agence du revenu du canada</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>1840</td>
     </tr>
     <tr>
       <td>38</td>
       <td>Connaître les crédits d’impôt, les déductions ou les dépenses que je peux demander</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>1806</td>
     </tr>
     <tr>
       <td>39</td>
       <td>Découvrez si vous avez besoin d’un visa ou d’une autorisation de voyage électronique (AVE) pour entrer au Canada</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>1725</td>
     </tr>
     <tr>
       <td>40</td>
       <td>Obtenir les conditions actuelles et prévisions pour votre emplacement </td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/sante-publique.html">Environnement et Changement climatique Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/sante-publique.html">Environnement et Changement climatique Canada</a></td>
       <td>1713</td>
     </tr>
     <tr>
       <td>41</td>
       <td>Mon dossier Service Canada - (ouvrir une session, créer un compte)</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/emploi-developpement-social.html">Emploi et Développement social Canada</a></td>
       <td>1699</td>
     </tr>
     <tr>
@@ -278,13 +278,13 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>43</td>
       <td>Prestation canadienne de la relance économique pour proches aidants (PCREPA)</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>1637</td>
     </tr>
     <tr>
       <td>44</td>
       <td>Obtenez, renouvelez ou remplacez une carte de résident permanent</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>1621</td>
     </tr>
     <tr>
@@ -296,13 +296,13 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>46</td>
       <td>Demander un nouveau passeport</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>1585</td>
     </tr>
     <tr>
       <td>47</td>
       <td>Système de classement global (SCG) - immigrants qualifiés (Entrée express)</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/immigration-refugies-citoyennete.html">Immigration, Réfugiés et Citoyenneté Canada</a></td>
       <td>1560</td>
     </tr>
     <tr>
@@ -314,13 +314,13 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>49</td>
       <td>Voyager au Canada [COVID-19]</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/sante-canada.html">Santé Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/sante-canada.html">Santé Canada</a></td>
       <td>1368</td>
     </tr>
     <tr>
       <td>50</td>
       <td>Obtenir un formulaire ou un guide d’impôt</td>
-      <td>urldesigncanadaca<a href="{{ site.urlcanada.ca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
+      <td>urldesigncanadaca<a href="{{ site.urlcanadca }}/fr/agence-revenu.html">Agence du revenu du Canada</a></td>
       <td>1353</td>
     </tr>
   </tbody>
