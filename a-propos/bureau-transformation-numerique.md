@@ -13,4 +13,4 @@ title: "Bureau de la transformation numérique"
   <li>faire en sorte que les renseignements et les services qui sont réclamés et publiés par voies numériques soient plus faciles à trouver et à comprendre selon les informations recueillies dans le cadre de recherches sur les utilisateurs;</li>
   <li>aider les équipes des communications à perfectionner leurs compétences et leurs processus dans le cadre de leur virage durable vers un environnement numérique dans leur organisation.</li>
 </ul>
-<p><a href="{{ site.blog.cs }}/pages/inscrire.html">Abonnez-vous à notre liste d’envoi</a> pour des renseignements au sujet des ateliers, des événements, des activités de recherche sur les utilisateurs et des tests de convivialité auxquels vous pourriez vouloir participer.</p>
+<p><a href="{{ site.urlblogca }}/pages/inscrire.html">Abonnez-vous à notre liste d’envoi</a> pour des renseignements au sujet des ateliers, des événements, des activités de recherche sur les utilisateurs et des tests de convivialité auxquels vous pourriez vouloir participer.</p>
