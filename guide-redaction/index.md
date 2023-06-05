@@ -6,7 +6,7 @@ description: "Ces règles s'appuient sur des principes de rédaction et des tech
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
 ---
-<p>Les règles pour créer du contenu Web qui peut être trouvé, compris et utilisé facilement. Ces règles s'appuient sur des principes de rédaction et des techniques qui aident à fournir un contenu Web clair et adapté aux besoins de tous. Consultez les <cite><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite> lorsque vous concevez et organisez du contenu Web.</p>
+<p>Les règles pour créer du contenu Web qui peut être trouvé, compris et utilisé facilement. Ces règles s'appuient sur des principes de rédaction et des techniques qui aident à fournir un contenu Web clair et adapté aux besoins de tous. Consultez les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite> lorsque vous concevez et organisez du contenu Web.</p>
 <p>Version 2.2.1</p>
 <p>Révisé&nbsp;: le 3 février 2020</p>
 <section>
