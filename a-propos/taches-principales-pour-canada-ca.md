@@ -6,7 +6,6 @@ description: "Tâches principales pour Canada.ca."
 layout: default
 title: "Tâches principales pour Canada.ca"
 ---
-
 <p>Les gens utilisent nos voies numériques pour accomplir des choses bien précises. Ce répertoire dresse la liste des 50 tâches les plus fréquemment exécutées au gouvernement du Canada – nous travaillons en vue d'améliorer l'information et les services à l'appui de ces tâches, afin que les gens puissent les repérer et les exécuter plus facilement. </p>
 <p>Pour obtenir de l'information au sujet de la création de ce répertoire, consultez :</p>
 <ul>
