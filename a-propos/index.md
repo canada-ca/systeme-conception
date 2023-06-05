@@ -6,7 +6,7 @@ description: "Canada.ca est la présence numérique du gouvernement du Canada."
 layout: default
 title: "À propos de Canada.ca"
 ---
- <div class="row profile">
+<div class="row profile">
   <div class="col-md-8">
     <p>Canada.ca est la présence numérique du gouvernement du Canada. Le but de ce site est de rendre les renseignements et les services du gouvernement du Canada plus facile à trouver et à utiliser.</p>
   </div>
@@ -16,10 +16,10 @@ title: "À propos de Canada.ca"
     <section class="lnkbx">
       <h2>En demande</h2>
       <ul>
-        <li><a href="/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></li>
-        <li><a href="/fr/gouvernement/a-propos/taches-principales-pour-canada-ca.html">Tâches principales pour Canada.ca</a></li>
-        <li><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l’architecture de l’information</a></li>
-        <li><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html">Guide de rédaction du contenu</a></li>
+        <li><a href="{{ site.urlcanadaca}}/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></li>
+        <li><a href="{{ site.url }}/a-propos/taches-principales-pour-canada-ca.html">Tâches principales pour Canada.ca</a></li>
+        <li><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l’architecture de l’information</a></li>
+        <li><a href="{{ site.url }}/guide-redaction/guide-redaction-contenu-canada.html">Guide de rédaction du contenu</a></li>
       </ul>
     </section>
   </div>
@@ -28,39 +28,39 @@ title: "À propos de Canada.ca"
     <div class="wb-eqht row">
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/derniers-changements.html">Mises à jour de la conception</a></h3>
+          <h3 class="h5"><a href="{{ site.urlcanadaca }}/fr/gouvernement/a-propos/systeme-conception/derniers-changements.html">Mises à jour de la conception</a></h3>
           <p>Modifications apportées aux pages de Canada.ca dans le but d’améliorer constamment l’expérience des utilisateurs.</p>
         </section>
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="https://blogue.canada.ca/pages/apercu-projet.html">Projets d'amélioration de contenu</a></h3>
+          <h3 class="h5"><a href="{{ site.urlblogca }}/pages/apercu-projet.html">Projets d'amélioration de contenu</a></h3>
           <p>Projets sur lesquels le Bureau de la transformation numérique travaille avec des partenaires ministériels afin que Canada.ca fonctionne mieux pour les gens.</p>
         </section>
       </div>
       <div class="clearfix"></div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="https://blogue.canada.ca/">Blogue Canada.ca</a></h3>
+          <h3 class="h5"><a href="{{ site.urlblogca }}">Blogue Canada.ca</a></h3>
           <p>Données probantes et observations sur l’amélioration des renseignements et des services sur Canada.ca.</p>
         </section>
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="/fr/gouvernement/a-propos/systeme-conception.html">Système de conception de Canada.ca</a></h3>
+          <h3 class="h5"><a href="{{ site.urlcanadaca }}/fr/gouvernement/a-propos/systeme-conception.html">Système de conception de Canada.ca</a></h3>
           <p>Spécifications du contenu et de l'architecture de l'information, Guide de rédaction, modèles et configurations de conception, arborescence thématique, liste d'institutions, ministères responsables des thèmes.</p>
         </section>
       </div>
       <div class="clearfix"></div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="/fr/gouvernement/a-propos/services-numeriques-securitaires.html">Services numériques sécuritaires</a></h3>
+          <h3 class="h5"><a href="{{ site.urlcanadaca }}/fr/gouvernement/a-propos/services-numeriques-securitaires.html">Services numériques sécuritaires</a></h3>
           <p>Apprenez comment le gouvernement travaille pour fournir aux Canadiens un accès sécurisé à ses services et à ses données.</p>
         </section>
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="/fr/analytique.html">Analytique de Canada.ca</a></h3>
+          <h3 class="h5"><a href="{{ site.urlcanadaca }}/fr/analytique.html">Analytique de Canada.ca</a></h3>
           <p>Données sur la manière dont les gens interagissent en ligne avec le gouvernement du Canada.</p>
         </section>
       </div>
@@ -72,13 +72,13 @@ title: "À propos de Canada.ca"
     <div class="wb-eqht row">
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="/fr/contact.html">Coordonnées du Gouvernement du Canada</a></h3>
+          <h3 class="h5"><a href="{{ site.urlcanadaca }}/fr/contact.html">Coordonnées du Gouvernement du Canada</a></h3>
           <p>Communiquez avec les institutions du gouvernement du Canada</p>
         </section>
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html">Bureau de la transformation numérique</a></h3>
+          <h3 class="h5"><a href="{{ site.url }}/a-propos/bureau-transformation-numerique.html">Bureau de la transformation numérique</a></h3>
           <p>Rencontrez l’équipe qui travaille à améliorer Canada.ca de concert avec les ministères fédéraux. </p>
         </section>
       </div>
