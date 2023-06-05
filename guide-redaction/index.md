@@ -6,7 +6,6 @@ description: "Ces règles s'appuient sur des principes de rédaction et des tech
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
 ---
-<p class="gc-byline"><strong>De&nbsp;: <a href="/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
 <section>
   <p>Les règles pour créer du contenu Web qui peut être trouvé, compris et utilisé facilement. Ces règles s'appuient sur des principes de rédaction et des techniques qui aident à fournir un contenu Web clair et adapté aux besoins de tous. Consultez les <cite><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite> lorsque vous concevez et organisez du contenu Web.</p>
   <p class="text-right">Version 2.2.1</p>
