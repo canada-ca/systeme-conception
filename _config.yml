@@ -20,6 +20,10 @@ remote_theme: wet-boew/gcweb-jekyll
 title: Système de conception de Canada.ca
 url: "https://conception.canada.ca"
 
+urldesigncanadaca: "https://design.canada.ca/"
+urlcanadaca: "https://www.canada.ca"
+urlblogca: "https://blogue.canada.ca/"
+
 # Page front matter defaults
 defaults:
   - scope:
