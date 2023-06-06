@@ -28,7 +28,7 @@ title: "À propos de Canada.ca"
     <div class="wb-eqht row">
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="{{ site.urlcanadaca }}/fr/gouvernement/a-propos/systeme-conception/derniers-changements.html">Mises à jour de la conception</a></h3>
+          <h3 class="h5"><a href="{{ site.url }}/a-propos/derniers-changements.html">Mises à jour de la conception</a></h3>
           <p>Modifications apportées aux pages de Canada.ca dans le but d’améliorer constamment l’expérience des utilisateurs.</p>
         </section>
       </div>
