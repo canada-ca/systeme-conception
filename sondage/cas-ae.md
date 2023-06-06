@@ -33,7 +33,7 @@ Grâce à la lecture des commentaires du Sondage sur la réussite des tâches du
         <img src="images/avant-ae.png" class="img-responsive" alt="">
     </a>
     <div class="media-body">
-        <p>Une plainte fréquente était que le lien de déclaration était difficile à trouver sur la <a href="https://www.canada.ca/fr/services/prestations/ae/declarations-assurance-emploi.html">page des déclarations de l’assurance-emploi</a>.</p>
+        <p>Une plainte fréquente était que le lien de déclaration était difficile à trouver sur la <a href="{{ site.urlcanada.ca }}/fr/services/prestations/ae/declarations-assurance-emploi.html">page des déclarations de l’assurance-emploi</a>.</p>
         <blockquote>«&nbsp;Trouver le lien de la page d’accueil et se connecter est difficile&nbsp;»</blockquote>
         <ul>
             <li>Il y avait un lien en ligne pour commencer une déclaration au milieu d’un long paragraphe.</li>
@@ -76,7 +76,7 @@ En tant qu’équipe&nbsp;:
             <li>Réagir aux commentaires du sondage, faire connaître et mettre à profit les commentaires du Sondage sur la réussite des tâches du GC</li>
             <li>Apprendre à utiliser le test A/B et être en mesure de tirer profit de cette compétence lors des problèmes plus complexes</li>
         </ul>
-        <p><a href="https://www.canada.ca/fr/services/prestations/ae/declarations-assurance-emploi.html">Voir le résultat</a></p>
+        <p><a href="{{ site.urlcanada.ca }}/fr/services/prestations/ae/declarations-assurance-emploi.html">Voir le résultat</a></p>
     </div>
 </section>
 

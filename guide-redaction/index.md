@@ -788,7 +788,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <li><a href="http://www.entreprisescanada.ca/fra/page/2852/pof-191/">Financement pour votre nouvelle entreprise</a></li>
           <li><a href="http://www.entreprisescanada.ca/fra/page/2772/">Financement pour l'innovation</a></li>
           <li><a href="http://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/fra/h_la00007.html">Trouvez un prêt pour votre entreprise</a></li>
-          <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/subvention-emploi/employeurs.html">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
+          <li><a href="{{ site.urlcanada.ca }}/fr/emploi-developpement-social/programmes/subvention-emploi/employeurs.html">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
         </ul>
       </section>
       <p class="mrgn-tp-lg">Lorsque le sens des éléments d'une liste à puces dépend d'une phrase d'introduction, mettez la première lettre de chaque élément en minuscule, sauf s'il s'agit d'un nom propre.</p>

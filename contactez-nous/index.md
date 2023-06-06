@@ -35,7 +35,7 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
       <h2>Références</h2>
       <ul>
         <li><a href="https://laws-lois.justice.gc.ca/fra/lois/p-21/index.html"><cite>Loi sur la protection des renseignements personnels</cite></a></li>
-        <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html#pou914">Fichier de renseignements personnels POU 914 - Communications publiques</a></li>
+        <li><a href="{{ site.urlcanada.ca }}/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html#pou914">Fichier de renseignements personnels POU 914 - Communications publiques</a></li>
       </ul>
     </details>
   </div>

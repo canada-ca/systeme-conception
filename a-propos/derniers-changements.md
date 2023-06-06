@@ -133,7 +133,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
     <summary>3 février 2020</summary>
     <p>Nous avons fait les changements suivants :</p>
     <ul>
-      <li>Nous avons ajouté <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp1-2-1b">Rédiger pour assurer l’inclusion</a> à la section Principes de rédaction pour le contenu Web du <cite>Guide de rédaction du contenu du site Canada.ca</cite>. </li>
+      <li>Nous avons ajouté <a href="{{ site.urlcanada.ca }}/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp1-2-1b">Rédiger pour assurer l’inclusion</a> à la section Principes de rédaction pour le contenu Web du <cite>Guide de rédaction du contenu du site Canada.ca</cite>. </li>
       <li>Nous avons modifié le texte de la section Accès à l'information et protection des renseignements personnels du modèle <a href="{{ site.url }}/modeles-recommandes/transparence.html">Transparence et rapports sur l'organisation</a>.</li>
     </ul>
   </details>
@@ -141,7 +141,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
     <summary>28 novembre 2019</summary>
     <p>Nous avons fait les changements suivants :</p>
     <ul>
-      <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires</a>: nous avons déplacé les directives détaillées sur les éléments obligatoires vers la bibliothèque de modèles et de configuration de conception.</li>
+      <li><a href="{{ site.urlcanada.ca }}/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires</a>: nous avons déplacé les directives détaillées sur les éléments obligatoires vers la bibliothèque de modèles et de configuration de conception.</li>
       <li><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Page d'accueil institutionnelle</a>: nous présentons un nouveau modèle bêta pour la page d'accueil institutionnelle, en fusionnant les profils institutionnel et organisationnel pour mieux refléter le rôle et le but de ce modèle obligatoire.</li>
       <li><a href="{{ site.url }}/configurations-conception-communes/signaler-probleme.html">Signaler un problème</a>: nous avons modifié les directives pour permettre une certaine personnalisation.</li>
       <li><a href="{{ site.url }}/modeles-recommandes/transparence.html">Modèle de transparence</a>: nous suggérons une nouvelle mise en page pour la transparence et les rapports organisationnels.</li>

@@ -6,7 +6,7 @@ description: "Les Spécifications du contenu et de l'architecture de l'informati
 layout: default
 title: "Concevoir le contenu pour Canada.ca"
 ---
-<p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
+<p class="gc-byline"><strong>De : <a href="{{ site.urlcanada.ca }}/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row  mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
@@ -39,13 +39,13 @@ title: "Concevoir le contenu pour Canada.ca"
   <section class="wb-eqht gc-drmt">
     <div class="col-md-4">
       <section>
-        <h3 class="h5"><a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></h3>
+        <h3 class="h5"><a href="{{ site.urlcanada.ca }}/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></h3>
         <p>Trouvez le modèle ou la configuration dont vous avez besoin pour votre contenu.</p>
       </section>
     </div>
     <div class="col-md-4">
       <section>
-        <h3 class="h5"><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html">Guide de rédaction du contenu du site Canada.ca</a></h3>
+        <h3 class="h5"><a href="{{ site.urlcanada.ca }}/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html">Guide de rédaction du contenu du site Canada.ca</a></h3>
         <p>Techniques d’écriture et principes qui aident à rendre le contenu clair et adapté aux besoins de tous.</p>
       </section>
     </div>
@@ -56,7 +56,7 @@ title: "Concevoir le contenu pour Canada.ca"
     <h2 id="principes">Principes de conception de Canada.ca</h2>
     <p>Canada.ca est basé sur les principes suivants.</p>
     <h3 id="concept">Conception ouverte et collaborative</h3>
-    <p>Les règles et les concepts présentés dans ce système de conception ont été élaborés en collaboration avec les des <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/ministeres-responsables-themes.html">ministères responsables des thèmes</a>. D'autres ministères et organismes ont également apporté leur contribution.</p>
+    <p>Les règles et les concepts présentés dans ce système de conception ont été élaborés en collaboration avec les des <a href="{{ site.urlcanada.ca }}/fr/gouvernement/a-propos/systeme-conception/ministeres-responsables-themes.html">ministères responsables des thèmes</a>. D'autres ministères et organismes ont également apporté leur contribution.</p>
     <p>Nous collaborons activement avec la communauté de plusieurs façons :</p>
     <ul>
       <li>une présence dans les médias sociaux, grâce à l'utilisation de #Canadapointca</li>
@@ -88,7 +88,7 @@ title: "Concevoir le contenu pour Canada.ca"
   <section>
     <h3 id="mobile">Optimisation pour les appareils mobiles</h3>
     <p>Les Canadiens utilisent de plus en plus les appareils mobiles, y compris les tablettes et les téléphones intelligents.</p>
-    <p>La conception actuelle du site Canada.ca aide les personnes à facilement trouver le même contenu sur leur appareil mobile ou sur leur ordinateur de bureau. Le système de conception, y compris les modèles et les composants de conception de la <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/boite-outils-experience-web.html">Boîte à outils de l’expérience Web (BOEW)</a>, a été testé afin de vérifier qu'il fonctionne bien sur les appareils mobiles.</p>
+    <p>La conception actuelle du site Canada.ca aide les personnes à facilement trouver le même contenu sur leur appareil mobile ou sur leur ordinateur de bureau. Le système de conception, y compris les modèles et les composants de conception de la <a href="{{ site.urlcanada.ca }}/fr/secretariat-conseil-tresor/services/communications-gouvernementales/boite-outils-experience-web.html">Boîte à outils de l’expérience Web (BOEW)</a>, a été testé afin de vérifier qu'il fonctionne bien sur les appareils mobiles.</p>
     <p>Une instance mobile distincte du site n'est pas nécessaire.</p>
     <p>Pour bien fonctionner sur les appareils mobiles, l’<abbr title="Architecture de l’information">AI</abbr> est simple, avec le moins de niveaux possible. La navigation à l’intérieur de la page est plus efficace que les menus, et les tailles de page doivent être limitées. Les spécifications du contenu et l’orientation liée à la rédaction tiennent compte de cet environnement mobile, et indiquent également comment créer un contenu qui se téléchargera facilement sur les appareils mobiles. Ceci permet aux personnes d'accéder rapidement aux renseignements, peu importe où ils se trouvent.</p>
   </section>

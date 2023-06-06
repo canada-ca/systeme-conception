@@ -6,7 +6,7 @@ description: "Les Spécifications du contenu et de l'architecture de l'informati
 layout: default
 title: "Organiser le contenu dans Canada.ca"
 ---
-<p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
+<p class="gc-byline"><strong>De : <a href="{{ site.urlcanada.ca }}/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
   <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
     <div class="row  mrgn-bttm-sm">
       <ul class="toc lst-spcd col-md-12">
@@ -252,7 +252,7 @@ title: "Organiser le contenu dans Canada.ca"
   <h2 id="types">Types de contenu et état du contenu</h2>
   <h3>Types de contenu</h3>
   <p>Un type de contenu est un élément unique qui décrit la nature du contenu de la page.</p>
-  <p>Utilisez la <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#types">liste des types de contenu de Canada.ca</a>, une taxonomie commune, pour classer et filtrer les longues listes de contenu en fonction du type de contenu.</p>
+  <p>Utilisez la <a href="{{ site.urlcanada.ca }}/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#types">liste des types de contenu de Canada.ca</a>, une taxonomie commune, pour classer et filtrer les longues listes de contenu en fonction du type de contenu.</p>
   <h3>État du contenu</h3>
   <p>Il y a 3 différents états de contenu pour le contenu publié sur Canada.ca : </p>
   <ol>
