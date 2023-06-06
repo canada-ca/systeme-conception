@@ -59,7 +59,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2 id="toc4">Politiques, normes et procédures connexes</h2>
   <p>Votre contenu doit se conformer aux&nbsp;:</p>
   <ul>
-    <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <cite><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite></li>
+    <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <cite><a href="{{ site.urlcanada.ca }}/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite></li>
     <li>exigences énoncées dans les instruments&nbsp;législatifs et politiques, notamment&nbsp;:
       <ul>
         <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683">Politique sur les communications et l'image de marque</a></cite></li>
@@ -67,7 +67,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601">Norme sur l'accessibilité des sites Web </a></cite></li>
         <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875">Norme sur l'interopérabilité du Web</a></cite></li>
         <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088">Norme sur l'optimisation des sites Web et des applications pour appareils mobiles </a></cite></li>
-        <li><cite><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/conseils-edition-gouvernement.html">Conseils sur l'édition de produits de communications</a></cite></li>
+        <li><cite><a href="{{ site.urlcanada.ca }}/fr/secretariat-conseil-tresor/services/communications-gouvernementales/conseils-edition-gouvernement.html">Conseils sur l'édition de produits de communications</a></cite></li>
         <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition </a></cite></li>
         <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/O-3.01/">Loi sur les langues officielles </a></cite></li>
       </ul>
@@ -1882,7 +1882,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <p>N'insérez pas de texte important, comme des titres de campagne ou de programme, dans des images décoratives.</p>
     <p><a href="#wp6-2">Ajoutez un texte alternatif</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
-    <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>. </p>
+    <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="{{ site.urlcanada.ca }}/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>. </p>
     <section>
       <h5>Exemple <span class="wb-inv">d'une image décorative</span></h5>
       <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="./images/csc-grc-fig-06-fra.jpg"></p>
