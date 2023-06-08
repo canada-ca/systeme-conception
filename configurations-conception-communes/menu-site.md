@@ -57,7 +57,7 @@ title: "Menu thématique"
   </li>
   <li>Vous avez ajouté un <a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a> là où il est pertinent pour le contenu. </li>
 </ul>
-<p>Un groupe de pages peut être un thème entier, toutes les pages liées à un programme ou service précis, ou toutes les pages liées à une seule organisation.</p>
+<p>Un groupe de pages peut être toutes les pages liées à un programme ou service précis, ou toutes les pages liées à une seule organisation.</p>
 <h3>Situation future</h3>
 <p>Ultimement, nous retirerons le modèle de menu thématique. Les liens vers les pages thématiques se trouvent dans la bande principale du pied de page général.</p>
 <h2 id="eviter">Ce qu’il faut éviter</h2>
