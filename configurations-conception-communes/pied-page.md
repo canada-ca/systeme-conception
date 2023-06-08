@@ -13,7 +13,7 @@ description: "Le pied de page général (à l’échelle du site) qui se trouve 
 layout: default
 title: "Pied de page général"
 ---
-<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-04-06</p>
+<p><strong>Dernière mise à jour</strong>&nbsp; 2023-04-06</p>
 <p><span class="label label-danger">Obligatoire</span></p>
 <p>Le pied de page général (à l’échelle du site) situé au bas de chaque page Web contient jusqu’à 3 bandes&nbsp;:</p>
 <ul>
