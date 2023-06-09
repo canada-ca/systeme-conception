@@ -6,7 +6,6 @@ breadcrumbs:
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Directives sur l’utilisation du champ de recherche du site dans Canada.ca. Ce champ de recherche du site permet aux gens de lancer une recherche sur le contenu produit par le gouvernement du Canada. On le trouve dans l’en-tête général de toutes les pages du site Canada.ca."
-layout: default
 title: "Champ de recherche du site"
 ---
 <div class="row">
