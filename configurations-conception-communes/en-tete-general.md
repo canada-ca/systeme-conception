@@ -69,7 +69,7 @@ title: "En-tête global"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
-                  <td><a href="champ-recherche">Champ de recherche du site</a></td>
+                  <td><a href="champ-recherche.html">Champ de recherche du site</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
