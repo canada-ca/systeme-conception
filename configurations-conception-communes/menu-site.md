@@ -30,7 +30,7 @@ title: "Menu thématique"
   <h2>Sur cette page</h2>
   <ul>
     <li><a href="#quand">Quand l’utiliser</a></li>
-    <li><a href="#eviter">Ce qu’il faut éviter</a></li>
+    <li><a href="#eviter">Quoi éviter</a></li>
     <li><a href="#contenu">Contenu et conception</a></li>
     <li><a href="#implementation">Comment procéder à la mise en œuvre</a></li>
     <li><a href="#recherche">Recherche et justification</a></li>
