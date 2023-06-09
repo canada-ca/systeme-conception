@@ -389,7 +389,7 @@ title: "En-tête global"
     <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche&nbsp;: Orientation dans Canada.ca</a><br>
       Résumé explique qui le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception</li>
     <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
-      billet de blogue qui explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre</li>
+      Billet de blogue qui explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre</li>
   </ul>
   <h3>Justification stratégique</h3>
   <p>Ce modèle est un élément obligatoire des <cite>spécifications du contenu et de l’architecture de l’information pour Canada.ca</cite>.</p>
