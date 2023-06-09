@@ -44,7 +44,7 @@ defaults:
       - title: Spécifications de l'architecture de l'information
         link: https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html
   - scope:
-      path: "configurations-conception-communes"
+      path: "configurations-conception-communes/*.md"
     values:
       breadcrumbs:
       - title: À propos de Canada.ca
