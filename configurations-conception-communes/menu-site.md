@@ -195,7 +195,6 @@ title: "Menu thématique"
 <ul>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/gcweb-menu/gcweb-menu-docs-fr.html">Menu thématique</a></li>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-fr.html">Documentation relative à l’en-tête GCWeb (WET)</a></li>
-  <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide d’implémentation rapide – thème GCWeb</a></li>
 </ul>
 <h3>Mises en œuvre</h3>
 <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
