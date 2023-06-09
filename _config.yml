@@ -1,17 +1,10 @@
-analytics:
-  providers:
-  - adobe
-  adobe:
-    tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
-    service: TBS-DTO_BTN-SCT
-baseurl: ""
 global:
   contextualFooter:
     title:
       fr: Bureau de la transformation numérique (BTN)
     links:
       fr:
-        - url: "mailto:dto.btn@tbs-sct.gc.ca"
+        - url: "/contactez-nous/"
           text: Contactez-nous
   lang: fr
 plugins:
@@ -29,7 +22,7 @@ defaults:
         - /css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
       pageclass: cnt-wdth-lmtd
-      layout: default
+      layout: default	  
   - scope:
       path: "sondage"
     values:
@@ -41,12 +34,12 @@ defaults:
       - title: Sondage sur la réussite des tâches
         link: sondage/index.html
   - scope:
-      path: "configurations-conception-communes"
+      path: "architecture"
     values:
       breadcrumbs:
-	  - title: À propos de Canada.ca
-	    link: https://www.canada.ca/fr/gouvernement/a-propos.html
-	  - title: Système de conception de Canada.ca
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Système de conception de Canada.ca
         link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-      - title: Bibliothèque de modèles et de configurations de conception
-        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+      - title: Spécifications de l'architecture de l'information
+        link: https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html
