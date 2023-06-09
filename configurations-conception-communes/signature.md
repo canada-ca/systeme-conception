@@ -144,5 +144,5 @@ title: "Signature du gouvernement du Canada"
   <dt>
     <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
   </dt>
-  <dd>Mise à jour des directives visant à inclure des spécifications en matière de contenu et de conception, des exemples visuels et des directives sur la mise en oeuvre.</dd>
+  <dd>Mise à jour de l'orientation pour y inclure des conseils pour quoi éviter, la précision que le drapeau doit être en couleur, les spécifications en matière de contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, les conclusions des recherches et la justification stratégique</dd>
 </dl>
