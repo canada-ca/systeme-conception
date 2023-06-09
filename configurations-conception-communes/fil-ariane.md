@@ -218,7 +218,7 @@ title: "Fil d'Ariane"
   </div>
   <div class="cnt-wdth-lmtd">
     <h2 id="recherche">Recherche et justification</h2>
-    <p>Consulter les constatations de la recherche et la justification stratégique.</p>
+    <p>Consulter les conclusions des recherches et la justification stratégique.</p>
     <h3>Constatations découlant des recherches</h3>
     <ul>
       <li><a href="https://blogue.canada.ca/2020/08/10/canadapointca-source-fiable">Canada.ca est une source fiable</a><br>
