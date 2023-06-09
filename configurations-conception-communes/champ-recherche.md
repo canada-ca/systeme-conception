@@ -149,7 +149,7 @@ title: "Champ de recherche du site"
   <h2 id="recherche">Recherche et justification</h2>
   <p>Le fait de placer le champ de recherche dans le coin supérieur droit d’une page Web est une convention Web établie.</p>
   <h3>Justification stratégique</h3>
-  <p>Dans l’en-tête général, le champ de recherche du site est un élément obligatoire des Spécifications du contenu et de l’architecture de l’information.</p>
+  <p>Dans l’en-tête général, le champ de recherche du site est un élément obligatoire des <cite>Spécifications du contenu et de l’architecture de l’information</cite>.</p>
   <ul>
     <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
   </ul>
