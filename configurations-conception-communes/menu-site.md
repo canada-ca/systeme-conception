@@ -151,7 +151,7 @@ title: "Menu thématique"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Version grand écran du menu thématique avec menu déroulant ouvert</b></figcaption>
-    <img src="./images/01-theme-menu-flyout-fr.png" class="img-responsive" alt=" ">
+    <img src="../images/01-theme-menu-flyout-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Version grand écran du menu thématique avec menu déroulant ouvert</summary>
       <p class="mrgn-tp-lg">Le menu thématique se compose d’un bouton avec le mot &laquo;&nbsp;Menu&nbsp;&raquo; et d’un chevron orienté vers le bas. Lorsque vous cliquez dessus, il se développe en un menu qui expose les titres des 15 thèmes. Lorsque vous cliquez sur le titre d’un thème, un menu déroulant s’affiche sur le côté droit du menu thématique. Le titre du thème est mis en évidence en haut du menu déroulant tandis que les principaux sujets sont répertoriés sous le titre sur le côté gauche. Sur le côté droit du menu déroulant, il y a un en-tête &laquo;&nbsp;En demande&nbsp;&raquo; suivi d’une liste des tâches les plus sollicitées.</p>
@@ -161,7 +161,7 @@ title: "Menu thématique"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Version petit écran du menu thématique</b></figcaption>
-    <img src="./images/01-menu-mobile-closed-fr.png" class="img-responsive" alt=" ">
+    <img src="../images/01-menu-mobile-closed-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Version petit écran du menu thématique</summary>
       <p class="mrgn-tp-lg">Le menu thématique se compose d’un bouton avec le mot &laquo;&nbsp;Menu&nbsp;&raquo; et d’un chevron orienté vers le bas. Lorsque vous cliquez dessus, il se développe en un menu qui expose les titres des 15 thèmes. Lorsque vous cliquez sur le titre d’un thème, un menu déroulant s’affiche sur le côté droit du menu thématique. Le titre du thème est mis en évidence en haut du menu déroulant tandis que les principaux sujets sont répertoriés sous le titre sur le côté gauche. Sur le côté droit du menu déroulant, il y a un en-tête &laquo;&nbsp;En demande&nbsp;&raquo; suivi d’une liste des tâches les plus sollicitées.</p>
@@ -181,7 +181,7 @@ title: "Menu thématique"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Version petit écran du menu thématique avec le sous-menu En demande ouvert</b></figcaption>
-    <img src="../images/01-menu-mobile-mr-fr.png" class="img-responsive" alt=" ">
+    <img src="../images/01-menu-mobile-mr-fr.png" class="img-responsive mrgn-tp-md" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Version petit écran du menu thématique avec le sous-menu En demande ouvert</summary>
       <p class="mrgn-tp-lg">Le menu &laquo;&nbsp;En demande&nbsp;&raquo; est développé. Il comporte un chevron orienté vers le bas à gauche des mots « En demande ». Sous cette rubrique se trouvent des liens vers les sept pages les plus demandées pour ce thème.</p>
@@ -231,11 +231,11 @@ title: "Menu thématique"
 <h2 id="recherche">Recherche et justification</h2>
 <p>Consultez les conclusions des recherches et la justification de la politique.</p>
 <h3>Constatations découlant des recherches</h3>
-<p>Nous avons mis à jour l’orientation du menu thématique afin de l’harmoniser à une nouvelle stratégie de navigation globale issue du projet de recherche Orientation.</p>
-<p><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche : Orientation dans Canada.ca</a><br>
-  Ce résumé explique le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception.</p>
-<p><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
-  Ce billet de blogue explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre.</p>
+<p>Nous avons mis à jour l’orientation du menu thématique afin de l’harmoniser à une nouvelle stratégie de navigation globale issue du projet de recherche Orientation.</p><ul>
+<li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche&nbsp;: Orientation dans Canada.ca</a><br>
+  Ce résumé explique le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception.</li>
+<li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
+  Ce billet de blogue explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre.</li></ul>
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt>
