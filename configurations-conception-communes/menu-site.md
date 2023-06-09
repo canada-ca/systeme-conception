@@ -58,7 +58,7 @@ title: "Menu thématique"
 </ul>
 <p>Un groupe de pages peut être toutes les pages liées à un programme ou service précis, ou toutes les pages liées à une seule organisation.</p>
 <h3>Situation future</h3>
-<p>Ultimement, nous retirerons le modèle de menu thématique. Les liens vers les pages thématiques se trouvent dans la bande principale du pied de page général.</p>
+<p>Ultimement, nous retirerons le modèle de menu thématique. Les liens vers les pages thématiques demeureront disponibles à travers la bande principale du pied de page général et le fil d'Ariane.</p>
 <h2 id="eviter">Ce qu’il faut éviter</h2>
 <p>Ne réutilisez pas le menu thématique pour une autre navigation. Le menu est un outil de navigation global. C’est déroutant pour les utilisateurs s’il se comporte différemment selon l’endroit où ils se trouvent sur le site.</p>
 <p>Ne le supprimez pas des pages de destination standard avant d’avoir rempli les conditions ci-dessus.</p>
