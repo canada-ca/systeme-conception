@@ -97,148 +97,56 @@ title: "Champ de recherche du site"
 conception réactive.</li>
 <li>La fonction de recherche de base permet d’utiliser les opérateurs booléens dans le champ de texte afin de soumettre au moteur de recherche des requêtes beaucoup plus précises.</li>
 </ul>
-</section>
-</section>
-
-
-
-	<!-- START PAGE FEEDBACK WIDGET -->
-	<div class="row row-no-gutters mrgn-tp-xl">
-		<div class="col-sm-7 col-lg-6">
-			<section class="gc-pg-hlpfl provisional">
-				<div class="well mrgn-bttm-0">
-					<form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
-						<input type="hidden" name="institutionopt" value="tbs">
-						<input type="hidden" name="themeopt" value="Policies">
-						<input type="hidden" name="language" value="FR">
-						<input type="hidden" name="pageTitle" value="Concevoir du contenu pour Canada.ca">
-						<input type="hidden" name="submissionPage"
-							value="https://conception.canada.ca/configurations-conception-communes/champ-recherche.html">
-						<input type="hidden" name="sectionopt" value="Design system">
-
-
-						<input type="hidden" id="helpful" name="helpful" value="Yes">
-
-						<div class="gc-pg-hlpfl-btn">
-							<div class="row row-no-gutters">
-								<div class="col-xs-12 col-sm-7 mrgn-tp-sm">
-									<h2 class="mrgn-tp-sm h5">Avez-vous trouvé ce que vous cherchiez?</h2>
-								</div>
-								<div class="col-xs-8 col-sm-5 text-right">
-									<button id="btnyes" type="submit" value="Yes" class="btn btn-primary">Oui</button>
-									<button id="btnno" type="button"
-										class="btn btn-primary mrgn-lft-sm nojs-hide">Non</button>
-								</div>
-							</div>
-						</div>
-						<p class="h3 hidden nojs-show">Sinon, dites nous pourquoi&nbsp;:</p>
-						<div class="gc-pg-hlpfl-no nojs-show">
-							<fieldset>
-								<legend class="h4 mrgn-tp-0 mrgn-bttm-md">Qu’est-ce qui n’allait pas?</legend>
-								<div class="radio">
-									<label for="problem1">
-										<input name="problem" id="problem1" type="radio"
-											value="Je ne peux pas trouver l’information"
-											data-gc-analytics-wtph-value="I can't find the information-Je ne peux pas trouver l'information"
-											data-gc-analytics-collect="notPrivate">
-										Je ne peux pas <strong>trouver</strong> l’information
-									</label>
-								</div>
-								<div class="radio">
-									<label for="problem2">
-										<input name="problem" id="problem2" type="radio"
-											value="L'information est difficile à comprendre"
-											data-gc-analytics-wtph-value="The information is hard to understand-J'ai trouvé l'information difficile à comprendre"
-											data-gc-analytics-collect="notPrivate">
-										L'information est difficile à <strong>comprendre</strong>
-									</label>
-								</div>
-								<div class="radio">
-									<label for="problem3">
-										<input name="problem" id="problem3" type="radio"
-											value="Il y avait une erreur / quelque chose ne fonctionnait pas"
-											data-gc-analytics-wtph-value="There was an error or something didn't work-Il y avait une erreur our quelque chose ne fonctionnait pas"
-											data-gc-analytics-collect="notPrivate">
-										Il y avait une erreur / quelque chose <strong>ne fonctionnait pas</strong>
-									</label>
-								</div>
-								<div class="radio">
-									<label for="problem4">
-										<input name="problem" id="problem4" type="radio" value="Other reason"
-											data-gc-analytics-wtph-value="Other reason-Autre raison"
-											data-gc-analytics-collect="notPrivate">
-										Autre raison
-									</label>
-								</div>
-							</fieldset>
-							<label for="problem6" class="mrgn-bttm-0">Veuillez fournir plus de détails</label>
-							<p class="small">
-								<strong>Vous ne recevrez aucune réponse. Les numéros de téléphone et les adresses
-									électroniques seront supprimés.</strong>
-								<br>
-								<span class="small">Maximum de 300 caractères</span>
-							</p>
-							<textarea id="problem6" name="details" class="full-width" maxlength="300"></textarea>
-							<button type="submit" value="No"
-								class="btn btn-primary mrgn-tp-md mrgn-bttm-sm">Soumettre</button>
-						</div>
-					</form>
-					<div class="gc-pg-hlpfl-thnk hide">
-						<p class="h6 mrgn-tp-sm mrgn-bttm-sm"><span class="far fa-check-circle text-success mrgn-rght-sm"
-								aria-hidden="true"></span> Merci de vos commentaires</p>
-					</div>
-				</div>
-			</section>
-		</div>
-		<div class="col-sm-3 col-sm-offset-1 col-lg-offset-3">
-			<div class="wb-share"
-				data-wb-share="{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}">
-			</div>
-		</div>
-	</div>
-	<!-- END PAGE FEEDBACK WIDGET --><div class="pagedetails">
-		<dl id="wb-dtmd">
-<dt>Date de modification :</dt>
-<dd><time property="dateModified">2018-12-19</time></dd>
-		</dl>
-	</div>
-</main>{% include footer-fr.html %}
-	<!--[if gte IE 9 | !IE ]><!-->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
-	<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
-	<!--<![endif]-->
-	<!--[if lt IE 9]>
-			<script src="./wet-boew/js/ie8-wet-boew2.min.js"></script>
-
-			<![endif]-->
-	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>      <script>
-         document.getElementById('submissionPage').value = location.href;
-      </script>
-	  <!-- START SCRIPT PAGE FEEDBACK WIDGET -->
-
-			<script>
-				$(document).on("wb-ready.wb", function () {
-					$("#btnno").click(function (e) {
-						$(".gc-pg-hlpfl-no").removeClass("nojs-show");
-						$(".gc-pg-hlpfl-btn").addClass("hide");
-						$("#helpful").val("No");
-					});
-					$("#gc-pg-hlpfl-frm").submit(function (e) {
-						e.preventDefault();
-						$(".gc-pg-hlpfl-thnk").removeClass("hide");
-						$("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
-						$.ajax({
-							url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
-							type: 'POST',
-							dataType: 'text',
-							data: $('form#gc-pg-hlpfl-frm').serialize(),
-							success: function (data) { },
-							error: function (xhr, status, err) {
-								console.log(xhr.responseText);
-							}
-						});
-					});
-				});
-			</script>
-			<!-- END SCRIPT PAGE FEEDBACK WIDGET --></body>
-	</html>
+<h3>Mises en œuvre</h3>
+<p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
+<div class="row">
+  <div class="col-md-8">
+    <div class="wb-tabs mrgn-tp-lg">
+      <div class="tabpanels">
+        <details id="004" open="open">
+          <summary><strong>AEM-GC</strong></summary>
+          <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
+          <ul>
+            <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – uniquement accessible sur le réseau du gouvernement du Canada)</a></li>
+          </ul>
+        </details>
+        <details id="005">
+          <summary><strong>Solution de gabarits à déploiement centralisé (SGDC)</strong></summary>
+          <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
+          <ul>
+            <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_45/cdts/samples/custom-search-fr.html">Recherche personnalisée</a> – options de configuration pour le champ de recherche du site </li>
+            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
+          </ul>
+        </details>
+        <details id="006">
+          <summary><strong>Drupal WxT</strong></summary>
+          <p class="mrgn-tp-lg">Pour Drupal WxT :</p>
+          <ul>
+            <li><a href="https://drupalwxt.github.io/fr/">Documentation de Drupal WxT</a></li>
+          </ul>
+        </details>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="cnt-wdth-lmtd">
+  <h3>Configurer la recherche</h3>
+  <p>L’éditeur principal fournit un soutien pour l’adoption de GC Recherche, la configuration de la recherche, l’indexation des pages Web, les erreurs liées aux fonctionnalités et d’autres demandes concernant les recherches&nbsp;:</p>
+  <ul>
+    <li><a href="https://www.gcpedia.gc.ca/wiki/Soutien_%C3%A0_la_plateforme_de_recherche_Web_du_GC">Éléments obligatoires du système de conception</a></li>
+  </ul>
+  <h2 id="recherche">Recherche et justification</h2>
+  <p>Le fait de placer le champ de recherche dans le coin supérieur droit d’une page Web est une convention Web établie.</p>
+  <h3>Justification stratégique</h3>
+  <p>Dans l’en-tête général, le champ de recherche du site est un élément obligatoire des Spécifications du contenu et de l’architecture de l’information.</p>
+  <ul>
+    <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
+  </ul>
+  <h2 id="changements">Derniers changements</h2>
+  <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+    </dt>
+    <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, du soutien pour la configuration de la recherche, et la justification stratégique</dd>
+  </dl>
+</div>
