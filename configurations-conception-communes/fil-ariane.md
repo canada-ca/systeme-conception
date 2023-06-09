@@ -12,7 +12,6 @@ breadcrumbs:
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Orientation sur l’utilisation de fils d’Ariane sur le site Canada.ca. Le fil d’Ariane est une série de liens de navigation qui permet aux utilisateurs de se situer par rapport à la structure du site."
-layout: default
 title: "Fil d'Ariane"
 ---
 <div class="row">
