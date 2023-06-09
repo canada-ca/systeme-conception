@@ -12,7 +12,6 @@ breadcrumbs:
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Orientation sur l’utilisation de la signature du gouvernement du Canada sur Canada.ca. La signature est un symbole officiel du gouvernement du Canada. Elle s’affiche toujours dans l’en-tête global sur Canada.ca."
-layout: default
 title: "Signature du gouvernement du Canada"
 ---
 <div class="row">
