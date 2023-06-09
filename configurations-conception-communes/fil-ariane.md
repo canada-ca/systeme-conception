@@ -182,7 +182,6 @@ title: "Fil d'Ariane"
   <ul>
     <li><a href="https://wet-boew.github.io/GCWeb/sites/breadcrumbs/breadcrumbs-fr.html">Fil d’Ariane – Documentation de GCWeb (Boîte à outils de l’expérience Web)</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-fr.html">Documentation de l’en-tête GCWeb (Boîte à outils de l’expérience Web)</a></li>
-    <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide d’implémentation rapide - thème GCWeb</a></li>
   </ul>
   <h3>Mises en œuvre</h3>
   <p>Déterminez ce qui convient le mieux au type de page que vous créez. Consultez les instructions applicables à votre implémentation si vous souhaitez exclure les fils d’Ariane.</p>
