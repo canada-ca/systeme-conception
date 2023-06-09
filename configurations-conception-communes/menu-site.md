@@ -12,7 +12,6 @@ breadcrumbs:
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Orientation sur l’utilisation du menu thématique sur Canada.ca. Le menu thématique donne accès aux principales tâches de tous les sites Web du gouvernement du Canada regroupés sous les principaux thèmes de Canada.ca."
-layout: default
 title: "Menu thématique"
 ---
 <div class="row">
