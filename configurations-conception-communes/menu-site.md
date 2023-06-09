@@ -231,11 +231,13 @@ title: "Menu thématique"
 <h2 id="recherche">Recherche et justification</h2>
 <p>Consultez les conclusions des recherches et la justification de la politique.</p>
 <h3>Constatations découlant des recherches</h3>
-<p>Nous avons mis à jour l’orientation du menu thématique afin de l’harmoniser à une nouvelle stratégie de navigation globale issue du projet de recherche Orientation.</p><ul>
-<li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche&nbsp;: Orientation dans Canada.ca</a><br>
-  Ce résumé explique le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception.</li>
-<li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
-  Ce billet de blogue explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre.</li></ul>
+<p>Nous avons mis à jour l’orientation du menu thématique afin de l’harmoniser à une nouvelle stratégie de navigation globale issue du projet de recherche Orientation.</p>
+<ul>
+  <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche&nbsp;: Orientation dans Canada.ca</a><br>
+    Ce résumé explique le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception.</li>
+  <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
+    Ce billet de blogue explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre.</li>
+</ul>
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt>
