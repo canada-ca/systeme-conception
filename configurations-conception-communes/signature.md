@@ -94,7 +94,6 @@ title: "Signature du gouvernement du Canada"
 <p>La référence pour l’implémentation explique la façon de configurer chaque élément de l’en-tête.</p>
 <ul>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-fr.html">Documentation relative à l’en-tête GCWeb (WET)</a></li>
-  <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide d’implémentation rapide - Thème GCWeb</a></li>
 </ul>
 <h3>Mises en oeuvre</h3>
 <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
