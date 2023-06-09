@@ -393,7 +393,7 @@ title: "En-tête global"
       Ce billet de blogue explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre.</li>
   </ul>
   <h3>Justification stratégique</h3>
-  <p>Ce modèle est un élément obligatoire des spécifications du contenu et de l’architecture de l’information pour Canada.ca.</p>
+  <p>Ce modèle est un élément obligatoire des <cite>spécifications du contenu et de l’architecture de l’information pour Canada.ca</cite>.</p>
   <ul>
     <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html#header-footer">Éléments obligatoires du système de conception</a></li>
   </ul>
