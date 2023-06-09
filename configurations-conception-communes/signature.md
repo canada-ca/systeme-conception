@@ -134,7 +134,7 @@ title: "Signature du gouvernement du Canada"
 <p>Par exemple, les gens font davantage confiance à la page lorsque le symbole du drapeau dans la signature du gouvernement du Canada est rouge.</p>
 <p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de la transformation numérique à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
 <h3>Justification stratégique</h3>
-<p>La signature du gouvernement du Canada est définie par le Programme de coordination de l’image de marque. En tant que partie de l’en-tête global, il s’agit d’un élément obligatoire dans le cadre des spécifications relatives au contenu et à l’architecture de l’information.</p>
+<p>La signature du gouvernement du Canada est définie par le Programme de coordination de l’image de marque. En tant que partie de l’en-tête global, il s’agit d’un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information.</cite></p>
 <ul>
   <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/norme-graphique/couleurs-norme-graphique-pfim.html">Norme graphique du Programme de coordination de l’image de marque</a></li>
   <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
