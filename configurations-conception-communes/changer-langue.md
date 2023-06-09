@@ -138,7 +138,6 @@ title: "Lien pour changer de langue"
   <p>La référence à l’implémentation comprend la façon de configurer chaque élément de l’en-tête.</p>
   <ul>
     <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-fr.html">Documentation de l’en-tête GCWeb (Boîte à outils de l’expérience Web)</a></li>
-    <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide d’implémentation rapide – thème GCWeb</a></li>
   </ul>
   <h3>Mises en oeuvre</h3>
   <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
