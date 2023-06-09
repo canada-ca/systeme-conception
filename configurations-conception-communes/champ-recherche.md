@@ -90,12 +90,7 @@ title: "Champ de recherche du site"
 <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
 <p>La référence à la mise en œuvre comprend la façon de configurer chaque élément de l’en-tête.</p>
 <ul>
-<li>Une recherche de base comprend 2 éléments&nbsp;: un champ de texte pour saisir le mot-clé et un bouton pour lancer la requête.</li>
-<li>Sur les grans écrans, le champ de recherche de base se trouve à la droite, dans l’en-tête général</li>
-<li>Sur les petits écrans, le champ est situé sous la signature du gouvernement du Canada.</li>
-<li>La recherche de base est configurée pour se redimensionner automatiquement en fonction de la taille de l'écran pour permettre
-conception réactive.</li>
-<li>La fonction de recherche de base permet d’utiliser les opérateurs booléens dans le champ de texte afin de soumettre au moteur de recherche des requêtes beaucoup plus précises.</li>
+  <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-fr.html">Documentation de l’en-tête GCWeb (BOEW)</a></li>
 </ul>
 <h3>Mises en œuvre</h3>
 <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
