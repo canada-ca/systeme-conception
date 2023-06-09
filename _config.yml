@@ -43,6 +43,16 @@ defaults:
       - title: Sondage sur la réussite des tâches
         link: sondage/index.html
   - scope:
+      path: "configurations-conception-communes"
+    values:
+      breadcrumbs:
+	  - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+	  - title: Système de conception de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+      - title: Bibliothèque de modèles et de configurations de conception
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+  - scope:
       path: "architecture"
     values:
       breadcrumbs:
