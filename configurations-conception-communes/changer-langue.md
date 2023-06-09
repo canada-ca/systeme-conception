@@ -189,6 +189,6 @@ title: "Lien pour changer de langue"
     <dt>
       <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
     </dt>
-    <dd>Mise à jour de l’orientation pour y inclure les spécifications du contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre</dd>
+    <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, et les justifications stratégiques</dd>
   </dl>
 </div>
