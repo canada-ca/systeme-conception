@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/signature.html"
 breadcrumbs:
-  - title: "En-tête global"
+  - title: "En-tête global
     link: "https://conception.canada.ca/configurations-conception-communes/en-tete-general.html"   
 date: 2017-10-05
 dateModified: 2023-05-17
