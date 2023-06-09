@@ -22,6 +22,22 @@ title: "Champ de recherche du site"
     </ul>
   </div>
 </div>
+<p><span class="label label-danger">Obligatoire sur les pages standards et de campagne</span></p>
+<p>Le champ de recherche du site est un élément de l’en-tête général. Il permet aux gens de lancer une recherche dans le contenu du gouvernement du Canada au moyen d’un champ de recherche simple.</p>
+<p>Les résultats de la recherche dans le site sont présentés pour l’ensemble du contenu Web du gouvernement du Canada ou pour un sous-ensemble de contenu au niveau du ministère ou de l’organisme.</p>
+<div class="pattern-demo mrgn-tp-lg">
+  <figure class="mrgn-bttm-sm"><img src="../images/01-site-search-fr.png" class="img-responsive" alt=""></figure>
+</div>
+<section>
+  <h2>Sur cette page</h2>
+  <ul>
+    <li><a href="#quand">Quand l’utiliser</a></li>
+    <li><a href="#eviter">Quoi éviter</a></li>
+    <li><a href="#contenu">Contenu et conception</a></li>
+    <li><a href="#implementation">Comment procéder à la mise en œuvre</a></li>
+    <li><a href="#recherche">Recherche et justification</a></li>
+    <li><a href="#changements">Derniers changements</a></li>
+  </ul>
 </section>
 <h2 id="quand">Quand l’utiliser</h2>
 <p>Le champ de recherche du site est obligatoire sur toutes les pages, sauf pour les pages transactionnelles.</p>
