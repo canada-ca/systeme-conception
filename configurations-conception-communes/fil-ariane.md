@@ -221,12 +221,14 @@ title: "Fil d'Ariane"
     <h2 id="recherche">Recherche et justification</h2>
     <p>Consulter les constatations de la recherche et la justification stratégique.</p>
     <h3>Constatations découlant des recherches</h3>
-    <p><a href="https://blogue.canada.ca/2020/08/10/canadapointca-source-fiable">Canada.ca est une source fiable</a><br>
-      Explique la décision d’utiliser &laquo;&nbsp;Canada.ca&nbsp;&raquo; comme étiquette du premier lien du fil d’Ariane.</p>
-    <p><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche – Orientation dans Canada.ca</a><br>
-      La recherche montre que les personnes qui naviguent sur le site utilisent les liens du fil d’Ariane près de deux fois plus souvent que le menu des thèmes et des sujets.</p>
-    <p>Les spécifications relatives aux espaces dans les liens du fils d’Ariane sont conçues de façon à ce que les cibles tactiles respectent les règles AAA pour l’accessibilité des contenus Web.</p>
+    <ul>
+      <li><a href="https://blogue.canada.ca/2020/08/10/canadapointca-source-fiable">Canada.ca est une source fiable</a><br>
+        Explique la décision d’utiliser &laquo;&nbsp;Canada.ca&nbsp;&raquo; comme étiquette du premier lien du fil d’Ariane.</li>
+      <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche – Orientation dans Canada.ca</a><br>
+        La recherche montre que les personnes qui naviguent sur le site utilisent les liens du fil d’Ariane près de deux fois plus souvent que le menu des thèmes et des sujets.</li>
+    </ul>
     <h3>Justification stratégique</h3>
+    <p>Les spécifications relatives aux espaces dans les liens du fils d’Ariane sont conçues de façon à ce que les cibles tactiles respectent les règles AAA pour l’accessibilité des contenus Web.</p>
     <p>Le fil d’Ariane fait partie de l’en-tête général et est un élément obligatoire de la spécification du contenu et de l’architecture de l’information.</p>
     <ul>
       <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
@@ -236,7 +238,7 @@ title: "Fil d'Ariane"
       <dt>
         <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
       </dt>
-      <dd>Mise à jour de l’orientation pour y inclure les spécifications du contenu et de conception, des exemples visuels et une orientation sur l’implémentation</dd>
+      <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur l’implémentation, les conclusions des recherches et la justification stratégique</dd>
     </dl>
   </div>
 </div>
