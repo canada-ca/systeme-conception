@@ -401,11 +401,11 @@ title: "En-tête global"
     <dt>
       <time datetime="YYYY-MM-DD" class="link-muted">YYYY-MM-DD</time>
     </dt>
-    <dd>Mise à jour du modèle pour refléter les changements de la conception en fonction de l’étude sur la confiance et du projet Orientation, ajout d’exemples visuels pour les différents types de pages et ajout de liens vers des projets de recherche qui servent à éclairer les directives relatives à l’en-tête</dd>
+    <dd>Mise à jour du modèle pour refléter les changements de la conception en fonction de l’étude sur la confiance et du projet Orientation. Il s'agit notamment de documenter les critères à respecter avant de supprimer le menu des thèmes et des sujets, de clarifier la couleur du drapeau dans la signature du gouvernement du Canada et de documenter le fait que les institutions peuvent contextualiser la boîte de recherche. Des conseils sur ce qu'il faut éviter, les conclusions des recherches et la justification des politiques ont également été ajoutés.</dd>
     <dt>
       <time datetime="2022-08-17" class="link-muted">2022-08-17</time>
     </dt>
-    <dd>Mise à jour du modèle pour refléter les changements de la conception en fonction de l’étude sur la confiance et du projet Orientation, ajout de conseils sur quoi éviter, d’exemples visuels pour les différents types de pages, et ajout de liens vers des projets de recherche qui servent à éclairer les directives relatives à l’en-tête</dd>
+    <dd>Mise à jour de la conception du contenu pour plus de clarté, ajout d'un bouton contextuel de connexion, ajout de ressources de mise en œuvre.</dd>
     <dt>
       <time datetime="2020-06-25" class="link-muted">2020-06-25</time>
     </dt>
