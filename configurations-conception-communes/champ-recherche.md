@@ -106,7 +106,6 @@ title: "Champ de recherche du site"
 <p>La référence à la mise en œuvre comprend la façon de configurer chaque élément de l’en-tête.</p>
 <ul>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-fr.html">Documentation de l’en-tête GCWeb (BOEW)</a></li>
-  <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
 </ul>
 <h3>Mises en œuvre</h3>
 <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
