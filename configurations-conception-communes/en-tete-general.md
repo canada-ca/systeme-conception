@@ -1,16 +1,8 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/global-header.html"
-breadcrumbs:
-  - title: "À propos de Canada.ca"
-    link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
-  - title: "Système de conception de Canada.ca"
-    link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
-  - title: "Bibliothèque de modèles et de configurations de conception"
-    link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Orientation sur l’utilisation de l’en-tête général sur les pages Canada.ca. L’en-tête général se trouve dans la partie supérieure de chaque page Web du gouvernement du Canada."
-layout: default
 title: "En-tête global"
 ---
 <div class="cnt-wdth-lmtd">
