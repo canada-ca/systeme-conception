@@ -49,7 +49,7 @@ title: "Signature du gouvernement du Canada"
 <h3>Spécifications du contenu</h3>
   <p>La signature du gouvernement du Canada se trouve dans le coin supérieur gauche de la page.</p>
   <p>La signature est composée du symbole du drapeau en rouge du Programme de coordination de l’image de marque (PCIM), suivi des termes &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; en français et &laquo;&nbsp;Government of Canada&nbsp;&raquo; en anglais, les deux étant écrits en noir.</p>
-  <p>La signature doit, en premier lieu, être affichée en anglais sur les pages anglaises et en français sur les pages françaises</p>
+  <p>La signature doit, en premier lieu, être affichée en anglais sur les pages anglaises et en français sur les pages françaises.</p>
 <h4>Accessibilité</h4>
 <p>Ajoutez &laquo;&nbsp;Government of Canada&nbsp;&raquo; en guise de texte de remplacement sur les pages anglaises et &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; en guise de texte de remplacement sur les pages françaises.</p>
 <h4>Interactions</h4>
