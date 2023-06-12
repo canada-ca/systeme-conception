@@ -47,25 +47,20 @@ title: "Fil d'Ariane"
   <h2 id="contenu">Contenu et conception</h2>
   <p>Trouver des spécifications du contenu et de conception ainsi que des exemples visuels.</p>
   <h3>Spécifications du contenu</h3>
-  <ul>
-    <li>Alignez le fil d’Ariane à gauche, directement sous le bouton de menu (ou la ligne de séparation s’il n’y a pas de bouton de menu).</li>
-    <li>Utilisez « Canada.ca » comme texte du premier lien du fil d’Ariane sur les pages <strong>standards</strong> et les pages de <strong>campagne</strong>.
+<p>Alignez le fil d’Ariane à gauche, directement sous le bouton de menu (ou la ligne de séparation s’il n’y a pas de bouton de menu).</p>
+ <p>Utilisez « Canada.ca » comme texte du premier lien du fil d’Ariane sur les pages <strong>standards</strong> et les pages de <strong>campagne</strong>.</p>
       <ul>
         <li>Créez un lien vers la page d’accueil du site Canada.ca dans la langue de la page actuelle.</li>
       </ul>
-    </li>
-    <li>Vous pouvez utiliser &laquo;&nbsp;Accueil&nbsp;&raquo; ou le nom du processus ou de l’application comme texte du premier lien du fil d’Ariane sur les pages transactionnelles qui utilisent un fil d’Ariane.
+    <p>Vous pouvez utiliser &laquo;&nbsp;Accueil&nbsp;&raquo; ou le nom du processus ou de l’application comme texte du premier lien du fil d’Ariane sur les pages transactionnelles qui utilisent un fil d’Ariane.</p>
       <ul>
         <li>Présentez un lien vers la page de départ du processus ou la page de renvoi de la demande.</li>
       </ul>
-    </li>
-    <li>Utilisez un GLYPHICON de chevron droit simple pour séparer chaque lien du fil d’Ariane.</li>
-    <li>Incluez le titre de la page dans l’étiquette du fil d’Ariane.
+    <p>Utilisez un GLYPHICON de chevron droit simple pour séparer chaque lien du fil d’Ariane.</p>
+  <p>Incluez le titre de la page dans l’étiquette du fil d’Ariane.</p>
       <ul>
         <li>Abrégez les étiquettes du fil d’Ariane dans la mesure du possible pour améliorer la lisibilité et réduire l’espace occupé.</li>
       </ul>
-    </li>
-  </ul>
   <p>Ainsi, ce fil d’Ariane&nbsp;:</p>
 </div>
 <div class="container">
