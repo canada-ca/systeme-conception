@@ -24,7 +24,7 @@ title: "Menu thématique"
 <p><span class="label label-danger">Obligatoire sur les pages standards</span></p>
 <p>Le menu thématique donne accès aux principales tâches de tous les sites Web du gouvernement du Canada regroupés sous les principaux thèmes de Canada.ca.</p>
 <div class="pattern-demo mrgn-tp-lg">
-  <figure class="mrgn-bttm-sm"><img src="../images/01-theme-menu-flyout-fr.png" class="img-responsive" alt=""></figure>
+  <figure class="mrgn-bttm-sm"><img src="../../images/01-theme-menu-flyout-fr.png" class="img-responsive" alt=""></figure>
 </div>
 <section>
   <h2>Sur cette page</h2>
@@ -151,7 +151,7 @@ title: "Menu thématique"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Version grand écran du menu thématique avec menu déroulant ouvert</b></figcaption>
-    <img src="../images/01-theme-menu-flyout-fr.png" class="img-responsive" alt=" ">
+    <img src="../../images/01-theme-menu-flyout-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Version grand écran du menu thématique avec menu déroulant ouvert</summary>
       <p class="mrgn-tp-lg">Le menu thématique se compose d’un bouton avec le mot &laquo;&nbsp;Menu&nbsp;&raquo; et d’un chevron orienté vers le bas. Lorsque vous cliquez dessus, il se développe en un menu qui expose les titres des 15 thèmes. Lorsque vous cliquez sur le titre d’un thème, un menu déroulant s’affiche sur le côté droit du menu thématique. Le titre du thème est mis en évidence en haut du menu déroulant tandis que les principaux sujets sont répertoriés sous le titre sur le côté gauche. Sur le côté droit du menu déroulant, il y a un en-tête &laquo;&nbsp;En demande&nbsp;&raquo; suivi d’une liste des tâches les plus sollicitées.</p>
@@ -161,7 +161,7 @@ title: "Menu thématique"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Version petit écran du menu thématique</b></figcaption>
-    <img src="../images/01-menu-mobile-closed-fr.png" class="img-responsive" alt=" ">
+    <img src="../../images/01-menu-mobile-closed-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Version petit écran du menu thématique</summary>
       <p class="mrgn-tp-lg">Le menu thématique se compose d’un bouton avec le mot &laquo;&nbsp;Menu&nbsp;&raquo; et d’un chevron orienté vers le bas. Lorsque vous cliquez dessus, il se développe en un menu qui expose les titres des 15 thèmes. Lorsque vous cliquez sur le titre d’un thème, un menu déroulant s’affiche sur le côté droit du menu thématique. Le titre du thème est mis en évidence en haut du menu déroulant tandis que les principaux sujets sont répertoriés sous le titre sur le côté gauche. Sur le côté droit du menu déroulant, il y a un en-tête &laquo;&nbsp;En demande&nbsp;&raquo; suivi d’une liste des tâches les plus sollicitées.</p>
@@ -171,7 +171,7 @@ title: "Menu thématique"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Version petit écran du sous-menu thématique ouvert</b></figcaption>
-    <img src="../images/01-menu-mobile-open-fr.png" class="img-responsive" alt=" ">
+    <img src="../../images/01-menu-mobile-open-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Version petit écran du sous-menu thématique ouvert</summary>
       <p class="mrgn-tp-lg">Le menu thématique se compose d’un bouton avec le mot &laquo;&nbsp;Menu&nbsp;&raquo; et d’un chevron orienté vers le bas. Lorsque vous cliquez dessus, il se développe en un menu qui expose tous les thèmes. Le thème &laquo;&nbsp;Voyages et tourisme&nbsp;&raquo; est élargi. Il comporte un chevron orienté vers le bas à gauche du titre &laquo;&nbsp;Voyages et tourisme&nbsp;&raquo;. Sous ce titre se trouve un encadré avec les mots &laquo;&nbsp;Voyage&nbsp;: accueil&nbsp;&raquo;. Vous trouverez ci-dessous des liens vers les autres sujets du thème. À la fin du menu développé se trouve une autre case avec un chevron orienté sur le côté et un en-tête &laquo;&nbsp;En demande&nbsp;&raquo;.</p>
@@ -181,7 +181,7 @@ title: "Menu thématique"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Version petit écran du menu thématique avec le sous-menu En demande ouvert</b></figcaption>
-    <img src="../images/01-menu-mobile-mr-fr.png" class="img-responsive mrgn-tp-md" alt=" ">
+    <img src="../../images/01-menu-mobile-mr-fr.png" class="img-responsive mrgn-tp-md" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Version petit écran du menu thématique avec le sous-menu En demande ouvert</summary>
       <p class="mrgn-tp-lg">Le menu &laquo;&nbsp;En demande&nbsp;&raquo; est développé. Il comporte un chevron orienté vers le bas à gauche des mots « En demande ». Sous cette rubrique se trouvent des liens vers les sept pages les plus demandées pour ce thème.</p>
