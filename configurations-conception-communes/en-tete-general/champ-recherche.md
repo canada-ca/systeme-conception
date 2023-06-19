@@ -25,7 +25,7 @@ title: "Champ de recherche du site"
 <p>Le champ de recherche du site est un élément de l’en-tête général. Il permet aux gens de lancer une recherche dans le contenu du gouvernement du Canada au moyen d’un champ de recherche simple.</p>
 <p>Les résultats de la recherche dans le site sont présentés pour l’ensemble du contenu Web du gouvernement du Canada ou pour un sous-ensemble de contenu au niveau du ministère ou de l’organisme.</p>
 <div class="pattern-demo mrgn-tp-lg">
-  <figure class="mrgn-bttm-sm"><img src="../images/01-site-search-fr.png" class="img-responsive" alt=""></figure>
+  <figure class="mrgn-bttm-sm"><img src=../../images/01-site-search-fr.png" class="img-responsive" alt=""></figure>
 </div>
 <section>
   <h2>Sur cette page</h2>
@@ -81,7 +81,7 @@ title: "Champ de recherche du site"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Champ de recherche du site – grand écran</b></figcaption>
-    <img src="../images/01-site-search-fr.png" class="img-responsive" alt=" ">
+    <img src="../../images/01-site-search-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Champ de recherche du site – grand écran</summary>
       <p class="mrgn-tp-lg">Le champ de recherche s’affiche dans le coin supérieur droit, sous le lien qui permet de changer de langue et directement à l’opposé de la signature du gouvernement du Canada.</p>
@@ -92,7 +92,7 @@ title: "Champ de recherche du site"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Champ de recherche du site – Petit écran</b></figcaption>
-    <img src="../images/01-site-search-sm-fr.png" class="img-responsive" alt="">
+    <img src="../../images/01-site-search-sm-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Champ de recherche du site – Petit écran</summary>
       <p class="mrgn-tp-lg">Le champ de recherche s’affiche dans l’en-tête, directement sous la signature du gouvernement du Canada et le lien qui permet de changer de langue. Il couvre la largeur de l’écran.</p>
