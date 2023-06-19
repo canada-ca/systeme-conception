@@ -25,7 +25,7 @@ title: "Lien pour changer de langue"
   <p><span class="label label-danger">Obligatoire</span></p>
   <p>Tout le contenu du gouvernement du Canada destiné au public est accessible dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’en-tête général du site, donne à la personne accès à la page correspondante dans l’autre langue officielle.</p>
   <div class="pattern-demo mrgn-tp-lg">
-    <figure class="mrgn-bttm-sm"><img src="../images/01-lang-toggle-fr.png" class="img-responsive" alt=""></figure>
+    <figure class="mrgn-bttm-sm"><img src="../../images/01-lang-toggle-fr.png" class="img-responsive" alt=""></figure>
   </div>
   <section>
     <h2>Sur cette page</h2>
@@ -95,7 +95,7 @@ title: "Lien pour changer de langue"
   <div class="pattern-demo mrgn-tp-lg">
     <figure>
       <figcaption><b>Changer la langue (Page anglaise) – grand écran</b></figcaption>
-      <img src="../images/01-lang-toggle-en.png" class="img-responsive" alt="">
+      <img src="../../images/01-lang-toggle-en.png" class="img-responsive" alt="">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;:  Changer la langue – grand écran (Page anglaise)</summary>
         <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en anglais avec mise en surbrillance du mot lié Français dans le coin supérieur droit.</p>
@@ -105,7 +105,7 @@ title: "Lien pour changer de langue"
   <div class="pattern-demo mrgn-tp-lg">
     <figure>
       <figcaption><b>Changer la langue (Page française) – grand écran </b></figcaption>
-      <img src="../images/01-lang-toggle-fr.png" class="img-responsive" alt="">
+      <img src="../../images/01-lang-toggle-fr.png" class="img-responsive" alt="">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Changer la langue (Page française) – grand écran</summary>
         <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en français avec mise en surbrillance du mot lié English dans le coin supérieur droit.</p>
