@@ -25,7 +25,7 @@ title: "Fil d'Ariane"
   <p><span class="label label-danger">Obligatoire sur les pages standards et de campagne</span></p>
   <p>Le fil d’Ariane est une série horizontale de liens qui permet aux gens de se situer par rapport au modèle de navigation du site Canada.ca. Il représente l’emplacement d’une page par rapport à son parent et donne un moyen clair de naviguer vers les niveaux supérieurs de la structure du site.</p>
   <div class="pattern-demo mrgn-tp-lg">
-    <figure class="mrgn-bttm-sm"><img src="../images/01-breadcrumbs-main-fr.png" class="img-responsive" alt=""></figure>
+    <figure class="mrgn-bttm-sm"><img src="../../images/01-breadcrumbs-main-fr.png" class="img-responsive" alt=""></figure>
   </div>
   <section>
     <h2>Sur cette page</h2>
@@ -153,7 +153,7 @@ title: "Fil d'Ariane"
   <div class="pattern-demo mrgn-tp-lg">
     <figure>
       <figcaption><b>En-tête général avec fil d’Ariane – grand écran</b></figcaption>
-      <img src="../images/01-breadcrumbs-main-fr.png" class="img-responsive" alt=" ">
+      <img src="../../images/01-breadcrumbs-main-fr.png" class="img-responsive" alt=" ">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: En-tête général avec fil d’Ariane – grand écran</summary>
         <p class="mrgn-tp-lg">Le fil d’Ariane apparaît sous le bouton de menu sur une ligne horizontale.</p>
@@ -163,7 +163,7 @@ title: "Fil d'Ariane"
   <div class="pattern-demo mrgn-tp-lg">
     <figure>
       <figcaption><b>En-tête général avec fil d’Ariane – petit écran</b></figcaption>
-      <img src="../images/01-breadcrumbs-sm-fr.png" class="img-responsive" alt=" ">
+      <img src="../../images/01-breadcrumbs-sm-fr.png" class="img-responsive" alt=" ">
       <details class="mrgn-tp-md">
         <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: En-tête général avec fil d’Ariane – petit écran</summary>
         <p class="mrgn-tp-lg">Le fil d’Ariane apparaît sous le bouton de menu.</p>
