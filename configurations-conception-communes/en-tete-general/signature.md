@@ -25,7 +25,7 @@ title: "Signature du gouvernement du Canada"
 <p>La signature du gouvernement du Canada est un élément obligatoire de l’en-tête global. Elle est un symbole officiel du gouvernement du Canada et combine le symbole du drapeau et &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; dans les deux langues officielles.</p>
 <p>La signature du gouvernement du Canada aide les utilisateurs à réaliser que la page sur laquelle ils se trouvent appartient au gouvernement du Canada.</p>
 <div class="pattern-demo mrgn-tp-lg">
-  <figure class="mrgn-bttm-sm"><img src="../images/01-sig-fr.png" class="img-responsive" alt=""></figure>
+  <figure class="mrgn-bttm-sm"><img src="../../images/01-sig-fr.png" class="img-responsive" alt=""></figure>
 </div>
 <section>
   <h2>Sur cette page</h2>
@@ -69,7 +69,7 @@ title: "Signature du gouvernement du Canada"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Signature du gouvernement du Canada - grand écran</b></figcaption>
-    <img src="../images/01-sig-fr.png" class="img-responsive" alt="">
+    <img src="../../images/01-sig-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Signature du gouvernement du Canada - grand écran</summary>
       <p class="mrgn-tp-lg">La signature du gouvernement du Canada se trouve dans le coin supérieur gauche du site Web. Elle est composée du symbole du drapeau en rouge, suivi des termes &laquo;&nbsp;<strong>Government of Canada</strong>&nbsp;&raquo; en anglais et &laquo;&nbsp;<strong>Gouvernement du Canada</strong>&nbsp;&raquo; en français, les deux étant écrits en noir.</p>
@@ -79,7 +79,7 @@ title: "Signature du gouvernement du Canada"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Signature du gouvernement du Canada - petit écran</b></figcaption>
-    <img src="../images/01-sig-sm-fr.png" class="img-responsive" alt="">
+    <img src="../../images/01-sig-sm-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Signature du gouvernement du Canada - petit écran</summary>
       <p class="mrgn-tp-lg">La signature du gouvernement du Canada se trouve dans le coin supérieur gauche de la page. Elle est composée du symbole du drapeau en rouge, suivi des termes &laquo;&nbsp;<strong>Government of Canada</strong>&nbsp;&raquo; en anglais et &laquo;&nbsp;<strong>Gouvernement du Canada</strong>&nbsp;&raquo; en français, les deux étant écrits en noir.</p>
