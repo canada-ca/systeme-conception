@@ -13,7 +13,7 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
                      alt="Se connecter – grand écran"> </figure>
   <figure class="mrgn-bttm-lg">
     <figcaption><strong>Se connecter – petit écran</strong></figcaption>
-    <img src="../images/01-signin-button-mobile-fr.png" class="img-responsive brdr" alt="Se connecter – petit écran"> </figure>
+    <img src="../images/01a-signin-button-mobile-fr.png" class="img-responsive brdr" alt="Se connecter – petit écran"> </figure>
 </div>
 <h2>Sur cette page</h2>
 <ul>
@@ -115,7 +115,7 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo; – petit écran</b></figcaption>
-    <img src="../images/01-signin-button-mobile-fr.png" class="img-responsive brdr" alt="Se connecter – petit écran">
+    <img src="../images/01a-signin-button-mobile-fr.png" class="img-responsive brdr" alt="Se connecter – petit écran">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo; – petit écran</summary>
       <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en français avec le bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo; en surbrillance.</p>
