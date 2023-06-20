@@ -61,7 +61,7 @@ title: "En-tête global"
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="en-tete-general.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
+                  <td><a href="signature.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
@@ -120,7 +120,7 @@ title: "En-tête global"
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="en-tete-general.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
+                  <td><a href="signature.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span> (Le lien vers la page d'accueil de Canada.ca est facultatif)</td>
                 </tr>
                 <tr>
@@ -128,7 +128,7 @@ title: "En-tête global"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span> <span class="small">(<a href="#tmenu-note" id="tmenu">Nota</a>)</span></td>
                 </tr>
                 <tr>
-                  <td><a href="connexion-contextuel.html">Champ de recherche du site</a></td>
+                  <td><a href="champ-recherche.html">Champ de recherche du site</a></td>
                   <td>Facultatif</td>
                 </tr>
                 <tr>
@@ -179,7 +179,7 @@ title: "En-tête global"
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="en-tete-general.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
+                  <td><a href="signature.html">Signature du gouvernement du Canada (liée à la page d'accueil de Canada.ca)</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
@@ -187,7 +187,7 @@ title: "En-tête global"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
-                  <td><a href="connexion-contextuel.html">Champ de recherche du site</a></td>
+                  <td><a href="champ-recherche.html">Champ de recherche du site</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
                 <tr>
