@@ -17,14 +17,14 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
 <link rel="stylesheet" href="../css/custom.css">
 <link rel="stylesheet" href="../css/split-h1.css">
-<!--<![endif]--> 
+<!--<![endif]-->
 <!--[if lt IE 9]>
 		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
 
 		<link rel="stylesheet" href="http://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/ie8-theme.min.css" />
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 		<script src="./wet-boew/js/ie8-wet-boew.min.js"></script>
-		<![endif]--> 
+		<![endif]-->
 <!--[if lte IE 9]>
 
 
@@ -33,9 +33,9 @@
 <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/wet-boew/css/noscript.min.css" />
 </noscript>
 
-<!-- Global site tag (gtag.js) - Google Analytics --> 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-1"></script> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105628416-1"></script>
 <script>
 
   window.dataLayer = window.dataLayer || [];
@@ -813,7 +813,7 @@
     <h2 id="discussion">Discussion</h2>
     <p><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuter de cette configuration dans GitHub</a></p>
   </section>
-  
+
   <!-- START PAGE FEEDBACK WIDGET -->
   <div class="row row-no-gutters mrgn-tp-xl">
     <div class="col-sm-7 col-lg-6">
@@ -907,9 +907,36 @@
     </dl>
   </div>
 </main>
-{% include footer-fr.html %} 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script> 
-<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script> 
+{% include footer-fr.html %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
+<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
 <script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+<!-- START SCRIPT PAGE FEEDBACK WIDGET -->
+
+<script>
+				$(document).on("wb-ready.wb", function () {
+					$("#btnno").click(function (e) {
+						$(".gc-pg-hlpfl-no").removeClass("nojs-show");
+						$(".gc-pg-hlpfl-btn").addClass("hide");
+						$("#helpful").val("No");
+					});
+					$("#gc-pg-hlpfl-frm").submit(function (e) {
+						e.preventDefault();
+						$(".gc-pg-hlpfl-thnk").removeClass("hide");
+						$("#gc-pg-hlpfl-frm").addClass("hide nojs-show");
+						$.ajax({
+							url: 'https://pagesuccessemailqueue.azurewebsites.net/api/QueueProblemForm',
+							type: 'POST',
+							dataType: 'text',
+							data: $('form#gc-pg-hlpfl-frm').serialize(),
+							success: function (data) { },
+							error: function (xhr, status, err) {
+								console.log(xhr.responseText);
+							}
+						});
+					});
+				});
+			</script>
+<!-- END SCRIPT PAGE FEEDBACK WIDGET -->
 </body>
 </html>
