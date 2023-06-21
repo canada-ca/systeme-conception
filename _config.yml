@@ -60,7 +60,7 @@ defaults:
       - title: Système de conception de Canada.ca
         link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
       - title: Bibliothèque de modèles et de configurations de conception
-          link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
       css:
         - https://design.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
