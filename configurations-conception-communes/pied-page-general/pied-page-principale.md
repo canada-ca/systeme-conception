@@ -13,7 +13,7 @@ title: "Pied de page général&nbsp;: Bande principale"
   recherche Orientation dans Canada.ca.</p>
 
 <!--<a href="">Blog post link</a>-->
-<div class="pattern-demo mrgn-tp-lg"> <img src="../images/footer-main-crop-fr.jpg" class="img-responsive"
+<div class="pattern-demo mrgn-tp-lg"> <img src="../../images/footer-main-crop-fr.jpg" class="img-responsive"
 			alt=""> </div>
 <section>
   <h2>Sur cette page</h2>
