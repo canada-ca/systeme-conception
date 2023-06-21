@@ -50,3 +50,38 @@ defaults:
         link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
       - title: Spécifications de l'architecture de l'information
         link: https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html
+  - scope:
+      path: "configurations-conception-communes/*.md"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://www.canada.ca/en/government/about.html
+        - title: Canada.ca design system
+          link: https://www.canada.ca/en/government/about/design-system.html
+        - title: Template and pattern library for Canada.ca
+          link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
+      css:
+        - https://design.canada.ca/css/split-h1.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
+        - ../css/blog.css
+        - ../css/custom.css
+      pageclass: cnt-wdth-lmtd
+  - scope:
+      path: "common-design-patterns/global-footer/*.md"
+    values:
+      breadcrumbs:
+        - title: About Canada.ca
+          link: https://www.canada.ca/en/government/about.html
+        - title: Canada.ca design system
+          link: https://www.canada.ca/en/government/about/design-system.html
+        - title: Template and pattern library for Canada.ca
+          link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
+        - title: Global footer
+          link: "https://design.canada.ca/common-design-patterns/site-footer.html"
+      css:
+        - https://design.canada.ca/css/split-h1.css
+        - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
+        - ../css/blog.css
+        - ../css/custom.css
+      pageclass: cnt-wdth-lmtd
+      permalink: /common-design-patterns/:basename:output_ext
