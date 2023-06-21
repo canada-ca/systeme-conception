@@ -28,7 +28,7 @@ defaults:
       css:
         - /css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-      pageclass: cnt-wdth-lmtd
+      layout: default
   - scope:
       path: "sondage"
     values:
@@ -39,7 +39,7 @@ defaults:
         link: https://www.canada.ca/fr/analytique.html
       - title: Sondage sur la réussite des tâches
         link: sondage/index.html
-      layout: default
+      pageclass: cnt-wdth-lmtd
   - scope:
       path: "architecture"
     values:
@@ -50,6 +50,7 @@ defaults:
         link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
       - title: Spécifications de l'architecture de l'information
         link: https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html
+        pageclass: cnt-wdth-lmtd
   - scope:
       path: "configurations-conception-communes/*.md"
     values:
