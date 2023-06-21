@@ -55,12 +55,12 @@ defaults:
       path: "configurations-conception-communes/*.md"
     values:
       breadcrumbs:
-        - title: About Canada.ca
-          link: https://www.canada.ca/en/government/about.html
-        - title: Canada.ca design system
-          link: https://www.canada.ca/en/government/about/design-system.html
-        - title: Template and pattern library for Canada.ca
-          link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Système de conception de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+      - title: Bibliothèque de modèles et de configurations de conception
+          link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
       css:
         - https://design.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
@@ -71,14 +71,14 @@ defaults:
       path: "common-design-patterns/global-footer/*.md"
     values:
       breadcrumbs:
-        - title: About Canada.ca
-          link: https://www.canada.ca/en/government/about.html
-        - title: Canada.ca design system
-          link: https://www.canada.ca/en/government/about/design-system.html
-        - title: Template and pattern library for Canada.ca
-          link: https://www.canada.ca/en/government/about/design-system/pattern-library.html
-        - title: Global footer
-          link: "https://design.canada.ca/common-design-patterns/site-footer.html"
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Système de conception de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+      - title: Bibliothèque de modèles et de configurations de conception
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+      - title: Pied de page général
+        link: https://conception.canada.ca/configurations-conception-communes/pied-page.html
       css:
         - https://design.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
