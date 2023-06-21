@@ -12,7 +12,7 @@ title: "Pied de page général&nbsp;: Bande contextuelle"
   peut englober un thème entier, toutes les pages liées à un programme précis ou toutes les pages liées à une seule
   organisation.</p>
 <p><strong>Mise à jour de conception en 2022</strong>&nbsp;: Nous avons récemment mis à jour ce modèle dans le cadre d’une nouvelle stratégie de navigation issue du projet de recherche Orientation dans Canada.ca.</p>
-<div class="pattern-demo mrgn-tp-lg"><img src="../images/footer-contextual-fr.jpg" class="img-responsive"
+<div class="pattern-demo mrgn-tp-lg"><img src="../../images/footer-contextual-fr.jpg" class="img-responsive"
 			alt=""></div>
 <section>
   <h2>Sur cette page</h2>
@@ -73,7 +73,7 @@ title: "Pied de page général&nbsp;: Bande contextuelle"
   <div class="pattern-demo">
     <figure class="mrgn-bttm-lg">
       <figcaption><b>Exemple pour le thème des anciens combattants et des militaires</b></figcaption>
-      <img src="../images/contextual-footer-theme-fr.jpg" class="img-responsive"
+      <img src="../../images/contextual-footer-theme-fr.jpg" class="img-responsive"
 				alt="Theme contextual footer. Text version below:">
       <details>
         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Version texte</summary>
@@ -85,7 +85,7 @@ title: "Pied de page général&nbsp;: Bande contextuelle"
   <div class="pattern-demo">
     <figure class="mrgn-bttm-lg">
       <figcaption><b>Exemple pour une institution</b></figcaption>
-      <img src="../images/contextual-footer-institutional-fr.jpg" class="img-responsive"
+      <img src="../../images/contextual-footer-institutional-fr.jpg" class="img-responsive"
 				alt="Institutional contextual footer. Text version below:">
       <details>
         <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Version texte</summary>
