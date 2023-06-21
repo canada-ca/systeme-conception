@@ -68,7 +68,7 @@ defaults:
         - ../css/custom.css
       pageclass: cnt-wdth-lmtd
   - scope:
-      path: "common-design-patterns/global-footer/*.md"
+      path: "configurations-conception-communes/pied-page-general/*.md"
     values:
       breadcrumbs:
       - title: À propos de Canada.ca
