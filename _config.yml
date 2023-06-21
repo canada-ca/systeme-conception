@@ -23,12 +23,12 @@ url: "https://conception.canada.ca"
 # Page front matter defaults
 defaults:
   - scope:
-      path: "" # Ensure it's applied to all pages
+      path: "/*.md" # Ensure it's applied to all pages
     values:
       css:
         - /css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-      pageclass: cnt-wdth-lmtd
+      layout: default
   - scope:
       path: "sondage"
     values:
@@ -39,7 +39,7 @@ defaults:
         link: https://www.canada.ca/fr/analytique.html
       - title: Sondage sur la réussite des tâches
         link: sondage/index.html
-      layout: default
+      pageclass: cnt-wdth-lmtd
   - scope:
       path: "architecture"
     values:
