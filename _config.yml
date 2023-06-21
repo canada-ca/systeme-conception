@@ -85,4 +85,4 @@ defaults:
         - ../css/blog.css
         - ../css/custom.css
       pageclass: cnt-wdth-lmtd
-      permalink: /common-design-patterns/:basename:output_ext
+      permalink: /configurations-conception-communes/:basename:output_ext
