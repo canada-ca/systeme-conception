@@ -16,7 +16,7 @@ title: "Champ de recherche du site"
 <p>Le champ de recherche du site est un élément de l’en-tête général. Il permet aux gens de lancer une recherche dans le contenu du gouvernement du Canada au moyen d’un champ de recherche simple.</p>
 <p>Les résultats de la recherche dans le site sont présentés pour l’ensemble du contenu Web du gouvernement du Canada ou pour un sous-ensemble de contenu au niveau du ministère ou de l’organisme.</p>
 <div class="pattern-demo mrgn-tp-lg">
-  <figure class="mrgn-bttm-sm"><img src=../../images/01-site-search-fr.png" class="img-responsive" alt=""></figure>
+  <figure class="mrgn-bttm-sm"><img src="../../images/01-site-search-fr.png" class="img-responsive" alt=""></figure>
 </div>
 <section>
   <h2>Sur cette page</h2>
