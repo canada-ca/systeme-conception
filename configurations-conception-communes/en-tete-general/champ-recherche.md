@@ -57,13 +57,13 @@ title: "Champ de recherche du site"
   <li>Les recherches interrogent l’index de GC Recherche. Lorsque l’on saisit un terme de recherche dans le champ de saisie et que l’on sélectionne l’icône de recherche, une page de résultats s’ouvre.</li>
 </ul>
 <h3>Spécifications de conception</h3>
-<p>Les spécifications de conception pour le champ de recherche du site sont les suivantes&nbsp;:</p>
+<p>Les spécifications du contenu pour le champ de recherche du site sont les suivantes&nbsp;:</p>
 <ul>
   <li>Position&nbsp;: coin supérieur droit de la zone de l’en-tête général, sous le lien qui permet de changer de langue</li>
   <li>Catégorie de formulaire&nbsp;: form-inline</li>
   <li>Icône de bouton&nbsp;: glyphicon-search glyphicon</li>
   <li>Catégorie de bouton&nbsp;: btn btn-primary btn-small</li>
-  <li>Couleur&nbsp;: n<sup>o</sup>&nbsp;26374a</li>
+  <li>Couleur&nbsp;: #26374a</li>
   <li>Longueur du champ de saisie&nbsp;: longueur maximale&nbsp;=&nbsp;170</li>
   <li>Taille de valeur&nbsp;: 34</li>
 </ul>
@@ -82,10 +82,10 @@ title: "Champ de recherche du site"
 </div>
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
-    <figcaption><b>Champ de recherche du site – Petit écran</b></figcaption>
+    <figcaption><b>Champ de recherche du site – petit écran</b></figcaption>
     <img src="../../images/01-site-search-sm-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
-      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Champ de recherche du site – Petit écran</summary>
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Champ de recherche du site – petit écran</summary>
       <p class="mrgn-tp-lg">Le champ de recherche s’affiche dans l’en-tête, directement sous la signature du gouvernement du Canada et le lien qui permet de changer de langue. Il couvre la largeur de l’écran.</p>
       <p>La barre de recherche du site est un rectangle défini par un contour gris clair. Dans le rectangle, on peut lire les mots &laquo;&nbsp;Rechercher dans Canada.ca&nbsp;&raquo;. À la droite du rectangle se trouve un carré bleu dans lequel il y a une icône de loupe blanche.</p>
     </details>
