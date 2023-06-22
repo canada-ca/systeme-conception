@@ -36,7 +36,7 @@ title: "Signature du gouvernement du Canada"
 <p>Ne changez pas la couleur du drapeau. Il doit être en couleur (rouge) et non en noir et blanc.</p>
 <p>Ne modifiez pas le texte (Government of Canada Gouvernement du Canada) ou la police.</p>
 <h2 id="contenu">Contenu et conception</h2>
-<p>Trouvez des exemples visuels ainsi que des spécifications du contenu et de conception.</p>
+<p>Trouver des exemples visuels ainsi que des spécifications du contenu et de conception.</p>
 <h3>Spécifications du contenu</h3>
   <p>La signature du gouvernement du Canada se trouve dans le coin supérieur gauche de la page.</p>
   <p>La signature est composée du symbole du drapeau en rouge du Programme de coordination de l’image de marque (PCIM), suivi des termes &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; en français et &laquo;&nbsp;Government of Canada&nbsp;&raquo; en anglais, les deux étant écrits en noir.</p>
@@ -78,7 +78,7 @@ title: "Signature du gouvernement du Canada"
   </figure>
 </div>
 <h2 id="implementation">Comment procéder à la mise en œuvre</h2>
-<p>Trouvez des exemples concrets de mise en œuvre de la signature du gouvernement du Canada, un élément de l’en-tête global.</p>
+<p>Trouver des exemples concrets de mise en œuvre de la signature du gouvernement du Canada, un élément de l’en-tête global.</p>
 <h3>Référence pour la mise en oeuvre du thème GCWeb (BOEW)</h3>
 <p>La référence pour l’implémentation explique la façon de configurer chaque élément de l’en-tête.</p>
 <ul>
@@ -132,5 +132,5 @@ title: "Signature du gouvernement du Canada"
   <dt>
     <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
   </dt>
-  <dd>Mise à jour de l'orientation pour y inclure des conseils pour quoi éviter, la précision que le drapeau doit être en couleur, les spécifications en matière de contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, les conclusions des recherches et la justification stratégique</dd>
+  <dd>Mise à jour de l'orientation pour y inclure des conseils sur ce qui est à éviter, la précision que le drapeau doit être en couleur, les spécifications en matière de contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, les conclusions des recherches et la justification stratégique</dd>
 </dl>
