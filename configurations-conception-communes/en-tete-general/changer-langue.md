@@ -154,7 +154,7 @@ title: "Lien pour changer de langue"
           </ul>
         </details>
         <details id="005">
-          <summary><strong>Solution de gabarits à déploiement centralisé (SGDC)</strong></summary>
+          <summary><strong>SGDC</strong></summary>
           <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/fr/">Documentation de la SGDC</a></li>
