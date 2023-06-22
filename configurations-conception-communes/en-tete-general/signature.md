@@ -8,7 +8,7 @@ title: "Signature du gouvernement du Canada"
 <div class="row">
   <div class="col-md-12 pull-left">
     <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-      <li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: JJ-MM-2023</li>
+      <li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: {{ site.dateModified }}</li>
     </ul>
   </div>
 </div>
