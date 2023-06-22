@@ -76,16 +76,16 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 <ul>
   <li>Marge&nbsp;:
     <ul>
-      <li>Marge en haut&nbsp;: 5px</li>
+      <li>Marge du haut&nbsp;: 5px</li>
       <li>Des autres marges&nbsp;: 0px</li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>Rembourrage&nbsp;:
+  <li>Marges intérieures&nbsp;:
     <ul>
       <li>En haut&nbsp;: 10px</li>
-      <li>Nn bas&nbsp;: 10px</li>
+      <li>En bas&nbsp;: 10px</li>
       <li>À gauche&nbsp;: 14px</li>
       <li>À droite&nbsp;: 14px</li>
     </ul>
@@ -93,13 +93,13 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 </ul>
 <p>Affichage normal</p>
 <ul>
-  <li>couleur d’arrière-plan : #26374a</li>
-  <li>couleur de la bordure : #26374a</li>
+  <li>Couleur d’arrière-plan : #26374a</li>
+  <li>Couleur de la bordure : #26374a</li>
 </ul>
 <p>Affichage en survol</p>
 <ul>
-  <li>couleur d’arrière-plan : #444</li>
-  <li>couleur de la bordure : #444</li>
+  <li>Couleur d’arrière-plan : #444</li>
+  <li>Couleur de la bordure : #444</li>
 </ul>
 <h3>Exemples visuels</h3>
 <div class="pattern-demo mrgn-tp-lg">
