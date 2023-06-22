@@ -80,15 +80,15 @@ title: "Fil d'Ariane"
     <li>Couleur du texte&nbsp;:
       <ul>
         <li>lien par défaut&nbsp;: #284162</li>
-        <li>lien sélectionné (passé par-dessus ou mis au point)&nbsp;: #0535d2</li>
+        <li>lien sélectionné (passé par-dessus ou mise au point)&nbsp;: #0535d2</li>
         <li>lien visité&nbsp;: #7834bc</li>
       </ul>
     </li>
     <li>Espaces&nbsp;:
       <ul>
-        <li>Élément de remplissage vertical&nbsp;: 13&nbsp;px</li>
-        <li>Élément de remplissage&nbsp;: 2&nbsp;px</li>
-        <li>Marge en haut de la page&nbsp;: 15&nbsp;px</li>
+        <li>Marges intérieures verticales&nbsp;: 13&nbsp;px</li>
+        <li>Marges intérieures horizontales&nbsp;: 2&nbsp;px</li>
+        <li>Marge du haut&nbsp;: 15&nbsp;px</li>
         <li>Hauteur des lignes&nbsp;: 23&nbsp;px </li>
       </ul>
     </li>
@@ -210,7 +210,7 @@ title: "Fil d'Ariane"
       <li><a href="https://blogue.canada.ca/2020/08/10/canadapointca-source-fiable">Canada.ca est une source fiable</a><br>
         Explique la décision d’utiliser &laquo;&nbsp;Canada.ca&nbsp;&raquo; comme étiquette du premier lien du fil d’Ariane.</li>
       <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche – Orientation dans Canada.ca</a><br>
-        La recherche montre qui les personnes qui naviguent sur le site utilisent les liens du fil d’Ariane près de deux fois plus souvent que le menu des thèmes et des sujets</li>
+        La recherche montre qui les personnes que naviguent sur le site utilisent les liens du fil d’Ariane près de deux fois plus souvent que le menu des thèmes et des sujets</li>
     </ul>
     <h3>Justification stratégique</h3>
     <p>Les spécifications relatives aux espaces dans les liens du fils d’Ariane sont conçues de façon à ce que les cibles tactiles respectent les règles AAA pour l’accessibilité des contenus Web.</p>
@@ -218,7 +218,7 @@ title: "Fil d'Ariane"
     <ul>
       <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
     </ul>
-    <h2 id="changes">Derniers changements</h2>
+    <h2 id="changements">Derniers changements</h2>
     <dl class="dl-horizontal">
       <dt>
         <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
