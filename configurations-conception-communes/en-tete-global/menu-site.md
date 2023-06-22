@@ -1,6 +1,5 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/site-menu.html"
-date: 2017-10-05
 dateModified: 2023-05-17
 description: "Orientation sur l’utilisation du menu thématique sur Canada.ca. Le menu thématique donne accès aux principales tâches de tous les sites Web du gouvernement du Canada regroupés sous les principaux thèmes de Canada.ca."
 title: "Menu thématique"
@@ -17,6 +16,7 @@ title: "Menu thématique"
 <div class="pattern-demo mrgn-tp-lg">
   <figure class="mrgn-bttm-sm"><img src="../../images/01-theme-menu-flyout-fr.png" class="img-responsive" alt=""></figure>
 </div>
+
 <section>
   <h2>Sur cette page</h2>
   <ul>
@@ -28,8 +28,10 @@ title: "Menu thématique"
     <li><a href="#changements">Derniers changements</a></li>
   </ul>
 </section>
+
 <h2 id="quand">Quand l’utiliser</h2>
 <p><strong>Mise à jour de la conception en 2023&nbsp;:</strong> Nous avons récemment mis à jour ce modèle dans le cadre d’une nouvelle stratégie de navigation issue du projet de recherche Orientation. Le menu thématique est en transition. Pour en savoir plus sur ce projet, visitez la section <a href="#recherche">Recherche et justification</a> sur cette page.</p>
+
 <h3>Situation actuelle</h3>
 <p>Appliquez le menu thématique comme suit&nbsp;:</p>
 <ul>
@@ -48,20 +50,24 @@ title: "Menu thématique"
   <li>Vous avez ajouté un <a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a> là où il est pertinent pour le contenu. </li>
 </ul>
 <p>Un groupe de pages peut être toutes les pages liées à un programme ou service précis, ou toutes les pages liées à une seule organisation.</p>
+
 <h3>Situation future</h3>
 <p>Ultimement, nous retirerons le modèle de menu thématique. Les liens vers les pages thématiques demeureront disponibles à travers la bande principale du pied de page général et le fil d'Ariane.</p>
+
 <h2 id="eviter">Quoi éviter</h2>
 <p>Ne réutilisez pas le menu thématique pour une autre navigation. Le menu est un outil de navigation global. C’est déroutant pour les utilisateurs s’il se comporte différemment selon l’endroit où ils se trouvent sur le site.</p>
 <p>Ne le supprimez pas des pages de destination standards avant d’avoir rempli les conditions ci-dessus.</p>
 <p>Ne changez pas le style ou la palette de couleurs.</p>
 <p>Ne mettez pas de liens ou de texte supplémentaires dans le menu déroulant.</p>
+
 <h2 id="contenu">Contenu et conception</h2>
 <p>Le menu thématique se compose de trois éléments intégrés : le bouton de menu qui ouvre et qui ferme le menu; la liste des thèmes qui permet à l’utilisateur de choisir parmi les différents thèmes proposés; et le menu déroulant qui présente les sujets et les liens les plus sollicités pour chaque thème.</p>
+
 <h3>Spécifications du contenu</h3>
 <ol>
   <li>Bouton de menu&nbsp;:
     <ul>
-      <li>Ce bouton est assorti de l’étiquette &laquo;&nbsp;MENU&nbsp;&raquo;, avec un chevron vers le bas.</li>
+      <li>Ce bouton est assorti de l’étiquette &laquo;&nbsp;<span class="text-uppercase">Menu</span>&nbsp;&raquo;, avec un chevron vers le bas.</li>
     </ul>
   </li>
   <li class="mrgn-tp-lg">Liste des thèmes, qui comprend les 15 thèmes principaux de Canada.ca dans l’ordre suivant&nbsp;:
@@ -93,13 +99,16 @@ title: "Menu thématique"
   </li>
 </ol>
 <p>Les sujets et les liens les plus demandés doivent s’afficher dans le même ordre à la fois sur le menu et sur la page thématique.</p>
+
 <h4>Interactions</h4>
+
 <h5>Grands écrans</h5>
 <ul>
   <li>Cliquer sur le bouton de menu développe l’élément de la liste de thèmes avec le menu déroulant des travaux ouverts.</li>
   <li>Une fois ouvert, survoler ou cliquer sur l’un des 15 thèmes révèle un menu déroulant pour ce thème.</li>
   <li>Il faut cliquer une deuxième fois sur le menu pour le fermer.</li>
 </ul>
+
 <h5>Petits écrans</h5>
 <ul>
   <li>Appuyer sur le bouton de menu développe la liste des thèmes sous la forme d’une série d’options de sous-menu.</li>
@@ -107,6 +116,7 @@ title: "Menu thématique"
   <li>Appuyer sur l’option &laquo;&nbsp;En demande&nbsp;&raquo; développe la liste des liens les plus demandés pour ce thème.</li>
   <li>Appuyer de nouveau sur n’importe quel élément développé le fermera.</li>
 </ul>
+
 <h3>Spécifications de conception</h3>
 <ol>
   <li>Styles des boutons de menu&nbsp;:
@@ -138,6 +148,7 @@ title: "Menu thématique"
     </ul>
   </li>
 </ol>
+
 <h3>Exemples visuels</h3>
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
@@ -179,14 +190,17 @@ title: "Menu thématique"
     </details>
   </figure>
 </div>
+
 <h2 id="implementation">Comment procéder à la mise en œuvre</h2>
 <p>Trouvez des exemples de travail et du code pour mettre en place le menu thématique.</p>
+
 <h3>Référence pour la mise en œuvre du thème GCweb (BOEW)</h3>
 <p>La référence de mise en œuvre indique comment configurer chaque élément de l’en-tête.</p>
 <ul>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/gcweb-menu/gcweb-menu-docs-fr.html">Menu thématique</a></li>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-fr.html">Documentation relative à l’en-tête GCWeb (WET)</a></li>
 </ul>
+
 <h3>Mises en œuvre</h3>
 <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
 <div class="row">
@@ -218,8 +232,10 @@ title: "Menu thématique"
     </div>
   </div>
 </div>
+
 <h2 id="recherche">Recherche et justification</h2>
 <p>Consultez les conclusions des recherches et la justification de la politique.</p>
+
 <h3>Constatations découlant des recherches</h3>
 <p>Nous avons mis à jour l’orientation du menu thématique afin de l’harmoniser à une nouvelle stratégie de navigation globale issue du projet de recherche Orientation.</p>
 <ul>
@@ -228,10 +244,11 @@ title: "Menu thématique"
     <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
       Billet de blogue qui explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre</li>
 </ul>
+
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+    <time>2023-MM-DD</time>
   </dt>
   <dd>Modèle mis à jour pour refléter les changements de conception du projet Orientation.</dd>
 </dl>

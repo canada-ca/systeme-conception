@@ -1,6 +1,5 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/signature.html"
-date: 2017-10-05
 dateModified: 2023-05-17
 description: "Orientation sur l’utilisation de la signature du gouvernement du Canada sur Canada.ca. La signature est un symbole officiel du gouvernement du Canada. Elle s’affiche toujours dans l’en-tête global sur Canada.ca."
 title: "Signature du gouvernement du Canada"
@@ -18,6 +17,7 @@ title: "Signature du gouvernement du Canada"
 <div class="pattern-demo mrgn-tp-lg">
   <figure class="mrgn-bttm-sm"><img src="../../images/01-sig-fr.png" class="img-responsive" alt=""></figure>
 </div>
+
 <section>
   <h2>Sur cette page</h2>
   <ul>
@@ -29,22 +29,29 @@ title: "Signature du gouvernement du Canada"
     <li><a href="#changements">Derniers changements</a></li>
   </ul>
 </section>
+
 <h2 id="quand">Quand l’utiliser</h2>
 <p>La signature du gouvernement du Canada est obligatoire sur toutes les pages.</p>
+
 <h2 id="eviter">Quoi éviter</h2>
 <p>Ne modifiez pas la signature.</p>
 <p>Ne changez pas la couleur du drapeau. Il doit être en couleur (rouge) et non en noir et blanc.</p>
 <p>Ne modifiez pas le texte (Government of Canada Gouvernement du Canada) ou la police.</p>
+
 <h2 id="contenu">Contenu et conception</h2>
 <p>Trouver des exemples visuels ainsi que des spécifications du contenu et de conception.</p>
+
 <h3>Spécifications du contenu</h3>
-  <p>La signature du gouvernement du Canada se trouve dans le coin supérieur gauche de la page.</p>
-  <p>La signature est composée du symbole du drapeau en rouge du Programme de coordination de l’image de marque (PCIM), suivi des termes &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; en français et &laquo;&nbsp;Government of Canada&nbsp;&raquo; en anglais, les deux étant écrits en noir.</p>
-  <p>La signature doit, en premier lieu, être affichée en anglais sur les pages anglaises et en français sur les pages françaises.</p>
+<p>La signature du gouvernement du Canada se trouve dans le coin supérieur gauche de la page.</p>
+<p>La signature est composée du symbole du drapeau en rouge du Programme de coordination de l’image de marque (PCIM), suivi des termes &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; en français et &laquo;&nbsp;Government of Canada&nbsp;&raquo; en anglais, les deux étant écrits en noir.</p>
+<p>La signature doit, en premier lieu, être affichée en anglais sur les pages anglaises et en français sur les pages françaises.</p>
+
 <h4>Accessibilité</h4>
 <p>Ajoutez &laquo;&nbsp;Government of Canada&nbsp;&raquo; en guise de texte de remplacement sur les pages anglaises et &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; en guise de texte de remplacement sur les pages françaises.</p>
+
 <h4>Interactions</h4>
 <p>Lorsque l’utilisateur sélectionne la signature, cela lui permet d’accéder à la page d’accueil de Canada.ca.</p>
+
 <h3>Spécifications de conception</h3>
 <p>Les spécifications de conception concernant la signature sont les suivantes&nbsp;:</p>
 <ul>
@@ -56,6 +63,7 @@ title: "Signature du gouvernement du Canada"
 </ul>
 <p>La signature est un fichier SVG (graphique vectoriel adaptable), configuré pour s’adapter automatiquement à la taille de l’écran. </p>
 <p>La signature est un fichier image qui doit être formaté conformément aux <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/norme-graphique/couleurs-norme-graphique-pfim.html">spécifications de conception du Programme de coordination de l’image de marque</a>.</p>
+
 <h3>Exemples visuels</h3>
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
@@ -77,13 +85,16 @@ title: "Signature du gouvernement du Canada"
     </details>
   </figure>
 </div>
+
 <h2 id="implementation">Comment procéder à la mise en œuvre</h2>
 <p>Trouver des exemples concrets de mise en œuvre de la signature du gouvernement du Canada, un élément de l’en-tête global.</p>
+
 <h3>Référence pour la mise en oeuvre du thème GCWeb (BOEW)</h3>
 <p>La référence pour l’implémentation explique la façon de configurer chaque élément de l’en-tête.</p>
 <ul>
   <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-fr.html">Documentation relative à l’en-tête GCWeb (WET)</a></li>
 </ul>
+
 <h3>Mises en oeuvre</h3>
 <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
 <div class="row">
@@ -115,22 +126,26 @@ title: "Signature du gouvernement du Canada"
     </div>
   </div>
 </div>
+
 <h2 id="recherche">Recherche et justification</h2>
 <p>Consultez les conclusions des recherches et la justification de la politique.</p>
+
 <h3>Constatations découlant des recherches</h3>
 <p>La confiance et la cohérence sont essentielles. Notre étude sur la confiance du Canada.ca et des recherches antérieures montrent qu’un en-tête cohérent est nécessaire pour maintenir une marque de confiance.</p>
 <p>Par exemple, les gens font davantage confiance à la page lorsque le symbole du drapeau dans la signature du gouvernement du Canada est rouge.</p>
 <p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de la transformation numérique à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
+
 <h3>Justification stratégique</h3>
 <p>La signature du gouvernement du Canada est définie par le Programme de coordination de l’image de marque. En tant que partie de l’en-tête global, il s’agit d’un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information.</cite></p>
 <ul>
   <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/norme-graphique/couleurs-norme-graphique-pfim.html">Norme graphique du Programme de coordination de l’image de marque</a></li>
   <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
 </ul>
+
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+    <time>2023-MM-DD</time>
   </dt>
   <dd>Mise à jour de l'orientation pour y inclure des conseils sur ce qui est à éviter, la précision que le drapeau doit être en couleur, les spécifications en matière de contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, les conclusions des recherches et la justification stratégique</dd>
 </dl>
