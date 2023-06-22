@@ -6,13 +6,13 @@ description: "Orientation sur l’utilisation de l’en-tête général sur les 
 title: "En-tête global"
 ---
 <div class="cnt-wdth-lmtd">
-  <div class="row">
-    <div class="col-md-12 pull-left">
-      <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-        <li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: AAAA-MM-JJ</li>
-      </ul>
-    </div>
+<div class="row">
+  <div class="col-md-12 pull-left">
+    <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
+      <li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: {{ site.dateModified }}</li>
+    </ul>
   </div>
+</div>
   <p><span class="label label-danger">Obligatoire</span></p>
   <p>L’en-tête global se trouve au haut de chaque page Web du gouvernement du Canada.</p>
   <p>Le fait d’avoir le même en-tête global sur toutes les pages&nbsp;:</p>
