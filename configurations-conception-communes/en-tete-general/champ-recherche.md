@@ -1,14 +1,5 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/signature.html"
-breadcrumbs:
-      - title: À propos de Canada.ca
-        link: https://www.canada.ca/fr/gouvernement/a-propos.html
-      - title: Système de conception de Canada.ca
-        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-      - title: Bibliothèque de modèles et de configurations de conception
-        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html	
-      - title: En-tête global
-        link: https://conception.canada.ca/configurations-conception-communes/en-tete-general.html
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Directives sur l’utilisation du champ de recherche du site dans Canada.ca. Ce champ de recherche du site permet aux gens de lancer une recherche sur le contenu produit par le gouvernement du Canada. On le trouve dans l’en-tête général de toutes les pages du site Canada.ca."
