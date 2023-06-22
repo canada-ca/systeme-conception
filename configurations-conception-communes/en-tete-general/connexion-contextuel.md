@@ -5,6 +5,13 @@ dateModified: 2022-09-23
 description: "Le bouton Se connecter est un élément facultatif de l'en-tête qui dirige les utilisateurs vers des comptes gouvernementaux nécessitant une authentification."
 title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 ---
+<div class="row">
+  <div class="col-md-12 pull-left">
+    <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
+      <li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: {{ site.dateModified }}</li>
+    </ul>
+  </div>
+</div>
 <p>Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un élément facultatif de l'en-tête qui dirige les utilisateurs vers des comptes gouvernementaux nécessitant une authentification. Il s’agit d’un appel à l’action contextuel et persistant au sein d’un groupe de pages connexes.</p>
 <div class="pattern-demo">
   <figure class="mrgn-bttm-lg">
