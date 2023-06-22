@@ -6,13 +6,13 @@ description: "Orientation sur l’utilisation de la fonction de changement de la
 title: "Lien pour changer de langue"
 ---
 <div class="cnt-wdth-lmtd">
-  <div class="row">
-    <div class="col-md-12 pull-left">
-      <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-        <li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: {{ site.dateModified }}</li>
-      </ul>
-    </div>
+<div class="row">
+  <div class="col-md-12 pull-left">
+    <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
+      <li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: {{ site.dateModified }}</li>
+    </ul>
   </div>
+</div>
   <p><span class="label label-danger">Obligatoire</span></p>
   <p>Tout le contenu du gouvernement du Canada destiné au public est accessible dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’en-tête général du site, donne à la personne accès à la page correspondante dans l’autre langue officielle.</p>
   <div class="pattern-demo mrgn-tp-lg">
