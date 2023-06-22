@@ -46,12 +46,12 @@ title: "En-tête global"
       <div class="tabpanels">
         <details id="001" open="open">
           <summary><strong>Pages régulières</strong></summary>
-          <p class="mrgn-tp-lg"><strong>Les pages régulières</strong> sont celles que les gens peuvent abandonner sans perdre de données, déclencher des erreurs ou mettre fin à leur session.</p>
-          <h3>Exigences pour l’entête globale sur une page régulière</h3>
+          <p class="mrgn-tp-lg">Les <strong>pages régulières</strong> sont celles que les gens peuvent abandonner sans perdre de données, déclencher des erreurs ou mettre fin à leur session.</p>
+          <h3>Exigences pour l’en-tête global sur une page régulière</h3>
           <div class="panel panel-default mrgn-tp-md">
             <table class="table table-striped" id="mandatory-01" aria-live="polite">
               <caption class="wb-inv">
-              Exigences pour l’entête globale sur une page régulière
+              Exigences pour l’en-tête global sur une page régulière
               </caption>
               <thead>
                 <tr>
@@ -77,7 +77,7 @@ title: "En-tête global"
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Facultatif</span></td>
                 </tr>
                 <tr>
-                  <td>Ligne de separation</td>
+                  <td>Ligne de séparation</td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
@@ -106,11 +106,11 @@ title: "En-tête global"
         <details id="002">
           <summary><strong>Pages transactionnelles</strong></summary>
           <p class="mrgn-tp-lg">Les <strong>pages transactionnelles</strong> sont des pages où les gens sont engagés dans un processus transactionnel, et le fait de suivre par erreur d’autres liens entraînerait des erreurs, une perte de données ou une interruption accidentelle de la session.</p>
-          <h3>Exigences pour l’entête globale sur une page transactionnelle</h3>
+          <h3>Exigences pour l’en-tête global sur une page transactionnelle</h3>
           <div class="panel panel-default mrgn-tp-md">
             <table class="table table-striped" id="mandatory-02" aria-live="polite">
               <caption class="wb-inv">
-              Exigences pour l’entête globale 
+              Exigences pour l’en-tête global 
               </caption>
               <thead>
                 <tr>
@@ -136,7 +136,7 @@ title: "En-tête global"
                   <td>Facultatif</td>
                 </tr>
                 <tr>
-                  <td>Ligne de separation</td>
+                  <td>Ligne de séparation</td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
@@ -164,12 +164,12 @@ title: "En-tête global"
         </details>
         <details id="003">
           <summary><strong>Pages de campagne</strong></summary>
-          <p class="mrgn-tp-lg">Les <strong>Pages de campagne</strong> sont des pages d'accueil pour les campagnes de marketing ou de publicité externes. La flexibilité de la présentation permet aux institutions de faire correspondre des éléments de leur campagne externe avec cette page d'accueil.</p>
-          <h3>Exigences pour l’entête globale sur une page de campagne</h3>
+          <p class="mrgn-tp-lg">Les <strong>pages de campagne</strong> sont des pages d'accueil pour les campagnes de marketing ou de publicité externes. La flexibilité de la présentation permet aux institutions de faire correspondre des éléments de leur campagne externe avec cette page d'accueil.</p>
+          <h3>Exigences pour l’en-tête global sur une page de campagne</h3>
           <div class="panel panel-default mrgn-tp-md">
             <table class="table table-striped" id="mandatory-03" aria-live="polite">
               <caption class="wb-inv">
-              Exigences pour l’entête globale 
+              Exigences pour l’en-tête global 
               </caption>
               <thead>
                 <tr>
@@ -195,7 +195,7 @@ title: "En-tête global"
                   <td>Facultatif</td>
                 </tr>
                 <tr>
-                  <td>Ligne de separation</td>
+                  <td>Ligne de séparation</td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Mandatory</span></td>
                 </tr>
                 <tr>
@@ -219,7 +219,7 @@ title: "En-tête global"
   </div>
 </div>
 <div class="cnt-wdth-lmtd">
-  <h2 id="eviter">Ce qu’il faut éviter</h2>
+  <h2 id="eviter">Quoi éviter</h2>
   <p>Ne personnalisez pas les éléments obligatoires de l’en-tête global au-delà de ce qui est recommandé dans les instructions pour chacun d’entre eux. La cohérence dans cet espace est essentielle pour renforcer la notoriété de la marque et la confiance des utilisateurs.</p>
   <p>Par exemple, le symbole du drapeau dans la signature du gouvernement du Canada devrait toujours être du ton de rouge approprié. Le premier lien du fil d’Ariane devrait toujours être intitulé &laquo;&nbsp;Canada.ca&nbsp;&raquo; et pointer vers la page d’accueil de Canada.ca.</p>
   <h2 id="contenu">Contenu et conception</h2>
@@ -276,7 +276,7 @@ title: "En-tête global"
         <img src="../images/01-global-header-transactional-lg-fr.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Texte de remplacement&nbsp;: schéma de l’en-tête global minimum sur un grand écran</summary>
-          <p class="mrgn-tp-lg">Sur les grands écrans, l’en-tête global minimum sur une page régulière comporte 2 lignes&nbsp;:</p>
+          <p class="mrgn-tp-lg">Sur les grands écrans, l’en-tête global minimum sur une page transactionnelle comporte 2 lignes&nbsp;:</p>
           <ol>
             <li>Lien pour changer de langue à l’extrême droite;</li>
             <li>Signature du gouvernement du Canada à gauche avec une ligne de séparation en dessous.</li>
@@ -290,7 +290,7 @@ title: "En-tête global"
         <img src="../images/01-global-header-transactional-sm-fr.png" class="img-responsive" alt="">
         <details class="mrgn-tp-md">
           <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Texte de remplacement&nbsp;: schéma de l’en-tête global minimum sur un petit écran</summary>
-          <p class="mrgn-tp-lg">Sur les petits écrans, l’en-tête global minimum sur une page régulière comporte une seule ligne&nbsp;:</p>
+          <p class="mrgn-tp-lg">Sur les petits écrans, l’en-tête global minimum sur une page transactionnelle comporte une seule ligne&nbsp;:</p>
           <ol>
             <li>Signature du gouvernement du Canada à gauche, lien pour changer de langue à droite, avec une ligne de séparation en dessous.</li>
           </ol>
@@ -387,7 +387,7 @@ title: "En-tête global"
   <p>Nous avons mis à jour l’en-tête global de Canada.ca pour l’harmoniser à une nouvelle stratégie de navigation globale issue du projet de recherche Orientation.</p>
   <ul>
     <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche&nbsp;: Orientation dans Canada.ca</a><br>
-      Résumé explique qui le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception</li>
+      Résumé qui explique le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception</li>
     <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
       Billet de blogue qui explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre</li>
   </ul>
@@ -396,7 +396,7 @@ title: "En-tête global"
   <ul>
     <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html#header-footer">Éléments obligatoires du système de conception</a></li>
   </ul>
-  <h2 id="changes">Derniers changements</h2>
+  <h2 id="changements">Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
       <time datetime="YYYY-MM-DD" class="link-muted">YYYY-MM-DD</time>
