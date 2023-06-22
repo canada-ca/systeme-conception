@@ -8,7 +8,7 @@ title: "Fil d'Ariane"
 <div class="row">
   <div class="col-md-12 pull-left">
     <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-      <li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: 2023:MM:JJ</li>
+      <li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: {{ site.dateModified }}</li>
     </ul>
   </div>
 </div>
