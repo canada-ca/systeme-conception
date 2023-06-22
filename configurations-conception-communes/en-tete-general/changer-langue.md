@@ -63,7 +63,7 @@ title: "Lien pour changer de langue"
   <ul>
     <li>Lorsqu’il est sélectionné, le lien pour changer la langue permet à l’utilisateur d’accéder à la version dans l’autre langue de la page sur laquelle il se trouvait.</li>
   </ul>
-  <h3>Spécifications de conception</h3>
+  <h3>Spécifications du contenu</h3>
   <ul>
     <li>Type&nbsp;: lien</li>
     <li>Position&nbsp;: coin supérieur droit</li>
@@ -72,7 +72,7 @@ title: "Lien pour changer de langue"
     <li>Couleur du texte&nbsp;:
       <ul>
         <li>lien par défaut&nbsp;: #284162</li>
-        <li>lien sélectionné (passé par-dessus ou mis au point)&nbsp;: #0535d2</li>
+        <li>lien sélectionné (passé par-dessus ou mise au point)&nbsp;: #0535d2</li>
         <li>lien visité&nbsp;: #284162</li>
       </ul>
     </li>
@@ -155,7 +155,7 @@ title: "Lien pour changer de langue"
           <summary><strong>Drupal WxT</strong></summary>
           <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
           <ul>
-            <li><a href="https://drupalwxt.github.io/fr/">Documentation de Drupal WxT</a></li>
+            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de Drupal WxT</a></li>
           </ul>
         </details>
       </div>
