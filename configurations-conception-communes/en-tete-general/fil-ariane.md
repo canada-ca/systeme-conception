@@ -1,14 +1,5 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/breadcrumb-trail.html"
-breadcrumbs:
-      - title: À propos de Canada.ca
-        link: https://www.canada.ca/fr/gouvernement/a-propos.html
-      - title: Système de conception de Canada.ca
-        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-      - title: Bibliothèque de modèles et de configurations de conception
-        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html	
-      - title: En-tête global
-        link: https://conception.canada.ca/configurations-conception-communes/en-tete-general.html
 date: 2017-10-05
 dateModified: 2023-05-17
 description: "Orientation sur l’utilisation de fils d’Ariane sur le site Canada.ca. Le fil d’Ariane est une série de liens de navigation qui permet aux utilisateurs de se situer par rapport à la structure du site."
