@@ -26,8 +26,11 @@ defaults:
       path: "" # Ensure it's applied to all pages
     values:
       css:
-        - /css/split-h1.css
+        - https://conception.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+        - https://conception.canada.ca/css/blog.css
+        - https://conception.canada.ca/css/custom.css        
+      pageclass: cnt-wdth-lmtd
       layout: default
   - scope:
       path: "sondage"
@@ -39,7 +42,6 @@ defaults:
         link: https://www.canada.ca/fr/analytique.html
       - title: Sondage sur la réussite des tâches
         link: sondage/index.html
-      pageclass: cnt-wdth-lmtd
   - scope:
       path: "architecture"
     values:
@@ -61,12 +63,6 @@ defaults:
         link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
       - title: Bibliothèque de modèles et de configurations de conception
         link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
-      css:
-        - https://design.canada.ca/css/split-h1.css
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
-        - ../css/blog.css
-        - ../css/custom.css
-      pageclass: cnt-wdth-lmtd
   - scope:
       path: "configurations-conception-communes/pied-page-general/*.md"
     values:
@@ -79,10 +75,4 @@ defaults:
         link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
       - title: Pied de page général
         link: https://conception.canada.ca/configurations-conception-communes/pied-page.html
-      css:
-        - https://design.canada.ca/css/split-h1.css
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css	  
-        - ../css/blog.css
-        - ../css/custom.css
-      pageclass: cnt-wdth-lmtd
       permalink: /configurations-conception-communes/:basename:output_ext
