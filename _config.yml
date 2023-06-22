@@ -19,8 +19,10 @@ defaults:
       path: "" # Ensure it's applied to all pages
     values:
       css:
-        - /css/split-h1.css
+        - https://conception.canada.ca/css/split-h1.css
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+        - https://conception.canada.ca/css/blog.css
+        - https://conception.canada.ca/css/custom.css        
       pageclass: cnt-wdth-lmtd
       layout: default	  
   - scope:
@@ -64,9 +66,6 @@ defaults:
       - title: Bibliothèque de modèles et de configurations de conception
         link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
       - title: En-tête global
-        link: "https://conception.canada.ca/configurations-conception-communes/en-tete-general.html"
-      css:
-        - ../../css/blog.css
-        - ../../css/custom.css
+        link: https://conception.canada.ca/configurations-conception-communes/en-tete-general.html
       layout: default
       permalink: /configurations-conception-communes/:basename:output_ext
