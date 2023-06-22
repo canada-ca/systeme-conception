@@ -50,14 +50,14 @@ title: "Menu thématique"
 <p>Un groupe de pages peut être toutes les pages liées à un programme ou service précis, ou toutes les pages liées à une seule organisation.</p>
 <h3>Situation future</h3>
 <p>Ultimement, nous retirerons le modèle de menu thématique. Les liens vers les pages thématiques demeureront disponibles à travers la bande principale du pied de page général et le fil d'Ariane.</p>
-<h2 id="eviter">Ce qu’il faut éviter</h2>
+<h2 id="eviter">Quoi éviter</h2>
 <p>Ne réutilisez pas le menu thématique pour une autre navigation. Le menu est un outil de navigation global. C’est déroutant pour les utilisateurs s’il se comporte différemment selon l’endroit où ils se trouvent sur le site.</p>
-<p>Ne le supprimez pas des pages de destination standard avant d’avoir rempli les conditions ci-dessus.</p>
+<p>Ne le supprimez pas des pages de destination standards avant d’avoir rempli les conditions ci-dessus.</p>
 <p>Ne changez pas le style ou la palette de couleurs.</p>
 <p>Ne mettez pas de liens ou de texte supplémentaires dans le menu déroulant.</p>
 <h2 id="contenu">Contenu et conception</h2>
 <p>Le menu thématique se compose de trois éléments intégrés : le bouton de menu qui ouvre et qui ferme le menu; la liste des thèmes qui permet à l’utilisateur de choisir parmi les différents thèmes proposés; et le menu déroulant qui présente les sujets et les liens les plus sollicités pour chaque thème.</p>
-<h3>Spécifications sur le contenu</h3>
+<h3>Spécifications du contenu</h3>
 <ol>
   <li>Bouton de menu&nbsp;:
     <ul>
@@ -107,7 +107,7 @@ title: "Menu thématique"
   <li>Appuyer sur l’option &laquo;&nbsp;En demande&nbsp;&raquo; développe la liste des liens les plus demandés pour ce thème.</li>
   <li>Appuyer de nouveau sur n’importe quel élément développé le fermera.</li>
 </ul>
-<h3>Spécifications sur la conception</h3>
+<h3>Spécifications de conception</h3>
 <ol>
   <li>Styles des boutons de menu&nbsp;:
     <ul>
@@ -120,9 +120,9 @@ title: "Menu thématique"
   </li>
   <li class="mrgn-tp-lg">Styles de liste de thèmes&nbsp;:
     <ul>
-      <li>Couleur de fond&nbsp;: (#444)</li>
+      <li>Couleur de fond&nbsp;: #444</li>
       <li>Couleur du texte&nbsp;: Blanc (#FFF)</li>
-      <li>Couleur de fond sélectionnée&nbsp;: (#FFF)</li>
+      <li>Couleur de fond sélectionnée&nbsp;: #FFF</li>
       <li>Couleur du texte lorsqu’il est sélectionné&nbsp;: Gris foncé (#333)</li>
       <li>Taille du texte&nbsp;: 18px</li>
       <li>Police&nbsp;: Noto Sans</li>
@@ -224,7 +224,7 @@ title: "Menu thématique"
 <p>Nous avons mis à jour l’orientation du menu thématique afin de l’harmoniser à une nouvelle stratégie de navigation globale issue du projet de recherche Orientation.</p>
 <ul>
     <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche&nbsp;: Orientation dans Canada.ca</a><br>
-      Résumé explique qui le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception</li>
+      Résumé qui explique le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception</li>
     <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
       Billet de blogue qui explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre</li>
 </ul>
