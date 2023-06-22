@@ -121,7 +121,7 @@ title: "Champ de recherche du site"
           </ul>
         </details>
         <details id="005">
-          <summary><strong>Solution de gabarits à déploiement centralisé (SGDC)</strong></summary>
+          <summary><strong>SGDC</strong></summary>
           <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
           <ul>
             <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_45/cdts/samples/custom-search-fr.html">Recherche personnalisée</a> – options de configuration pour le champ de recherche du site </li>
