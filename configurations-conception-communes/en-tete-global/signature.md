@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/signature.html"
 dateModified: 2023-05-17
-description: "Orientation sur l’utilisation de la signature du gouvernement du Canada sur Canada.ca. La signature est un symbole officiel du gouvernement du Canada. Elle s’affiche toujours dans l’en-tête global sur Canada.ca."
+description: "Orientation sur l’utilisation de la signature du gouvernement du Canada sur Canada.ca. La signature est un symbole officiel du gouvernement du Canada. Elle s’affiche toujours dans l’En-tête général sur Canada.ca."
 title: "Signature du gouvernement du Canada"
 ---
 <div class="row">
@@ -12,7 +12,7 @@ title: "Signature du gouvernement du Canada"
   </div>
 </div>
 <p><span class="label label-danger">Obligatoire sur toutes les pages</span></p>
-<p>La signature du gouvernement du Canada est un élément obligatoire de l’en-tête global. Elle est un symbole officiel du gouvernement du Canada et combine le symbole du drapeau et &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; dans les deux langues officielles.</p>
+<p>La signature du gouvernement du Canada est un élément obligatoire de l’En-tête général. Elle est un symbole officiel du gouvernement du Canada et combine le symbole du drapeau et &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; dans les deux langues officielles.</p>
 <p>La signature du gouvernement du Canada aide les utilisateurs à réaliser que la page sur laquelle ils se trouvent appartient au gouvernement du Canada.</p>
 <div class="pattern-demo mrgn-tp-lg">
   <figure class="mrgn-bttm-sm"><img src="../../images/01-sig-fr.png" class="img-responsive" alt=""></figure>
@@ -87,7 +87,7 @@ title: "Signature du gouvernement du Canada"
 </div>
 
 <h2 id="implementation">Comment procéder à la mise en œuvre</h2>
-<p>Trouver des exemples concrets de mise en œuvre de la signature du gouvernement du Canada, un élément de l’en-tête global.</p>
+<p>Trouver des exemples concrets de mise en œuvre de la signature du gouvernement du Canada, un élément de l’En-tête général.</p>
 
 <h3>Référence pour la mise en oeuvre du thème GCWeb (BOEW)</h3>
 <p>La référence pour l’implémentation explique la façon de configurer chaque élément de l’en-tête.</p>
@@ -136,7 +136,7 @@ title: "Signature du gouvernement du Canada"
 <p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de la transformation numérique à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
 
 <h3>Justification stratégique</h3>
-<p>La signature du gouvernement du Canada est définie par le Programme de coordination de l’image de marque. En tant que partie de l’en-tête global, il s’agit d’un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information.</cite></p>
+<p>La signature du gouvernement du Canada est définie par le Programme de coordination de l’image de marque. En tant que partie de l’En-tête général, il s’agit d’un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information.</cite></p>
 <ul>
   <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/norme-graphique/couleurs-norme-graphique-pfim.html">Norme graphique du Programme de coordination de l’image de marque</a></li>
   <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
