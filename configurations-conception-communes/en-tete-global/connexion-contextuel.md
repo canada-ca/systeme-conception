@@ -164,7 +164,7 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 					<summary><b>Drupal WxT</b></summary>
 					<p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
 					<ul>
-						li><a href="https://drupalwxt.github.io/fr/">Documentation de Drupal WxT</a></li>
+						<li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
 					</ul>
 				</details>
 			</div>
