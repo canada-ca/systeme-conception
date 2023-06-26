@@ -1,4 +1,5 @@
 ---
+altLangPage: "https://design.canada.ca/common-design-patterns/site-footer-main.html"
 date: 2022-11-30
 dateModified: 2023-04-06
 description: "Il s’agit d’un élément du pied de page général (à l’échelle du site) qui est obligatoire dans les pages standard."
