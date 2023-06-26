@@ -216,7 +216,7 @@ title: "Menu thématique"
           </ul>
         </details>
         <details id="005">
-          <summary><strong>Solution de gabarits à déploiement centralisé (SGDC)</strong></summary>
+          <summary><strong>SGDC</strong></summary>
           <p class="mrgn-tp-lg">Pour la solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
           <ul>
             <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation relative à la SGDC</a></li>
