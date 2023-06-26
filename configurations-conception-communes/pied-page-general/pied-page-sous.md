@@ -5,7 +5,7 @@ dateModified: 2023-04-06
 description: "Il s’agit d’un élément obligatoire du pied de page général (à l’échelle du site)."
 title: "Pied de page général&nbsp;: Bande sous pied de page"
 ---
-<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-04-06</p>
+<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;{{ page.dateModified }}</p>
 <p><span class="label label-danger">Obligatoire </span></p>
 <p>La bande sous pied de page est un élément secondaire du pied de page général. Il contient une série de liens et le
   mot-symbole Canada.</p>
