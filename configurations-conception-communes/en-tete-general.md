@@ -375,8 +375,8 @@ title: "En-tête général"
   <p>Consultez les conclusions des recherches et la justification de la politique.</p>
   <h3>Constatations découlant des recherches</h3>
   <p>Deux projets de recherche sont à la base des dernières mises à jour des directives relatives à l’en-tête.</p>
-  <h4>Étude sur la confiance du Canada.ca</h4>
-  <p>Notre étude sur la confiance du Canada.ca et des recherches antérieures montrent qu’un en-tête cohérent est nécessaire pour maintenir une marque de confiance.</p>
+  <h4>Étude sur la confiance en Canada.ca</h4>
+  <p>Notre étude sur la confiance en Canada.ca et des recherches antérieures montrent qu’un en-tête cohérent est nécessaire pour maintenir une marque de confiance.</p>
   <p>À ce titre, les gens font plus confiance, par exemple :</p>
   <ul>
     <li>au drapeau dans la signature du gouvernement du Canada quand il est rouge;</li>
