@@ -240,7 +240,7 @@ title: "Fil d'Ariane"
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time>2023-MM-DD</time>
+    <time>2023-06-26</time>
   </dt>
   <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur l’implémentation, les conclusions des recherches et la justification stratégique</dd>
 </dl>
