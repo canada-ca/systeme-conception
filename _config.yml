@@ -11,8 +11,8 @@ global:
       fr: Bureau de la transformation numérique (BTN)
     links:
       fr:
-        - url: "/contactez-nous/"
-          text: Contactez-nous
+      - url: "/contactez-nous/"
+        text: Contactez-nous
   lang: fr
 plugins:
   - jekyll-remote-theme
@@ -23,11 +23,14 @@ url: "https://conception.canada.ca"
 # Page front matter defaults
 defaults:
   - scope:
-      path: "" # Ensure it's applied to all pages
+      path: "**/*.md" # Ensure it's applied to all markdown files
     values:
       css:
-        - /css/split-h1.css
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+      - /css/split-h1.css
+      - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+      - /css/blog.css
+      - /css/custom.css
+      layout: default
       pageclass: cnt-wdth-lmtd
   - scope:
       path: "sondage"
@@ -39,7 +42,6 @@ defaults:
         link: https://www.canada.ca/fr/analytique.html
       - title: Sondage sur la réussite des tâches
         link: sondage/index.html
-      layout: default
   - scope:
       path: "architecture"
     values:
@@ -50,3 +52,26 @@ defaults:
         link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
       - title: Spécifications de l'architecture de l'information
         link: https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html
+  - scope:
+      path: "configurations-conception-communes/*.md"
+    values:
+      breadcrumbs:
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Système de conception de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+      - title: Bibliothèque de modèles et de configurations de conception
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+  - scope:
+      path: "configurations-conception-communes/en-tete-general/"
+    values:
+      breadcrumbs:
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Système de conception de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+      - title: Bibliothèque de modèles et de configurations de conception
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+      - title: En-tête général
+        link: https://conception.canada.ca/configurations-conception-communes/en-tete-general.html
+      permalink: /configurations-conception-communes/:basename:output_ext
