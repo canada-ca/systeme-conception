@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/global-header.html"
 date: 2017-10-05
-dateModified: 2023-05-17
+dateModified: 2023-06-26
 description: "Orientation sur l’utilisation de l’En-tête général sur les pages Canada.ca. L’En-tête général se trouve dans la partie supérieure de chaque page Web du gouvernement du Canada."
 title: "En-tête général"
 ---
