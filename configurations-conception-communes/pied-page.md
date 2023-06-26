@@ -5,7 +5,7 @@ dateModified: 2023-04-06
 description: "Le pied de page général (à l’échelle du site) qui se trouve au bas de chaque page. Il comprend la bande principale, une bande contextuelle et une bande sous pied de page. Il s’agit d’un modèle obligatoire avec des éléments facultatifs."
 title: "Pied de page général"
 ---
-<p><strong>Dernière mise à jour</strong>&nbsp; 2023-04-06</p>
+<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;{{ page.dateModified }}</p>
 <p><span class="label label-danger">Obligatoire</span></p>
 <p>Le pied de page général (à l’échelle du site) situé au bas de chaque page Web contient jusqu’à 3 bandes&nbsp;:</p>
 <ul>
