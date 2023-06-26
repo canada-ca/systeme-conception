@@ -1,6 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/site-menu.html"
-dateModified: 2023-05-17
+date: 2017-10-05
+dateModified: 2023-06-26
 description: "Orientation sur l’utilisation du menu thématique sur Canada.ca. Le menu thématique donne accès aux principales tâches de tous les sites Web du gouvernement du Canada regroupés sous les principaux thèmes de Canada.ca."
 title: "Menu thématique"
 ---
