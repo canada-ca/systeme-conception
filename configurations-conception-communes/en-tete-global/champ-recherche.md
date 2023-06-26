@@ -126,7 +126,7 @@ title: "Champ de recherche du site"
 				</details>
 				<details id="005">
 					<summary><strong>SGDC</strong></summary>
-					<p class="mrgn-tp-lg">SGDC&nbsp;:</p>
+					  <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
 					<ul>
 						<li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_45/cdts/samples/custom-search-fr.html">Recherche personnalisée</a> – options de configuration pour le champ de recherche du site </li>
 						<li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
