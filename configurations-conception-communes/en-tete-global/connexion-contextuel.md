@@ -1,6 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/contextual-signin.html"
-dateModified: 2023-06-15
+date: 2017-10-05
+dateModified: 2023-06-26
 description: "Le bouton Se connecter est un élément facultatif de l'en-tête qui dirige les utilisateurs vers des comptes gouvernementaux nécessitant une authentification."
 title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 ---
