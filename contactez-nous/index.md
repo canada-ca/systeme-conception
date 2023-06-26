@@ -1,5 +1,5 @@
 ---
-altLangPage: "contact-us.html"
+altLangPage: "https://design.canada.ca/contact-us/"
 breadcrumbs: false
 contextualFooter:
   title: ""
