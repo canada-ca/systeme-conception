@@ -5,7 +5,7 @@ dateModified: 2023-04-06
 description: "Il s’agit d’un élément facultatif du pied de page général (à l’échelle du site)."
 title: "Pied de page général&nbsp;: Bande contextuelle"
 ---
-<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-04-06</p>
+<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;{{ page.dateModified }}</p>
 <p><span class="label label-info">Optionnel</span></p>
 <p>La bande contextuelle de pied de page est un élément facultatif du pied de page général.</p>
 <p>Elle contient des liens propres à un groupe entier de pages, comme les coordonnées pour un programme. Un groupe de pages
