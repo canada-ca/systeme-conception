@@ -399,7 +399,7 @@ title: "En-tête général"
   <h2 id="changements">Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="YYYY-MM-DD" class="link-muted">YYYY-MM-DD</time>
+      <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
     </dt>
     <dd>Mise à jour du modèle pour refléter les changements de la conception en fonction de l’étude sur la confiance et du projet Orientation, ajout d’exemples visuels pour les différents types de pages et ajout de liens vers des projets de recherche qui servent à éclairer les directives relatives à l’en-tête</dd>
     <dt>
