@@ -76,7 +76,6 @@ title: "Fil d'Ariane"
 </ul>
 
 <h3>Spécifications de conception</h3>
-<p>Voici les spécifications de conception du fil d’Ariane :</p>
 <ul>
   <li>Type&nbsp;: lien</li>
   <li>Position&nbsp;: coin supérieur gauche</li>
