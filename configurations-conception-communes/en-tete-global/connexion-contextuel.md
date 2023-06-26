@@ -68,7 +68,7 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 <h4>Interactions</h4>
 <p>Lier le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; directement à la page où vous commencez votre processus de connexion, ou à une page qui vous permet de sélectionner les différents comptes auxquels vous pouvez vous connecter.</p>
 
-<h3>Spécifications de conception</h4>
+<h3>Spécifications de conception</h3>
 <p>Structure du bouton</p>
 <ul>
 	<li>Bordure&nbsp;:
