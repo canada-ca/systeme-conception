@@ -66,7 +66,6 @@ title: "Champ de recherche du site"
 </ul>
 
 <h3>Spécifications de conception</h3>
-<p>Les spécifications de conception pour le champ de recherche du site sont les suivantes&nbsp;:</p>
 <ul>
 	<li>Position&nbsp;: coin supérieur droit de la zone de l’En-tête général, sous le lien qui permet de changer de langue</li>
 	<li>Catégorie de formulaire&nbsp;: form-inline</li>
