@@ -16,11 +16,11 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 <div class="pattern-demo">
 	<figure class="mrgn-bttm-lg">
 		<figcaption><b>Se connecter - grand écran</b></figcaption>
-		<img src="../../images/signin-button-fr.png" class="img-responsive brdr" alt="Se connecter - grand écran">
+		<img src="../../images/01-signin-button-fr.png" class="img-responsive brdr" alt="Se connecter - grand écran">
 	</figure>
 	<figure class="mrgn-bttm-lg">
 		<figcaption><b>Se connecter - petit écran</b></figcaption>
-		<img src="../../images/signin-button-mobile-fr.png" class="img-responsive brdr" alt="Se connecter - petit écran">
+		<img src="../../images/01a-signin-button-mobile-fr.png" class="img-responsive brdr" alt="Se connecter - petit écran">
 	</figure>
 </div>
 
