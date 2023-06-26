@@ -183,7 +183,7 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 	<h2 id="a5">Derniers changements</h2>
 	<dl class="dl-horizontal">
 		<dt>
-			<time>2023-06-12</time>
+			<time>2023-06-26</time>
 		</dt>
 		<dd>Mise à jour de l'orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, et les justifications stratégiques</dd>
 	</dl>
