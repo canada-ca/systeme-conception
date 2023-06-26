@@ -4,7 +4,7 @@ dateModified: 2023-04-06
 description: "Il s’agit d’un élément du pied de page général (à l’échelle du site) qui est obligatoire dans les pages standard."
 title: "Pied de page général&nbsp;: Bande principale"
 ---
-<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;2023-04-06</p>
+<p><strong>Dernière mise à jour</strong>&nbsp;:&nbsp;{{ page.dateModified }}</p>
 <p><span class="label label-danger">Obligatoire dans les pages régulières </span></p>
 <p>La bande principale du pied de page est l’élément principal du pied de page général. Elle contient des liens vers la
   page Toutes les personnes-ressources du gouvernement du Canada, le répertoire des ministères et organismes et la page
