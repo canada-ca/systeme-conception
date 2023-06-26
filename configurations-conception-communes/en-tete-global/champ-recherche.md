@@ -1,13 +1,14 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/signature.html"
-dateModified: 2023-05-17
+date: 2017-10-05
+dateModified: 2023-06-26
 description: "Directives sur l’utilisation du champ de recherche du site dans Canada.ca. Ce champ de recherche du site permet aux gens de lancer une recherche sur le contenu produit par le gouvernement du Canada. On le trouve dans l’En-tête général de toutes les pages du site Canada.ca."
 title: "Champ de recherche du site"
 ---
 <div class="row">
 	<div class="col-md-12 pull-left">
 		<ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-			<li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: 2023-MM-JJ</li>
+			<li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: {{ page.dateModified }}</li>
 		</ul>
 	</div>
 </div>
