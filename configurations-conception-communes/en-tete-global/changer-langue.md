@@ -148,7 +148,7 @@ title: "Lien pour changer de langue"
           </ul>
         </details>
         <details id="005">
-          <summary><strong>Solution de gabarits à déploiement centralisé (SGDC)</strong></summary>
+          <summary><strong>SGDC</strong></summary>
           <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/fr/">Documentation de la SGDC</a></li>
@@ -179,7 +179,7 @@ title: "Lien pour changer de langue"
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+    <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
   </dt>
   <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, et les justifications stratégiques</dd>
 </dl>
