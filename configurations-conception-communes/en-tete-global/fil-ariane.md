@@ -1,6 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/breadcrumb-trail.html"
-dateModified: 2023-05-17
+date: 2017-10-05
+dateModified: 2023-06-26
 description: "Orientation sur l’utilisation de fils d’Ariane sur le site Canada.ca. Le fil d’Ariane est une série de liens de navigation qui permet aux utilisateurs de se situer par rapport à la structure du site."
 title: "Fil d'Ariane"
 ---
@@ -75,7 +76,6 @@ title: "Fil d'Ariane"
 </ul>
 
 <h3>Spécifications de conception</h3>
-<p>Voici les spécifications de conception du fil d’Ariane :</p>
 <ul>
   <li>Type&nbsp;: lien</li>
   <li>Position&nbsp;: coin supérieur gauche</li>
@@ -210,7 +210,7 @@ title: "Fil d'Ariane"
           <summary><strong>Drupal WxT</strong></summary>
           <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
           <ul>
-            <li><a href="https://drupalwxt.github.io/fr/">Documentation de Drupal WxT</a></li>
+            <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
           </ul>
         </details>
       </div>
@@ -239,7 +239,7 @@ title: "Fil d'Ariane"
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time>2023-MM-DD</time>
+    <time>2023-06-26</time>
   </dt>
   <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur l’implémentation, les conclusions des recherches et la justification stratégique</dd>
 </dl>

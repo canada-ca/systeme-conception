@@ -63,7 +63,7 @@ defaults:
       - title: Bibliothèque de modèles et de configurations de conception
         link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
   - scope:
-      path: "configurations-conception-communes/en-tete-general/"
+      path: "configurations-conception-communes/en-tete-global/*.md"
     values:
       breadcrumbs:
       - title: À propos de Canada.ca

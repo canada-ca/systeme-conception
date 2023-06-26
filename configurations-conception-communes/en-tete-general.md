@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/global-header.html"
 date: 2017-10-05
-dateModified: 2023-05-17
+dateModified: 2023-06-26
 description: "Orientation sur l’utilisation de l’En-tête général sur les pages Canada.ca. L’En-tête général se trouve dans la partie supérieure de chaque page Web du gouvernement du Canada."
 title: "En-tête général"
 ---
@@ -363,7 +363,7 @@ title: "En-tête général"
           <summary><strong>Drupal WxT</strong></summary>
           <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
           <ul>
-            <li><a href="https://drupalwxt.github.io/fr/">Documentation de Drupal WxT</a></li>
+            <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
           </ul>
         </details>
       </div>
@@ -375,8 +375,8 @@ title: "En-tête général"
   <p>Consultez les conclusions des recherches et la justification de la politique.</p>
   <h3>Constatations découlant des recherches</h3>
   <p>Deux projets de recherche sont à la base des dernières mises à jour des directives relatives à l’en-tête.</p>
-  <h4>Étude sur la confiance du Canada.ca</h4>
-  <p>Notre étude sur la confiance du Canada.ca et des recherches antérieures montrent qu’un en-tête cohérent est nécessaire pour maintenir une marque de confiance.</p>
+  <h4>Étude sur la confiance en Canada.ca</h4>
+  <p>Notre étude sur la confiance en Canada.ca et des recherches antérieures montrent qu’un en-tête cohérent est nécessaire pour maintenir une marque de confiance.</p>
   <p>À ce titre, les gens font plus confiance, par exemple :</p>
   <ul>
     <li>au drapeau dans la signature du gouvernement du Canada quand il est rouge;</li>
@@ -399,7 +399,7 @@ title: "En-tête général"
   <h2 id="changements">Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="YYYY-MM-DD" class="link-muted">YYYY-MM-DD</time>
+      <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
     </dt>
     <dd>Mise à jour du modèle pour refléter les changements de la conception en fonction de l’étude sur la confiance et du projet Orientation, ajout d’exemples visuels pour les différents types de pages et ajout de liens vers des projets de recherche qui servent à éclairer les directives relatives à l’en-tête</dd>
     <dt>

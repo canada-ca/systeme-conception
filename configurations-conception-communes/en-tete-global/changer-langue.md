@@ -1,6 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/language-toggle.html"
-dateModified: 2023-05-17
+date: 2017-10-05
+dateModified: 2023-06-26
 description: "Orientation sur l’utilisation de la fonction de changement de langue sur le site Canada.ca Le contenu du gouvernement du Canada est offert dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’En-tête général du site, donne à la personne accès à la page correspondante dans l’autre langue officielle."
 title: "Lien pour changer de langue"
 ---
@@ -147,7 +148,7 @@ title: "Lien pour changer de langue"
           </ul>
         </details>
         <details id="005">
-          <summary><strong>Solution de gabarits à déploiement centralisé (SGDC)</strong></summary>
+          <summary><strong>SGDC</strong></summary>
           <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/fr/">Documentation de la SGDC</a></li>
@@ -157,7 +158,7 @@ title: "Lien pour changer de langue"
           <summary><strong>Drupal WxT</strong></summary>
           <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
           <ul>
-            <li><a href="https://drupalwxt.github.io/fr/">Documentation de Drupal WxT</a></li>
+            <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
           </ul>
         </details>
       </div>
@@ -178,7 +179,7 @@ title: "Lien pour changer de langue"
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time datetime="2023-MM-DD" class="link-muted">2023-MM-DD</time>
+    <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
   </dt>
   <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, et les justifications stratégiques</dd>
 </dl>

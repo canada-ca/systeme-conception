@@ -1,6 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/site-menu.html"
-dateModified: 2023-05-17
+date: 2017-10-05
+dateModified: 2023-06-26
 description: "Orientation sur l’utilisation du menu thématique sur Canada.ca. Le menu thématique donne accès aux principales tâches de tous les sites Web du gouvernement du Canada regroupés sous les principaux thèmes de Canada.ca."
 title: "Menu thématique"
 ---
@@ -215,7 +216,7 @@ title: "Menu thématique"
           </ul>
         </details>
         <details id="005">
-          <summary><strong>Solution de gabarits à déploiement centralisé (SGDC)</strong></summary>
+          <summary><strong>SGDC</strong></summary>
           <p class="mrgn-tp-lg">Pour la solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
           <ul>
             <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation relative à la SGDC</a></li>
@@ -225,7 +226,7 @@ title: "Menu thématique"
           <summary><strong>Drupal WxT</strong></summary>
           <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
           <ul>
-            <li><a href="https://drupalwxt.github.io/fr/">Documentation relative à Drupal WxT</a></li>
+            <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
           </ul>
         </details>
       </div>

@@ -1,13 +1,14 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/signature.html"
-dateModified: 2023-05-17
+date: 2017-10-05
+dateModified: 2023-06-26
 description: "Directives sur l’utilisation du champ de recherche du site dans Canada.ca. Ce champ de recherche du site permet aux gens de lancer une recherche sur le contenu produit par le gouvernement du Canada. On le trouve dans l’En-tête général de toutes les pages du site Canada.ca."
 title: "Champ de recherche du site"
 ---
 <div class="row">
 	<div class="col-md-12 pull-left">
 		<ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only">
-			<li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: 2023-MM-JJ</li>
+			<li class="mrgn-rght-lg">Dernière mise à jour&nbsp;: {{ page.dateModified }}</li>
 		</ul>
 	</div>
 </div>
@@ -65,7 +66,6 @@ title: "Champ de recherche du site"
 </ul>
 
 <h3>Spécifications de conception</h3>
-<p>Les spécifications de conception pour le champ de recherche du site sont les suivantes&nbsp;:</p>
 <ul>
 	<li>Position&nbsp;: coin supérieur droit de la zone de l’En-tête général, sous le lien qui permet de changer de langue</li>
 	<li>Catégorie de formulaire&nbsp;: form-inline</li>
@@ -124,8 +124,8 @@ title: "Champ de recherche du site"
 					</ul>
 				</details>
 				<details id="005">
-					<summary><strong>Solution de gabarits à déploiement centralisé (SGDC)</strong></summary>
-					<p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
+					<summary><strong>SGDC</strong></summary>
+					  <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
 					<ul>
 						<li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_45/cdts/samples/custom-search-fr.html">Recherche personnalisée</a> – options de configuration pour le champ de recherche du site </li>
 						<li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
@@ -135,7 +135,7 @@ title: "Champ de recherche du site"
 					<summary><strong>Drupal WxT</strong></summary>
 					<p class="mrgn-tp-lg">Pour Drupal WxT :</p>
 					<ul>
-						<li><a href="https://drupalwxt.github.io/fr/">Documentation de Drupal WxT</a></li>
+						<li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
 					</ul>
 				</details>
 			</div>
@@ -161,7 +161,7 @@ title: "Champ de recherche du site"
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
 	<dt>
-		<time>2023-MM-DD</time>
+		<time>2023-06-26</time>
 	</dt>
 	<dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, du soutien pour la configuration de la recherche, et la justification stratégique</dd>
 </dl>

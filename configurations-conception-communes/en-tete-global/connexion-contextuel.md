@@ -1,6 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/contextual-signin.html"
-dateModified: 2023-06-15
+date: 2017-10-05
+dateModified: 2023-06-26
 description: "Le bouton Se connecter est un élément facultatif de l'en-tête qui dirige les utilisateurs vers des comptes gouvernementaux nécessitant une authentification."
 title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 ---
@@ -16,11 +17,11 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 <div class="pattern-demo">
 	<figure class="mrgn-bttm-lg">
 		<figcaption><b>Se connecter - grand écran</b></figcaption>
-		<img src="../../images/signin-button-fr.png" class="img-responsive brdr" alt="Se connecter - grand écran">
+		<img src="../../images/01-signin-button-fr.png" class="img-responsive brdr" alt="Se connecter - grand écran">
 	</figure>
 	<figure class="mrgn-bttm-lg">
 		<figcaption><b>Se connecter - petit écran</b></figcaption>
-		<img src="../../images/signin-button-mobile-fr.png" class="img-responsive brdr" alt="Se connecter - petit écran">
+		<img src="../../images/01a-signin-button-mobile-fr.png" class="img-responsive brdr" alt="Se connecter - petit écran">
 	</figure>
 </div>
 
@@ -164,7 +165,7 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 					<summary><b>Drupal WxT</b></summary>
 					<p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
 					<ul>
-						li><a href="https://drupalwxt.github.io/fr/">Documentation de Drupal WxT</a></li>
+						<li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
 					</ul>
 				</details>
 			</div>
@@ -182,7 +183,7 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 	<h2 id="a5">Derniers changements</h2>
 	<dl class="dl-horizontal">
 		<dt>
-			<time>2023-06-12</time>
+			<time>2023-06-26</time>
 		</dt>
 		<dd>Mise à jour de l'orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, et les justifications stratégiques</dd>
 	</dl>
