@@ -92,7 +92,7 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 			<li>Autres marges&nbsp;: 0px</li>
 		</ul>
 	</li>
-	<li>Marges intérieurs (<i lang="en">padding</i>)&nbsp;:
+	<li>Marges intérieures (<i lang="en">padding</i>)&nbsp;:
 		<ul>
 			<li>Haut&nbsp;: 10px</li>
 			<li>Bas&nbsp;: 10px</li>
