@@ -287,7 +287,7 @@
     {
       "NAME": "<a href=\"https://blogue.canada.ca/2022/09/23/presentation-bouton-contextuel-se-connecter.html\">Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Ajouter un bouton contextuel «&nbsp;Se connecter&nbsp;» à l’En-tête générale Canada.ca sur les pages où les gens doivent se connecter à un compte",
+      "DESCRIPTION": "Ajouter un bouton contextuel «&nbsp;Se connecter&nbsp;» à l’En-tête général Canada.ca sur les pages où les gens doivent se connecter à un compte",
       "WHENTOUSE": "Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un &eacute;l&eacute;ment facultatif de l'en-t&ecirc;te qui dirige les utilisateurs vers des comptes gouvernementaux n&eacute;cessitant une authentification.",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Interaction, Visuel",
@@ -918,7 +918,7 @@
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/en-tete-general.html\">En-tête général</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "L'En-tête général (à l'échelle du site) qui se trouve au haut de chaque page Web ",
-      "WHENTOUSE": "L'en-t&#234;te global (à l'&#233;chelle du site) qui se trouve au haut de chaque page Web - <strong>Conception obligatoire</strong>",
+      "WHENTOUSE": "L'en-t&#234;te général (à l'&#233;chelle du site) qui se trouve au haut de chaque page Web - <strong>Conception obligatoire</strong>",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Configuration &#224; l'&#233;chelle du site",
       "MANDATORY": "Obligatoire",

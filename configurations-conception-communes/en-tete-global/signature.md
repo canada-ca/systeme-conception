@@ -54,7 +54,6 @@ title: "Signature du gouvernement du Canada"
 <p>Lorsque l’utilisateur sélectionne la signature, cela lui permet d’accéder à la page d’accueil de Canada.ca.</p>
 
 <h3>Spécifications de conception</h3>
-<p>Les spécifications de conception concernant la signature sont les suivantes&nbsp;:</p>
 <ul>
   <li>Type&nbsp;: image</li>
   <li>Position&nbsp;: en haut à gauche</li>
