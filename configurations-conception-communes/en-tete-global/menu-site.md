@@ -193,7 +193,7 @@ title: "Menu thématique"
 </div>
 
 <h2 id="implementation">Comment procéder à la mise en œuvre</h2>
-<p>Trouvez des exemples de travail et du code pour mettre en place le menu thématique.</p>
+<p>Trouver des exemples de travail et du code pour mettre en place le menu thématique.</p>
 
 <h3>Référence pour la mise en œuvre du thème GCweb (BOEW)</h3>
 <p>La référence de mise en œuvre indique comment configurer chaque élément de l’en-tête.</p>
@@ -249,7 +249,7 @@ title: "Menu thématique"
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt>
-    <time>2023-MM-DD</time>
+    <time>2023-06-26</time>
   </dt>
   <dd>Modèle mis à jour pour refléter les changements de conception du projet Orientation.</dd>
 </dl>
