@@ -225,12 +225,12 @@ title: "En-tête général"
   <h2 id="contenu">Contenu et conception</h2>
   <p>Trouver des spécifications du contenu et de conception et des exemples visuels.</p>
   <ul>
-    <li><a href="https://conception.canada.ca/configurations-conception-communes/en-tete-general.html">Signature du gouvernement du Canada</a></li>
-    <li><a href="https://conception.canada.ca/configurations-conception-communes/changer-langue.html">Lien pour changer de langue</a></li>
-    <li><a href="https://conception.canada.ca/configurations-conception-communes/champ-recherche.html">Champ de recherche du site</a></li>
-    <li><a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></li>
-    <li><a href="https://conception.canada.ca/configurations-conception-communes/menu-site.html">Menu thématique</a></li>
-    <li><a href="https://conception.canada.ca/configurations-conception-communes/fil-ariane.html">Fil d’Ariane</a></li>
+    <li><a href="en-tete-general.html">Signature du gouvernement du Canada</a></li>
+    <li><a href="changer-langue.html">Lien pour changer de langue</a></li>
+    <li><a href="champ-recherche.html">Champ de recherche du site</a></li>
+    <li><a href="connexion-contextuel.html">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></li>
+    <li><a href="menu-site.html">Menu thématique</a></li>
+    <li><a href="fil-ariane.html">Fil d’Ariane</a></li>
   </ul>
   <h3>Exemples visuels</h3>
   <details>
