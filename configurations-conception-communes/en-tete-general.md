@@ -14,8 +14,8 @@ title: "En-tête général"
   </div>
 </div>
   <p><span class="label label-danger">Obligatoire</span></p>
-  <p>L’En-tête général se trouve au haut de chaque page Web du gouvernement du Canada.</p>
-  <p>Le fait d’avoir le même En-tête général sur toutes les pages&nbsp;:</p>
+  <p>L’en-tête général se trouve au haut de chaque page Web du gouvernement du Canada.</p>
+  <p>Le fait d’avoir le même en-tête sur toutes les pages&nbsp;:</p>
   <ul>
     <li>renforce la marque Canada.ca;</li>
     <li>favorise la confiance;</li>
@@ -38,7 +38,7 @@ title: "En-tête général"
     </ul>
   </section>
   <h2 id="quand">Quand l’utiliser</h2>
-  <p>Inclure l’En-tête général sur toutes les pages Web du gouvernement du Canada. Déterminez les éléments d’en-tête à utiliser en fonction du type de page que vous créez.</p>
+  <p>Inclure l’en-tête général sur toutes les pages Web du gouvernement du Canada. Déterminez les éléments d’en-tête à utiliser en fonction du type de page que vous créez.</p>
 </div>
 <div class="row">
   <div class="col-md-8">
