@@ -89,6 +89,22 @@
     },
     {
       "scope": {
+        "path": "architecture/specifications-contenu-architecture-information-canada.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+          },
+          {
+            "title": "Système de conception",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
         "path": "configurations-conception-communes/*.md"
       },
       "values": {
