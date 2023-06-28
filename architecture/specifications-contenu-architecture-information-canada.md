@@ -1,10 +1,5 @@
 ---
 altLangPage: "https://design.canada.ca/architecture/canada-content-information-architecture-specification.html"
-breadcrumbs:
-  - title: À propos de Canada.ca
-    link: "https://www.canada.ca/fr/gouvernement/a-propos.html"
-  - title: Système de conception de Canada.ca
-    link: "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
 date: 2017-10-05
 dateModified: 2023-03-28
 description: "Les Spécifications du contenu et de l'architecture de l'information pour Canada.ca s’agit d’un manuel de conception qui fournit des modèles testés par l’utilisateur, des modèles de navigation d’architecture de l’information pour présenter et organiser le contenu pour le site Canada.ca."
