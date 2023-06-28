@@ -1,189 +1,91 @@
-{
-  "analytics": {
-    "providers": [
-      "adobe"
-    ],
-    "adobe": {
-      "tracking_id": "be5dfd287373/0127575cd23a/launch-f7c3e6060667",
-      "service": "TBS-DTO_BTN-SCT"
-    }
-  },
-  "baseurl": "",
-  "global": {
-    "contextualFooter": {
-      "title": {
-        "fr": "Bureau de la transformation numérique (BTN)"
-      },
-      "links": {
-        "fr": [{
-          "url": "/contactez-nous/",
-          "text": "Contactez-nous"
-        }]
-      }
-    },
-    "lang": "fr"
-  },
-  "plugins": [
-    "jekyll-remote-theme"
-  ],
-  "remote_theme": "wet-boew/gcweb-jekyll",
-  "title": "Système de conception de Canada.ca",
-  "url": "https://conception.canada.ca",
-  "altLangUrl": "https://design.canada.ca",
-  "defaults": [{
-      "scope": {
-        "path": "**/*.md"
-      },
-      "values": {
-        "css": [
-          "/css/split-h1.css",
-          "https://use.fontawesome.com/releases/v5.15.4/css/all.css",
-          "/css/blog.css",
-          "/css/custom.css"
-        ],
-        "layout": "default",
-        "pageclass": "cnt-wdth-lmtd"
-      }
-    },
-    {
-      "scope": {
-        "path": "sondage"
-      },
-      "values": {
-        "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
-          },
-          {
-            "title": "Analyses, sondage et commentaires",
-            "link": "https://www.canada.ca/fr/analytique.html"
-          },
-          {
-            "title": "Sondage sur la réussite des tâches",
-            "link": "sondage/index.html"
-          }
-        ]
-      }
-    },
-    {
-      "scope": {
-        "path": "architecture"
-      },
-      "values": {
-        "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
-          },
-          {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
-          },
-          {
-            "title": "Spécifications de l'architecture de l'information",
-            "link": "https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html"
-          }
-        ]
-      }
-    },
-    {
-      "scope": {
-        "path": "configurations-conception-communes/*.md"
-      },
-      "values": {
-        "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
-          },
-          {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
-          },
-          {
-            "title": "Modèles et conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
-          }
-        ]
-      }
-    },
-    {
-      "scope": {
-        "path": "configurations-conception-communes/en-tete-global/*.md"
-      },
-      "values": {
-        "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
-          },
-          {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
-          },
-          {
-            "title": "Modèles et conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
-          },
-          {
-            "title": "En-tête général",
-            "link": "https://conception.canada.ca/configurations-conception-communes/en-tete-general.html"
-          }
-        ],
-        "permalink": "/configurations-conception-communes/:basename:output_ext"
-      }
-    },
-    {
-      "scope": {
-        "path": "a-propos"
-      },
-      "values": {
-        "breadcrumbs": [{
-          "title": "À propos de Canada.ca",
-          "link": "https://conception.canada.ca/a-propos/a-propos.html"
-        }]
-      }
-    },
-    {
-      "scope": {
-        "path": "a-propos/index.md"
-      },
-      "values": {
-        "breadcrumbs": true
-      }
-    },
-    {
-      "scope": {
-        "path": "guide-redaction/*.md"
-      },
-      "values": {
-        "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://conception.canada.ca/a-propos/a-propos.html"
-          },
-          {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/en/government/about/design-system.html"
-          },
-          {
-            "title": "Guide de rédaction du contenu",
-            "link": "https://conception.canada.ca/guide-redaction/"
-          }
-        ]
-      }
-    },
-    {
-      "scope": {
-        "path": "guide-redaction/index.md"
-      },
-      "values": {
-        "breadcrumbs": [{
-            "title": "À propos de Canada.ca",
-            "link": "https://conception.canada.ca/a-propos/a-propos.html"
-          },
-          {
-            "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
-          }
-        ]
-      }
-    }
-  ]
-}
+analytics:
+  providers:
+  - adobe
+  adobe:
+    tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
+    service: TBS-DTO_BTN-SCT
+baseurl: ""
+global:
+  contextualFooter:
+    title:
+      fr: Bureau de la transformation numérique (BTN)
+    links:
+      fr:
+      - url: "/contactez-nous/"
+        text: Contactez-nous
+  lang: fr
+plugins:
+  - jekyll-remote-theme
+remote_theme: wet-boew/gcweb-jekyll
+title: Système de conception de Canada.ca
+url: "https://conception.canada.ca"
+altLangUrl: "https://design.canada.ca"
+
+# Page front matter defaults
+defaults:
+  - scope:
+      path: "**/*.md" # Ensure it's applied to all markdown files
+    values:
+      css:
+      - /css/split-h1.css
+      - https://use.fontawesome.com/releases/v5.15.4/css/all.css
+      - /css/blog.css
+      - /css/custom.css
+      layout: default
+      pageclass: cnt-wdth-lmtd
+  - scope:
+      path: "sondage"
+    values:
+      breadcrumbs:
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Analyses, sondage et commentaires
+        link: https://www.canada.ca/fr/analytique.html
+      - title: Sondage sur la réussite des tâches
+        link: sondage/index.html
+  - scope:
+      path: "architecture"
+    values:
+      breadcrumbs:
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Système de conception de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+      - title: Spécifications de l'architecture de l'information
+        link: https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html
+  - scope:
+      path: "configurations-conception-communes/*.md"
+    values:
+      breadcrumbs:
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Système de conception de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+      - title: Bibliothèque de modèles et de configurations de conception
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+  - scope:
+      path: "configurations-conception-communes/en-tete-global/*.md"
+    values:
+      breadcrumbs:
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Système de conception de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+      - title: Bibliothèque de modèles et de configurations de conception
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+      - title: En-tête général
+        link: https://conception.canada.ca/configurations-conception-communes/en-tete-general.html
+      permalink: /configurations-conception-communes/:basename:output_ext
+  - scope:
+      path: "configurations-conception-communes/pied-page-general/*.md"
+    values:
+      breadcrumbs:
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Système de conception de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+      - title: Bibliothèque de modèles et de configurations de conception
+        link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+      - title: Pied de page général
+        link: https://conception.canada.ca/configurations-conception-communes/pied-page.html
+      permalink: /configurations-conception-communes/:basename:output_ext
