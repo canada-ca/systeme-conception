@@ -225,7 +225,7 @@ title: "En-tête général"
   <h2 id="contenu">Contenu et conception</h2>
   <p>Trouver des spécifications du contenu et de conception et des exemples visuels.</p>
   <ul>
-    <li><a href="en-tete-general.html">Signature du gouvernement du Canada</a></li>
+    <li><a href="signature.html">Signature du gouvernement du Canada</a></li>
     <li><a href="changer-langue.html">Lien pour changer de langue</a></li>
     <li><a href="champ-recherche.html">Champ de recherche du site</a></li>
     <li><a href="connexion-contextuel.html">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></li>
