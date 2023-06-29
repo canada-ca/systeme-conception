@@ -159,7 +159,7 @@ title: "Fil d'Ariane"
     <figcaption><b>En-tête général avec fil d’Ariane – grand écran</b></figcaption>
     <img src="../../images/01-breadcrumbs-main-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
-      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: En-tête général avec fil d’Ariane – grand écran</summary>
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: en-tête général avec fil d’Ariane – grand écran</summary>
       <p class="mrgn-tp-lg">Le fil d’Ariane apparaît sous le bouton de menu sur une ligne horizontale.</p>
     </details>
   </figure>
@@ -169,7 +169,7 @@ title: "Fil d'Ariane"
     <figcaption><b>En-tête général avec fil d’Ariane – petit écran</b></figcaption>
     <img src="../../images/01-breadcrumbs-sm-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
-      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: En-tête général avec fil d’Ariane – petit écran</summary>
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: en-tête général avec fil d’Ariane – petit écran</summary>
       <p class="mrgn-tp-lg">Le fil d’Ariane apparaît sous le bouton de menu.</p>
     </details>
   </figure>
@@ -226,12 +226,12 @@ title: "Fil d'Ariane"
   <li><a href="https://blogue.canada.ca/2020/08/10/canadapointca-source-fiable">Canada.ca est une source fiable</a><br>
     Explique la décision d’utiliser &laquo;&nbsp;Canada.ca&nbsp;&raquo; comme étiquette du premier lien du fil d’Ariane.</li>
   <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche – Orientation dans Canada.ca</a><br>
-    La recherche montre que les personnes que naviguent sur le site utilisent les liens du fil d’Ariane près de deux fois plus souvent que le menu des thèmes et des sujets</li>
+    La recherche montre que les personnes qui naviguent sur le site utilisent les liens du fil d’Ariane près de deux fois plus souvent que le menu des thèmes et des sujets</li>
 </ul>
 
 <h3>Justification stratégique</h3>
 <p>Les spécifications relatives aux espaces dans les liens du fils d’Ariane sont conçues de façon à ce que les cibles tactiles respectent les règles AAA pour l’accessibilité des contenus Web.</p>
-<p>Le fil d’Ariane fait partie de l’En-tête général et est un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information</cite>.</p>
+<p>Le fil d’Ariane fait partie de l’en-tête général et est un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information</cite>.</p>
 <ul>
   <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
 </ul>
