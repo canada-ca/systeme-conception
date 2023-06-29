@@ -135,7 +135,7 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 </div>
 
 <h2 id="a3">Comment procéder à la mise en œuvre</h2>
-<p>Voyez des exemples concrets et accédez au code pour mettre l'en-tête en œuvre.</p>
+<p>Voyez des exemples concrets et accédez au code pour mettre le bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo; en œuvre.</p>
 <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
 <p>La référence à l'implémentation comprend la façon de configurer chaque élément de l'en-tête.</p>
 <ul>

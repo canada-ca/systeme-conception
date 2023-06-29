@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/common-design-patterns/search-box.html"
 date: 2017-10-05
 dateModified: 2023-06-26
-description: "Directives sur l’utilisation du champ de recherche du site dans Canada.ca. Ce champ de recherche du site permet aux gens de lancer une recherche sur le contenu produit par le gouvernement du Canada. On le trouve dans l’En-tête général de toutes les pages du site Canada.ca."
+description: "Directives sur l’utilisation du champ de recherche du site dans Canada.ca. Ce champ de recherche du site permet aux gens de lancer une recherche sur le contenu produit par le gouvernement du Canada. On le trouve dans l’en-tête général de toutes les pages du site Canada.ca."
 title: "Champ de recherche du site"
 ---
 <div class="row">
@@ -13,7 +13,7 @@ title: "Champ de recherche du site"
 	</div>
 </div>
 <p><span class="label label-danger">Obligatoire sur les pages standards et de campagne</span></p>
-<p>Le champ de recherche du site est un élément de l’En-tête général. Il permet aux gens de lancer une recherche dans le contenu du gouvernement du Canada au moyen d’un champ de recherche simple.</p>
+<p>Le champ de recherche du site est un élément de l’en-tête général. Il permet aux gens de lancer une recherche dans le contenu du gouvernement du Canada au moyen d’un champ de recherche simple.</p>
 <p>Les résultats de la recherche dans le site sont présentés pour l’ensemble du contenu Web du gouvernement du Canada ou pour un sous-ensemble de contenu au niveau du ministère ou de l’organisme.</p>
 <div class="pattern-demo mrgn-tp-lg">
 	<figure class="mrgn-bttm-sm">
@@ -67,7 +67,7 @@ title: "Champ de recherche du site"
 
 <h3>Spécifications de conception</h3>
 <ul>
-	<li>Position&nbsp;: coin supérieur droit de la zone de l’En-tête général, sous le lien qui permet de changer de langue</li>
+	<li>Position&nbsp;: coin supérieur droit de la zone de l’en-tête général, sous le lien qui permet de changer de langue</li>
 	<li>Catégorie de formulaire&nbsp;: form-inline</li>
 	<li>Icône de bouton&nbsp;: glyphicon-search glyphicon</li>
 	<li>Catégorie de bouton&nbsp;: btn btn-primary btn-small</li>
@@ -153,7 +153,7 @@ title: "Champ de recherche du site"
 <p>Le fait de placer le champ de recherche dans le coin supérieur droit d’une page Web est une convention Web établie.</p>
 
 <h3>Justification stratégique</h3>
-<p>Dans l’En-tête général, le champ de recherche du site est un élément obligatoire des <cite>Spécifications du contenu et de l’architecture de l’information</cite>.</p>
+<p>Dans l’en-tête général, le champ de recherche du site est un élément obligatoire des <cite>Spécifications du contenu et de l’architecture de l’information</cite>.</p>
 <ul>
 	<li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
 </ul>

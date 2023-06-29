@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/common-design-patterns/language-toggle.html"
 date: 2017-10-05
 dateModified: 2023-06-26
-description: "Orientation sur l’utilisation de la fonction de changement de langue sur le site Canada.ca Le contenu du gouvernement du Canada est offert dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’En-tête général du site, donne à la personne accès à la page correspondante dans l’autre langue officielle."
+description: "Orientation sur l’utilisation de la fonction de changement de langue sur le site Canada.ca Le contenu du gouvernement du Canada est offert dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’en-tête général du site, donne à la personne accès à la page correspondante dans l’autre langue officielle."
 title: "Lien pour changer de langue"
 ---
 <div class="row">
@@ -13,7 +13,7 @@ title: "Lien pour changer de langue"
   </div>
 </div>
 <p><span class="label label-danger">Obligatoire</span></p>
-<p>Tout le contenu du gouvernement du Canada destiné au public est accessible dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’En-tête général du site, donne à la personne accès à la page correspondante dans l’autre langue officielle.</p>
+<p>Tout le contenu du gouvernement du Canada destiné au public est accessible dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’en-tête général du site, donne à la personne accès à la page correspondante dans l’autre langue officielle.</p>
 <div class="pattern-demo mrgn-tp-lg">
   <figure class="mrgn-bttm-sm"><img src="../images/01-lang-toggle-fr.png" class="img-responsive" alt=""></figure>
 </div>
@@ -168,7 +168,7 @@ title: "Lien pour changer de langue"
 <h2 id="recherche">Recherche et justification</h2>
 <p>Consulter la justification stratégique.</p>
 <h3>Justification stratégique</h3>
-<p>Le lien pour changer la langue fait partie de l’En-tête général et est un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information</cite>.</p>
+<p>Le lien pour changer la langue fait partie de l’en-tête général et est un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information</cite>.</p>
 <ul>
   <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
 </ul>

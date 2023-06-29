@@ -149,7 +149,8 @@ title: "Menu thématique"
     </ul>
   </li>
 </ol>
-
+<h4>Accessibilité</h4>
+<p>Appliquer un style de majuscules sur l’étiquette du bouton de menu, mais écrire le libellé avec une majuscule à la première lettre seulement (Menu), pour que les lecteurs d’écran ne lisent pas chaque lettre séparément.</p>
 <h3>Exemples visuels</h3>
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
