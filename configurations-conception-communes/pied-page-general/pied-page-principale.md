@@ -12,8 +12,6 @@ title: "Pied de page général&nbsp;: Bande principale"
   thématique À propos du gouvernement. Elle contient également des liens vers toutes les pages thématiques de Canada.ca.</p>
 <p><strong>Mise à jour de conception en 2022</strong>&nbsp;: Nous avons récemment mis à jour ce modèle dans le cadre d’une nouvelle stratégie de navigation issue du projet de
   recherche Orientation dans Canada.ca.</p>
-
-<!--<a href="">Blog post link</a>-->
 <div class="pattern-demo mrgn-tp-lg"> <img src="../../images/footer-main-crop-fr.jpg" class="img-responsive"
 			alt=""> </div>
 <section>
@@ -73,8 +71,24 @@ title: "Pied de page général&nbsp;: Bande principale"
   <ul>
     <li>Couleur de fond&nbsp;: Couleur d’accentuation primaire (#26374a)</li>
     <li>Couleur du texte&nbsp;: blanc (#FFFFFF)</li>
-    <li>Taille du texte&nbsp;: 14 px ou 0,875 em</li>
-    <li>Police&nbsp;: Noto Sans</li>
+    <li>Famille de polices&nbsp;:
+      <ul>
+        <li>titre&nbsp;: Lato</li>
+        <li>liens&nbsp;: Noto Sans</li>
+      </ul>
+    </li>
+    <li>Taille du texte (la taille de base du pied de page est 16px) :
+      <ul>
+        <li>titre&nbsp;: 19px ou 1.2em</li>
+        <li>liens&nbsp;: 14px ou 0.875em</li>
+      </ul>
+    </li>
+    <li>Épaisseur de la police&nbsp;:
+      <ul>
+        <li>titre&nbsp;: 700 ou caractère gras</li>
+        <li>liens&nbsp;: 400 ou régulière</li>
+      </ul>
+    </li>
     <li>Image en silhouette du parlement placé en bas à droite</li>
     <li>Colonnes&nbsp;: 3 colonnes en formats grand et moyen écran, 1 colonne en format petit écran</li>
   </ul>
