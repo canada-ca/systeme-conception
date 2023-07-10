@@ -1,0 +1,68 @@
+---
+altLangPage: https://design.canada.ca/coded-layout/generic-destination-basic.html
+breadcrumbs:
+- link: https://www.canada.ca/fr/gouvernement/a-propos.html
+  title: "\xC0 propos de Canada.ca"
+- link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+  title: "Syst\xE8me de conception de Canada.ca"
+- link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+  title: "Biblioth\xE8que de mod\xE8les et de configurations de conception"
+- link: https://conception.canada.ca/modeles-recommandes/generique.html#discussion
+  title: Mise en page de base
+date: null
+dateModified: '2019-11-28'
+description: null
+title: Page de base
+---
+
+<p>
+ <a class="btn btn-default" href="../modeles-recommandes/generique.html">
+  Retourner à la page du modèle
+ </a>
+</p>
+
+
+<p>
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turp	is egestas maecenas pharetra convallis posuere morbi leo urna.
+</p>
+
+<h2>
+ En-tête de section
+</h2>
+
+<p>
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turp	is egestas maecenas pharetra convallis posuere morbi leo urna.
+</p>
+
+<h3>
+ En-tête de sous-section
+</h3>
+
+<p>
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turp	is egestas maecenas pharetra convallis posuere morbi leo urna.
+</p>
+
+<h3>
+ En-tête de sous-section
+</h3>
+
+<p>
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turp	is egestas maecenas pharetra convallis posuere morbi leo urna.
+</p>
+
+
+
+
+<h2>
+ Modèles utilisés dans cette mise en page
+</h2>
+
+<ul>
+ <li>
+  <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-1">
+   Titre de page (lignes directrices du Guide de rédaction)
+  </a>
+ </li>
+</ul>
+
+

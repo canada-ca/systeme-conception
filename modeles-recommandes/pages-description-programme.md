@@ -1,0 +1,374 @@
+---
+altLangPage: https://design.canada.ca/recommended-templates/program-description-pages.html
+breadcrumbs:
+- link: https://www.canada.ca/fr/gouvernement/a-propos.html
+  title: "\xC0 propos de Canada.ca"
+- link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+  title: "Syst\xE8me de conception de Canada.ca"
+- link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+  title: "Biblioth\xE8que de mod\xE8les et de configurations de conception"
+date: null
+dateModified: '2018-12-19'
+description: null
+title: "\nPages de description de programme - Mod\xE8le de Canada.ca"
+---
+
+
+<div>
+ <p class="gc-byline">
+  <strong>
+   De :
+   <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
+    Secrétariat du Conseil du Trésor du Canada
+   </a>
+  </strong>
+ </p>
+ <p>
+  Une page de description de programme fournit des informations sur une activité administrative interne qui offre un service.
+ </p>
+ <p>
+  Les pages de description de programme :
+ </p>
+ <ul>
+  <li>
+   contribuent à l’uniformité de l’approche utilisée pour présenter les renseignements sur les programmes;
+  </li>
+  <li>
+   facilitent l’exécution des tâches en donnant prioritairement accès aux tâches liées au programme;
+  </li>
+  <li>
+   complètent les objectifs des pages de lancement d’un service en offrant, sur une page distincte, plus de détails sur les programmes de soutien;
+  </li>
+  <li>
+   limitent la quantité de contenu servant à décrire un programme.
+  </li>
+ </ul>
+ <section>
+  <h2>
+   Sur cette page
+  </h2>
+  <ul>
+   <li>
+    <a href="#utilisation">
+     Quand utiliser ce modèle
+    </a>
+   </li>
+   <li>
+    <a href="#specifications">
+     Comment utiliser ce modèle
+    </a>
+   </li>
+   <li>
+    <a href="#navigation">
+     Navigation de l’utilisateur
+    </a>
+   </li>
+  </ul>
+ </section>
+ <section>
+  <h2 id="utilisation">
+   Quand utiliser ce modèle
+  </h2>
+  <ul>
+   <li>
+    Utilisez le modèle de page de description de programme pour donner des renseignements généraux ou un aperçu sur un programme, et fournir des liens vers ses services connexes.
+   </li>
+   <li>
+    N’utilisez pas ce modèle pour lancer un service, utilisez plutôt le
+    <a href="./pages-lancement-service.html">
+     modèle de page de lancement d’un service
+    </a>
+    .
+   </li>
+  </ul>
+ </section>
+ <section>
+  <h2 id="specifications">
+   Comment utiliser ce modèle
+  </h2>
+  <p>
+   Utilisez le modèle de page de description de programme pour fournir des renseignements liés à un programme en vue de l’exécution d’un service transactionnel, ou pour présenter des descriptions de programme figurant dans les Rapports sur les plans et les priorités dans le cadre de l’Architecture des activités de programme.
+  </p>
+  <div class="btn-group mrgn-bttm-sm">
+   <button class="btn btn-default wb-toggle" data-toggle='{"selector": "details", "parent": "#template-elements", "type": "on"}' type="button">
+    Développer tout
+   </button>
+   <button class="btn btn-default wb-toggle" data-toggle='{"selector": "details", "parent": "#template-elements", "type": "off"}' type="button">
+    Réduire tout
+   </button>
+  </div>
+  <div class="row">
+   <div class="col-lg-6 pull-right">
+    <figure class="mrgn-bttm-lg">
+     <figcaption class="text-center">
+      <b>
+       Modèle de page de description du programme
+      </b>
+     </figcaption>
+     <img alt="Modèle de page de description du programme indiquant les parties qui composent sa structure. Lire de haut en bas et de gauche à droite. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="full-width" src="https://www.canada.ca/content//dam/tbs-sct/images/government-communications/canada-content-style-guide/program-description-page-fra-02.jpg"/>
+    </figure>
+   </div>
+   <div class="col-lg-6 pull-left">
+    <section id="template-elements">
+     <section>
+      <h3>
+       1 : Nom du programme
+      </h3>
+      <p>
+       Fournit le nom du programme
+      </p>
+      <ul class="list-unstyled">
+       <li id="element2">
+        <details class="mrgn-bttm-sm">
+         <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+          <strong>
+           Présentation
+          </strong>
+         </summary>
+         <ul>
+          <li>
+           Le nom du programme doit être une balise H1 unique.
+          </li>
+          <li>
+           Il doit être la première composante de la page.
+          </li>
+         </ul>
+        </details>
+       </li>
+      </ul>
+     </section>
+     <section>
+      <h3>
+       2 : Institution responsable
+      </h3>
+      <p>
+       Fournit un lien vers l’institution, l’organisme ou l’entité partenaire ou de collaboration responsable du contenu de la page
+      </p>
+      <ul class="list-unstyled">
+       <li id="element3">
+        <details class="mrgn-bttm-sm">
+         <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+          <strong>
+           Contenu
+          </strong>
+         </summary>
+         <ul>
+          <li>
+           Elle doit fournir un lien menant au profil de l’institution responsable du contenu.
+          </li>
+         </ul>
+        </details>
+       </li>
+       <li id="element4">
+        <details class="mrgn-bttm-sm">
+         <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+          <strong>
+           Présentation
+          </strong>
+         </summary>
+         <ul>
+          <li>
+           Utilisez la configuration
+           <a href="../configurations-conception-communes/institution-responsable.html">
+            Institution responsable
+           </a>
+           .
+          </li>
+         </ul>
+        </details>
+       </li>
+      </ul>
+     </section>
+     <section>
+      <h3>
+       3 : Aperçu du programme
+      </h3>
+      <p>
+       Fournit une description résumée du programme
+      </p>
+      <ul class="list-unstyled">
+       <li id="element5">
+        <details class="mrgn-bttm-sm">
+         <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+          <strong>
+           Contenu
+          </strong>
+         </summary>
+         <ul>
+          <li>
+           Elle ne doit pas comprendre plus de 100 mots.
+          </li>
+          <li>
+           Le contenu est rédigé pour un niveau de scolarité secondaire (pointage de 100 et moins dans
+           <a href="http://www.scolarius.com/">
+            Scolarius
+           </a>
+           ).
+          </li>
+         </ul>
+        </details>
+       </li>
+       <li id="element6">
+        <details class="mrgn-bttm-sm">
+         <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+          <strong>
+           Présentation
+          </strong>
+         </summary>
+         <ul>
+          <li>
+           Cette composante se trouve sous le nom du programme.
+          </li>
+         </ul>
+        </details>
+       </li>
+      </ul>
+     </section>
+     <section>
+      <h3>
+       4 : Information détaillée sur le programme
+      </h3>
+      <p>
+       Fournit de l’information plus détaillée au sujet du programme
+      </p>
+      <ul class="list-unstyled">
+       <li id="element7">
+        <details class="mrgn-bttm-sm">
+         <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+          <strong>
+           Contenu
+          </strong>
+         </summary>
+         <ul>
+          <li>
+           Elle fournit des détails pertinents au sujet du programme.
+          </li>
+          <li>
+           L’information doit être rédigée en 400 mots au maximum.
+          </li>
+          <li>
+           Le contenu est rédigé pour un niveau de scolarité secondaire (pointage de 100 et moins dans
+           <a href="http://www.scolarius.com/">
+            Scolarius
+           </a>
+           ).
+          </li>
+         </ul>
+        </details>
+       </li>
+       <li id="element8">
+        <details class="mrgn-bttm-sm">
+         <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+          <strong>
+           Présentation
+          </strong>
+         </summary>
+         <ul>
+          <li>
+           Cette composante se trouve sous l’aperçu du programme.
+          </li>
+         </ul>
+        </details>
+       </li>
+      </ul>
+     </section>
+     <section>
+      <h3>
+       5 : Services
+      </h3>
+      <p>
+       Fournit des liens menant aux services et renseignements reliés à un programme
+      </p>
+      <ul class="list-unstyled">
+       <li id="element9">
+        <details class="mrgn-bttm-sm">
+         <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+          <strong>
+           Contenu
+          </strong>
+         </summary>
+         <ul>
+          <li>
+           Cette composante est obligatoire, s’il existe des services et renseignements liés au programme.
+          </li>
+          <li>
+           Il ne doit pas y avoir plus de cinq liens.
+          </li>
+         </ul>
+        </details>
+       </li>
+       <li id="element10">
+        <details class="mrgn-bttm-sm">
+         <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+          <strong>
+           Présentation
+          </strong>
+         </summary>
+         <ul>
+          <li>
+           L’étiquette de l’en-tête est « Services ».
+          </li>
+         </ul>
+        </details>
+       </li>
+      </ul>
+     </section>
+    </section>
+   </div>
+  </div>
+ </section>
+ <section>
+  <h2 id="navigation">
+   Navigation de l’utilisateur
+  </h2>
+  <p>
+   Les pages de description des programmes se trouvent sous les profils institutionnels ou organisationnels.
+  </p>
+  <figure class="mrgn-bttm-lg">
+   <figcaption class="text-center">
+    <b>
+     Diagramme de la façon de naviguer
+    </b>
+   </figcaption>
+   <img alt="Diagramme de la façon de naviguer vers les pages de description du programme dans le site Canada.ca. La version textuelle se trouve ci-dessous :" class="img-responsive center-block" src="https://www.canada.ca/content//dam/tbs-sct/images/government-communications/canada-content-style-guide/program-description-pages-ia-fra.png"/>
+   <details>
+    <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+     Version textuelle
+    </summary>
+    <p>
+     On peut accéder aux pages de description du programme à partir des profils institutionnels du site Canada.ca.
+    </p>
+   </details>
+  </figure>
+ </section>
+ <nav class="mrgn-bttm-lg" role="navigation">
+  <h2 class="wb-inv">
+   Navigation du document
+  </h2>
+  <ul class="pager">
+   <li class="previous">
+    <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/modeles-specifications-detailles/pages-comptes-rendu-rendement-services-insitutionnels.html" rel="prev">
+     Précédent
+     <span class="wb-inv">
+      : Page de compte rendu du rendement des services institutionnels sur Canada.ca
+     </span>
+    </a>
+   </li>
+   <li class="toc">
+    <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html">
+     Table des matières
+    </a>
+   </li>
+   <li class="next">
+    <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/modeles-specifications-detailles/pages-profil-ministres.html" rel="next">
+     Suivant
+     <span class="wb-inv">
+      : Pages de profil des ministres de Canada.ca
+     </span>
+    </a>
+   </li>
+  </ul>
+ </nav>
+</div>
+
+
