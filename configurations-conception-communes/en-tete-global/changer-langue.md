@@ -40,7 +40,7 @@ title: "Lien pour changer de langue"
 <h2 id="contenu">Contenu et conception</h2>
 <p>Trouver des spécifications du contenu et de conception et des exemples visuels.</p>
 
-<h3>Spécifications de contenu</h3>
+<h3>Spécifications du contenu</h3>
 <p>Assurez-vous que le lien pour changer la langue renvoie à la page correspondante dans l’autre langue.</p>
 
 <h4>Grands écrans</h4>
@@ -67,7 +67,7 @@ title: "Lien pour changer de langue"
 <ul>
   <li>Lorsqu’il est sélectionné, le lien pour changer la langue permet à l’utilisateur d’accéder à la version dans l’autre langue de la page sur laquelle il se trouvait.</li>
 </ul>
-<h3>Spécifications du conception</h3>
+<h3>Spécifications de conception</h3>
 <ul>
   <li>Type&nbsp;: lien</li>
   <li>Position&nbsp;: coin supérieur droit</li>
