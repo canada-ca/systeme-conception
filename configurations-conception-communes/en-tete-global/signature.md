@@ -44,7 +44,7 @@ title: "Signature du gouvernement du Canada"
 
 <h3>Spécifications du contenu</h3>
 <p>La signature du gouvernement du Canada se trouve dans le coin supérieur gauche de la page.</p>
-<p>La signature est composée du symbole du drapeau en rouge du Programme de coordination de l’image de marque (PCIM), suivi des termes &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; en français et &laquo;&nbsp;Government of Canada&nbsp;&raquo; en anglais, les deux étant écrits en noir.</p>
+<p>La signature est composée du symbole du drapeau en rouge du Programme fédéral de l’image de marque (PFIM), suivi des termes &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; en français et &laquo;&nbsp;Government of Canada&nbsp;&raquo; en anglais, les deux étant écrits en noir.</p>
 <p>La signature doit, en premier lieu, être affichée en anglais sur les pages anglaises et en français sur les pages françaises.</p>
 
 <h4>Accessibilité</h4>
@@ -57,12 +57,12 @@ title: "Signature du gouvernement du Canada"
 <ul>
   <li>Type&nbsp;: image</li>
   <li>Position&nbsp;: en haut à gauche</li>
-  <li>Couleur du symbole du drapeau&nbsp;: rouge du PCIM (#eb4837)</li>
+  <li>Couleur du symbole du drapeau&nbsp;: rouge du PFIM (#eb4837)</li>
   <li>Couleur du texte&nbsp;: noir (#000000)</li>
   <li>Texte de remplacement&nbsp;: Gouvernement du Canada</li>
 </ul>
 <p>La signature est un fichier SVG (graphique vectoriel adaptable), configuré pour s’adapter automatiquement à la taille de l’écran. </p>
-<p>La signature est un fichier image qui doit être formaté conformément aux <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/norme-graphique/couleurs-norme-graphique-pfim.html">spécifications de conception du Programme de coordination de l’image de marque</a>.</p>
+<p>La signature est un fichier image qui doit être formaté conformément à la <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/norme-graphique.html)">Norme graphique  du Programme fédéral de l’image de marque</a>.</p>
 
 <h3>Exemples visuels</h3>
 <div class="pattern-demo mrgn-tp-lg">

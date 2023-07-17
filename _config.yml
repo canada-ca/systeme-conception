@@ -1,9 +1,15 @@
-altLangUrl: https://design.canada.ca
+altLangUrl:
+  en: https://design.canada.ca
+  fr: https://conception.canada.ca
 analytics:
   providers:
-    - adobe:
-        tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
-        service: TBS-DTO_BTN-SCT
+    # adobe:
+    #   tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
+    #   service: TBS-DTO-DESIGN_CONCEPTION-BTN-SCT
+    google:
+      tracking_id: GTM-KMVB8C2
+author:
+  fr: Secrétariat du Conseil du Trésor du Canada
 baseurl: ""
 exclude:
   - .editorconfig
@@ -28,6 +34,7 @@ exclude:
   - screenshot.*
   - SECURITY.md
   - vendor
+institutionopt: tbs
 global:
   contextualFooter:
     title:
@@ -36,17 +43,19 @@ global:
       fr:
         - url: /contactez-nous/
           text: Contactez-nous
-  institutionopt: tbs
   lang: fr
-  themeopt: Policies
 language:
   en: English
   fr: Français
 plugins:
   - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll
+themeopt: Policies
 title: Système de conception de Canada.ca
 url: https://conception.canada.ca
+webmaster_verification:
+  google: Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM
+  yandex: 4dda5b1b6e392d83
 defaults:
   - scope:
       path: "**/*.md"
@@ -54,6 +63,7 @@ defaults:
       css:
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
         - /css/custom.css
+      lang: fr
       layout: default
       noReportProblem: true
       pageclass: cnt-wdth-lmtd
@@ -74,7 +84,7 @@ defaults:
       breadcrumbs:
         - title: À propos de Canada.ca
           link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        - title: Système de conception de Canada.ca
+        - title: Système de conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
         - title: Spécifications de l'architecture de l'information
           link: https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html
@@ -84,9 +94,9 @@ defaults:
       breadcrumbs:
         - title: À propos de Canada.ca
           link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        - title: Système de conception de Canada.ca
+        - title: Système de conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        - title: Bibliothèque de modèles et de configurations de conception
+        - title: Modèles et conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
   - scope:
       path: configurations-conception-communes/en-tete-global/*.md
@@ -94,9 +104,9 @@ defaults:
       breadcrumbs:
         - title: À propos de Canada.ca
           link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        - title: Système de conception de Canada.ca
+        - title: Système de conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        - title: Bibliothèque de modèles et de configurations de conception
+        - title: Modèles et conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
         - title: En-tête général
           link: https://conception.canada.ca/configurations-conception-communes/en-tete-general.html
@@ -107,9 +117,9 @@ defaults:
       breadcrumbs:
         - title: À propos de Canada.ca
           link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        - title: Système de conception de Canada.ca
+        - title: Système de conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        - title: Bibliothèque de modèles et de configurations de conception
+        - title: Modèles et conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
         - title: Pied de page général
           link: https://conception.canada.ca/configurations-conception-communes/pied-page.html

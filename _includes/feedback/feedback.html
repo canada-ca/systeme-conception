@@ -1,11 +1,12 @@
+<!-- Custom code starts here -->
 <div class="row row-no-gutters mrgn-tp-xl">
     <div class="col-sm-7 col-lg-6">
         <section class="gc-pg-hlpfl provisional">
             <div class="well mrgn-bttm-0">
                 <form id="gc-pg-hlpfl-frm" action="#" method="post" autocomplete="off">
-                    <input type="hidden" name="institutionopt" value="{{ site.global.institutionopt }}">
-                    <input type="hidden" name="themeopt" value="{{ site.global.themeopt }}">
-                    <input type="hidden" name="language" value="{{ site.global.lang }}">
+                    <input type="hidden" name="institutionopt" value="{{ site.institutionopt }}">
+                    <input type="hidden" name="themeopt" value="{{ site.themeopt }}">
+                    <input type="hidden" name="language" value="{{ page.lang }}">
                     <input type="hidden" name="pageTitle" value="{{ page.title }}">
                     <input type="hidden" name="submissionPage" value="{{ page.url | absolute_url }}">
                     <input type="hidden" name="sectionopt" value="{{ page.sectionopt | default: 'Design system' }}">
@@ -70,3 +71,4 @@
         <div class="wb-share" data-wb-share="{&quot;pnlId&quot;:&quot;pnlShrPg&quot;, &quot;lnkClass&quot;: &quot;btn btn-default btn-block mrgn-tp-md&quot;}"></div>
     </div>
 </div>
+<!-- Custom code ends here -->
