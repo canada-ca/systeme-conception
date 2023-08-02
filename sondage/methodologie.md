@@ -32,6 +32,10 @@ En tout, 10 % des internautes qui consultent les sites Web du GC sont invités a
 
 Lorsque les internautes arrivent sur une page Web, une fenêtre contextuelle les invite au hasard à remplir le Sondage à la fin de leur visite. Si les internautes cliquent sur «&nbsp;Oui, après ma visite&nbsp;» dans la fenêtre, le Sondage s’ouvre dans une fenêtre ou un onglet distinct. Il est demandé aux internautes d’aller à cet onglet ou à cette fenêtre afin de répondre au Sondage une fois qu’ils auront terminé leur visite sur le site Web.
 
+<figure class="mrgn-tp-lg">
+  <img class="img-responsive border" alt="Survey invitation that reads "Vous êtes l'un des rare visiteurs qui ont été sélectionnés pour partager votre rétroaction. Veuillez prendre moins de 5 minutes à la fin de votre visite pour répondre à 5 questions sur votre expérience en ligne." Ensuite, il y a deux boutons "Oui" et "Non, merci" src="images/pop-up-fr.png" />
+</figure>
+
 ### Questions du sondage
 
 1.  **Avez-vous terminé votre visite?**
