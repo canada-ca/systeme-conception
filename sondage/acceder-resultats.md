@@ -1,7 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/survey/access-results.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Comment accéder aux résultats et aux rapports du sondage
 ---
 

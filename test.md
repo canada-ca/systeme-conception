@@ -3,8 +3,8 @@ altLangPage: https://design.canada.ca/test.html
 breadcrumbs:
   - title: À propos de Canada.ca
     link: https://www.canada.ca/fr/gouvernement/a-propos.html
+date: null
 dateModified: 2023-02-20
-layout: default
 title: Système de conception de Canada.ca
 ---
 Utilisez ce système de conception pour offrir aux personnes qui accèdent aux services numériques du gouvernement du Canada une expérience en ligne plus conviviale, cohérente et fiable.

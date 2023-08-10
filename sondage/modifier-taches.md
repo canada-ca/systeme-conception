@@ -1,7 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/survey/updating-tasks.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Ajout ou modification de tâches dans le Sondage sur la réussite des tâches du GC
 ---
 

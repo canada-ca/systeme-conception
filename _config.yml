@@ -65,9 +65,50 @@ defaults:
         - /css/custom.css
       lang: fr
       layout: default
-      noReportProblem: true
+      # noReportProblem: true
       pageclass: cnt-wdth-lmtd
       script: /js/gc-pg-hlpfl.js
+      share: true
+  - scope:
+      path: "/*.md"
+    values:
+      breadcrumbs:
+      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
+        title: "À propos de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+        title: "Système de conception de Canada.ca"
+  - scope:
+      path: amelioration-continue/*.md
+    values:
+      breadcrumbs:
+      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
+        title: "À propos de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+        title: "Système de conception de Canada.ca"
+      - link: ../amelioration-continue.html
+        title: "Amélioration continue"
+  - scope:
+      path: amelioration-continue/mesure/*.md
+    values:
+      breadcrumbs:
+      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
+        title: "À propos de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+        title: "Système de conception de Canada.ca"
+      - link: ../../amelioration-continue.html
+        title: "Amélioration continue"
+      - link: ../mesure.html
+        title: "Suivi et mesure du succès"
+  - scope:
+      path: communaute/*.md
+    values:
+      breadcrumbs:
+      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
+        title: "À propos de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+        title: "Système de conception de Canada.ca"
+      - link: acceuil.html
+        title: "Communauté"
   - scope:
       path: sondage
     values:
@@ -87,7 +128,7 @@ defaults:
         - title: Système de conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
         - title: Spécifications de l'architecture de l'information
-          link: https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html
+          link: architecture/specifications-contenu-architecture-information-canada.html
   - scope:
       path: configurations-conception-communes/*.md
     values:
@@ -96,8 +137,78 @@ defaults:
           link: https://www.canada.ca/fr/gouvernement/a-propos.html
         - title: Système de conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        - title: Modèles et conception
+        - title: Modèles et configurations
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+  - scope:
+      path: crise/*.md
+    values:
+      breadcrumbs:
+      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
+        title: "À propos de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+        title: "Système de conception"
+      - link: crise/contenu.html
+        title: "Aide-mémoire pour la conception du contenu des communications de crise"
+  - scope:
+      path: directive/*.md
+    values:
+      breadcrumbs:
+      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
+        title: "À propos de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+        title: "Système de conception"
+  - scope:
+      path: mise-en-page/*.md
+    values:
+      breadcrumbs:
+      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
+        title: "À propos de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+        title: "Système de conception"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+        title: "Modèles et configurations"
+      - link: modeles-recommandes/generique.html#discussion
+        title: Mise en page de base
+  - scope:
+      path: modeles-obligatoire/*.md
+    values:
+      breadcrumbs:
+      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
+        title: "À propos de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+        title: "Système de conception"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+        title: "Modèles et configurations"
+  - scope:
+      path: modeles-recommandes/*.md
+    values:
+      breadcrumbs:
+      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
+        title: "À propos de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+        title: "Système de conception de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+        title: "Modèles et configurations"
+  - scope:
+      path: styles/*.md
+    values:
+      breadcrumbs:
+      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
+        title: "À propos de Canada.ca"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+        title: "Système de conception"
+      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+        title: "Modèles et configurations"
+  - scope:
+      path: retroaction/*.md
+    values:
+      breadcrumbs:
+      - title: À propos de Canada.ca
+        link: https://www.canada.ca/fr/gouvernement/a-propos.html
+      - title: Analyses, sondage et commentaires
+        link: https://www.canada.ca/fr/analytique.html
+      - title: Outil de rétroaction
+        link: retroaction/index.html
   - scope:
       path: configurations-conception-communes/en-tete-global/*.md
     values:
@@ -109,7 +220,7 @@ defaults:
         - title: Modèles et conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
         - title: En-tête général
-          link: https://conception.canada.ca/configurations-conception-communes/en-tete-general.html
+          link: configurations-conception-communes/en-tete-general.html
       permalink: /configurations-conception-communes/:basename:output_ext
   - scope:
       path: configurations-conception-communes/pied-page-general/*.md
@@ -119,8 +230,8 @@ defaults:
           link: https://www.canada.ca/fr/gouvernement/a-propos.html
         - title: Système de conception
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        - title: Modèles et conception
+        - title: Modèles et configurations
           link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
         - title: Pied de page général
-          link: https://conception.canada.ca/configurations-conception-communes/pied-page.html
+          link: configurations-conception-communes/pied-page.html
       permalink: /configurations-conception-communes/:basename:output_ext

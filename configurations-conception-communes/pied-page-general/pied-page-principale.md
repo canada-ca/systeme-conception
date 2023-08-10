@@ -201,7 +201,6 @@ title: "Pied de page général&nbsp;: Bande principale"
 <section>
   <h2 id="discussion">Discussion</h2>
   <ul>
-    <li><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuter du modèle dans les questions GitHub</a></li>
     <li><a
 				href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Se joindre à la conversation dans Slack</a></li>
     <li><a href="mailto:dto.btn@tbs-sct.gc.ca">Envoyer un courriel au Bureau de la transformation numérique</a></li>

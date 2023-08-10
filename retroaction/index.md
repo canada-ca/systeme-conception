@@ -5,8 +5,9 @@ breadcrumbs:
     link: https://www.canada.ca/fr/gouvernement/a-propos.html
   - title: Analyses, sondage et commentaires
     link: https://www.canada.ca/fr/analytique.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: Outil de rétroaction sur la page
 ---
 
@@ -14,7 +15,7 @@ L’outil de rétroaction sur la page est un <strong>outil de recherche</strong>
 
 <section>
 
-  <h2>Pour commencer</h2>  
+  <h2>Pour commencer</h2>
   <p>Comprendre l’expérience utilisateur sur les pages de Canada.ca</p>
   <div class="row">
     <section class="wb-eqht gc-drmt">
@@ -39,7 +40,7 @@ L’outil de rétroaction sur la page est un <strong>outil de recherche</strong>
     </section>
   </div>
 
-  <h2>Mise en œuvre de l’outil de rétroaction sur la page</h2>  
+  <h2>Mise en œuvre de l’outil de rétroaction sur la page</h2>
   <p>Code et conseils de mise en œuvre pour l’utilisation de l’outil de rétroaction sur la page.</p>
   <div class="row">
     <section class="wb-eqht gc-drmt">
@@ -50,9 +51,9 @@ L’outil de rétroaction sur la page est un <strong>outil de recherche</strong>
         </section>
       </div>
     </section>
-  </div>  
+  </div>
 
-  <h2>Utiliser et comprendre la rétroaction sur la page</h2>  
+  <h2>Utiliser et comprendre la rétroaction sur la page</h2>
   <p>Accéder à la rétroaction des utilisateurs et l’analyser à partir de votre outil d’évaluation de rétroaction sur la page.</p>
   <div class="row">
     <section class="wb-eqht gc-drmt">
@@ -81,9 +82,9 @@ L’outil de rétroaction sur la page est un <strong>outil de recherche</strong>
         </section>
       </div>
     </section>
-  </div>  
+  </div>
 
-  <h2>Soutien et mises à jour</h2>  
+  <h2>Soutien et mises à jour</h2>
   <p>Où trouver de l’aide pour votre rétroaction sur la page</p>
   <div class="row">
     <section class="wb-eqht gc-drmt">

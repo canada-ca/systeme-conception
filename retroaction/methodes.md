@@ -1,14 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/feedback/analyze-feedback.html
-breadcrumbs:
-  - title: À propos de Canada.ca
-    link: https://www.canada.ca/fr/gouvernement/a-propos.html
-  - title: Analyses, sondage et commentaires
-    link: https://www.canada.ca/fr/analytique.html
-  - title: Outil de rétroaction
-    link: https://conception.canada.ca/retroaction/index.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: Méthodes d’analyse de la rétroaction
 ---
 
@@ -22,7 +16,7 @@ title: Méthodes d’analyse de la rétroaction
     </ul>
   </div>
 </div>
-			    
+
 ## Sur cette page
 
 * [Qui devrait lire et analyser la rétroaction?](#qui-devrait-lire-et-analyser-la-rétroaction)

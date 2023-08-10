@@ -1,14 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/feedback/insights.html
-breadcrumbs:
-  - title: À propos de Canada.ca
-    link: https://www.canada.ca/fr/gouvernement/a-propos.html
-  - title: Analyses, sondage et commentaires
-    link: https://www.canada.ca/fr/analytique.html
-  - title: Outil de rétroaction
-    link: https://conception.canada.ca/retroaction/index.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: Partager les idées tirées de la rétroaction
 ---
 
@@ -22,7 +16,7 @@ title: Partager les idées tirées de la rétroaction
     </ul>
   </div>
 </div>
-			    
+
 ## Sur cette page
 * [Création d’un récit avec des données de rétroaction](#création-dun-récit-avec-des-données-de-rétroaction)
 * [Modèle de résumé de texte uniquement](#modèle-de-résumé-de-texte-uniquement)
@@ -118,9 +112,9 @@ Partagez les petites et grandes victoires avec vos résultats.
 
 * Instantané d’écran
 * Données à l’appui provenant d’autres canaux ou sources de données
-* Superposition d’analyses				
-					   
-	 												
+* Superposition d’analyses
+
+
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
     <li class="next">

@@ -1,7 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/survey/custom-list.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Demander une liste de tâches personnalisée pour le Sondage sur la réussite des tâches du GC
 ---
 

@@ -1,7 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/survey/task-list-cleanup.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Épurer la liste des tâches
 ---
 

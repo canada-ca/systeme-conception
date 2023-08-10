@@ -1,14 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/feedback/benefits.html
-breadcrumbs:
-  - title: À propos de Canada.ca
-    link: https://www.canada.ca/fr/gouvernement/a-propos.html
-  - title: Analyses, sondage et commentaires
-    link: https://www.canada.ca/fr/analytique.html
-  - title: Outil de rétroaction
-    link: https://conception.canada.ca/retroaction/index.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: Comment la rétroaction sur une page peut aider votre travail
 ---
 
@@ -21,7 +15,7 @@ title: Comment la rétroaction sur une page peut aider votre travail
 		</ul>
 	</div>
 </div>
-			    
+
 ## Sur cette page
 
 * [Améliorer le contenu et la navigation](#améliorer-le-contenu-et-la-navigation)
@@ -31,8 +25,8 @@ title: Comment la rétroaction sur une page peut aider votre travail
 
 ## Améliorer le contenu et la navigation
 
-Les types courants de problèmes de contenu et de navigation peuvent être découverts grâce à la rétroaction.					
-					
+Les types courants de problèmes de contenu et de navigation peuvent être découverts grâce à la rétroaction.
+
 <table class="provisional gc-table table table-striped" id="myTable1">
   <caption class="wb-inv">Problèmes communs</caption>
   <thead>

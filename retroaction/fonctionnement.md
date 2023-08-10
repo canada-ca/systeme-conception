@@ -1,14 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/feedback/about-page-feedback.html
-breadcrumbs:
-  - title: À propos de Canada.ca
-    link: https://www.canada.ca/fr/gouvernement/a-propos.html
-  - title: Analyses, sondage et commentaires
-    link: https://www.canada.ca/fr/analytique.html
-  - title: Outil de rétroaction
-    link: https://conception.canada.ca/retroaction/index.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: Comment fonctionne l’outil de rétroaction sur la page
 ---
 
@@ -35,7 +29,7 @@ L’outil de rétroaction sur la page en est encore à la phase pilote. Cela sig
 Le but premier de la collecte d’une rétroaction est de l’utiliser comme outil de recherche pour améliorer le contenu.
 
 > La rétroaction des clients est critique afin de veiller à ce que les services répondent à leurs besoins et en favorisent l’amélioration continue.
-> 
+>
 > Source: [Ligne directrice sur les services et le numérique](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ligne-directrice-services-numerique.html#ToC2_2)
 
 La rétroaction de la première personne, saisie «&nbsp;dans un moment&nbsp;» d’échec, nous donne une idée des problèmes qui touchent une page de contenu, une tâche ou un service.

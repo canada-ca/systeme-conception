@@ -1,7 +1,13 @@
 ---
 altLangPage: https://design.canada.ca/survey/index.html
+breadcrumbs:
+  - title: À propos de Canada.ca
+    link: https://www.canada.ca/fr/gouvernement/a-propos.html
+  - title: Analyses, sondage et commentaires
+    link: https://www.canada.ca/fr/analytique.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Sondage sur la réussite des tâches du gouvernement du Canada
 ---
 

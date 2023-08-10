@@ -99,7 +99,7 @@ title: "Pied de page général&nbsp;: Bande sous pied de page"
 						alt="Schéma de la bande sous pieds de page minimum pour les petits écrans. Version texte ci-dessous :">
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Version texte</summary>
-          <p>Sur les petits écrans, la bande sous pied de page minimum pour les pages transactionnelles et de campagne comprend  seulement les liens vers &laquo;&nbsp;Avis&nbsp;&raquo; et &laquo;&nbsp;Confidentialité&nbsp;&raquo;, disposés en une seule colonne.  Sous ces liens se trouve le mot-symbole Canada
+          <p>Sur les petits écrans, la bande sous pied de page minimum pour les pages transactionnelles et de campagne comprend seulement les liens vers &laquo;&nbsp;Avis&nbsp;&raquo; et &laquo;&nbsp;Confidentialité&nbsp;&raquo;, disposés en une seule colonne.  Sous ces liens se trouve le mot-symbole Canada
             aligné à droite.</p>
         </details>
       </figure>
@@ -200,7 +200,6 @@ title: "Pied de page général&nbsp;: Bande sous pied de page"
 <section>
   <h2 id="discussion">Discussion</h2>
   <ul>
-    <li><a href="https://github.com/canada-ca/design-system-systeme-conception/issues">Discuter du modèle dans les questions GitHub</a></li>
     <li><a
 				href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Se joindre à la conversation dans Slack</a></li>
     <li><a href="mailto:dto.btn@tbs-sct.gc.ca">Envoyer un courriel au Bureau de la transformation numérique</a></li>
