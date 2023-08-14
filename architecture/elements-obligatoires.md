@@ -46,7 +46,7 @@ title: "Éléments obligatoires du système de conception de Canada.ca"
 <p>Obtenez les directives détaillées :</p>
 <ul>
   <li><a href="https://conception.canada.ca/configurations-conception-communes/en-tete-general">En-tête général</a></li>
-  <li><a href="https://conception.canada.ca/configurations-conception-communes/pied-page">Pied de page general</a></li>
+  <li><a href="https://conception.canada.ca/configurations-conception-communes/pied-page">Pied de page général</a></li>
 </ul>
 <h2 id="institution">Page d'accueil institutionnelle</h2>
 <p>Toutes les institutions et les organisations doivent utiliser ce modèle de page pour leur page d'accueil unique.</p>
