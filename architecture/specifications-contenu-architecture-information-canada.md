@@ -19,8 +19,8 @@ title: "Spécifications du contenu et de l’architecture de l'information pour 
   <section class="wb-eqht gc-drmt">
     <div class="col-md-4">
       <section>
-        <h3 class="h5"><a href="utilisation-concept-canadaca.html">Qui doit utiliser ce système de conception</a></h3>
-        <p>Étendue du système de conception de Canada.ca</p>
+        <h3 class="h5"><a href="utilisation-concept-canadaca.html">Qui doit utiliser la conception de Canada.ca</a></h3>
+        <p>Étendue de la conception de Canada.ca</p>
       </section>
     </div>
     <div class="col-md-4">
