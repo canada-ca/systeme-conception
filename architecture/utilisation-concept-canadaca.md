@@ -4,7 +4,7 @@ date: 2017-10-05
 dateModified: 2023-03-28
 description: "Les exigences énumérées dans ce document s’appliquent aux ministères et aux autres parties de l’administration publique établie comme l’établissent les annexes I, I.1 et II de la Loi sur la gestion finances. Par conséquent, les institutions de la portée doivent appliquer les exigences en matière de conception de Canada.ca pour tous les sites Web ou toutes les services numériques."
 layout: default
-title: "Qui doit utiliser le système de conception de Canada.ca"
+title: "Qui doit utiliser la conception de Canada.ca"
 ---
 <p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
@@ -29,7 +29,7 @@ title: "Qui doit utiliser le système de conception de Canada.ca"
 <h2>Utiliser la Boîte à outils de l'expérience Web</h2>
 <p>On encourage toutes les institutions à utiliser les composants de la&nbsp;<a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/boite-outils-experience-web.html">Boîte à outils de l'expérience Web</a>&nbsp;pour leurs produits internes et externes. Ces composants sont gratuits et disponibles de façon ouverte. Ils reflètent les résultats des tests de convivialité.  Ils facilitent la conformité aux exigences en matière d'accessibilité et de conception réactive pour une diversité d'appareils avec un large éventail de tailles d'écran.</p>
 <h3>Adapter la Boîte à outils de l'expérience Web pour les situations qui ne font pas partie de Canada.ca</h3>
-<p>Si vous ne deviez pas utiliser le système de conception de Canada.ca pour votre site Web ou votre service, mais que vous voulez utiliser la Boîte à outils de l'expérience Web, vous devez faire les modifications minimales suivantes.</p>
+<p>Si vous ne deviez pas utiliser la conception de Canada.ca pour votre site Web ou votre service, mais que vous voulez utiliser la Boîte à outils de l'expérience Web, vous devez faire les modifications minimales suivantes.</p>
 <h4>En-tête général</h4>
 <ul>
   <li>Modifier le contenu du menu de navigation général afin qu'il soit clairement différent des étiquettes de menu utilisées sur Canada.ca.</li>

@@ -4,7 +4,7 @@ date: 2017-10-05
 dateModified: 2023-03-28
 description: "Les Spécifications du contenu et de l'architecture de l'information pour Canada.ca s’agit d’un manuel de conception qui fournit des modèles testés par l’utilisateur, des modèles de navigation d’architecture de l’information pour présenter et organiser le contenu pour le site Canada.ca."
 layout: default
-title: "Éléments obligatoires du système de conception de Canada.ca"
+title: "Éléments obligatoires de la conception de Canada.ca"
 ---
 <p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
@@ -46,7 +46,7 @@ title: "Éléments obligatoires du système de conception de Canada.ca"
 <p>Obtenez les directives détaillées :</p>
 <ul>
   <li><a href="https://conception.canada.ca/configurations-conception-communes/en-tete-general">En-tête général</a></li>
-  <li><a href="https://conception.canada.ca/configurations-conception-communes/pied-page">Pied de page general</a></li>
+  <li><a href="https://conception.canada.ca/configurations-conception-communes/pied-page">Pied de page général</a></li>
 </ul>
 <h2 id="institution">Page d'accueil institutionnelle</h2>
 <p>Toutes les institutions et les organisations doivent utiliser ce modèle de page pour leur page d'accueil unique.</p>
