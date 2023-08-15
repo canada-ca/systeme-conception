@@ -1,7 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/survey/benefits.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Comment utiliser les résultats du sondage et les commentaires des visiteurs
 ---
 

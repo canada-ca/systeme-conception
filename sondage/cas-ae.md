@@ -9,8 +9,9 @@ breadcrumbs:
   link: sondage/index.html
 - title: Comment utiliser les résultats
   link: sondage/utiliser.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: "Étude de cas&nbsp;: Amélioration de la conception du contenu"
 ---
 

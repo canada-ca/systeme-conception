@@ -191,6 +191,6 @@ title: "Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;"
 		<dt>
 			<time>2022-08-17</time>
 		</dt>
-		<dd>Lignes directrices plus détaillées  pour le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</dd>
+		<dd>Lignes directrices plus détaillées pour le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</dd>
 	</dl>
 </section>

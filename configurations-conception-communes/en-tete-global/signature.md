@@ -62,7 +62,7 @@ title: "Signature du gouvernement du Canada"
   <li>Texte de remplacement&nbsp;: Gouvernement du Canada</li>
 </ul>
 <p>La signature est un fichier SVG (graphique vectoriel adaptable), configuré pour s’adapter automatiquement à la taille de l’écran. </p>
-<p>La signature est un fichier image qui doit être formaté conformément à la <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/norme-graphique.html)">Norme graphique  du Programme fédéral de l’image de marque</a>.</p>
+<p>La signature est un fichier image qui doit être formaté conformément à la <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/norme-graphique.html)">Norme graphique du Programme fédéral de l’image de marque</a>.</p>
 
 <h3>Exemples visuels</h3>
 <div class="pattern-demo mrgn-tp-lg">

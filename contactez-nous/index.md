@@ -1,18 +1,14 @@
 ---
 altLangPage: "https://design.canada.ca/contact-us/"
 breadcrumbs: false
-contextualFooter:
-  title: ""
+date: null
 dateModified: 2023-04-18
-description: "Contactez le Bureau de la transformation numérique au sujet du système de conception Canada.ca."
-lang: fr
-layout: default
+description: "Contactez le Bureau de la transformation numérique au sujet du système de conception de Canada.ca."
 nomenu: true
 nositesearch: true
 noReportProblem: true
 script: ./gc-referrer.js
 share: false
-showFeedback: false
 title: "Contactez le Bureau de la transformation numérique"
 ---
 Communiquez avec nous pour poser des questions sur la conception du site Canada.ca ou pour nous faire part de vos suggestions à ce sujet.
@@ -68,7 +64,7 @@ Communiquez avec nous pour poser des questions sur la conception du site Canada.
     <div class="form-group">
       <label for="subject1"><span class="field-name">Objet (255 caractères maximum)</span></label>
       <input class="form-control full-width" id="subject1" name="subject1" type="text" data-rule-minlength="2">
-    </div>         
+    </div>
     <div class="form-group">
       <label for="message" class="required gc-font-2019"><span class="field-name">Message</span> <strong class="required" aria-hidden="true">(obligatoire)</strong></label>
       <div>

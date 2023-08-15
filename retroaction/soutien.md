@@ -1,21 +1,15 @@
 ---
 altLangPage: https://design.canada.ca/feedback/support.html
-breadcrumbs:
-  - title: À propos de Canada.ca
-    link: https://www.canada.ca/fr/gouvernement/a-propos.html
-  - title: Analyses, sondage et commentaires
-    link: https://www.canada.ca/fr/analytique.html
-  - title: Outil de rétroaction
-    link: https://conception.canada.ca/retroaction/index.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: Contacts pour l’outil de rétroaction sur la page
 ---
 
 ## Sur cette page
 * [Contact et soutien](#contact-et-soutien)
 * [Groupe de travail](#groupe-de-travail)
-  
+
 ## Contact et soutien
 
 Communiquez avec le bureau de la transformation numérique pour les questions relatives à ce qui suit&nbsp;:

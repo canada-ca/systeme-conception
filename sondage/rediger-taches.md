@@ -1,7 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/survey/writing-tasks.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Choisir et rédiger des tâches pour le Sondage sur la réussite des tâches du GC
 ---
 

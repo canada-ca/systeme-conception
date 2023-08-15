@@ -1,7 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/survey/methods.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Méthodologie du Sondage sur la réussite des tâches du GC
 ---
 

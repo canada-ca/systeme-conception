@@ -1,7 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/survey/analyze-feedback.html
+date: null
 dateModified: 2023-04-05
-description: ""
+description: null
 title: Comment analyser les commentaires
 ---
 

@@ -8,9 +8,10 @@ breadcrumbs:
   - title: Outil de rétroaction
     link: https://conception.canada.ca/retroaction/index.html
   - title: Comment la rétroaction peut aider
-    link: https://conception.canada.ca/retroaction/ameliorer.html		
+    link: https://conception.canada.ca/retroaction/ameliorer.html
+date: null
 dateModified: 2023-02-28
-layout: default
+description: null
 title: Étude de cas - déterminer un manque de contenu au moyen de l’outil de rétroaction sur la page
 ---
 

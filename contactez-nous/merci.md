@@ -1,9 +1,8 @@
 ---
-altLangPage: "contact-us.html"
+altLangPage: "https://design.canada.ca/contact-us/thank-you.html"
 breadcrumbs: false
-contextualFooter:
-  title: ""
-dateModified: 2023-04-17
+date: 2023-04-17
+dateModified: 2023-08-14
 description: "Contactez le Bureau de la transformation numérique au sujet du système de conception Canada.ca."
 lang: fr
 layout: default
