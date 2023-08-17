@@ -72,9 +72,9 @@ title: "En-tête général"
                   <td><a href="champ-recherche.html">Champ de recherche du site</a></td>
                   <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                 </tr>
-                <tr>
+                 <tr>
                   <td><a href="connexion-contextuel.html">Bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;</a></td>
-                  <td><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Facultatif</span></td>
+                  <td>Facultatif</td>
                 </tr>
                 <tr>
                   <td>Ligne de séparation</td>
