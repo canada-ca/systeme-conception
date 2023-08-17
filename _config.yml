@@ -1,237 +1,418 @@
-altLangUrl:
-  en: https://design.canada.ca
-  fr: https://conception.canada.ca
-analytics:
-  providers:
-    # adobe:
-    #   tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
-    #   service: TBS-DTO-DESIGN_CONCEPTION-BTN-SCT
-    google:
-      tracking_id: GTM-KMVB8C2
-author:
-  fr: Secrétariat du Conseil du Trésor du Canada
-baseurl: ""
-exclude:
-  - .editorconfig
-  - .jekyll-cache
-  - .gitignore
-  - .github
-  - "*.gpg"
-  - "*.py"
-  - "*.tmp"
-  - CNAME
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - gcweb-jekyll.gemspec
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE*
-  - log_*
-  - netlify.toml
-  - node_modules
-  - package*.json
-  - README.md
-  - screenshot.*
-  - SECURITY.md
-  - vendor
-institutionopt: tbs
-global:
-  contextualFooter:
-    title:
-      fr: Bureau de la transformation numérique (BTN)
-    links:
-      fr:
-        - url: /contactez-nous/
-          text: Contactez-nous
-  lang: fr
-language:
-  en: English
-  fr: Français
-plugins:
-  - jekyll-remote-theme
-remote_theme: wet-boew/gcweb-jekyll
-themeopt: Policies
-title: Système de conception de Canada.ca
-url: https://conception.canada.ca
-webmaster_verification:
-  google: Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM
-  yandex: 4dda5b1b6e392d83
-defaults:
-  - scope:
-      path: "**/*.md"
-    values:
-      css:
-        - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-        - /css/custom.css
-      lang: fr
-      layout: default
-      # noReportProblem: true
-      pageclass: cnt-wdth-lmtd
-      script: /js/gc-pg-hlpfl.js
-      share: true
-  - scope:
-      path: "/*.md"
-    values:
-      breadcrumbs:
-      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        title: "À propos de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        title: "Système de conception de Canada.ca"
-  - scope:
-      path: amelioration-continue/*.md
-    values:
-      breadcrumbs:
-      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        title: "À propos de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        title: "Système de conception de Canada.ca"
-      - link: ../amelioration-continue.html
-        title: "Amélioration continue"
-  - scope:
-      path: amelioration-continue/mesure/*.md
-    values:
-      breadcrumbs:
-      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        title: "À propos de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        title: "Système de conception de Canada.ca"
-      - link: ../../amelioration-continue.html
-        title: "Amélioration continue"
-      - link: ../mesure.html
-        title: "Suivi et mesure du succès"
-  - scope:
-      path: communaute/*.md
-    values:
-      breadcrumbs:
-      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        title: "À propos de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        title: "Système de conception de Canada.ca"
-      - link: acceuil.html
-        title: "Communauté"
-  - scope:
-      path: sondage
-    values:
-      breadcrumbs:
-        - title: À propos de Canada.ca
-          link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        - title: Analyses, sondage et commentaires
-          link: https://www.canada.ca/fr/analytique.html
-        - title: Sondage sur la réussite des tâches
-          link: sondage/index.html
-  - scope:
-      path: architecture
-    values:
-      breadcrumbs:
-        - title: À propos de Canada.ca
-          link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        - title: Système de conception
-          link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        - title: Spécifications de l'architecture de l'information
-          link: architecture/specifications-contenu-architecture-information-canada.html
-  - scope:
-      path: configurations-conception-communes/*.md
-    values:
-      breadcrumbs:
-        - title: À propos de Canada.ca
-          link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        - title: Système de conception
-          link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        - title: Modèles et configurations
-          link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
-  - scope:
-      path: crise/*.md
-    values:
-      breadcrumbs:
-      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        title: "À propos de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        title: "Système de conception"
-      - link: crise/contenu.html
-        title: "Aide-mémoire pour la conception du contenu des communications de crise"
-  - scope:
-      path: directive/*.md
-    values:
-      breadcrumbs:
-      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        title: "À propos de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        title: "Système de conception"
-  - scope:
-      path: mise-en-page/*.md
-    values:
-      breadcrumbs:
-      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        title: "À propos de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        title: "Système de conception"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
-        title: "Modèles et configurations"
-      - link: modeles-recommandes/generique.html#discussion
-        title: Mise en page de base
-  - scope:
-      path: modeles-obligatoire/*.md
-    values:
-      breadcrumbs:
-      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        title: "À propos de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        title: "Système de conception"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
-        title: "Modèles et configurations"
-  - scope:
-      path: modeles-recommandes/*.md
-    values:
-      breadcrumbs:
-      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        title: "À propos de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        title: "Système de conception de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
-        title: "Modèles et configurations"
-  - scope:
-      path: styles/*.md
-    values:
-      breadcrumbs:
-      - link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        title: "À propos de Canada.ca"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        title: "Système de conception"
-      - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
-        title: "Modèles et configurations"
-  - scope:
-      path: retroaction/*.md
-    values:
-      breadcrumbs:
-      - title: À propos de Canada.ca
-        link: https://www.canada.ca/fr/gouvernement/a-propos.html
-      - title: Analyses, sondage et commentaires
-        link: https://www.canada.ca/fr/analytique.html
-      - title: Outil de rétroaction
-        link: retroaction/index.html
-  - scope:
-      path: configurations-conception-communes/en-tete-global/*.md
-    values:
-      breadcrumbs:
-        - title: À propos de Canada.ca
-          link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        - title: Système de conception
-          link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        - title: Modèles et conception
-          link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
-        - title: En-tête général
-          link: configurations-conception-communes/en-tete-general.html
-      permalink: /configurations-conception-communes/:basename:output_ext
-  - scope:
-      path: configurations-conception-communes/pied-page-general/*.md
-    values:
-      breadcrumbs:
-        - title: À propos de Canada.ca
-          link: https://www.canada.ca/fr/gouvernement/a-propos.html
-        - title: Système de conception
-          link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-        - title: Modèles et configurations
-          link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
-        - title: Pied de page général
-          link: configurations-conception-communes/pied-page.html
-      permalink: /configurations-conception-communes/:basename:output_ext
+{
+  "altLangUrl": {
+    "en": "https://design.canada.ca",
+    "fr": "https://conception.canada.ca"
+  },
+  "analytics": {
+    "providers": {
+      "google": {
+        "tracking_id": "GTM-KMVB8C2"
+      }
+    }
+  },
+  "author": {
+    "fr": "Secrétariat du Conseil du Trésor du Canada"
+  },
+  "baseurl": "",
+  "exclude": [
+    ".editorconfig",
+    ".jekyll-cache",
+    ".gitignore",
+    ".github",
+    "*.gpg",
+    "*.py",
+    "*.tmp",
+    "CNAME",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "gcweb-jekyll.gemspec",
+    "Gemfile",
+    "Gemfile.lock",
+    "LICENSE*",
+    "log_*",
+    "netlify.toml",
+    "node_modules",
+    "package*.json",
+    "README.md",
+    "screenshot.*",
+    "SECURITY.md",
+    "vendor"
+  ],
+  "institutionopt": "tbs",
+  "global": {
+    "contextualFooter": {
+      "title": {
+        "fr": "Bureau de la transformation numérique (BTN)"
+      },
+      "links": {
+        "fr": [{
+          "url": "/contactez-nous/",
+          "text": "Contactez-nous"
+        }]
+      }
+    },
+    "lang": "fr"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français"
+  },
+  "plugins": [
+    "jekyll-remote-theme"
+  ],
+  "remote_theme": "wet-boew/gcweb-jekyll",
+  "themeopt": "Policies",
+  "title": "Système de conception de Canada.ca",
+  "url": "https://conception.canada.ca",
+  "webmaster_verification": {
+    "google": "Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM",
+    "yandex": "4dda5b1b6e392d83"
+  },
+  "defaults": [{
+      "scope": {
+        "path": "**/*.md"
+      },
+      "values": {
+        "css": [
+          "https://use.fontawesome.com/releases/v5.15.4/css/all.css",
+          "/css/custom.css"
+        ],
+        "lang": "fr",
+        "layout": "default",
+        "pageclass": "cnt-wdth-lmtd",
+        "script": "/js/gc-pg-hlpfl.js",
+        "share": true
+      }
+    },
+    {
+      "scope": {
+        "path": "/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
+            "title": "Système de conception de Canada.ca"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "amelioration-continue/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
+            "title": "Système de conception de Canada.ca"
+          },
+          {
+            "link": "../amelioration-continue.html",
+            "title": "Amélioration continue"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "amelioration-continue/mesure/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
+            "title": "Système de conception de Canada.ca"
+          },
+          {
+            "link": "../../amelioration-continue.html",
+            "title": "Amélioration continue"
+          },
+          {
+            "link": "../mesure.html",
+            "title": "Suivi et mesure du succès"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "communaute/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
+            "title": "Système de conception de Canada.ca"
+          },
+          {
+            "link": "acceuil.html",
+            "title": "Communauté"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "sondage"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+          },
+          {
+            "title": "Analyses, sondage et commentaires",
+            "link": "https://www.canada.ca/fr/analytique.html"
+          },
+          {
+            "title": "Sondage sur la réussite des tâches",
+            "link": "sondage/index.html"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "architecture"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+          },
+          {
+            "title": "Système de conception",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+          },
+          {
+            "title": "Spécifications de l'architecture de l'information",
+            "link": "architecture/specifications-contenu-architecture-information-canada.html"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "configurations-conception-communes/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+          },
+          {
+            "title": "Système de conception",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+          },
+          {
+            "title": "Modèles et configurations",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "crise/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
+            "title": "Système de conception"
+          },
+          {
+            "link": "crise/contenu.html",
+            "title": "Aide-mémoire pour la conception du contenu des communications de crise"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "directive/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
+            "title": "Système de conception"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "mise-en-page/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
+            "title": "Système de conception"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html",
+            "title": "Modèles et configurations"
+          },
+          {
+            "link": "modeles-recommandes/generique.html#discussion",
+            "title": "Mise en page de base"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "modeles-obligatoire/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
+            "title": "Système de conception"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html",
+            "title": "Modèles et configurations"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "modeles-recommandes/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
+            "title": "Système de conception de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html",
+            "title": "Modèles et configurations"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "styles/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
+            "title": "Système de conception"
+          },
+          {
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html",
+            "title": "Modèles et configurations"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "retroaction/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+          },
+          {
+            "title": "Analyses, sondage et commentaires",
+            "link": "https://www.canada.ca/fr/analytique.html"
+          },
+          {
+            "title": "Outil de rétroaction",
+            "link": "retroaction/index.html"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "configurations-conception-communes/en-tete-global/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+          },
+          {
+            "title": "Système de conception",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+          },
+          {
+            "title": "Modèles et conception",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+          },
+          {
+            "title": "En-tête général",
+            "link": "configurations-conception-communes/en-tete-general.html"
+          }
+        ],
+        "permalink": "/configurations-conception-communes/:basename:output_ext"
+      }
+    },
+    {
+      "scope": {
+        "path": "configurations-conception-communes/pied-page-general/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+          },
+          {
+            "title": "Système de conception",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+          },
+          {
+            "title": "Modèles et configurations",
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+          },
+          {
+            "title": "Pied de page général",
+            "link": "configurations-conception-communes/pied-page.html"
+          }
+        ],
+        "permalink": "/configurations-conception-communes/:basename:output_ext"
+      }
+    }
+  ]
+}
