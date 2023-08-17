@@ -141,7 +141,7 @@ title: "Nouveautés - Configuration de conception de Canada.ca"
        </li>
       </ul>
       <p>
-       En savoir plus:
+       En savoir plus :
        <a class="admin" href="#">
         Nouvelles de [Institution]
        </a>
@@ -197,10 +197,10 @@ title: "Nouveautés - Configuration de conception de Canada.ca"
 	&lt;/ul&gt;
 	&lt;!-- json feed for news example
 	&lt;ul class="feeds-cont list-unstyled lst-spcd"&gt;
-	 &lt;li&gt; &lt;a data-ajax="https://www.canada.ca/content/canadasite/api/nws/fds/en/web-feeds/revenue-agency.json" href="https://www.canada.ca/en/revenue-agency.atom.xml" rel="external"&gt;Canada Revenue Agency news items&lt;/a&gt; &lt;/li&gt;
+	 &lt;li&gt; &lt;a data-ajax="https://www.canada.ca/content/canadasite/api/nws/fds/en/web-feeds/revenue-agency.json" href="https://www.canada.ca/en/revenue-agency.atom.xml" rel="external"&gt;Salle de presse de l’ARC&lt;/a&gt; &lt;/li&gt;
 	 &lt;/ul&gt;
 	--&gt;
-	&lt;p&gt;En savoir plus: &lt;a href="#" class="admin"&gt;Nouvelles de [Institution]&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;En savoir plus : &lt;a href="#" class="admin"&gt;Nouvelles de [Institution]&lt;/a&gt;&lt;/p&gt;
 	&lt;/section&gt;
 	&lt;section class="col-md-8 gc-prtts"&gt;
 	 &lt;h2 class="h3"&gt;En vedette&lt;/h2&gt;
