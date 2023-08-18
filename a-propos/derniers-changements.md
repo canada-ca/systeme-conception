@@ -4,7 +4,7 @@ date: 2020-10-30
 dateModified: 2023-08-15
 description: ""
 layout: default
-title: "derniers-changements.html"
+title: "Derniers changements apportés au système de conception de Canada.ca"
 ---
 <div class="btn-group mrgn-bttm-sm">
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;on&quot;}">Développer tout</button>
