@@ -19,7 +19,7 @@ title: "À propos de Canada.ca"
       <ul>
         <li><a href="{{ site.url }}/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></li>
         <li><a href="{{ site.url }}/a-propos/taches-principales-pour-canada-ca.html">Tâches principales pour Canada.ca</a></li>
-        <li><a href="{{ site.url }}/architecture/canada-content-information-architecture-specification.html">Spécifications du contenu et de l’architecture de l’information</a></li>
+        <li><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l’architecture de l’information</a></li>
         <li><a href="{{ site.url }}/guide-redaction/">Guide de rédaction du contenu</a></li>
       </ul>
     </section>
