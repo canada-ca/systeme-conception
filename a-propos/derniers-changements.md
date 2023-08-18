@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://conception.canada.ca/a-propos/derniers-changements.html"
+altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
 dateModified: 2023-08-15
 description: ""
