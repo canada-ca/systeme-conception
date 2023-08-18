@@ -38,6 +38,9 @@
     "SECURITY.md",
     "vendor"
   ],
+  "include": [
+    "_redirects"
+  ],
   "institutionopt": "tbs",
   "global": {
     "contextualFooter": {
@@ -64,6 +67,9 @@
   "themeopt": "Policies",
   "title": "Système de conception de Canada.ca",
   "url": "https://conception.canada.ca",
+  "urldesign": "https://design.canada.ca",
+  "urlcanadaca": "https://www.canada.ca",
+  "urlblogue": "https://blogue.canada.ca",
   "webmaster_verification": {
     "google": "Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM",
     "yandex": "4dda5b1b6e392d83"
