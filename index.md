@@ -1,7 +1,7 @@
 --- 
 altLangPage: "https://design.canada.ca/"
 date: 2020-12-17
-dateModified: 2019-11-28
+dateModified: 2023-08-19
 description: ""
 layout: "without-h1"
 title: "Système de conception de Canada.ca"
