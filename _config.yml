@@ -419,6 +419,17 @@
         ],
         "permalink": "/configurations-conception-communes/:basename:output_ext"
       }
+    },
+    {
+      "scope": {
+        "path": "index.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "À propos de Canada.ca",
+          "link": "https://conception.canada.ca/a-propos/"
+        }]
+      }
     }
   ]
 }
