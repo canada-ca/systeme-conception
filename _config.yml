@@ -430,6 +430,22 @@
           "link": "https://conception.canada.ca/a-propos/"
         }]
       }
+    },
+    {
+      "scope": {
+        "path": "bibliotheque-modeles.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "À propos de Canada.ca",
+          "link": "https://conception.canada.ca/a-propos/"
+          },
+          {
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
+          }
+        ]
+      }
     }
   ]
 }
