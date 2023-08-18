@@ -5,7 +5,6 @@ dateModified: 2023-08-19
 description: ""
 title: "Bibliothèque de modèles et de configurations de conception"
 ---
-<h1 property="name" id="wb-cont" dir="ltr">Bibliothèque de modèles et de configurations de conception</h1>
 <section>
   <p>Ces modèles et configurations de conception ont été testés par les utilisateurs. Ils ont été conçus pour vous aider à développer du contenu numérique axé sur les tâches que les utilisateurs tentent d'accomplir.</p>
   <a href="{{ site.url }}/trouvez-modeles-configurations-conception-contenu-web.html" class="btn btn-default mrgn-bttm-md">Répondez à quelques questions pour trouver la bonne configuration de conception</a>
