@@ -35,7 +35,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2 id="toc1">Sommaire des changements</h2>
   <p>Voici les changements que nous avons apportés à cette version du guide&nbsp;: </p>
   <ul>
-    <li>Nous avons ajouté « Rédiger pour assurer l'inclusion » à la section <a href="#toc5">Principes de rédaction pour le contenu Web</a></li>
+    <li>Nous avons ajouté &laquo;&nbsp;Rédiger pour assurer l'inclusion&nbsp;&raquo; à la section <a href="#toc5">Principes de rédaction pour le contenu Web</a></li>
   </ul>
   <p>Reportez-vous à la section pour plus de détails.</p>
 </section>
@@ -219,7 +219,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="/content/dam/canada/tbs-sct/migration/hgw-cgf/oversight-surveillance/communications/images/csc-grc-fig-01-fra.JPG">
+      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="./images/csc-grc-fig-01-fra.JPG">
       <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
         <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 1 - Version textuelle</summary>
         <p>Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés.</p>
@@ -260,8 +260,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </section>
       <div class="well panel"> 
         <!--UPDATE LATER-->
-        <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-1" aria-label="Voyez comment la règle sur la pyramide inversée s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20du%20modèle%20de%20la%20pyramide%20inversée%20pour%20organiser%20le%20contenu%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-1" aria-label="Partage la règle sur l'utilisation du modèle de la pyramide inversée par courriel">Diffusez cette règle par courriel</a></p>
+        <p><a href="{{ site.urldesign }}/style-guide/#wp2-1" aria-label="Voyez comment la règle sur la pyramide inversée s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20du%20modèle%20de%20la%20pyramide%20inversée%20pour%20organiser%20le%20contenu%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-1" aria-label="Partage la règle sur l'utilisation du modèle de la pyramide inversée par courriel">Diffusez cette règle par courriel</a></p>
       </div>
     </section>
   </section>
@@ -283,8 +283,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-2" aria-label="Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20mots%20simples%20et%20courants%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-2" aria-label="Diffusez la règle sur l'utilisation des mots simples et courants par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp2-2" aria-label="Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20mots%20simples%20et%20courants%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-2" aria-label="Diffusez la règle sur l'utilisation des mots simples et courants par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section>
@@ -323,8 +323,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </section>
       <div class="well panel"> 
         <!--UPDATE LATER-->
-        <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-3" aria-label="Voyez comment la règle sur l'utilisation de la voix active et de la forme positive s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20la%20voix%20active%20et%20de%20la%20forme%20positive%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-3" aria-label="Diffusez la règle sur l'utilisation de la voix active et de la forme positive par courriel">Diffusez cette règle par courriel</a></p>
+        <p><a href="{{ site.urldesign }}/style-guide/#wp2-3" aria-label="Voyez comment la règle sur l'utilisation de la voix active et de la forme positive s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20la%20voix%20active%20et%20de%20la%20forme%20positive%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-3" aria-label="Diffusez la règle sur l'utilisation de la voix active et de la forme positive par courriel">Diffusez cette règle par courriel</a></p>
       </div>
     </section>
   </section>
@@ -343,8 +343,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-4" aria-label="Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20la%20forme%20verbale%20plutôt%20que%20la%20forme%20nominale%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-4" aria-label="Partagez la règle sur l'utilisation de la forme verbale plutôt que la forme nominale par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp2-4" aria-label="Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20la%20forme%20verbale%20plutôt%20que%20la%20forme%20nominale%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-4" aria-label="Partagez la règle sur l'utilisation de la forme verbale plutôt que la forme nominale par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section>
@@ -372,8 +372,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-5" aria-label="Voyez comment la règle sur le jargon et les expressions familières ou imagées s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20jargon%20et%20les%20expressions%20familières%20ou%20imagées%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-5" aria-label="Partagez la règle sur le jargon et les expressions familières ou imagées par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp2-5" aria-label="Voyez comment la règle sur le jargon et les expressions familières ou imagées s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20jargon%20et%20les%20expressions%20familières%20ou%20imagées%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-5" aria-label="Partagez la règle sur le jargon et les expressions familières ou imagées par courriel">Diffusez cette règle par courriel</a></p>
     </div>
     <h4>Identifiez les mots-clés que votre public utilise pour trouver votre contenu</h4>
     <p>Voici des outils pour vous aider à identifier les termes de recherche les plus populaires :</p>
@@ -404,8 +404,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Pour aider les gens à comprendre le sens d'une phrase longue, entourez-la de phrases courtes. </p>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-6" aria-label="Voyez comment la règle sur les phrases simples s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20phrases%20simples%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-6" aria-label="Partagez la règle sur les phrases simples par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp2-6" aria-label="Voyez comment la règle sur les phrases simples s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20phrases%20simples%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-6" aria-label="Partagez la règle sur les phrases simples par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section>
@@ -434,8 +434,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-7" aria-label="Voyez comment la règle sur les phrases et paragraphes courts s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20phrases%20et%20paragraphes%20courts%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-7" aria-label="Partagez la règle sur les phrases et paragraphes courts par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp2-7" aria-label="Voyez comment la règle sur les phrases et paragraphes courts s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20phrases%20et%20paragraphes%20courts%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-7" aria-label="Partagez la règle sur les phrases et paragraphes courts par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section>
@@ -453,8 +453,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-8" aria-label="Voyez comment la règle sur les références aux lois s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20références%20aux%20lois%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-8" aria-label="Partagez la règle sur les références aux lois par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp2-8" aria-label="Voyez comment la règle sur les références aux lois s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20références%20aux%20lois%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-8" aria-label="Partagez la règle sur les références aux lois par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section>
@@ -477,7 +477,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Une seule note apparaîtra pour votre contenu. Le texte devrait se trouver dans les rangs supérieurs de «&nbsp;primaire&nbsp;» ou dans les rangs inférieurs de «&nbsp;secondaire&nbsp;». </p>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 2</strong> </figcaption>
-        <img alt="Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de «&nbsp;94 secondaire&nbsp;». " class="img-responsive center-block" src="/content/dam/canada/tbs-sct/migration/hgw-cgf/oversight-surveillance/communications/images/csc-grc-fig-02-fra.jpg">
+        <img alt="Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de «&nbsp;94 secondaire&nbsp;». " class="img-responsive center-block" src="./images/csc-grc-fig-02-fra.jpg">
         <details>
           <summary> Figure 2 - Version textuelle </summary>
           <p>Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de «&nbsp;94 secondaire&nbsp;». </p>
@@ -512,8 +512,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-9" aria-label="Voyez comment la règle sur l'évaluation de la lisibilité du contenu s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'évaluation%20de%20la%20lisibilité%20du%20contenu%20du%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp2-9" aria-label="Partagez la règle sur l'évaluation de la lisibilité du contenu par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp2-9" aria-label="Voyez comment la règle sur l'évaluation de la lisibilité du contenu s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'évaluation%20de%20la%20lisibilité%20du%20contenu%20du%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-9" aria-label="Partagez la règle sur l'évaluation de la lisibilité du contenu par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
 </section>
@@ -597,8 +597,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </section>
       <div class="well panel"> 
         <!--UPDATE LATER-->
-        <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp3-1" aria-label="Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20de%20s'adresser%20directement%20à%20la%20personne%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp3-1" aria-label="Partagez la règle sur la manière de s'adresser directement à la personne par courriel">Diffusez cette règle par courriel</a></p>
+        <p><a href="{{ site.urldesign }}/style-guide/#wp3-1" aria-label="Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20de%20s'adresser%20directement%20à%20la%20personne%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp3-1" aria-label="Partagez la règle sur la manière de s'adresser directement à la personne par courriel">Diffusez cette règle par courriel</a></p>
       </div>
     </section>
   </section>
@@ -648,8 +648,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp3-2" aria-label="Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20de%20désigner%20le%20gouvernement%20du%20Canada%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp3-2" aria-label="Partagez la règle sur la manière de désigner le gouvernement du Canada par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp3-2" aria-label="Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20de%20désigner%20le%20gouvernement%20du%20Canada%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp3-2" aria-label="Partagez la règle sur la manière de désigner le gouvernement du Canada par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section>
@@ -671,8 +671,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp3-3" aria-label="Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20d'exprimer%20une%20obligation%20ou%20une%20recommandation%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp3-3" aria-label="Diffusez la règle sur la manière d'exprimer une obligation ou une recommandation par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp3-3" aria-label="Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20d'exprimer%20une%20obligation%20ou%20une%20recommandation%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp3-3" aria-label="Diffusez la règle sur la manière d'exprimer une obligation ou une recommandation par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
 </section>
@@ -737,7 +737,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <h5>Exemple <span class="wb-inv">de point d'interrogation dans un formulaire, un questionnaire ou un sondage</span></h5>
         <figure class="mrgn-bttm-lg">
           <figcaption class="text-center"> <strong>Figure 3</strong> </figcaption>
-          <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="/content/dam/canada/tbs-sct/migration/hgw-cgf/oversight-surveillance/communications/images/csc-grc-fig-03-fra.jpg">
+          <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="./images/csc-grc-fig-03-fra.jpg">
           <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
             <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
             <p>Une page Web contenant un sous-titre écrit sous forme de question. </p>
@@ -803,8 +803,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-1" aria-label="Voyez comment la règle sur les majuscules et la ponctuation s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20majuscules%20et%20la%20ponctuation%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-1" aria-label="Diffusez la règle sur les majuscules et la ponctuation par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp4-1" aria-label="Voyez comment la règle sur les majuscules et la ponctuation s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20majuscules%20et%20la%20ponctuation%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-1" aria-label="Diffusez la règle sur les majuscules et la ponctuation par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section>
@@ -839,8 +839,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <div class="well panel"> 
         <!--UPDATE LATER-->
-        <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-2" aria-label="Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20caractères%20gras,%20de%20l'italique%20et%20du%20soulignement%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-2" aria-label="Diffusez la règle sur les caractères gras, l'italique et le soulignement par courriel">Diffusez cette règle par courriel</a></p>
+        <p><a href="{{ site.urldesign }}/style-guide/#wp4-2" aria-label="Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20caractères%20gras,%20de%20l'italique%20et%20du%20soulignement%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-2" aria-label="Diffusez la règle sur les caractères gras, l'italique et le soulignement par courriel">Diffusez cette règle par courriel</a></p>
       </div>
     </section>
   </section>
@@ -867,8 +867,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-3" aria-label="Voyez comment la règle sur les symboles s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20symboles%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-3" aria-label="Diffusez la règle sur les symboles par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp4-3" aria-label="Voyez comment la règle sur les symboles s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20symboles%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-3" aria-label="Diffusez la règle sur les symboles par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section>
@@ -911,8 +911,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-4" aria-label="Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20d'abréviations%20et%20d'acronymes%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-4" aria-label="Diffusez la règle sur les abréviations et les acronymes par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp4-4" aria-label="Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20d'abréviations%20et%20d'acronymes%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-4" aria-label="Diffusez la règle sur les abréviations et les acronymes par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
@@ -950,8 +950,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-6" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-5" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp4-6" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-5" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
@@ -992,8 +992,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-6" aria-label="Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20dates%20pour%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-6" aria-label="Diffusez la règle sur le style de présentation des dates par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp4-6" aria-label="Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20dates%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-6" aria-label="Diffusez la règle sur le style de présentation des dates par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
@@ -1049,8 +1049,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp4-9" aria-label="Voyez comment la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20de%20l'heure,%20des%20numéros%20de%20téléphones%20et%20des%20adresses%20pour%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-9" aria-label="Diffusez la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp4-9" aria-label="Voyez comment la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20de%20l'heure,%20des%20numéros%20de%20téléphones%20et%20des%20adresses%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-9" aria-label="Diffusez la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
@@ -1184,8 +1184,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </details>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-1" aria-label="Voyez comment la règle sur la rédaction de titres de pages et de sous-titres descriptifs s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20rédaction%20de%20titres%20de%20pages%20et%20de%20sous-titres%20descriptifs%20pour%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-1" aria-label="Diffusez la règle sur la rédaction de titres de pages et de sous-titres descriptifs par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp5-1" aria-label="Voyez comment la règle sur la rédaction de titres de pages et de sous-titres descriptifs s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20rédaction%20de%20titres%20de%20pages%20et%20de%20sous-titres%20descriptifs%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-1" aria-label="Diffusez la règle sur la rédaction de titres de pages et de sous-titres descriptifs par courriel">Diffusez cette règle par courriel</a></p>
     </div>
     <h4>Les titres de publications et de programmes font rarement de bons titres de page Web </h4>
     <p>Reproduire les titres de rapports, de brochures, de publications ou de programmes dans les titres de page Web peut empêcher les gens de trouver votre contenu, même si le contenu est lié à leur tâche. </p>
@@ -1289,8 +1289,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-2" aria-label="Voyez comment la règle sur l'utilisation de listes d'éléments s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20listes%20d'éléments%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-2" aria-label="Diffusez la règle sur l'utilisation de listes d'éléments par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp5-2" aria-label="Voyez comment la règle sur l'utilisation de listes d'éléments s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20listes%20d'éléments%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-2" aria-label="Diffusez la règle sur l'utilisation de listes d'éléments par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
@@ -1621,8 +1621,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp5-3" aria-label="Voyez comment la règle sur l'utilisation de tableaux s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20tableaux%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-3" aria-label="Diffusez la règle sur l'utilisation de tableaux par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp5-3" aria-label="Voyez comment la règle sur l'utilisation de tableaux s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20tableaux%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-3" aria-label="Diffusez la règle sur l'utilisation de tableaux par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
@@ -1689,7 +1689,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h5>Exemples <span class="wb-inv">d'images fonctionnelles</span></h5>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
-        <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/content/dam/canada/tbs-sct/migration/hgw-cgf/oversight-surveillance/communications/images/csc-grc-fig-04-fra.JPG">
+        <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="./images/csc-grc-fig-04-fra.JPG">
         <details>
           <summary>Figure 4 - Version textuelle </summary>
           <table class="table table-bordered table-condensed">
@@ -1805,7 +1805,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </figure>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 5</strong> </figcaption>
-        <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="/content/dam/canada/tbs-sct/migration/hgw-cgf/oversight-surveillance/communications/images/csc-grc-fig-05-fra.JPG">
+        <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="./images/csc-grc-fig-05-fra.JPG">
         <details>
           <summary> Figure 5 - Version textuelle </summary>
           <table class="table table-bordered table-condensed">
@@ -1884,7 +1884,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>. </p>
     <section>
       <h5>Exemple <span class="wb-inv">d'une image décorative</span></h5>
-      <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="/content/dam/canada/tbs-sct/migration/hgw-cgf/oversight-surveillance/communications/images/csc-grc-fig-06-fra.JPG"></p>
+      <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="./images/csc-grc-fig-06-fra.JPG"></p>
       <p><strong>Description de l'image</strong></p>
       <p>Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail.</p>
     </section>
@@ -1898,8 +1898,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp6-1" aria-label="Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20d'images%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp6-1" aria-label="Diffusez la règle sur l'utilisation d'images par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp6-1" aria-label="Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20d'images%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-1" aria-label="Diffusez la règle sur l'utilisation d'images par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
 </section>
@@ -1918,8 +1918,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>Les <a href="#wp6-1-2">images décoratives</a> n'exigent pas de renseignements supplémentaires pour les rendre accessibles ou visibles aux moteurs de recherche. Utilisez l'indicateur vide (alt="") en guise de texte alternatif. </p>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp6-2" aria-label="Voyez comment la règle sur l'ajout de texte alternatif s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20de%20texte%20alternatif%20aux%20photos%20ou%20graphiques%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp6-2" aria-label="Diffusez la règle sur l'ajout de texte alternatif par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp6-2" aria-label="Voyez comment la règle sur l'ajout de texte alternatif s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20de%20texte%20alternatif%20aux%20photos%20ou%20graphiques%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-2" aria-label="Diffusez la règle sur l'ajout de texte alternatif par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
@@ -1932,7 +1932,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4 class="h5">Exemple<span class="wb-inv">: Description longue pour le tableau de bord</span></h4>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 1 : Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement</strong> </figcaption>
-      <img alt="Figure 1 : Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement" class="img-responsive center-block" src="/content/dam/canada/tbs-sct/migration/hgw-cgf/oversight-surveillance/communications/images/csc-grc-fig-01b-fra.jpg">
+      <img alt="Figure 1 : Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement" class="img-responsive center-block" src="./images/csc-grc-fig-01b-fra.jpg">
       <h5>Texte alternatif</h5>
       <p>Vous pourriez écrire le texte alternatif suivant pour décrire l'image présentée à la figure 1 :</p>
       <p>Tableau de bord illustrant comment les activités opérationnelles s'associent à la vision et à la stratégie de l'organisation pour surveiller les indicateurs de rendement. La version textuelle suit. </p>
@@ -1970,7 +1970,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4 class="h5">Exemple<span class="wb-inv">: Description longue pour le graphique à barres illustrant le rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</span></h4>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 2: Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong> </figcaption>
-      <img alt="Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010" class="img-responsive center-block" src="/content/dam/canada/tbs-sct/migration/hgw-cgf/oversight-surveillance/communications/images/csc-grc-fig-02b-fra.jpg">
+      <img alt="Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010" class="img-responsive center-block" src="./images/csc-grc-fig-02b-fra.jpg">
       <p>Source : Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
         Remarque : Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé non payé.</p>
       <h5>Texte alternatif</h5>
@@ -2028,8 +2028,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>Collaborez avec votre équipe Web pour déterminer la meilleure façon d'insérer la description longue. Elle vous conseillera sur la façon de s'assurer que l'information contenue dans l'image est accessible aux personnes qui utilisent les technologies d'aide. Votre équipe Web s'assurera également que l'image respecte les <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-fra.asp">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite>. </p>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp6-3" aria-label="Voyez comment la règle sur l'ajout d'une description longue s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20d'une%20description%20longue%20aux%20images%20complexes%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp6-3" aria-label="Diffusez la règle sur l'ajout d'une description longue par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp6-3" aria-label="Voyez comment la règle sur l'ajout d'une description longue s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20d'une%20description%20longue%20aux%20images%20complexes%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-3" aria-label="Diffusez la règle sur l'ajout d'une description longue par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
@@ -2049,8 +2049,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </ul>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp6-4" aria-label="Voyez comment la règle sur l'ajout d'une transcription aux fichiers audio et vidéo s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20d'une%20transcription%20pour%20décrire%20les%20fichiers%20audio%20et%20vidéo%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp6-4" aria-label="Diffusez la règle sur l'ajout d'une transcription aux fichiers audio et vidéo par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp6-4" aria-label="Voyez comment la règle sur l'ajout d'une transcription aux fichiers audio et vidéo s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20d'une%20transcription%20pour%20décrire%20les%20fichiers%20audio%20et%20vidéo%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-4" aria-label="Diffusez la règle sur l'ajout d'une transcription aux fichiers audio et vidéo par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
@@ -2103,8 +2103,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-1" aria-label="Voyez comment la règle sur l'utilisation stratégique des liens s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20stratégique%20des%20liens%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp7-1" aria-label="Diffusez la règle sur l'utilisation stratégique des liens par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp7-1" aria-label="Voyez comment la règle sur l'utilisation stratégique des liens s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20stratégique%20des%20liens%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-1" aria-label="Diffusez la règle sur l'utilisation stratégique des liens par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section>
@@ -2149,8 +2149,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </section>
       <div class="well panel"> 
         <!--UPDATE LATER-->
-        <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-2" aria-label="Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20rédaction%20de%20liens%20descriptifs%20pour%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp7-2" aria-label="Diffusez la règle sur la rédaction de liens descriptifs par courriel">Diffusez cette règle par courriel</a></p>
+        <p><a href="{{ site.urldesign }}/style-guide/#wp7-2" aria-label="Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20rédaction%20de%20liens%20descriptifs%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-2" aria-label="Diffusez la règle sur la rédaction de liens descriptifs par courriel">Diffusez cette règle par courriel</a></p>
       </div>
     </section>
   </section>
@@ -2159,8 +2159,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-3" aria-label="Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'importance%20de%20vérifier%20les%20liens%20sur%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp7-3" aria-label="Diffusez la règle sur la vérification des liens par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp7-3" aria-label="Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'importance%20de%20vérifier%20les%20liens%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-3" aria-label="Diffusez la règle sur la vérification des liens par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
   <section>
@@ -2178,8 +2178,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Écrivez</strong> : Informez-vous au sujet des <a href="https://help.cbp.gov/app/answers/detail/a_id/1192/~/canadian--citizens%2Fresidents%2Flanded-immigrants-entering-the-u.s.">documents requis pour permettre aux citoyens canadiens d'entrer aux États-Unis</a> (en anglais seulement).</p>
       <div class="well panel"> 
         <!--UPDATE LATER-->
-        <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-4" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20création%20de%20liens%20vers%20du%20contenu%20externe%20pour%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp7-4" aria-label="Diffusez la règle sur le contenu externe par courriel">Diffusez cette règle par courriel</a></p>
+        <p><a href="{{ site.urldesign }}/style-guide/#wp7-4" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20création%20de%20liens%20vers%20du%20contenu%20externe%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-4" aria-label="Diffusez la règle sur le contenu externe par courriel">Diffusez cette règle par courriel</a></p>
       </div>
     </section>
   </section>
@@ -2189,8 +2189,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez «&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;».</p>
     <div class="well panel"> 
       <!--UPDATE LATER-->
-      <p><a href="/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-5" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20création%20de%20liens%20vers%20du%20contenu%20interne%20pour%20le%20site%20Canada.ca%20:%20https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp7-5" aria-label="Diffusez la règle sur le contenu externe par courriel">Diffusez cette règle par courriel</a></p>
+      <p><a href="{{ site.urldesign }}/style-guide/#wp7-5" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20création%20de%20liens%20vers%20du%20contenu%20interne%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-5" aria-label="Diffusez la règle sur le contenu externe par courriel">Diffusez cette règle par courriel</a></p>
     </div>
   </section>
 </section>
