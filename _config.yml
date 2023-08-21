@@ -410,7 +410,7 @@
           },
           {
             "title": "Modèles et configurations",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+            "link": "https://conception.canada.ca/bibliotheque-modeles.html"
           },
           {
             "title": "Pied de page général",
@@ -477,6 +477,26 @@
           {
             "title": "Système de conception",
             "link": "https://conception.canada.ca"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "trouvez-modeles-configurations-conception-contenu-web.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
+          {
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
+          },
+          {
+            "title": "Modèles et configurations",
+            "link": "https://conception.canada.ca/bibliotheque-modeles.html"
           }
         ]
       }
