@@ -131,8 +131,8 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Lancer un service</h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-lancement-service.html">page de lancement d’un service</a> pour donner toute l’information dont les gens ont besoin.</p>
-          <p>C’est une bonne idée d’utiliser la configuration de conception <a href="https://conception.canada.ca/configurations-conception-communes/boutons.html">boutons</a> pour lancer le processus de demande.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-lancement-service.html">page de lancement d’un service</a> pour donner toute l’information dont les gens ont besoin.</p>
+          <p>C’est une bonne idée d’utiliser la configuration de conception <a href="{{ site.url }}/configurations-conception-communes/boutons.html">boutons</a> pour lancer le processus de demande.</p>
         </div>
       </section>
     </div>
@@ -142,7 +142,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Renseignements sur les programmes</h2>
         </header>
         <div class="panel-body">
-          <p>Pour fournir des renseignements de base sur un programme, vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-description-programme.html">page de description de programme</a>.</p>
+          <p>Pour fournir des renseignements de base sur un programme, vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-description-programme.html">page de description de programme</a>.</p>
           <p>Il n'existe pas de modèle spécifique pour publier un rapport sur un programme. Utilisez les configurations de conception appropriées de la <a href="/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de conceptions de configuration</a>.</p>
         </div>
       </section>
@@ -153,7 +153,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Page d'index court</h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-index.html#court">page d'index court</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-index.html#court">page d'index court</a>.</p>
         </div>
       </section>
     </div>
@@ -163,7 +163,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Page d'index long </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-index.html#long">page d'index long</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-index.html#long">page d'index long</a>.</p>
         </div>
       </section>
     </div>
@@ -173,8 +173,8 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Page d'index avec filtres</h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-index.html#filtre">page d’index avec filtres</a>.</p>
-          <p>Vous pouvez utiliser un <a href="https://conception.canada.ca/configurations-conception-communes/tableaux.html">tableau de données</a> et ajouter des filtres.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-index.html#filtre">page d’index avec filtres</a>.</p>
+          <p>Vous pouvez utiliser un <a href="{{ site.url }}/configurations-conception-communes/tableaux.html">tableau de données</a> et ajouter des filtres.</p>
         </div>
       </section>
     </div>
@@ -184,7 +184,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Page d’index à facettes</h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-index.html#facettes">page d’index à facettes</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-index.html#facettes">page d’index à facettes</a>.</p>
         </div>
       </section>
     </div>
@@ -194,7 +194,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Directives sur les lois </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-directives-lois.html">page de directives sur les lois</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-directives-lois.html">page de directives sur les lois</a>.</p>
         </div>
       </section>
     </div>
@@ -216,7 +216,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Page de profil des lois </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-lois-reglements.html#profil-loi">page de profil d'une loi</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-lois-reglements.html#profil-loi">page de profil d'une loi</a>.</p>
         </div>
       </section>
     </div>
@@ -226,7 +226,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Page de profil des règlements </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-lois-reglements.html#profil-reglement">page de profil d'un règlement</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-lois-reglements.html#profil-reglement">page de profil d'un règlement</a>.</p>
         </div>
       </section>
     </div>
@@ -236,7 +236,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Profil institutionnel </h2>
         </header>
         <div class="panel-body">
-          <p>De façon générale, vous devriez utiliser un <a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">profil institutionnel</a>.</p>
+          <p>De façon générale, vous devriez utiliser un <a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">profil institutionnel</a>.</p>
           <p>Recherchez votre institution dans cette liste pour confirmer.</p>
           <table class="wb-tables table table-striped table-hover small" data-wb-tables="{ &quot;ordering&quot; : false , &quot;paging&quot; : false }">
             <thead>
@@ -257,7 +257,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></span></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -266,7 +266,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Canadian Heritage">PCH</abbr></span></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -275,7 +275,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></span></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -284,7 +284,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr></span></td>
                 <td><abbr title="Immigration, Réfugiés et Citoyenneté Canada">IRCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -293,7 +293,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Employment and Social Development Canada">ESDC</abbr></span></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -302,7 +302,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Department of Finance Canada">FIN</abbr></span></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -311,7 +311,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Fisheries and Oceans Canada">DFO</abbr></span></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -320,7 +320,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Global Affairs Canada">GAC</abbr></span></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -329,7 +329,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Health Canada">HC</abbr></span></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -338,7 +338,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Indigenous Services Canada">ISC</abbr></span></td>
                 <td><abbr title="Services aux Autochtones Canada">SAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -347,7 +347,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></span></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -356,7 +356,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Department of Justice Canada">JUS</abbr></span></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -365,7 +365,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="National Defence">DND</abbr></span></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -374,7 +374,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Natural Resources Canada">NRCan</abbr></span></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -383,7 +383,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Public Safety Canada">PS</abbr></span></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -392,7 +392,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Public Services and Procurement Canada">PSPC</abbr></span></td>
                 <td><abbr title="Services publics et Approvisionnement Canada">SPAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -401,7 +401,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Environment and Climate Change Canada">ECCC</abbr></span></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -410,7 +410,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Transport Canada">TC</abbr></span></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -419,7 +419,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Veterans Affairs Canada">VAC</abbr></span></td>
                 <td><abbr title="Anciens Combattants Canada">ACC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -428,7 +428,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Western Economic Diversification Canada">WD</abbr></span></td>
                 <td><abbr title="Diversification de l’économie de l’Ouest Canada">DEO</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -437,7 +437,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Treasury Board of Canada Secretariat">TBS</abbr></span></td>
                 <td><abbr title="Secrétariat du Conseil du Trésor du Canada">SCT</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -446,7 +446,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Radio-television and Telecommunications Commission">CRTC</abbr></span></td>
                 <td><abbr title="Conseil de la radiodiffusion et des télécommunications canadiennes">CRTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -455,7 +455,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Transportation Agency">CTA</abbr></span></td>
                 <td><abbr title="Office des transports du Canada">OTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
               </tr>
               <tr>
@@ -464,7 +464,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Civilian Review and Complaints Commission for the RCMP">CRCC</abbr></span></td>
                 <td><abbr title="Commission civile d’examen et de traitement des plaintes relatives à la GRC">CCETP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -473,7 +473,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Copyright Board Canada">CB</abbr></span></td>
                 <td><abbr title="Commission du droit d’auteur Canada">CDA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -482,7 +482,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Immigration and Refugee Board of Canada">IRB</abbr></span></td>
                 <td><abbr title="Commission de l’immigration et du statut de réfugié du Canada">CISR</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -491,7 +491,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Military Grievances External Review Committee">MGERC</abbr></span></td>
                 <td><abbr title="Comité externe d’examen des griefs militaires">CEEGM</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -500,7 +500,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Military Police Complaints Commission of Canada">MPCC</abbr></span></td>
                 <td><abbr title="Commission d’examen des plaintes concernant la police militaire du Canada">CPPM</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -509,7 +509,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Parole Board of Canada">PBC</abbr></span></td>
                 <td><abbr title="Commission des libérations conditionnelles du Canada">CLCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -518,7 +518,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Patented Medicine Prices Review Board Canada">PMPRB</abbr></span></td>
                 <td><abbr title="Conseil d’examen du prix des médicaments brevetés Canada">CEPMB</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -527,7 +527,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="RCMP External Review Committee">ERC</abbr></span></td>
                 <td><abbr title="Comité externe d’examen de la GRC">CEE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -536,7 +536,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Administrative Tribunals Support Service of Canada">ATSSC</abbr></span></td>
                 <td><abbr title="Service canadien d’appui aux tribunaux administratifs">SCDATA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -545,7 +545,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Impact Assessment Agency of Canada">IAAC</abbr></span></td>
                 <td><abbr title="Agence d'évaluation d'impact du Canada">AEIC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -554,7 +554,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Space Agency">CSA</abbr></span></td>
                 <td><abbr title="Agence spatiale canadienne">ASC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -563,7 +563,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Financial Consumer Agency of Canada">FCAC</abbr></span></td>
                 <td><abbr title="Agence de la consommation en matière financière du Canada">ACFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -572,7 +572,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Financial Transactions and Reports Analysis Centre of Canada">FINTRAC</abbr></span></td>
                 <td><abbr title="Centre d’analyse des opérations et déclarations financières du Canada">CANAFE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -581,7 +581,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Library and Archives Canada">LAC</abbr></span></td>
                 <td><abbr title="Bibliothèque et Archives Canada">BAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -590,7 +590,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Farm Products Council of Canada">FPCC</abbr></span></td>
                 <td><abbr title="Conseil des produits agricoles du Canada">CPAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -599,7 +599,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Northern Pipeline Agency Canada">NPA</abbr></span></td>
                 <td><abbr title="Administration du pipe-line du Nord Canada">APN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
               </tr>
               <tr>
@@ -608,7 +608,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Office of the Commissioner for Federal Judicial Affairs Canada">FJA</abbr></span></td>
                 <td><abbr title="Commissariat à la magistrature fédérale Canada">CMF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -617,7 +617,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Status of Women Canada">SWC</abbr></span></td>
                 <td><abbr title="Condition féminine Canada">CFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -626,7 +626,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="The Correctional Investigator Canada">OCI</abbr></span></td>
                 <td><abbr title="L’Enquêteur correctionnel Canada">BEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -635,7 +635,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Prosecution Service of Canada">PSPC</abbr></span></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -644,7 +644,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Office of the Superintendent of Financial Institutions Canada">OSFI</abbr></span></td>
                 <td><abbr title="Bureau du surintendant des institutions financières Canada">BSIF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -653,7 +653,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Health Agency of Canada">PHAC</abbr></span></td>
                 <td><abbr title="Agence de la santé publique du Canada">ASPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -662,7 +662,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Service Commission of Canada">SPC</abbr></span></td>
                 <td><abbr title="Commission de la fonction publique du Canada">CFP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -671,7 +671,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Northern Economic Development Agency">CanNor</abbr></span></td>
                 <td><abbr title="Agence canadienne de développement économique du Nord">CanNor</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -680,7 +680,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Communications Security Establishment">CSEC</abbr></span></td>
                 <td><abbr title="Centre de la sécurité des télécommunications">CSTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -689,7 +689,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Correctional Service Canada">CSC</abbr></span></td>
                 <td><abbr title="Service correctionnel Canada">SCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -698,7 +698,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canada Economic Development for Quebec Regions">CED</abbr></span></td>
                 <td><abbr title="Développement économique Canada pour les régions du Québec">DEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -707,7 +707,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Federal Economic Development Agency for Southern Ontario">FedDev Ontario</abbr></span></td>
                 <td><abbr title="Agence fédérale de développement économique pour le Sud de l’Ontario">FedDev Ontario</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -716,7 +716,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Infrastructure Canada">INFC</abbr></span></td>
                 <td><abbr title="Infrastructure Canada">INFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -725,7 +725,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Privy Council Office">PCO</abbr></span></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -734,7 +734,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Shared Services Canada">SSC</abbr></span></td>
                 <td><abbr title="Services partagés Canada">SPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -743,7 +743,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Statistics Canada">StatCan</abbr></span></td>
                 <td><abbr title="Statistique Canada">StatCan</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -752,7 +752,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="National Energy Board">NEB</abbr></span></td>
                 <td><abbr title="Office national de l’énergie">ONE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
               </tr>
               <tr>
@@ -761,7 +761,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Security Intelligence Review Committee">SIRC</abbr></span></td>
                 <td><abbr title="Comité de surveillance des activités de renseignement de sécurité">CSARS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -770,7 +770,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Veterans Review and Appeal Board">VRAB</abbr></span></td>
                 <td><abbr title="Tribunal des anciens combattants (révision et appel)">TACRA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ancients Combattants Canada">ACC</abbr></td>
               </tr>
               <tr>
@@ -779,7 +779,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Grain Commission">CGC</abbr></span></td>
                 <td><abbr title="Commission canadienne des grains">CCG</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -788,7 +788,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Human Rights Commission">CHRC</abbr></span></td>
                 <td><abbr title="Commission canadienne des droits de la personne">CCDP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -797,7 +797,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Security Intelligence Service">CSIS</abbr></span></td>
                 <td><abbr title="Service canadien du renseignement de sécurité">SCRS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -806,7 +806,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="National Film Board">NFB</abbr></span></td>
                 <td><abbr title="Office national du film">ONF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -815,7 +815,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Office of the Communications Security Establishment Commissioner">OCSEC</abbr></span></td>
                 <td><abbr title="Bureau du commissaire du Centre de la sécurité des télécommunications">BCCST</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -824,7 +824,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Royal Canadian Mounted Police">RCMP</abbr></span></td>
                 <td><abbr title="Gendarmerie royale du Canada">GRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -833,7 +833,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Atlantic Canada Opportunities Agency">ACOA</abbr></span></td>
                 <td><abbr title="Agence de promotion économique du Canada atlantique">APECA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -842,7 +842,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Nuclear Safety Commission">CNSC</abbr></span></td>
                 <td><abbr title="Commission canadienne de sûreté nucléaire">CCSN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
               </tr>
               <tr>
@@ -851,7 +851,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Transportation Safety Board of Canada">TSB</abbr></span></td>
                 <td><abbr title="Bureau de la sécurité des transports du Canada">BST</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -860,7 +860,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada Employment Insurance Commission">CEIC</abbr></span></td>
                 <td><abbr title="Commission de l’assurance-emploi du Canada">CAEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -869,7 +869,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Polar Knowledge Canada">POLAR</abbr></span></td>
                 <td><abbr title="Savoir polaire Canada">POLAIRE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
               </tr>
               <tr>
@@ -878,7 +878,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="The National Battlefields Commission">NBC</abbr></span></td>
                 <td><abbr title="Commission des chamSP de bataille nationaux">CCBN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -887,7 +887,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="National Research Council Canada">NRC</abbr></span></td>
                 <td><abbr title="Conseil national de recherches Canada">CNRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -896,7 +896,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Natural Sciences and Engineering Research Council">NSERC</abbr></span></td>
                 <td><abbr title="Conseil de recherches en sciences naturelles et en génie">GRSGC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -905,7 +905,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Parks Canada">PC</abbr></span></td>
                 <td><abbr title="Parcs Canada">PC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -914,7 +914,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></span></td>
                 <td><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -923,7 +923,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada Border Services Agency">CBSA</abbr></span></td>
                 <td><abbr title="Agence des services frontaliers du Canada">ASFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -932,7 +932,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Food Inspection Agency">CFIA</abbr></span></td>
                 <td><abbr title="Agence canadienne d’inspection des aliments">ACIA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -941,7 +941,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Centre for Occupational Health and Safety">CCOHS</abbr></span></td>
                 <td><abbr title="Centre canadien d’hygiène et de sécurité au travail">CCHST</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -950,7 +950,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Institutes of Health Research">CIHR</abbr></span></td>
                 <td><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -959,7 +959,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada Revenue Agency">CRA</abbr></span></td>
                 <td><abbr title="Agence du revenu du Canada">ARC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -968,7 +968,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada School of Public Service">CSSP</abbr></span></td>
                 <td><abbr title="École de la fonction publique du Canada">EFPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Secrétariat du Conseil du Trésor">SCT</abbr></td>
               </tr>
               <tr>
@@ -977,7 +977,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -986,7 +986,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Human Rights Tribunal of Canada">HRTC</abbr></span></td>
                 <td><abbr title="Tribunal des droits de la personne du Canada">TDPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -995,7 +995,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Servants Disclosure Protection Tribunal Canada">SPDPTC</abbr></span></td>
                 <td><abbr title="Tribunal de la protection des fonctionnaires divulgateurs Canada">TPTFDC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -1004,7 +1004,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Service Labour Relations and Employment Board">SPLREB</abbr></span></td>
                 <td><abbr title="Commission des relations de travail et de l’emploi dans la fonction publique">CRTEFP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -1013,7 +1013,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Registry of the Specific Claims Tribunal of Canada">SCT</abbr></span></td>
                 <td><abbr title="Greffe du Tribunal des revendications particulières du Canada">TRP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
               </tr>
               <tr>
@@ -1022,7 +1022,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td><span lang="en"><abbr title="Transportation Appeal Tribunal of Canada">TATC</abbr></span></td>
                 <td><abbr title="Tribunal d’appel des transports du Canada">TATC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
               </tr>
               <tr>
@@ -1031,7 +1031,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td><span lang="en"><abbr title="Canada Industrial Relations Board">CIRB</abbr></span></td>
                 <td><abbr title="Conseil canadien des relations industrielles">CCRI</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -1040,7 +1040,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation (Historique)</td>
                 <td><span lang="en"><abbr title="Social Security Tribunal of Canada">SST</abbr></span></td>
                 <td><abbr title="Tribunal de la sécurité sociale du Canada">TSS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -1049,7 +1049,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation</td>
                 <td><span lang="en"><abbr title="Office of the Superintendent of Bankruptcy Canada">OSB</abbr></span></td>
                 <td><abbr title="Bureau du surintendant des faillites Canada">BSF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1058,7 +1058,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Historic Sites and Monuments Board of Canada">HSMBC</abbr></span></td>
                 <td><abbr title="Commission des lieux et monuments historiques du Canada">CLMHC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -1067,7 +1067,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Competition Bureau Canada">COBU</abbr></span></td>
                 <td><abbr title="Bureau de la concurrence Canada">BUCO</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1076,7 +1076,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Service Canada">ServCan</abbr></span></td>
                 <td><abbr title="Service Canada">ServCan</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -1085,7 +1085,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation (Historique)</td>
                 <td><span lang="en"><abbr title="Occupational Health and Safety Tribunal Canada">OHSTC</abbr></span></td>
                 <td><abbr title="Tribunal de santé et sécurité au travail Canada">TSSTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -1094,7 +1094,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Environmental Protection Review Canada">EPRC</abbr></span></td>
                 <td><abbr title="Révision de la protection de l’environnement Canada">RPEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -1103,7 +1103,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Communications Research Centre Canada">CRC</abbr></span></td>
                 <td><abbr title="Centre de recherches sur les communications Canada">CRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1112,7 +1112,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1121,7 +1121,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Canada Firearms Centre">CAFC</abbr></span></td>
                 <td><abbr title="Centre des armes à feu Canada">CAFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -1130,7 +1130,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Canadian Coast Guard">CCG</abbr></span></td>
                 <td><abbr title="Garde côtière canadienne">GCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
               </tr>
               <tr>
@@ -1139,7 +1139,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Measurement Canada">MC</abbr></span></td>
                 <td><abbr title="Mesures Canada">MC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1148,7 +1148,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Canadian Intellectual Property Office">CIPO</abbr></span></td>
                 <td><abbr title="Office de la propriété intellectuelle du Canada">OPIC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1157,7 +1157,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Canadian Conservation Institute">CCI</abbr></span></td>
                 <td><abbr title="Institut canadien de conservation">ICC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -1166,7 +1166,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Defence Research and Development Canada">DRDC</abbr></span></td>
                 <td><abbr title="Recherche et développement pour la Défense Canada">RDDC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -1175,7 +1175,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation (Historique)</td>
                 <td><span lang="en"><abbr title="Canada Agricultural Review Tribunal">CART</abbr></span></td>
                 <td><abbr title="Commission de révision agricole du Canada">CRAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -1184,7 +1184,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -1193,7 +1193,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -1202,7 +1202,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -1211,7 +1211,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Royal Canadian Navy">RCN</abbr></span></td>
                 <td><abbr title="Marine royale canadienne">MRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -1220,7 +1220,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Canadian Special Operations Forces Command">CANSOFCOM</abbr></span></td>
                 <td><abbr title="Commandement des Forces d’opérations spéciales du Canada">COMFOSCAN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -1229,7 +1229,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1238,7 +1238,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Independent Review Panel for Defence Acquisition">IRPDA</abbr></span></td>
                 <td><abbr title="Commission indépendante d’examen des acquisitions de la Défense">CIEAD</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -1247,7 +1247,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -1256,7 +1256,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
               </tr>
               <tr>
@@ -1265,7 +1265,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Federal Ombudsman for Victims of Crime">OFOVC</abbr></span></td>
                 <td><abbr title="Bureau de l’ombudsman fédéral des victimes d’actes criminels">BOFVAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -1274,7 +1274,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -1283,7 +1283,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Procurement Ombudsman">OPO</abbr></span></td>
                 <td><abbr title="Bureau de l’ombudsman de l’approvisionnement">BOA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -1292,7 +1292,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Taxpayers’ Ombudsman">OTO</abbr></span></td>
                 <td><abbr title="Bureau de l’ombudsman des contribuables">BOC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Agence du revenu du Canada">ARC</abbr></td>
               </tr>
               <tr>
@@ -1301,7 +1301,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Ancients Combattants Canada">ACC</abbr></td>
               </tr>
               <tr>
@@ -1310,7 +1310,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Royal Canadian Air Force">RCAF</abbr></span></td>
                 <td><abbr title="Aviation royale canadienne">ARC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -1319,7 +1319,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -1328,7 +1328,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -1337,7 +1337,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -1346,7 +1346,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
               </tr>
               <tr>
@@ -1355,7 +1355,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Industrial Technologies Office">ITO</abbr></span></td>
                 <td><abbr title="Office des technologies industrielles">OTI</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1364,7 +1364,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
               </tr>
               <tr>
@@ -1373,7 +1373,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -1382,7 +1382,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -1391,7 +1391,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -1400,7 +1400,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -1409,7 +1409,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -1418,7 +1418,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -1427,7 +1427,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Chief Military Judge">OCMJ</abbr></span></td>
                 <td><abbr title="Le cabinet du juge militaire en chef">CJMC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -1436,7 +1436,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -1445,7 +1445,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Agence du revenu du Canada">ARC</abbr></td>
               </tr>
               <tr>
@@ -1454,7 +1454,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></td>
               </tr>
               <tr>
@@ -1463,7 +1463,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></td>
               </tr>
               <tr>
@@ -1472,7 +1472,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Service canadien du renseignement de sécurité">SCRS</abbr></td>
               </tr>
               <tr>
@@ -1481,7 +1481,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -1490,7 +1490,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
               </tr>
               <tr>
@@ -1499,7 +1499,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
               </tr>
               <tr>
@@ -1508,7 +1508,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
               </tr>
               <tr>
@@ -1517,7 +1517,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -1526,7 +1526,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
               </tr>
               <tr>
@@ -1535,7 +1535,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil national de recherches Canada">CNRC</abbr></td>
               </tr>
               <tr>
@@ -1544,7 +1544,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></td>
               </tr>
               <tr>
@@ -1553,7 +1553,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></td>
               </tr>
               <tr>
@@ -1562,7 +1562,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Gendarmerie royale du Canada">GRC</abbr></td>
               </tr>
               <tr>
@@ -1571,7 +1571,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -1580,7 +1580,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -1589,7 +1589,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil national de recherches Canada">CNRC</abbr></td>
               </tr>
             </tbody>
@@ -1603,7 +1603,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Profil organisationnel </h2>
         </header>
         <div class="panel-body">
-          <p>De façon générale, vous devriez utiliser un <a href="https://conception.canada.ca/bibliotheque-modeles.html">profil organisationnel</a>.</p>
+          <p>De façon générale, vous devriez utiliser un <a href="{{ site.url }}/bibliotheque-modeles.html">profil organisationnel</a>.</p>
           <p>Recherchez votre institution dans la liste suivante pour confirmer.</p>
           <table class="wb-tables table table-striped table-hover small" data-wb-tables="{ &quot;ordering&quot; : false , &quot;paging&quot; : false }">
             <thead>
@@ -1624,7 +1624,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></span></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1633,7 +1633,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Canadian Heritage">PCH</abbr></span></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1642,7 +1642,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></span></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1651,7 +1651,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr></span></td>
                 <td><abbr title="Immigration, Réfugiés et Citoyenneté Canada">IRCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1660,7 +1660,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Employment and Social Development Canada">ESDC</abbr></span></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1669,7 +1669,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Department of Finance Canada">FIN</abbr></span></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1678,7 +1678,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Fisheries and Oceans Canada">DFO</abbr></span></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1687,7 +1687,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Global Affairs Canada">GAC</abbr></span></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1696,7 +1696,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Health Canada">HC</abbr></span></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1705,7 +1705,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Indigenous Services Canada">ISC</abbr></span></td>
                 <td><abbr title="Services aux Autochtones Canada">SAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1714,7 +1714,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></span></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1723,7 +1723,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Department of Justice Canada">JUS</abbr></span></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1732,7 +1732,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="National Defence">DND</abbr></span></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1741,7 +1741,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Natural Resources Canada">NRCan</abbr></span></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1750,7 +1750,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Public Safety Canada">PS</abbr></span></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1759,7 +1759,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Public Services and Procurement Canada">PSPC</abbr></span></td>
                 <td><abbr title="Services publics et Approvisionnement Canada">SPAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1768,7 +1768,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Environment and Climate Change Canada">ECCC</abbr></span></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1777,7 +1777,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Transport Canada">TC</abbr></span></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1786,7 +1786,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Veterans Affairs Canada">VAC</abbr></span></td>
                 <td><abbr title="Anciens Combattants Canada">ACC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1795,7 +1795,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Western Economic Diversification Canada">WD</abbr></span></td>
                 <td><abbr title="Diversification de l’économie de l’Ouest Canada">DEO</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1804,7 +1804,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Treasury Board of Canada Secretariat">TBS</abbr></span></td>
                 <td><abbr title="Secrétariat du Conseil du Trésor du Canada">SCT</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1813,7 +1813,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Radio-television and Telecommunications Commission">CRTC</abbr></span></td>
                 <td><abbr title="Conseil de la radiodiffusion et des télécommunications canadiennes">CRTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -1822,7 +1822,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Transportation Agency">CTA</abbr></span></td>
                 <td><abbr title="Office des transports du Canada">OTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
               </tr>
               <tr>
@@ -1831,7 +1831,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Civilian Review and Complaints Commission for the RCMP">CRCC</abbr></span></td>
                 <td><abbr title="Commission civile d’examen et de traitement des plaintes relatives à la GRC">CCETP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -1840,7 +1840,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Copyright Board Canada">CB</abbr></span></td>
                 <td><abbr title="Commission du droit d’auteur Canada">CDA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1849,7 +1849,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Immigration and Refugee Board of Canada">IRB</abbr></span></td>
                 <td><abbr title="Commission de l’immigration et du statut de réfugié du Canada">CISR</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -1858,7 +1858,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Military Grievances External Review Committee">MGERC</abbr></span></td>
                 <td><abbr title="Comité externe d’examen des griefs militaires">CEEGM</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -1867,7 +1867,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Military Police Complaints Commission of Canada">MPCC</abbr></span></td>
                 <td><abbr title="Commission d’examen des plaintes concernant la police militaire du Canada">CPPM</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -1876,7 +1876,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Parole Board of Canada">PBC</abbr></span></td>
                 <td><abbr title="Commission des libérations conditionnelles du Canada">CLCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -1885,7 +1885,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Patented Medicine Prices Review Board Canada">PMPRB</abbr></span></td>
                 <td><abbr title="Conseil d’examen du prix des médicaments brevetés Canada">CEPMB</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -1894,7 +1894,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="RCMP External Review Committee">ERC</abbr></span></td>
                 <td><abbr title="Comité externe d’examen de la GRC">CEE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -1903,7 +1903,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Administrative Tribunals Support Service of Canada">ATSSC</abbr></span></td>
                 <td><abbr title="Service canadien d’appui aux tribunaux administratifs">SCDATA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -1912,7 +1912,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Impact Assessment Agency of Canada">IAAC</abbr></span></td>
                 <td><abbr title="Agence d'évaluation d'impact du Canada">AEIC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -1921,7 +1921,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Space Agency">CSA</abbr></span></td>
                 <td><abbr title="Agence spatiale canadienne">ASC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -1930,7 +1930,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Financial Consumer Agency of Canada">FCAC</abbr></span></td>
                 <td><abbr title="Agence de la consommation en matière financière du Canada">ACFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -1939,7 +1939,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Financial Transactions and Reports Analysis Centre of Canada">FINTRAC</abbr></span></td>
                 <td><abbr title="Centre d’analyse des opérations et déclarations financières du Canada">CANAFE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -1948,7 +1948,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Library and Archives Canada">LAC</abbr></span></td>
                 <td><abbr title="Bibliothèque et Archives Canada">BAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -1957,7 +1957,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Farm Products Council of Canada">FPCC</abbr></span></td>
                 <td><abbr title="Conseil des produits agricoles du Canada">CPAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -1966,7 +1966,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Northern Pipeline Agency Canada">NPA</abbr></span></td>
                 <td><abbr title="Administration du pipe-line du Nord Canada">APN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
               </tr>
               <tr>
@@ -1975,7 +1975,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Office of the Commissioner for Federal Judicial Affairs Canada">FJA</abbr></span></td>
                 <td><abbr title="Commissariat à la magistrature fédérale Canada">CMF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -1984,7 +1984,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Status of Women Canada">SWC</abbr></span></td>
                 <td><abbr title="Condition féminine Canada">CFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -1993,7 +1993,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="The Correctional Investigator Canada">OCI</abbr></span></td>
                 <td><abbr title="L’Enquêteur correctionnel Canada">BEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -2002,7 +2002,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Prosecution Service of Canada">PSPC</abbr></span></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -2011,7 +2011,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Office of the Superintendent of Financial Institutions Canada">OSFI</abbr></span></td>
                 <td><abbr title="Bureau du surintendant des institutions financières Canada">BSIF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -2020,7 +2020,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Health Agency of Canada">PHAC</abbr></span></td>
                 <td><abbr title="Agence de la santé publique du Canada">ASPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -2029,7 +2029,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Service Commission of Canada">SPC</abbr></span></td>
                 <td><abbr title="Commission de la fonction publique du Canada">CFP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -2038,7 +2038,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Northern Economic Development Agency">CanNor</abbr></span></td>
                 <td><abbr title="Agence canadienne de développement économique du Nord">CanNor</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2047,7 +2047,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Communications Security Establishment">CSEC</abbr></span></td>
                 <td><abbr title="Centre de la sécurité des télécommunications">CSTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -2056,7 +2056,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Correctional Service Canada">CSC</abbr></span></td>
                 <td><abbr title="Service correctionnel Canada">SCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -2065,7 +2065,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canada Economic Development for Quebec Regions">CED</abbr></span></td>
                 <td><abbr title="Développement économique Canada pour les régions du Québec">DEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2074,7 +2074,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Federal Economic Development Agency for Southern Ontario">FedDev Ontario</abbr></span></td>
                 <td><abbr title="Agence fédérale de développement économique pour le Sud de l’Ontario">FedDev Ontario</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2083,7 +2083,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Infrastructure Canada">INFC</abbr></span></td>
                 <td><abbr title="Infrastructure Canada">INFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -2092,7 +2092,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Privy Council Office">PCO</abbr></span></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -2101,7 +2101,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Shared Services Canada">SSC</abbr></span></td>
                 <td><abbr title="Services partagés Canada">SPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -2110,7 +2110,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Statistics Canada">StatCan</abbr></span></td>
                 <td><abbr title="Statistique Canada">StatCan</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2119,7 +2119,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="National Energy Board">NEB</abbr></span></td>
                 <td><abbr title="Office national de l’énergie">ONE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
               </tr>
               <tr>
@@ -2128,7 +2128,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Security Intelligence Review Committee">SIRC</abbr></span></td>
                 <td><abbr title="Comité de surveillance des activités de renseignement de sécurité">CSARS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -2137,7 +2137,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Veterans Review and Appeal Board">VRAB</abbr></span></td>
                 <td><abbr title="Tribunal des anciens combattants (révision et appel)">TACRA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ancients Combattants Canada">ACC</abbr></td>
               </tr>
               <tr>
@@ -2146,7 +2146,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Grain Commission">CGC</abbr></span></td>
                 <td><abbr title="Commission canadienne des grains">CCG</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -2155,7 +2155,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Human Rights Commission">CHRC</abbr></span></td>
                 <td><abbr title="Commission canadienne des droits de la personne">CCDP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -2164,7 +2164,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Security Intelligence Service">CSIS</abbr></span></td>
                 <td><abbr title="Service canadien du renseignement de sécurité">SCRS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -2173,7 +2173,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="National Film Board">NFB</abbr></span></td>
                 <td><abbr title="Office national du film">ONF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -2182,7 +2182,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Office of the Communications Security Establishment Commissioner">OCSEC</abbr></span></td>
                 <td><abbr title="Bureau du commissaire du Centre de la sécurité des télécommunications">BCCST</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -2191,7 +2191,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Royal Canadian Mounted Police">RCMP</abbr></span></td>
                 <td><abbr title="Gendarmerie royale du Canada">GRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -2200,7 +2200,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Atlantic Canada Opportunities Agency">ACOA</abbr></span></td>
                 <td><abbr title="Agence de promotion économique du Canada atlantique">APECA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2209,7 +2209,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Nuclear Safety Commission">CNSC</abbr></span></td>
                 <td><abbr title="Commission canadienne de sûreté nucléaire">CCSN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
               </tr>
               <tr>
@@ -2218,7 +2218,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Transportation Safety Board of Canada">TSB</abbr></span></td>
                 <td><abbr title="Bureau de la sécurité des transports du Canada">BST</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -2227,7 +2227,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada Employment Insurance Commission">CEIC</abbr></span></td>
                 <td><abbr title="Commission de l’assurance-emploi du Canada">CAEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -2236,7 +2236,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Polar Knowledge Canada">POLAR</abbr></span></td>
                 <td><abbr title="Savoir polaire Canada">POLAIRE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
               </tr>
               <tr>
@@ -2245,7 +2245,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="The National Battlefields Commission">NBC</abbr></span></td>
                 <td><abbr title="Commission des chamSP de bataille nationaux">CCBN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -2254,7 +2254,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="National Research Council Canada">NRC</abbr></span></td>
                 <td><abbr title="Conseil national de recherches Canada">CNRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2263,7 +2263,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Natural Sciences and Engineering Research Council">NSERC</abbr></span></td>
                 <td><abbr title="Conseil de recherches en sciences naturelles et en génie">GRSGC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2272,7 +2272,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Parks Canada">PC</abbr></span></td>
                 <td><abbr title="Parcs Canada">PC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -2281,7 +2281,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></span></td>
                 <td><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2290,7 +2290,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada Border Services Agency">CBSA</abbr></span></td>
                 <td><abbr title="Agence des services frontaliers du Canada">ASFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -2299,7 +2299,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Food Inspection Agency">CFIA</abbr></span></td>
                 <td><abbr title="Agence canadienne d’inspection des aliments">ACIA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -2308,7 +2308,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Centre for Occupational Health and Safety">CCOHS</abbr></span></td>
                 <td><abbr title="Centre canadien d’hygiène et de sécurité au travail">CCHST</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -2317,7 +2317,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Institutes of Health Research">CIHR</abbr></span></td>
                 <td><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -2326,7 +2326,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada Revenue Agency">CRA</abbr></span></td>
                 <td><abbr title="Agence du revenu du Canada">ARC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -2335,7 +2335,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada School of Public Service">CSSP</abbr></span></td>
                 <td><abbr title="École de la fonction publique du Canada">EFPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Secrétariat du Conseil du Trésor">SCT</abbr></td>
               </tr>
               <tr>
@@ -2344,7 +2344,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -2353,7 +2353,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Human Rights Tribunal of Canada">HRTC</abbr></span></td>
                 <td><abbr title="Tribunal des droits de la personne du Canada">TDPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -2362,7 +2362,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Servants Disclosure Protection Tribunal Canada">SPDPTC</abbr></span></td>
                 <td><abbr title="Tribunal de la protection des fonctionnaires divulgateurs Canada">TPTFDC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -2371,7 +2371,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Service Labour Relations and Employment Board">SPLREB</abbr></span></td>
                 <td><abbr title="Commission des relations de travail et de l’emploi dans la fonction publique">CRTEFP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -2380,7 +2380,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Registry of the Specific Claims Tribunal of Canada">SCT</abbr></span></td>
                 <td><abbr title="Greffe du Tribunal des revendications particulières du Canada">TRP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
               </tr>
               <tr>
@@ -2389,7 +2389,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td><span lang="en"><abbr title="Transportation Appeal Tribunal of Canada">TATC</abbr></span></td>
                 <td><abbr title="Tribunal d’appel des transports du Canada">TATC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
               </tr>
               <tr>
@@ -2398,7 +2398,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td><span lang="en"><abbr title="Canada Industrial Relations Board">CIRB</abbr></span></td>
                 <td><abbr title="Conseil canadien des relations industrielles">CCRI</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -2407,7 +2407,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation (Historique)</td>
                 <td><span lang="en"><abbr title="Social Security Tribunal of Canada">SST</abbr></span></td>
                 <td><abbr title="Tribunal de la sécurité sociale du Canada">TSS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -2416,7 +2416,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation</td>
                 <td><span lang="en"><abbr title="Office of the Superintendent of Bankruptcy Canada">OSB</abbr></span></td>
                 <td><abbr title="Bureau du surintendant des faillites Canada">BSF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2425,7 +2425,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Historic Sites and Monuments Board of Canada">HSMBC</abbr></span></td>
                 <td><abbr title="Commission des lieux et monuments historiques du Canada">CLMHC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -2434,7 +2434,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Competition Bureau Canada">COBU</abbr></span></td>
                 <td><abbr title="Bureau de la concurrence Canada">BUCO</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2443,7 +2443,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Service Canada">ServCan</abbr></span></td>
                 <td><abbr title="Service Canada">ServCan</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -2452,7 +2452,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation (Historique)</td>
                 <td><span lang="en"><abbr title="Occupational Health and Safety Tribunal Canada">OHSTC</abbr></span></td>
                 <td><abbr title="Tribunal de santé et sécurité au travail Canada">TSSTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -2461,7 +2461,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Environmental Protection Review Canada">EPRC</abbr></span></td>
                 <td><abbr title="Révision de la protection de l’environnement Canada">RPEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -2470,7 +2470,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Communications Research Centre Canada">CRC</abbr></span></td>
                 <td><abbr title="Centre de recherches sur les communications Canada">CRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2479,7 +2479,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2488,7 +2488,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Canada Firearms Centre">CAFC</abbr></span></td>
                 <td><abbr title="Centre des armes à feu Canada">CAFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -2497,7 +2497,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Canadian Coast Guard">CCG</abbr></span></td>
                 <td><abbr title="Garde côtière canadienne">GCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
               </tr>
               <tr>
@@ -2506,7 +2506,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Measurement Canada">MC</abbr></span></td>
                 <td><abbr title="Mesures Canada">MC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2515,7 +2515,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Canadian Intellectual Property Office">CIPO</abbr></span></td>
                 <td><abbr title="Office de la propriété intellectuelle du Canada">OPIC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2524,7 +2524,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Canadian Conservation Institute">CCI</abbr></span></td>
                 <td><abbr title="Institut canadien de conservation">ICC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -2533,7 +2533,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Defence Research and Development Canada">DRDC</abbr></span></td>
                 <td><abbr title="Recherche et développement pour la Défense Canada">RDDC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -2542,7 +2542,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation (Historique)</td>
                 <td><span lang="en"><abbr title="Canada Agricultural Review Tribunal">CART</abbr></span></td>
                 <td><abbr title="Commission de révision agricole du Canada">CRAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -2551,7 +2551,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -2560,7 +2560,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -2569,7 +2569,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -2578,7 +2578,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Royal Canadian Navy">RCN</abbr></span></td>
                 <td><abbr title="Marine royale canadienne">MRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -2587,7 +2587,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Canadian Special Operations Forces Command">CANSOFCOM</abbr></span></td>
                 <td><abbr title="Commandement des Forces d’opérations spéciales du Canada">COMFOSCAN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -2596,7 +2596,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2605,7 +2605,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Independent Review Panel for Defence Acquisition">IRPDA</abbr></span></td>
                 <td><abbr title="Commission indépendante d’examen des acquisitions de la Défense">CIEAD</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -2614,7 +2614,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -2623,7 +2623,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
               </tr>
               <tr>
@@ -2632,7 +2632,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Federal Ombudsman for Victims of Crime">OFOVC</abbr></span></td>
                 <td><abbr title="Bureau de l’ombudsman fédéral des victimes d’actes criminels">BOFVAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -2641,7 +2641,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -2650,7 +2650,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Procurement Ombudsman">OPO</abbr></span></td>
                 <td><abbr title="Bureau de l’ombudsman de l’approvisionnement">BOA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -2659,7 +2659,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Taxpayers’ Ombudsman">OTO</abbr></span></td>
                 <td><abbr title="Bureau de l’ombudsman des contribuables">BOC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Agence du revenu du Canada">ARC</abbr></td>
               </tr>
               <tr>
@@ -2668,7 +2668,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Ancients Combattants Canada">ACC</abbr></td>
               </tr>
               <tr>
@@ -2677,7 +2677,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Royal Canadian Air Force">RCAF</abbr></span></td>
                 <td><abbr title="Aviation royale canadienne">ARC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -2686,7 +2686,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -2695,7 +2695,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -2704,7 +2704,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -2713,7 +2713,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
               </tr>
               <tr>
@@ -2722,7 +2722,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Industrial Technologies Office">ITO</abbr></span></td>
                 <td><abbr title="Office des technologies industrielles">OTI</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -2731,7 +2731,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
               </tr>
               <tr>
@@ -2740,7 +2740,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -2749,7 +2749,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -2758,7 +2758,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -2767,7 +2767,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -2776,7 +2776,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -2785,7 +2785,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -2794,7 +2794,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Chief Military Judge">OCMJ</abbr></span></td>
                 <td><abbr title="Le cabinet du juge militaire en chef">CJMC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -2803,7 +2803,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -2812,7 +2812,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Agence du revenu du Canada">ARC</abbr></td>
               </tr>
               <tr>
@@ -2821,7 +2821,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></td>
               </tr>
               <tr>
@@ -2830,7 +2830,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></td>
               </tr>
               <tr>
@@ -2839,7 +2839,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Service canadien du renseignement de sécurité">SCRS</abbr></td>
               </tr>
               <tr>
@@ -2848,7 +2848,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -2857,7 +2857,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
               </tr>
               <tr>
@@ -2866,7 +2866,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
               </tr>
               <tr>
@@ -2875,7 +2875,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
               </tr>
               <tr>
@@ -2884,7 +2884,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -2893,7 +2893,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
               </tr>
               <tr>
@@ -2902,7 +2902,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil national de recherches Canada">CNRC</abbr></td>
               </tr>
               <tr>
@@ -2911,7 +2911,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></td>
               </tr>
               <tr>
@@ -2920,7 +2920,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></td>
               </tr>
               <tr>
@@ -2929,7 +2929,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Gendarmerie royale du Canada">GRC</abbr></td>
               </tr>
               <tr>
@@ -2938,7 +2938,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -2947,7 +2947,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -2956,7 +2956,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil national de recherches Canada">CNRC</abbr></td>
               </tr>
             </tbody>
@@ -2990,7 +2990,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Agriculture and Agri-Food Canada">AAFC</abbr></span></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -2999,7 +2999,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Canadian Heritage">PCH</abbr></span></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3008,7 +3008,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Crown-Indigenous Relations and Northern Affairs Canada">CIRNAC</abbr></span></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3017,7 +3017,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr></span></td>
                 <td><abbr title="Immigration, Réfugiés et Citoyenneté Canada">IRCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3026,7 +3026,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Employment and Social Development Canada">ESDC</abbr></span></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3035,7 +3035,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Department of Finance Canada">FIN</abbr></span></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3044,7 +3044,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Fisheries and Oceans Canada">DFO</abbr></span></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3053,7 +3053,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Global Affairs Canada">GAC</abbr></span></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3062,7 +3062,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Health Canada">HC</abbr></span></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3071,7 +3071,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Indigenous Services Canada">ISC</abbr></span></td>
                 <td><abbr title="Services aux Autochtones Canada">SAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3080,7 +3080,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Innovation, Science and Economic Development Canada">ISED</abbr></span></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3089,7 +3089,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Department of Justice Canada">JUS</abbr></span></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3098,7 +3098,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="National Defence">DND</abbr></span></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3107,7 +3107,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Natural Resources Canada">NRCan</abbr></span></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3116,7 +3116,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Public Safety Canada">PS</abbr></span></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3125,7 +3125,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Public Services and Procurement Canada">PSPC</abbr></span></td>
                 <td><abbr title="Services publics et Approvisionnement Canada">SPAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3134,7 +3134,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Environment and Climate Change Canada">ECCC</abbr></span></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3143,7 +3143,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Transport Canada">TC</abbr></span></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3152,7 +3152,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Veterans Affairs Canada">VAC</abbr></span></td>
                 <td><abbr title="Anciens Combattants Canada">ACC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3161,7 +3161,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Western Economic Diversification Canada">WD</abbr></span></td>
                 <td><abbr title="Diversification de l’économie de l’Ouest Canada">DEO</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3170,7 +3170,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Ministère</td>
                 <td><span lang="en"><abbr title="Treasury Board of Canada Secretariat">TBS</abbr></span></td>
                 <td><abbr title="Secrétariat du Conseil du Trésor du Canada">SCT</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3179,7 +3179,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Radio-television and Telecommunications Commission">CRTC</abbr></span></td>
                 <td><abbr title="Conseil de la radiodiffusion et des télécommunications canadiennes">CRTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -3188,7 +3188,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Transportation Agency">CTA</abbr></span></td>
                 <td><abbr title="Office des transports du Canada">OTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
               </tr>
               <tr>
@@ -3197,7 +3197,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Civilian Review and Complaints Commission for the RCMP">CRCC</abbr></span></td>
                 <td><abbr title="Commission civile d’examen et de traitement des plaintes relatives à la GRC">CCETP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -3206,7 +3206,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Copyright Board Canada">CB</abbr></span></td>
                 <td><abbr title="Commission du droit d’auteur Canada">CDA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3215,7 +3215,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Immigration and Refugee Board of Canada">IRB</abbr></span></td>
                 <td><abbr title="Commission de l’immigration et du statut de réfugié du Canada">CISR</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3224,7 +3224,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Military Grievances External Review Committee">MGERC</abbr></span></td>
                 <td><abbr title="Comité externe d’examen des griefs militaires">CEEGM</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -3233,7 +3233,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Military Police Complaints Commission of Canada">MPCC</abbr></span></td>
                 <td><abbr title="Commission d’examen des plaintes concernant la police militaire du Canada">CPPM</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -3242,7 +3242,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Parole Board of Canada">PBC</abbr></span></td>
                 <td><abbr title="Commission des libérations conditionnelles du Canada">CLCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -3251,7 +3251,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Patented Medicine Prices Review Board Canada">PMPRB</abbr></span></td>
                 <td><abbr title="Conseil d’examen du prix des médicaments brevetés Canada">CEPMB</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -3260,7 +3260,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="RCMP External Review Committee">ERC</abbr></span></td>
                 <td><abbr title="Comité externe d’examen de la GRC">CEE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -3269,7 +3269,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Administrative Tribunals Support Service of Canada">ATSSC</abbr></span></td>
                 <td><abbr title="Service canadien d’appui aux tribunaux administratifs">SCDATA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -3278,7 +3278,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Impact Assessment Agency of Canada">IAAC</abbr></span></td>
                 <td><abbr title="Agence d'évaluation d'impact du Canada">AEIC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -3287,7 +3287,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Space Agency">CSA</abbr></span></td>
                 <td><abbr title="Agence spatiale canadienne">ASC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3296,7 +3296,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Financial Consumer Agency of Canada">FCAC</abbr></span></td>
                 <td><abbr title="Agence de la consommation en matière financière du Canada">ACFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -3305,7 +3305,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Financial Transactions and Reports Analysis Centre of Canada">FINTRAC</abbr></span></td>
                 <td><abbr title="Centre d’analyse des opérations et déclarations financières du Canada">CANAFE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -3314,7 +3314,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Library and Archives Canada">LAC</abbr></span></td>
                 <td><abbr title="Bibliothèque et Archives Canada">BAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -3323,7 +3323,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Farm Products Council of Canada">FPCC</abbr></span></td>
                 <td><abbr title="Conseil des produits agricoles du Canada">CPAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -3332,7 +3332,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Northern Pipeline Agency Canada">NPA</abbr></span></td>
                 <td><abbr title="Administration du pipe-line du Nord Canada">APN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
               </tr>
               <tr>
@@ -3341,7 +3341,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Office of the Commissioner for Federal Judicial Affairs Canada">FJA</abbr></span></td>
                 <td><abbr title="Commissariat à la magistrature fédérale Canada">CMF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -3350,7 +3350,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Status of Women Canada">SWC</abbr></span></td>
                 <td><abbr title="Condition féminine Canada">CFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -3359,7 +3359,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="The Correctional Investigator Canada">OCI</abbr></span></td>
                 <td><abbr title="L’Enquêteur correctionnel Canada">BEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -3368,7 +3368,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Prosecution Service of Canada">PSPC</abbr></span></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -3377,7 +3377,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Office of the Superintendent of Financial Institutions Canada">OSFI</abbr></span></td>
                 <td><abbr title="Bureau du surintendant des institutions financières Canada">BSIF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -3386,7 +3386,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Health Agency of Canada">PHAC</abbr></span></td>
                 <td><abbr title="Agence de la santé publique du Canada">ASPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -3395,7 +3395,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Service Commission of Canada">SPC</abbr></span></td>
                 <td><abbr title="Commission de la fonction publique du Canada">CFP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -3404,7 +3404,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Northern Economic Development Agency">CanNor</abbr></span></td>
                 <td><abbr title="Agence canadienne de développement économique du Nord">CanNor</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3413,7 +3413,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Communications Security Establishment">CSEC</abbr></span></td>
                 <td><abbr title="Centre de la sécurité des télécommunications">CSTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -3422,7 +3422,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Correctional Service Canada">CSC</abbr></span></td>
                 <td><abbr title="Service correctionnel Canada">SCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -3431,7 +3431,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canada Economic Development for Quebec Regions">CED</abbr></span></td>
                 <td><abbr title="Développement économique Canada pour les régions du Québec">DEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3440,7 +3440,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Federal Economic Development Agency for Southern Ontario">FedDev Ontario</abbr></span></td>
                 <td><abbr title="Agence fédérale de développement économique pour le Sud de l’Ontario">FedDev Ontario</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3449,7 +3449,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Infrastructure Canada">INFC</abbr></span></td>
                 <td><abbr title="Infrastructure Canada">INFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3458,7 +3458,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Privy Council Office">PCO</abbr></span></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3467,7 +3467,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Shared Services Canada">SSC</abbr></span></td>
                 <td><abbr title="Services partagés Canada">SPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -3476,7 +3476,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Statistics Canada">StatCan</abbr></span></td>
                 <td><abbr title="Statistique Canada">StatCan</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3485,7 +3485,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="National Energy Board">NEB</abbr></span></td>
                 <td><abbr title="Office national de l’énergie">ONE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
               </tr>
               <tr>
@@ -3494,7 +3494,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Security Intelligence Review Committee">SIRC</abbr></span></td>
                 <td><abbr title="Comité de surveillance des activités de renseignement de sécurité">CSARS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3503,7 +3503,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Veterans Review and Appeal Board">VRAB</abbr></span></td>
                 <td><abbr title="Tribunal des anciens combattants (révision et appel)">TACRA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ancients Combattants Canada">ACC</abbr></td>
               </tr>
               <tr>
@@ -3512,7 +3512,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Grain Commission">CGC</abbr></span></td>
                 <td><abbr title="Commission canadienne des grains">CCG</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -3521,7 +3521,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Human Rights Commission">CHRC</abbr></span></td>
                 <td><abbr title="Commission canadienne des droits de la personne">CCDP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -3530,7 +3530,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Canadian Security Intelligence Service">CSIS</abbr></span></td>
                 <td><abbr title="Service canadien du renseignement de sécurité">SCRS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -3539,7 +3539,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="National Film Board">NFB</abbr></span></td>
                 <td><abbr title="Office national du film">ONF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -3548,7 +3548,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Office of the Communications Security Establishment Commissioner">OCSEC</abbr></span></td>
                 <td><abbr title="Bureau du commissaire du Centre de la sécurité des télécommunications">BCCST</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -3557,7 +3557,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Royal Canadian Mounted Police">RCMP</abbr></span></td>
                 <td><abbr title="Gendarmerie royale du Canada">GRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -3566,7 +3566,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Atlantic Canada Opportunities Agency">ACOA</abbr></span></td>
                 <td><abbr title="Agence de promotion économique du Canada atlantique">APECA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3575,7 +3575,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Nuclear Safety Commission">CNSC</abbr></span></td>
                 <td><abbr title="Commission canadienne de sûreté nucléaire">CCSN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Ressources naturelles Canada">RNCan</abbr></td>
               </tr>
               <tr>
@@ -3584,7 +3584,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Transportation Safety Board of Canada">TSB</abbr></span></td>
                 <td><abbr title="Bureau de la sécurité des transports du Canada">BST</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3593,7 +3593,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada Employment Insurance Commission">CEIC</abbr></span></td>
                 <td><abbr title="Commission de l’assurance-emploi du Canada">CAEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -3602,7 +3602,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Polar Knowledge Canada">POLAR</abbr></span></td>
                 <td><abbr title="Savoir polaire Canada">POLAIRE</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
               </tr>
               <tr>
@@ -3611,7 +3611,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="The National Battlefields Commission">NBC</abbr></span></td>
                 <td><abbr title="Commission des chamSP de bataille nationaux">CCBN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -3620,7 +3620,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="National Research Council Canada">NRC</abbr></span></td>
                 <td><abbr title="Conseil national de recherches Canada">CNRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3629,7 +3629,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Natural Sciences and Engineering Research Council">NSERC</abbr></span></td>
                 <td><abbr title="Conseil de recherches en sciences naturelles et en génie">GRSGC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3638,7 +3638,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Parks Canada">PC</abbr></span></td>
                 <td><abbr title="Parcs Canada">PC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -3647,7 +3647,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Social Sciences and Humanities Research Council of Canada">SSHRC</abbr></span></td>
                 <td><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3656,7 +3656,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada Border Services Agency">CBSA</abbr></span></td>
                 <td><abbr title="Agence des services frontaliers du Canada">ASFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -3665,7 +3665,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Food Inspection Agency">CFIA</abbr></span></td>
                 <td><abbr title="Agence canadienne d’inspection des aliments">ACIA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -3674,7 +3674,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Centre for Occupational Health and Safety">CCOHS</abbr></span></td>
                 <td><abbr title="Centre canadien d’hygiène et de sécurité au travail">CCHST</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -3683,7 +3683,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canadian Institutes of Health Research">CIHR</abbr></span></td>
                 <td><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Santé Canada">SC</abbr></td>
               </tr>
               <tr>
@@ -3692,7 +3692,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada Revenue Agency">CRA</abbr></span></td>
                 <td><abbr title="Agence du revenu du Canada">ARC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3701,7 +3701,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Établissement public</td>
                 <td><span lang="en"><abbr title="Canada School of Public Service">CSSP</abbr></span></td>
                 <td><abbr title="École de la fonction publique du Canada">EFPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td><abbr title="Secrétariat du Conseil du Trésor">SCT</abbr></td>
               </tr>
               <tr>
@@ -3710,7 +3710,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Profil institutionnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3719,7 +3719,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Human Rights Tribunal of Canada">HRTC</abbr></span></td>
                 <td><abbr title="Tribunal des droits de la personne du Canada">TDPC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -3728,7 +3728,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Servants Disclosure Protection Tribunal Canada">SPDPTC</abbr></span></td>
                 <td><abbr title="Tribunal de la protection des fonctionnaires divulgateurs Canada">TPTFDC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -3737,7 +3737,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Public Service Labour Relations and Employment Board">SPLREB</abbr></span></td>
                 <td><abbr title="Commission des relations de travail et de l’emploi dans la fonction publique">CRTEFP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -3746,7 +3746,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td><span lang="en"><abbr title="Registry of the Specific Claims Tribunal of Canada">SCT</abbr></span></td>
                 <td><abbr title="Greffe du Tribunal des revendications particulières du Canada">TRP</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
               </tr>
               <tr>
@@ -3755,7 +3755,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td><span lang="en"><abbr title="Transportation Appeal Tribunal of Canada">TATC</abbr></span></td>
                 <td><abbr title="Tribunal d’appel des transports du Canada">TATC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
               </tr>
               <tr>
@@ -3764,7 +3764,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td><span lang="en"><abbr title="Canada Industrial Relations Board">CIRB</abbr></span></td>
                 <td><abbr title="Conseil canadien des relations industrielles">CCRI</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -3773,7 +3773,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation (Historique)</td>
                 <td><span lang="en"><abbr title="Social Security Tribunal of Canada">SST</abbr></span></td>
                 <td><abbr title="Tribunal de la sécurité sociale du Canada">TSS</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -3782,7 +3782,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation</td>
                 <td><span lang="en"><abbr title="Office of the Superintendent of Bankruptcy Canada">OSB</abbr></span></td>
                 <td><abbr title="Bureau du surintendant des faillites Canada">BSF</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3791,7 +3791,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Historic Sites and Monuments Board of Canada">HSMBC</abbr></span></td>
                 <td><abbr title="Commission des lieux et monuments historiques du Canada">CLMHC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -3800,7 +3800,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Competition Bureau Canada">COBU</abbr></span></td>
                 <td><abbr title="Bureau de la concurrence Canada">BUCO</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3809,7 +3809,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Service Canada">ServCan</abbr></span></td>
                 <td><abbr title="Service Canada">ServCan</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -3818,7 +3818,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation (Historique)</td>
                 <td><span lang="en"><abbr title="Occupational Health and Safety Tribunal Canada">OHSTC</abbr></span></td>
                 <td><abbr title="Tribunal de santé et sécurité au travail Canada">TSSTC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -3827,7 +3827,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Environmental Protection Review Canada">EPRC</abbr></span></td>
                 <td><abbr title="Révision de la protection de l’environnement Canada">RPEC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -3836,7 +3836,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Communications Research Centre Canada">CRC</abbr></span></td>
                 <td><abbr title="Centre de recherches sur les communications Canada">CRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3845,7 +3845,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3854,7 +3854,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Canada Firearms Centre">CAFC</abbr></span></td>
                 <td><abbr title="Centre des armes à feu Canada">CAFC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Sécurité publique Canada">SP</abbr></td>
               </tr>
               <tr>
@@ -3863,7 +3863,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Canadian Coast Guard">CCG</abbr></span></td>
                 <td><abbr title="Garde côtière canadienne">GCC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
               </tr>
               <tr>
@@ -3872,7 +3872,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Measurement Canada">MC</abbr></span></td>
                 <td><abbr title="Mesures Canada">MC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3881,7 +3881,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Canadian Intellectual Property Office">CIPO</abbr></span></td>
                 <td><abbr title="Office de la propriété intellectuelle du Canada">OPIC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3890,7 +3890,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Canadian Conservation Institute">CCI</abbr></span></td>
                 <td><abbr title="Institut canadien de conservation">ICC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -3899,7 +3899,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Defence Research and Development Canada">DRDC</abbr></span></td>
                 <td><abbr title="Recherche et développement pour la Défense Canada">RDDC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -3908,7 +3908,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Autre organisation (Historique)</td>
                 <td><span lang="en"><abbr title="Canada Agricultural Review Tribunal">CART</abbr></span></td>
                 <td><abbr title="Commission de révision agricole du Canada">CRAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -3917,7 +3917,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -3926,7 +3926,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -3935,7 +3935,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel (Historique)</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Ministère des Finances Canada">FIN</abbr></td>
               </tr>
               <tr>
@@ -3944,7 +3944,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Royal Canadian Navy">RCN</abbr></span></td>
                 <td><abbr title="Marine royale canadienne">MRC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -3953,7 +3953,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Canadian Special Operations Forces Command">CANSOFCOM</abbr></span></td>
                 <td><abbr title="Commandement des Forces d’opérations spéciales du Canada">COMFOSCAN</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -3962,7 +3962,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme ministériel</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -3971,7 +3971,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Independent Review Panel for Defence Acquisition">IRPDA</abbr></span></td>
                 <td><abbr title="Commission indépendante d’examen des acquisitions de la Défense">CIEAD</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -3980,7 +3980,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -3989,7 +3989,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
               </tr>
               <tr>
@@ -3998,7 +3998,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Federal Ombudsman for Victims of Crime">OFOVC</abbr></span></td>
                 <td><abbr title="Bureau de l’ombudsman fédéral des victimes d’actes criminels">BOFVAC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Ministère de la Justice Canada">JUS</abbr></td>
               </tr>
               <tr>
@@ -4007,7 +4007,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -4016,7 +4016,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Procurement Ombudsman">OPO</abbr></span></td>
                 <td><abbr title="Bureau de l’ombudsman de l’approvisionnement">BOA</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -4025,7 +4025,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Taxpayers’ Ombudsman">OTO</abbr></span></td>
                 <td><abbr title="Bureau de l’ombudsman des contribuables">BOC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Agence du revenu du Canada">ARC</abbr></td>
               </tr>
               <tr>
@@ -4034,7 +4034,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Ancients Combattants Canada">ACC</abbr></td>
               </tr>
               <tr>
@@ -4043,7 +4043,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Royal Canadian Air Force">RCAF</abbr></span></td>
                 <td><abbr title="Aviation royale canadienne">ARC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -4052,7 +4052,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -4061,7 +4061,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Patrimoine canadien">PCH</abbr></td>
               </tr>
               <tr>
@@ -4070,7 +4070,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -4079,7 +4079,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Relations Couronne-Autochtones et Affaires du Nord Canada">RCAANC</abbr></td>
               </tr>
               <tr>
@@ -4088,7 +4088,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td><span lang="en"><abbr title="Industrial Technologies Office">ITO</abbr></span></td>
                 <td><abbr title="Office des technologies industrielles">OTI</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr></td>
               </tr>
               <tr>
@@ -4097,7 +4097,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
               </tr>
               <tr>
@@ -4106,7 +4106,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Organisme de services spéciaux </td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Service des poursuites pénales du Canada">SPPC</abbr></td>
               </tr>
               <tr>
@@ -4115,7 +4115,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -4124,7 +4124,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -4133,7 +4133,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -4142,7 +4142,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Bureau du Conseil privé">BCP</abbr></td>
               </tr>
               <tr>
@@ -4151,7 +4151,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Emploi et Développement social Canada">EDSC</abbr></td>
               </tr>
               <tr>
@@ -4160,7 +4160,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td><span lang="en"><abbr title="Office of the Chief Military Judge">OCMJ</abbr></span></td>
                 <td><abbr title="Le cabinet du juge militaire en chef">CJMC</abbr></td>
-                <td><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
+                <td><a href="{{ site.url }}/modeles-obligatoire/pages-profil-organisationnel.html">Profil organisationnel</a></td>
                 <td><abbr title="Défense nationale">MDN</abbr></td>
               </tr>
               <tr>
@@ -4169,7 +4169,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -4178,7 +4178,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Agence du revenu du Canada">ARC</abbr></td>
               </tr>
               <tr>
@@ -4187,7 +4187,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></td>
               </tr>
               <tr>
@@ -4196,7 +4196,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Instituts de recherche en santé du Canada">IRSC</abbr></td>
               </tr>
               <tr>
@@ -4205,7 +4205,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Service canadien du renseignement de sécurité">SCRS</abbr></td>
               </tr>
               <tr>
@@ -4214,7 +4214,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Agriculture et Agroalimentaire Canada">AAC</abbr></td>
               </tr>
               <tr>
@@ -4223,7 +4223,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
               </tr>
               <tr>
@@ -4232,7 +4232,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Affaires mondiales Canada">AMC</abbr></td>
               </tr>
               <tr>
@@ -4241,7 +4241,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Pêches et Océans Canada">MPO</abbr></td>
               </tr>
               <tr>
@@ -4250,7 +4250,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -4259,7 +4259,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Transports Canada">TC</abbr></td>
               </tr>
               <tr>
@@ -4268,7 +4268,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil national de recherches Canada">CNRC</abbr></td>
               </tr>
               <tr>
@@ -4277,7 +4277,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></td>
               </tr>
               <tr>
@@ -4286,7 +4286,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil de recherches en sciences humaines du Canada">CRSH</abbr></td>
               </tr>
               <tr>
@@ -4295,7 +4295,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Gendarmerie royale du Canada">GRC</abbr></td>
               </tr>
               <tr>
@@ -4304,7 +4304,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -4313,7 +4313,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Environnement et Changement climatique Canada">ECCC</abbr></td>
               </tr>
               <tr>
@@ -4322,7 +4322,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
                 <td>Aucune structure institutionnelle</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
+                <td><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Profil d’entente de partenariat ou de collaboration</a></td>
                 <td><abbr title="Conseil national de recherches Canada">CNRC</abbr></td>
               </tr>
             </tbody>
@@ -4336,7 +4336,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Partenariat ou entente de collaboration</h2>
         </header>
         <div class="panel-body">
-          <p>Si votre organisme est un partenariat ou entente de collaboration selon la définition du glossaire du PCIM, utilisez un <a href="https://conception.canada.ca/modeles-recommandes/profil-partenariat-entente-collaboration.html">profil de partenariat ou d’entente de collaboration</a>.</p>
+          <p>Si votre organisme est un partenariat ou entente de collaboration selon la définition du glossaire du PCIM, utilisez un <a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">profil de partenariat ou d’entente de collaboration</a>.</p>
         </div>
       </section>
     </div>
@@ -4346,8 +4346,8 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Coordonnées </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser une des <a href="https://conception.canada.ca/modeles-recommandes/pages-contactez-nous.html">pages de coordonnées</a>.</p>
-          <p>Vous pouvez aussi utiliser la configuration de conception <a href="https://conception.canada.ca/configurations-conception-communes/coordonnees.html">Coordonnées</a>.</p>
+          <p>Vous pouvez utiliser une des <a href="{{ site.url }}/modeles-recommandes/pages-contactez-nous.html">pages de coordonnées</a>.</p>
+          <p>Vous pouvez aussi utiliser la configuration de conception <a href="{{ site.url }}/configurations-conception-communes/coordonnees.html">Coordonnées</a>.</p>
         </div>
       </section>
     </div>
@@ -4357,7 +4357,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Ministres</h2>
         </header>
         <div class="panel-body">
-          <p>Utilisez le <a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">modèle de profil de ministre</a>.</p>
+          <p>Utilisez le <a href="{{ site.url }}/modeles-obligatoire/pages-profil-ministres.html">modèle de profil de ministre</a>.</p>
         </div>
       </section>
     </div>
@@ -4367,7 +4367,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Compte rendu du rendement</h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html">page de compte rendu du rendement des services institutionnels</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html">page de compte rendu du rendement des services institutionnels</a>.</p>
         </div>
       </section>
     </div>
@@ -4377,7 +4377,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Sujets</h2>
         </header>
         <div class="panel-body">
-          <p>Utilisez la <a href="https://conception.canada.ca/modeles-obligatoire/page-sujet.html">page de sujet</a>.</p>
+          <p>Utilisez la <a href="{{ site.url }}/modeles-obligatoire/page-sujet.html">page de sujet</a>.</p>
           <p>Les pages de sujet doivent être utilisées pour les 2 premiers niveaux de l’<a href="/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#arborescence">arborescence thématique</a>. Elles peuvent également être utilisées dans les niveaux inférieurs, mais elles ne sont pas obligatoires. Elles sont de nature navigationnelles et ne devraient pas être utilisées lorsque plusieurs tâches doivent être regroupées ensemble. Consultez toujours votre responsable de thème avant de créer une nouvelle page de sujet.</p>
         </div>
       </section>
@@ -4388,7 +4388,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Page de campagne</h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-campagnes.html">page de campagne</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-campagnes.html">page de campagne</a>.</p>
         </div>
       </section>
     </div>
@@ -4398,7 +4398,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Événement promotionnel</h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/modeles-recommandes/pages-evenements-promotionnels.html">page d’événements promotionnels</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-evenements-promotionnels.html">page d’événements promotionnels</a>.</p>
         </div>
       </section>
     </div>
@@ -4410,10 +4410,10 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <div class="panel-body">
           <p>S’il faut que l’utilisateur navigue vers des pages connexes, vous pouvez utiliser une des configurations suivantes : </p>
           <ul>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/liens-connexes.html">Liens connexes</a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/services-renseignements.html">Services et renseignements</a> (configuration en tuiles)</li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/navigation-plusieurs-pages.html">Navigation des plusieurs pages ordonnées</a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/interface-onglets.html">Interface à onglets</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/liens-connexes.html">Liens connexes</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/services-renseignements.html">Services et renseignements</a> (configuration en tuiles)</li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/navigation-plusieurs-pages.html">Navigation des plusieurs pages ordonnées</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/interface-onglets.html">Interface à onglets</a></li>
           </ul>
         </div>
       </section>
@@ -4427,9 +4427,9 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <p>Les promotions fonctionnent le mieux en contexte, lorsqu’elles renvoient au contenu de la page.</p>
           <p>Pour promouvoir un programme ou un service sur une page, vous pouvez utiliser l’une des configurations de conception suivantes : </p>
           <ul>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/banniere-promotionnelle.html">Bannière promotionnelle</a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/carrousels.html">Carrousels</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/banniere-promotionnelle.html">Bannière promotionnelle</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/carrousels.html">Carrousels</a></li>
           </ul>
         </div>
       </section>
@@ -4440,7 +4440,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Coordonnées </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la configuration de conception <a href="https://conception.canada.ca/configurations-conception-communes/coordonnees.html">Coordonnées</a>.</p>
+          <p>Vous pouvez utiliser la configuration de conception <a href="{{ site.url }}/configurations-conception-communes/coordonnees.html">Coordonnées</a>.</p>
         </div>
       </section>
     </div>
@@ -4452,11 +4452,11 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <div class="panel-body">
           <p>Vous pouvez utiliser une des configurations de conception suivantes :</p>
           <ul>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/diagrammes-graphiques.html">Diagrammes et graphiques</a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/tableaux.html">Tableaux de données</a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/icones.html">Icônes</a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/images.html">Images</a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/multimedia.html">Multimédia (vidéo et audio)</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/diagrammes-graphiques.html">Diagrammes et graphiques</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/tableaux.html">Tableaux de données</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/icones.html">Icônes</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/images.html">Images</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/multimedia.html">Multimédia (vidéo et audio)</a></li>
           </ul>
         </div>
       </section>
@@ -4467,7 +4467,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Consultations</h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser le <a href="https://conception.canada.ca/modeles-recommandes/pages-consultations.html">modèle de consultation</a>.</p>
+          <p>Vous pouvez utiliser le <a href="{{ site.url }}/modeles-recommandes/pages-consultations.html">modèle de consultation</a>.</p>
         </div>
       </section>
     </div>
@@ -4489,13 +4489,13 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <div class="panel-body">
           <p>Si vous voulez lancer une campagne de promotion sur la consultation ou les résultats d’une consultation :</p>
           <ul>
-            <li>Vous pouvez utiliser le <a href="https://conception.canada.ca/modeles-recommandes/pages-campagnes.html">modèle de page de campagne</a>. </li>
+            <li>Vous pouvez utiliser le <a href="{{ site.url }}/modeles-recommandes/pages-campagnes.html">modèle de page de campagne</a>. </li>
           </ul>
           <p>Si vous voulez promouvoir la consultation ou les résultats d’une consultation sur une autre page, utilisez une des configurations de conception suivantes :</p>
           <ul>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles </a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/banniere-promotionnelle.html">Bannière promotionnelle</a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/carrousels.html">Carrousels</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles </a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/banniere-promotionnelle.html">Bannière promotionnelle</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/carrousels.html">Carrousels</a></li>
           </ul>
         </div>
       </section>
@@ -4506,7 +4506,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title"> Table des matières à l’intérieur de la page </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="https://conception.canada.ca/configurations-conception-communes/table-matiere-interieur.html">table des matières à l’intérieur de la page</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/configurations-conception-communes/table-matiere-interieur.html">table des matières à l’intérieur de la page</a>.</p>
         </div>
       </section>
     </div>
@@ -4516,7 +4516,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Contenu affichable/masquable </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la configuration de conception <a href="https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html">contenu réductible</a>.</p>
+          <p>Vous pouvez utiliser la configuration de conception <a href="{{ site.url }}/configurations-conception-communes/contenu-reductible.html">contenu réductible</a>.</p>
         </div>
       </section>
     </div>
@@ -4526,7 +4526,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Avertissement superposé </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la configuration de conception <a href="https://conception.canada.ca//configurations-conception-communes/couche-avertissement.html">avertissement superposé</a>.</p>
+          <p>Vous pouvez utiliser la configuration de conception <a href="{{ site.url }}//configurations-conception-communes/couche-avertissement.html">avertissement superposé</a>.</p>
         </div>
       </section>
     </div>
@@ -4536,7 +4536,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Liens de téléchargement </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la configuration de conception <a href="https://conception.canada.ca/configurations-conception-communes/liens-telechargement.html">liens de téléchargement</a>.</p>
+          <p>Vous pouvez utiliser la configuration de conception <a href="{{ site.url }}/configurations-conception-communes/liens-telechargement.html">liens de téléchargement</a>.</p>
         </div>
       </section>
     </div>
@@ -4546,7 +4546,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title"> Questions interactives</h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la configuration de conception <a href="https://conception.canada.ca/configurations-conception-communes/questions-interactives.html">questions interactives</a>.</p>
+          <p>Vous pouvez utiliser la configuration de conception <a href="{{ site.url }}/configurations-conception-communes/questions-interactives.html">questions interactives</a>.</p>
         </div>
       </section>
     </div>
@@ -4558,8 +4558,8 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <div class="panel-body">
           <p>Vous pouvez utiliser les configurations de conception suivantes : </p>
           <ul>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html">bloc des réseaux de médias sociaux</a></li>
-            <li><a href="https://conception.canada.ca/configurations-conception-communes/widget-medias-sociaux.html">widget des réseaux de médias sociaux</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/bloc-medias-sociaux.html">bloc des réseaux de médias sociaux</a></li>
+            <li><a href="{{ site.url }}/configurations-conception-communes/widget-medias-sociaux.html">widget des réseaux de médias sociaux</a></li>
           </ul>
         </div>
       </section>
@@ -4570,7 +4570,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Alertes contextuelles </h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la conception de configuration <a href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html">alertes contextuelles</a>.</p>
+          <p>Vous pouvez utiliser la conception de configuration <a href="{{ site.url }}/configurations-conception-communes/alertes-contextuelles.html">alertes contextuelles</a>.</p>
         </div>
       </section>
     </div>
