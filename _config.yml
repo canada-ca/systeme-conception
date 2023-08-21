@@ -444,6 +444,42 @@
           "link": "https://conception.canada.ca"
         }]
       }
+    },
+    {
+      "scope": {
+        "path": "guide-redaction/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
+          {
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
+          },
+          {
+            "title": "Guide de rédaction du contenu du site Canada.ca",
+            "link": "https://conception.canada.ca/guide-redaction/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "guide-redaction/index.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
+          {
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
+          }
+        ]
+      }
     }, {
       "scope": {
         "path": "a-propos"
