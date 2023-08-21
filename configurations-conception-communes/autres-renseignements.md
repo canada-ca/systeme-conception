@@ -64,7 +64,7 @@ title: Autres renseignements pour les - Configuration de conception de Canada.ca
   </h2>
   <ul>
    <li>
-    <a href="http://wet-boew.github.io/themes-dist/GCWeb/topic-fr.html">
+    <a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-fr.html">
      Page de sujet
     </a>
    </li>

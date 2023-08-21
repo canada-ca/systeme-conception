@@ -187,7 +187,7 @@ title: Ce que nous faisons - Configuration de conception de Canada.ca
  </h2>
  <ul>
   <li>
-   <a href="https://github.com/wet-boew/GCWeb/blob/master/templates/topic/topic-fr.html">
+   <a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-fr.html">
     Modèle de page de sujet
    </a>
   </li>
