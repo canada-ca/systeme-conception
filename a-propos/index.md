@@ -79,7 +79,7 @@ title: "À propos de Canada.ca"
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="{{ site.url }}/a-propos/a-propos-bureau-transformation-numerique.html">Bureau de la transformation numérique</a></h3>
+          <h3 class="h5"><a href="{{ site.url }}/a-propos/bureau-transformation-numerique.html">Bureau de la transformation numérique</a></h3>
           <p>Rencontrez l’équipe qui travaille à améliorer Canada.ca de concert avec les ministères fédéraux. </p>
         </section>
       </div>
