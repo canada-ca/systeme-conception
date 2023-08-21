@@ -96,12 +96,12 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
-            "title": "À propos de Canada.ca"
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
-            "title": "Système de conception de Canada.ca"
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
           }
         ]
       }
@@ -112,15 +112,15 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
-            "title": "À propos de Canada.ca"
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
-            "title": "Système de conception de Canada.ca"
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
           },
           {
-            "link": "../amelioration-continue.html",
+            "link": "https://conception.canada.ca/amelioration-continue.html",
             "title": "Amélioration continue"
           }
         ]
@@ -128,23 +128,23 @@
     },
     {
       "scope": {
-        "path": "amelioration-continue/mesure/*.md"
+        "path": "https://conception.canada.ca/amelioration-continue/mesure/*.md"
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
-            "title": "À propos de Canada.ca"
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
-            "title": "Système de conception de Canada.ca"
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
           },
           {
-            "link": "../../amelioration-continue.html",
+            "link": "https://conception.canada.ca/amelioration-continue.html",
             "title": "Amélioration continue"
           },
           {
-            "link": "../mesure.html",
+            "link": "https://conception.canada.ca/amelioration-continue/mesure.html",
             "title": "Suivi et mesure du succès"
           }
         ]
@@ -156,12 +156,12 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
-            "title": "À propos de Canada.ca"
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
-            "title": "Système de conception de Canada.ca"
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
           },
           {
             "link": "acceuil.html",
@@ -177,7 +177,7 @@
       "values": {
         "breadcrumbs": [{
             "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
             "title": "Analyses, sondage et commentaires",
@@ -197,15 +197,15 @@
       "values": {
         "breadcrumbs": [{
             "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
             "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+            "link": "https://conception.canada.ca"
           },
           {
             "title": "Spécifications de l'architecture de l'information",
-            "link": "architecture/specifications-contenu-architecture-information-canada.html"
+            "link": "https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html"
           }
         ]
       }
@@ -217,11 +217,11 @@
       "values": {
         "breadcrumbs": [{
             "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
             "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+            "link": "https://conception.canada.ca"
           },
           {
             "title": "Modèles et configurations",
@@ -236,15 +236,15 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
-            "title": "À propos de Canada.ca"
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
-            "title": "Système de conception"
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
           },
           {
-            "link": "crise/contenu.html",
+            "link": "https://conception.canada.ca/crise/contenu.html",
             "title": "Aide-mémoire pour la conception du contenu des communications de crise"
           }
         ]
@@ -256,12 +256,12 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
-            "title": "À propos de Canada.ca"
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
-            "title": "Système de conception"
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
           }
         ]
       }
@@ -272,19 +272,19 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
-            "title": "À propos de Canada.ca"
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
-            "title": "Système de conception"
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html",
+            "link": "https://conception.canada.ca/bibliotheque-modeles.html",
             "title": "Modèles et configurations"
           },
           {
-            "link": "modeles-recommandes/generique.html#discussion",
+            "link": "https://conception.canada.ca/modeles-recommandes/generique.html#discussion",
             "title": "Mise en page de base"
           }
         ]
@@ -296,15 +296,15 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
-            "title": "À propos de Canada.ca"
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
-            "title": "Système de conception"
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html",
+            "link": "https://conception.canada.ca/bibliotheque-modeles.html",
             "title": "Modèles et configurations"
           }
         ]
@@ -316,15 +316,15 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
-            "title": "À propos de Canada.ca"
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
-            "title": "Système de conception de Canada.ca"
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html",
+            "link": "https://conception.canada.ca/bibliotheque-modeles.html",
             "title": "Modèles et configurations"
           }
         ]
@@ -336,15 +336,15 @@
       },
       "values": {
         "breadcrumbs": [{
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html",
-            "title": "À propos de Canada.ca"
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html",
-            "title": "Système de conception"
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
           },
           {
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html",
+            "link": "https://conception.canada.ca/bibliotheque-modeles.html",
             "title": "Modèles et configurations"
           }
         ]
@@ -357,7 +357,7 @@
       "values": {
         "breadcrumbs": [{
             "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
             "title": "Analyses, sondage et commentaires",
@@ -377,22 +377,22 @@
       "values": {
         "breadcrumbs": [{
             "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
             "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+            "link": "https://conception.canada.ca"
           },
           {
-            "title": "Modèles et conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+            "link": "https://conception.canada.ca/bibliotheque-modeles.html",
+            "title": "Modèles et configurations"
           },
           {
             "title": "En-tête général",
-            "link": "configurations-conception-communes/en-tete-general.html"
+            "link": "https://conception.canada.ca/configurations-conception-communes/en-tete-general.html"
           }
         ],
-        "permalink": "/configurations-conception-communes/:basename:output_ext"
+        "permalink": "https://conception.canada.ca/configurations-conception-communes/:basename:output_ext"
       }
     },
     {
@@ -402,11 +402,11 @@
       "values": {
         "breadcrumbs": [{
             "title": "À propos de Canada.ca",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos.html"
+            "link": "https://conception.canada.ca/a-propos/"
           },
           {
             "title": "Système de conception",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html"
+            "link": "https://conception.canada.ca"
           },
           {
             "title": "Modèles et configurations",
@@ -414,10 +414,10 @@
           },
           {
             "title": "Pied de page général",
-            "link": "configurations-conception-communes/pied-page.html"
+            "link": "https://conception.canada.ca/configurations-conception-communes/pied-page.html"
           }
         ],
-        "permalink": "/configurations-conception-communes/:basename:output_ext"
+        "permalink": "https://conception.canada.ca/configurations-conception-communes/:basename:output_ext"
       }
     },
     {
@@ -439,12 +439,42 @@
         "breadcrumbs": [{
           "title": "À propos de Canada.ca",
           "link": "https://conception.canada.ca/a-propos/"
-          },
-          {
-            "title": "Système de conception",
-            "link": "https://conception.canada.ca"
-          }
-        ]
+        }, {
+          "title": "Système de conception",
+          "link": "https://conception.canada.ca"
+        }]
+      }
+    }, {
+      "scope": {
+        "path": "about"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "À propos de Canada.ca",
+          "link": "https://conception.canada.ca/a-propos/"
+        }, {
+          "title": "Système de conception",
+          "link": "https://conception.canada.ca"
+        }]
+      }
+    },
+    {
+      "scope": {
+        "path": "https://conception.canada.ca/a-propos/index.md"
+      },
+      "values": {
+        "breadcrumbs": true
+      }
+    },
+    {
+      "scope": {
+        "path": "https://conception.canada.ca/a-propos/bureau-transformation-numerique.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "À propos de Canada.ca",
+          "link": "https://conception.canada.ca/a-propos/"
+        }]
       }
     }
   ]
