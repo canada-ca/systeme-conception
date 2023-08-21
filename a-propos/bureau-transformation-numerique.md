@@ -4,9 +4,9 @@ date: 2018-08-03
 dateModified:  22023-05-25
 description: "The Digital Transformation Office (DTO) is part of the Treasury Board of Canada Secretariat’s Strategic Communications and Ministerial Affairs sector."
 layout: without-h1
-title: "À propos du Bureau de la transformation numérique"
+title: "Bureau de la transformation numérique"
 ---
-<h1 property="name headline" id="wb-cont" dir="ltr">À propos du Bureau de la transformation numérique</h1>
+<h1 property="name headline" id="wb-cont" dir="ltr">Bureau de la transformation numérique</h1>
 <p>Le Bureau de la transformation numérique (BTN) fait partie des Communications stratégiques et affaires ministérielles du Secrétariat du Conseil du Trésor du Canada. En tant que professionnels des communications au BTN, nous avons une expertise en conception de contenu et d’interactions, en recherche sur les utilisateurs et en rédaction en langage clair.</p>
 <p>Nous travaillons avec les ministères pour&nbsp;:</p>
 <ul>
