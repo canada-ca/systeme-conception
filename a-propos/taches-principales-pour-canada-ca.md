@@ -134,7 +134,7 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>19</td>
       <td>ArriveCAN - Soumettre votre déclaration de douane et d'immigration avant d'atterrir au Canada</td>
-      <td><a href="{{ site.urlcanadaca }}/fr/https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
+      <td><a href="https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
       <td>5272</td>
     </tr>
     <tr>
@@ -230,7 +230,7 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>35</td>
       <td>Bourses pour étudier au Canada</td>
-      <td><a href="{{ site.urlcanadaca }}/fr/https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=fra">Affaires mondiales Canada</a></td>
+      <td><a href="https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=fra">Affaires mondiales Canada</a></td>
       <td>2373</td>
     </tr>
     <tr>
@@ -248,7 +248,7 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>38</td>
       <td>Conseils aux voyageurs et avertissements</td>
-      <td><a href="{{ site.urlcanadaca }}/fr/https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=fra">Affaires mondiales Canada</a></td>
+      <td><a href="https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=fra">Affaires mondiales Canada</a></td>
       <td>1978</td>
     </tr>
     <tr>
@@ -266,7 +266,7 @@ title: "Tâches principales pour Canada.ca"
     <tr>
       <td>41</td>
       <td>Vérifier si vous pouvez entrer au Canada</td>
-      <td><a href="{{ site.urlcanadaca }}/fr/https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
+      <td><a href="https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
       <td>1733</td>
     </tr>
     <tr>
@@ -463,13 +463,13 @@ title: "Tâches principales pour Canada.ca"
       <tr>
         <td>21</td>
         <td>Voyages hors du Canada</td>
-        <td><a href="{{ site.urlcanadaca }}/fr/https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=fra">Affaires mondiales Canada</a></td>
+        <td><a href="https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=fra">Affaires mondiales Canada</a></td>
         <td>3531</td>
       </tr>
       <tr>
         <td>22</td>
         <td>Restrictions sur les voyages au Canada (quarantaine et dépistage)</td>
-        <td><a href="{{ site.urlcanadaca }}/fr/https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
+        <td><a href="https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
         <td>3515</td>
       </tr>
       <tr>
@@ -487,7 +487,7 @@ title: "Tâches principales pour Canada.ca"
       <tr>
         <td>25</td>
         <td>Conseils aux voyageurs et avertissements</td>
-        <td><a href="{{ site.urlcanadaca }}/fr/https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=fra">Affaires mondiales Canada</a></td>
+        <td><a href="https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=fra">Affaires mondiales Canada</a></td>
         <td>3190</td>
       </tr>
       <tr>
@@ -511,7 +511,7 @@ title: "Tâches principales pour Canada.ca"
       <tr>
         <td>29</td>
         <td>ArriveCAN - Soumettre des informations sur le voyage ou les symptômes quotidiens</td>
-        <td><a href="{{ site.urlcanadaca }}/fr/https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
+        <td><a href="https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
         <td>2371</td>
       </tr>
       <tr>
@@ -589,7 +589,7 @@ title: "Tâches principales pour Canada.ca"
       <tr>
         <td>42</td>
         <td>Vérifier les exigences avant de prendre l'avion vers le Canada</td>
-        <td><a href="{{ site.urlcanadaca }}/fr/https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
+        <td><a href="https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
         <td>1681</td>
       </tr>
       <tr>
@@ -625,7 +625,7 @@ title: "Tâches principales pour Canada.ca"
       <tr>
         <td>48</td>
         <td>Vérifier si vous pouvez entrer au Canada</td>
-        <td><a href="{{ site.urlcanadaca }}/fr/https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
+        <td><a href="https://www.cbsa-asfc.gc.ca/menu-fra.html">Agence des services frontaliers du Canada</a></td>
         <td>1441</td>
       </tr>
       <tr>
