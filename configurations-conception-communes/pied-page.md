@@ -25,7 +25,6 @@ title: "Pied de page général"
     <li><a href="#comment">Comment mettre en œuvre</a></li>
     <li><a href="#recherches">Recherches et justification</a></li>
     <li><a href="#modifications">Dernières modifications</a></li>
-    <li><a href="#discussion">Discussion</a></li>
   </ul>
 </section>
 <section>
@@ -321,12 +320,4 @@ title: "Pied de page général"
     <dd>Mise à jour du modèle pour tenir compte des changements de conception du projet de recherche Orientation dans Canada.ca, déplacement des
       spécifications détaillées vers des sous-pages propres aux bandes individuelles</dd>
   </dl>
-</section>
-<section>
-  <h2 id="discussion">Discussion</h2>
-  <ul>
-    <li><a
-				href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Se joindre à la conversation dans Slack</a></li>
-    <li><a href="mailto:dto.btn@tbs-sct.gc.ca">Envoyer un courriel au Bureau de la transformation numérique</a></li>
-  </ul>
 </section>
