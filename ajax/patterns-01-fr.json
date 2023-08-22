@@ -2,7 +2,7 @@
 ---
 {
   "data": [{
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/trouver-emploi-resume-recherche.html\">Trouver un emploi</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/trouver-emploi-resume-recherche.html\">Trouver un emploi</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "En facilitant la tâche de trouver les emplois du gouvernement, nous avons appris à éliminer les pages redondantes, à orienter le contenu pour les utilisateurs et leurs principales tâches, à concevoir le contenu en fonction de réponses plutôt que des renseignements, à utiliser des titres d’emploi recherchés et à répondre aux attentes des utilisateurs à l’égard d’une seule plateforme de recherche d’emploi.",
       "WHENTOUSE": "",
@@ -11,7 +11,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html\">Orientation dans Canada.ca</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/orientation-dans-canada-ca.html\">Orientation dans Canada.ca</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "L’examen de la façon dont les utilisateurs naviguent dans le site Canada.ca a mené à des changements visant à remplacer le menu thématique. Les modifications comprennent un nouveau pied de page, un bouton contextuel « se connecter » et une conception stratifiée pour les pages thématiques.",
       "WHENTOUSE": "",
@@ -20,7 +20,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/rappels-securite-resume-recherche.html\">Optimisation de la recherche de rappels et d’avis de sécurité (deuxième série)</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/rappels-securite-resume-recherche.html\">Optimisation de la recherche de rappels et d’avis de sécurité (deuxième série)</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Expérimenter avec une solution en source ouverte pour effectuer des recherches efficaces. Ce que nous avons appris : comprendre les cas d’utilisation de recherche, corriger les données à la source avec l’aide des bonnes personnes, et affecter des ressources à la surveillance du rendement et à la conservation des données.",
       "WHENTOUSE": "",
@@ -29,7 +29,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/rappels-resume-recherche.html\">Rappels et avis de sécurité</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/rappels-resume-recherche.html\">Rappels et avis de sécurité</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "L’optimisation du contenu pour les appareils mobiles peut améliorer la repérabilité et les taux de réussite globale des tâches. Fournir des réponses et non des renseignements, optimiser le flux des tâches, simplifier l’approche, personnaliser les algorithmes de recherche et utiliser du contenu clair, abrégé et lisible.",
       "WHENTOUSE": "",
@@ -38,7 +38,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/achats-electroniques-resume-recherche.html\">Portail de solution d’achats électroniques (SAE)</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/achats-electroniques-resume-recherche.html\">Portail de solution d’achats électroniques (SAE)</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Afin de privilégier les processus en ligne plutôt que les processus fondés sur le papier, il faut repenser la façon de présenter la documentation. Des techniques efficaces comprennent une recherche personnalisée et des assistants, du contenu HTML navigable plutôt que des documents en format PDF et un résumé de renseignements essentiels pour une meilleure lisibilité.",
       "WHENTOUSE": "",
@@ -47,7 +47,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html\">Conseils aux voyageurs et avertissements</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/conseils-voyageurs-resume-recherche.html\">Conseils aux voyageurs et avertissements</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Pour concevoir du contenu qui communique clairement les risques, on doit accorder la priorité à la repérabilité  . Les techniques comprennent l’utilisation de rubriques claires et d’étiquettes pour une meilleure piste vers l’information, rendant le contenu facile à consulter et améliorant les relations entre les sujets parents et les sous-sujets.",
       "WHENTOUSE": "",
@@ -56,7 +56,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html\">Communiquer avec l’ARC</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/arc-contactez-nous-resume-recherche.html\">Communiquer avec l’ARC</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "L’amélioration des pages de contact peut réduire la correspondance et les appels, et permettre de rediriger certaines personnes vers des ressources en ligne. Aider les gens à choisir la bonne option avec du contenu rétractable, regrouper des renseignements pour améliorer les résultats de recherche, utiliser des assistants pour faciliter l'accès aux différentes options.",
       "WHENTOUSE": "",
@@ -65,7 +65,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/design-conversationnel.html\">Fournir des services gouvernementaux grâce au design conversationnel</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/design-conversationnel.html\">Fournir des services gouvernementaux grâce au design conversationnel</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Les agents conversationnels sont des outils puissants, mais il n'y a aucune magie. Ils nécessitent du temps et du personnel pour analyser continuellement les données et ajuster la façon dont les outils réagissent. Ce sont de nouvelles offres de services et elles doivent être dotées de ressources, conçues et gérées comme telles.",
       "WHENTOUSE": "",
@@ -74,7 +74,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html\">Optimisation des prêts et des bourses aux étudiants</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/prets-etudiants-resume-recherche.html\">Optimisation des prêts et des bourses aux étudiants</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Lorsque les provinces et les territoires sont les fournisseurs de services, les pages du site Canada.ca doivent rediriger les gens. Supprimer des renseignements relatifs aux programmes qui ne fournissent pas les réponses recherchées, modifier les chemins de navigation pour se concentrer sur les tâches et utiliser des données probantes à l’égard de la langue de conception.",
       "WHENTOUSE": "",
@@ -83,7 +83,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/examen-citoyennete-resume-recherche.html\">Projet d’optimisation de l’examen pour la citoyenneté</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/examen-citoyennete-resume-recherche.html\">Projet d’optimisation de l’examen pour la citoyenneté</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Lorsque l’on transforme de longs documents en contenu Web, présenter les processus étape par étape en une séquence claire, inclure des fonctions de recherche et de navigation dans le document, éliminer les liens qui distraient, et utiliser un langage clair et simple pour que les étiquettes soient plus explicites.",
       "WHENTOUSE": "",
@@ -92,7 +92,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/comptes-entreprises-resume-recherche.html\">Inscription des entreprises et tenue des comptes – ARC</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/comptes-entreprises-resume-recherche.html\">Inscription des entreprises et tenue des comptes – ARC</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Réduire les volumes d’appels en répondant aux questions courantes sous forme de contenu Web. Mettre les mots-clés au début des titres, réorganiser le contenu en fonction des endroits où les gens cherchent des réponses et ajouter un simple assistant pour aider les gens à obtenir une réponse précise.",
       "WHENTOUSE": "",
@@ -101,7 +101,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca//resumes-recherche/prochesaidants-resume-recherche.html\">Prestations d’assurance-emploi pour proches aidants</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}//resumes-recherche/prochesaidants-resume-recherche.html\">Prestations d’assurance-emploi pour proches aidants</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Réduire le nombre de demandes inadmissibles en aidant les gens à comprendre les règles d’admissibilité et la façon de présenter une demande. Offrir un simple aperçu visuel du processus entier, utiliser de manière stratégique des mots-clés, inclure des renseignements importants à l’emplacement attendu et simplifier le langage employé.",
       "WHENTOUSE": "",
@@ -110,7 +110,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/impots-resume-recherche.html\">Déclaration de la TPS/TVH et de retenues sur la paie</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/impots-resume-recherche.html\">Déclaration de la TPS/TVH et de retenues sur la paie</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Lorsque les gens peuvent trouver de l’information, mais ne la comprennent pas (haut taux de repérabilité, faible taux de réussite des tâches), il faut se servir de techniques pour améliorer la compréhension. Utiliser le langage de l’utilisateur, se servir d’une structure étape par étape et réduire la complexité en divisant les longues pages en de plus petits morceaux.",
       "WHENTOUSE": "",
@@ -119,7 +119,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/maladies-resume-recherche.html\">Maladies et vaccination</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/maladies-resume-recherche.html\">Maladies et vaccination</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Concevoir du contenu pour aider les gens à faire des choix éclairés concernant leur santé. Fournir des réponses et non des renseignements, concevoir en priorité pour des appareils mobiles, réduire le nombre de couches, et retirer le contenu des documents et des affiches en format PDF.",
       "WHENTOUSE": "",
@@ -128,7 +128,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/resumes-recherche/meteo-resume-recherche.html\">Renseignements météorologiques</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/meteo-resume-recherche.html\">Renseignements météorologiques</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "La refonte du contenu pour un public qui le consulte principalement à partir d’un appareil mobile signifie l’optimisation de l'espace. Regrouper les tâches et les sous-tâches, raccourcir le fil d’Ariane, choisir le bon style d’alerte et abréger le contenu en s’assurant de fournir des réponses plutôt que des renseignements.",
       "WHENTOUSE": "",
@@ -137,7 +137,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/2018/03/29/visiter-le-canada-optimisation.html\">Visiter le Canada : optimisation</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2018/03/29/visiter-le-canada-optimisation.html\">Visiter le Canada : optimisation</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Le contenu au sujet des règles peut être complexe. S’attarder à orienter les gens pour qu’ils obtiennent les réponses dont ils ont besoin dans leur situation. Simplifier la navigation pour réduire la charge cognitive, utiliser un assistant pour guider les gens qui effectuent la tâche et réduire le nombre de liens qui éloignent les gens de leur chemin d’accès idéal.",
       "WHENTOUSE": "",
@@ -146,7 +146,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/2018/02/20/demarrer_une_entreprise.html\">Aider les Canadiens à lancer une entreprise</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2018/02/20/demarrer_une_entreprise.html\">Aider les Canadiens à lancer une entreprise</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Pour améliorer l’expérience utilisateur dans le cadre de tâches comportant plusieurs étapes, indiquer les différentes actions et décisions exigées d’un utilisateur, mettre davantage en évidence les liens pour les principales tâches et réduire les liens qui éloignent les gens de leur chemin d’accès idéal.",
       "WHENTOUSE": "",
@@ -156,7 +156,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2022/03/23/reussite-des-taches.html\">Utiliser les données sur la réussite des tâches pour améliorer l’expérience des utilisateurs</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2022/03/23/reussite-des-taches.html\">Utiliser les données sur la réussite des tâches pour améliorer l’expérience des utilisateurs</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Utiliser les données sur la réussite des tâches pour améliorer l’expérience des utilisateurs : Les données tirées du Sondage sur la réussite des tâches du GC peuvent contribuer à favoriser un changement de culture positif au sein de votre organisation.",
       "WHENTOUSE": "Comment utiliser le sondage sur la réussite des tâches pour améliorer l’efficacité du contenu des tâches principales.",
@@ -166,7 +166,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2022/02/07/agent-conversationnel.html\">Vous songez à ajouter un agent conversationnel?</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2022/02/07/agent-conversationnel.html\">Vous songez à ajouter un agent conversationnel?</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Vous songez à ajouter un agent conversationnel? : Avant de décider de créer un agent conversationnel pour améliorer la prestation de vos services, il est important d’évaluer si cette solution est adaptée à votre clientèle ainsi qu’à l’équipe dont vous disposez pour la construire et la soutenir.",
       "WHENTOUSE": "Que faut-il prendre en compte pour décider si un agent conversationnel est le meilleur moyen d’aider vos utilisateurs à trouver les réponses dont ils ont besoin?",
@@ -176,7 +176,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2021/12/07/concevoir-avec-humilite.html\">Concevoir avec humilité</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2021/12/07/concevoir-avec-humilite.html\">Concevoir avec humilité</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Concevoir avec humilité :  Lorsque vous concevez du contenu pour Canada.ca, vous concevez pour les gens. Mettez les gens au cœur de votre travail et prenez le temps de regarder comment ils utilisent votre conception. L’humilité est une force motrice incroyable qui vous aidera à concevoir de meilleurs services.",
       "WHENTOUSE": "Placez les personnes au centre de votre travail, prenez le temps d’observer comment ils utilisent votre conception, soyez ouvert à de nouvelles idées et élaborez des produits qui répondent aux besoins des personnes.",
@@ -196,7 +196,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2021/07/20/liens-plus-efficaces.html\">3 étapes pour rendre les liens plus efficaces</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2021/07/20/liens-plus-efficaces.html\">3 étapes pour rendre les liens plus efficaces</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Éliminez les obstacles et faites en sorte qu'il soit plus facile pour les gens de trouver leur chemin grâce à une sélection minutieuse, un placement stratégique et un étiquetage clair de vos liens.",
       "WHENTOUSE": "Quand ajouter des liens, où les placer et comment rédiger un bon texte de lien?",
@@ -206,7 +206,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2021/05/10/participation-approbateurs-conception.html\">Participation des approbateurs à la conception conjointe</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2021/05/10/participation-approbateurs-conception.html\">Participation des approbateurs à la conception conjointe</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "L'élaboration d'un contenu digne de confiance et à jour sur Canada.ca, conçu en fonction des utilisateurs, exige collaboration et planification. Apprenez à naviguer parmi les approbations et à mettre le contenu en ligne sur Canada.ca rapidement, au moment où les gens en ont le plus besoin.",
       "WHENTOUSE": "Comment la mise en place d’une culture de conception conjointe et le travail direct avec les approbateurs peuvent vous aider à mettre du contenu en ligne plus rapidement.",
@@ -216,7 +216,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/09/24/taches-principales-a-la-covid-19\">Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/09/24/taches-principales-a-la-covid-19\">Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Il est essentiel d'utiliser les données pour comprendre l'évolution des besoins de navigation afin de s'assurer que le bon contenu est toujours au premier plan.",
       "WHENTOUSE": "Utiliser les données pour comprendre l'évolution des besoins de navigation afin de s'assurer que le bon contenu est toujours au premier plan",
@@ -225,7 +225,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/08/10/canadapointca-source-fiable\">Canada.ca est une source fiable</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/08/10/canadapointca-source-fiable\">Canada.ca est une source fiable</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Remplacer &laquo;&nbsp;Accueil&nbsp;&raquo; par &laquo;&nbsp;Canada.ca&nbsp;&raquo; dans le fil d’Ariane de Canada.ca pour améliorer la confiance et la sensibilisation",
       "WHENTOUSE": "Remplacer &laquo;&nbsp;Accueil&nbsp;&raquo; par &laquo;&nbsp;Canada.ca&nbsp;&raquo; dans le fil d’Ariane de Canada.ca pour améliorer la confiance et la sensibilisation",
@@ -235,7 +235,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/07/15/fatigue-dalerte.html\">La &laquo;&nbsp;fatigue d’alerte&nbsp;&raquo; pendant la COVID-19</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/07/15/fatigue-dalerte.html\">La &laquo;&nbsp;fatigue d’alerte&nbsp;&raquo; pendant la COVID-19</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Les alertes attirent l’attention sur une situation qui sort de l’ordinaire, mais nous devons gérer soigneusement leur cycle de vie pour nous assurer de leur efficacité.",
       "WHENTOUSE": "Les alertes attirent l’attention sur les changements dans le contenu régulier. Apprendre comment faire en sorte qu’elles aient la plus grande incidence possible.",
@@ -245,7 +245,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2019/12/20/les-dix-lecons.html\">Les 10 leçons tirées en 2019 par l’équipe de conception du contenu de Canada.ca</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2019/12/20/les-dix-lecons.html\">Les 10 leçons tirées en 2019 par l’équipe de conception du contenu de Canada.ca</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site Canada.ca.",
       "WHENTOUSE": "Observer les gens, collaborer avec les autres, être ouvert au changement, guider les gens, utiliser les bons mots, tester le contenu, se concentrer sur les tâches principales, etc.",
@@ -255,7 +255,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2019/11/01/conseils-voyageurs-contact.html\">Conseils de conception de contenu tirés de nos projets d’optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l’ARC&nbsp;&raquo;</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2019/11/01/conseils-voyageurs-contact.html\">Conseils de conception de contenu tirés de nos projets d’optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l’ARC&nbsp;&raquo;</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Fournir des réponses dans le contenu Web, aiguiller les utilisateurs vers l’information, aider les personnes à faire des choix, mettre à profit les expériences acquises par le passé, etc.",
       "WHENTOUSE": "Conseils de conception de contenu tirés de nos projets d’optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l’ARC&nbsp;&raquo;",
@@ -265,7 +265,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2019/08/26/conseils-conception-contentu.html\">Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2019/08/26/conseils-conception-contentu.html\">Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Retirer des couches, regrouper le contenu en fonction des tâches, utiliser les données pour concevoir le vocabulaire, ne demandez pas aux gens de faire les calculs, utiliser les chiffres avec modération, mettre des réponses là où les gens les cherchent",
       "WHENTOUSE": "Retirer des couches, regrouper le contenu en fonction des tâches, utiliser les données pour concevoir le vocabulaire, ne demandez pas aux gens de faire les calculs, utiliser les chiffres avec modération, mettre des réponses là où les gens les cherchent",
@@ -275,7 +275,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2022/12/21/le-projet-orientation.html\">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2022/12/21/le-projet-orientation.html\">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Explique les changements proposés à la navigation après le projet Orientation dans Canada.ca&nbsp;: remplacer le menu thématique, un nouveau pied de page, un bouton contextuel &laquo;&nbsp;se connecter&nbsp;&raquo; et une conception stratifiée pour les pages thématiques.",
       "WHENTOUSE": "",
@@ -285,7 +285,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2022/09/23/presentation-bouton-contextuel-se-connecter.html\">Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2022/09/23/presentation-bouton-contextuel-se-connecter.html\">Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Ajouter un bouton contextuel «&nbsp;Se connecter&nbsp;» à l’En-tête général Canada.ca sur les pages où les gens doivent se connecter à un compte",
       "WHENTOUSE": "Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un &eacute;l&eacute;ment facultatif de l'en-t&ecirc;te qui dirige les utilisateurs vers des comptes gouvernementaux n&eacute;cessitant une authentification.",
@@ -305,7 +305,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2021/04/08/utilisation-de-questions-interactives.html\">Les questions interactives pour aider les gens</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2021/04/08/utilisation-de-questions-interactives.html\">Les questions interactives pour aider les gens</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "La configuration est utilisée pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever.",
       "WHENTOUSE": "",
@@ -315,7 +315,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2021/03/25/maintenir-le-contenu-web.html\">Maintenir et améliorer le contenu web tout au long de son cycle de vie</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2021/03/25/maintenir-le-contenu-web.html\">Maintenir et améliorer le contenu web tout au long de son cycle de vie</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "De petits changements font une grande différence pour améliorer Canada.ca. Poursuivons la discussion sur le passage des données à l'action. Voici 4 problèmes courants et les mesures que vous pouvez prendre.",
       "WHENTOUSE": "",
@@ -325,7 +325,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html\">L’importance de collaborer avec les centres d’appels</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2021/03/01/collaborer-avec-centres-appels.html\">L’importance de collaborer avec les centres d’appels</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "L’utilisation des données des centres d'appel peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes.",
       "WHENTOUSE": "",
@@ -335,7 +335,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2021/02/04/les-donnees-a-laction.html\">Exploiter les données pour améliorer le contenu</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2021/02/04/les-donnees-a-laction.html\">Exploiter les données pour améliorer le contenu</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants.",
       "WHENTOUSE": "",
@@ -345,7 +345,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2022/07/28/communiques\">Utilisation d’alertes pour maintenir la synchronisation des communiqués de presse et du contenu Web</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2022/07/28/communiques\">Utilisation d’alertes pour maintenir la synchronisation des communiqués de presse et du contenu Web</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Utilisez une alerte temporaire pour synchroniser les communications lorsque vous ne pouvez pas mettre à jour le contenu Web dans les mêmes délais que ceux prévus pour la publication d'un communiqué de presse.",
       "WHENTOUSE": "",
@@ -355,7 +355,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/12/18/lueurs-despoir-2020.html\">2020 : lueurs d’espoir</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/12/18/lueurs-despoir-2020.html\">2020 : lueurs d’espoir</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Dire que 2020 a été parsemée de défis et d’un grand nombre de changements relève presque de l’euphémisme.  Malgré les défis, de nombreux points positifs sont à noter cette année.",
       "WHENTOUSE": "",
@@ -365,7 +365,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html\">Utilisation de listes de vérification interactives pour simplifier les critères d’admissibilité</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/11/12/listes-de-verification-interactives.html\">Utilisation de listes de vérification interactives pour simplifier les critères d’admissibilité</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Utiliser des listes interactives peut aider les gens à ralentir et bien comprendre les critères d'admissibilité.",
       "WHENTOUSE": "",
@@ -375,7 +375,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/12/17/choisir-des-boutons.html\">Choisir le bon bouton pour la réussite des tâches</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/12/17/choisir-des-boutons.html\">Choisir le bon bouton pour la réussite des tâches</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "La façon d’utiliser le bon style de bouton dans la bonne situation peut aider les gens à mieux réussir sur votre page Web.",
       "WHENTOUSE": "",
@@ -405,7 +405,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html\">Recueillir la rétroaction, trouver les problèmes</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/10/09/recueillir-la-retroaction.html\">Recueillir la rétroaction, trouver les problèmes</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "En mai 2020, quelques équipes ont collaboré au lancement de l’étude pilote d’un widget pour obtenir la rétroaction des gens sur les pages Canada.ca.",
       "WHENTOUSE": "",
@@ -425,7 +425,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/09/18/afficher-masquer.html\">Utiliser le modèle afficher/masquer pour faire des choix</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/09/18/afficher-masquer.html\">Utiliser le modèle afficher/masquer pour faire des choix</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Utilisation du modèle afficher/masquer pour présenter un choix entre des réponses mutuellement exclusives.",
       "WHENTOUSE": "",
@@ -435,7 +435,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html\">De quelle façon déterminons-nous les principales tâches pour Canada.ca</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2017/12/11/100-taches-du-gc.html\">De quelle façon déterminons-nous les principales tâches pour Canada.ca</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Comment nous identifions les principales tâches pour aider à établir les priorités du travail.",
       "WHENTOUSE": "",
@@ -445,7 +445,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html\">Comment nous optimisons les principales tâches sur le site Canada.ca</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2017/12/12/apercu-d-optimisation.html\">Comment nous optimisons les principales tâches sur le site Canada.ca</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Les projets d'optimisation sont un moyen d'apporter des améliorations significatives pour les Canadiens.",
       "WHENTOUSE": "",
@@ -455,7 +455,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2018/05/30/tout-est-question-de-dates.html\">Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2018/05/30/tout-est-question-de-dates.html\">Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Dans une étude de convivialité récente, nous avons vu des gens qui n’ont pas tenu compte des résultats de recherche de Canada.ca qui semblaient trop vieux.",
       "WHENTOUSE": "",
@@ -465,7 +465,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/01/28/optimisation-recherche-vocale.html\">Optimiser votre contenu pour la recherche vocale</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/01/28/optimisation-recherche-vocale.html\">Optimiser votre contenu pour la recherche vocale</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Nos apprentissages sur l’amélioration des services vocaux pour les Canadiens",
       "WHENTOUSE": "",
@@ -475,7 +475,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/02/05/methode-pour-mesurer.html\">Trouver la bonne méthode pour mesurer la réussite des tâches en ligne</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/02/05/methode-pour-mesurer.html\">Trouver la bonne méthode pour mesurer la réussite des tâches en ligne</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs.",
       "WHENTOUSE": "",
@@ -485,7 +485,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/05/25/eviter-les-faq.html\">Éviter les FAQ, à une exception près</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/05/25/eviter-les-faq.html\">Éviter les FAQ, à une exception près</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Pourquoi les FAQ sont un choix de conception de contenu inefficace la plupart du temps, et quand elles peuvent réellement fonctionner.",
       "WHENTOUSE": "",
@@ -495,7 +495,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html\">Un exemple en faveur du texte de lien descriptif</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/05/26/texte-de-lien-descriptif.html\">Un exemple en faveur du texte de lien descriptif</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Un texte de lien clair peut aider des milliers de personnes supplémentaires à accéder rapidement et facilement au contenu de Canada.ca dont elles ont besoin.",
       "WHENTOUSE": "",
@@ -505,7 +505,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html\">Conception axée sur l’accessibilité pendant la pandémie de la COVID-19</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/06/05/concevoir-pour-laccessibilite.html\">Conception axée sur l’accessibilité pendant la pandémie de la COVID-19</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin.",
       "WHENTOUSE": "",
@@ -1355,7 +1355,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc5\">Principes de rédaction pour le contenu Web</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#toc5\">Principes de rédaction pour le contenu Web</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Principes d'écriture qui reflètent la façon dont les gens lisent et utilisent le contenu du web ",
       "WHENTOUSE": "",
@@ -1365,7 +1365,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc6\">Langage clair et simple</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#toc6\">Langage clair et simple</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Utilisez un langage simple afin de rendre les informations lisibles et compréhensibles pour tous.",
       "WHENTOUSE": "",
@@ -1375,7 +1375,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc7\">Ton de l'écriture</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#toc7\">Ton de l'écriture</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Lignes directrices sur le bon ton à utiliser lors de la conception de contenu pour Canada.ca ",
       "WHENTOUSE": "",
@@ -1385,7 +1385,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc8\">Style de présentation</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#toc8\">Style de présentation</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Règles détaillées sur le formatage et le style à utiliser sur Canada.ca ",
       "WHENTOUSE": "",
@@ -1395,7 +1395,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-1\">Majuscules et ponctuation</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp4-1\">Majuscules et ponctuation</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Utilisez ces styles pour la capitalisation et la ponctuation du contenu dans les textes, les liens et les applications.",
       "WHENTOUSE": "",
@@ -1405,7 +1405,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-2\">Soulignement, caractères gras et italique</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp4-2\">Soulignement, caractères gras et italique</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Quand utiliser le soulignement, le gras et l'italique sur Canada.ca ",
       "WHENTOUSE": "",
@@ -1415,7 +1415,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-3\">Symboles</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp4-3\">Symboles</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Quand utiliser des symboles tels que &amp; et % sur Canada.ca ",
       "WHENTOUSE": "",
@@ -1425,7 +1425,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-4\">Abréviations, acronymes et référence</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp4-4\">Abréviations, acronymes et référence</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "N'utilisez pas d'abréviation ou d'acronyme à moins qu'il ne soit mieux connu du plus grand nombre que son équivalent long format.",
       "WHENTOUSE": "",
@@ -1435,7 +1435,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-5\">Contractions</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp4-5\">Contractions</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Utilisez les contractions que les gens utilisent lorsqu'ils parlent.",
       "WHENTOUSE": "",
@@ -1445,7 +1445,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-5\">Nombres</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp4-5\">Nombres</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Comment écrire des chiffres sur Canada.ca ",
       "WHENTOUSE": "",
@@ -1455,7 +1455,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-6\">Dates</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp4-6\">Dates</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Comment écrire des dates sur Canada.ca ",
       "WHENTOUSE": "",
@@ -1465,7 +1465,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-7\">Heures</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp4-7\">Heures</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Comment écrire l'heure sur Canada.ca ",
       "WHENTOUSE": "",
@@ -1475,7 +1475,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-8\">Numéros de téléphone</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp4-8\">Numéros de téléphone</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Comment écrire des numéros de téléphone sur Canada.ca ",
       "WHENTOUSE": "",
@@ -1485,7 +1485,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp4-9\">Adresses</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp4-9\">Adresses</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Comment écrire des adresses sur Canada.ca ",
       "WHENTOUSE": "",
@@ -1495,7 +1495,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc9\">Structure du contenu</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#toc9\">Structure du contenu</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Comment organiser la structure et la présentation des éléments de contenu pour aider les gens à trouver rapidement ce dont ils ont besoin ",
       "WHENTOUSE": "",
@@ -1505,7 +1505,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-1\">Titres et sous-titres de page descriptifs</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp5-1\">Titres et sous-titres de page descriptifs</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Rédigez des titres et des rubriques qui ont du sens et qui aident les gens à survoler la page.",
       "WHENTOUSE": "",
@@ -1515,7 +1515,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-2\">Listes</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp5-2\">Listes</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Comment rédiger des listes qui aident les gens à survoler le contenu ",
       "WHENTOUSE": "",
@@ -1525,7 +1525,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-3\">Tableaux</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#wp5-3\">Tableaux</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Comment concevoir des tableaux pour organiser les données ",
       "WHENTOUSE": "",
@@ -1535,7 +1535,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc10\">Images et vidéos</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#toc10\">Images et vidéos</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Comment utiliser des images et des vidéos dans votre contenu ",
       "WHENTOUSE": "",
@@ -1545,7 +1545,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#toc11\">Liens</a>",
+      "NAME": "<a href=\"{{ site.url }}/guide-redaction/#toc11\">Liens</a>",
       "SOURCE": "Guide de rédaction du contenu",
       "DESCRIPTION": "Comment utiliser les liens sur Canada.ca",
       "WHENTOUSE": "",
