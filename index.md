@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/"
 date: 2020-12-17
 dateModified: 2023-08-19
-description: ""
+description: "Le système de conception de Canada.ca contient des styles, des modèles et des configurations réutilisables qui rendent les services numériques du gouvernement du Canada plus conviviaux, plus cohérents et plus fiables."
 layout: "without-h1"
 title: "Système de conception de Canada.ca"
 ---
