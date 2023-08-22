@@ -1689,7 +1689,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h5>Exemples <span class="wb-inv">d'images fonctionnelles</span></h5>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
-        <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="./images/csc-grc-fig-04-fra.JPG">
+        <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="./images/csc-grc-fig-04-fra.jpg">
         <details>
           <summary>Figure 4 - Version textuelle </summary>
           <table class="table table-bordered table-condensed">
