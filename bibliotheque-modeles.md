@@ -1,5 +1,5 @@
 --- 
-altLangPage: "https://conception.canada.ca/pattern-library.html"
+altLangPage: "https://design.canada.ca/pattern-library.html"
 date: 2021-05-03
 dateModified: 2023-08-19
 description: "Une collection de modèles et de mises en page à utiliser pour le contenu numérique du gouvernement du Canada."
