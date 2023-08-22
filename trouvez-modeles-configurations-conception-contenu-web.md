@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/find-right-template-design-pattern-web-content.html"
 date: 2019-11-06
 dateModified: 2019-11-06
-description: ""
+description: "Une série de questions pour vous aider à déterminer quel modèle ou conception de Canada.ca convient le mieux à votre contenu."
 title: "Trouvez des modèles et les configurations de conception pour votre contenu Web"
 ---
 <p>Répondez aux questions suivantes pour savoir si vous pourriez utiliser une configuration de modèle ou de conception pour concevoir du contenu centré sur les utilisateurs et les tâches.</p>
