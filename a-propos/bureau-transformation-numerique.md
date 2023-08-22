@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/about/digital-transformation-office.html"
 date: 2018-08-03
 dateModified:  22023-05-25
-description: "The Digital Transformation Office (DTO) is part of the Treasury Board of Canada Secretariat’s Strategic Communications and Ministerial Affairs sector."
+description: "Des informations sur l’équipe qui gère le système de conception de Canada.ca et en supervise le contenu."
 layout: without-h1
 title: "Bureau de la transformation numérique"
 ---
