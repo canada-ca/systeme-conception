@@ -516,7 +516,7 @@
     },
     {
       "scope": {
-        "path": "/a-propos/index.md"
+        "path": "a-propos/index.md"
       },
       "values": {
         "breadcrumbs": true
