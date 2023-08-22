@@ -219,7 +219,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="./images/csc-grc-fig-01-fra.JPG">
+      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="./images/csc-grc-fig-01-fra.jpg">
       <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
         <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 1 - Version textuelle</summary>
         <p>Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés.</p>
