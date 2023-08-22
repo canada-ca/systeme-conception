@@ -392,7 +392,7 @@
             "link": "https://conception.canada.ca/configurations-conception-communes/en-tete-general.html"
           }
         ],
-        "permalink": "https://conception.canada.ca/configurations-conception-communes/:basename:output_ext"
+        "permalink": "/configurations-conception-communes/:basename:output_ext"
       }
     },
     {
@@ -417,7 +417,7 @@
             "link": "https://conception.canada.ca/configurations-conception-communes/pied-page.html"
           }
         ],
-        "permalink": "https://conception.canada.ca/configurations-conception-communes/:basename:output_ext"
+        "permalink": "/configurations-conception-communes/:basename:output_ext"
       }
     },
     {
