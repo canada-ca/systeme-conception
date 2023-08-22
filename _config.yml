@@ -252,7 +252,7 @@
     },
     {
       "scope": {
-        "path": "directive/*.md"
+        "path": "directives/*.md"
       },
       "values": {
         "breadcrumbs": [{
