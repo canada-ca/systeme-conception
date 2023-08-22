@@ -1805,7 +1805,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </figure>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 5</strong> </figcaption>
-        <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="./images/csc-grc-fig-05-fra.JPG">
+        <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="./images/csc-grc-fig-05-fra.jpg">
         <details>
           <summary> Figure 5 - Version textuelle </summary>
           <table class="table table-bordered table-condensed">
@@ -1884,7 +1884,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>. </p>
     <section>
       <h5>Exemple <span class="wb-inv">d'une image décorative</span></h5>
-      <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="./images/csc-grc-fig-06-fra.JPG"></p>
+      <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="./images/csc-grc-fig-06-fra.jpg"></p>
       <p><strong>Description de l'image</strong></p>
       <p>Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail.</p>
     </section>
