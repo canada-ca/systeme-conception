@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
 dateModified: 2023-08-15
-description: ""
+description: "Derniers changements apportés au système de conception de Canada.ca."
 layout: default
 title: "Derniers changements apportés au système de conception de Canada.ca"
 ---
@@ -28,7 +28,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
     <p>Nous avons précisé que la page d’index est requise lorsque vous utilisez le <a href="{{ site.url }}/configurations-conception-communes/navigation-metro.html">modèle de navigation de style métro</a></p>
   </details>
   <details>
-    <summary>17 Août 2022</summary>
+    <summary>17 août 2022</summary>
     <p>Nous avons précisé les lignes directrices pour <a href="{{ site.url }}/configurations-conception-communes/connexion-contextuel.html">le bouton contextuel «&nbsp;Se connecter&nbsp;»</a></p>
   </details>
   <details>
