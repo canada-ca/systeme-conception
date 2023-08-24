@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2020-02-03
+dateModified: 2023-08-24
 description: "Ce guide établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -698,11 +698,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp4-4-1">Citer des exemples</a></li>
           </ul>
         </li>
-        <li><a href="#wp4-5">4.5 Nombres </a></li>
-        <li><a href="#wp4-6">4.6 Dates</a></li>
-        <li><a href="#wp4-7">4.7 Heures</a></li>
-        <li><a href="#wp4-8">4.8 Numéros de téléphone</a></li>
-        <li><a href="#wp4-9">4.9 Adresses</a></li>
+        <li><a href="#wp4-5">4.5 Forme contractée</a></li>
+        <li><a href="#wp4-6">4.6 Nombres</a></li>
+        <li><a href="#wp4-7">4.7 Dates</a></li>
+        <li><a href="#wp4-8">4.8 Heures</a></li>
+        <li><a href="#wp4-9">4.9 Numéros de téléphone</a></li>
+        <li><a href="#wp4-10">4.10 Adresses</a></li>
       </ul>
     </div>
   </div>
@@ -916,7 +917,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
 </section>
 <section>
-  <h3 id="wp4-5">4.5 Nombres </h3>
+  <h3 id="wp4-5">4.5 Forme contractée</h3>
+  <p>Cette règle s’applique en anglais plutôt qu’en français. La forme contractée en français s’applique par défaut. En anglais, elle est facultative, mais elle est recommandée pour simplifier la lecture.</p>
+  <p><a href="{{ site.urldesign }}/style-guide/#wp4-5" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+  <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-5" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
+</section>
+<section>
+  <h3 id="wp4-6">4.6 Nombres </h3>
   <section>
     <h4>Principes généraux</h4>
     <ul>
@@ -951,11 +958,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <div class="well panel"> 
     <!--UPDATE LATER-->
     <p><a href="{{ site.urldesign }}/style-guide/#wp4-6" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-5" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-6" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
-  <h3 id="wp4-6">4.6 Dates</h3>
+  <h3 id="wp4-7">4.7 Dates</h3>
   <ul>
     <li>Écrivez «&nbsp;31 juillet 2016&nbsp;» ou «&nbsp;31 juillet&nbsp;» si l'année est déjà clairement indiquée;
       <ul>
@@ -992,19 +999,19 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp4-6" aria-label="Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20dates%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-6" aria-label="Diffusez la règle sur le style de présentation des dates par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp4-7" aria-label="Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20dates%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-7" aria-label="Diffusez la règle sur le style de présentation des dates par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
-  <h3 id="wp4-7">4.7 Heures</h3>
+  <h3 id="wp4-8">4.8 Heures</h3>
   <ul>
     <li>16 h 30</li>
     <li>De 9 h à 17 h</li>
   </ul>
 </section>
 <section>
-  <h3 id="wp4-8">4.8 Numéros de téléphone</h3>
+  <h3 id="wp4-9">4.8 Numéros de téléphone</h3>
   <p>Utilisez des tirets insécables (Ctrl+Shift+Tiret) pour les numéros de téléphone. Par exemple :</p>
   <ul>
     <li>pour obtenir de l'aide, composez le 1-800-622-6232</li>
@@ -1013,9 +1020,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </ul>
 </section>
 <section>
-  <h3 id="wp4-9">4.9 Adresses</h3>
+  <h3 id="wp4-10">4.10 Adresses</h3>
   <section>
-    <h4 id="wp4-9-1">Adresses postales</h4>
+    <h4 id="wp4-10-1">Adresses postales</h4>
     <ul>
       <li>Abrégez le type de rue et l'orientation de la rue.</li>
       <li>Utilisez l'<a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-f.asp#1378384">indicatif à deux lettres pour désigner la province ou le territoire</a>.</li>
@@ -1038,7 +1045,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
   </section>
   <section>
-    <h4 id="wp4-9-2">Adresses de courriel</h4>
+    <h4 id="wp4-10-2">Adresses de courriel</h4>
     <p>Écrivez les adresses de courriel au long au lieu de les intégrer dans le contenu.</p>
     <p><strong>Écrivez&nbsp;</strong>:</p>
     <ul>
@@ -1049,8 +1056,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp4-9" aria-label="Voyez comment la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20de%20l'heure,%20des%20numéros%20de%20téléphones%20et%20des%20adresses%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-9" aria-label="Diffusez la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp4-10" aria-label="Voyez comment la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20de%20l'heure,%20des%20numéros%20de%20téléphones%20et%20des%20adresses%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-10" aria-label="Diffusez la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
