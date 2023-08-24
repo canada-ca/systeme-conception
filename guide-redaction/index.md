@@ -48,10 +48,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section>
   <h2 id="toc3">Application</h2>
-  <p>Le présent guide est mentionné dans la <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite>. Les normes qu'il contient s'appliquent aux ministères et aux autres organismes de l'administration publique fédérale figurant aux annexes <a href="https://laws-lois.justice.gc.ca/fra/lois/F-11/page-30.html">I</a>, <a href="https://laws-lois.justice.gc.ca/fra/lois/F-11/page-31.html">I.1</a> et <a href="https://laws-lois.justice.gc.ca/fra/lois/F-11/page-32.html">II</a> de la <cite>Loi sur la gestion des finances publiques</cite>.</p>
-  <p>Ces organisations doivent respecter les normes décrites dans ce guide lorsqu'elles élaborent des sites Web ou des services numériques destinés au public, et ce, peu importe la technologie, le nom de domaine ou la plateforme qu'elles utilisent.</p>
+  <p>Tous les ministères et les autres secteurs de l’administration publique fédérale qui sont assujettis à la Directive sur la gestion des communications doivent appliquer le Guide de rédaction du contenu du site Canada.ca . Ces organisations doivent respecter les normes décrites dans ce guide lorsqu’elles élaborent des sites Web ou des services numériques destinés au public, et ce, peu importe la technologie, le nom de domaine ou la plateforme qu’elles utilisent. Cette exigence est prévue à l’annexe D, Procédure obligatoire relative à l’utilisation des médias sociaux et aux communications sur le Web, de <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">la Directive sur la gestion des communications</a>.</p>
   <h3>Institutions non visées par le présent guide</h3>
-  <p>Les institutions qui ne sont pas visées par les annexes I, I.1, et II de la <cite>Loi sur la gestion des finances publiques</cite> n'ont pas à suivre le présent guide. Toutefois, elles sont encouragées à le faire pour leurs produits Web internes et externes. Le fait de respecter les règles et les conseils décrits dans ce guide permettra de rendre le contenu Web du gouvernement facile à trouver, à comprendre et à utiliser pour toute personne.</p>
+  <p>Les institutions qui ne sont pas visées par la Directive sur la gestion des communications n’ont pas à suivre le présent guide. Toutefois, elles sont encouragées à le faire pour leurs produits Web internes et externes. Le fait de respecter les règles et les conseils décrits dans ce guide permettra de rendre le contenu Web du gouvernement facile à trouver, à comprendre et à utiliser pour toute personne.</p>
 </section>
 <section>
   <h2 id="toc4">Politiques, normes et procédures connexes</h2>
@@ -919,10 +918,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <section>
   <h3 id="wp4-5">4.5 Forme contractée</h3>
   <p>Cette règle s’applique en anglais plutôt qu’en français. La forme contractée en français s’applique par défaut. En anglais, elle est facultative, mais elle est recommandée pour simplifier la lecture.</p>
-  <div class="well panel">
-    <p><a href="{{ site.urldesign }}/style-guide/#wp4-5" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-5" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
-  </div>
+  <p><a href="{{ site.urldesign }}/style-guide/#wp4-5" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+  <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-5" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
 </section>
 <section>
   <h3 id="wp4-6">4.6 Nombres </h3>
