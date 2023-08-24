@@ -118,8 +118,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Faire en sorte que le contenu est accessible signifie qu'un large éventail de personnes peut l'utiliser, y compris les personnes ayant des handicaps physiques et cognitifs (par exemple, les problèmes de dyslexie ou de mémoire, troubles du déficit de l'attention et les troubles d'apprentissage).</p>
       <p>Pour rendre votre contenu accessible, tenez compte du fonctionnement des technologies d'aide et de l'impact que certaines pratiques d'écriture peuvent avoir sur la capacité des gens à lire ou à comprendre le texte. De plus, n'oubliez pas de vous référer aux <cite><a href="http://www.w3.org/Translations/WCAG20-fr/">Règles pour l'accessibilité des contenus Web 2.0</a></cite>. </p>
       <h4 id="wp1-2-1b">Rédiger pour assurer l'inclusion</h4>
-      <p>La rédaction épicène devrait être votre pratique habituelle. Évitez autant que possible les références au genre.</p>
-      <p>Pour plus de conseils, notamment sur la façon d'écrire en anglais de façon inclusive, consultez l'article <a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/clefsfp/index-eng.html?lang=eng&amp;lettr=indx_catlog_e&amp;page=9CljS-UkLxu8.html#zz9CljS-UkLxu8">Écriture inclusive : correspondance</a>, du Bureau de la traduction.</p>
+      <p>La rédaction épicène devrait être votre pratique habituelle.</p>
+      <p>Pour plus de conseils, notamment sur la façon d’écrire en anglais de façon inclusive, consultez l’article&nbsp;:</p>
+      <ul>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources</a>, du Bureau de la traduction (en français seulement)</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing in English</a>, (en anglais seulement)</li>
+      </ul>
       <h4 id="wp1-2-2">Rédiger pour assurer la lisibilité</h4>
       <p>La lisibilité est la mesure dans laquelle un texte est clair et facile à comprendre. Un texte lisible facilite la réalisation des tâches et rehausse le degré de satisfaction de la personne.</p>
       <p>Pour assurer la lisibilité de votre contenu, tenez compte du niveau de lecture et des besoins en matière d'alphabétisation de votre public cible. La capacité de lire ou de comprendre un texte n'est pas la même pour tout le monde. Même si le contenu est présenté clairement et simplement, les gens qui ont un faible niveau d'alphabétisation peuvent éprouver des difficultés à saisir le texte. </p>
