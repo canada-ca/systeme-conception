@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2020-02-03
+dateModified: 2023-08-24
 description: "Ce guide établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -48,10 +48,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section>
   <h2 id="toc3">Application</h2>
-  <p>Le présent guide est mentionné dans la <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite>. Les normes qu'il contient s'appliquent aux ministères et aux autres organismes de l'administration publique fédérale figurant aux annexes <a href="https://laws-lois.justice.gc.ca/fra/lois/F-11/page-30.html">I</a>, <a href="https://laws-lois.justice.gc.ca/fra/lois/F-11/page-31.html">I.1</a> et <a href="https://laws-lois.justice.gc.ca/fra/lois/F-11/page-32.html">II</a> de la <cite>Loi sur la gestion des finances publiques</cite>.</p>
-  <p>Ces organisations doivent respecter les normes décrites dans ce guide lorsqu'elles élaborent des sites Web ou des services numériques destinés au public, et ce, peu importe la technologie, le nom de domaine ou la plateforme qu'elles utilisent.</p>
+  <p>Tous les ministères et les autres secteurs de l’administration publique fédérale qui sont assujettis à la Directive sur la gestion des communications doivent appliquer le Guide de rédaction du contenu du site Canada.ca. Ces organisations doivent respecter les normes décrites dans ce guide lorsqu’elles élaborent des sites Web ou des services numériques destinés au public, et ce, peu importe la technologie, le nom de domaine ou la plateforme qu’elles utilisent. Cette exigence est prévue à l’annexe D, Procédure obligatoire relative à l’utilisation des médias sociaux et aux communications sur le Web, de <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">la Directive sur la gestion des communications</a>.</p>
   <h3>Institutions non visées par le présent guide</h3>
-  <p>Les institutions qui ne sont pas visées par les annexes I, I.1, et II de la <cite>Loi sur la gestion des finances publiques</cite> n'ont pas à suivre le présent guide. Toutefois, elles sont encouragées à le faire pour leurs produits Web internes et externes. Le fait de respecter les règles et les conseils décrits dans ce guide permettra de rendre le contenu Web du gouvernement facile à trouver, à comprendre et à utiliser pour toute personne.</p>
+  <p>Les institutions qui ne sont pas visées par la Directive sur la gestion des communications n’ont pas à suivre le présent guide. Toutefois, elles sont encouragées à le faire pour leurs produits Web internes et externes. Le fait de respecter les règles et les conseils décrits dans ce guide permettra de rendre le contenu Web du gouvernement facile à trouver, à comprendre et à utiliser pour toute personne.</p>
 </section>
 <section>
   <h2 id="toc4">Politiques, normes et procédures connexes</h2>
@@ -119,8 +118,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Faire en sorte que le contenu est accessible signifie qu'un large éventail de personnes peut l'utiliser, y compris les personnes ayant des handicaps physiques et cognitifs (par exemple, les problèmes de dyslexie ou de mémoire, troubles du déficit de l'attention et les troubles d'apprentissage).</p>
       <p>Pour rendre votre contenu accessible, tenez compte du fonctionnement des technologies d'aide et de l'impact que certaines pratiques d'écriture peuvent avoir sur la capacité des gens à lire ou à comprendre le texte. De plus, n'oubliez pas de vous référer aux <cite><a href="http://www.w3.org/Translations/WCAG20-fr/">Règles pour l'accessibilité des contenus Web 2.0</a></cite>. </p>
       <h4 id="wp1-2-1b">Rédiger pour assurer l'inclusion</h4>
-      <p>La rédaction épicène devrait être votre pratique habituelle. Évitez autant que possible les références au genre.</p>
-      <p>Pour plus de conseils, notamment sur la façon d'écrire en anglais de façon inclusive, consultez l'article <a href="https://www.btb.termiumplus.gc.ca/tpv2guides/guides/clefsfp/index-eng.html?lang=eng&amp;lettr=indx_catlog_e&amp;page=9CljS-UkLxu8.html#zz9CljS-UkLxu8">Écriture inclusive : correspondance</a>, du Bureau de la traduction.</p>
+      <p>La rédaction épicène devrait être votre pratique habituelle.</p>
+      <p>Pour plus de conseils, notamment sur la façon d’écrire en anglais de façon inclusive, consultez l’article&nbsp;:</p>
+      <ul>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources</a>, du Bureau de la traduction (en français seulement)</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing in English</a> (en anglais seulement)</li>
+      </ul>
       <h4 id="wp1-2-2">Rédiger pour assurer la lisibilité</h4>
       <p>La lisibilité est la mesure dans laquelle un texte est clair et facile à comprendre. Un texte lisible facilite la réalisation des tâches et rehausse le degré de satisfaction de la personne.</p>
       <p>Pour assurer la lisibilité de votre contenu, tenez compte du niveau de lecture et des besoins en matière d'alphabétisation de votre public cible. La capacité de lire ou de comprendre un texte n'est pas la même pour tout le monde. Même si le contenu est présenté clairement et simplement, les gens qui ont un faible niveau d'alphabétisation peuvent éprouver des difficultés à saisir le texte. </p>
@@ -698,11 +701,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp4-4-1">Citer des exemples</a></li>
           </ul>
         </li>
-        <li><a href="#wp4-5">4.5 Nombres </a></li>
-        <li><a href="#wp4-6">4.6 Dates</a></li>
-        <li><a href="#wp4-7">4.7 Heures</a></li>
-        <li><a href="#wp4-8">4.8 Numéros de téléphone</a></li>
-        <li><a href="#wp4-9">4.9 Adresses</a></li>
+        <li><a href="#wp4-5">4.5 Forme contractée</a></li>
+        <li><a href="#wp4-6">4.6 Nombres</a></li>
+        <li><a href="#wp4-7">4.7 Dates</a></li>
+        <li><a href="#wp4-8">4.8 Heures</a></li>
+        <li><a href="#wp4-9">4.9 Numéros de téléphone</a></li>
+        <li><a href="#wp4-10">4.10 Adresses</a></li>
       </ul>
     </div>
   </div>
@@ -916,7 +920,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
 </section>
 <section>
-  <h3 id="wp4-5">4.5 Nombres </h3>
+  <h3 id="wp4-5">4.5 Forme contractée</h3>
+  <p>Cette règle s’applique en anglais plutôt qu’en français. La forme contractée en français s’applique par défaut. En anglais, elle est facultative, mais elle est recommandée pour simplifier la lecture.</p>
+  <p><a href="{{ site.urldesign }}/style-guide/#wp4-5" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+  <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-5" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
+</section>
+<section>
+  <h3 id="wp4-6">4.6 Nombres </h3>
   <section>
     <h4>Principes généraux</h4>
     <ul>
@@ -951,11 +961,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <div class="well panel"> 
     <!--UPDATE LATER-->
     <p><a href="{{ site.urldesign }}/style-guide/#wp4-6" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-5" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-6" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
-  <h3 id="wp4-6">4.6 Dates</h3>
+  <h3 id="wp4-7">4.7 Dates</h3>
   <ul>
     <li>Écrivez «&nbsp;31 juillet 2016&nbsp;» ou «&nbsp;31 juillet&nbsp;» si l'année est déjà clairement indiquée;
       <ul>
@@ -992,19 +1002,19 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp4-6" aria-label="Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20dates%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-6" aria-label="Diffusez la règle sur le style de présentation des dates par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp4-7" aria-label="Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20dates%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-7" aria-label="Diffusez la règle sur le style de présentation des dates par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
-  <h3 id="wp4-7">4.7 Heures</h3>
+  <h3 id="wp4-8">4.8 Heures</h3>
   <ul>
     <li>16 h 30</li>
     <li>De 9 h à 17 h</li>
   </ul>
 </section>
 <section>
-  <h3 id="wp4-8">4.8 Numéros de téléphone</h3>
+  <h3 id="wp4-9">4.9 Numéros de téléphone</h3>
   <p>Utilisez des tirets insécables (Ctrl+Shift+Tiret) pour les numéros de téléphone. Par exemple :</p>
   <ul>
     <li>pour obtenir de l'aide, composez le 1-800-622-6232</li>
@@ -1013,9 +1023,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </ul>
 </section>
 <section>
-  <h3 id="wp4-9">4.9 Adresses</h3>
+  <h3 id="wp4-10">4.10 Adresses</h3>
   <section>
-    <h4 id="wp4-9-1">Adresses postales</h4>
+    <h4 id="wp4-10-1">Adresses postales</h4>
     <ul>
       <li>Abrégez le type de rue et l'orientation de la rue.</li>
       <li>Utilisez l'<a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-f.asp#1378384">indicatif à deux lettres pour désigner la province ou le territoire</a>.</li>
@@ -1038,7 +1048,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
   </section>
   <section>
-    <h4 id="wp4-9-2">Adresses de courriel</h4>
+    <h4 id="wp4-10-2">Adresses de courriel</h4>
     <p>Écrivez les adresses de courriel au long au lieu de les intégrer dans le contenu.</p>
     <p><strong>Écrivez&nbsp;</strong>:</p>
     <ul>
@@ -1049,8 +1059,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <div class="well panel"> 
     <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp4-9" aria-label="Voyez comment la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20de%20l'heure,%20des%20numéros%20de%20téléphones%20et%20des%20adresses%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-9" aria-label="Diffusez la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses par courriel">Diffusez cette règle par courriel</a></p>
+    <p><a href="{{ site.urldesign }}/style-guide/#wp4-10" aria-label="Voyez comment la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
+    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20de%20l'heure,%20des%20numéros%20de%20téléphones%20et%20des%20adresses%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-10" aria-label="Diffusez la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses par courriel">Diffusez cette règle par courriel</a></p>
   </div>
 </section>
 <section>
