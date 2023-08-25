@@ -48,7 +48,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section>
   <h2 id="toc3">Application</h2>
-  <p>Tous les ministères et les autres secteurs de l’administration publique fédérale qui sont assujettis à la Directive sur la gestion des communications doivent appliquer le Guide de rédaction du contenu du site Canada.ca . Ces organisations doivent respecter les normes décrites dans ce guide lorsqu’elles élaborent des sites Web ou des services numériques destinés au public, et ce, peu importe la technologie, le nom de domaine ou la plateforme qu’elles utilisent. Cette exigence est prévue à l’annexe D, Procédure obligatoire relative à l’utilisation des médias sociaux et aux communications sur le Web, de <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">la Directive sur la gestion des communications</a>.</p>
+  <p>Tous les ministères et les autres secteurs de l’administration publique fédérale qui sont assujettis à la Directive sur la gestion des communications doivent appliquer le Guide de rédaction du contenu du site Canada.ca. Ces organisations doivent respecter les normes décrites dans ce guide lorsqu’elles élaborent des sites Web ou des services numériques destinés au public, et ce, peu importe la technologie, le nom de domaine ou la plateforme qu’elles utilisent. Cette exigence est prévue à l’annexe D, Procédure obligatoire relative à l’utilisation des médias sociaux et aux communications sur le Web, de <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">la Directive sur la gestion des communications</a>.</p>
   <h3>Institutions non visées par le présent guide</h3>
   <p>Les institutions qui ne sont pas visées par la Directive sur la gestion des communications n’ont pas à suivre le présent guide. Toutefois, elles sont encouragées à le faire pour leurs produits Web internes et externes. Le fait de respecter les règles et les conseils décrits dans ce guide permettra de rendre le contenu Web du gouvernement facile à trouver, à comprendre et à utiliser pour toute personne.</p>
 </section>
@@ -122,7 +122,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Pour plus de conseils, notamment sur la façon d’écrire en anglais de façon inclusive, consultez l’article&nbsp;:</p>
       <ul>
         <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources</a>, du Bureau de la traduction (en français seulement)</li>
-        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing in English</a>, (en anglais seulement)</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing in English</a> (en anglais seulement)</li>
       </ul>
       <h4 id="wp1-2-2">Rédiger pour assurer la lisibilité</h4>
       <p>La lisibilité est la mesure dans laquelle un texte est clair et facile à comprendre. Un texte lisible facilite la réalisation des tâches et rehausse le degré de satisfaction de la personne.</p>
@@ -1014,7 +1014,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </ul>
 </section>
 <section>
-  <h3 id="wp4-9">4.8 Numéros de téléphone</h3>
+  <h3 id="wp4-9">4.9 Numéros de téléphone</h3>
   <p>Utilisez des tirets insécables (Ctrl+Shift+Tiret) pour les numéros de téléphone. Par exemple :</p>
   <ul>
     <li>pour obtenir de l'aide, composez le 1-800-622-6232</li>
