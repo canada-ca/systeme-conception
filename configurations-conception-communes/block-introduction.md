@@ -20,132 +20,132 @@ title: Bloc d’introduction
     </ul>
 </section>
 <section>
-    <h2 id="use">When to use</h2>
-    <p>The introduction block pattern is a mandatory element for institutional landing pages and topic pages. It’s optional for other landing pages.</p>
+    <h2 id="use">Quand l’utiliser</h2>
+    <p>La configuration de conception du bloc d’introduction est un élément obligatoire pour les pages d’accueil institutionnelles et les pages de sujet. Elle est facultative pour les autres pages d’accueil.</p>
 </section>
 <section>
-    <h2 id="avoid">What to avoid</h2>
-    <p>Don’t use this on destination pages when people are trying to complete a task.</p>
+    <h2 id="avoid">Quoi éviter</h2>
+    <p>Ne l’utilisez pas sur les pages de destination lorsque les gens tentent d’accomplir une tâche.</p>
 </section>
 <section>
-    <h2 id="design">Content and design</h2>
-    <p>Find content and design specifications and visual examples.</p>
-    <h3>Content specifications</h3>
-    <p>The introduction block pattern consists of:</p>
+    <h2 id="design">Contenu et conception</h2>
+    <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
+    <h3>Spécifications de contenu</h3>
+    <p>La configuration de conception du bloc d’introduction consiste en ce qui suit&nbsp;:</p>
     <ul>
-        <li><a href="#title">title</a></li>
-        <li><a href="#short-desc">short description</a></li>
+        <li><a href="#titre">titre</a></li>
+        <li><a href="#desc-courte">description courte</a></li>
     </ul>
-    <p>It can also include:</p>
+    <p>Elle peut également inclure ces éléments&nbsp;:</p>
     <ul>
         <li><a href="#image">image</a></li>
-        <li><a href="#super-task">super task button</a></li>
+        <li><a href="#super-task">bouton de super-tâche </a></li>
     </ul>
-    <h4 id="title">Title</h4>
-    <p>The page title should be descriptive and unique, but brief.</p>
-    <p>Don’t use acronyms or abbreviations in the title.</p>
-    <h4 id="short-desc">Short description</h4>
-    <p>Keep the text short and concise, 1 or 2 lines is ideal.</p>
+    <h4 id="titre">Titre</h4>
+    <p>Le titre de la page doit être descriptif et unique, mais bref.</p>
+    <p>N’utilisez pas d’acronymes ou d’abréviations dans le titre.</p>
+    <h4 id="desc-courte">Description courte</h4>
+    <p>Le texte doit être court et concis, idéalement sur une ou deux lignes.</p>
     <ul>
-        <li>approximately 145 characters with spaces</li>
+        <li>Environ 145 caractères avec les espaces</li>
     </ul>
-    <p>Write in plain language.</p>
+    <p>Rédigez dans un langage clair et simple.</p>
     <h4 id="image">Image</h4>
-    <p>Only use decorative images because the image is hidden on small screens.</p>
-    <p>Don't apply a link to the image, use the featured link pattern instead.</p>
+    <p>N’utilisez que des images décoratives, car l’image est cachée sur les petits écrans.</p>
+    <p>N’appliquez pas de lien à l’image; utilisez plutôt la configuration de conception d’un lien en vedette.</p>
     <ul>
-        <li><a href="./featured-link.html">Featured link pattern</a></li>
+        <li><a href="./lien-vedette.html">Configuration de conception d’un lien en vedette</a></li>
     </ul>
-    <p>Limit use of text in images.</p>
+    <p>Limitez l’usage du texte dans les images.</p>
     <ul>
-        <li><a href="http://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html">Consult the Canada.ca Style Guide</a> for further guidance on images.</li>
+        <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html">Consultez le Guide de rédaction du contenu du site Canada.ca</a> pour obtenir d’autres conseils sur les images.</li>
     </ul>
-    <h4 id="super-task">Super task button</h4>
-    <p>Only include a super task button if there’s a specific task that has at least 1/3 of the clickthrough rate from the page.</p>
-    <p>Find out how to use a super task button:</p>
+    <h4 id="super-task">Bouton de super-tâche</h4>
+    <p>N’incluez un bouton de super-tâche que s’il y a une tâche précise qui représente au moins le tiers du taux de clics provenant de la page.</p>
+    <p>Découvrez comment utiliser un bouton de super-tâche&nbsp;:</p>
     <ul>
-        <li><a href="https://design.canada.ca/common-design-patterns/buttons.html">Buttons - Canada.ca design pattern</a></li>
+        <li><a href="https://conception.canada.ca/configurations-conception-communes/boutons.html">Boutons - Configuration de conception de Canada.ca</a></li>
     </ul>
-    <h3>Design specifications</h3>
+    <h3>Spécifications de conception</h3>
     <ul>
         <li>
-            Title and short description
+            Titre et description courte
             <ul>
-                <li>The title is an H1 and the short description uses body text</li>
-                <li>Use <a href="https://design.canada.ca/styles/typography.html">standard typography styles</a></li>
+                <li>Le titre utilise la classe H1, et la description courte utilise le texte du corps.</li>
+                <li>Utilisez les <a href="https://conception.canada.ca/styles/typographie.html">styles typographiques standards</a>.</li>
             </ul>
         </li>
         <li>
             Image
             <ul>
-                <li>1200px by 726px</li>
-                <li>Image ratio: 1.65:1</li>
-                <li>Visible on large screens, but hidden on medium and small screens</li>
-                <li>Treated as a background image and positioned to the right</li>
+                <li>1200&nbsp;px sur 726&nbsp;px</li>
+                <li>Rapport de l’image : 1,65:1</li>
+                <li>Visible sur les grands écrans, mais caché sur les moyens et les petits écrans</li>
+                <li>Traité comme une image d’arrière-plan et positionné à droite</li>
             </ul>
         </li>
         <li>
-            Supertask button
+            Bouton de super-tâche
             <ul>
-                <li><a href="https://design.canada.ca/common-design-patterns/buttons.html#action">See details for the supertask button</a></li>
+                <li><a href="https://conception.canada.ca/configurations-conception-communes/boutons.html#action">Voir les détails sur le bouton de super-tâche</a></li>
                 <li></li>
             </ul>
         </li>
     </ul>
-    <h4>Accessibility</h4>
+    <h4>Accessibilité</h4>
     <ul>
-        <li>If you’re superimposing text over an image, ensure there’s a contrast ratio of at least 4.5:1.</li>
+        <li>Si vous superposez du texte à une image, veillez à ce que le rapport de contraste soit d’au moins 4,5:1.</li>
     </ul>
-    <h3>Visual examples</h3>
+    <h3>Exemples visuels</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Introduction block - Large screen</b></figcaption>
-            <img src="../images/intro-block-en.png" class="img-responsive" alt="Introduction block pattern for large screens. Text version below:" />
+            <figcaption><b>Bloc d’introduction – grand écran</b></figcaption>
+            <img src="../images/intro-block-fr.png" class="img-responsive" alt="Introduction block pattern for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
-                <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate.</p>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+                <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution.</p>
             </details>
         </figure>
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Introduction block - small screen</b></figcaption>
-            <img src="../images/intro-block-sm-en.png" class="img-responsive" alt="Introduction block pattern for small screens. Text version below:" />
+            <figcaption><b>Bloc d’introduction – petit écran</b></figcaption>
+            <img src="../images/intro-block-sm-fr.png" class="img-responsive" alt="Introduction block pattern for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description:</summary>
-                <p>The introduction block appears below the global header and the Canada.ca breadcrumb. It consists of an h1 for Institution name and a short description of the institution’s mandate.</p>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+                <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution.</p>
             </details>
         </figure>
     </div>
 </section>
 <section>
-    <h2 id="implement">How to implement</h2>
+    <h2 id="implement">Comment procéder à la mise en œuvre</h2>
     <mark>we need the right text for here linking to the GCWeb example</mark>
-    <h3>Implementations</h3>
-    <p>Determine what best suits the type of page you're creating.</p>
+    <h3>Mises en œuvre</h3>
+    <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
     <div class="row">
         <div class="col-md-8">
             <div class="wb-tabs mrgn-tp-lg">
                 <div class="tabpanels">
                     <details id="004" open="open">
                         <summary><strong>GC-AEM</strong></summary>
-                        <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
+                        <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
                         <ul>
-                            <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+                            <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
                         </ul>
                     </details>
                     <details id="005">
-                        <summary><strong>CDTS</strong></summary>
-                        <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
+                        <summary><strong>SGDC</strong></summary>
+                        <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
                         <ul>
-                            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+                            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
                         </ul>
                     </details>
                     <details id="006">
                         <summary><strong>Drupal WxT</strong></summary>
-                        <p class="mrgn-tp-lg">For Drupal WxT:</p>
+                        <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
                         </ul>
                     </details>
                 </div>
@@ -154,28 +154,27 @@ title: Bloc d’introduction
     </div>
 </section>
 <section>
-    <h2 id="research">Research and rationale</h2>
-    <p>Consult research findings and policy rationale.</p>
-    <h3>Research fidings</h3>
-    <p><a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html">Research summary: Contact the CRA</a></p>
-    <p>Canada Revenue Agency and DTO developed the introduction block as part of the optimization project for CRA contacts.</p>
+    <h2 id="research">Recherche et justification</h2>
+    <p>Consultez les conclusions de la recherche et la justification de la politique.</p>
+    <h3>Constatations découlant de la recherche</h3>
+    <p><a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">Résumé de recherche : Communiquer avec l’ARC</a></p>
+    <p>L’Agence du revenu du Canada (ARC) et le Bureau de la transformation numérique ont élaboré le bloc d’introduction dans le cadre du projet d’optimisation des contacts avec l’ARC.</p>
     <p>
-        We found the introduction block design to be useful on institutional landing pages, especially in situations where a supertask button is needed. Check the research summary for additional information about other aspects of the
-        project.
+        Nous avons constaté que la configuration de conception du bloc d’introduction était utile sur les pages d’accueil institutionnelles, en particulier dans les situations où un bouton de super-tâche est nécessaire. Consultez le résumé de recherche pour en savoir plus sur d’autres aspects du projet.
     </p>
-    <h3>Policy rationale</h3>
-    <p>The introduction block pattern is required in the following mandatory templates:</p>
+    <h3>Justification stratégique</h3>
+    <p>La configuration de conception du bloc d’introduction est requise dans les modèles obligatoires suivants&nbsp;:</p>
     <ul>
-        <li><a href="">Institutional landing page</a></li>
-        <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
+        <li><a href="">Modèle de page d’accueil institutionnelle</a></li>
+        <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html">Modèle de page de thème et de sujet</a></li>
     </ul>
 </section>
 <section>
-    <h2 id="latest">Latest changes</h2>
+    <h2 id="latest">Derniers changements</h2>
     <dl class="dl-horizontal">
         <dt>
             <time datetime="2023-08-20" class="link-muted">2023-08-20</time>
         </dt>
-        <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance</dd>
+        <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
     </dl>
 </section>
