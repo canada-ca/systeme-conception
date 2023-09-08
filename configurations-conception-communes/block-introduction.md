@@ -5,19 +5,18 @@ dateModified: 2023-08-20
 description: Orientation sur l’utilisation de la configuration de conception du bloc d’introduction sur Canada.ca.
 title: Bloc d’introduction
 ---
-<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-<p>The introduction block pattern introduces the content of a landing page.</p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/intro-block-full-en.png" class="img-responsive" alt="" /></div>
+<p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
+<p>La configuration de conception du bloc d’introduction introduit le contenu d’une page d’accueil.</p>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/intro-block-full-fr.png" class="img-responsive" alt="" /></div>
 <section>
-    <h2>On this page</h2>
+    <h2>Sur cette page</h2>
     <ul>
-        <li><a href="#use">When to use</a></li>
-        <li><a href="#avoid">What to avoid</a></li>
-        <li><a href="#design">Content and design</a></li>
-        <li><a href="#implement">How to implement</a></li>
-        <li><a href="#research">Research and rationale</a></li>
-        <li><a href="#latest">Latest changes</a></li>
-        <li><a href="#discuss">Discussion</a></li>
+        <li><a href="#use">Quand l’utiliser</a></li>
+        <li><a href="#avoid">Quoi éviter</a></li>
+        <li><a href="#design">Contenu et conception</a></li>
+        <li><a href="#implement">Comment procéder à la mise en œuvre</a></li>
+        <li><a href="#research">Recherche et justification</a></li>
+        <li><a href="#latest">Derniers changements</a></li>
     </ul>
 </section>
 <section>
