@@ -295,7 +295,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/amelioration-continue/mesure/retroaction.html\">Outil de rétroaction sur la page</a>",
+      "NAME": "<a href=\"{{ site.url }}/retroaction/index.html\">Outil de rétroaction sur la page</a>",
       "SOURCE": "Amélioration continue",
       "DESCRIPTION": "L'outil de rétroaction est un modèle facultatif pour découvrir les problèmes spécifiques au niveau de la page qui affectent la performance de la tâche.",
       "WHENTOUSE": "L'outil de r&eacute;troaction est un mod&egrave;le facultatif pour d&eacute;couvrir les probl&egrave;mes sp&eacute;cifiques au niveau de la page qui affectent la performance de la t&acirc;che.",
