@@ -133,8 +133,8 @@ title: "Suivi et mesure du succès"
 
 <ul>
  <li>
-  <a href="./mesure/retroaction.html">
-   Rétroaction sur la page (pilote) - Expérimental
+  <a href="https://conception.canada.ca/retroaction/index.html">
+   Rétroaction sur la page 
   </a>
  </li>
  <li>
@@ -162,8 +162,3 @@ title: "Suivi et mesure du succès"
 <p>
  Au fil du temps, les programmes et les politiques évoluent et votre contenu devra être modifié en conséquence. Chaque changement offre une nouvelle occasion de rechercher, de créer un prototype et de tester les solutions avant de les mettre en ligne.
 </p>
-
-
-
-
-
