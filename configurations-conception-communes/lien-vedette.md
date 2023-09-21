@@ -1,9 +1,9 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/services-information.html
-date: null
-dateModified: '2018-12-19'
-description: null
-title: Services et renseignements - Configuration de conception de Canada.ca
+date: "2018-12-19"
+dateModified: "2023-09-21"
+description: "Orientation sur l’utilisation de la configuration de conception d’un lien en vedette sur Canada.ca."
+title: Configuration de conception d’un lien en vedette
 ---
 
 
