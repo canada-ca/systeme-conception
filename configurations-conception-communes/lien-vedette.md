@@ -76,8 +76,8 @@ title: "Lien en vedette"
     </figure>
   </div>
 </section>
-<section>
-  <h2 id="œuvre">Comment procéder à la mise en œuvre</h2>
+<section id="œuvre">
+  <h2>Comment procéder à la mise en œuvre</h2>
   <p>Trouvez des exemples pratiques et de code pour mettre en œuvre le lien en vedette, y compris la fonctionnalité d’affichage aléatoire.</p>
   <h3>GCWeb</h3>
   <ul>
