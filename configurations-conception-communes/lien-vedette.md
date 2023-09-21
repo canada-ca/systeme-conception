@@ -68,7 +68,7 @@ title: Configuration de conception d’un lien en vedette
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Lien en vedette - grand écran</b></figcaption>
-      <img src="/images/featured-link-fr.png" class="img-responsive" alt="Lien en vedette pour les grands écrans. Version texte ci-dessous :" />
+      <img src="/images/feature-link-fr.png" class="img-responsive" alt="Lien en vedette pour les grands écrans. Version texte ci-dessous :" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
         <p>Un lien en vedette est affiché dans une bande bleue qui s’étend sur toute la longueur de l’écran. Au-dessus du lien en vedette figure le nom du ministère (Ressources naturelles Canada), suivi d’une brève description du ministère. Sous le lien en vedette se trouve le titre En demande suivi de trois liens.</p>
