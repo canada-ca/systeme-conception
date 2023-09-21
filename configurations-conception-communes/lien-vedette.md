@@ -7,9 +7,7 @@ title: "Lien en vedette"
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>Le lien en vedette est un hyperlien court et descriptif que votre institution doit mettre en évidence.</p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl">
-  <figure class="mrgn-tp-md mrgn-bttm-lg"><img src="/images/featured-link-generic-fr.png" class="img-responsive" alt="" /></figure>
-</div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/featured-link-generic-fr.png" class="img-responsive" alt="" /></div>
 <section>
   <h2>Sur cette page</h2>
   <ul>
