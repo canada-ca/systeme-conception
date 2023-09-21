@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/common-design-patterns/services-informatio
 date: "2018-12-19"
 dateModified: "2023-09-21"
 description: "Orientation sur l’utilisation de la configuration de conception d’un lien en vedette sur Canada.ca."
-title: Configuration de conception d’un lien en vedette
+title: "Lien en vedette"
 ---
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 <p>Le lien en vedette est un hyperlien court et descriptif que votre institution doit mettre en évidence.</p>
