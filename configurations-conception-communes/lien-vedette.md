@@ -5,7 +5,7 @@ dateModified: "2023-09-21"
 description: "Orientation sur l’utilisation de la configuration de conception d’un lien en vedette sur Canada.ca."
 title: "Lien en vedette"
 ---
-<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
+<p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>Le lien en vedette est un hyperlien court et descriptif que votre institution doit mettre en évidence.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/featured-link-generic-fr.png" class="img-responsive" alt="" /></div>
 <section>
