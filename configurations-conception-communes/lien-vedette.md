@@ -5,271 +5,138 @@ dateModified: "2023-09-21"
 description: "Orientation sur l’utilisation de la configuration de conception d’un lien en vedette sur Canada.ca."
 title: Configuration de conception d’un lien en vedette
 ---
-
-
-<p class="gc-byline">
- <strong>
-  De :
-  <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-   Secrétariat du Conseil du Trésor du Canada
-  </a>
- </strong>
-</p>
-
+<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
+<p>Le lien en vedette est un hyperlien court et descriptif que votre institution doit mettre en évidence.</p>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/featured-link-generic-fr.png" class="img-responsive" alt="" /></div>
 <section>
- <p>
-  Services et renseignements est un motif pour présenter des ensembles de liens avec des descriptions connexes. Chaque lien accompagné de sa description fournit une description exacte et concise de ce que l’utilisateur trouvera dans la page de destination. De concert, ces ensembles de liens et descriptions fournissent des choix clairs et distincts pour les personnes qui essaient d’achever leur tâche.
- </p>
- <section>
-  <h2>
-   Quand utiliser cette configuration
-  </h2>
+  <h2>Sur cette page</h2>
   <ul>
-   <li>
-    Utilisez ce modèle pour fournir des liens aux sujets ou au contenu de destination liés à la page où il se trouve.
-   </li>
-   <li>
-    Utilisez-le lorsque l’objectif principal de la page est de fournir des choix clairs pour naviguer vers des tâches.
-   </li>
+    <li><a href="#utiliser">Quand l’utiliser</a></li>
+    <li><a href="#avoid">Quoi éviter</a></li>
+    <li><a href="#contenu">Contenu et conception</a></li>
+    <li><a href="#œuvre">Comment procéder à la mise en œuvre</a></li>
+    <li><a href="#recherche">Recherche et justification</a></li>
+    <li><a href="#changements">Derniers changements</a></li>
   </ul>
- </section>
- <section>
-  <h2>
-   Comment utiliser cette configuration
-  </h2>
-  <section>
-   <h3>
-    Exigences en matière de contenu
-   </h3>
-   <ul>
-    <li>
-     Le contenu pour chaque combinaison de lien et de description est rédigé pour un niveau scolarité secondaire (pointage de 100 et moins dans
-     <a href="http://www.scolarius.com/">
-      Scolarius
-     </a>
-     ).
-    </li>
-    <li>
-     Gardez la ponctuation simple.
-    </li>
-    <li>
-     Utilisez des mots clés populaires que le public cible connaîtra et utilisera probablement; fondez vos choix sur la recherche et des données probantes.
-    </li>
-    <li>
-     N’utilisez pas d’acronymes ou d’abréviations, à moins que la plupart des gens les connaissent mieux que l’équivalent en forme longue.
-    </li>
-    <li>
-     Consultez le
-     <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html">
-      Guide de rédaction du contenu du site Canada.ca
-     </a>
-     pour d’autres renseignements sur la rédaction de contenu pour ce modèle.
-    </li>
-   </ul>
-  </section>
-  <section>
-   <h3>
-    Exigences relatives aux liens
-   </h3>
-   <ul>
-    <li>
-     Le texte du lien doit être logique dans le contexte de la page.
-     <ul>
-      <li>
-       Il n’est pas obligé de correspondre exactement au titre de la page de destination.
-      </li>
-      <li>
-       Il n’est pas obligé d’être unique dans tout le site Canada.ca.
-      </li>
-      <li>
-       Il doit être descriptif, unique dans la page, et clairement distinct des autres liens sur la page.
-      </li>
-      <li>
-       Ne mettez pas de ponctuation la fin du texte du lien (par exemple, « Comment présenter une demande de financement? »)
-      </li>
-      <li>
-       Le texte du lien doit s’adresser à une personne (par exemple, « Présentez une demande de financement »)
-      </li>
-     </ul>
-    </li>
-    <li>
-     La limite de caractères optimale pour les liens est de 45 caractères (y compris les espaces) dans les deux langues officielles, mais elle peut aller jusqu’à 75 caractères (avec les espaces).
-    </li>
-    <li>
-     Utilisez les styles de lien normalisés comme définis dans la Boîte à outils de l’expérience Web (BOEW).
-    </li>
-   </ul>
-  </section>
-  <section>
-   <h3>
-    Descriptions des liens
-   </h3>
-   <ul>
-    <li>
-     La description du lien complète le lien qu’il accompagne pour fournir plus de détails et de précisions sur la portée du lien.
-     <ul>
-      <li>
-       Le style recommandé est d’énumérer les mots clés ou les expressions clés séparés par des virgules; les phrases complètes ne sont pas nécessaires.
-      </li>
-      <li>
-       N’utilisez pas de phrases d’introduction comme « Comprend… », « Renseignements sur… » ou « Apprenez-en plus au sujet de… ».
-      </li>
-      <li>
-       N’incluez pas de liens.
-      </li>
-      <li>
-       N’incluez pas de messages promotionnels.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Les descriptions de lien ne doivent pas dépasser 120 caractères (y compris les espaces) dans les deux langues officielles.
-    </li>
-    <li>
-     Les menus déroulants sont autorisés à la place d’une description de lien dans des circonstances particulières :
-     <ul>
-      <li>
-       s’ils permettent de fournir un accès à un grand nombre d’éléments au même niveau (par exemple, des listes de pays ou d’espèces);
-      </li>
-      <li>
-       si la page de destination comprend principalement une liste de liens, et que l’on peut entièrement la remplacer par le menu déroulant.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Utilisez seulement les styles de présentation normalisés définis dans la
-     <abbr title="Boîte à outils de l’expérience Web">
-      BOEW
-     </abbr>
-     .
-    </li>
-   </ul>
-  </section>
-  <section>
-   <h3>
-    Regrouper des ensembles de liens avec des descriptions connexes
-   </h3>
-   <p>
-    On peut utiliser les styles suivants :
-   </p>
-   <ul>
-    <li>
-     Fondé sur la demande
-     <ul>
-      <li>
-       La priorisation est fondée sur la demande (par exemple, en fonction de l’analytique Web), avec des liens à forte demande s’affichant avant ceux à faible demande.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Séquentiel
-     <ul>
-      <li>
-       Utilisez les menus d’accueil thématiques séquentiels et numérotés si les liens doivent être suivis dans un ordre étape par étape (par exemple, confirmer l’admissibilité, s’inscrire, puis imposer la TPS/TVH).
-      </li>
-      <li>
-       Utilisez ce style pour permettre aux personnes de sauter les étapes facultatives ou non applicables ou les étapes déjà effectuées.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Sous-titres
-     <ul>
-      <li>
-       Utilisez-les pour regrouper les liens et les descriptions qui sont très similaires, au cas où il ne serait pas logique de déplacer le groupe dans une page de sous-sujet.
-      </li>
-      <li>
-       Utilisez-les pour éviter la surcharge de renseignements; idéalement pas plus de neuf liens avec des descriptions par sous-titre.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Combinaison des styles précédents, le cas échéant; toutefois, limitez l’application pour éviter des ensembles trop complexes de liens et de descriptions.
-    </li>
-   </ul>
-   <p>
-    Dans tous les cas, le classement prioritaire est comme suit :
-   </p>
-   <ul>
-    <li>
-     Dans une présentation à colonne unique, le classement prioritaire est du haut en bas.
-    </li>
-    <li>
-     Dans une présentation à plusieurs colonnes, le classement prioritaire est de gauche à droite, puis de haut en bas.
-    </li>
-   </ul>
-  </section>
- </section>
- <section>
-  <h2>
-   Exemple concret
-  </h2>
-  <ul>
-   <li>
-    <a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-fr.html">
-     Page de sujet
-    </a>
-   </li>
-  </ul>
- </section>
- <section class="panel panel-primary">
-  <header class="panel-heading">
-   <h3 class="panel-title">
-    Exemples
-   </h3>
-  </header>
-  <div class="panel-body">
-   <div class="row">
-    <div class="col-sm-6">
-     <figure class="mrgn-bttm-sm">
-      <figcaption class="text-center">
-       <b>
-        Modèle de liens de menu d’accueil thématique dans un modèle à deux colonnes
-       </b>
-      </figcaption>
-      <img alt="Capture d’écran illustrant un ensemble de liens de menu d’accueil thématique en deux colonnes dans le site Canada.ca. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-2column-fra.jpg"/>
-     </figure>
-    </div>
-    <div class="col-sm-6">
-     <figure class="mrgn-bttm-sm">
-      <figcaption class="text-center">
-       <b>
-        Modèle de liens de menu d’accueil thématique dans un modèle à une colonne
-       </b>
-      </figcaption>
-      <img alt="Capture d’écran illustrant un ensemble de liens de menu d’accueil thématique dans une colonne dans le site Canada.ca. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-1column-fra.jpg"/>
-     </figure>
-    </div>
-   </div>
-   <div class="clearfix">
-   </div>
-   <div class="row mrgn-tp-sm">
-    <div class="col-sm-6">
-     <figure class="mrgn-bttm-sm">
-      <figcaption class="text-center">
-       <b>
-        Modèle de liens séquentiels de menu d’accueil thématique dans un modèle à une colonne
-       </b>
-      </figcaption>
-      <img alt="Capture d’écran illustrant un ensemble de liens séquentiels de menu d’accueil thématique dans une seule colonne. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-sequential-fra.jpg"/>
-     </figure>
-    </div>
-    <div class="col-sm-6">
-     <figure class="mrgn-bttm-sm">
-      <figcaption class="text-center">
-       <b>
-        Modèle de liens de menu d’accueil thématique dans un modèle de deux colonnes regroupées avec des en-têtes
-       </b>
-      </figcaption>
-      <img alt="Capture d’écran illustrant un ensemble de liens de menu d’accueil thématique dans un modèle de deux colonnes regroupées dans le site Canada.ca. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-headings-fra.jpg"/>
-     </figure>
-    </div>
-   </div>
-  </div>
- </section>
 </section>
-
-
-
-
-
+<section id="utiliser">
+  <h2>Quand l’utiliser</h2>
+  <p>Utilisez la configuration de conception d’un lien en vedette afin de promouvoir des éléments importants de nature temporaire, tels qu’une déclaration sur le jour du Souvenir.</p>
+  <p>Utilisez cette configuration de conception uniquement sur les pages de navigation.</p>
+  <p>Vous pouvez gérer plusieurs liens dans l’emplacement du lien en vedette en les rendant aléatoires à chaque visite de la page.</p>
+</section>
+<section id="eviter">
+  <h2>Quoi éviter</h2>
+  <p>N’utilisez pas cette configuration de conception lorsque vous souhaitez que les gens restent sur la page et accomplissent leur tâche.</p>
+  <p>N’incluez pas d’images dans cette section.</p>
+  <p>N’incluez pas plus d’un lien dans la configuration de conception.</p>
+  <p>N’incluez pas plus d’une section de lien en vedette sur une page.</p>
+</section>
+<section id="contenu">
+  <h2>Contenu et conception</h2>
+  <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
+  <h3>Spécifications de contenu</h3>
+  <p>Dans cette configuration de conception, alignez le texte à gauche.</p>
+  <p>Utilisez du texte de lien descriptif pour que l’utilisateur sache clairement où il ira s’il clique sur le lien</p>
+  <h3>Spécifications de conception</h3>
+  <ul>
+    <li> Texte&nbsp;:
+      <ul>
+        <li>Couleur&nbsp;: #FFF</li>
+        <li>Couleur&nbsp;: Lato Sans</li>
+        <li>Font size&nbsp;: 20px</li>
+      </ul>
+    </li>
+    <li> Arrière-plan&nbsp;:
+      <ul>
+        <li>Couleur par défaut&nbsp;: #31708F</li>
+        <li>Opacité&nbsp;: 0.9</li>
+        <li>Marges intérieures (padding)&nbsp;:
+          <ul>
+            <li>Bas&nbsp;: 15px</li>
+            <li>Haut&nbsp;: 15px</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <p>Vous pouvez changer la couleur de fond pour l’adapter à vos besoins.</p>
+  <h4>Accessibilité</h4>
+  <p>Le titre &laquo;&nbsp;En vedette&nbsp;&raquo; doit avoir la classe wb-inv; ainsi, il ne sera pas visible, mais sera tout de même présent pour le plan sémantique et les lecteurs d’écran.</p>
+  <p>Si vous changez la couleur de fond, veillez à ce que le rapport de contraste soit d’au moins 4,5:1.</p>
+  <h3>Exemples visuels</h3>
+  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+    <figure class="mrgn-tp-md mrgn-bttm-lg">
+      <figcaption><b>Lien en vedette - grand écran</b></figcaption>
+      <img src="/images/featured-link-fr.png" class="img-responsive" alt="Lien en vedette pour les grands écrans. Version texte ci-dessous :" />
+      <details>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <p>Un lien en vedette est affiché dans une bande bleue qui s’étend sur toute la longueur de l’écran. Au-dessus du lien en vedette figure le nom du ministère (Ressources naturelles Canada), suivi d’une brève description du ministère. Sous le lien en vedette se trouve le titre En demande suivi de trois liens.</p>
+      </details>
+    </figure>
+  </div>
+</section>
+<section>
+  <h2 id="œuvre">Comment procéder à la mise en œuvre</h2>
+  <p>Trouvez des exemples pratiques et de code pour mettre en œuvre le lien en vedette, y compris la fonctionnalité d’affichage aléatoire.</p>
+  <h3>GCWeb</h3>
+  <ul>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-featured-link/gc-featured-link-fr.html">Lien en vedette - Canada.ca</a></li>
+  </ul>
+  <h3>Affichage aléatoire dans la BOEW</h3>
+  <ul>
+    <li><a href="https://wet-boew.github.io/v4.0-ci/demos/wb-randomize/wb-randomize-en.html">Aléatoire</a> - exemples pratiques et code</li>
+    <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
+  </ul>
+  <h3>Mises en oeuvre</h3>
+  <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
+  <div class="row">
+    <div class="col-md-8">
+      <div class="wb-tabs mrgn-tp-lg">
+        <div class="tabpanels">
+          <details id="004" open="open">
+            <summary><strong>GC-AEM</strong></summary>
+            <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
+            <ul>
+              <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
+            </ul>
+          </details>
+          <details id="005">
+            <summary><strong>CDTS</strong></summary>
+            <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
+            <ul>
+              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
+            </ul>
+          </details>
+          <details id="006">
+            <summary><strong>Drupal WXT</strong></summary>
+            <p class="mrgn-tp-lg">Pour Drupal WXT&nbsp;:</p>
+            <ul>
+              <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
+            </ul>
+          </details>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="recherche">
+  <h2>Recherche et justification</h2>
+  <h3>Constatations découlant de la recherche</h3>
+  <p>Le lien en vedette est un moyen contrôlé d’offrir un espace promotionnel &laquo;&nbsp;au-dessus du pli&nbsp;&raquo; sur les pages d’accueil.</p>
+  <h3>Justification stratégique</h3>
+  <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
+  <ul>
+    <li>Page d’accueil institutionnelle</li>
+    <li>Page d’accueil de Canada.ca</li>
+  </ul>
+</section>
+<section id="changements">
+  <h2>Derniers changements</h2>
+  <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2023-09-21" class="link-muted">2023-09-21</time>
+    </dt>
+    <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
+  </dl>
+</section>
