@@ -89,7 +89,7 @@ title: "Chaînes de médias sociaux"
             <tr>
               <td>Facebook</td>
               <td><p>facebook</p></td>
-              <td class="text-center"><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg"><div class="facebook"></div></a></td>
+              <td class="text-center"><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg" class="facebook"><span class="wb-inv">Facebook</span></a></td>
             </tr>
             <tr>
               <td>Twitter</td>
