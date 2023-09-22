@@ -22,7 +22,7 @@ title: "Chaînes de médias sociaux"
 <section id="utiliser">
   <h2>Quand l’utiliser</h2>
   <p>Utilisez la configuration de conception des chaînes de médias sociaux sur les pages afin de promouvoir les comptes de médias sociaux officiels du gouvernement du Canada (GC) qui sont pertinents par rapport à la page.</p>
-  <p>Exemples :</p>
+  <p>Exemples&nbsp;:</p>
   <ul>
     <li>Page d’accueil institutionnelle</li>
     <li>Blogue</li>
@@ -44,7 +44,7 @@ title: "Chaînes de médias sociaux"
     <li>L’affichage vertical comprend une étiquette à côté de chaque icône.</li>
     <li>L’affichage horizontal ne comprend que les icônes.</li>
   </ul>
-  <p>S’il y a plus d’un compte pour une plateforme :</p>
+  <p>S’il y a plus d’un compte pour une plateforme&nbsp;:</p>
   <ul>
     <li>Indiquez le nom de la plateforme à côté de son icône (affichage vertical seulement).</li>
     <li>Utilisez une fenêtre contextuelle modale pour afficher le nom de chaque compte sur cette plateforme.
@@ -59,13 +59,13 @@ title: "Chaînes de médias sociaux"
   <ul>
     <li>Spécifications de conception de la fenêtre contextuelle modale
       <ul>
-        <li>Couleur de fond de l’en-tête modal : #2e5274</li>
-        <li>Titre : H2, Lato, le style de la taille de police est de 1.15 em</li>
+        <li>Couleur de fond de l’en-tête modal&nbsp;: #2e5274</li>
+        <li>Titre&nbsp;: H2, Lato, le style de la taille de police est de 1.15 em</li>
       </ul>
     </li>
-    <li>Liens :
+    <li>Liens&nbsp;:
       <ul>
-        <li>Police : Noto Sans, 16 px, couleurs de lien standards</li>
+        <li>Police&nbsp;: Noto Sans, 16 px, couleurs de lien standards</li>
       </ul>
     </li>
     <li>Le style du bouton est celui d’un bouton principal.</li>
@@ -157,8 +157,8 @@ title: "Chaînes de médias sociaux"
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Social media channels (horizontal view) - large screen</b></figcaption>
-      <img src="../images/social-media-horizontal-mask-en.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage horizontal) — grand écran pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <figcaption><b>Chaînes de médias sociaux (affichage horizontal) — grand écran</b></figcaption>
+      <img src="/images/social-media-horizontal-mask-en.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage horizontal) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre « Sur les médias sociaux ».  On trouve sous le titre une liste horizontale avec les icônes associées, mais sans les étiquettes :</p>
@@ -180,11 +180,11 @@ title: "Chaînes de médias sociaux"
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre « Sur les médias sociaux ». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées :</p>
         <ul>
-          <li>Facebook icon followed by the placeholder text FacebookPageName</li>
-          <li>Twitter icon followed by the placeholder text @TwitterAccount</li>
-          <li>Youtube icon followed by the placeholder text YouTubeName</li>
-          <li>Instagram icon followed by the placeholder text InstagramName</li>
-          <li>LinkedIn icon followed by the placeholder text LinkedInName</li>
+          <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
+          <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
+          <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
+          <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
+          <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
         </ul>
       </details>
     </figure>
@@ -202,38 +202,38 @@ title: "Chaînes de médias sociaux"
 </section>
 <section id="œuvre">
   <h2>Comment procéder à la mise en œuvre</h2>
-  <p>Find working examples and code for implementing the contact us band pattern.</p>
-  <h3>GCweb (WET) theme implementation reference</h3>
-  <p>The implementation reference includes how to configure elements of the design system.</p>
+  <p>Trouvez des exemples pratiques et de code pour mettre en œuvre la configuration de conception des chaînes de médias sociaux.</p>
+  <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
+  <p>La référence à l’implémentation comprend la façon de configurer chaque élément du système de conception.</p>
   <ul>
-    <li><a href="">Social media channels - GCWeb</a></li>
-    <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
-  <h3>Implementations</h3>
-  <p>Determine what best suits the type of page you're creating.</p>
+  <h3>Mises en œuvre</h3>
+  <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
   <div class="row">
     <div class="col-md-8">
       <div class="wb-tabs mrgn-tp-lg">
         <div class="tabpanels">
           <details id="004" open="open">
             <summary><strong>GC-AEM</strong></summary>
-            <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
+            <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
             <ul>
-              <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+              <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/3/35/Documentation-AEM-6.5-Unite-4-29-Composant-Bande-m%C3%A9dias-sociaux.pdf">Composante de la bande de médias sociaux (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
+              <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
             </ul>
           </details>
           <details id="005">
-            <summary><strong>CDTS</strong></summary>
-            <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
+            <summary><strong>SGDC</strong></summary>
+            <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
             <ul>
-              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
             </ul>
           </details>
           <details id="006">
             <summary><strong>Drupal WxT</strong></summary>
-            <p class="mrgn-tp-lg">For Drupal WxT:</p>
+            <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+              <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
             </ul>
           </details>
         </div>
@@ -243,22 +243,21 @@ title: "Chaînes de médias sociaux"
 </section>
 <section id="recherche">
   <h2>Recherche et justification</h2>
-  <p>Consult the policy rationale.</p>
-  <h3>Policy rationale</h3>
-  <p>The content within the social media channels section must follow the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682">Directive on the Management of Communications</a>.</p>
-  <p>This is an optional pattern for the following mandatory templates:</p>
+  <p>Consultez les constatations de la recherche et la justification stratégique.</p>
+  <h3>Justification stratégique</h3>
+  <p>Le contenu de la section des chaînes de médias sociaux doit suivre la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a>.</p>
+  <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
   <ul>
-    <li><a href="">Institutional landing page</a></li>
-    <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
-    <li><a href="https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html">Ministerial pages</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
   </ul>
 </section>
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-08-13" class="link-muted">2023-08-20</time>
+      <time datetime="2023-09-13" class="link-muted">2023-09-20</time>
     </dt>
-    <dd>Updated the guidance to include content and design specifications, visual examples and implementation guidance.</dd>
+    <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
   </dl>
 </section>
