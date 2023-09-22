@@ -21,11 +21,11 @@ title: Méthodes d’analyse de la rétroaction
 
 * [Qui devrait lire et analyser la rétroaction?](#qui-devrait-lire-et-analyser-la-rétroaction)
 * [Niveau de rétroaction requis](#niveau-de-rétroaction-requis)
-* [Les questions de recherche façonnent l’analyse](#les-questions-de-recherche-faconnent-lanalyse)
-* [Méthodes d’analyse manuelle](#methodes-danalyse-manuelle)
+* [Les questions de recherche façonnent l’analyse](#les-questions-de-recherche-façonnent-lanalyse)
+* [Méthodes d’analyse manuelle](#méthodes-danalyse-manuelle)
 * [Outils d’analyse](#outils-danalyse)
 * [Pilote d’apprentissage automatique](#pilote-dapprentissage-automatique)
-* [Intégrer d’autres sources de données complémentaires](#integrer-dautres-sources-de-donnees-complementaires)
+* [Intégrer d’autres sources de données complémentaires](#intégrer-dautres-sources-de-données-complémentaires)
 
 ## Qui devrait lire et analyser la rétroaction?
 

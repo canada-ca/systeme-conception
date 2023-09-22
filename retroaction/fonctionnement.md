@@ -20,7 +20,7 @@ title: Comment fonctionne l’outil de rétroaction sur la page
 
 * [Pourquoi recueillir la rétroaction des utilisateurs](#pourquoi-recueillir-la-rétroaction-des-utilisateurs)
 * [Conception de l’outil de rétroaction](#conception-de-loutil-de-rétroaction)
-* [Protéger des renseignements personnels](#protéger-des-renseignements-personnels)
+* [Protéger les renseignements personnels](#protéger-les-renseignements-personnels)
 
 L’outil de rétroaction sur la page en est encore à la phase pilote. Cela signifie que vous pouvez utiliser l’outil, mais sachez que son apparence ou son codage pourrait changer ultérieurement.
 
