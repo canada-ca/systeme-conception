@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/social-media-channels.html
 date: "2018-12-19"
 dateModified: "2023-09-23"
-description: null
+description: "La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada sur diverses plateformes de médias sociaux."
 title: "Chaînes de médias sociaux"
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
@@ -80,37 +80,56 @@ title: "Chaînes de médias sociaux"
           </caption>
           <thead>
             <tr>
-              <th class="col-md-5">Plateforme de médias sociaux</th>
-              <th class="col-md-6">Classe CSS</th>
-              <th class="col-md-1">Lien vers le fichier SVG (GitHub)</th>
+              <th class="col-md-4">Plateforme de médias sociaux</th>
+              <th class="col-md-5">Classe CSS</th>
+              <th class="col-md-3">Lien vers le fichier SVG (GitHub)</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <td>Facebook</td>
               <td><p>facebook</p></td>
-              <td class="text-center"><div class="provisional gc-followus"><ul class="list-inline">
-		<li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg" class="facebook wb-lbx"><span class="wb-inv">Facebook</span></a></li></ul></div></td>
+              <td class="text-center"><div class="provisional gc-followus">
+                  <ul class="list-inline">
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg" class="facebook wb-lbx"><span class="wb-inv">Facebook</span></a></li>
+                  </ul>
+                </div></td>
             </tr>
             <tr>
               <td>Twitter</td>
               <td><p>twitter</p></td>
-              <td class="text-center"><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg"><img src="/images/social-media/twitter.svg" alt="Twitter"  class="img-responsive" /></a></td>
+              <td class="text-center"><div class="provisional gc-followus">
+                  <ul class="list-inline">
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg" class="twitter wb-lbx"><span class="wb-inv">Twitter</span></a></li>
+                  </ul>
+                </div></td>
             </tr>
             <tr>
               <td>YouTube</td>
               <td><p>youtube</p></td>
-              <td class="text-center"><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg"><img src="/images/social-media/youtube.svg" alt="YouTube"  class="img-responsive" /></a></td>
+              <td class="text-center"><div class="provisional gc-followus">
+                  <ul class="list-inline">
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg" class="youtube wb-lbx"><span class="wb-inv">YouTube</span></a></li>
+                  </ul>
+                </div></td>
             </tr>
             <tr>
               <td>Instagram</td>
               <td>instagram</td>
-              <td class="text-center"><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg"><img src="/images/social-media/instagram.svg" alt="Instagram"  class="img-responsive" /></a></td>
+              <td class="text-center"><div class="provisional gc-followus">
+                  <ul class="list-inline">
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg" class="instagram wb-lbx"><span class="wb-inv">Instagram</span></a></li>
+                  </ul>
+                </div></td>
             </tr>
             <tr>
               <td>LinkedIn</td>
               <td><p>linkedin</p></td>
-              <td class="text-center"><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg"><img src="/images/social-media/linkedin.svg" alt="LinkedIn"  class="img-responsive" /></a></td>
+              <td class="text-center"><div class="provisional gc-followus">
+                  <ul class="list-inline">
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg" class="linkedin wb-lbx"><span class="wb-inv">LinkedIn</span></a></li>
+                  </ul>
+                </div></td>
             </tr>
           </tbody>
         </table>
