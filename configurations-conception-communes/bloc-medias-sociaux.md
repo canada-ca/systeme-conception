@@ -91,7 +91,7 @@ title: "Chaînes de médias sociaux"
               <td><p>facebook</p></td>
               <td class="text-center"><div class="provisional gc-followus">
                   <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg" class="facebook wb-lbx"><span class="wb-inv">Facebook</span></a></li>
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg" class="facebook"><span class="wb-inv">Facebook</span></a></li>
                   </ul>
                 </div></td>
             </tr>
@@ -100,7 +100,7 @@ title: "Chaînes de médias sociaux"
               <td><p>twitter</p></td>
               <td class="text-center"><div class="provisional gc-followus">
                   <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg" class="twitter wb-lbx"><span class="wb-inv">Twitter</span></a></li>
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg" class="twitter"><span class="wb-inv">Twitter</span></a></li>
                   </ul>
                 </div></td>
             </tr>
@@ -109,7 +109,7 @@ title: "Chaînes de médias sociaux"
               <td><p>youtube</p></td>
               <td class="text-center"><div class="provisional gc-followus">
                   <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg" class="youtube wb-lbx"><span class="wb-inv">YouTube</span></a></li>
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg" class="youtube"><span class="wb-inv">YouTube</span></a></li>
                   </ul>
                 </div></td>
             </tr>
@@ -118,7 +118,7 @@ title: "Chaînes de médias sociaux"
               <td>instagram</td>
               <td class="text-center"><div class="provisional gc-followus">
                   <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg" class="instagram wb-lbx"><span class="wb-inv">Instagram</span></a></li>
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg" class="instagram"><span class="wb-inv">Instagram</span></a></li>
                   </ul>
                 </div></td>
             </tr>
@@ -127,7 +127,7 @@ title: "Chaînes de médias sociaux"
               <td><p>linkedin</p></td>
               <td class="text-center"><div class="provisional gc-followus">
                   <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg" class="linkedin wb-lbx"><span class="wb-inv">LinkedIn</span></a></li>
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg" class="linkedin"><span class="wb-inv">LinkedIn</span></a></li>
                   </ul>
                 </div></td>
             </tr>
