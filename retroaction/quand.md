@@ -18,9 +18,9 @@ title: Quand utiliser l’outil de rétroaction sur la page
 
 ## Sur cette page
 
-* [Cas d’utilisation de l’outil de rétroaction sur la page](#cas-d-utilisation-de-l-outil-de-r-troaction-sur-la-page)
+* [Cas d’utilisation de l’outil de rétroaction sur la page](#cas-dutilisation-de-loutil-de-rétroaction-sur-la-page)
 * [Attentes et engagement](#attentes-et-engagement)
-* [Comment ne pas utiliser l’outil de rétroaction](#ne-pas-utiliser)
+* [Comment ne pas utiliser l’outil de rétroaction](#comment-ne-pas-utiliser-loutil-de-rétroaction)
 
 ## Cas d'utilisation de loutil de rétroaction sur la page
 
