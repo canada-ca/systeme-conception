@@ -80,9 +80,9 @@ title: "Chaînes de médias sociaux"
           </caption>
           <thead>
             <tr>
-              <th class="col-md-4">Plateforme de médias sociaux</th>
+              <th class="col-md-5">Plateforme de médias sociaux</th>
               <th class="col-md-6">Classe CSS</th>
-              <th class="col-md-2">Lien vers le fichier SVG (GitHub)</th>
+              <th class="col-md-1">Lien vers le fichier SVG (GitHub)</th>
             </tr>
           </thead>
           <tbody>
