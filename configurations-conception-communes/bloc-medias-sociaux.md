@@ -81,8 +81,8 @@ title: "Chaînes de médias sociaux"
           <thead>
             <tr>
               <th class="col-md-4">Plateforme de médias sociaux</th>
-              <th class="col-md-5">Classe CSS</th>
-              <th class="col-md-3">Lien vers le fichier SVG (GitHub)</th>
+              <th class="col-md-4">Classe CSS</th>
+              <th class="col-md-4">Lien vers le fichier SVG (GitHub)</th>
             </tr>
           </thead>
           <tbody>
