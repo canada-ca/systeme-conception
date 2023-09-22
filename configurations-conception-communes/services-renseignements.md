@@ -1,9 +1,9 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/services-information.html
-date: null
-dateModified: '2018-12-19'
+date: "2018-12-19"
+dateModified: "2023-09-21"
 description: null
-title: Services et renseignements - Configuration de conception de Canada.ca
+title: Services et renseignements
 ---
 
 
