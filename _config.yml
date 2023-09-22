@@ -244,11 +244,32 @@
             "link": "https://conception.canada.ca"
           },
           {
-            "link": "https://conception.canada.ca/crise/contenu.html",
-            "title": "Aide-mémoire pour la conception du contenu des communications de crise"
+            "title": "Alertes",
+            "link": "https://conception.canada.ca/alertes.html"
           }
         ]
       }
+    },
+    {
+      "scope": {
+        "path": "crise/alertes/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
+          {
+            "title": "Système de conception",
+            "link": "https://conception.canada.ca"
+          },
+          {
+            "link": "https://conception.canada.ca/alertes.html",
+            "title": "Aide-mémoire pour la conception du contenu des communications de crise"
+          }
+        ]
+      },
+      "permalink": "/alertes/:basename:output_ext"
     },
     {
       "scope": {
