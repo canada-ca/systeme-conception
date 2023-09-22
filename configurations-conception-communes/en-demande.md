@@ -94,31 +94,35 @@ title: "En demande"
 <section id="œuvre">
   <h2>Comment procéder à la mise en œuvre</h2>
   <p>Trouvez des exemples pratiques et de code pour mettre en œuvre la configuration de conception en demande.</p>
-  <h3>Implementations</h3>
-  <p>Determine what best suits the type of page you're creating.</p>
+  <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
+  <ul>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-most-requested/gc-most-requested-fr.html">En demande</a></li>
+  </ul>
+  <h3>Mises en œuvre</h3>
+  <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
   <div class="row">
     <div class="col-md-8">
       <div class="wb-tabs mrgn-tp-lg">
         <div class="tabpanels">
           <details id="004" open="open">
             <summary><strong>GC-AEM</strong></summary>
-            <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
+            <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada&nbsp;:</p>
             <ul>
-              <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+              <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia - accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
             </ul>
           </details>
           <details id="005">
-            <summary><strong>CDTS</strong></summary>
-            <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
+            <summary><strong>SGDC</strong></summary>
+            <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
             <ul>
-              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation relative à la SGDC</a></li>
             </ul>
           </details>
           <details id="006">
             <summary><strong>Drupal WxT</strong></summary>
-            <p class="mrgn-tp-lg">For Drupal WxT:</p>
+            <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a></li>
+              <li><a href="https://drupalwxt.github.io/en/">Documentation relative à Drupal WxT</a> (en anglais seulement) </li>
             </ul>
           </details>
         </div>
@@ -128,27 +132,27 @@ title: "En demande"
 </section>
 <section id="recherche">
   <h2>Recherche et justification</h2>
-  <h3>Research fidings</h3>
-  <p>The banded approach to the most requested pattern was successfully tested on the Canada.ca home page in 2018.</p>
-  <p>As part of the Contact the Canada Revenue Agency (CRA) project in 2019, the banded approach was successfully tested on a prototype of the CRA institutional landing page.</p>
-  <p>The usefulness of most requested links for navigation pages was reconfirmed as part of the Wayfinding project in 2022.</p>
-  <h3>Policy rationale</h3>
-  <p>The most requested pattern is required in the following mandatory templates:</p>
+  <h3>Constatations découlant de la recherche</h3>
+  <p>L’approche par bandes de la configuration de conception en demande a été testée avec succès sur la page d’accueil de Canada.ca en 2018.</p>
+  <p>Dans le cadre du projet Communiquez avec l’Agence du revenu du Canada (ARC) en 2019, l’approche par bandes a été testée avec succès sur un prototype de la page d’accueil institutionnelle de l’ARC.</p>
+  <p>L’utilité des liens en demande pour les pages de navigation a été reconfirmée dans le cadre du projet Orientation en 2022.</p>
+  <h3>Justification stratégique</h3>
+  <p>La configuration de conception en demande est requise dans les modèles obligatoires suivants&nbsp;:</p>
   <ul>
-    <li><a href="">Institutional landing page</a></li>
-    <li><a href="https://design.canada.ca/mandatory-templates/theme-topic.html">Theme and topic page template</a></li>
+    <li><a href="/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="/modeles-obligatoire/theme-sujet.html">Page de thème et de sujet</a></li>
   </ul>
 </section>
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-08-20" class="link-muted">2023-08-20</time>
+      <time datetime="2023-09-21" class="link-muted">2023-09-21</time>
     </dt>
-    <dd>Updated guidance to reflect the banded style for the most requested pattern</dd>
+    <dd>Orientation mise à jour pour refléter le style à bandes de la configuration de conception en demande</dd>
     <dt>
       <time datetime="2018-12-19" class="link-muted">2018-12-19</time>
     </dt>
-    <dd>Documented the most requested pattern</dd>
+    <dd>Documenté le modèle en demande</dd>
   </dl>
 </section>
