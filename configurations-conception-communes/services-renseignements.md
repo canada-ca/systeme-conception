@@ -78,8 +78,8 @@ title: Services et renseignements
         <li>Couleur&nbsp;: <a href="/styles/couleurs.html">Couleur de texte normalisée</a></li>
         <li>Taille de la police&nbsp;:
           <ul>
-            <li>17 px (ordinateur de bureau)</li>
-            <li>19 px (mobile)</li>
+            <li>17&nbsp;px (ordinateur de bureau)</li>
+            <li>19&nbsp;px (mobile)</li>
           </ul>
         </li>
         <li>Famille de police&nbsp;: Noto Sans</li>
@@ -92,7 +92,7 @@ title: Services et renseignements
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Services et renseignements - grand écran</b></figcaption>
-      <img src="/images/services-info-en.png" class="img-responsive" alt="Services et renseignements pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/services-info-fr.png" class="img-responsive" alt="Services et renseignements pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
         <p>Neuf menus d’accueil thématique distincts sont affichés sur trois colonnes et trois lignes. Le titre de chaque menu d’accueil thématique est un lien. En dessous du titre figurent des mots-clés qui décrivent ce que l’on trouvera en cliquant sur le titre du lien.</p>
@@ -102,7 +102,7 @@ title: Services et renseignements
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Services et renseignements - petit écran</b></figcaption>
-      <img src="/images/services-info-sm-en.png" class="img-responsive" alt="Services et renseignements pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/services-info-sm-fr.png" class="img-responsive" alt="Services et renseignements pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
         <p>Neuf menus d’accueil thématique distincts sont affichés sous forme de liste. Le titre de chaque menu d’accueil thématique est un lien. En dessous du titre figurent des mots-clés qui décrivent ce que l’on trouvera en cliquant sur le titre du lien.</p>
