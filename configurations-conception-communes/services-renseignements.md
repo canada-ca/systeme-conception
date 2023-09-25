@@ -34,7 +34,7 @@ title: Services et renseignements
   <h3>Spécifications de contenu</h3>
   <p>Le style est très important lors de la mise en œuvre de la configuration services et renseignements. Veuillez consulter le Guide de rédaction du contenu du site Canada.ca pour obtenir de plus amples renseignements sur la façon de rédiger du contenu pour cette configuration.</p>
   <ul>
-    <li><a href="/style-guide/">Canada.ca Content Style Guide</a></li>
+    <li><a href="//guide-redaction/">Guide de rédaction du contenu du site Canada.ca</a></li>
   </ul>
   <p>Chaque menu d’accueil thématique se compose d’un titre et d’une description. Le titre est un lien.</p>
   <h4>Menus d’accueil thématique</h4>
