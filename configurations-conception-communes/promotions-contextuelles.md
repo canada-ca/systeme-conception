@@ -152,7 +152,7 @@ title: "Promotions contextuelles"
             <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
             <ul>
               <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/24/Documentation-AEM-6.5-Unite-4-15-Composant-Image-en-vedette.pdf">Titre du composant de l’image en vedette (uniquement accessible sur le réseau du gouvernement du Canada)</a></li>
-              <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)</a></li>
+              <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
             </ul>
           </details>
           <details id="005">
