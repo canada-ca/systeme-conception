@@ -44,7 +44,7 @@ title: "Lien en vedette"
       <ul>
         <li>Couleur&nbsp;: #FFF</li>
         <li>Couleur&nbsp;: Lato Sans</li>
-        <li>Font size&nbsp;: 20px</li>
+        <li>Font size&nbsp;: 20&nbsp;px</li>
       </ul>
     </li>
     <li> Arrière-plan&nbsp;:
@@ -53,8 +53,8 @@ title: "Lien en vedette"
         <li>Opacité&nbsp;: 0.9</li>
         <li>Marges intérieures (padding)&nbsp;:
           <ul>
-            <li>Bas&nbsp;: 15px</li>
-            <li>Haut&nbsp;: 15px</li>
+            <li>Bas&nbsp;: 15&nbsp;px</li>
+            <li>Haut&nbsp;: 15&nbsp;px</li>
           </ul>
         </li>
       </ul>
@@ -68,11 +68,12 @@ title: "Lien en vedette"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Lien en vedette - grand écran</b></figcaption>
-      <img src="/images/feature-link-fr.png" class="img-responsive" alt="Lien en vedette pour les grands écrans. Version texte ci-dessous :" />
+      <img src="/images/feature-link-fr.png" class="img-responsive" alt="Lien en vedette pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
         <p>Un lien en vedette est affiché dans une bande bleue qui s’étend sur toute la longueur de l’écran. Au-dessus du lien en vedette figure le nom du ministère (Ressources naturelles Canada), suivi d’une brève description du ministère. Sous le lien en vedette se trouve le titre En demande suivi de trois liens.</p>
       </details>
+
     </figure>
   </div>
 </section>
