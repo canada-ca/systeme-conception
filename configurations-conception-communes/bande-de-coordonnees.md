@@ -54,8 +54,8 @@ title: Bande de coordonnées
         <li>Couleur par défaut&nbsp;: #f5f5f5</li>
         <li>Marges intérieures (padding)&nbsp;:
           <ul>
-            <li>Bas&nbsp;: 15 px</li>
-            <li>Haut&nbsp;: 15 px</li>
+            <li>Bas&nbsp;: 15&nbsp;px</li>
+            <li>Haut&nbsp;: 15&nbsp;px</li>
           </ul>
         </li>
       </ul>
