@@ -2,13 +2,13 @@
 altLangPage: https://design.canada.ca/common-design-patterns/most-requested.html
 date: "2018-12-19"
 dateModified: "2023-09-21"
-description: null
+description: "Orientation sur l’utilisation du modèle en demande sur Canada.ca. Le modèle en demande fournit des liens vers les principales tâches sur les pages de navigation."
 title: "En demande"
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 <label class="label label-info">Facultatif</label>
 <p>Le modèle en demande comprend les principales tâches des pages d’accueil qui offrent de nombreux choix. Les principales tâches sont les choses principales que les utilisateurs essaient de faire dans un contexte donné. </p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/most-requested-en.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/most-requested-fr.png" class="img-responsive" alt="" /></div>
 <section>
   <h2>Sur cette page</h2>
   <ul>
@@ -63,9 +63,9 @@ title: "En demande"
         <li>Couleur de fond&nbsp;: #f5f5f5</li>
         <li>Famille de police&nbsp;: Noto Sans</li>
         <li>Épaisseur de la police&nbsp;: gras</li>
-        <li>Titre: H2, Lato&nbsp;: 1,2 em</li>
-        <li>Hauteur de ligne&nbsp;: 2 em (la taille de base est X)</li>
-        <li>Taille du texte&nbsp;: 19 px</li>
+        <li>Titre: H2, Lato&nbsp;: 1,2&nbsp;em</li>
+        <li>Hauteur de ligne&nbsp;: 2&nbsp;em (la taille de base est X)</li>
+        <li>Taille du texte&nbsp;: 19&nbsp;px</li>
       </ul>
     </li>
   </ul>
@@ -73,7 +73,7 @@ title: "En demande"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>En demande – grand écran</b></figcaption>
-      <img src="../images/most-requested-en.png" class="img-responsive" alt="En demande pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="../images/most-requested-fr.png" class="img-responsive" alt="En demande pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
         <p>Les liens en demande apparaissent dans une bande horizontale avec l’en-tête de section &laquo;&nbsp;En demande&nbsp;&raquo;. Les liens sont organisés dans une liste à puces.</p>
@@ -83,7 +83,7 @@ title: "En demande"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>En demande – petit écran</b></figcaption>
-      <img src="/images/most-requested-sm-en.png" class="img-responsive" alt="Most requested pattern for small screens. Text version below:" />
+      <img src="/images/most-requested-sm-fr.png" class="img-responsive" alt="En demande pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
         <p>Les liens en demande apparaissent dans une liste à puces sous l’en-tête de section &laquo;&nbsp;En demande&nbsp;&raquo;.</p>
