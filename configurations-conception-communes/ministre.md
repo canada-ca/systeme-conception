@@ -120,7 +120,7 @@ title: ""2023-09-25""
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Configuration de conception pour un ministre ou un chef d’institution – petit écran</b></figcaption>
-      <img src="/images/ministers-block-en.png" class="img-responsive" alt="BConfiguration de conception pour un ministre ou un chef d’institution pour les petits écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/ministers-block-en.png" class="img-responsive" alt="Configuration de conception pour un ministre ou un chef d’institution pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
         <p>La configuration de conception s’affiche dans une colonne et deux éléments avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
