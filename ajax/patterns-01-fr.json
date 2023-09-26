@@ -2,6 +2,24 @@
 ---
 {
   "data": [{
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/allocation-canadienne-enfants.html\">Allocation canadienne pour enfants</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Ce résumé de recherche définit le contexte du projet de recherche dans le cadre duquel le modèle de navigation de style métro a été créé et décrit tous les points qui ont été pris en considération.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },{
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/confiance.html\">Étude sur la confiance</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Cette étude menée sur la confiance aide à déterminer lesquels des éléments de communication graphiques inspirent le plus de confiance aux utilisateurs par rapport à la marque du gouvernement du Canada.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },{
       "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/trouver-emploi-resume-recherche.html\">Trouver un emploi</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "En facilitant la tâche de trouver les emplois du gouvernement, nous avons appris à éliminer les pages redondantes, à orienter le contenu pour les utilisateurs et leurs principales tâches, à concevoir le contenu en fonction de réponses plutôt que des renseignements, à utiliser des titres d’emploi recherchés et à répondre aux attentes des utilisateurs à l’égard d’une seule plateforme de recherche d’emploi.",
@@ -101,7 +119,7 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}//resumes-recherche/prochesaidants-resume-recherche.html\">Prestations d’assurance-emploi pour proches aidants</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/prochesaidants-resume-recherche.html\">Prestations d’assurance-emploi pour proches aidants</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Réduire le nombre de demandes inadmissibles en aidant les gens à comprendre les règles d’admissibilité et la façon de présenter une demande. Offrir un simple aperçu visuel du processus entier, utiliser de manière stratégique des mots-clés, inclure des renseignements importants à l’emplacement attendu et simplifier le langage employé.",
       "WHENTOUSE": "",
