@@ -236,7 +236,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="./images/csc-grc-fig-01-fra.jpg">
+      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="/guide-redaction/images/fig-01-fra.jpg">
       <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
         <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 1 - Version textuelle</summary>
         <p>Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés.</p>
@@ -470,7 +470,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Une seule note apparaîtra pour votre contenu. Le texte devrait se trouver dans les rangs supérieurs de «&nbsp;primaire&nbsp;» ou dans les rangs inférieurs de «&nbsp;secondaire&nbsp;».</p>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 2</strong> </figcaption>
-        <img alt="Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de «&nbsp;94 secondaire&nbsp;». " class="img-responsive center-block" src="./images/csc-grc-fig-02-fra.jpg">
+        <img alt="Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de «&nbsp;94 secondaire&nbsp;». " class="img-responsive center-block" src="/guide-redaction/images/fig-02-fra.jpg">
         <details>
           <summary> Figure 2 - Version textuelle </summary>
           <p>Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de «&nbsp;94 secondaire&nbsp;».</p>
@@ -708,7 +708,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <h5>Exemple <span class="wb-inv">de point d'interrogation dans un formulaire, un questionnaire ou un sondage</span></h5>
         <figure class="mrgn-bttm-lg">
           <figcaption class="text-center"> <strong>Figure 3</strong> </figcaption>
-          <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="./images/csc-grc-fig-03-fra.jpg">
+          <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="/guide-redaction/images/fig-03-fra.jpg">
           <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
             <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
             <p>Une page Web contenant un sous-titre écrit sous forme de question.</p>
@@ -1617,7 +1617,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h5>Exemples <span class="wb-inv">d'images fonctionnelles</span></h5>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
-      <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="./images/csc-grc-fig-04-fra.jpg">
+      <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/guide-redaction/images/fig-04-fra.jpg">
       <details>
         <summary>Figure 4 - Version textuelle </summary>
         <table class="table table-bordered table-condensed">
@@ -1733,7 +1733,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </figure>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 5</strong> </figcaption>
-      <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="./images/csc-grc-fig-05-fra.jpg">
+      <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="/guide-redaction/images/fig-05-fra.jpg">
       <details>
         <summary> Figure 5 - Version textuelle </summary>
         <table class="table table-bordered table-condensed">
@@ -1810,7 +1810,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p><a href="#wp6-2">Ajoutez un texte alternatif</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
     <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>.</p>
     <h5>Exemple <span class="wb-inv">d'une image décorative</span></h5>
-    <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="./images/csc-grc-fig-06-fra.jpg"></p>
+    <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="/guide-redaction/images/fig-06-fra.jpg"></p>
     <p><strong>Description de l'image</strong></p>
     <p>Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail.</p>
   </section>
@@ -1856,7 +1856,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h4>Exemple<span class="wb-inv">: Description longue pour le tableau de bord</span></h4>
   <figure class="mrgn-bttm-lg">
     <figcaption class="text-center"> <strong>Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement</strong> </figcaption>
-    <img alt="Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement" class="img-responsive center-block" src="./images/csc-grc-fig-01b-fra.jpg">
+    <img alt="Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement" class="img-responsive center-block" src="/guide-redaction/images/fig-01b-fra.jpg">
     <h5>Texte alternatif</h5>
     <p>Vous pourriez écrire le texte alternatif suivant pour décrire l'image présentée à la figure 1&nbsp;:</p>
     <p>Tableau de bord illustrant comment les activités opérationnelles s'associent à la vision et à la stratégie de l'organisation pour surveiller les indicateurs de rendement. La version textuelle suit.</p>
@@ -1892,7 +1892,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h4>Exemple<span class="wb-inv">: Description longue pour le graphique à barres illustrant le rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</span></h4>
   <figure class="mrgn-bttm-lg">
     <figcaption class="text-center"> <strong>Figure 2: Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong> </figcaption>
-    <img alt="Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010" class="img-responsive center-block" src="./images/csc-grc-fig-02b-fra.jpg">
+    <img alt="Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010" class="img-responsive center-block" src="/guide-redaction/images/fig-02b-fra.jpg">
     <p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
       Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé non payé.</p>
     <h5>Texte alternatif</h5>
