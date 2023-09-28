@@ -110,9 +110,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Les gens qui tentent d'accomplir une tâche sur le Web ne lisent pas chaque mot. Ils survolent rapidement le texte pour trouver les termes et les liens associés à la tâche qu'ils veulent accomplir.</p>
     <p class="mrgn-tp-lg">Le contenu Web du gouvernement du Canada doit être&nbsp;:</p>
     <ul>
-      <li><strong>intuitif&nbsp;</strong>:<strong>&nbsp;</strong>fournissez aux personnes qui ne connaissent pas le sujet ou le processus juste assez d'information pour qu'elles puissent effectuer une tâche par elles-mêmes;</li>
+      <li><strong>intuitif</strong>&nbsp;:<strong>&nbsp;</strong>fournissez aux personnes qui ne connaissent pas le sujet ou le processus juste assez d'information pour qu'elles puissent effectuer une tâche par elles-mêmes;</li>
       <li><strong>complet</strong>&nbsp;: donnez<strong> </strong>des renseignements utiles aux spécialistes qui ont une connaissance plus poussée du sujet ou du processus;</li>
-      <li><strong>ciblé&nbsp;</strong>:<strong> </strong>présentez les renseignements les plus importants d'abord, adaptés aux besoins du public cible, au lieu de fournir toutes les options et de laisser les gens déterminer lesquelles s'appliquent à eux;</li>
+      <li><strong>ciblé</strong>&nbsp;:<strong> </strong>présentez les renseignements les plus importants d'abord, adaptés aux besoins du public cible, au lieu de fournir toutes les options et de laisser les gens déterminer lesquelles s'appliquent à eux;</li>
       <li><strong>cohérent</strong>&nbsp;: présentez l'information de manière uniforme afin de permettre aux gens d'explorer le contenu rapidement, facilement et avec confiance.</li>
     </ul>
   </section>
@@ -166,7 +166,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <section id="wp1-3">
     <h3>1.3 Fournir un contenu équivalent dans les 2 langues officielles</h3>
     <section class="alert alert-warning">
-      <h4 class="h3">Exigences en matière de langues officielles</h4>
+      <h4>Exigences en matière de langues officielles</h4>
       <p>Selon la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/o-3.01/page-1.html">Loi sur les langues officielles</a></cite>, nous devons publier simultanément les communications et fournir des services égaux dans les 2 langues officielles.</p>
     </section>
     <p>Le contenu du gouvernement doit&nbsp;:</p>
@@ -238,7 +238,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
       <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="/guide-redaction/images/fig-01-fra.jpg">
       <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
-        <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 1 - Version textuelle</summary>
+        <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'">Figure 1 - Version textuelle</summary>
         <p>Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés.</p>
         <ul>
           <li>Premièrement&nbsp;:
@@ -268,9 +268,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </figure>
     <section id="wp2-1-1">
       <h4>Aller droit au but</h4>
-      <p>Évitez les renseignements généraux et les messages d'accueil (par exemple, «&nbsp;bienvenue sur notre site&nbsp;»). Ces messages relèguent au second plan le contenu dont la personne a besoin pour accomplir sa tâche.</p>
+      <p>Évitez les renseignements généraux et les messages d'accueil (par exemple, &laquo;&nbsp;bienvenue sur notre site&nbsp;&raquo;). Ces messages relèguent au second plan le contenu dont la personne a besoin pour accomplir sa tâche.</p>
       <p>Écrivez des énoncés directs.</p>
-      <h5>Exemple <span class="wb-inv">d'énoncé direct</span></h5>
+      <h5>Exemple d'énoncé direct</h5>
       <p><strong>Écrivez</strong>&nbsp;<strong></strong>: Présentez votre passeport à l'agent à l'aéroport. <br>
         <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l'agent qui vous accueille à l'aéroport.</p>
       <div class="well panel"> 
@@ -283,17 +283,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <section id="wp2-2">
     <h3>2.2 Utiliser des mots simples et courants</h3>
     <p>Remplacez les mots longs par des mots courts, simples et de tous les jours que la plupart des gens comprennent et utilisent. Les mots simples ont 2 syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
-    <h4>Exemples <span class="wb-inv">d'utilisation de mots simples et courants</span></h4>
-    <p><strong>Écrivez&nbsp;</strong>: demander<br>
-      <strong>Au lieu de&nbsp;</strong>: faire une requête</p>
-    <p><strong>Écrivez&nbsp;</strong>: assez de<br>
-      <strong>Au lieu de&nbsp;</strong>: un nombre suffisant de</p>
-    <p><strong>Écrivez&nbsp;</strong>: si<br>
-      <strong>Au lieu de&nbsp;</strong>: dans la mesure où</p>
-    <p><strong>Écrivez&nbsp;</strong>: avant<br>
-      <strong>Au lieu de&nbsp;</strong>: préalablement</p>
-    <p><strong>Écrivez&nbsp;</strong>: tous les 2 ans<br>
-      <strong>Au lieu de&nbsp;</strong>: bisannuellement</p>
+    <h4>Exemples d'utilisation de mots simples et courants</h4>
+    <p><strong>Écrivez</strong>&nbsp;: demander<br>
+      <strong>Au lieu de</strong>&nbsp;: faire une requête</p>
+    <p><strong>Écrivez</strong>&nbsp;: assez de<br>
+      <strong>Au lieu de</strong>&nbsp;: un nombre suffisant de</p>
+    <p><strong>Écrivez</strong>&nbsp;: si<br>
+      <strong>Au lieu de</strong>&nbsp;: dans la mesure où</p>
+    <p><strong>Écrivez</strong>&nbsp;: avant<br>
+      <strong>Au lieu de</strong>&nbsp;: préalablement</p>
+    <p><strong>Écrivez</strong>&nbsp;: tous les 2 ans<br>
+      <strong>Au lieu de</strong>&nbsp;: bisannuellement</p>
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urldesign }}/style-guide/#wp2-2" aria-label="Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
@@ -311,22 +311,22 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4>Voix active ou passive</h4>
       <p>Dans une phrase à la voix active, le sujet fait l'action. La phrase est claire et directe.</p>
       <p>Dans une phrase à la voix passive, il n'est pas toujours facile de savoir qui (ou quoi) fait l'action.</p>
-      <h5>Exemples <span class="wb-inv">de constructions active et passive</span></h5>
-      <p><strong>Construction active </strong>: Vous devrez peut-être fournir une preuve de citoyenneté.<br>
-        <strong>Construction passive </strong>: Une preuve de citoyenneté sera peut-être exigée.</p>
+      <h5>Exemples de constructions active et passive</h5>
+      <p><strong>Construction active</strong>&nbsp;: Vous devrez peut-être fournir une preuve de citoyenneté.<br>
+        <strong>Construction passive</strong>&nbsp;: Une preuve de citoyenneté sera peut-être exigée.</p>
     </section>
     <section id="wp2-3-2">
       <h4>Forme positive ou négative</h4>
       <p>Lorsque c'est possible, dites ce que la personne peut ou doit faire plutôt que ce qu'elle ne peut ou ne doit pas faire. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
-      <h5>Exemples <span class="wb-inv">de formes positives et négatives</span></h5>
-      <p><strong>Forme positive&nbsp;</strong>: Vous pouvez déduire une partie du montant à la&nbsp;ligne 147 de votre déclaration de revenus.<br>
-        <strong>Forme négative </strong>: Vous ne pouvez déduire qu'une partie du montant de la&nbsp;ligne 147 de votre déclaration de revenus.</p>
-      <p><strong>Forme positive&nbsp;</strong>: La procédure sera efficace.<br>
-        <strong>Double négation </strong>: La procédure ne sera pas inefficace.</p>
-      <p><strong>Forme positive&nbsp;</strong>: Vous pouvez demander une déduction pour un enfant à charge né en 1972 ou avant si cet enfant a une déficience mentale ou physique.<br>
-        <strong>Double négation </strong>: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n'ait une déficience mentale ou physique.</p>
+      <h5>Exemples de formes positives et négatives</h5>
+      <p><strong>Forme positive</strong>&nbsp;: Vous pouvez déduire une partie du montant à la&nbsp;ligne 147 de votre déclaration de revenus.<br>
+        <strong>Forme négative</strong>&nbsp;: Vous ne pouvez déduire qu'une partie du montant de la&nbsp;ligne 147 de votre déclaration de revenus.</p>
+      <p><strong>Forme positive</strong>&nbsp;: La procédure sera efficace.<br>
+        <strong>Double négation</strong>&nbsp;: La procédure ne sera pas inefficace.</p>
+      <p><strong>Forme positive</strong>&nbsp;: Vous pouvez demander une déduction pour un enfant à charge né en 1972 ou avant si cet enfant a une déficience mentale ou physique.<br>
+        <strong>Double négation</strong>&nbsp;: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n'ait une déficience mentale ou physique.</p>
       <p class="mrgn-tp-lg">Lorsqu'une action risque d'entraîner de graves conséquences, vous pouvez utiliser la forme négative pour expliquer que l'action est impossible ou doit être évitée.</p>
-      <h5>Exemples <span class="wb-inv">d'utilisation de la forme négative pour quelque chose pouvant avoir des conséquences graves</span></h5>
+      <h5>Exemples d'utilisation de la forme négative pour quelque chose pouvant avoir des conséquences graves</h5>
       <p><strong>Écrivez&nbsp;: N</strong>'essayez <strong>pas</strong> de trouver la source de monoxyde de carbone. Sortez immédiatement pour respirer de l'air frais.</p>
       <div class="well panel"> 
         <!--UPDATE LATER-->
@@ -338,13 +338,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <section id="wp2-4">
     <h3>2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</h3>
     <p>Privilégiez le verbe (forme verbale) plutôt que le nom formé à partir du verbe (forme nominale) pour exprimer clairement une action.</p>
-    <h4>Exemples <span class="wb-inv">d'énoncés qui contiennent des verbes plutôt que des noms</span></h4>
-    <p><strong>Écrivez </strong>: recommander une mesure<br>
-      <strong>Au lieu de </strong>: formuler une recommandation d'une mesure</p>
-    <p><strong>Écrivez </strong>: distribuer le courrier<br>
-      <strong>Au lieu de </strong>: faire la distribution du courrier</p>
-    <p><strong>Écrivez</strong>&nbsp;: modifier la page<br>
-      <strong>Au lieu de </strong>: apporter une modification à la page</p>
+    <h4>Exemples d'énoncés qui contiennent des verbes plutôt que des noms</h4>
+    <p><strong>Écrivez</strong>&nbsp;: recommander une mesure<br>
+      <strong>Au lieu de</strong>&nbsp;: formuler une recommandation d'une mesure</p>
+    <p><strong>Écrivez</strong>&nbsp;: distribuer le courrier<br>
+      <strong>Au lieu de</strong>&nbsp;: faire la distribution du courrier</p>
+    <p><strong>Écrivez&nbsp;</strong>: modifier la page<br>
+      <strong>Au lieu de</strong>&nbsp;: apporter une modification à la page</p>
     <p>Utilisez le verbe dans sa forme la plus simple. Si possible, utilisez le présent.</p>
     <div class="well panel"> 
       <!--UPDATE LATER-->
@@ -357,16 +357,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Évitez d'utiliser du jargon, un langage spécialisé ou des expressions familières, imagées ou régionales. Choisissez le terme le plus simple ou le plus courant pour votre public cible.</p>
     <p>Pour la plupart des gens, les termes juridiques et techniques et le jargon administratif portent à confusion.</p>
     <p>Ceux et celles qui ne parlent ni français ni anglais peuvent recourir à des outils en ligne pour traduire du texte. Les traductions produites par ces outils ne sont pas toujours exactes, surtout lorsqu'il est question d'expressions familières, imagées ou régionales.</p>
-    <h4>Exemples <span class="wb-inv">de jargon, d'idiotisme et d'expression</span></h4>
-    <p><strong>Jargon </strong>: mandat d'arrêt décerné sur le siège (ordre émis par un juge d'arrêter une personne qui ne s'est pas présentée en cour ou qui n'a pas respecté certaines conditions)</p>
-    <p><strong>Idiotisme </strong>: pour faire court (pour résumer, en un mot, bref)</p>
-    <p><strong>Expression </strong>: ne pas avoir la langue dans sa poche (personne qui n'a pas peur de dire ce qu'elle pense)</p>
+    <h4>Exemples de jargon, d'idiotisme et d'expression</h4>
+    <p><strong>Jargon</strong>&nbsp;: mandat d'arrêt décerné sur le siège (ordre émis par un juge d'arrêter une personne qui ne s'est pas présentée en cour ou qui n'a pas respecté certaines conditions)</p>
+    <p><strong>Idiotisme</strong>&nbsp;: pour faire court (pour résumer, en un mot, bref)</p>
+    <p><strong>Expression</strong>&nbsp;: ne pas avoir la langue dans sa poche (personne qui n'a pas peur de dire ce qu'elle pense)</p>
     <p class="mrgn-tp-lg">Si vous devez utiliser un jargon bien connu de votre public cible&nbsp;:</p>
     <ul>
       <li>expliquez le terme en employant des mots simples et courants ou donnez un exemple pour aider les non-spécialistes à comprendre;</li>
       <li>n'utilisez pas de jargon pour expliquer le jargon.</li>
     </ul>
-    <h4>Exemples <span class="wb-inv">d'énoncés qui évitent le recours au jargon</span></h4>
+    <h4>Exemples d'énoncés qui évitent le recours au jargon</h4>
     <p><strong>Écrivez</strong>&nbsp;: Vous devez nous envoyer votre déclaration de revenus (T1) d'ici le 30 avril. <br>
       <strong>Au lieu de</strong>&nbsp;: Vous devez nous envoyer votre T1 d'ici le 30 avril.</p>
     <p><strong>Écrivez</strong> <strong></strong>: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à épargner assez d'argent pour la retraite.<br>
@@ -391,13 +391,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h3>2.6 Utiliser des phrases simples</h3>
     <p>Privilégiez des structures syntaxiques simples en plaçant le sujet et le verbe en début de phrase et en utilisant des constructions de type sujet + verbe + complément. Cette structure aide le lecteur à comprendre ce que fait le sujet de la phrase en plaçant le sujet tout juste devant le verbe.</p>
     <p>Évitez les phrases complexes composées de plusieurs énoncés. Elles rassemblent généralement trop d'informations pour que les gens puissent les comprendre en survolant le texte.</p>
-    <h4>Exemples <span class="wb-inv">de phrase simple</span></h4>
-    <p><strong>Écrivez </strong>: Renseignez-vous au sujet du réseau de transport du Canada. Trouvez des renseignements au sujet des routes, les pistes cyclables, les ports et les aéroports partout au pays.<br>
+    <h4>Exemples de phrase simple</h4>
+    <p><strong>Écrivez</strong>&nbsp;: Renseignez-vous au sujet du réseau de transport du Canada. Trouvez des renseignements au sujet des routes, les pistes cyclables, les ports et les aéroports partout au pays.<br>
       <strong>Au lieu de</strong> <strong></strong>: Le réseau de transport du Canada, avec ses routes, ses pistes cyclables, ses ports et ses aéroports, est vaste, et ce site vous fournira une foule d'information au sujet du réseau d'un bout à l'autre du pays.</p>
     <p class="mrgn-tp-lg">Remplacez les structures de phrase complexes par des énoncés directs.</p>
-    <h4>Exemples <span class="wb-inv">d'énoncé direct</span></h4>
-    <p><strong>Écrivez </strong>: Vous avez jusqu'au 30&nbsp;avril pour soumettre votre déclaration de revenus.<br>
-      <strong>Au lieu de </strong>: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30&nbsp;avril.</p>
+    <h4>Exemples d'énoncé direct</h4>
+    <p><strong>Écrivez</strong>&nbsp;: Vous avez jusqu'au 30&nbsp;avril pour soumettre votre déclaration de revenus.<br>
+      <strong>Au lieu de</strong>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30&nbsp;avril.</p>
     <p>Pour aider les gens à comprendre le sens d'une phrase longue, entourez-la de phrases courtes.</p>
     <div class="well panel"> 
       <!--UPDATE LATER-->
@@ -416,10 +416,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>limitez-vous à une (1) idée par phrase;</li>
       <li>enlevez les mots inutiles.</li>
     </ul>
-    <h4>Exemple <span class="wb-inv">de phrases simplifiées</span></h4>
+    <h4>Exemple de phrases simplifiées</h4>
     <p><strong>Écrivez</strong> <strong></strong>: Nous avons reçu et approuvé votre demande de financement. <br>
-      <strong>Au lieu de </strong>: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
-    <p><strong>Écrivez </strong>: Nous examinerons tout type d'investissement.<br>
+      <strong>Au lieu de</strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
+    <p><strong>Écrivez</strong>&nbsp;: Nous examinerons tout type d'investissement.<br>
       <strong>Au lieu de</strong> <strong></strong>: Tout type d'investissement fera l'objet d'un examen de notre part.</p>
     <p class="mrgn-tp-lg">Essayez d'écrire des paragraphes de 3 phrases ou moins à l'aide des techniques suivantes&nbsp;:</p>
     <ul>
@@ -437,8 +437,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h3>2.8 Expliquer les références aux lois</h3>
     <p>Lorsque vous expliquez une exigence qui découle d'un article de loi ou d'un règlement, évitez de spécifier le nom de la loi ou du règlement. Donnez simplement les renseignements dont les gens ont besoin pour accomplir la tâche.</p>
     <p>Si vous <strong>devez </strong>inclure le nom de la loi ou du règlement, fournissez-en toujours une description en langage clair. Expliquez d'abord ce que votre public cible a besoin de savoir et pourquoi il doit en savoir plus sur cette loi ou ce règlement. Puis, vous pouvez ajouter la référence à la loi ou au règlement.</p>
-    <h4>Exemples <span class="wb-inv">de phrase faisant référence à une loi</span></h4>
-    <p><strong>Écrivez </strong>: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.</p>
+    <h4>Exemples de phrase faisant référence à une loi</h4>
+    <p><strong>Écrivez</strong>&nbsp;: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.</p>
     <p>Lien connexe</p>
     <ul>
       <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html">Loi sur la citoyenneté</a></cite>, article 5.1</li>
@@ -467,13 +467,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>cliquez sur <strong>Soumettre</strong>.</li>
       </ul>
       <p>Votre texte comprend peut-être des termes techniques contenant plusieurs syllabes et qui sont importants pour un public spécialisé. Retirez ces mots du texte avant d'évaluer la lisibilité du contenu pour déterminer si le texte qui entoure ces mots peut être simplifié.</p>
-      <p>Une seule note apparaîtra pour votre contenu. Le texte devrait se trouver dans les rangs supérieurs de «&nbsp;primaire&nbsp;» ou dans les rangs inférieurs de «&nbsp;secondaire&nbsp;».</p>
+      <p>Une seule note apparaîtra pour votre contenu. Le texte devrait se trouver dans les rangs supérieurs de &laquo;&nbsp;primaire&nbsp;&raquo; ou dans les rangs inférieurs de &laquo;&nbsp;secondaire&nbsp;&raquo;.</p>
       <figure class="mrgn-bttm-lg">
         <figcaption class="text-center"> <strong>Figure 2</strong> </figcaption>
-        <img alt="Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de «&nbsp;94 secondaire&nbsp;». " class="img-responsive center-block" src="/guide-redaction/images/fig-02-fra.jpg">
+        <img alt="Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de &laquo;&nbsp;94 secondaire&nbsp;&raquo;. " class="img-responsive center-block" src="/guide-redaction/images/fig-02-fra.jpg">
         <details>
           <summary> Figure 2 - Version textuelle </summary>
-          <p>Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de «&nbsp;94 secondaire&nbsp;».</p>
+          <p>Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de &laquo;&nbsp;94 secondaire&nbsp;&raquo;.</p>
         </details>
       </figure>
     </section>
@@ -499,7 +499,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>réduire la taille des mots, des phrases ou des paragraphes, tout en conservant les mots de 3&nbsp;syllabes ou plus qui sont bien connus de votre public cible;</li>
         <li>remplacer le jargon par des termes que votre public cible comprendra;</li>
         <li>éliminer les détails dont les gens n'ont pas besoin pour accomplir la tâche;</li>
-        <li>remplacer le nom d'un programme déjà cité par un terme court comme «&nbsp;le programme&nbsp;» au lieu d'utiliser son nom au long ou son abréviation;</li>
+        <li>remplacer le nom d'un programme déjà cité par un terme court comme &laquo;&nbsp;le programme&nbsp;&raquo; au lieu d'utiliser son nom au long ou son abréviation;</li>
         <li>présenter les tâches principales sous forme de listes à puces ou numérotées.</li>
       </ul>
     </section>
@@ -524,7 +524,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
                 <li><a href="#wp3-1-2">N'employez pas la première personne</a></li>
               </ul>
             </li>
-            <li><a href="#wp3-2">3.2 Utiliser le pronom «&nbsp;nous&nbsp;» pour désigner le gouvernement du Canada</a>
+            <li><a href="#wp3-2">3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada</a>
               <ul>
                 <li><a href="#wp3-2-1">Désigner les tierces parties</a></li>
               </ul>
@@ -546,7 +546,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <section id="wp3-1">
     <h3>3.1 Écrire directement à la personne</h3>
     <p>Adoptez un ton informel qui s'adresse aux gens directement en utilisant la deuxième personne du pluriel (vous).</p>
-    <h4>Exemples <span class="wb-inv">d'énoncés qui utilisent la deuxième personne du pluriel pour désigner les utilisateurs</span></h4>
+    <h4>Exemples d'énoncés qui utilisent la deuxième personne du pluriel pour désigner les utilisateurs</h4>
     <ul>
       <li>Envoyez votre demande à…</li>
       <li>Pour obtenir cette prestation, vous devez…</li>
@@ -555,14 +555,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vous pouvez utiliser la deuxième personne du singulier (tu) si vous vous adressez à un jeune public dans le cadre d'une campagne promotionnelle.</p>
     <section id="wp3-1-1">
       <h4>S'adresser à la personne dans les titres de page, les liens et les rubriques de navigation</h4>
-      <p>Dans le cas des titres de page, des liens et du texte des éléments de navigation, utilisez le pronom «&nbsp;votre&nbsp;» ou «&nbsp;vos&nbsp;» lorsqu'on peut considérer que l'objet du texte appartient aux représentants de votre public cible.</p>
-      <h5>Exemples <span class="wb-inv">de rubriques de navigation qui s'adressent directement au public cible à l'aide de l'adjectif possessif</span></h5>
+      <p>Dans le cas des titres de page, des liens et du texte des éléments de navigation, utilisez le pronom &laquo;&nbsp;votre&nbsp;&raquo; ou &laquo;&nbsp;vos&nbsp;&raquo; lorsqu'on peut considérer que l'objet du texte appartient aux représentants de votre public cible.</p>
+      <h5>Exemples de rubriques de navigation qui s'adressent directement au public cible à l'aide de l'adjectif possessif</h5>
       <ul>
         <li>Modifiez votre adresse</li>
         <li>Remplacez vos cartes</li>
       </ul>
-      <p class="mrgn-tp-lg">Si l'objet du titre de page, du lien ou de la rubrique de navigation fait référence à un renseignement général, utilisez «&nbsp;le&nbsp;», «&nbsp;la&nbsp;», «&nbsp;les&nbsp;», «&nbsp;un&nbsp;» ou «&nbsp;une&nbsp;».</p>
-      <h5>Exemples <span class="wb-inv">d'énoncés où l'adjectif possessif n'est pas utilisé</span></h5>
+      <p class="mrgn-tp-lg">Si l'objet du titre de page, du lien ou de la rubrique de navigation fait référence à un renseignement général, utilisez &laquo;&nbsp;le&nbsp;&raquo;, &laquo;&nbsp;la&nbsp;&raquo;, &laquo;&nbsp;les&nbsp;&raquo;, &laquo;&nbsp;un&nbsp;&raquo; ou &laquo;&nbsp;une&nbsp;&raquo;.</p>
+      <h5>Exemples d'énoncés où l'adjectif possessif n'est pas utilisé</h5>
       <ul>
         <li>Financer une nouvelle entreprise</li>
         <li>Payer les frais d'inscription</li>
@@ -570,16 +570,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <section id="wp3-1-2">
       <h4>N'employez pas la première personne</h4>
-      <p>Ne passez pas d'une voix directe, qui s'adresse aux gens, à une voix indirecte (comme si vous parliez en leur nom). N'utilisez pas les énoncés formulés avec le pronom «&nbsp;je&nbsp;».</p>
-      <h5>Exemple <span class="wb-inv">d'énoncés formulés autrement qu'avec «&nbsp;je&nbsp;»</span></h5>
-      <p><strong>Écrivez&nbsp;</strong>:</p>
+      <p>Ne passez pas d'une voix directe, qui s'adresse aux gens, à une voix indirecte (comme si vous parliez en leur nom). N'utilisez pas les énoncés formulés avec le pronom &laquo;&nbsp;je&nbsp;&raquo;.</p>
+      <h5>Exemple d'énoncés formulés autrement qu'avec &laquo;&nbsp;je&nbsp;&raquo;</h5>
+      <p><strong>Écrivez</strong>&nbsp;:</p>
       <ul>
         <li>Comment renouveler votre passeport</li>
         <li>Renouvelez votre passeport</li>
       </ul>
-      <p><strong>Au lieu de&nbsp;</strong>: Comment dois-je renouveler mon passeport?</p>
+      <p><strong>Au lieu de</strong>&nbsp;: Comment dois-je renouveler mon passeport?</p>
       <h5>Exception</h5>
-      <p>Vous pouvez utiliser «&nbsp;mon&nbsp;», «&nbsp;ma&nbsp;», «&nbsp;mes&nbsp;»&nbsp;dans le contenu, les titres de page et les liens lorsqu'il s'agit de <strong>noms&nbsp;propres </strong>(par exemple, Mon dossier Service Canada).</p>
+      <p>Vous pouvez utiliser &laquo;&nbsp;mon&nbsp;&raquo;, &laquo;&nbsp;ma&nbsp;&raquo;, &laquo;&nbsp;mes&nbsp;&raquo;&nbsp;dans le contenu, les titres de page et les liens lorsqu'il s'agit de <strong>noms&nbsp;propres </strong>(par exemple, Mon dossier Service Canada).</p>
       <div class="well panel"> 
         <!--UPDATE LATER-->
         <p><a href="{{ site.urldesign }}/style-guide/#wp3-1" aria-label="Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
@@ -588,13 +588,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
   </section>
   <section id="wp3-2">
-    <h3>3.2 Utiliser le pronom «&nbsp;nous&nbsp;» pour désigner le gouvernement du Canada</h3>
+    <h3>3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada</h3>
     <p>Nous fournissons généralement des renseignements du point de vue de l'ensemble du gouvernement plutôt que de celui d'une institution en particulier.</p>
     <p>Utilisez la première personne du pluriel (nous, notre et nos) lorsque vous rédigez au nom du gouvernement du Canada.</p>
-    <h4>Exemples <span class="wb-inv">d'énoncé formulé avec «&nbsp;nous&nbsp;» ou «&nbsp;notre&nbsp;» pour faire référence au gouvernement du Canada</span></h4>
+    <h4>Exemples d'énoncé formulé avec &laquo;&nbsp;nous&nbsp;&raquo; ou &laquo;&nbsp;notre&nbsp;&raquo; pour faire référence au gouvernement du Canada</h4>
     <p><strong>Écrivez</strong>: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, nous renouvellerons automatiquement votre demande existante.<br>
-      <strong>Au lieu de </strong>: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, Service Canada renouvellera automatiquement votre demande existante.</p>
-    <p class="mrgn-tp-lg">Utilisez «&nbsp;gouvernement du Canada&nbsp;» pour&nbsp;:</p>
+      <strong>Au lieu de</strong>&nbsp;: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, Service Canada renouvellera automatiquement votre demande existante.</p>
+    <p class="mrgn-tp-lg">Utilisez &laquo;&nbsp;gouvernement du Canada&nbsp;&raquo; pour&nbsp;:</p>
     <ul>
       <li>décrire la position du Canada sur un sujet lié à une autre administration (pays, province, territoire, ville, etc.) mentionnée dans le texte;</li>
       <li>expliquer le rôle du Canada à l'égard d'un sujet ou d'une question.</li>
@@ -605,23 +605,23 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>la personne doit contacter l'institution par téléphone, par courrier ou en ligne;</li>
       <li>le rôle de l'institution dans le contexte d'un processus est pertinent pour la tâche à accomplir.</li>
     </ul>
-    <h4>Exemples <span class="wb-inv">d'énoncés qui mentionnent une institution en particulier</span></h4>
+    <h4>Exemples d'énoncés qui mentionnent une institution en particulier</h4>
     <ul>
       <li>L'Agence du revenu du Canada vous indiquera si vous devez rembourser des prestations.</li>
       <li>L'Agence canadienne d'inspection des aliments accorde des permis pour certains produits de la viande.</li>
       <li>Toutes les drogues d'usage restreint et les drogues contrôlées nécessitent un permis d'importation de Santé Canada.</li>
     </ul>
     <p class="mrgn-tp-lg">Ne faites pas référence à votre site Web sur les pages de votre site.</p>
-    <h4>Exemples <span class="wb-inv">d'énoncé qui omet la référence à Canada.ca sur le site Canada.ca</span></h4>
-    <p><span id="exmp1"><strong>Écrivez </strong>: <a href="#exmp1" aria-label="Exemple d'une référence efficace. Le texte complet simule l'hyperlien">Déterminez si vous êtes admissible</a>.</span><br>
-      <span id="exmp2"><strong>Au lieu de </strong>: Obtenez des <a href="#exmp2" aria-label="Exemple d'une référence inefficace. Le texte «&nbsp;renseignements relatifs à l'admissibilité sur le site Canada.ca&nbsp;» simule l'hyperlien">renseignements relatifs à l'admissibilité sur le site Canada.ca</a>.</span></p>
+    <h4>Exemples d'énoncé qui omet la référence à Canada.ca sur le site Canada.ca</h4>
+    <p><span id="exmp1"><strong>Écrivez</strong>&nbsp;: <a href="#exmp1" aria-label="Exemple d'une référence efficace. Le texte complet simule l'hyperlien">Déterminez si vous êtes admissible</a>.</span><br>
+      <span id="exmp2"><strong>Au lieu de</strong>&nbsp;: Obtenez des <a href="#exmp2" aria-label="Exemple d'une référence inefficace. Le texte &laquo;&nbsp;renseignements relatifs à l'admissibilité sur le site Canada.ca&nbsp;&raquo; simule l'hyperlien">renseignements relatifs à l'admissibilité sur le site Canada.ca</a>.</span></p>
     <section id="wp3-2-1">
       <h4>Désigner les tierces parties</h4>
       <p>Ne donnez pas de renseignements au nom d'une autre organisation. Ne reproduisez pas les renseignements fournis sur le site Web d'une autre organisation. Dirigez plutôt les gens vers son site Web pour obtenir ces renseignements.</p>
       <p>Nommez l'autre organisation par son nom lorsque votre contenu y fait référence.</p>
-      <h5>Exemple <span class="wb-inv">d'énoncé faisant référence à une tierce partie</span></h5>
-      <p><strong>Écrivez </strong>: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
-        <strong>Au lieu de </strong>: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
+      <h5>Exemple d'énoncé faisant référence à une tierce partie</h5>
+      <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
+        <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
     </section>
     <div class="well panel"> 
       <!--UPDATE LATER-->
@@ -634,15 +634,15 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Le gouvernement publie des règles, des renseignements et des instructions qui relèvent d'une loi. Nous fournissons également des conseils sur la façon de les suivre.</p>
     <section id="wp3-3-1">
       <h4>Exprimer une obligation</h4>
-      <p>Lorsque vous informez les gens de ce que la loi exige d'eux, mentionnez ce qu'ils doivent faire au lieu de préciser ce qu'ils sont «&nbsp;légalement tenus de faire&nbsp;».</p>
+      <p>Lorsque vous informez les gens de ce que la loi exige d'eux, mentionnez ce qu'ils doivent faire au lieu de préciser ce qu'ils sont &laquo;&nbsp;légalement tenus de faire&nbsp;&raquo;.</p>
       <p>Utilisez un vocabulaire directif pour exprimer une obligation.</p>
-      <h5>Exemple <span class="wb-inv">d'énoncé exprimant une obligation</span></h5>
-      <p><strong>Écrivez </strong>: Vous devez remplir le questionnaire.<br>
-        <strong>Au lieu de </strong>: La Loi sur la statistique exige que vous remplissiez le présent questionnaire.</p>
+      <h5>Exemple d'énoncé exprimant une obligation</h5>
+      <p><strong>Écrivez</strong>&nbsp;: Vous devez remplir le questionnaire.<br>
+        <strong>Au lieu de</strong>&nbsp;: La Loi sur la statistique exige que vous remplissiez le présent questionnaire.</p>
     </section>
     <section id="wp3-3-2">
       <h4>Exprimer une recommandation </h4>
-      <p>Lorsque vous dites aux gens qu'une chose est permise sans être obligatoire, utilisez un vocabulaire qui dénote la permission ou la possibilité, tel que «&nbsp;pourriez&nbsp;» ou «&nbsp;pouvez&nbsp;».</p>
+      <p>Lorsque vous dites aux gens qu'une chose est permise sans être obligatoire, utilisez un vocabulaire qui dénote la permission ou la possibilité, tel que &laquo;&nbsp;pourriez&nbsp;&raquo; ou &laquo;&nbsp;pouvez&nbsp;&raquo;.</p>
       <div class="well panel"> 
         <!--UPDATE LATER-->
         <p><a href="{{ site.urldesign }}/style-guide/#wp3-3" aria-label="Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
@@ -705,9 +705,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <li>Cette règle ne s'applique pas aux slogans.</li>
           <li>Utilisez le point d'interrogation uniquement lorsqu'on demande aux gens de fournir des renseignements dans un formulaire, un questionnaire ou un sondage.</li>
         </ul>
-        <h5>Exemple <span class="wb-inv">de point d'interrogation dans un formulaire, un questionnaire ou un sondage</span></h5>
+        <h5>Exemple de point d'interrogation dans un formulaire, un questionnaire ou un sondage</h5>
         <figure class="mrgn-bttm-lg">
-          <figcaption class="text-center"> <strong>Figure 3</strong> </figcaption>
+          <figcaption class="text-center"><strong>Figure 3</strong></figcaption>
           <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="/guide-redaction/images/fig-03-fra.jpg">
           <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
             <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
@@ -750,7 +750,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <li>Ne mettez pas de point d'exclamation ou d'interrogation après les éléments d'une liste.</li>
         </ul>
         <p>Lorsque les listes à puces forment des éléments distincts sur le plan grammatical ou si elles sont introduites par un sous-titre, mettez la première lettre de chaque élément en majuscule.</p>
-        <h5>Exemples <span class="wb-inv">de listes à puces indépendantes</span></h5>
+        <h5>Exemples de listes à puces indépendantes</h5>
         <p><strong>En demande</strong></p>
         <ul>
           <li><a href="http://www.entreprisescanada.ca/fra/page/2852/pof-191/">Financement pour votre nouvelle entreprise</a></li>
@@ -759,7 +759,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/subvention-emploi/employeurs.html">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
         </ul>
         <p class="mrgn-tp-lg">Lorsque le sens des éléments d'une liste à puces dépend d'une phrase d'introduction, mettez la première lettre de chaque élément en minuscule, sauf s'il s'agit d'un nom propre.</p>
-        <h5>Exemples <span class="wb-inv">d'une liste à puces dont le sens dépend d'une phrase d'introduction</span></h5>
+        <h5>Exemples d'une liste à puces dont le sens dépend d'une phrase d'introduction</h5>
         <p>Les représentants peuvent être&nbsp;:</p>
         <ul>
           <li>des consultants en citoyenneté ou en immigration;</li>
@@ -838,11 +838,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Consultez vos données d'analyse pour savoir quels mots-clés votre public cible utilise pour trouver votre contenu.</p>
     <p>Si un terme formé de plusieurs mots revient plus d'une fois dans une page Web, écrivez-le au long la première fois qu'il figure sur la page. Lorsque vous y faites référence par la suite&nbsp;:</p>
     <ul>
-      <li>écrivez «&nbsp;le programme&nbsp;», «&nbsp;le plan&nbsp;», «&nbsp;le fonds&nbsp;», etc., avec une lettre initiale minuscule, au lieu de répéter le terme en toutes lettres ou d'utiliser son acronyme ou une abréviation;</li>
+      <li>écrivez &laquo;&nbsp;le programme&nbsp;&raquo;, &laquo;&nbsp;le plan&nbsp;&raquo;, &laquo;&nbsp;le fonds&nbsp;&raquo;, etc., avec une lettre initiale minuscule, au lieu de répéter le terme en toutes lettres ou d'utiliser son acronyme ou une abréviation;</li>
       <li>employez une abréviation comme référence secondaire seulement si les données d'analyse ou les tests d'utilisation révèlent qu'elle est bien connue et couramment utilisée comme mot-clé dans les moteurs de recherche.</li>
     </ul>
     <p>Il faut toujours écrire une abréviation au long la première fois que vous l'utilisez sur une page Web.</p>
-    <h4>Exemples <span class="wb-inv">d'énoncés sans abréviation ni acronyme</span></h4>
+    <h4>Exemples d'énoncés sans abréviation ni acronyme</h4>
     <p><strong>Écrivez</strong>&nbsp;: Il y a 15 centres de contact avec la clientèle dans l'ensemble du Canada.<br>
       <strong>Au lieu de</strong>&nbsp;: Il y a 15 CCC dans l'ensemble du Canada.</p>
     <p><strong>Écrivez</strong>&nbsp;: La loi consolide l'engagement du gouvernement du Canada…<br>
@@ -854,7 +854,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Assurez-vous que le sujet est clos avant de mention d'autres lois et obligations juridiques.</p>
     <section id="wp4-4-1">
       <h4>Citer des exemples</h4>
-      <p>Évitez d'utiliser les abréviations «&nbsp;p. ex.&nbsp;» et «&nbsp;c.-à-d.&nbsp;». Choisissez des options plus claires&nbsp;:</p>
+      <p>Évitez d'utiliser les abréviations &laquo;&nbsp;p. ex.&nbsp;&raquo; et &laquo;&nbsp;c.-à-d.&nbsp;&raquo;. Choisissez des options plus claires&nbsp;:</p>
       <p><strong>Écrivez</strong>&nbsp;: par exemple, tel que ou comme<br>
         <strong>Au lieu de</strong>&nbsp;: p. ex.&nbsp;</p>
       <p><strong>Écrivez</strong>&nbsp;: c'est-à-dire <br>
@@ -886,20 +886,20 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </li>
       <li>Conservez les chiffres romains pour les noms propres (la partie II de la <cite>Loi sur la pension dans la fonction publique</cite>).</li>
       <li>Jumelez le chiffre et le mot qui désigne un grand nombre, et insérez une espace insécable (Ctrl+Shift+barre Espace) entre les deux (5 millions, 20 ans).</li>
-      <li>Écrivez «&nbsp;premier&nbsp;», «&nbsp;deuxième&nbsp;», «&nbsp;troisième&nbsp;» et ainsi de suite jusqu'à «&nbsp;neuvième&nbsp;».</li>
+      <li>Écrivez &laquo;&nbsp;premier&nbsp;&raquo;, &laquo;&nbsp;deuxième&nbsp;&raquo;, &laquo;&nbsp;troisième&nbsp;&raquo; et ainsi de suite jusqu'à &laquo;&nbsp;neuvième&nbsp;&raquo;.</li>
       <li>Écrivez l'exposant dans la même taille de police pour&nbsp;:
         <ul>
           <li>le premier jour du mois (1er décembre);</li>
           <li>les adjectifs numéraux au-delà de 10 (10e, 50e, 150e).</li>
         </ul>
       </li>
-      <li>Utilisez «&nbsp;de…&nbsp;à…&nbsp;» et «&nbsp;entre… et…&nbsp;» plutôt qu'un tiret pour désigner une échelle de chiffres (par exemple, de 4&nbsp;000&nbsp;$ à 10&nbsp;000&nbsp;$ ou entre 4 et 10 ans).</li>
+      <li>Utilisez &laquo;&nbsp;de…&nbsp;à…&nbsp;&raquo; et &laquo;&nbsp;entre… et…&nbsp;&raquo; plutôt qu'un tiret pour désigner une échelle de chiffres (par exemple, de 4&nbsp;000&nbsp;$ à 10&nbsp;000&nbsp;$ ou entre 4 et 10 ans).</li>
       <li>Il n'est pas nécessaire de répéter l'abréviation ou le symbole si une espace le sépare du chiffre (par exemple, de 3 à 6 ml, de 10 à 12 %).</li>
     </ul>
     <h4>Âges</h4>
     <ul>
       <li>Adultes âgés de 30 ans et plus</li>
-      <li>Les enfants âgés de 0 à 10 ans (et non «&nbsp;0–10 ans&nbsp;»)</li>
+      <li>Les enfants âgés de 0 à 10 ans (et non &laquo;&nbsp;0–10 ans&nbsp;&raquo;)</li>
       <li>Les participants ont entre 0 et 10 ans</li>
     </ul>
     <div class="well panel"> 
@@ -911,7 +911,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <section id="wp4-7">
     <h3>4.7 Dates</h3>
     <ul>
-      <li>Écrivez «&nbsp;31 juillet 2016&nbsp;» ou «&nbsp;31 juillet&nbsp;» si l'année est déjà clairement indiquée;
+      <li>Écrivez &laquo;&nbsp;31 juillet 2016&nbsp;&raquo; ou &laquo;&nbsp;31 juillet&nbsp;&raquo; si l'année est déjà clairement indiquée;
         <ul>
           <li>ne mettez pas de virgule entre la date et l'année (par exemple, 31 juillet 2016).</li>
         </ul>
@@ -927,7 +927,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h4>Périodes de temps</h4>
     <ul>
-      <li>Utilisez «&nbsp;de… à…&nbsp;», «&nbsp;du… au…&nbsp;» et «&nbsp;entre… et…&nbsp;» plutôt qu'un tiret pour désigner une période de temps. Par exemple&nbsp;:
+      <li>Utilisez &laquo;&nbsp;de… à…&nbsp;&raquo;, &laquo;&nbsp;du… au…&nbsp;&raquo; et &laquo;&nbsp;entre… et…&nbsp;&raquo; plutôt qu'un tiret pour désigner une période de temps. Par exemple&nbsp;:
         <ul>
           <li>année civile 2014;</li>
           <li>du lundi au vendredi;</li>
@@ -979,7 +979,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         [Renseignements supplémentaires] <br>
         [Unité ou bureau]-[Numéro municipal] [Type de rue abrégé] [Nom de la rue] [Orientation de la rue abrégée]<br>
         [Ville] [Indicatif à deux lettres de la province ou territoire]&nbsp; [Code postal]</p>
-      <h5>Exemple <span class="wb-inv">d'une adresse postale</span></h5>
+      <h5>Exemple d'une adresse postale</h5>
       <p>Intégrité<br>
         Direction générale de la surveillance<br>
         Services publics et approvisionnement Canada<br>
@@ -990,12 +990,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <section id="wp4-10-2">
       <h4>Adresses de courriel</h4>
       <p>Écrivez les adresses de courriel au long au lieu de les intégrer dans le contenu.</p>
-      <p><strong>Écrivez&nbsp;</strong>:</p>
+      <p><strong>Écrivez</strong>&nbsp;:</p>
       <ul>
         <li>Veuillez soumettre votre demande par courriel à <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
         <li>Pour soumettre votre demande par courriel&nbsp;: <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
       </ul>
-      <p><strong>Au lieu de&nbsp;</strong>: <a href="mailto:abcxyz@canada.ca">Contactez-nous par courriel</a> pour soumettre votre demande.</p>
+      <p><strong>Au lieu de</strong>&nbsp;: <a href="mailto:abcxyz@canada.ca">Contactez-nous par courriel</a> pour soumettre votre demande.</p>
       <div class="well panel"> 
         <!--UPDATE LATER-->
         <p><a href="{{ site.urldesign }}/style-guide/#wp4-10" aria-label="Voyez comment la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
@@ -1047,7 +1047,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>les listes verticales;</li>
     <li>les tableaux.</li>
   </ul>
-  <h3 class="h4">Structurer le contenu dans une page Web</h3>
+  <h3>Structurer le contenu dans une page Web</h3>
   <p>Assurez-vous&nbsp;:</p>
   <ul>
     <li>de subdiviser la page en sections logiques pour donner un aperçu de l'information qu'elle contient;</li>
@@ -1058,7 +1058,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>visible pour les moteurs de recherche et plus facile à trouver;</li>
     <li>facile à voir sur les appareils mobiles.</li>
   </ul>
-  <h3 class="h4">Structurer le contenu sur plusieurs pages Web</h3>
+  <h3>Structurer le contenu sur plusieurs pages Web</h3>
   <p>Pensez à la démarche de la personne lorsqu'elle parcourt votre texte. Si&nbsp;:</p>
   <ul>
     <li>votre page Web aborde trop de sujets, il est possible qu'il soit plus approprié de la diviser en plusieurs pages;</li>
@@ -1094,7 +1094,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <p>Ils affichent le titre de page sous forme de lien dans la page de résultats.</p>
       <p>Les titres de page uniques permettent aux moteurs de recherche de faire une distinction entre diverses pages similaires. Ils font également en sorte que les gens n'aient pas à examiner de nombreuses pages du même nom pour trouver l'information requise.</p>
-      <p>Vous pouvez utiliser un moteur de recherche pour vérifier si votre titre de page est unique en inscrivant le titre de la page, suivi de «&nbsp;site:» ainsi que du nom de domaine (par exemple, «&nbsp;salubrité des aliments site:gc.ca&nbsp;» ou, «&nbsp;salubrité des aliments site:canada.ca&nbsp;»).</p>
+      <p>Vous pouvez utiliser un moteur de recherche pour vérifier si votre titre de page est unique en inscrivant le titre de la page, suivi de &laquo;&nbsp;site:» ainsi que du nom de domaine (par exemple, &laquo;&nbsp;salubrité des aliments site:gc.ca&nbsp;&raquo; ou, &laquo;&nbsp;salubrité des aliments site:canada.ca&nbsp;&raquo;).</p>
     </section>
     <section id="wp5-1-3">
       <h4>Utiliser le titre et les sous-titres de la page pour mettre sa structure en évidence</h4>
@@ -1145,11 +1145,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>qui sont liés à ce que la personne indique dans la barre de recherche.</li>
       </ul>
       <p class="mrgn-tp-lg">Lorsque vous affichez une publication en ligne, vous devez l'adapter pour le Web. Voici quelques techniques de base qui vous aideront à obtenir les meilleurs résultats&nbsp;:</p>
-      <h6 class="h4">Utilisez un titre qui décrit le contenu de la page</h6>
+      <h6>Utilisez un titre qui décrit le contenu de la page</h6>
       <p>Le titre principal (Titre 1) de la page est le texte que vous voyez en haut de la page lorsque vous la regardez. Assurez-vous qu'il décrit bien le sujet de votre publication en langage clair et simple.</p>
-      <h6 class="h4">Utilisez le premier paragraphe pour introduire votre publication </h6>
+      <h6>Utilisez le premier paragraphe pour introduire votre publication </h6>
       <p>Le premier paragraphe de votre page Web doit introduire votre publication en langage clair et simple. Il aide les personnes qui consultent votre page à déterminer s'ils ont trouvé ce qu'ils cherchent. Vous pouvez inclure le titre de votre publication ici.</p>
-      <h6 class="h4">Incluez des mots-clés dans les métadonnées de la page</h6>
+      <h6>Incluez des mots-clés dans les métadonnées de la page</h6>
       <p>Utilisez les métabalises Titre et Description pour améliorer le classement de votre publication dans les résultats de recherche. Voici ce que vous pouvez faire&nbsp;:</p>
       <p><strong>Métabalise Titre</strong>&nbsp;: La métabalise Titre de la page est le texte en hyperlien bleu que vous voyez lorsque les moteurs de recherche génèrent une liste de résultats. Trouvez un titre principal (Titre 1) efficace pour votre page et utilisez-le aussi comme métabalise Titre.</p>
       <p><strong>Métabalise Description</strong>&nbsp;: La métabalise Description est le contenu que vous voyez sous le texte en hyperlien bleu dans la liste des résultats de recherche. <strong>Évitez d'énumérer seulement des mots-clés,</strong> car les moteurs de recherche tendent à ne pas les prendre en considération. Écrivez une (1) ou 2 phrases courtes qui décrivent le contenu de la page. Assurez-vous d'inclure les mots-clés que vos publics cibles utilisent lorsqu'ils cherchent votre contenu (par exemple, des abréviations qu'ils connaissent bien).</p>
@@ -1180,8 +1180,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <p>Si c'est pertinent, précisez dans la phrase d'introduction s'il faut prendre en compte <strong>tous</strong> les éléments ou <strong>un ou l'autre</strong>&nbsp;des éléments de la liste. Par exemple, vous pouvez écrire&nbsp;:</p>
       <ul>
-        <li>«&nbsp;Vous devez répondre à toutes les exigences ci-dessous&nbsp;:&nbsp;»</li>
-        <li>«&nbsp;Pour soumettre une demande, vous devez répondre à une (1) ou plusieurs des exigences ci-dessous&nbsp;:&nbsp;»</li>
+        <li>&laquo;&nbsp;Vous devez répondre à toutes les exigences ci-dessous&nbsp;:&nbsp;&raquo;</li>
+        <li>&laquo;&nbsp;Pour soumettre une demande, vous devez répondre à une (1) ou plusieurs des exigences ci-dessous&nbsp;:&nbsp;&raquo;</li>
       </ul>
     </section>
     <section id="wp5-2-2">
@@ -1197,8 +1197,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <section id="wp5-2-3">
       <h4>Listes à puces</h4>
       <p>Présentez une seule idée par puce. Si vous devez inclure plus de renseignements pour clarifier une idée, utilisez des listes en retrait, mais avec modération.</p>
-      <h5>Exemple <span class="wb-inv">de listes à puces</span></h5>
-      <p><strong>Écrivez </strong>:</p>
+      <h5>Exemple de listes à puces</h5>
+      <p><strong>Écrivez</strong>&nbsp;:</p>
       <p>Pour rédiger un document source de qualité&nbsp;:</p>
       <ul>
         <li>organisez vos idées;
@@ -1212,7 +1212,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>rédigez des phrases brèves et des paragraphes courts;</li>
         <li>suivez les lignes directrices du <cite>Guide de rédaction du contenu du site Canada.ca</cite>.</li>
       </ul>
-      <p><strong>Au lieu de </strong>:</p>
+      <p><strong>Au lieu de</strong>&nbsp;:</p>
       <p>Pour rédiger un document source de qualité&nbsp;:</p>
       <ul>
         <li>organisez vos idées;</li>
@@ -1246,7 +1246,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>la valeur de chaque cellule concorde avec l'en-tête de colonne qui figure directement au-dessus.</li>
     </ul>
     <p>Présentez votre tableau à l'aide d'un titre clair qui décrit les renseignements contenus dans le tableau.</p>
-    <h4>Exemple <span class="wb-inv">d'utilisation d'un tableau pour organiser des données</span></h4>
+    <h4>Exemple d'utilisation d'un tableau pour organiser des données</h4>
     <table class="table table-bordered table-condensed">
       <caption class="text-center">
       <strong>Exemple d'utilisation d'un tableau pour organiser des données<br>
@@ -1281,11 +1281,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Vérifiez si la relation est cohérente entre les colonnes et les rangées d'un tableau.</p>
       <p>Par exemple, dans le tableau ci-dessus, demandez-vous&nbsp;si les renseignements figurant dans une&nbsp;:</p>
       <ul>
-        <li>colonne concordent avec l'en-tête de colonne directement au-dessus («&nbsp;Crédit 1&nbsp;», «&nbsp;2011 à 2012&nbsp;» (en millions de dollars) et «&nbsp;2012 à 2013&nbsp;» (en millions de dollars));</li>
-        <li>rangée concordent avec l'en-tête de rangée qui les décrit («&nbsp;Autorisations budgétaires nettes&nbsp;» et «&nbsp;Dépenses cumulatives au 31&nbsp;décembre&nbsp;»).</li>
+        <li>colonne concordent avec l'en-tête de colonne directement au-dessus (&laquo;&nbsp;Crédit 1&nbsp;&raquo;, &laquo;&nbsp;2011 à 2012&nbsp;&raquo; (en millions de dollars) et &laquo;&nbsp;2012 à 2013&nbsp;&raquo; (en millions de dollars));</li>
+        <li>rangée concordent avec l'en-tête de rangée qui les décrit (&laquo;&nbsp;Autorisations budgétaires nettes&nbsp;&raquo; et &laquo;&nbsp;Dépenses cumulatives au 31&nbsp;décembre&nbsp;&raquo;).</li>
       </ul>
       <p>Votre équipe Web utilisera les renseignements contenus dans les en-têtes de colonne et de rangée pour coder le tableau. &nbsp;Ainsi, les lecteurs d'écrans pourront en interpréter correctement les données.</p>
-      <h5>Exemple <span class="wb-inv">de l'utilisation appropriée d'en-têtes de colonne et de rangée</span></h5>
+      <h5>Exemple de l'utilisation appropriée d'en-têtes de colonne et de rangée</h5>
       <p>Dans l'exemple suivant, toutes les cellules de la première&nbsp;:</p>
       <ul>
         <li>rangée sont des entêtes de colonne et sont identifiées par les caractères gras et la couleur grise;</li>
@@ -1349,7 +1349,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           </tr>
         </tfoot>
       </table>
-      <p class="mrgn-tp-lg">En examinant l'en-tête des colonnes «&nbsp;Date d'attribution du contrat&nbsp;», «&nbsp;Nom du fournisseur&nbsp;» et «&nbsp;Valeur&nbsp;», on comprend que le 23 février 2010, l'entreprise Service conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
+      <p class="mrgn-tp-lg">En examinant l'en-tête des colonnes &laquo;&nbsp;Date d'attribution du contrat&nbsp;&raquo;, &laquo;&nbsp;Nom du fournisseur&nbsp;&raquo; et &laquo;&nbsp;Valeur&nbsp;&raquo;, on comprend que le 23 février 2010, l'entreprise Service conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
     </section>
     <section id="wp5-3-2">
       <h4>Utiliser la structure de tableau la plus simple possible</h4>
@@ -1359,7 +1359,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>divisez un tableau complexe en un ou plusieurs tableaux simples;</li>
         <li>convertissez un tableau en texte sous forme de liste d'éléments si les données sont simples.</li>
       </ul>
-      <h5 class="h4">Avant&nbsp;: tableau complexe</h5>
+      <h5>Avant&nbsp;: tableau complexe</h5>
       <p>Le tableau qui suit est complexe et mal conçu. Il serait difficile d'y accéder et d'en comprendre l'information à l'aide d'un lecteur d'écran ou d'un appareil mobile.</p>
       <h6> Exemple <span class="wb-inv">de tableau complexe</span></h6>
       <table class="table table-bordered table-condensed">
@@ -1404,7 +1404,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <tfoot>
         </tfoot>
       </table>
-      <h5 class="h4">Après&nbsp;: tableaux simples</h5>
+      <h5>Après&nbsp;: tableaux simples</h5>
       <p>Le tableau complexe peut être facilement divisé en tableaux simples.</p>
       <h6>Exemple&nbsp;: un tableau simple</h6>
       <table class="table table-bordered table-condensed">
@@ -1540,11 +1540,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>un sous-titre;</li>
         <li>le contenu qui accompagne le tableau.</li>
       </ul>
-      <p>Si cela est plus clair et ne risque pas d'occasionner de «&nbsp;pollution visuelle&nbsp;» pouvant distraire les gens, vous pouvez ajouter le texte suivant dans la cellule&nbsp;:</p>
+      <p>Si cela est plus clair et ne risque pas d'occasionner de &laquo;&nbsp;pollution visuelle&nbsp;&raquo; pouvant distraire les gens, vous pouvez ajouter le texte suivant dans la cellule&nbsp;:</p>
       <ul>
-        <li>«&nbsp;aucune donnée disponible&nbsp;»;</li>
-        <li>«&nbsp;0&nbsp;» (zéro);</li>
-        <li>«&nbsp;s/o&nbsp;» (sans objet).</li>
+        <li>&laquo;&nbsp;aucune donnée disponible&nbsp;&raquo;;</li>
+        <li>&laquo;&nbsp;0&nbsp;&raquo; (zéro);</li>
+        <li>&laquo;&nbsp;s/o&nbsp;&raquo; (sans objet).</li>
       </ul>
     </section>
     <div class="well panel"> 
@@ -1614,7 +1614,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>graphiques</li>
     </ul>
     <p><a href="#wp6-2">Ajoutez un texte alternatif approprié</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
-    <h5>Exemples <span class="wb-inv">d'images fonctionnelles</span></h5>
+    <h5>Exemples d'images fonctionnelles</h5>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
       <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/guide-redaction/images/fig-04-fra.jpg">
@@ -1809,7 +1809,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>N'insérez pas de texte important, comme des titres de campagne ou de programme, dans des images décoratives.</p>
     <p><a href="#wp6-2">Ajoutez un texte alternatif</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
     <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>.</p>
-    <h5>Exemple <span class="wb-inv">d'une image décorative</span></h5>
+    <h5>Exemple d'une image décorative</h5>
     <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="/guide-redaction/images/fig-06-fra.jpg"></p>
     <p><strong>Description de l'image</strong></p>
     <p>Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail.</p>
@@ -1838,7 +1838,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>tentez de limiter le texte à moins de 170 caractères (y compris les espaces);</li>
     <li>utilisez le texte qui figure sur une image fonctionnelle comme texte alternatif seulement s'il fournit suffisamment de contexte, ou rédigez un autre texte en incluant plus d'information;</li>
     <li>utilisez l'indicateur vide (alt="") comme texte alternatif si l'image ne donne pas davantage de renseignements que ce que fournit déjà le texte avoisinant;</li>
-    <li>ne décrivez pas une image ou un graphique par le même mot (par exemple, «&nbsp;image du...&nbsp;» ou «&nbsp;graphique des...&nbsp;»), car les lecteurs d'écran le font déjà.</li>
+    <li>ne décrivez pas une image ou un graphique par le même mot (par exemple, &laquo;&nbsp;image du...&nbsp;&raquo; ou &laquo;&nbsp;graphique des...&nbsp;&raquo;), car les lecteurs d'écran le font déjà.</li>
   </ul>
   <p>Les <a href="#wp6-1-2">images décoratives</a> n'exigent pas de renseignements supplémentaires pour les rendre accessibles ou visibles aux moteurs de recherche. Utilisez l'indicateur vide (alt="") en guise de texte alternatif.</p>
   <div class="well panel"> 
@@ -1853,7 +1853,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>Si une explication détaillée d'une image complexe figure dans le texte qui précède ou qui suit immédiatement l'image, il n'est pas nécessaire de fournir une description longue.</p>
   <p>Si vous fournissez une description longue pour une image, vous devez aussi fournir un texte alternatif qui renvoie à la description longue.</p>
   <p>La figure 1 illustre un certain nombre de concepts. Elle nécessite une description longue.</p>
-  <h4>Exemple<span class="wb-inv">: Description longue pour le tableau de bord</span></h4>
+  <h4>Exemple&nbsp;: Description longue pour le tableau de bord</h4>
   <figure class="mrgn-bttm-lg">
     <figcaption class="text-center"> <strong>Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement</strong> </figcaption>
     <img alt="Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement" class="img-responsive center-block" src="/guide-redaction/images/fig-01b-fra.jpg">
@@ -1889,7 +1889,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
   </figure>
   <p>La figure 2 est un graphique à barres qui représente les données contenues dans le tableau de données. Vous pourriez donc utiliser le tableau comme description longue pour accompagner cette image.</p>
-  <h4>Exemple<span class="wb-inv">: Description longue pour le graphique à barres illustrant le rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</span></h4>
+  <h4>Exemple&nbsp;: Description longue pour le graphique à barres illustrant le rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</h4>
   <figure class="mrgn-bttm-lg">
     <figcaption class="text-center"> <strong>Figure 2: Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong> </figcaption>
     <img alt="Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010" class="img-responsive center-block" src="/guide-redaction/images/fig-02b-fra.jpg">
@@ -2008,10 +2008,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li>ajoutez des liens qui appuient directement le sujet ou la tâche de la page en question;</li>
       <li>fournissez des liens menant au à l'information d'origine publiée par la source faisant autorité;</li>
-      <li>n'incluez pas de liens vers des sites intranet sauf si le contenu est destiné à des employés fédéraux, auquel cas il faudra ajouter la mention «&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;»;</li>
+      <li>n'incluez pas de liens vers des sites intranet sauf si le contenu est destiné à des employés fédéraux, auquel cas il faudra ajouter la mention &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;;</li>
       <li>ne mettez pas de liens essentiels à la tâche au milieu d'un paragraphe ou au bas d'une page.</li>
     </ul>
-    <h4>Exemple <span class="wb-inv">d'une utilisation appropriée des hyperliens</span></h4>
+    <h4>Exemple d'une utilisation appropriée des hyperliens</h4>
     <h6>Écrivez&nbsp;:</h6>
     <p>Une portion selon le Guide alimentaire est la quantité d'aliments de chacun des 4 groupes que l'on devrait manger chaque jour. Dans certains cas, une portion correspond à un aliment que l'on mange habituellement en une seule fois, comme une pomme. Dans d'autres, la quantité quotidienne correspond à plus d'une portion, comme pour du riz ou des pâtes.</p>
     <p><a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-fra.php">Nombre de portions quotidiennes pour les enfants, les adolescents et les adultes</a></p>
@@ -2044,14 +2044,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>N'utilisez pas&nbsp;:</p>
     <ul>
       <li>le même texte pour des liens qui mènent à 2 pages différentes;</li>
-      <li>d'expressions vagues comme «&nbsp;cliquez ici&nbsp;» ou «&nbsp;pour en savoir plus&nbsp;»;</li>
+      <li>d'expressions vagues comme &laquo;&nbsp;cliquez ici&nbsp;&raquo; ou &laquo;&nbsp;pour en savoir plus&nbsp;&raquo;;</li>
       <li>de message promotionnel qui risque d'être déroutant pour quelqu'un qui tente de décider s'il naviguera jusqu'à la page.</li>
     </ul>
     <section id="wp7-2-1">
       <h4>Mettre l'accent sur la tâche</h4>
       <p>Lorsque vous rédigez des instructions sur la façon d'exécuter une tâche, vous devez parfois insérer un lien pour diriger la personne vers les formulaires ou d'autres documents. Créez ce lien en mettant l'accent sur l'action qu'elle doit accomplir.</p>
       <p>Ne répétez pas le titre d'un formulaire ou d'un document dans les étapes à suivre si ce titre n'est pas assez descriptif.</p>
-      <h4>Exemple <span class="wb-inv">de la façon d'utiliser des hyperliens en mettant l'accent sur la tâche</span></h4>
+      <h4>Exemple de la façon d'utiliser des hyperliens en mettant l'accent sur la tâche</h4>
       <h6>Écrivez&nbsp;:</h6>
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit&nbsp;:</p>
       <ul>
@@ -2088,11 +2088,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Sur les pages en français, ajoutez le texte suivant après un lien&nbsp;qui renvoie à du contenu qui n'est pas en français&nbsp;: (en XXXX seulement).</p>
     <p>Si le lien renvoie à du contenu seulement disponible en&nbsp;:</p>
     <ul>
-      <li>anglais, écrivez «&nbsp;&nbsp;(en anglais seulement)&nbsp;»;</li>
-      <li>inuktitut, écrivez «&nbsp;(en inuktitut seulement)&nbsp;»;</li>
-      <li>espagnol et portugais, écrivez «&nbsp;(en espagnol et portugais seulement)&nbsp;».</li>
+      <li>anglais, écrivez &laquo;&nbsp;&nbsp;(en anglais seulement)&nbsp;&raquo;;</li>
+      <li>inuktitut, écrivez &laquo;&nbsp;(en inuktitut seulement)&nbsp;&raquo;;</li>
+      <li>espagnol et portugais, écrivez &laquo;&nbsp;(en espagnol et portugais seulement)&nbsp;&raquo;.</li>
     </ul>
-    <h4>Exemple <span class="wb-inv">de l'utilisation d'un hyperlien qui renvoie à un contenu disponible en anglais seulement</span></h4>
+    <h4>Exemple de l'utilisation d'un hyperlien qui renvoie à un contenu disponible en anglais seulement</h4>
     <p><strong>Écrivez</strong>&nbsp;: Informez-vous au sujet des <a href="https://help.cbp.gov/app/answers/detail/a_id/1192/~/canadian--citizens%2Fresidents%2Flanded-immigrants-entering-the-u.s.">documents requis pour permettre aux citoyens canadiens d'entrer aux États-Unis</a> (en anglais seulement).</p>
     <div class="well panel"> 
       <!--UPDATE LATER-->
@@ -2103,7 +2103,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <section id="wp7-5">
     <h3>7.5 Créer des liens vers du contenu interne</h3>
     <p>En général, le contenu destiné au public ne devrait pas contenir de liens renvoyant vers du contenu accessible seulement sur les serveurs internes du gouvernement. Il arrive cependant qu'un contenu accessible au public s'adresse essentiellement aux employés de la fonction publique.</p>
-    <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez «&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;».</p>
+    <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</p>
     <div class="well panel"> 
       <!--UPDATE LATER-->
       <p><a href="{{ site.urldesign }}/style-guide/#wp7-5" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
