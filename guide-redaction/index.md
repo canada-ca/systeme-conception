@@ -1732,10 +1732,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </details>
     </figure>
     <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 5</strong> </figcaption>
-      <img alt="Bar chart for number of pages by main purpose and audience" class="img-responsive center-block" src="/guide-redaction/images/fig-05-fra.jpg">
+      <figcaption class="text-center"><strong>Figure 5</strong></figcaption>
+      <img alt="Nombre de page par objectif principal et par audience" class="img-responsive center-block" src="/guide-redaction/images/fig-05-fra.png">
       <details>
-        <summary> Figure 5 - Version textuelle </summary>
+        <summary>Figure 5 - Version textuelle</summary>
         <table class="table table-bordered table-condensed">
           <tbody>
             <tr class="active">
