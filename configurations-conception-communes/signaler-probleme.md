@@ -112,27 +112,6 @@ title: "Signaler un problème sur cette page"
  <h2 id="comment">
   Comment mettre en œuvre
  </h2>
- <section class="alert alert-warning">
-  <h3>
-   Utilisation de la Solution de gabarits à déploiement centralisé (SGDC) pour mettre en œuvre le thème du site
-					Canada.ca.
-  </h3>
-  <p>
-   Ne mettez pas en œuvre ce modèle au moyen de la SGDC. Pour désactiver le pied de page dans la SGDC :
-  </p>
-  <ul>
-   <li>
-    utilisez la version de la SGDC pour les applications Web du GC, même s’il s’agit de vos pages HTML
-						statiques;
-   </li>
-   <li>
-    supprimez la référence pour le « pré-pied de page ».
-   </li>
-  </ul>
-  <p>
-   Vous devriez ensuite afficher le formulaire « Signaler un problème » à sa place.
-  </p>
- </section>
  <p>
   Le bouton, l’étiquette, le placement et l’énoncé de protection des renseignements personnels sont obligatoires
 				:
