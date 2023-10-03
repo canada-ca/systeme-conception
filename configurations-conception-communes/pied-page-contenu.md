@@ -77,9 +77,9 @@ title: 'Pied de page de la zone du contenu '
 
 <ul>
  <li>
-  <a href="signaler-probleme.html">
-   Signaler un problème
-  </a>
+   <a href="https://test.canada.ca/experimental/feedback-retroaction/outil-retroaction.html">
+  Outil de rétroaction sur la page
+ </a>
   (facultatif)
  </li>
  <li>
@@ -102,21 +102,6 @@ title: 'Pied de page de la zone du contenu '
 </p>
 
 <h2>
- Outil pilote de rétroaction sur la page
-</h2>
-
-<p>
- L’outil de rétroaction sur la page est un produit pilote. Ajoutez ce modèle au pied de page de la zone du contenu à la
-    place du modèle "Signaler un problème" pour recueillir activement les commentaires des utilisateurs.
-</p>
-
-<p>
- <a href="https://conception.canada.ca/amelioration-continue/mesure/retroaction.html">
-  Outil de rétroaction sur la page
- </a>
-</p>
-
-<h2>
  Exemple
 </h2>
 
@@ -127,13 +112,13 @@ title: 'Pied de page de la zone du contenu '
     Content footer
    </b>
   </figcaption>
-  <img alt="Diagram of content footer." class="img-responsive" src="../images/content-footer-fr.jpg"/>
+  <img alt="Capture d’écran du pied de page du contenu." class="img-responsive" src="../images/content-footer-fr.jpg"/>
   <details>
    <summary class="wb-toggle" data-toggle='{"print":"on"}'>
     Version texte
    </summary>
    <p>
-    Le pied de page de la zone du contenu contient les éléments suivants : Signaler un problème sur cette page, Partager
+    Le pied de page de la zone du contenu contient les éléments suivants : Outil de rétroaction sur la page, Partager
           cette page et Date de modification.
    </p>
   </details>
