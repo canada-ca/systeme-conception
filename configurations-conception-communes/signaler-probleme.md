@@ -1,19 +1,22 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/report-problem.html
 date: null
-dateModified: '2021-11-30'
+dateModified: '2023-10-03'
 description: null
 section-title: "Configuration de conception de Canada.ca"
 title: "Signaler un problème sur cette page"
 ---
 
+ <section class="alert alert-warning">
+  <p>Nous mettons hors service la configuration «&nbsp;Signaler un problème sur cette page&nbsp;». Nous ne vous conseillons pas d’ajouter cette configuration à vos pages.</p>
+<p>Si vous souhaitez recueillir de la rétroaction pour des pages Web en particulier, vous pouvez utiliser la configuration <a href="https://test.canada.ca/experimental/feedback-retroaction/outil-retroaction.html">«&nbsp;Outil de rétroaction sur la page (ORP)&nbsp;»</a>. N’ajoutez l’ORP qu’aux pages pour lesquelles vous prévoyez d’assurer un suivi actif et d’exploiter la rétroaction reçue.</p>
+</section>
 
 <p class="gc-byline">
  <strong>
   De :
   <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-   Secrétariat du
-					Conseil du Trésor du Canada
+   Secrétariat du Conseil du Trésor du Canada
   </a>
  </strong>
 </p>
