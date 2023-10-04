@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/date-modified.html
 date: null
-dateModified: '2022-11-30'
+dateModified: '2023-10-03'
 description: null
 section-title: Configuration de conception de Canada.ca
 title: Date de modification
@@ -12,8 +12,7 @@ title: Date de modification
  <strong>
   De :
   <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-   Secrétariat du
-					Conseil du Trésor du Canada
+   Secrétariat du Conseil du Trésor du Canada
   </a>
  </strong>
 </p>
@@ -62,7 +61,7 @@ title: Date de modification
     Date de modification
    </b>
   </figcaption>
-  <img alt="Capture d'écran d'une page Web: le bouton intitulé «Signaler un problème sur cette page» apparaît à gauche. «Partager cette page» apparaît à droite, et «Date de modification : 2017-12-05» apparaît en surbrillance en-dessous." src="../images/datemod-fr.png"/>
+  <img alt="Date de modification : 2022-05-26 apparaît en surbrillance sous la zone de contenu principale." src="../images/datemod-fr.png"/>
  </figure>
 </section>
 
@@ -129,9 +128,7 @@ title: Date de modification
    La date s’affiche à l’aide de la méthode numérique commune, c’est-à-dire 2016-10-04.
   </li>
   <li>
-   Placement : alignée à gauche, sous le contenu général. Si elle est utilisée conjointement avec la
-					composante, « Signaler un problème sur cette page », elle est placée sous le bouton qui sert à
-					signaler un problème.
+   Placement : aligné à gauche, sous la zone de contenu principal. S'il est utilisé en conjonction avec l'outil de rétroaction de la page, ce composant apparaît après l'outil de rétroaction de la page.
   </li>
  </ul>
 </section>
