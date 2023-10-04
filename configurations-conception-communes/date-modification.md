@@ -128,7 +128,7 @@ title: Date de modification
    La date s’affiche à l’aide de la méthode numérique commune, c’est-à-dire 2016-10-04.
   </li>
   <li>
-   Placement : aligné à gauche, sous la zone de contenu principal. S'il est utilisé en conjonction avec l'outil de rétroaction de la page, ce composant apparaît après l'outil de rétroaction de la page.
+   Placement&nbsp;: alignée à gauche, sous le contenu général. Si elle est utilisée conjointement avec la composante, « Outil de rétroaction sur la page », elle est placée après.
   </li>
  </ul>
 </section>
