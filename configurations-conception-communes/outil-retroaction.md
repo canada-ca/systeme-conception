@@ -5,7 +5,7 @@ dateModified: "2023-10-06"
 description: "L’outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l’expérience sur une page."
 title: "Outil de rétroaction sur la page"
 ---
-<p class="small">Last updated: October 6, 2023</p>
+<p class="small">Last updated: 2023-10-06</p>
 <p><span class="label label-warning">Optional</span></p>
 <p>The feedback tool is an <strong>optional</strong> pattern to collect feedback on the page experience. When in use, it is included at the bottom of the page before the date modified.</p>
 <div class="mrgn-tp-md mrgn-bttm-md">
