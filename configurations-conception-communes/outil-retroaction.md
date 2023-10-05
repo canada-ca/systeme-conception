@@ -5,316 +5,316 @@ dateModified: "2023-10-06"
 description: "L’outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l’expérience sur une page."
 title: "Outil de rétroaction sur la page"
 ---
-<p class="small">Last updated: 2023-10-06</p>
-<p><span class="label label-warning">Optional</span></p>
-<p>The feedback tool is an <strong>optional</strong> pattern to collect feedback on the page experience. When in use, it is included at the bottom of the page before the date modified.</p>
+<p class="small">Dernière mise à jour : 2023-10-06</p>
+<p><span class="label label-warning">Facultatif</span></p>
+<p>L’outil de rétroaction est une configuration <strong>facultative</strong> pour recueillir la rétroaction de l’expérience sur une page. Lorsqu’il est utilisé, il apparaît en bas de la page, juste avant la date de modification.</p>
 <div class="mrgn-tp-md mrgn-bttm-md">
-  <figure class="mrgn-tp-md mrgn-bttm-lg"><img src="/images/page-feedback.png" class="img-responsive" alt="" /></figure>
+  <figure class="mrgn-tp-md mrgn-bttm-lg"><img src="/images/page-feedback-fr.png" class="img-responsive" alt="" /></figure>
 </div>
-<h2 id="on-this-page">On this page</h2>
+<h2 id="sur-cette-page">Sur cette page</h2>
 <ul>
-  <li><a href="#when-to-use">When to use</a></li>
-  <li><a href="#what-to-avoid">What to avoid</a></li>
-  <li><a href="#content-and-design">Content and design</a></li>
-  <li><a href="#how">How to implement</a></li>
-  <li><a href="#research">Research and rationale</a></li>
+  <li><a href="#utiliser">Quand l’utiliser</a></li>
+  <li><a href="#quoi-eviter">Quoi éviter</a></li>
+  <li><a href="#contenu-et-conception">Contenu et conception</a></li>
+  <li><a href="#comment-proceder">Comment procéder à la mise en œuvre</a></li>
+  <li><a href="#recherche-et-justification">Recherche et justification</a></li>
 </ul>
-<section id="when-to-use">
-  <h2>When to use</h2>
-  <p>Consider adding the page feedback tool to:</p>
+<section id="utiliser">
+  <h2>Quand l’utiliser</h2>
+  <p>Envisagez d’utiliser l’outil de rétroaction sur la page pour :</p>
   <ul>
-    <li>uncover specific page-level issues affecting your GC Task Success Survey task score</li>
-    <li>research issues on pages you plan on working on in the future</li>
-    <li>understand if new or existing pages are meeting user needs</li>
-    <li>identify emerging issues</li>
-    <li>monitor after page improvements have gone live</li>
+    <li>Découvrir des problèmes propres à la page qui modifient votre note sur le sondage sur la réussite des tâches du gouvernement du Canada (GC).</li>
+    <li>Rechercher des problèmes sur des pages que vous prévoyez de traiter ultérieurement.</li>
+    <li>Déterminer si les pages nouvelles ou existantes répondent aux besoins des utilisateurs.</li>
+    <li>Déterminer les problèmes émergents.</li>
+    <li>Assurer le suivi des améliorations de la page après leur mise en ligne.</li>
   </ul>
 </section>
-<section id="what-to-avoid">
-  <h2>What to avoid</h2>
-  <p>Avoid using the page feedback tool on pages where there is no plan to monitor comments or take action. We also don’t recommend using the tool within secure spaces or pages with sensitive subject material.</p>
-  <p><a href="/feedback/when.html#how-not-to-use-the-tool">Additional behaviours to avoid when analyzing feedback</a></p>
+<section id="quoi-eviter">
+  <h2>Quoi éviter</h2>
+  <p>Évitez d’utiliser l’outil de rétroaction sur la page, dans des pages pour lesquelles vous ne prévoyez pas de surveiller les commentaires et prendre des mesures. Nous vous déconseillons également d’utiliser l’outil dans des environnements sécurisés ou sur des pages contenant des renseignements thématiques sensibles.</p>
+  <p><a href="/retroaction/quand.html#comment-ne-pas-utiliser-loutil-de-r%C3%A9troaction">Autres comportements à éviter en analysant une rétroaction</a></p>
 </section>
-<section id="content-and-design">
-  <h2>Content and design</h2>
-  <p>The feedback tool invites visitors to:</p>
+<section id="contenu-et-conception">
+  <h2>Contenu et conception</h2>
+  <p>L’outil de rétroaction sur la page invite les visiteur·se·s à effectuer les actions suivantes :</p>
   <ul>
-    <li>indicate if they found what they were looking for (yes / no)</li>
-    <li>offer their feedback describing the problem</li>
+    <li>Indiquer s’ils ou elles ont trouvé ce qu’ils ou elles cherchaient (oui ou non)</li>
+    <li>Fournir leur rétroaction en décrivant le problème</li>
   </ul>
-  <p>Place the tool at the bottom of the page before the date modified. It's aligned to the left of the page before the “Share this page” widget. You can opt to use the page feedback tool in place of the "Report a problem" pattern. It's not mandatory to add the feedback pattern when removing “Report a problem” from your page.</p>
-  <p>The page feedback pattern has 3 states:</p>
+  <p>Placez l’outil en bas de la page, juste avant la date de modification. Alignez-le à gauche de la page, avant l’élément « Partagez cette page ». Vous pouvez choisir d’utiliser l’outil de rétroaction sur la page au lieu de la configuration « Signaler un problème sur cette page ». Il n’est pas obligatoire d’ajouter l’outil de rétroaction sur la page lors du retrait de la configuration « Signaler un problème sur cette page ».</p>
+  <p>La configuration de rétroaction comporte trois états :</p>
   <ul>
-    <li>“Did you find what you were looking for?” prompt with “Yes” and “No” buttons</li>
-    <li>Feedback text entry box (with an option to add a customizable contact link)</li>
-    <li>Thank you message</li>
+    <li>La question « Avez-vous trouvé ce que vous cherchiez? » accompagnée des boutons « Oui » et « Non »</li>
+    <li>Le champ de texte destiné à la rétroaction (avec la possibilité d’ajouter un lien de contact personnalisable)</li>
+    <li>Le message de remerciement</li>
   </ul>
-  <p>This pattern also has detailed documentation for use and analysis of feedback.</p>
-  <p><a href="/feedback/">Page feedback tool (Analytics and feedback)</a></p>
-  <h3>Content specifications</h3>
-  <p>When you first add the feedback tool to your page, use the default option without the contact link.</p>
-  <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
-  <p>The link can go to an HTML page or an email address.</p>
-  <p>Keep the link text short. The recommended wording is “Contact [the Service Name]”</p>
+  <p>Une documentation détaillée est également disponible pour l’utilisation de cette configuration et pour l’analyse de la rétroaction.</p>
+  <p><a href="/retroaction/">Outil de rétroaction sur la page (Analyses, sondage et commentaires)</a></p>
+  <h3>Spécifications de contenu</h3>
+  <p>Lorsque vous ajoutez pour la première fois l’outil de rétroaction à votre page, utilisez l’option par défaut, sans le lien de contact.</p>
+  <p><strong>Envisagez uniquement d’ajouter un lien de contact si</strong> vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateur·rice·s utilisent toujours l’outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
+  <p>Le lien peut mener vers une page HTML ou vers une adresse courriel.</p>
+  <p>Veillez à ce que le texte du lien soit court. Nous recommandons la formulation « Contacter [nom du service] ».</p>
   <h3>Interactions</h3>
-  <p>The feedback pattern has 3 states:</p>
+  <p>La configuration de rétroaction comporte trois états :</p>
   <ul>
-    <li>"Did you find what you were looking for" prompt</li>
-    <li>feedback entry</li>
-    <li>thank you message</li>
+    <li>Une question « Avez-vous trouvé ce que vous cherchiez? »</li>
+    <li>Un champ de texte où saisir la rétroaction</li>
+    <li>Un message de remerciement</li>
   </ul>
-  <p>For all of these states, the user stays on the same HTML page as they interact with the feedback pattern.</p>
-  <p><strong>On page load</strong>, the feedback pattern displays the prompt “Did you find what you were looking for” followed by buttons for “Yes” and “No”.</p>
-  <p><strong>If a user selects "No"</strong> the next step asks the user to provide more details about their experience.</p>
-  <p>It begins with a heading labelled "Please provide more details", followed by the text "You will not receive a reply. Don't include personal information (telephone, email, SIN, financial, medical, or work details). Maximum 300 characters". After selecting "Submit", the user is shown a thank you message.</p>
-  <p>Then there is an open text field to capture the feedback.</p>
-  <p>If the contact option is used, a contact link for the service is placed inside an expand/collapse pattern labeled “Need urgent help with a problem? Contact us” located before the heading and open text field.</p>
-  <p>The user selects the “Submit” button to send their feedback. After selecting "Submit", the user is shown a thank you message with a green checkmark to indicate that their feedback has been successfully sent.</p>
-  <p><strong>If a user selects "Yes"</strong> they will only be shown a thank you message.</p>
-  <h3>Design specifications</h3>
-  <p>The feedback pattern replaces the "Report a problem" pattern when in use.</p>
-  <h4>Grey well</h4>
+  <p>Pour tous ces états, l’utilisateur·rice reste sur la même page HTML en interagissant avec la configuration de rétroaction.</p>
+  <p><strong>Sur la page</strong>, la configuration affiche la question « Avez-vous trouvé ce que vous cherchiez? » et affiche les boutons « Oui » et « Non ».</p>
+  <p><strong>Si l’utilisateur·rice choisit « Non »</strong>, il lui est demandé de fournir davantage de renseignements sur son expérience.</p>
+  <p>Cela commence par un titre indiquant « Veuillez fournir plus de détails », suivi du texte « Vous ne recevrez aucune réponse. N’incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères ». Une fois que l’utilisateur·rice a sélectionné « Soumettre », un message de remerciement s’affiche.</p>
+  <p>Vient ensuite un champ de texte ouvert permettant de recueillir la rétroaction.</p>
+  <p>Si l’option de contact est utilisée, un lien permettant de contacter le service apparaît dans une configuration de style développer/réduire intitulée « Vous avez besoin d’une aide urgente pour résoudre un problème? Contactez-nous » située juste avant le titre et le champ de texte ouvert.</p>
+  <p>L’utilisateur·rice utilise le bouton « Soumettre » pour envoyer sa rétroaction. Une fois que l’utilisateur·rice a sélectionné « Soumettre », un message de remerciement accompagné d’une coche verte s’affiche pour indiquer que la rétroaction a bien été envoyée.</p>
+  <p><strong>Si un·e utilisateur·rice sélectionne « Oui »</strong>, seul un message de remerciement s’affiche.</p>
+  <h3>Spécifications de conception</h3>
+  <p>Lorsqu’il est utilisé, l’outil de rétroaction sur la page remplace la configuration « Signaler un problème sur la page ».</p>
+  <h4>Encadré gris</h4>
   <ul>
-    <li>Well class: well mrgn-bttm-0</li>
+    <li>Type d’encadré : well mrgn-bttm-0</li>
   </ul>
-  <h4>Typography</h4>
+  <h4>Typographie</h4>
   <ul>
-    <li>Heading: font-size: 16px</li>
-    <li>Body text: small font-size: 87%</li>
+    <li>Titre : taille de police : 16 px</li>
+    <li>Corps du texte : petite taille de police : 87 %</li>
   </ul>
-  <h4>Buttons</h4>
+  <h4>Boutons</h4>
   <ul>
-    <li>Position: The buttons are to the right of the "Did you find what you were looking for" prompt. The ‘Yes’ button is to the left of the ‘No’ button</li>
-    <li>Button class: btn btn-primary</li>
+    <li>Positionnement : Les boutons se situent à droite de la question « Avez-vous trouvé ce que vous cherchiez? » Le bouton « Oui » se trouve à gauche du bouton « Non ».</li>
+    <li>Type de bouton : btn btn-primary</li>
   </ul>
-  <h4>Thank you checkmark icon</h4>
+  <h4>Icône coche du message de remerciement</h4>
   <ul>
-    <li>Position: left of the "Thank you" message</li>
-    <li>Checkmark icon: glyphicon glyphicon-ok</li>
-    <li>Checkmark colour: success class</li>
+    <li>Positionnement : À gauche du message « Merci »</li>
+    <li>Icône coche : glyphicon glyphicon-ok</li>
+    <li>Couleur de la coche : success class</li>
   </ul>
-  <h3>Visual examples</h3>
+  <h3>Exemples visuels</h3>
   <div class="row">
     <div class="col-md-8">
       <div class="mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
           <figcaption>
-            <h4>1. Initial view of the feedback tool</h4>
+            <h4>1. Première vue de l’outil de rétroaction</h4>
           </figcaption>
-          <img src="/images/page-feedback.png" class="img-responsive" alt="1. Initial view of the feedback tool. Text version below:" />
+          <img src="/images/page-feedback-fr.png" class="img-responsive" alt="1. Première vue de l’outil de rétroaction. Version texte ci-dessous :" />
           <details>
-            <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-            <p class="mrgn-tp-md">On page load, the feedback is located at the bottom of the web page above the date modified. A small gray well includes the prompt “Did you find what you were looking for?” followed by buttons for “Yes” and “No”.</p>
+            <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image :</summary>
+            <p class="mrgn-tp-md">Sur la page, la section consacrée à la rétroaction se trouve en bas de la page Web, juste au-dessus de la date de modification. Un petit encadré gris demande « Avez-vous trouvé ce que vous cherchiez? » et affiche les boutons « Oui » et « Non ».</p>
           </details>
         </figure>
       </div>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption>
-          <h4>2a. Default view after selecting "No"</h4>
+          <h4>2a. Vue par défaut après avoir sélectionné « Non »</h4>
         </figcaption>
-        <img src="/images/description-en.jpg" class="img-responsive" alt="2a. Default view after selecting No. Text version below:" />
+        <img src="/images/description-fr.jpg" class="img-responsive" alt="2a. Vue par défaut après avoir sélectionné Non. Version texte ci-dessous :" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt. There is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image :</summary>
+          <p class="mrgn-tp-md">Après l’interaction avec le bouton « Non », la question est remplacée par un écran comportant un champ de texte. Celui-ci affiche le titre « Veuillez fournir plus de détails », suivi des instructions de ne pas inclure de renseignements personnels : « Vous ne recevrez aucune réponse. N’incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères ». Un petit champ de texte est suivi d’un bouton « Soumettre ».</p>
         </details>
       </figure>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption>
-          <h4>2b. Optional view after selecting "No" with contact option</h4>
-          <p>The expand/collapse pattern labeled “Need urgent help with a problem? Contact us” will be closed by default.</p>
+          <h4>2b. Vue optionnelle après avoir sélectionné « Non » avec l’option de contact</h4>
+          <p>La configuration de style développer/réduire « Vous avez besoin d’une aide urgente pour résoudre un problème? Contactez-nous » sera réduite par défaut.La configuration de style développer/réduire « Vous avez besoin d’une aide urgente pour résoudre un problème? Contactez-nous » sera réduite par défaut.</p>
         </figcaption>
-        <img src="/images/urgent-help-en.png" class="img-responsive" alt="2b. Optional view after selecting No with contact option. Text version below:" />
+        <img src="/images/urgent-help-fr.png" class="img-responsive" alt="2b. Vue optionnelle après avoir sélectionné Non avec l’option de contact. Version texte ci-dessous :" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p class="mrgn-tp-md">After interacting with the “No” button in, a text entry screen will replace the prompt.</p>
-          <p>In the contact option, there is an expand/collapse pattern with the header “Need urgent help with a problem? Contact us”. When the expand/collapse pattern is opened, there is a customizable link to contact the service.</p>
-          <p>After the expand/collapse pattern, there is a heading for “Please provide more details” followed by instructions to not include personal information: “You will not receive a reply. Don’t include personal information (telephone, email, SIN financial, medical, or work details. Maximum 300 characters.” There is a small text entry box followed by a button for “Submit”.</p>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image :</summary>
+          <p class="mrgn-tp-md">Après l’interaction avec le bouton « Non », la question est remplacée par un écran comportant un champ de texte.</p>
+          <p>Dans l’option de contact, une configuration de style développer/réduire porte le titre « Vous avez besoin d’une aide urgente pour résoudre un problème? Contactez-nous. » Lorsque le texte est développé, un lien personnalisable permettant de contacter le service s’affiche.</p>
+          <p>Après la configuration développer/réduire vient le titre « Veuillez fournir plus de détails », suivi des instructions de ne pas inclure de renseignements personnels : « Vous ne recevrez aucune réponse. N’incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères ». Un petit champ de texte est suivi d’un bouton « Soumettre ».</p>
         </details>
       </figure>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption>
-          <h4>3. View after selecting "Yes" or after submitting feedback</h4>
+          <h4>3. Vue après avoir sélectionné « Oui » ou après avoir soumis la rétroaction</h4>
         </figcaption>
-        <img src="/images/thank-you-en.jpg" class="img-responsive" alt="3. View after selecting Yes or after submitting feedback. Text version below:" />
+        <img src="/images/thank-you-fr.jpg" class="img-responsive" alt="3. Vue après avoir sélectionné Oui ou après avoir soumis la rétroaction. Version texte ci-dessous :" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Image description:</summary>
-          <p class="mrgn-tp-md">When users select “Yes” from the initial prompt or after submitting their feedback, a thank you message is displayed. There is a green checkmark icon followed by the heading “Thank you for your feedback”</p>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image :</summary>
+          <p class="mrgn-tp-md">Lorsqu’un·e utilisateur·rice sélectionne « Yes » comme réponse à la première question ou lorsqu’il ou elle soumet sa rétroaction, un message de remerciement apparaît. Une icône coche verte apparaît, suivie du titre « Merci de vos commentaires »</p>
         </details>
       </figure>
     </div>
   </div>
 </section>
-<section id="how">
-  <h2>How to implement</h2>
-  <p>Add it to the bottom of a content page after the page content and before the date modified. </p>
+<section id="comment-proceder">
+  <h2>Comment procéder à la mise en œuvre</h2>
+  <p>Ajoutez-le au bas d’une page de contenu, après le contenu de la page et avant la date de modification.</p>
   <div class="row">
     <div class="col-md-8">
-      <h3>Feedback tool code for AEM pages</h3>
-      <p>Use this feedback code for any page hosted on the Adobe Managed Web Service.</p>
+      <h3>Outil de rétroaction pour les pages dans Adobe Experience Manager (AEM)</h3>
+      <p>Utilisez ces instructions pour toutes les pages hébergées dans le service Web géré par Adobe.</p>
       <details>
-        <summary>Instructions for AEM pages</summary>
+        <summary>Instructions pour les pages AEM</summary>
         <h4>Add the feedback component</h4>
-        <p><a href="https://test.canada.ca/experimental/feedback-retroaction/page-feedback-oct.html">How to add the feedback component to your page in AEM.</a> (Internal only on GCPedia)</p>
-        <h4><span class="label label-primary">Recommended</span> Add a theme hidden value in the feedback code</h4>
-        <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
-        <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
-        <p>This is a unilingual value - enter the same theme value to your English and French pages.</p>
-        <h5>Canada.ca theme values</h5>
+        <p><a href="#">Comment ajouter l’outil de rétroaction à votre page dans Adobe Experience Manager (AEM).</a> (Contenu interne, uniquement disponible sur GCPedia)</p>
+        <h4><span class="label label-primary">Recommandé</span> Ajouter une valeur masquée « Thème » dans le code de l’outil de rétroaction</h4>
+        <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour des pages de tout un thème en même temps.</p>
+        <p>Dans la plupart des cas, vous devriez inclure le thème « Canada.ca » pour votre contenu (vous trouverez la liste complète ci-dessous).</p>
+        <p>Il s’agit d’une valeur unilingue. Entrez la même valeur pour vos pages en anglais et en français.</p>
+        <h5>Thèmes Canada.ca</h5>
         <ul>
-          <li>About Gov</li>
-          <li>Benefits</li>
-          <li>Business</li>
-          <li>CanadaTheWorld</li>
-          <li>Culture</li>
-          <li>Defense</li>
-          <li>Environment</li>
-          <li>Health</li>
-          <li>Immigration</li>
-          <li>Indigenous</li>
-          <li>Jobs</li>
-          <li>Money</li>
-          <li>Policing</li>
-          <li>PublicService</li>
-          <li>Science</li>
-          <li>Taxes</li>
-          <li>Transport</li>
-          <li>Travel</li>
-          <li>Veterans</li>
+          <li>About Gov (À propos du gouvernement)</li>
+          <li>Benefits (Prestations)</li>
+          <li>Business (Entreprises)</li>
+          <li>CanadaTheWorld (Canada et le monde)</li>
+          <li>Culture (Culture)</li>
+          <li>Defense (Défense)</li>
+          <li>Environment (Environnement)</li>
+          <li>Health (Santé)</li>
+          <li>Immigration (Immigration)</li>
+          <li>Indigenous (Autochtones)</li>
+          <li>Jobs (Emplois)</li>
+          <li>Money (Argent)</li>
+          <li>Policing (Politique)</li>
+          <li>PublicService (Service public)</li>
+          <li>Science (Science)</li>
+          <li>Taxes (Impôts)</li>
+          <li>Transport (Transport)</li>
+          <li>Travel (Voyage)</li>
+          <li>Veterans (Vétérans)</li>
         </ul>
-        <p>If you would like to add a new theme value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new theme value into the Feedback Viewer.</p>
-        <p>Email: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
-        <h4><span class="label label-warning">Optional</span> Add a “Section” hidden value in the feedback code</h4>
-        <p>This is useful when you want to download feedback for multiple pages at the same time.</p>
-        <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
-        <p>This is a unilingual value - enter the same section value to your English and French pages.</p>
-        <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new section value into the Feedback Viewer.</p>
-        <p>Email: dto.btn@tbs-sct.gc.ca</p>
-        <h4><span class="label label-warning">Optional</span> Contact link</h4>
-        <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
+        <p>Si vous souhaitez ajouter un nouveau thème qui n’apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l’ajouterons pour vous à la visionneuse de rétroaction.</p>
+        <p>Adresse courriel : <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+        <h4><span class="label label-warning">Optionnel</span> Ajouter une valeur masquée « Section » dans le code de l’outil de rétroaction</h4>
+        <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour plusieurs pages en même temps.</p>
+        <p>Envisagez d’inclure cette valeur lorsque vous ajoutez l’outil de rétroaction à plusieurs pages relatives à un même sujet, comme « passeports » ou « assurance-emploi ».</p>
+        <p>Il s’agit d’une valeur unilingue. Entrez la même valeur pour vos pages en anglais et en français.</p>
+        <p>Si vous souhaitez ajouter une nouvelle valeur « Section » qui n’apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l’ajouterons pour vous à la visionneuse de rétroaction.</p>
+        <p>Adresse courriel : <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+        <h4><span class="label label-warning">Optionnel</span> Lien de contact</h4>
+        <p>Envisagez uniquement d’ajouter un lien de contact si vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateur·rice·s utilisent toujours l’outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
       </details>
     </div>
   </div>
   <div class="row">
     <div class="col-md-8">
-      <h3>Feedback tool code for non-AEM pages</h3>
-      <p>Use these instructions for any page that is not hosted on the Adobe Managed Web Service.</p>
+      <h3>Code de l’outil de rétroaction pour les pages qui ne sont pas dans Adobe Experience Manager (AEM)</h3>
+      <p>Utilisez ces instructions pour toutes les pages qui ne sont pas hébergées dans le service Web géré par Adobe.</p>
       <details>
-        <summary>Instructions for non-AEM pages</summary>
-        <h4>Add the feedback component</h4>
-        <p>Insert the feedback tool code where the “Report a problem on this page” is located in your page's HTML.</p>
-        <h4>Add the mandatory hidden values</h4>
-        <p>Update the data attribute for the institutional acronym (unilingual value)</p>
-        <h5>Canada.ca institutional acronyms</h5>
+        <summary>Instructions pour les pages qui ne sont pas dans AEM</summary>
+        <h4>Ajout de l’outil de rétroaction</h4>
+        <p>Insérez le code de l’outil de rétroaction à l’endroit où se trouve la configuration « Signaler un problème sur cette page » dans le code HTML de votre page.</p>
+        <h4>Ajout des valeurs masquées obligatoires</h4>
+        <p>Mise à jour des données pour les acronymes institutionnels (valeur unilingue).</p>
+        <h5>Acronymes des institutions Canada.ca</h5>
         <ul>
-          <li>AAFC</li>
-          <li>ATSSC</li>
-          <li>CATSA</li>
-          <li>CFIA</li>
-          <li>CIRNAC</li>
-          <li>NSERC</li>
-          <li>CBSA</li>
+          <li>AAC</li>
+          <li>SCDATA</li>
+          <li>ACSTA</li>
+          <li>ACIA</li>
+          <li>RCAANC</li>
+          <li>GRSGC</li>
+          <li>ASFC</li>
+          <li>GCC</li>
           <li>CCG</li>
-          <li>CGC</li>
-          <li>CIHR</li>
-          <li>CIPO</li>
-          <li>CRA</li>
+          <li>IRSC</li>
+          <li>OPIC</li>
+          <li>ARC</li>
           <li>CRTC</li>
-          <li>CSA</li>
-          <li>CSEC</li>
-          <li>CSPS</li>
-          <li>DFO</li>
-          <li>DND</li>
+          <li>ASC</li>
+          <li>CSTC</li>
+          <li>EFPC</li>
+          <li>MPO</li>
+          <li>MDN</li>
           <li>ECCC</li>
-          <li>ESDC</li>
-          <li>FCAC</li>
+          <li>EDSC</li>
+          <li>ACFC</li>
           <li>FIN</li>
-          <li>GAC</li>
-          <li>HC</li>
+          <li>Affaires mondiales Canada</li>
+          <li>Santé Canada</li>
           <li>INFC</li>
           <li>IRCC</li>
-          <li>ISC</li>
-          <li>ISED</li>
+          <li>SAC</li>
+          <li>ISDE</li>
           <li>JUS</li>
-          <li>LAC</li>
-          <li>NFB</li>
-          <li>NRC</li>
-          <li>NRCan</li>
-          <li>OSB</li>
-          <li>PBC</li>
+          <li>BAC</li>
+          <li>ONF</li>
+          <li>CNRC</li>
+          <li>RNCan</li>
+          <li>BSF</li>
+          <li>CLCC</li>
           <li>PC</li>
           <li>PCH</li>
-          <li>PCO</li>
-          <li>PHAC</li>
-          <li>PS</li>
-          <li>PSC</li>
-          <li>SSC</li>
-          <li>PSPC</li>
-          <li>RCMP</li>
+          <li>BCP</li>
+          <li>ASPC</li>
+          <li>SP</li>
+          <li>CFP</li>
+          <li>SPC</li>
+          <li>SPAC</li>
+          <li>Gendarmerie royale du Canada</li>
           <li>StatCan</li>
-          <li>TBS</li>
+          <li>SCT</li>
           <li>TC</li>
-          <li>VAC</li>
-          <li>WAGE</li>
-          <li>WD</li>
+          <li>ACC</li>
+          <li>FEGC</li>
+          <li>DEO</li>
         </ul>
-        <h4><span class="label label-primary">Recommended</span> Add a theme hidden value in the feedback code</h4>
-        <p>This is useful when you want to download feedback for an entire theme of pages at the same time.</p>
-        <p>In most cases, you should include the Canada.ca theme for your content (full list below).</p>
-        <p>This is a unilingual value - enter the same theme value to your English and French pages.</p>
-        <h5>Canada.ca theme values</h5>
+        <h4><span class="label label-primary">Recommandé</span> Ajouter une valeur masquée « Thème » dans le code de l’outil de rétroaction</h4>
+        <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour des pages de tout un thème en même temps.</p>
+        <p>Dans la plupart des cas, vous devriez inclure le thème « Canada.ca » pour votre contenu (vous trouverez la liste complète ci-dessous).</p>
+        <p>Il s’agit d’une valeur unilingue. Entrez la même valeur pour vos pages en anglais et en français.</p>
+        <h5>Thèmes Canada.ca</h5>
         <ul>
-          <li>About Gov</li>
-          <li>Benefits</li>
-          <li>Business</li>
-          <li>CanadaTheWorld</li>
+          <li>À propos du gouvernement</li>
+          <li>Prestations</li>
+          <li>Entreprises</li>
+          <li>Canada et le monde</li>
           <li>Culture</li>
-          <li>Defense</li>
-          <li>Environment</li>
-          <li>Health</li>
+          <li>Défense</li>
+          <li>Environnement</li>
+          <li>Santé</li>
           <li>Immigration</li>
-          <li>Indigenous</li>
-          <li>Jobs</li>
-          <li>Money</li>
-          <li>Policing</li>
-          <li>PublicService</li>
+          <li>Autochtones</li>
+          <li>Emplois</li>
+          <li>Argent</li>
+          <li>Politique</li>
+          <li>Service public</li>
           <li>Science</li>
-          <li>Taxes</li>
+          <li>Impôts</li>
           <li>Transport</li>
-          <li>Travel</li>
-          <li>Veterans</li>
+          <li>Voyage</li>
+          <li>Vétérans</li>
         </ul>
-        <p>If you would like to add a new theme value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new theme value into the Feedback Viewer.</p>
-        <p>Email: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
-        <h4><span class="label label-warning">Optional</span> Add a “Section” hidden value in the feedback code</h4>
-        <p>This is useful when you want to download feedback for multiple pages at the same time.</p>
-        <p>Consider including this value when you're adding the feedback tool to multiple pages on the same topic, such as “passports” or “employment insurance”.</p>
-        <p>This is a unilingual value - enter the same section value to your English and French pages.</p>
-        <p>If you would like to add a new section value that is not currently in the Feedback Viewer, contact the Digital Transformation Office. We will add the new section value into the Feedback Viewer.</p>
-        <p>Email: dto.btn@tbs-sct.gc.ca</p>
-        <h4><span class="label label-warning">Optional</span> Contact link</h4>
-        <p><strong>Only consider adding a contact link if</strong> you have tried to make the page content clearer for how to contact the program or service and users are still using the feedback tool to get a response for their situation.</p>
+        <p>Si vous souhaitez ajouter un nouveau thème qui n’apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l’ajouterons pour vous à la visionneuse de rétroaction.</p>
+        <p>Adresse courriel : <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+        <h4><span class="label label-warning">Optional</span> Ajouter une valeur masquée « Section » dans le code de l’outil de rétroaction</h4>
+        <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour plusieurs pages en même temps.</p>
+        <p>Envisagez d’inclure cette valeur lorsque vous ajoutez l’outil de rétroaction à plusieurs pages relatives à un même sujet, comme « passeports » ou « assurance-emploi ».</p>
+        <p>Il s’agit d’une valeur unilingue. Entrez la même valeur pour vos pages en anglais et en français.</p>
+        <p>Si vous souhaitez ajouter une nouvelle valeur « Section » qui n’apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l’ajouterons pour vous à la visionneuse de rétroaction.</p>
+        <p>Adresse courriel : <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+        <h4><span class="label label-warning">Optionnel</span> Lien de contact</h4>
+        <p><strong>Envisagez uniquement d’ajouter un lien de contact si</strong> vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateur·rice·s utilisent toujours l’outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
       </details>
       <details>
-        <summary>Page Feedback Tool code</summary>
+        <summary>Code pour l'outil de rétroaction sur la page</summary>
         <ul class="mrgn-tp-lg">
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFT">Page Feedback Tool (default)</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-en.html#variantPFTContact">Page Feedback Tool with contact link</a></li>
+          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Configuration de l’outil de rétroaction sur la page (par défaut)</a></li>
+          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Outil de rétroaction sur la page avec lien de contact</a></li>
         </ul>
       </details>
     </div>
   </div>
   <section id="guidance">
-    <h3>Accessing and analyzing feedback</h3>
-    <p>Feedback can be viewed and downloaded as CSV or Excel files at any time using the Feedback Viewer website.</p>
-    <p>The Feedback Viewer is a password protected environment available to all page feedback participants. Contact the DTO to access to the site.</p>
-    <p>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
-    <p><a href="https://design.canada.ca/feedback/index.html">Full guidance for using and analyzing page feedback</a></p>
+    <h3>Accéder à une rétroaction et l’analyser</h3>
+    <p>Il est possible d’afficher une rétroaction et de la télécharger en format CSV ou Excel, à tout moment, au moyen du site Web de la visionneuse de rétroactions.</p>
+    <p>La visionneuse de rétroactions est un environnement protégé par un mot de passe disponible pour tous ceux et toutes celles qui participent à la rétroaction sur la page. Communiquez avec le BTN afin d’accéder au site.</p>
+    <p>Adresse courriel : <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
+    <p><a href="/retroaction/">Document d’orientation complet sur l’utilisation de l’outil de rétroaction sur la page et l’analyse connexe</a></p>
   </section>
 </section>
-<section id="research">
-  <h2>Research and rationale</h2>
-  <h3>Research findings</h3>
-  <p><a href="https://blog.canada.ca/2020/10/09/collect-feedback.html">Blog post: Collect feedback, find issues</a></p>
-  <h3>Policy rationale</h3>
-  <p>The Guideline for Service and Digital requires <a href="https://www.canada.ca/en/government/system/digital-government/guideline-service-digital.html#ToC2_2">client feedback</a> to be an integral part of service or product design. It can take several forms, including using the page feedback tool.</p>
+<section id="recherche-et-justification">
+  <h2>Recherche et justification</h2>
+  <h3>Constatations découlant de la recherche</h3>
+  <p><a href="https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html">Billet de blogue : Recueillir la rétroaction, trouver les problèmes</a></p>
+  <h3>Justification stratégique</h3>
+  <p>La Ligne directrice sur les services et le numérique exige que la <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ligne-directrice-services-numerique.html">rétroaction des clients</a> fasse partie intégrante de la conception des services et des produits. Celle-ci peut prendre plusieurs formes, y compris au moyen de l’outil de rétroaction sur la page.</p>
 </section>
