@@ -68,7 +68,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601">Norme sur l'accessibilité des sites Web </a></cite></li>
         <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875">Norme sur l'interopérabilité du Web</a></cite></li>
         <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088">Norme sur l'optimisation des sites Web et des applications pour appareils mobiles </a></cite></li>
-        <li><cite><a href="{{ urlcanadaca }}/fr/secretariat-conseil-tresor/services/communications-gouvernementales/conseils-edition-gouvernement.html">Conseils sur l'édition de produits de communications</a></cite></li>
+        <li><cite><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/conseils-edition-gouvernement.html">Conseils sur l'édition de produits de communications</a></cite></li>
         <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition </a></cite></li>
         <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/O-3.01/">Loi sur les langues officielles </a></cite></li>
       </ul>
