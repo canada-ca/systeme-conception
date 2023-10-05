@@ -109,18 +109,17 @@ title: 'Pied de page de la zone du contenu '
  <figure class="mrgn-bttm-lg">
   <figcaption>
    <b>
-    Content footer
+    Pied de page de la zone du contenu
    </b>
   </figcaption>
   <img alt="Capture d’écran du pied de page du contenu." class="img-responsive" src="../images/content-footer-fr.jpg"/>
   <details>
    <summary class="wb-toggle" data-toggle='{"print":"on"}'>
-    Version texte
+    Description de l'image : Pied de page de la zone du contenu
    </summary>
-   <p>
-    Le pied de page de la zone du contenu contient les éléments suivants : Outil de rétroaction sur la page, Partager
-          cette page et Date de modification.
-   </p>
+   <p>Sur le côté gauche se trouve la vue initiale de l’outil de rétroaction sur la page. Un petit encadré gris demande «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» et affiche les boutons «&nbsp;Oui&nbsp;» et «&nbsp;Non&nbsp;».</p>
+    <p>Sur la droite se trouve un encadré gris comportant un symbole de partage ainsi que le texte «&nbsp;Partagez cette page&nbsp;».</p>
+    <p>Sous l’outil apparaît le texte : «&nbsp;Date de modification : 2023-08-01&nbsp;».</p>
   </details>
  </figure>
 </div>
