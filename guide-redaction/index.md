@@ -12,7 +12,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <section id="toc">
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-      <div class="panel panel-default">
+      <div class="panel panel-default"> 
         <div class="panel-body">
           <h2 class="mrgn-tp-sm">Table des matières</h2>
           <ul>
