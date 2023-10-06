@@ -297,10 +297,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <strong>Au lieu de</strong>&nbsp;: préalablement</p>
   <p><strong>Écrivez</strong>&nbsp;: tous les 2 ans<br>
     <strong>Au lieu de</strong>&nbsp;: bisannuellement</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp2-2" aria-label="Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20mots%20simples%20et%20courants%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-2" aria-label="Diffusez la règle sur l'utilisation des mots simples et courants par courriel">Diffusez cette règle par courriel</a></p>
+  <h4>Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.1 Start with the most important information</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#39;utilisation des mots simples et courants par courriel", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
   </div>
 </section>
 <section id="wp2-3">
