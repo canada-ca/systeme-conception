@@ -301,7 +301,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.1 Start with the most important information</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#39;utilisation des mots simples et courants par courriel", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l''utilisation des mots simples et courants par courriel", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'>
+    </div>
     </div>
   </section>
   <section id="wp2-3">
@@ -338,7 +339,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use active voice and positive form</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#39;utilisation de la voix active et de la forme positive par courriel", "title": "2.3 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l''utilisation de la voix active et de la forme positive par courriel", "title": "2.3 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'>
+    </div>
     </div>
   </section>
   <section id="wp2-4">
@@ -352,17 +354,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p><strong>Écrivez&nbsp;</strong>: modifier la page<br>
       <strong>Au lieu de</strong>&nbsp;: apporter une modification à la page</p>
     <p>Utilisez le verbe dans sa forme la plus simple. Si possible, utilisez le présent.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-4" aria-label="Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20la%20forme%20verbale%20plutôt%20que%20la%20forme%20nominale%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-4" aria-label="Partagez la règle sur l'utilisation de la forme verbale plutôt que la forme nominale par courriel">Diffusez cette règle par courriel</a></p>
-    </div>
     <h4>Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la r&#232;gle sur l'utilisation de la forme verbale s'applique &#224; un contenu", "title": "2.4 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la r&#232;gle sur l''utilisation de la forme verbale s''applique &#224; un contenu", "title": "2.4 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'>
     </div>
     </div>
   </section>
