@@ -598,10 +598,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Au lieu de</strong>&nbsp;: Comment dois-je renouveler mon passeport?</p>
       <h5>Exception</h5>
       <p>Vous pouvez utiliser &laquo;&nbsp;mon&nbsp;&raquo;, &laquo;&nbsp;ma&nbsp;&raquo;, &laquo;&nbsp;mes&nbsp;&raquo;&nbsp;dans le contenu, les titres de page et les liens lorsqu'il s'agit de <strong>noms&nbsp;propres </strong>(par exemple, Mon dossier Service Canada).</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp3-1" aria-label="Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20de%20s'adresser%20directement%20à%20la%20personne%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp3-1" aria-label="Partagez la règle sur la manière de s'adresser directement à la personne par courriel">Diffusez cette règle par courriel</a></p>
+      <h4>Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise</h4>
+      <ul>
+        <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-1">3.1 Write directly to the person</a></span></li>
+      </ul>
+      <div class="mrgn-tp-lg">
+        <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de s&#8217;adresser directement à la personne", "title": "3.1 Écrire directement à la personne", "url": "https://conception.canada.ca/guide-redaction/#wp3-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-1"}'></div>
       </div>
     </section>
   </section>
@@ -641,14 +643,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
         <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp3-2" aria-label="Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20de%20désigner%20le%20gouvernement%20du%20Canada%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp3-2" aria-label="Partagez la règle sur la manière de désigner le gouvernement du Canada par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-2">3.2 Use "we" to refer to the Government of Canada</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de désigner le gouvernement du Canada", "title": "3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada", "url": "https://conception.canada.ca/guide-redaction/#wp3-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-2"}'></div>
     </div>
   </section>
   <section id="wp3-3">
-    <h3>3.3 Exprimer une obligation ou une recommandation </h3>
+    <h3>3.3 Exprimer une obligation ou une recommandation</h3>
     <p>Le gouvernement publie des règles, des renseignements et des instructions qui relèvent d'une loi. Nous fournissons également des conseils sur la façon de les suivre.</p>
     <section id="wp3-3-1">
       <h4>Exprimer une obligation</h4>
@@ -661,10 +665,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <section id="wp3-3-2">
       <h4>Exprimer une recommandation </h4>
       <p>Lorsque vous dites aux gens qu'une chose est permise sans être obligatoire, utilisez un vocabulaire qui dénote la permission ou la possibilité, tel que &laquo;&nbsp;pourriez&nbsp;&raquo; ou &laquo;&nbsp;pouvez&nbsp;&raquo;.</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp3-3" aria-label="Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20d'exprimer%20une%20obligation%20ou%20une%20recommandation%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp3-3" aria-label="Diffusez la règle sur la manière d'exprimer une obligation ou une recommandation par courriel">Diffusez cette règle par courriel</a></p>
+      <h4>Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise</h4>
+      <ul>
+        <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-3">3.3 Expressing an obligation or a recommendation</a></span></li>
+      </ul>
+      <div class="mrgn-tp-lg">
+        <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière d&#8217;exprimer une obligation ou une recommandation", "title": "3.3 Exprimer une obligation ou une recommandation", "url": "https://conception.canada.ca/guide-redaction/#wp3-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-3"}'></div>
       </div>
     </section>
   </section>
