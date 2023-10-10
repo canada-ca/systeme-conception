@@ -6,7 +6,6 @@ description: "L’outil de rétroaction est une configuration facultative pour r
 title: "Outil de rétroaction sur la page"
 ---
 <p class="small">Dernière mise à jour&nbsp;: 2023-10-06</p>
-<p><span class="label label-warning">Facultatif</span></p>
 <p>L'outil de rétroaction est une configuration <strong>facultative</strong> pour recueillir la rétroaction de l'expérience sur une page. Lorsqu'il est utilisé, il apparaît en bas de la page, juste avant la date de modification.</p>
 <div class="mrgn-tp-md mrgn-bttm-md">
   <figure class="mrgn-tp-md mrgn-bttm-lg"><img src="/images/page-feedback-fr.png" class="img-responsive" alt="" /></figure>
@@ -103,7 +102,7 @@ title: "Outil de rétroaction sur la page"
           </figcaption>
           <img src="/images/page-feedback-fr.png" class="img-responsive" alt="1. Première vue de l'outil de rétroaction. Version texte ci-dessous&nbsp;:" />
           <details>
-            <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;:</summary>
+            <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Première vue de l'outil de rétroaction</summary>
             <p class="mrgn-tp-md">Sur la page, la section consacrée à la rétroaction se trouve en bas de la page Web, juste au-dessus de la date de modification. Un petit encadré gris demande &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo; et affiche les boutons &laquo;&nbsp;Oui&nbsp;&raquo; et &laquo;&nbsp;Non&nbsp;&raquo;.</p>
           </details>
         </figure>
@@ -114,7 +113,7 @@ title: "Outil de rétroaction sur la page"
         </figcaption>
         <img src="/images/description-fr.jpg" class="img-responsive" alt="2a. Vue par défaut après avoir sélectionné Non. Version texte ci-dessous&nbsp;:" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;:</summary>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;:  Vue par défaut après avoir sélectionné « Non »</summary>
           <p class="mrgn-tp-md">Après l'interaction avec le bouton &laquo;&nbsp;Non&nbsp;&raquo;, la question est remplacée par un écran comportant un champ de texte. Celui-ci affiche le titre &laquo;&nbsp;Veuillez fournir plus de détails&nbsp;&raquo;, suivi des instructions de ne pas inclure de renseignements personnels&nbsp;: &laquo;&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères&nbsp;&raquo;. Un petit champ de texte est suivi d'un bouton &laquo;&nbsp;Soumettre&nbsp;&raquo;.</p>
         </details>
       </figure>
@@ -125,7 +124,7 @@ title: "Outil de rétroaction sur la page"
         </figcaption>
         <img src="/images/urgent-help-fr.png" class="img-responsive" alt="2b. Vue optionnelle après avoir sélectionné Non avec l'option de contact. Version texte ci-dessous&nbsp;:" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;:</summary>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Vue optionnelle après avoir sélectionné Non avec l'option de contact</summary>
           <p class="mrgn-tp-md">Après l'interaction avec le bouton &laquo;&nbsp;Non&nbsp;&raquo;, la question est remplacée par un écran comportant un champ de texte.</p>
           <p>Dans l'option de contact, une configuration de style développer/réduire porte le titre &laquo;&nbsp;Vous avez besoin d'une aide urgente pour résoudre un problème? Contactez-nous.&nbsp;&raquo; Lorsque le texte est développé, un lien personnalisable permettant de contacter le service s'affiche.</p>
           <p>Après la configuration développer/réduire vient le titre &laquo;&nbsp;Veuillez fournir plus de détails&nbsp;&raquo;, suivi des instructions de ne pas inclure de renseignements personnels&nbsp;: &laquo;&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères&nbsp;&raquo;. Un petit champ de texte est suivi d'un bouton &laquo;&nbsp;Soumettre&nbsp;&raquo;.</p>
@@ -137,7 +136,7 @@ title: "Outil de rétroaction sur la page"
         </figcaption>
         <img src="/images/thank-you-fr.jpg" class="img-responsive" alt="3. Vue après avoir sélectionné Oui ou après avoir soumis la rétroaction. Version texte ci-dessous&nbsp;:" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;:</summary>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Vue après avoir sélectionné « Oui » ou après avoir soumis la rétroaction</summary>
           <p class="mrgn-tp-md">Lorsqu'un·e utilisateur·rice sélectionne &laquo;&nbsp;Yes&nbsp;&raquo; comme réponse à la première question ou lorsqu'il ou elle soumet sa rétroaction, un message de remerciement apparaît. Une icône coche verte apparaît, suivie du titre &laquo;&nbsp;Merci de vos commentaires&nbsp;&raquo;</p>
         </details>
       </figure>
@@ -149,10 +148,10 @@ title: "Outil de rétroaction sur la page"
   <p>Ajoutez-le au bas d'une page de contenu, après le contenu de la page et avant la date de modification.</p>
   <div class="row">
     <div class="col-md-8">
-      <h3>Outil de rétroaction pour les pages dans Adobe Experience Manager (AEM)</h3>
+      <h3>Outil de rétroaction pour les pages du Service Web géré (SWG)</h3>
       <p>Utilisez ces instructions pour toutes les pages hébergées dans le service Web géré par Adobe.</p>
       <details>
-        <summary>Instructions pour les pages AEM</summary>
+        <summary>Instructions pour les pages SWG</summary>
         <h4>Add the feedback component</h4>
         <p><a href="#">Comment ajouter l'outil de rétroaction à votre page dans Adobe Experience Manager (AEM).</a> (Contenu interne, uniquement disponible sur GCPedia)</p>
         <h4><span class="label label-primary">Recommandé</span> Ajouter une valeur masquée &laquo;&nbsp;Thème&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
