@@ -338,7 +338,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use active voice and positive form</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l''utilisation de la voix active et de la forme positive par courriel", "title": "2.3 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de la voix active et de la forme positive par courriel", "title": "2.3 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'>
     </div>
     </div>
   </section>
@@ -358,7 +358,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la r&#232;gle sur l''utilisation de la forme verbale s''applique &#224; un contenu", "title": "2.4 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la r&#232;gle sur l&#8217;utilisation de la forme verbale s&#8217;applique &#224; un contenu", "title": "2.4 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'>
     </div>
     </div>
   </section>
