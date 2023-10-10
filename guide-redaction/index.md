@@ -279,7 +279,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-1">2.1 Start with the most important information</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " l\'a règle sur la pyramide inversée", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " l'a règle sur la pyramide inversée", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
     </div>
   </section>
   <section id="wp2-2">
@@ -301,7 +301,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.2 Use simple and common words</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l\'utilisation des mots simples et courants par courriel", "title": "2.2 Utiliser des mots simples et courants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l'utilisation des mots simples et courants par courriel", "title": "2.2 Utiliser des mots simples et courants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'>
     </div>
   </section>
   <section id="wp2-3">
