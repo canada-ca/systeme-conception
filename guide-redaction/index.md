@@ -1061,554 +1061,559 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
 </section>
 <section id="toc9">
-  <h2>5.0 Structure du contenu</h2>
-  <div class="row mrgn-tp-lg">
-    <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <h3 class="mrgn-tp-sm">Dans cette section</h3>
-          <ul>
-            <li><a href="#wp5-1">5.1 Rédiger des titres et sous-titres de page descriptifs</a>
-              <ul>
-                <li><a href="#wp5-1-1">Privilégier un ton et un temps de verbe neutre pour les titres et sous-titres</a></li>
-                <li><a href="#wp5-1-2">Donner un titre unique à la page</a></li>
-                <li><a href="#wp5-1-3">Utiliser le titre et les sous-titres de la page pour mettre sa structure en évidence</a></li>
-              </ul>
-            </li>
-            <li><a href="#wp5-2">5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</a>
-              <ul>
-                <li><a href="#wp5-2-1">Phrase d'introduction</a></li>
-                <li><a href="#wp5-2-2">Listes numérotées</a></li>
-                <li><a href="#wp5-2-3">Listes à puces</a></li>
-                <li><a href="#wp5-2-4">Listes alphabétiques</a></li>
-              </ul>
-            </li>
-            <li><a href="#wp5-3">5.3 Utiliser des tableaux pour organiser des données</a>
-              <ul>
-                <li><a href="#wp5-3-1">Inclure des en-têtes de colonne et de rangée</a></li>
-                <li><a href="#wp5-3-2">Utiliser la structure de tableau la plus simple possible</a></li>
-                <li><a href="#wp5-3-3">Éviter les cellules texturées ou colorées</a></li>
-                <li><a href="#wp5-3-4">Éviter les cellules vides</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
+<h2>5.0 Structure du contenu</h2>
+<div class="row mrgn-tp-lg">
+  <div class="col-md-8">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h3 class="mrgn-tp-sm">Dans cette section</h3>
+        <ul>
+          <li><a href="#wp5-1">5.1 Rédiger des titres et sous-titres de page descriptifs</a>
+            <ul>
+              <li><a href="#wp5-1-1">Privilégier un ton et un temps de verbe neutre pour les titres et sous-titres</a></li>
+              <li><a href="#wp5-1-2">Donner un titre unique à la page</a></li>
+              <li><a href="#wp5-1-3">Utiliser le titre et les sous-titres de la page pour mettre sa structure en évidence</a></li>
+            </ul>
+          </li>
+          <li><a href="#wp5-2">5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</a>
+            <ul>
+              <li><a href="#wp5-2-1">Phrase d'introduction</a></li>
+              <li><a href="#wp5-2-2">Listes numérotées</a></li>
+              <li><a href="#wp5-2-3">Listes à puces</a></li>
+              <li><a href="#wp5-2-4">Listes alphabétiques</a></li>
+            </ul>
+          </li>
+          <li><a href="#wp5-3">5.3 Utiliser des tableaux pour organiser des données</a>
+            <ul>
+              <li><a href="#wp5-3-1">Inclure des en-têtes de colonne et de rangée</a></li>
+              <li><a href="#wp5-3-2">Utiliser la structure de tableau la plus simple possible</a></li>
+              <li><a href="#wp5-3-3">Éviter les cellules texturées ou colorées</a></li>
+              <li><a href="#wp5-3-4">Éviter les cellules vides</a></li>
+            </ul>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
-  <p>La structure et la disposition des éléments du contenu aident les gens à trouver rapidement ce qu'ils cherchent. Les éléments de contenu comprennent&nbsp;:</p>
+</div>
+<p>La structure et la disposition des éléments du contenu aident les gens à trouver rapidement ce qu'ils cherchent. Les éléments de contenu comprennent&nbsp;:</p>
+<ul>
+  <li>le titre de la page;</li>
+  <li>les titres de sections;</li>
+  <li>les listes verticales;</li>
+  <li>les tableaux.</li>
+</ul>
+<h3>Structurer le contenu dans une page Web</h3>
+<p>Assurez-vous&nbsp;:</p>
+<ul>
+  <li>de subdiviser la page en sections logiques pour donner un aperçu de l'information qu'elle contient;</li>
+  <li>d'organiser la page en fonction d'une tâche en affichant seulement les renseignements dont les gens ont besoin pour accomplir cette tâche.</li>
+</ul>
+<p>Structurez efficacement les éléments du contenu afin que votre page soit plus&nbsp;:</p>
+<ul>
+  <li>visible pour les moteurs de recherche et plus facile à trouver;</li>
+  <li>facile à voir sur les appareils mobiles.</li>
+</ul>
+<h3>Structurer le contenu sur plusieurs pages Web</h3>
+<p>Pensez à la démarche de la personne lorsqu'elle parcourt votre texte. Si&nbsp;:</p>
+<ul>
+  <li>votre page Web aborde trop de sujets, il est possible qu'il soit plus approprié de la diviser en plusieurs pages;</li>
+  <li>plusieurs de vos pages Web renferment du contenu lié au même sujet, envisagez de les combiner en une seule page.</li>
+</ul>
+<section id="wp5-1">
+  <h3>5.1 Rédiger des titres et sous-titres de page descriptifs</h3>
+  <p>Assurez-vous que votre titre de page décrit bien ce que la page contient. Un titre descriptif est important parce que les moteurs de recherche affichent souvent le titre sans contexte dans la liste des résultats de recherche.</p>
+  <p>La plupart des gens survolent les titres de page et les sous-titres pour repérer des mots-clés qui confirment qu'ils ont trouvé le contenu recherché.</p>
+  <p>Les personnes qui utilisent les technologies d'aide peuvent se servir d'un logiciel pour entendre les mots clés ou utiliser les raccourcis du clavier pour accéder à tous les titres de la page.</p>
+  <p>Lorsque vous rédigez un titre de page ou un sous-titre, assurez-vous que le titre&nbsp;:</p>
   <ul>
-    <li>le titre de la page;</li>
-    <li>les titres de sections;</li>
-    <li>les listes verticales;</li>
-    <li>les tableaux.</li>
+    <li>décrit clairement le sujet traité dans le texte qui suit;</li>
+    <li>est bref, sans mots superflus (si possible, omettez l'article en début de titre ou de sous-titre);</li>
+    <li>introduit les termes les plus pertinents au début;</li>
+    <li>conserve son sens, même hors contexte;</li>
+    <li>est suivi d'un texte et non d'un autre titre de section, sauf s'il introduit une liste des sections de la page;</li>
+    <li>ne se termine pas par un signe de ponctuation;</li>
+    <li>n'inclut pas d'abréviation, sauf si elle est mieux connue du public cible que l'appellation au long;</li>
+    <li>n'inclut pas de message promotionnel (comme une affirmation subjective) puisqu'il pourrait être déroutant pour les gens et faire en sorte qu'ils cessent de naviguer jusqu'à la page.</li>
   </ul>
-  <h3>Structurer le contenu dans une page Web</h3>
-  <p>Assurez-vous&nbsp;:</p>
-  <ul>
-    <li>de subdiviser la page en sections logiques pour donner un aperçu de l'information qu'elle contient;</li>
-    <li>d'organiser la page en fonction d'une tâche en affichant seulement les renseignements dont les gens ont besoin pour accomplir cette tâche.</li>
-  </ul>
-  <p>Structurez efficacement les éléments du contenu afin que votre page soit plus&nbsp;:</p>
-  <ul>
-    <li>visible pour les moteurs de recherche et plus facile à trouver;</li>
-    <li>facile à voir sur les appareils mobiles.</li>
-  </ul>
-  <h3>Structurer le contenu sur plusieurs pages Web</h3>
-  <p>Pensez à la démarche de la personne lorsqu'elle parcourt votre texte. Si&nbsp;:</p>
-  <ul>
-    <li>votre page Web aborde trop de sujets, il est possible qu'il soit plus approprié de la diviser en plusieurs pages;</li>
-    <li>plusieurs de vos pages Web renferment du contenu lié au même sujet, envisagez de les combiner en une seule page.</li>
-  </ul>
-  <section id="wp5-1">
-    <h3>5.1 Rédiger des titres et sous-titres de page descriptifs</h3>
-    <p>Assurez-vous que votre titre de page décrit bien ce que la page contient. Un titre descriptif est important parce que les moteurs de recherche affichent souvent le titre sans contexte dans la liste des résultats de recherche.</p>
-    <p>La plupart des gens survolent les titres de page et les sous-titres pour repérer des mots-clés qui confirment qu'ils ont trouvé le contenu recherché.</p>
-    <p>Les personnes qui utilisent les technologies d'aide peuvent se servir d'un logiciel pour entendre les mots clés ou utiliser les raccourcis du clavier pour accéder à tous les titres de la page.</p>
-    <p>Lorsque vous rédigez un titre de page ou un sous-titre, assurez-vous que le titre&nbsp;:</p>
-    <ul>
-      <li>décrit clairement le sujet traité dans le texte qui suit;</li>
-      <li>est bref, sans mots superflus (si possible, omettez l'article en début de titre ou de sous-titre);</li>
-      <li>introduit les termes les plus pertinents au début;</li>
-      <li>conserve son sens, même hors contexte;</li>
-      <li>est suivi d'un texte et non d'un autre titre de section, sauf s'il introduit une liste des sections de la page;</li>
-      <li>ne se termine pas par un signe de ponctuation;</li>
-      <li>n'inclut pas d'abréviation, sauf si elle est mieux connue du public cible que l'appellation au long;</li>
-      <li>n'inclut pas de message promotionnel (comme une affirmation subjective) puisqu'il pourrait être déroutant pour les gens et faire en sorte qu'ils cessent de naviguer jusqu'à la page.</li>
-    </ul>
-    <section id="wp5-1-1">
-      <h4>Privilégier un ton et un temps de verbe neutre pour les titres et sous-titres</h4>
-      <p>Privilégiez un ton neutre et l'utilisation de l'infinitif lorsque vous rédigez des titres et des sous-titres.</p>
-    </section>
-    <section id="wp5-1-2">
-      <h4>Donner un titre unique à votre page</h4>
-      <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon:</p>
-      <ul>
-        <li>le titre de page;</li>
-        <li>les titres de sections;</li>
-        <li>les sous-titres.</li>
-      </ul>
-      <p>Ils affichent le titre de page sous forme de lien dans la page de résultats.</p>
-      <p>Les titres de page uniques permettent aux moteurs de recherche de faire une distinction entre diverses pages similaires. Ils font également en sorte que les gens n'aient pas à examiner de nombreuses pages du même nom pour trouver l'information requise.</p>
-      <p>Vous pouvez utiliser un moteur de recherche pour vérifier si votre titre de page est unique en inscrivant le titre de la page, suivi de &laquo;&nbsp;site:» ainsi que du nom de domaine (par exemple, &laquo;&nbsp;salubrité des aliments site:gc.ca&nbsp;&raquo; ou, &laquo;&nbsp;salubrité des aliments site:canada.ca&nbsp;&raquo;).</p>
-    </section>
-    <section id="wp5-1-3">
-      <h4>Utiliser le titre et les sous-titres de la page pour mettre sa structure en évidence</h4>
-      <p>Le titre de page, les titres de sections et les sous-titres de votre contenu Web aident les gens à trouver facilement des renseignements à l'écran. Utilisez des titres pour diviser le texte en sections logiques à environ tous les 200 mots.</p>
-      <p>Structurer les titres clairement aide à établir l'autorité d'un titre par rapport à un autre.</p>
-      <p>Pour le <strong>titre</strong> de page:</p>
-      <ul>
-        <li>utilisez ce style de présentation&nbsp;: Titre 1</li>
-        <li>une seule fois dans une page</li>
-      </ul>
-      <p>Pour une <strong>section principale</strong>&nbsp;:</p>
-      <ul>
-        <li>utilisez ce style de présentation&nbsp;: Sous-titre 2</li>
-        <li>plusieurs fois dans une page</li>
-      </ul>
-      <p>Pour une <strong>sous-section</strong>:</p>
-      <ul>
-        <li>utilisez ce style de présentation&nbsp;: Sous-titre 3</li>
-        <li>plusieurs fois et dans maintes sections principales</li>
-      </ul>
-      <p>Pour une <strong>sous-sous-section</strong>:</p>
-      <ul>
-        <li>utilisez ce style de présentation&nbsp;: Sous-titre 4 (et ainsi de suite)</li>
-        <li>plusieurs fois et dans maintes sous-sections</li>
-      </ul>
-      <details>
-        <summary>Structurez votre texte grâce aux options de styles automatisées </summary>
-        <p>Utilisez les options de style automatisées de votre logiciel de traitement de texte pour structurer vos titres. Elles permettent de bien distinguer les sous-titres du contenu et d'assurer l'uniformité.</p>
-        <p>Des sous-titres présentés de façon claire et cohérente aident votre équipe Web à produire la page plus rapidement en évitant les erreurs.</p>
-        <h5>Table des matières</h5>
-        <p>Utilisez la fonction de table des matières de votre logiciel de traitement de texte pour générer une table des matières en fonction des niveaux d'en-têtes du document. Vérifiez ensuite cette table des matières pour déterminer si vous avez organisé correctement le titre de page, les titres de sections et les sous-titres.</p>
-        <p>Supprimez la table des matières avant l'étape des approbations si elle n'est pas requise pour la version en ligne.</p>
-        <h5>Volet de navigation</h5>
-        <p>Utilisez le volet de navigation de Microsoft Word. Lorsque vous ouvrez l'outil de recherche (ou que vous tapez Control + F) et sélectionnez l'affichage des résultats par en têtes, une fenêtre contenant tous les titres de votre document apparaîtra.</p>
-      </details>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp5-1" aria-label="Voyez comment la règle sur la rédaction de titres de pages et de sous-titres descriptifs s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20rédaction%20de%20titres%20de%20pages%20et%20de%20sous-titres%20descriptifs%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-1" aria-label="Diffusez la règle sur la rédaction de titres de pages et de sous-titres descriptifs par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
-      <h4>Les titres de publications et de programmes font rarement de bons titres de page Web </h4>
-      <p>Reproduire les titres de rapports, de brochures, de publications ou de programmes dans les titres de page Web peut empêcher les gens de trouver votre contenu, même si le contenu est lié à leur tâche.</p>
-      <p>Les titres de publications ne sont pas toujours écrits en langage clair, ni assez courts ou assez descriptifs.</p>
-      <p>Pour maximiser les chances que votre contenu figure en haut de la liste des résultats de recherche, utilisez des titres de page&nbsp;:</p>
-      <ul>
-        <li>courts;</li>
-        <li>qui décrivent la page avec précision;</li>
-        <li>qui sont liés à ce que la personne indique dans la barre de recherche.</li>
-      </ul>
-      <p class="mrgn-tp-lg">Lorsque vous affichez une publication en ligne, vous devez l'adapter pour le Web. Voici quelques techniques de base qui vous aideront à obtenir les meilleurs résultats&nbsp;:</p>
-      <h6>Utilisez un titre qui décrit le contenu de la page</h6>
-      <p>Le titre principal (Titre 1) de la page est le texte que vous voyez en haut de la page lorsque vous la regardez. Assurez-vous qu'il décrit bien le sujet de votre publication en langage clair et simple.</p>
-      <h6>Utilisez le premier paragraphe pour introduire votre publication </h6>
-      <p>Le premier paragraphe de votre page Web doit introduire votre publication en langage clair et simple. Il aide les personnes qui consultent votre page à déterminer s'ils ont trouvé ce qu'ils cherchent. Vous pouvez inclure le titre de votre publication ici.</p>
-      <h6>Incluez des mots-clés dans les métadonnées de la page</h6>
-      <p>Utilisez les métabalises Titre et Description pour améliorer le classement de votre publication dans les résultats de recherche. Voici ce que vous pouvez faire&nbsp;:</p>
-      <p><strong>Métabalise Titre</strong>&nbsp;: La métabalise Titre de la page est le texte en hyperlien bleu que vous voyez lorsque les moteurs de recherche génèrent une liste de résultats. Trouvez un titre principal (Titre 1) efficace pour votre page et utilisez-le aussi comme métabalise Titre.</p>
-      <p><strong>Métabalise Description</strong>&nbsp;: La métabalise Description est le contenu que vous voyez sous le texte en hyperlien bleu dans la liste des résultats de recherche. <strong>Évitez d'énumérer seulement des mots-clés,</strong> car les moteurs de recherche tendent à ne pas les prendre en considération. Écrivez une (1) ou 2 phrases courtes qui décrivent le contenu de la page. Assurez-vous d'inclure les mots-clés que vos publics cibles utilisent lorsqu'ils cherchent votre contenu (par exemple, des abréviations qu'ils connaissent bien).</p>
-      <p>Reportez-vous à la <a href="#toc6">section sur le langage clair et simple</a> pour des conseils sur l'utilisation de mots-clés simples et courants.</p>
-    </section>
+  <section id="wp5-1-1">
+    <h4>Privilégier un ton et un temps de verbe neutre pour les titres et sous-titres</h4>
+    <p>Privilégiez un ton neutre et l'utilisation de l'infinitif lorsque vous rédigez des titres et des sous-titres.</p>
   </section>
-  <section id="wp5-2">
-    <h3>5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</h3>
-    <p>Il est plus facile de survoler une courte liste d'éléments verticaux et d'en retenir le contenu qu'un long paragraphe. Si c'est possible, visez un maximum de 7 éléments par liste.</p>
-    <p>Lorsque vous rédigez des listes d'éléments&nbsp;:</p>
+  <section id="wp5-1-2">
+    <h4>Donner un titre unique à votre page</h4>
+    <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon:</p>
     <ul>
-      <li>utilisez autant que possible la forme positive;</li>
-      <li>regroupez les éléments rédigés à la forme négative, si vous devez l'utiliser;</li>
-      <li>utilisez une structure grammaticale cohérente. Par exemple, si&nbsp;:
+      <li>le titre de page;</li>
+      <li>les titres de sections;</li>
+      <li>les sous-titres.</li>
+    </ul>
+    <p>Ils affichent le titre de page sous forme de lien dans la page de résultats.</p>
+    <p>Les titres de page uniques permettent aux moteurs de recherche de faire une distinction entre diverses pages similaires. Ils font également en sorte que les gens n'aient pas à examiner de nombreuses pages du même nom pour trouver l'information requise.</p>
+    <p>Vous pouvez utiliser un moteur de recherche pour vérifier si votre titre de page est unique en inscrivant le titre de la page, suivi de &laquo;&nbsp;site:» ainsi que du nom de domaine (par exemple, &laquo;&nbsp;salubrité des aliments site:gc.ca&nbsp;&raquo; ou, &laquo;&nbsp;salubrité des aliments site:canada.ca&nbsp;&raquo;).</p>
+  </section>
+  <section id="wp5-1-3">
+    <h4>Utiliser le titre et les sous-titres de la page pour mettre sa structure en évidence</h4>
+    <p>Le titre de page, les titres de sections et les sous-titres de votre contenu Web aident les gens à trouver facilement des renseignements à l'écran. Utilisez des titres pour diviser le texte en sections logiques à environ tous les 200 mots.</p>
+    <p>Structurer les titres clairement aide à établir l'autorité d'un titre par rapport à un autre.</p>
+    <p>Pour le <strong>titre</strong> de page:</p>
+    <ul>
+      <li>utilisez ce style de présentation&nbsp;: Titre 1</li>
+      <li>une seule fois dans une page</li>
+    </ul>
+    <p>Pour une <strong>section principale</strong>&nbsp;:</p>
+    <ul>
+      <li>utilisez ce style de présentation&nbsp;: Sous-titre 2</li>
+      <li>plusieurs fois dans une page</li>
+    </ul>
+    <p>Pour une <strong>sous-section</strong>:</p>
+    <ul>
+      <li>utilisez ce style de présentation&nbsp;: Sous-titre 3</li>
+      <li>plusieurs fois et dans maintes sections principales</li>
+    </ul>
+    <p>Pour une <strong>sous-sous-section</strong>:</p>
+    <ul>
+      <li>utilisez ce style de présentation&nbsp;: Sous-titre 4 (et ainsi de suite)</li>
+      <li>plusieurs fois et dans maintes sous-sections</li>
+    </ul>
+    <details>
+      <summary>Structurez votre texte grâce aux options de styles automatisées </summary>
+      <p>Utilisez les options de style automatisées de votre logiciel de traitement de texte pour structurer vos titres. Elles permettent de bien distinguer les sous-titres du contenu et d'assurer l'uniformité.</p>
+      <p>Des sous-titres présentés de façon claire et cohérente aident votre équipe Web à produire la page plus rapidement en évitant les erreurs.</p>
+      <h5>Table des matières</h5>
+      <p>Utilisez la fonction de table des matières de votre logiciel de traitement de texte pour générer une table des matières en fonction des niveaux d'en-têtes du document. Vérifiez ensuite cette table des matières pour déterminer si vous avez organisé correctement le titre de page, les titres de sections et les sous-titres.</p>
+      <p>Supprimez la table des matières avant l'étape des approbations si elle n'est pas requise pour la version en ligne.</p>
+      <h5>Volet de navigation</h5>
+      <p>Utilisez le volet de navigation de Microsoft Word. Lorsque vous ouvrez l'outil de recherche (ou que vous tapez Control + F) et sélectionnez l'affichage des résultats par en têtes, une fenêtre contenant tous les titres de votre document apparaîtra.</p>
+    </details>
+    <h4>Les titres de publications et de programmes font rarement de bons titres de page Web </h4>
+    <p>Reproduire les titres de rapports, de brochures, de publications ou de programmes dans les titres de page Web peut empêcher les gens de trouver votre contenu, même si le contenu est lié à leur tâche.</p>
+    <p>Les titres de publications ne sont pas toujours écrits en langage clair, ni assez courts ou assez descriptifs.</p>
+    <p>Pour maximiser les chances que votre contenu figure en haut de la liste des résultats de recherche, utilisez des titres de page&nbsp;:</p>
+    <ul>
+      <li>courts;</li>
+      <li>qui décrivent la page avec précision;</li>
+      <li>qui sont liés à ce que la personne indique dans la barre de recherche.</li>
+    </ul>
+    <p class="mrgn-tp-lg">Lorsque vous affichez une publication en ligne, vous devez l'adapter pour le Web. Voici quelques techniques de base qui vous aideront à obtenir les meilleurs résultats&nbsp;:</p>
+    <h6>Utilisez un titre qui décrit le contenu de la page</h6>
+    <p>Le titre principal (Titre 1) de la page est le texte que vous voyez en haut de la page lorsque vous la regardez. Assurez-vous qu'il décrit bien le sujet de votre publication en langage clair et simple.</p>
+    <h6>Utilisez le premier paragraphe pour introduire votre publication </h6>
+    <p>Le premier paragraphe de votre page Web doit introduire votre publication en langage clair et simple. Il aide les personnes qui consultent votre page à déterminer s'ils ont trouvé ce qu'ils cherchent. Vous pouvez inclure le titre de votre publication ici.</p>
+    <h6>Incluez des mots-clés dans les métadonnées de la page</h6>
+    <p>Utilisez les métabalises Titre et Description pour améliorer le classement de votre publication dans les résultats de recherche. Voici ce que vous pouvez faire&nbsp;:</p>
+    <p><strong>Métabalise Titre</strong>&nbsp;: La métabalise Titre de la page est le texte en hyperlien bleu que vous voyez lorsque les moteurs de recherche génèrent une liste de résultats. Trouvez un titre principal (Titre 1) efficace pour votre page et utilisez-le aussi comme métabalise Titre.</p>
+    <p><strong>Métabalise Description</strong>&nbsp;: La métabalise Description est le contenu que vous voyez sous le texte en hyperlien bleu dans la liste des résultats de recherche. <strong>Évitez d'énumérer seulement des mots-clés,</strong> car les moteurs de recherche tendent à ne pas les prendre en considération. Écrivez une (1) ou 2 phrases courtes qui décrivent le contenu de la page. Assurez-vous d'inclure les mots-clés que vos publics cibles utilisent lorsqu'ils cherchent votre contenu (par exemple, des abréviations qu'ils connaissent bien).</p>
+    <p>Reportez-vous à la <a href="#toc6">section sur le langage clair et simple</a> pour des conseils sur l'utilisation de mots-clés simples et courants.</p>
+  </section>
+  <h4>Voyez comment la règle sur la rédaction de titres de pages et de sous-titres descriptifs s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-1">5.1 Write useful page titles and headings</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de titres de pages et de sous-titres descriptifs", "title": "5.1 Rédiger des titres et sous-titres de page descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp5-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-1"}'></div>
+  </div>
+</section>
+<section id="wp5-2">
+  <h3>5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</h3>
+  <p>Il est plus facile de survoler une courte liste d'éléments verticaux et d'en retenir le contenu qu'un long paragraphe. Si c'est possible, visez un maximum de 7 éléments par liste.</p>
+  <p>Lorsque vous rédigez des listes d'éléments&nbsp;:</p>
+  <ul>
+    <li>utilisez autant que possible la forme positive;</li>
+    <li>regroupez les éléments rédigés à la forme négative, si vous devez l'utiliser;</li>
+    <li>utilisez une structure grammaticale cohérente. Par exemple, si&nbsp;:
+      <ul>
+        <li>vous utilisez le mode impératif (commandement) dans le premier élément de votre liste, reprenez ce mode dans chaque élément subséquent;</li>
+        <li>votre premier élément commence par un nom, poursuivez la liste de la même façon;</li>
+      </ul>
+    </li>
+    <li>si votre liste contient plus de 7 éléments, songez à la séparer en différentes catégories.</li>
+  </ul>
+  <section id="wp5-2-1">
+    <h4>Phrase d'introduction</h4>
+    <p>S'il faut clarifier un lien entre les éléments d'une liste, commencez la liste par une introduction qui&nbsp;:</p>
+    <ul>
+      <li>s'applique à tous les éléments;</li>
+      <li>met en relief le point commun entre les éléments.</li>
+    </ul>
+    <p>Si c'est pertinent, précisez dans la phrase d'introduction s'il faut prendre en compte <strong>tous</strong> les éléments ou <strong>un ou l'autre</strong>&nbsp;des éléments de la liste. Par exemple, vous pouvez écrire&nbsp;:</p>
+    <ul>
+      <li>&laquo;&nbsp;Vous devez répondre à toutes les exigences ci-dessous&nbsp;:&nbsp;&raquo;</li>
+      <li>&laquo;&nbsp;Pour soumettre une demande, vous devez répondre à une (1) ou plusieurs des exigences ci-dessous&nbsp;:&nbsp;&raquo;</li>
+    </ul>
+  </section>
+  <section id="wp5-2-2">
+    <h4>Listes numérotées</h4>
+    <p>Utilisez des listes numérotées pour indiquer&nbsp;:</p>
+    <ul>
+      <li>le rang</li>
+      <li>l'ordre</li>
+      <li>la priorité</li>
+      <li>les détails d'une marche à suivre, étape par étape</li>
+    </ul>
+  </section>
+  <section id="wp5-2-3">
+    <h4>Listes à puces</h4>
+    <p>Présentez une seule idée par puce. Si vous devez inclure plus de renseignements pour clarifier une idée, utilisez des listes en retrait, mais avec modération.</p>
+    <h5>Exemple de listes à puces</h5>
+    <p><strong>Écrivez</strong>&nbsp;:</p>
+    <p>Pour rédiger un document source de qualité&nbsp;:</p>
+    <ul>
+      <li>organisez vos idées;
         <ul>
-          <li>vous utilisez le mode impératif (commandement) dans le premier élément de votre liste, reprenez ce mode dans chaque élément subséquent;</li>
-          <li>votre premier élément commence par un nom, poursuivez la liste de la même façon;</li>
+          <li>ordonnez vos idées par ordre d'importance relativement à la tâche;</li>
+          <li>testez l'ordre de vos idées avec des représentants de votre public cible;</li>
         </ul>
       </li>
-      <li>si votre liste contient plus de 7 éléments, songez à la séparer en différentes catégories.</li>
+      <li>utilisez la voix active;</li>
+      <li>employez le mot juste;</li>
+      <li>rédigez des phrases brèves et des paragraphes courts;</li>
+      <li>suivez les lignes directrices du <cite>Guide de rédaction du contenu du site Canada.ca</cite>.</li>
     </ul>
-    <section id="wp5-2-1">
-      <h4>Phrase d'introduction</h4>
-      <p>S'il faut clarifier un lien entre les éléments d'une liste, commencez la liste par une introduction qui&nbsp;:</p>
-      <ul>
-        <li>s'applique à tous les éléments;</li>
-        <li>met en relief le point commun entre les éléments.</li>
-      </ul>
-      <p>Si c'est pertinent, précisez dans la phrase d'introduction s'il faut prendre en compte <strong>tous</strong> les éléments ou <strong>un ou l'autre</strong>&nbsp;des éléments de la liste. Par exemple, vous pouvez écrire&nbsp;:</p>
-      <ul>
-        <li>&laquo;&nbsp;Vous devez répondre à toutes les exigences ci-dessous&nbsp;:&nbsp;&raquo;</li>
-        <li>&laquo;&nbsp;Pour soumettre une demande, vous devez répondre à une (1) ou plusieurs des exigences ci-dessous&nbsp;:&nbsp;&raquo;</li>
-      </ul>
-    </section>
-    <section id="wp5-2-2">
-      <h4>Listes numérotées</h4>
-      <p>Utilisez des listes numérotées pour indiquer&nbsp;:</p>
-      <ul>
-        <li>le rang</li>
-        <li>l'ordre</li>
-        <li>la priorité</li>
-        <li>les détails d'une marche à suivre, étape par étape</li>
-      </ul>
-    </section>
-    <section id="wp5-2-3">
-      <h4>Listes à puces</h4>
-      <p>Présentez une seule idée par puce. Si vous devez inclure plus de renseignements pour clarifier une idée, utilisez des listes en retrait, mais avec modération.</p>
-      <h5>Exemple de listes à puces</h5>
-      <p><strong>Écrivez</strong>&nbsp;:</p>
-      <p>Pour rédiger un document source de qualité&nbsp;:</p>
-      <ul>
-        <li>organisez vos idées;
-          <ul>
-            <li>ordonnez vos idées par ordre d'importance relativement à la tâche;</li>
-            <li>testez l'ordre de vos idées avec des représentants de votre public cible;</li>
-          </ul>
-        </li>
-        <li>utilisez la voix active;</li>
-        <li>employez le mot juste;</li>
-        <li>rédigez des phrases brèves et des paragraphes courts;</li>
-        <li>suivez les lignes directrices du <cite>Guide de rédaction du contenu du site Canada.ca</cite>.</li>
-      </ul>
-      <p><strong>Au lieu de</strong>&nbsp;:</p>
-      <p>Pour rédiger un document source de qualité&nbsp;:</p>
-      <ul>
-        <li>organisez vos idées;</li>
-        <li>ordonnez vos idées par ordre d'importance relativement à la tâche;</li>
-        <li>testez l'ordre de vos idées avec des représentants de votre public cible;</li>
-        <li>n'utilisez pas la voix passive;</li>
-        <li>il est important d'employer le mot juste;</li>
-        <li>n'utilisez que des phrases brèves et des paragraphes courts;</li>
-        <li>servez-vous du <cite>Guide de rédaction du contenu du site Canada.ca</cite> pour vous assurer d'avoir suivi les lignes directrices.</li>
-      </ul>
-      <p>Consultez la <a href="#wp4-1">section sur l'utilisation des majuscules et de la ponctuation dans les listes d'éléments</a>.</p>
-    </section>
-    <section id="wp5-2-4">
-      <h4>Listes alphabétiques</h4>
-      <p>Présentez le contenu Web en ordre alphabétique seulement s'il s'agit de l'approche la plus logique et intuitive possible pour le public cible.</p>
-      <p>Cependant, il peut être approprié de présenter des éléments par ordre alphabétique, comme une liste de noms.</p>
-      <p>Si vous présentez du contenu français par ordre alphabétique, présentez aussi le contenu traduit en anglais par ordre alphabétique pour offrir la même expérience intuitive.</p>
-    </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp5-2" aria-label="Voyez comment la règle sur l'utilisation de listes d'éléments s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20listes%20d'éléments%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-2" aria-label="Diffusez la règle sur l'utilisation de listes d'éléments par courriel">Diffusez cette règle par courriel</a></p>
-    </div>
-  </section>
-  <section id="wp5-3">
-    <h3>5.3 Utiliser des tableaux pour organiser des données </h3>
-    <p>Utilisez des tableaux pour organiser et présenter des données. Assurez-vous que&nbsp;:</p>
+    <p><strong>Au lieu de</strong>&nbsp;:</p>
+    <p>Pour rédiger un document source de qualité&nbsp;:</p>
     <ul>
-      <li>la valeur de chaque cellule correspond aux en-têtes des colonnes et des rangées;</li>
-      <li>les entrées à l'intérieur d'une colonne n'incluent pas de renseignement qui pourrait être considéré comme un sous-titre;</li>
-      <li>la valeur de chaque cellule concorde avec l'en-tête de colonne qui figure directement au-dessus.</li>
+      <li>organisez vos idées;</li>
+      <li>ordonnez vos idées par ordre d'importance relativement à la tâche;</li>
+      <li>testez l'ordre de vos idées avec des représentants de votre public cible;</li>
+      <li>n'utilisez pas la voix passive;</li>
+      <li>il est important d'employer le mot juste;</li>
+      <li>n'utilisez que des phrases brèves et des paragraphes courts;</li>
+      <li>servez-vous du <cite>Guide de rédaction du contenu du site Canada.ca</cite> pour vous assurer d'avoir suivi les lignes directrices.</li>
     </ul>
-    <p>Présentez votre tableau à l'aide d'un titre clair qui décrit les renseignements contenus dans le tableau.</p>
-    <h4>Exemple d'utilisation d'un tableau pour organiser des données</h4>
-    <table class="table table-bordered table-condensed">
-      <caption class="text-center">
-      <strong>Exemple d'utilisation d'un tableau pour organiser des données<br>
-      Comparaison des autorisations budgétaires nettes et des dépenses pour le crédit du 1er au 31 décembre, pour les exercices financiers 2011 à 2012 et 2012 à 2013 (en millions de dollars)</strong>
+    <p>Consultez la <a href="#wp4-1">section sur l'utilisation des majuscules et de la ponctuation dans les listes d'éléments</a>.</p>
+  </section>
+  <section id="wp5-2-4">
+    <h4>Listes alphabétiques</h4>
+    <p>Présentez le contenu Web en ordre alphabétique seulement s'il s'agit de l'approche la plus logique et intuitive possible pour le public cible.</p>
+    <p>Cependant, il peut être approprié de présenter des éléments par ordre alphabétique, comme une liste de noms.</p>
+    <p>Si vous présentez du contenu français par ordre alphabétique, présentez aussi le contenu traduit en anglais par ordre alphabétique pour offrir la même expérience intuitive.</p>
+  </section>
+  <h4>Voyez comment la règle sur l'utilisation de listes d'éléments s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-2">5.2 Use lists to help people scan</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de listes d&#8217;éléments", "title": "5.2 Utiliser des listes d&#8217;éléments pour aider les gens à survoler le texte", "url": "https://conception.canada.ca/guide-redaction/#wp5-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-2"}'></div>
+  </div>
+</section>
+<section id="wp5-3">
+  <h3>5.3 Utiliser des tableaux pour organiser des données </h3>
+  <p>Utilisez des tableaux pour organiser et présenter des données. Assurez-vous que&nbsp;:</p>
+  <ul>
+    <li>la valeur de chaque cellule correspond aux en-têtes des colonnes et des rangées;</li>
+    <li>les entrées à l'intérieur d'une colonne n'incluent pas de renseignement qui pourrait être considéré comme un sous-titre;</li>
+    <li>la valeur de chaque cellule concorde avec l'en-tête de colonne qui figure directement au-dessus.</li>
+  </ul>
+  <p>Présentez votre tableau à l'aide d'un titre clair qui décrit les renseignements contenus dans le tableau.</p>
+  <h4>Exemple d'utilisation d'un tableau pour organiser des données</h4>
+  <table class="table table-bordered table-condensed">
+    <caption class="text-center">
+    <strong>Exemple d'utilisation d'un tableau pour organiser des données<br>
+    Comparaison des autorisations budgétaires nettes et des dépenses pour le crédit du 1er au 31 décembre, pour les exercices financiers 2011 à 2012 et 2012 à 2013 (en millions de dollars)</strong>
+    </caption>
+    <tbody>
+      <tr class="active">
+        <th scope="col"><strong>Crédit 1</strong></th>
+        <th class="text-right" scope="col"><strong>2011 à 2012</strong></th>
+        <th class="text-right" scope="col"><strong>2012 à 2013</strong></th>
+      </tr>
+      <tr>
+        <th scope="row">Autorisations budgétaires nettes</th>
+        <td class="text-right">287,4</td>
+        <td class="text-right">252,4</td>
+      </tr>
+      <tr>
+        <th scope="row">Dépenses cumulatives au 31 décembre</th>
+        <td class="text-right">184,1</td>
+        <td class="text-right">154,6</td>
+      </tr>
+    </tbody>
+  </table>
+  <section id="wp5-3-1">
+    <h4>Inclure des en-têtes de colonne et de rangée</h4>
+    <p>Chaque colonne et chaque rangée d'un tableau structuré doit comporter un en-tête qui décrit les renseignements se trouvant dans la colonne ou la rangée.</p>
+    <p>Les en-têtes de colonne et de rangée diffèrent des&nbsp;titres et sous-titres. Les&nbsp;:</p>
+    <ul>
+      <li>en-têtes de colonne ou de rangée introduisent l'information contenue sous la colonne ou dans la rangée d'un tableau;</li>
+      <li>titres et sous-titres désignent le titre d'un tableau ou d'une section du contenu d'une page Web.</li>
+    </ul>
+    <p>Vérifiez si la relation est cohérente entre les colonnes et les rangées d'un tableau.</p>
+    <p>Par exemple, dans le tableau ci-dessus, demandez-vous&nbsp;si les renseignements figurant dans une&nbsp;:</p>
+    <ul>
+      <li>colonne concordent avec l'en-tête de colonne directement au-dessus (&laquo;&nbsp;Crédit 1&nbsp;&raquo;, &laquo;&nbsp;2011 à 2012&nbsp;&raquo; (en millions de dollars) et &laquo;&nbsp;2012 à 2013&nbsp;&raquo; (en millions de dollars));</li>
+      <li>rangée concordent avec l'en-tête de rangée qui les décrit (&laquo;&nbsp;Autorisations budgétaires nettes&nbsp;&raquo; et &laquo;&nbsp;Dépenses cumulatives au 31&nbsp;décembre&nbsp;&raquo;).</li>
+    </ul>
+    <p>Votre équipe Web utilisera les renseignements contenus dans les en-têtes de colonne et de rangée pour coder le tableau. &nbsp;Ainsi, les lecteurs d'écrans pourront en interpréter correctement les données.</p>
+    <h5>Exemple de l'utilisation appropriée d'en-têtes de colonne et de rangée</h5>
+    <p>Dans l'exemple suivant, toutes les cellules de la première&nbsp;:</p>
+    <ul>
+      <li>rangée sont des entêtes de colonne et sont identifiées par les caractères gras et la couleur grise;</li>
+      <li>colonne sont des entêtes de rangée (sauf pour la cellule du haut à gauche) et sont identifiées par les caractères gras.</li>
+    </ul>
+    <table class="table table-condensed table-bordered">
+      <caption>
+      <strong>Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup></strong>
       </caption>
-      <tbody>
+      <thead>
         <tr class="active">
-          <th scope="col"><strong>Crédit 1</strong></th>
-          <th class="text-right" scope="col"><strong>2011 à 2012</strong></th>
-          <th class="text-right" scope="col"><strong>2012 à 2013</strong></th>
+          <th scope="col">Date</th>
+          <th scope="col">Nom du fournisseur</th>
+          <th scope="col">Description</th>
+          <th scope="col">Valeur</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row"><time datetime="2010-02-01">2010-02-01<sup id="table2b-fn2-rf"><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">table 2 note </span>**</a></sup></time></th>
+          <td>Solutions d'entreprises ABC</td>
+          <td>Location d'appareils, de meubles et d'accessoires de bureau</td>
+          <td class="text-right">227&nbsp;703,22&nbsp;$</td>
         </tr>
         <tr>
-          <th scope="row">Autorisations budgétaires nettes</th>
-          <td class="text-right">287,4</td>
-          <td class="text-right">252,4</td>
+          <th scope="row"><time datetime="2010-02-20">2010-02-20</time></th>
+          <td>Consultants informatique sérénIT</td>
+          <td>Autres services professionnels uniques</td>
+          <td class="text-right">227&nbsp;956,64&nbsp;$</td>
         </tr>
         <tr>
-          <th scope="row">Dépenses cumulatives au 31 décembre</th>
-          <td class="text-right">184,1</td>
-          <td class="text-right">154,6</td>
+          <th scope="row"><time datetime="2010-02-23">2010-02-23</time></th>
+          <td>Service-conseil gestion limitée</td>
+          <td>Conseils en gestion</td>
+          <td class="text-right">285&nbsp;575,89&nbsp;$</td>
+        </tr>
+        <tr>
+          <th scope="row"><time datetime="2010-03-01">2010-03-01</time></th>
+          <td>Consultants XYZ</td>
+          <td>Autres services professionnels précisés nulle part ailleurs </td>
+          <td class="text-right">56&nbsp;294,42&nbsp;$</td>
         </tr>
       </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="4"><section class="wb-fnote">
+              <h5 class="wb-inv" id="table2b-fn">Notes du tableau 2</h5>
+              <dl>
+                <dt> Note * du tableau 2 </dt>
+                <dd id="table2b-fn1">
+                  <p>Quatrième trimestre de l'exercice financier allant du 1er avril 2009 au 31 mars 2010.</p>
+                  <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>*<span class="wb-inv"> du tableau 2</span></a></p>
+                </dd>
+                <dt> Note ** du tableau 2 </dt>
+                <dd id="table2b-fn2">
+                  <p>Les dates de ce tableau représentent l'année et le mois, suivis du jour (aaaa-mm-jj).</p>
+                  <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>**<span class="wb-inv"> du tableau 2</span></a></p>
+                </dd>
+              </dl>
+            </section></td>
+        </tr>
+      </tfoot>
     </table>
-    <section id="wp5-3-1">
-      <h4>Inclure des en-têtes de colonne et de rangée</h4>
-      <p>Chaque colonne et chaque rangée d'un tableau structuré doit comporter un en-tête qui décrit les renseignements se trouvant dans la colonne ou la rangée.</p>
-      <p>Les en-têtes de colonne et de rangée diffèrent des&nbsp;titres et sous-titres. Les&nbsp;:</p>
-      <ul>
-        <li>en-têtes de colonne ou de rangée introduisent l'information contenue sous la colonne ou dans la rangée d'un tableau;</li>
-        <li>titres et sous-titres désignent le titre d'un tableau ou d'une section du contenu d'une page Web.</li>
-      </ul>
-      <p>Vérifiez si la relation est cohérente entre les colonnes et les rangées d'un tableau.</p>
-      <p>Par exemple, dans le tableau ci-dessus, demandez-vous&nbsp;si les renseignements figurant dans une&nbsp;:</p>
-      <ul>
-        <li>colonne concordent avec l'en-tête de colonne directement au-dessus (&laquo;&nbsp;Crédit 1&nbsp;&raquo;, &laquo;&nbsp;2011 à 2012&nbsp;&raquo; (en millions de dollars) et &laquo;&nbsp;2012 à 2013&nbsp;&raquo; (en millions de dollars));</li>
-        <li>rangée concordent avec l'en-tête de rangée qui les décrit (&laquo;&nbsp;Autorisations budgétaires nettes&nbsp;&raquo; et &laquo;&nbsp;Dépenses cumulatives au 31&nbsp;décembre&nbsp;&raquo;).</li>
-      </ul>
-      <p>Votre équipe Web utilisera les renseignements contenus dans les en-têtes de colonne et de rangée pour coder le tableau. &nbsp;Ainsi, les lecteurs d'écrans pourront en interpréter correctement les données.</p>
-      <h5>Exemple de l'utilisation appropriée d'en-têtes de colonne et de rangée</h5>
-      <p>Dans l'exemple suivant, toutes les cellules de la première&nbsp;:</p>
-      <ul>
-        <li>rangée sont des entêtes de colonne et sont identifiées par les caractères gras et la couleur grise;</li>
-        <li>colonne sont des entêtes de rangée (sauf pour la cellule du haut à gauche) et sont identifiées par les caractères gras.</li>
-      </ul>
-      <table class="table table-condensed table-bordered">
-        <caption>
-        <strong>Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup></strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col">Date</th>
-            <th scope="col">Nom du fournisseur</th>
-            <th scope="col">Description</th>
-            <th scope="col">Valeur</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row"><time datetime="2010-02-01">2010-02-01<sup id="table2b-fn2-rf"><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">table 2 note </span>**</a></sup></time></th>
-            <td>Solutions d'entreprises ABC</td>
-            <td>Location d'appareils, de meubles et d'accessoires de bureau</td>
-            <td class="text-right">227&nbsp;703,22&nbsp;$</td>
-          </tr>
-          <tr>
-            <th scope="row"><time datetime="2010-02-20">2010-02-20</time></th>
-            <td>Consultants informatique sérénIT</td>
-            <td>Autres services professionnels uniques</td>
-            <td class="text-right">227&nbsp;956,64&nbsp;$</td>
-          </tr>
-          <tr>
-            <th scope="row"><time datetime="2010-02-23">2010-02-23</time></th>
-            <td>Service-conseil gestion limitée</td>
-            <td>Conseils en gestion</td>
-            <td class="text-right">285&nbsp;575,89&nbsp;$</td>
-          </tr>
-          <tr>
-            <th scope="row"><time datetime="2010-03-01">2010-03-01</time></th>
-            <td>Consultants XYZ</td>
-            <td>Autres services professionnels précisés nulle part ailleurs </td>
-            <td class="text-right">56&nbsp;294,42&nbsp;$</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td colspan="4"><section class="wb-fnote">
-                <h5 class="wb-inv" id="table2b-fn">Notes du tableau 2</h5>
-                <dl>
-                  <dt> Note * du tableau 2 </dt>
-                  <dd id="table2b-fn1">
-                    <p>Quatrième trimestre de l'exercice financier allant du 1er avril 2009 au 31 mars 2010.</p>
-                    <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>*<span class="wb-inv"> du tableau 2</span></a></p>
-                  </dd>
-                  <dt> Note ** du tableau 2 </dt>
-                  <dd id="table2b-fn2">
-                    <p>Les dates de ce tableau représentent l'année et le mois, suivis du jour (aaaa-mm-jj).</p>
-                    <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>**<span class="wb-inv"> du tableau 2</span></a></p>
-                  </dd>
-                </dl>
-              </section></td>
-          </tr>
-        </tfoot>
-      </table>
-      <p class="mrgn-tp-lg">En examinant l'en-tête des colonnes &laquo;&nbsp;Date d'attribution du contrat&nbsp;&raquo;, &laquo;&nbsp;Nom du fournisseur&nbsp;&raquo; et &laquo;&nbsp;Valeur&nbsp;&raquo;, on comprend que le 23 février 2010, l'entreprise Service conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
-    </section>
-    <section id="wp5-3-2">
-      <h4>Utiliser la structure de tableau la plus simple possible</h4>
-      <p>Il peut être difficile de faire en sorte que des tableaux soient accessibles et faciles à lire sur des appareils mobiles ou avec un lecteur d'écran.</p>
-      <p>Pour rendre l'information utile pour le plus vaste public possible&nbsp;:</p>
-      <ul>
-        <li>divisez un tableau complexe en un ou plusieurs tableaux simples;</li>
-        <li>convertissez un tableau en texte sous forme de liste d'éléments si les données sont simples.</li>
-      </ul>
-      <h5>Avant&nbsp;: tableau complexe</h5>
-      <p>Le tableau qui suit est complexe et mal conçu. Il serait difficile d'y accéder et d'en comprendre l'information à l'aide d'un lecteur d'écran ou d'un appareil mobile.</p>
-      <h6> Exemple <span class="wb-inv">de tableau complexe</span></h6>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (1927-2013)</strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th colspan="6" scope="colgroup"><strong>Association de l'Est</strong></th>
-            <th colspan="4" scope="colgroup"><strong>Association de l'Ouest</strong></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="col">Équipe</th>
-            <th scope="col">Parties gagnées</th>
-            <th scope="col">Équipe</th>
-            <th scope="col">Parties gagnées</th>
-            <th scope="col">Équipe</th>
-            <th scope="col">Parties gagnées</th>
-            <th scope="col">Équipe</th>
-            <th scope="col">Parties gagnées</th>
-            <th scope="col">Équipe</th>
-            <th scope="col">Parties gagnées</th>
-          </tr>
-          <tr>
-            <td>Canadiens de Montréal</td>
-            <td class="text-right">22</td>
-            <td>Maple Leafs de Toronto</td>
-            <td class="text-right">11</td>
-            <td>Sénateurs d'Ottawa</td>
-            <td class="text-right">1</td>
-            <td>Oilers d'Edmonton</td>
-            <td class="text-right">5</td>
-            <td>Flames de Calgary</td>
-            <td class="text-right">1</td>
-          </tr>
-          <tr>
-            <td class="small" colspan="10"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tbody>
-        <tfoot>
-        </tfoot>
-      </table>
-      <h5>Après&nbsp;: tableaux simples</h5>
-      <p>Le tableau complexe peut être facilement divisé en tableaux simples.</p>
-      <h6>Exemple&nbsp;: un tableau simple</h6>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col"><strong>Équipe</strong></th>
-            <th scope="col"><strong>Association</strong></th>
-            <th scope="col"><strong>Parties gagnées</strong></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">Canadiens de Montréal</th>
-            <td>Est </td>
-            <td class="text-right">22</td>
-          </tr>
-          <tr>
-            <th scope="row">Maple Leafs de Toronto</th>
-            <td>Est </td>
-            <td class="text-right">11</td>
-          </tr>
-          <tr>
-            <th scope="row">Oilers d'Edmonton</th>
-            <td>Ouest </td>
-            <td class="text-right">5</td>
-          </tr>
-          <tr>
-            <th scope="row">Flames de Calgary</th>
-            <td>Ouest </td>
-            <td class="text-right">1</td>
-          </tr>
-          <tr>
-            <th scope="row">Sénateurs d'Ottawa</th>
-            <td>Est</td>
-            <td class="text-right">1</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="3"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
-      </table>
-      <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de 2 tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
-      <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col"><strong>Équipe</strong></th>
-            <th scope="col"><strong>Parties gagnées</strong></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Canadiens de Montréal</td>
-            <td class="text-right">22</td>
-          </tr>
-          <tr>
-            <td>Maple Leafs de Toronto</td>
-            <td class="text-right">11</td>
-          </tr>
-          <tr>
-            <td>Sénateurs d'Ottawa</td>
-            <td class="text-right">1</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="2"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
-      </table>
-      <table class="table table-bordered table-condensed">
-        <caption class="text-center">
-        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
-        </caption>
-        <thead>
-          <tr class="active">
-            <th scope="col">Équipe</th>
-            <th scope="col">Parties gagnées</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Oilers d'Edmonton</td>
-            <td class="text-right">5</td>
-          </tr>
-          <tr>
-            <td>Flames de Calgary</td>
-            <td class="text-right">1</td>
-          </tr>
-        </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="2"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
-      </table>
-      <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
-      <h6>Exemple: conversion de tableaux en texte </h6>
-      <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
-      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
-      <ul>
-        <li>Canadiens de Montréal&nbsp;: 22</li>
-        <li>Maple Leafs de Toronto&nbsp;: 11</li>
-        <li>Sénateurs d'Ottawa&nbsp;: 1</li>
-      </ul>
-      <p><strong>Association de l'Ouest de la Ligue nationale de hockey </strong></p>
-      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
-      <ul>
-        <li>Oilers d'Edmonton&nbsp;: 5</li>
-        <li>Flames de Calgary&nbsp;: 1</li>
-      </ul>
-    </section>
-    <section id="wp5-3-3">
-      <h4>Éviter les cellules texturées ou colorées</h4>
-      <p>Évitez de mettre de la texture ou des couleurs dans les cellules.</p>
-      <p>Si vous devez utiliser des textures et des couleurs dans un tableau, expliquez ce qu'elles signifient (par exemple, dans les notes du tableau ou dans une légende). Conformez-vous aux règles de <a href="http://www.w3.org/Translations/WCAG20-fr/#visual-audio-contrast">rapport minimum de contraste des couleurs (1.4.3)</a> des <cite>Règles pour l'accessibilité des contenus Web 2.0</cite>.</p>
-      <p>Ne vous fiez <strong>jamais</strong> uniquement à la couleur ou à la texture pour présenter des renseignements importants.</p>
-    </section>
-    <section id="wp5-3-4">
-      <h4>Éviter les cellules vides</h4>
-      <p>Si la cellule est vide, les outils d'aide, tels que les lecteurs d'écrans, en informent les utilisateurs. Si une cellule de tableau n'a aucune valeur, expliquez pourquoi dans&nbsp;:</p>
-      <ul>
-        <li>une note en bas du tableau;</li>
-        <li>une légende;</li>
-        <li>un sous-titre;</li>
-        <li>le contenu qui accompagne le tableau.</li>
-      </ul>
-      <p>Si cela est plus clair et ne risque pas d'occasionner de &laquo;&nbsp;pollution visuelle&nbsp;&raquo; pouvant distraire les gens, vous pouvez ajouter le texte suivant dans la cellule&nbsp;:</p>
-      <ul>
-        <li>&laquo;&nbsp;aucune donnée disponible&nbsp;&raquo;;</li>
-        <li>&laquo;&nbsp;0&nbsp;&raquo; (zéro);</li>
-        <li>&laquo;&nbsp;s/o&nbsp;&raquo; (sans objet).</li>
-      </ul>
-    </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp5-3" aria-label="Voyez comment la règle sur l'utilisation de tableaux s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20tableaux%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-3" aria-label="Diffusez la règle sur l'utilisation de tableaux par courriel">Diffusez cette règle par courriel</a></p>
-    </div>
+    <p class="mrgn-tp-lg">En examinant l'en-tête des colonnes &laquo;&nbsp;Date d'attribution du contrat&nbsp;&raquo;, &laquo;&nbsp;Nom du fournisseur&nbsp;&raquo; et &laquo;&nbsp;Valeur&nbsp;&raquo;, on comprend que le 23 février 2010, l'entreprise Service conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
   </section>
+  <section id="wp5-3-2">
+    <h4>Utiliser la structure de tableau la plus simple possible</h4>
+    <p>Il peut être difficile de faire en sorte que des tableaux soient accessibles et faciles à lire sur des appareils mobiles ou avec un lecteur d'écran.</p>
+    <p>Pour rendre l'information utile pour le plus vaste public possible&nbsp;:</p>
+    <ul>
+      <li>divisez un tableau complexe en un ou plusieurs tableaux simples;</li>
+      <li>convertissez un tableau en texte sous forme de liste d'éléments si les données sont simples.</li>
+    </ul>
+    <h5>Avant&nbsp;: tableau complexe</h5>
+    <p>Le tableau qui suit est complexe et mal conçu. Il serait difficile d'y accéder et d'en comprendre l'information à l'aide d'un lecteur d'écran ou d'un appareil mobile.</p>
+    <h6> Exemple <span class="wb-inv">de tableau complexe</span></h6>
+    <table class="table table-bordered table-condensed">
+      <caption class="text-center">
+      <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (1927-2013)</strong>
+      </caption>
+      <thead>
+        <tr class="active">
+          <th colspan="6" scope="colgroup"><strong>Association de l'Est</strong></th>
+          <th colspan="4" scope="colgroup"><strong>Association de l'Ouest</strong></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="col">Équipe</th>
+          <th scope="col">Parties gagnées</th>
+          <th scope="col">Équipe</th>
+          <th scope="col">Parties gagnées</th>
+          <th scope="col">Équipe</th>
+          <th scope="col">Parties gagnées</th>
+          <th scope="col">Équipe</th>
+          <th scope="col">Parties gagnées</th>
+          <th scope="col">Équipe</th>
+          <th scope="col">Parties gagnées</th>
+        </tr>
+        <tr>
+          <td>Canadiens de Montréal</td>
+          <td class="text-right">22</td>
+          <td>Maple Leafs de Toronto</td>
+          <td class="text-right">11</td>
+          <td>Sénateurs d'Ottawa</td>
+          <td class="text-right">1</td>
+          <td>Oilers d'Edmonton</td>
+          <td class="text-right">5</td>
+          <td>Flames de Calgary</td>
+          <td class="text-right">1</td>
+        </tr>
+        <tr>
+          <td class="small" colspan="10"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
+        </tr>
+      </tbody>
+      <tfoot>
+      </tfoot>
+    </table>
+    <h5>Après&nbsp;: tableaux simples</h5>
+    <p>Le tableau complexe peut être facilement divisé en tableaux simples.</p>
+    <h6>Exemple&nbsp;: un tableau simple</h6>
+    <table class="table table-bordered table-condensed">
+      <caption class="text-center">
+      <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+      </caption>
+      <thead>
+        <tr class="active">
+          <th scope="col"><strong>Équipe</strong></th>
+          <th scope="col"><strong>Association</strong></th>
+          <th scope="col"><strong>Parties gagnées</strong></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Canadiens de Montréal</th>
+          <td>Est </td>
+          <td class="text-right">22</td>
+        </tr>
+        <tr>
+          <th scope="row">Maple Leafs de Toronto</th>
+          <td>Est </td>
+          <td class="text-right">11</td>
+        </tr>
+        <tr>
+          <th scope="row">Oilers d'Edmonton</th>
+          <td>Ouest </td>
+          <td class="text-right">5</td>
+        </tr>
+        <tr>
+          <th scope="row">Flames de Calgary</th>
+          <td>Ouest </td>
+          <td class="text-right">1</td>
+        </tr>
+        <tr>
+          <th scope="row">Sénateurs d'Ottawa</th>
+          <td>Est</td>
+          <td class="text-right">1</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td class="small" colspan="3"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
+        </tr>
+      </tfoot>
+    </table>
+    <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de 2 tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
+    <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
+    <table class="table table-bordered table-condensed">
+      <caption class="text-center">
+      <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+      </caption>
+      <thead>
+        <tr class="active">
+          <th scope="col"><strong>Équipe</strong></th>
+          <th scope="col"><strong>Parties gagnées</strong></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Canadiens de Montréal</td>
+          <td class="text-right">22</td>
+        </tr>
+        <tr>
+          <td>Maple Leafs de Toronto</td>
+          <td class="text-right">11</td>
+        </tr>
+        <tr>
+          <td>Sénateurs d'Ottawa</td>
+          <td class="text-right">1</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td class="small" colspan="2"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
+        </tr>
+      </tfoot>
+    </table>
+    <table class="table table-bordered table-condensed">
+      <caption class="text-center">
+      <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+      </caption>
+      <thead>
+        <tr class="active">
+          <th scope="col">Équipe</th>
+          <th scope="col">Parties gagnées</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Oilers d'Edmonton</td>
+          <td class="text-right">5</td>
+        </tr>
+        <tr>
+          <td>Flames de Calgary</td>
+          <td class="text-right">1</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td class="small" colspan="2"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
+        </tr>
+      </tfoot>
+    </table>
+    <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
+    <h6>Exemple: conversion de tableaux en texte </h6>
+    <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
+    <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
+    <ul>
+      <li>Canadiens de Montréal&nbsp;: 22</li>
+      <li>Maple Leafs de Toronto&nbsp;: 11</li>
+      <li>Sénateurs d'Ottawa&nbsp;: 1</li>
+    </ul>
+    <p><strong>Association de l'Ouest de la Ligue nationale de hockey </strong></p>
+    <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
+    <ul>
+      <li>Oilers d'Edmonton&nbsp;: 5</li>
+      <li>Flames de Calgary&nbsp;: 1</li>
+    </ul>
+  </section>
+  <section id="wp5-3-3">
+    <h4>Éviter les cellules texturées ou colorées</h4>
+    <p>Évitez de mettre de la texture ou des couleurs dans les cellules.</p>
+    <p>Si vous devez utiliser des textures et des couleurs dans un tableau, expliquez ce qu'elles signifient (par exemple, dans les notes du tableau ou dans une légende). Conformez-vous aux règles de <a href="http://www.w3.org/Translations/WCAG20-fr/#visual-audio-contrast">rapport minimum de contraste des couleurs (1.4.3)</a> des <cite>Règles pour l'accessibilité des contenus Web 2.0</cite>.</p>
+    <p>Ne vous fiez <strong>jamais</strong> uniquement à la couleur ou à la texture pour présenter des renseignements importants.</p>
+  </section>
+  <section id="wp5-3-4">
+    <h4>Éviter les cellules vides</h4>
+    <p>Si la cellule est vide, les outils d'aide, tels que les lecteurs d'écrans, en informent les utilisateurs. Si une cellule de tableau n'a aucune valeur, expliquez pourquoi dans&nbsp;:</p>
+    <ul>
+      <li>une note en bas du tableau;</li>
+      <li>une légende;</li>
+      <li>un sous-titre;</li>
+      <li>le contenu qui accompagne le tableau.</li>
+    </ul>
+    <p>Si cela est plus clair et ne risque pas d'occasionner de &laquo;&nbsp;pollution visuelle&nbsp;&raquo; pouvant distraire les gens, vous pouvez ajouter le texte suivant dans la cellule&nbsp;:</p>
+    <ul>
+      <li>&laquo;&nbsp;aucune donnée disponible&nbsp;&raquo;;</li>
+      <li>&laquo;&nbsp;0&nbsp;&raquo; (zéro);</li>
+      <li>&laquo;&nbsp;s/o&nbsp;&raquo; (sans objet).</li>
+    </ul>
+  </section>
+  <h4>Voyez comment la règle sur l'utilisation de tableaux s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-3">5.3 Use tables to organize data</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de tableaux", "title": "5.2 Utiliser des listes d&#8217;éléments pour aider les gens à survoler le texte", "url": "https://conception.canada.ca/guide-redaction/#wp5-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-3"}'></div>
+  </div>
 </section>
 <section id="toc10">
   <h2>6.0 Images et vidéos</h2>
