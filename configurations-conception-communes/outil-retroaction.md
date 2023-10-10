@@ -152,7 +152,7 @@ title: "Outil de rétroaction sur la page"
       <p>Utilisez ces instructions pour toutes les pages hébergées dans le service Web géré par Adobe.</p>
       <details>
         <summary>Instructions pour les pages SWG</summary>
-        <h4>Add the feedback component</h4>
+        <h4>Ajout de l’outil de rétroaction</h4>
         <p><a href="#">Comment ajouter l'outil de rétroaction à votre page dans Adobe Experience Manager (AEM).</a> (Contenu interne, uniquement disponible sur GCPedia)</p>
         <h4><span class="label label-primary">Recommandé</span> Ajouter une valeur masquée &laquo;&nbsp;Thème&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
         <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour des pages de tout un thème en même temps.</p>
@@ -195,12 +195,16 @@ title: "Outil de rétroaction sur la page"
   </div>
   <div class="row">
     <div class="col-md-8">
-      <h3>Code de l'outil de rétroaction pour les pages qui ne sont pas dans Adobe Experience Manager (AEM)</h3>
+      <h3>Code de l'outil de rétroaction pour les pages en dehors du Service Web géré (SWG)</h3>
       <p>Utilisez ces instructions pour toutes les pages qui ne sont pas hébergées dans le service Web géré par Adobe.</p>
       <details>
-        <summary>Instructions pour les pages qui ne sont pas dans AEM</summary>
+        <summary>Instructions pour les pages qui ne sont pas dans SWG</summary>
         <h4>Ajout de l'outil de rétroaction</h4>
         <p>Insérez le code de l'outil de rétroaction à l'endroit où se trouve la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; dans le code HTML de votre page.</p>
+        <ul>
+          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Configuration de l'outil de rétroaction sur la page (par défaut)</a></li>
+          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Outil de rétroaction sur la page avec lien de contact</a></li>
+        </ul>
         <h4>Ajout des valeurs masquées obligatoires</h4>
         <p>Mise à jour des données pour les acronymes institutionnels (valeur unilingue).</p>
         <h5>Acronymes des institutions Canada.ca</h5>
@@ -261,27 +265,27 @@ title: "Outil de rétroaction sur la page"
         <p>Dans la plupart des cas, vous devriez inclure le thème &laquo;&nbsp;Canada.ca&nbsp;&raquo; pour votre contenu (vous trouverez la liste complète ci-dessous).</p>
         <p>Il s'agit d'une valeur unilingue. Entrez la même valeur pour vos pages en anglais et en français.</p>
         <h5>Thèmes Canada.ca</h5>
-        <ul>
-          <li>À propos du gouvernement</li>
-          <li>Prestations</li>
-          <li>Entreprises</li>
-          <li>Canada et le monde</li>
-          <li>Culture</li>
-          <li>Défense</li>
-          <li>Environnement</li>
-          <li>Santé</li>
-          <li>Immigration</li>
-          <li>Autochtones</li>
-          <li>Emplois</li>
-          <li>Argent</li>
-          <li>Politique</li>
-          <li>Service public</li>
-          <li>Science</li>
-          <li>Impôts</li>
-          <li>Transport</li>
-          <li>Voyage</li>
-          <li>Vétérans</li>
-        </ul>
+<ul>
+          <li>AboutGov (À propos du gouvernement)</li>
+          <li>Benefits (Prestations)</li>
+          <li>Business (Entreprises)</li>
+          <li>CanadaTheWorld (Canada et le monde)</li>
+          <li>Culture (Culture)</li>
+          <li>Defense (Défense)</li>
+          <li>Environment (Environnement)</li>
+          <li>Health (Santé)</li>
+          <li>Immigration (Immigration)</li>
+          <li>Indigenous (Autochtones)</li>
+          <li>Jobs (Emplois)</li>
+          <li>Money (Argent)</li>
+          <li>Policing (Politique)</li>
+          <li>PublicService (Service public)</li>
+          <li>Science (Science)</li>
+          <li>Taxes (Impôts)</li>
+          <li>Transport (Transport)</li>
+          <li>Travel (Voyage)</li>
+          <li>Veterans (Vétérans)</li>
+</ul>
         <p>Si vous souhaitez ajouter un nouveau thème qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
         <p>Adresse courriel&nbsp;: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
         <h4><span class="label label-warning">Optional</span> Ajouter une valeur masquée &laquo;&nbsp;Section&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
@@ -292,13 +296,6 @@ title: "Outil de rétroaction sur la page"
         <p>Adresse courriel&nbsp;: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
         <h4><span class="label label-warning">Optionnel</span> Lien de contact</h4>
         <p><strong>Envisagez uniquement d'ajouter un lien de contact si</strong> vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateur·rice·s utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
-      </details>
-      <details>
-        <summary>Code pour l'outil de rétroaction sur la page</summary>
-        <ul class="mrgn-tp-lg">
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Configuration de l'outil de rétroaction sur la page (par défaut)</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Outil de rétroaction sur la page avec lien de contact</a></li>
-        </ul>
       </details>
     </div>
   </div>
