@@ -2091,10 +2091,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Ajouter des liens vers d'autres pages Web pertinentes peut aider les gens à trouver rapidement des renseignements utiles. Les liens qui mènent à vos pages à partir d'autres pages Web peuvent aussi améliorer le classement de vos pages dans la liste des résultats générée par les moteurs de recherche.</p>
       <p>Choisissez avec soin les liens connexes. Trop de liens dans une page Web pourraient inciter les gens à quitter la page sans avoir lu l'information importante ou les dissuader d'exécuter une tâche.</p>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp7-1" aria-label="Voyez comment la règle sur l'utilisation stratégique des liens s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20stratégique%20des%20liens%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-1" aria-label="Diffusez la règle sur l'utilisation stratégique des liens par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur l'utilisation stratégique des liens s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-1">7.1 Use links strategically</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation stratégique des liens", "title": "7.1 Utiliser les liens de façon stratégique", "url": "https://conception.canada.ca/guide-redaction/#wp7-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-1"}'> </div>
     </div>
   </section>
   <section id="wp7-2">
@@ -2135,20 +2137,24 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <h6>Au lieu de&nbsp;:</h6>
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit, remplissez le formulaire <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=fra">Attestation du prestataire – Semaines durant lesquelles la rémunération assurable était la plus élevée (Meilleures semaines variables)</a>. Inscrivez-y les renseignements requis concernant les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant vos 52 dernières semaines d'emploi ou depuis le début de votre dernière demande, selon la plus courte période des deux.</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp7-2" aria-label="Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20rédaction%20de%20liens%20descriptifs%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-2" aria-label="Diffusez la règle sur la rédaction de liens descriptifs par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
     </section>
+    <h4>Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de liens descriptifs", "title": "7.2 Rédiger des liens descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'> </div>
+    </div>
   </section>
   <section id="wp7-3">
     <h3>7.3 Vérifier que les liens fonctionnent</h3>
     <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp7-3" aria-label="Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'importance%20de%20vérifier%20les%20liens%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-3" aria-label="Diffusez la règle sur la vérification des liens par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-3">7.3 Make sure that links work</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la vérification des liens", "title": "7.3 Vérifier que les liens fonctionnent", "url": "https://conception.canada.ca/guide-redaction/#wp7-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-3"}'> </div>
     </div>
   </section>
   <section id="wp7-4">
@@ -2163,20 +2169,24 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h4>Exemple de l'utilisation d'un hyperlien qui renvoie à un contenu disponible en anglais seulement</h4>
     <p><strong>Écrivez</strong>&nbsp;: Informez-vous au sujet des <a href="https://help.cbp.gov/app/answers/detail/a_id/1192/~/canadian--citizens%2Fresidents%2Flanded-immigrants-entering-the-u.s.">documents requis pour permettre aux citoyens canadiens d'entrer aux États-Unis</a> (en anglais seulement).</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp7-4" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20création%20de%20liens%20vers%20du%20contenu%20externe%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-4" aria-label="Diffusez la règle sur le contenu externe par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-4">7.4 Linking to non-government content</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le contenu externe", "title": "7.4 Créer des liens vers du contenu externe", "url": "https://conception.canada.ca/guide-redaction/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'> </div>
     </div>
   </section>
   <section id="wp7-5">
     <h3>7.5 Créer des liens vers du contenu interne</h3>
     <p>En général, le contenu destiné au public ne devrait pas contenir de liens renvoyant vers du contenu accessible seulement sur les serveurs internes du gouvernement. Il arrive cependant qu'un contenu accessible au public s'adresse essentiellement aux employés de la fonction publique.</p>
     <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp7-5" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20création%20de%20liens%20vers%20du%20contenu%20interne%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-5" aria-label="Diffusez la règle sur le contenu externe par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur le contenu interne s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-5">7.5 Linking to internal-to-government content</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le contenu interne", "title": "7.5 Créer des liens vers du contenu interne", "url": "https://conception.canada.ca/guide-redaction/#wp7-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-5"}'> </div>
     </div>
   </section>
 </section>
