@@ -160,7 +160,7 @@ title: "Outil de rétroaction sur la page"
         <p>Il s'agit d'une valeur unilingue. Entrez la même valeur pour vos pages en anglais et en français.</p>
         <h5>Thèmes Canada.ca</h5>
         <ul>
-          <li>About Gov (À propos du gouvernement)</li>
+          <li>AboutGov (À propos du gouvernement)</li>
           <li>Benefits (Prestations)</li>
           <li>Business (Entreprises)</li>
           <li>CanadaTheWorld (Canada et le monde)</li>
