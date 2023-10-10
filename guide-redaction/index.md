@@ -1883,14 +1883,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>référez-vous aux <a href="http://wet-boew.github.io/themes-dist/GCWeb/index-fr.html">types de pages pour Canada.ca sur le site GitHub</a>.</li>
     </ul>
   </section>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp6-1" aria-label="Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20d'images%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-1" aria-label="Diffusez la règle sur l'utilisation d'images par courriel">Diffusez cette règle par courriel</a></p>
+  <h4>Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-1">6.1 Understand the purpose of images online</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation d&#8217;images", "title": "6.1 Comprendre le but des images sur le Web", "url": "https://conception.canada.ca/guide-redaction/#wp6-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-1"}'> </div>
   </div>
 </section>
 <section id="wp6-2">
-  <h3>6.2 Ajouter un texte alternatif aux images </h3>
+  <h3>6.2 Ajouter un texte alternatif aux images</h3>
   <p>Un texte alternatif (ou texte de remplacement ou texte Alt) est de l'information qui décrit une image. Il lui donne un sens lorsqu'une personne utilise des technologies d'aide pour l'interpréter. Il permet aussi aux moteurs de recherche de mieux déchiffrer l'intention des fichiers d'image.</p>
   <p>Pour rédiger un texte alternatif pour des <a href="#wp6-1-1">images fonctionnelles</a>&nbsp;:</p>
   <ul>
@@ -1902,10 +1904,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>ne décrivez pas une image ou un graphique par le même mot (par exemple, &laquo;&nbsp;image du...&nbsp;&raquo; ou &laquo;&nbsp;graphique des...&nbsp;&raquo;), car les lecteurs d'écran le font déjà.</li>
   </ul>
   <p>Les <a href="#wp6-1-2">images décoratives</a> n'exigent pas de renseignements supplémentaires pour les rendre accessibles ou visibles aux moteurs de recherche. Utilisez l'indicateur vide (alt="") en guise de texte alternatif.</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp6-2" aria-label="Voyez comment la règle sur l'ajout de texte alternatif s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20de%20texte%20alternatif%20aux%20photos%20ou%20graphiques%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-2" aria-label="Diffusez la règle sur l'ajout de texte alternatif par courriel">Diffusez cette règle par courriel</a></p>
+  <h4>Voyez comment la règle sur l'ajout de texte alternatif s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-2">6.2 Include alternative text for images</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout de texte alternatif", "title": "6.2 Ajouter un texte alternatif aux images", "url": "https://conception.canada.ca/guide-redaction/#wp6-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-2"}'> </div>
   </div>
 </section>
 <section id="wp6-3">
@@ -2008,10 +2012,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </table>
   </figure>
   <p>Collaborez avec votre équipe Web pour déterminer la meilleure façon d'insérer la description longue. Elle vous conseillera sur la façon de s'assurer que l'information contenue dans l'image est accessible aux personnes qui utilisent les technologies d'aide. Votre équipe Web s'assurera également que l'image respecte les <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-fra.asp">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite>.</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp6-3" aria-label="Voyez comment la règle sur l'ajout d'une description longue s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20d'une%20description%20longue%20aux%20images%20complexes%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-3" aria-label="Diffusez la règle sur l'ajout d'une description longue par courriel">Diffusez cette règle par courriel</a></p>
+  <h4>Voyez comment la règle sur l'ajout d'une description longue s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-3">6.3 Include long descriptions for complex images</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout d&#8217;une description longue", "title": "6.3 Ajouter une description longue pour expliquer les images complexes", "url": "https://conception.canada.ca/guide-redaction/#wp6-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-3"}'> </div>
   </div>
 </section>
 <section id="wp6-4">
@@ -2029,10 +2035,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>les sons importants (comme une explosion);</li>
     <li>une action ou un élément visuel important (par exemple, une personne qui s'enfuit, qui porte un costume).</li>
   </ul>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp6-4" aria-label="Voyez comment la règle sur l'ajout d'une transcription aux fichiers audio et vidéo s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20d'une%20transcription%20pour%20décrire%20les%20fichiers%20audio%20et%20vidéo%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-4" aria-label="Diffusez la règle sur l'ajout d'une transcription aux fichiers audio et vidéo par courriel">Diffusez cette règle par courriel</a></p>
+  <h4>Voyez comment la règle sur l'ajout d'une transcription aux fichiers audio et vidéo s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-4">6.4 Include transcripts to describe audio and video files</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout d&#8217;une transcription aux fichiers audio et vidéo", "title": "6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo", "url": "https://conception.canada.ca/guide-redaction/#wp6-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-4"}'> </div>
   </div>
 </section>
 <section id="toc11">
