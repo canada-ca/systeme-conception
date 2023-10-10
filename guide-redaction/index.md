@@ -529,305 +529,308 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
 </section>
 <section id="toc7">
-  <h2>3.0 Ton</h2>
+<h2>3.0 Ton</h2>
+<div class="row mrgn-tp-lg">
+  <div class="col-md-8">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h3 class="mrgn-tp-sm">Dans cette section</h3>
+        <ul>
+          <li><a href="#wp3-1">3.1 Écrire directement à la personne</a>
+            <ul>
+              <li><a href="#wp3-1-1">S'adresser à la personne dans les titres de page, les liens et les rubriques de navigation</a></li>
+              <li><a href="#wp3-1-2">N'employez pas la première personne</a></li>
+            </ul>
+          </li>
+          <li><a href="#wp3-2">3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada</a>
+            <ul>
+              <li><a href="#wp3-2-1">Désigner les tierces parties</a></li>
+            </ul>
+          </li>
+          <li><a href="#wp3-3">3.3 Exprimer une obligation ou une recommandation</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<p>Le contenu Web du gouvernement du Canada.ca doit emprunter un ton&nbsp;:</p>
+<ul>
+  <li>direct</li>
+  <li>informatif</li>
+  <li>conversationnel</li>
+  <li>professionnel</li>
+</ul>
+<p>Rédigez comme si vous parliez aux représentants de vos publics cibles, mais avec l'autorité d'un organisme qui fournit des renseignements dans le cadre de son mandat.</p>
+<section id="wp3-1">
+  <h3>3.1 Écrire directement à la personne</h3>
+  <p>Adoptez un ton informel qui s'adresse aux gens directement en utilisant la deuxième personne du pluriel (vous).</p>
+  <h4>Exemples d'énoncés qui utilisent la deuxième personne du pluriel pour désigner les utilisateurs</h4>
+  <ul>
+    <li>Envoyez votre demande à…</li>
+    <li>Pour obtenir cette prestation, vous devez…</li>
+  </ul>
+  <h4>Exception</h4>
+  <p>Vous pouvez utiliser la deuxième personne du singulier (tu) si vous vous adressez à un jeune public dans le cadre d'une campagne promotionnelle.</p>
+  <section id="wp3-1-1">
+    <h4>S'adresser à la personne dans les titres de page, les liens et les rubriques de navigation</h4>
+    <p>Dans le cas des titres de page, des liens et du texte des éléments de navigation, utilisez le pronom &laquo;&nbsp;votre&nbsp;&raquo; ou &laquo;&nbsp;vos&nbsp;&raquo; lorsqu'on peut considérer que l'objet du texte appartient aux représentants de votre public cible.</p>
+    <h5>Exemples de rubriques de navigation qui s'adressent directement au public cible à l'aide de l'adjectif possessif</h5>
+    <ul>
+      <li>Modifiez votre adresse</li>
+      <li>Remplacez vos cartes</li>
+    </ul>
+    <p class="mrgn-tp-lg">Si l'objet du titre de page, du lien ou de la rubrique de navigation fait référence à un renseignement général, utilisez &laquo;&nbsp;le&nbsp;&raquo;, &laquo;&nbsp;la&nbsp;&raquo;, &laquo;&nbsp;les&nbsp;&raquo;, &laquo;&nbsp;un&nbsp;&raquo; ou &laquo;&nbsp;une&nbsp;&raquo;.</p>
+    <h5>Exemples d'énoncés où l'adjectif possessif n'est pas utilisé</h5>
+    <ul>
+      <li>Financer une nouvelle entreprise</li>
+      <li>Payer les frais d'inscription</li>
+    </ul>
+  </section>
+  <section id="wp3-1-2">
+    <h4>N'employez pas la première personne</h4>
+    <p>Ne passez pas d'une voix directe, qui s'adresse aux gens, à une voix indirecte (comme si vous parliez en leur nom). N'utilisez pas les énoncés formulés avec le pronom &laquo;&nbsp;je&nbsp;&raquo;.</p>
+    <h5>Exemple d'énoncés formulés autrement qu'avec &laquo;&nbsp;je&nbsp;&raquo;</h5>
+    <p><strong>Écrivez</strong>&nbsp;:</p>
+    <ul>
+      <li>Comment renouveler votre passeport</li>
+      <li>Renouvelez votre passeport</li>
+    </ul>
+    <p><strong>Au lieu de</strong>&nbsp;: Comment dois-je renouveler mon passeport?</p>
+    <h5>Exception</h5>
+    <p>Vous pouvez utiliser &laquo;&nbsp;mon&nbsp;&raquo;, &laquo;&nbsp;ma&nbsp;&raquo;, &laquo;&nbsp;mes&nbsp;&raquo;&nbsp;dans le contenu, les titres de page et les liens lorsqu'il s'agit de <strong>noms&nbsp;propres </strong>(par exemple, Mon dossier Service Canada).</p>
+    <h4>Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-1">3.1 Write directly to the person</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de s&#8217;adresser directement à la personne", "title": "3.1 Écrire directement à la personne", "url": "https://conception.canada.ca/guide-redaction/#wp3-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-1"}'></div>
+    </div>
+  </section>
+</section>
+<section id="wp3-2">
+  <h3>3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada</h3>
+  <p>Nous fournissons généralement des renseignements du point de vue de l'ensemble du gouvernement plutôt que de celui d'une institution en particulier.</p>
+  <p>Utilisez la première personne du pluriel (nous, notre et nos) lorsque vous rédigez au nom du gouvernement du Canada.</p>
+  <h4>Exemples d'énoncé formulé avec &laquo;&nbsp;nous&nbsp;&raquo; ou &laquo;&nbsp;notre&nbsp;&raquo; pour faire référence au gouvernement du Canada</h4>
+  <p><strong>Écrivez</strong>: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, nous renouvellerons automatiquement votre demande existante.<br>
+    <strong>Au lieu de</strong>&nbsp;: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, Service Canada renouvellera automatiquement votre demande existante.</p>
+  <p class="mrgn-tp-lg">Utilisez &laquo;&nbsp;gouvernement du Canada&nbsp;&raquo; pour&nbsp;:</p>
+  <ul>
+    <li>décrire la position du Canada sur un sujet lié à une autre administration (pays, province, territoire, ville, etc.) mentionnée dans le texte;</li>
+    <li>expliquer le rôle du Canada à l'égard d'un sujet ou d'une question.</li>
+  </ul>
+  <p>Utilisez le nom d'une institution en particulier seulement dans les situations suivantes&nbsp;:</p>
+  <ul>
+    <li>l'institution contactera la personne;</li>
+    <li>la personne doit contacter l'institution par téléphone, par courrier ou en ligne;</li>
+    <li>le rôle de l'institution dans le contexte d'un processus est pertinent pour la tâche à accomplir.</li>
+  </ul>
+  <h4>Exemples d'énoncés qui mentionnent une institution en particulier</h4>
+  <ul>
+    <li>L'Agence du revenu du Canada vous indiquera si vous devez rembourser des prestations.</li>
+    <li>L'Agence canadienne d'inspection des aliments accorde des permis pour certains produits de la viande.</li>
+    <li>Toutes les drogues d'usage restreint et les drogues contrôlées nécessitent un permis d'importation de Santé Canada.</li>
+  </ul>
+  <p class="mrgn-tp-lg">Ne faites pas référence à votre site Web sur les pages de votre site.</p>
+  <h4>Exemples d'énoncé qui omet la référence à Canada.ca sur le site Canada.ca</h4>
+  <p><span id="exmp1"><strong>Écrivez</strong>&nbsp;: <a href="#exmp1" aria-label="Exemple d'une référence efficace. Le texte complet simule l'hyperlien">Déterminez si vous êtes admissible</a>.</span><br>
+    <span id="exmp2"><strong>Au lieu de</strong>&nbsp;: Obtenez des <a href="#exmp2" aria-label="Exemple d'une référence inefficace. Le texte &laquo;&nbsp;renseignements relatifs à l'admissibilité sur le site Canada.ca&nbsp;&raquo; simule l'hyperlien">renseignements relatifs à l'admissibilité sur le site Canada.ca</a>.</span></p>
+  <section id="wp3-2-1">
+    <h4>Désigner les tierces parties</h4>
+    <p>Ne donnez pas de renseignements au nom d'une autre organisation. Ne reproduisez pas les renseignements fournis sur le site Web d'une autre organisation. Dirigez plutôt les gens vers son site Web pour obtenir ces renseignements.</p>
+    <p>Nommez l'autre organisation par son nom lorsque votre contenu y fait référence.</p>
+    <h5>Exemple d'énoncé faisant référence à une tierce partie</h5>
+    <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
+      <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
+  </section>
+  <h4>Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-2">3.2 Use "we" to refer to the Government of Canada</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de désigner le gouvernement du Canada", "title": "3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada", "url": "https://conception.canada.ca/guide-redaction/#wp3-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-2"}'></div>
+  </div>
+</section>
+<section id="wp3-3">
+  <h3>3.3 Exprimer une obligation ou une recommandation</h3>
+  <p>Le gouvernement publie des règles, des renseignements et des instructions qui relèvent d'une loi. Nous fournissons également des conseils sur la façon de les suivre.</p>
+  <section id="wp3-3-1">
+    <h4>Exprimer une obligation</h4>
+    <p>Lorsque vous informez les gens de ce que la loi exige d'eux, mentionnez ce qu'ils doivent faire au lieu de préciser ce qu'ils sont &laquo;&nbsp;légalement tenus de faire&nbsp;&raquo;.</p>
+    <p>Utilisez un vocabulaire directif pour exprimer une obligation.</p>
+    <h5>Exemple d'énoncé exprimant une obligation</h5>
+    <p><strong>Écrivez</strong>&nbsp;: Vous devez remplir le questionnaire.<br>
+      <strong>Au lieu de</strong>&nbsp;: La Loi sur la statistique exige que vous remplissiez le présent questionnaire.</p>
+  </section>
+  <section id="wp3-3-2">
+    <h4>Exprimer une recommandation </h4>
+    <p>Lorsque vous dites aux gens qu'une chose est permise sans être obligatoire, utilisez un vocabulaire qui dénote la permission ou la possibilité, tel que &laquo;&nbsp;pourriez&nbsp;&raquo; ou &laquo;&nbsp;pouvez&nbsp;&raquo;.</p>
+    <h4>Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-3">3.3 Expressing an obligation or a recommendation</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière d&#8217;exprimer une obligation ou une recommandation", "title": "3.3 Exprimer une obligation ou une recommandation", "url": "https://conception.canada.ca/guide-redaction/#wp3-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-3"}'></div>
+    </div>
+  </section>
+</section>
+<section id="toc8">
+  <h2>4.0 Style de présentation</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
           <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
-            <li><a href="#wp3-1">3.1 Écrire directement à la personne</a>
+            <li><a href="#wp4-1">4.1 Majuscules et ponctuation</a>
               <ul>
-                <li><a href="#wp3-1-1">S'adresser à la personne dans les titres de page, les liens et les rubriques de navigation</a></li>
-                <li><a href="#wp3-1-2">N'employez pas la première personne</a></li>
+                <li><a href="#wp4-1-1">Mot tout en majuscules</a></li>
+                <li><a href="#wp4-1-2">Titres et sous-titres</a></li>
+                <li><a href="#wp4-1-3">Listes d'éléments</a></li>
               </ul>
             </li>
-            <li><a href="#wp3-2">3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada</a>
+            <li><a href="#wp4-2">4.2 Soulignement, caractères gras et italique</a></li>
+            <li><a href="#wp4-3">4.3 Symboles</a></li>
+            <li><a href="#wp4-4">4.4 Abréviations, acronymes et référence</a>
               <ul>
-                <li><a href="#wp3-2-1">Désigner les tierces parties</a></li>
+                <li><a href="#wp4-4-1">Citer des exemples</a></li>
               </ul>
             </li>
-            <li><a href="#wp3-3">3.3 Exprimer une obligation ou une recommandation</a></li>
+            <li><a href="#wp4-5">4.5 Forme contractée</a></li>
+            <li><a href="#wp4-6">4.6 Nombres</a></li>
+            <li><a href="#wp4-7">4.7 Dates</a></li>
+            <li><a href="#wp4-8">4.8 Heures</a></li>
+            <li><a href="#wp4-9">4.9 Numéros de téléphone</a></li>
+            <li><a href="#wp4-10">4.10 Adresses</a></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
-  <p>Le contenu Web du gouvernement du Canada.ca doit emprunter un ton&nbsp;:</p>
-  <ul>
-    <li>direct</li>
-    <li>informatif</li>
-    <li>conversationnel</li>
-    <li>professionnel</li>
-  </ul>
-  <p>Rédigez comme si vous parliez aux représentants de vos publics cibles, mais avec l'autorité d'un organisme qui fournit des renseignements dans le cadre de son mandat.</p>
-  <section id="wp3-1">
-    <h3>3.1 Écrire directement à la personne</h3>
-    <p>Adoptez un ton informel qui s'adresse aux gens directement en utilisant la deuxième personne du pluriel (vous).</p>
-    <h4>Exemples d'énoncés qui utilisent la deuxième personne du pluriel pour désigner les utilisateurs</h4>
-    <ul>
-      <li>Envoyez votre demande à…</li>
-      <li>Pour obtenir cette prestation, vous devez…</li>
-    </ul>
-    <h4>Exception</h4>
-    <p>Vous pouvez utiliser la deuxième personne du singulier (tu) si vous vous adressez à un jeune public dans le cadre d'une campagne promotionnelle.</p>
-    <section id="wp3-1-1">
-      <h4>S'adresser à la personne dans les titres de page, les liens et les rubriques de navigation</h4>
-      <p>Dans le cas des titres de page, des liens et du texte des éléments de navigation, utilisez le pronom &laquo;&nbsp;votre&nbsp;&raquo; ou &laquo;&nbsp;vos&nbsp;&raquo; lorsqu'on peut considérer que l'objet du texte appartient aux représentants de votre public cible.</p>
-      <h5>Exemples de rubriques de navigation qui s'adressent directement au public cible à l'aide de l'adjectif possessif</h5>
+  <p>Sur le Web, un style de présentation du contenu allégé est plus facile à lire. Simplifiez la présentation et évitez la ponctuation excessive ou complexe. Le formatage (tel que les caractères gras, l'italique ou le soulignement) et la ponctuation complexe peuvent distraire les lecteurs et nuire à la compréhension.</p>
+  <section id="wp4-1">
+    <h3>4.1 Majuscules et ponctuation</h3>
+    <p>Ayez recours aux styles décrits ci-après pour les majuscules et la ponctuation dans les textes, les liens et les applications.</p>
+    <section id="wp4-1-1">
+      <h4>Mot tout en majuscules</h4>
+      <p>Évitez d'écrire toutes les lettres d'un mot en majuscules.</p>
+      <h5>Exceptions</h5>
       <ul>
-        <li>Modifiez votre adresse</li>
-        <li>Remplacez vos cartes</li>
-      </ul>
-      <p class="mrgn-tp-lg">Si l'objet du titre de page, du lien ou de la rubrique de navigation fait référence à un renseignement général, utilisez &laquo;&nbsp;le&nbsp;&raquo;, &laquo;&nbsp;la&nbsp;&raquo;, &laquo;&nbsp;les&nbsp;&raquo;, &laquo;&nbsp;un&nbsp;&raquo; ou &laquo;&nbsp;une&nbsp;&raquo;.</p>
-      <h5>Exemples d'énoncés où l'adjectif possessif n'est pas utilisé</h5>
-      <ul>
-        <li>Financer une nouvelle entreprise</li>
-        <li>Payer les frais d'inscription</li>
+        <li>Abréviations (à utiliser seulement si nécessaire)</li>
+        <li>Noms d'exercices ou d'opérations militaires (par exemple, l'opération PROVISION)</li>
+        <li>Le nom de famille de l’auteur dans une notice bibliographique (NOM DE FAMILLE, Prénom.)</li>
       </ul>
     </section>
-    <section id="wp3-1-2">
-      <h4>N'employez pas la première personne</h4>
-      <p>Ne passez pas d'une voix directe, qui s'adresse aux gens, à une voix indirecte (comme si vous parliez en leur nom). N'utilisez pas les énoncés formulés avec le pronom &laquo;&nbsp;je&nbsp;&raquo;.</p>
-      <h5>Exemple d'énoncés formulés autrement qu'avec &laquo;&nbsp;je&nbsp;&raquo;</h5>
-      <p><strong>Écrivez</strong>&nbsp;:</p>
+    <section id="wp4-1-2">
+      <h4>Titres et sous-titres</h4>
+      <p>Omettez la ponctuation à la fin des titres, titres de sections, sous-titres, légendes et en-têtes de tableaux.</p>
+      <h5>Exceptions</h5>
       <ul>
-        <li>Comment renouveler votre passeport</li>
-        <li>Renouvelez votre passeport</li>
+        <li>Cette règle ne s'applique pas aux slogans.</li>
+        <li>Utilisez le point d'interrogation uniquement lorsqu'on demande aux gens de fournir des renseignements dans un formulaire, un questionnaire ou un sondage.</li>
       </ul>
-      <p><strong>Au lieu de</strong>&nbsp;: Comment dois-je renouveler mon passeport?</p>
-      <h5>Exception</h5>
-      <p>Vous pouvez utiliser &laquo;&nbsp;mon&nbsp;&raquo;, &laquo;&nbsp;ma&nbsp;&raquo;, &laquo;&nbsp;mes&nbsp;&raquo;&nbsp;dans le contenu, les titres de page et les liens lorsqu'il s'agit de <strong>noms&nbsp;propres </strong>(par exemple, Mon dossier Service Canada).</p>
-      <h4>Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise</h4>
+      <h5>Exemple de point d'interrogation dans un formulaire, un questionnaire ou un sondage</h5>
+      <figure class="mrgn-bttm-lg">
+        <figcaption class="text-center"><strong>Figure 3</strong></figcaption>
+        <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="/guide-redaction/images/fig-03-fra.jpg">
+        <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
+          <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
+          <p>Une page Web contenant un sous-titre écrit sous forme de question.</p>
+          <ul>
+            <li>Titre de page
+              <ul>
+                <li>Déterminez si vous devez facturer la TPS/TVH</li>
+              </ul>
+            </li>
+            <li>Résumé de la page en langage clair et simple
+              <ul>
+                <li>Répondez à quelques questions afin de savoir si vous devez facturer ou percevoir la taxe et vous inscrire pour obtenir un numéro de compte de TPS/TVH. Les entreprises à faible revenu et celles qui offrent certains biens et services pourraient ne pas avoir à facturer la TPS/TVH.</li>
+              </ul>
+            </li>
+            <li>Sous-titre
+              <ul>
+                <li>Est-ce que vous ou votre organisation avez déjà un compte de TPS/TVH?</li>
+              </ul>
+            </li>
+            <li>2 choix de réponse à sélectionner
+              <ul>
+                <li>Oui</li>
+                <li>Non</li>
+              </ul>
+            </li>
+            <li>Bouton pour poursuivre la tâche
+              <ul>
+                <li>Suivant</li>
+              </ul>
+            </li>
+          </ul>
+        </details>
+      </figure>
+    </section>
+    <section id="wp4-1-3">
+      <h4>Listes d'éléments</h4>
       <ul>
-        <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-1">3.1 Write directly to the person</a></span></li>
+        <li>Évitez d'avoir plus d'une (1) phrase par élément.</li>
+        <li>Ne mettez pas de point d'exclamation ou d'interrogation après les éléments d'une liste.</li>
       </ul>
-      <div class="mrgn-tp-lg">
-        <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de s&#8217;adresser directement à la personne", "title": "3.1 Écrire directement à la personne", "url": "https://conception.canada.ca/guide-redaction/#wp3-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-1"}'></div>
-      </div>
+      <p>Lorsque les listes à puces forment des éléments distincts sur le plan grammatical ou si elles sont introduites par un sous-titre, mettez la première lettre de chaque élément en majuscule.</p>
+      <h5>Exemples de listes à puces indépendantes</h5>
+      <p><strong>En demande</strong></p>
+      <ul>
+        <li><a href="http://www.entreprisescanada.ca/fra/page/2852/pof-191/">Financement pour votre nouvelle entreprise</a></li>
+        <li><a href="http://www.entreprisescanada.ca/fra/page/2772/">Financement pour l'innovation</a></li>
+        <li><a href="http://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/fra/h_la00007.html">Trouvez un prêt pour votre entreprise</a></li>
+        <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/subvention-emploi/employeurs.html">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
+      </ul>
+      <p class="mrgn-tp-lg">Lorsque le sens des éléments d'une liste à puces dépend d'une phrase d'introduction, mettez la première lettre de chaque élément en minuscule, sauf s'il s'agit d'un nom propre.</p>
+      <h5>Exemples d'une liste à puces dont le sens dépend d'une phrase d'introduction</h5>
+      <p>Les représentants peuvent être&nbsp;:</p>
+      <ul>
+        <li>des consultants en citoyenneté ou en immigration;</li>
+        <li>des avocats;</li>
+        <li>d'autres représentants.</li>
+      </ul>
     </section>
-  </section>
-  <section id="wp3-2">
-    <h3>3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada</h3>
-    <p>Nous fournissons généralement des renseignements du point de vue de l'ensemble du gouvernement plutôt que de celui d'une institution en particulier.</p>
-    <p>Utilisez la première personne du pluriel (nous, notre et nos) lorsque vous rédigez au nom du gouvernement du Canada.</p>
-    <h4>Exemples d'énoncé formulé avec &laquo;&nbsp;nous&nbsp;&raquo; ou &laquo;&nbsp;notre&nbsp;&raquo; pour faire référence au gouvernement du Canada</h4>
-    <p><strong>Écrivez</strong>: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, nous renouvellerons automatiquement votre demande existante.<br>
-      <strong>Au lieu de</strong>&nbsp;: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, Service Canada renouvellera automatiquement votre demande existante.</p>
-    <p class="mrgn-tp-lg">Utilisez &laquo;&nbsp;gouvernement du Canada&nbsp;&raquo; pour&nbsp;:</p>
+    <h4>Voyez comment la règle sur les majuscules et la ponctuation s'applique à un contenu de langue anglaise</h4>
     <ul>
-      <li>décrire la position du Canada sur un sujet lié à une autre administration (pays, province, territoire, ville, etc.) mentionnée dans le texte;</li>
-      <li>expliquer le rôle du Canada à l'égard d'un sujet ou d'une question.</li>
-    </ul>
-    <p>Utilisez le nom d'une institution en particulier seulement dans les situations suivantes&nbsp;:</p>
-    <ul>
-      <li>l'institution contactera la personne;</li>
-      <li>la personne doit contacter l'institution par téléphone, par courrier ou en ligne;</li>
-      <li>le rôle de l'institution dans le contexte d'un processus est pertinent pour la tâche à accomplir.</li>
-    </ul>
-    <h4>Exemples d'énoncés qui mentionnent une institution en particulier</h4>
-    <ul>
-      <li>L'Agence du revenu du Canada vous indiquera si vous devez rembourser des prestations.</li>
-      <li>L'Agence canadienne d'inspection des aliments accorde des permis pour certains produits de la viande.</li>
-      <li>Toutes les drogues d'usage restreint et les drogues contrôlées nécessitent un permis d'importation de Santé Canada.</li>
-    </ul>
-    <p class="mrgn-tp-lg">Ne faites pas référence à votre site Web sur les pages de votre site.</p>
-    <h4>Exemples d'énoncé qui omet la référence à Canada.ca sur le site Canada.ca</h4>
-    <p><span id="exmp1"><strong>Écrivez</strong>&nbsp;: <a href="#exmp1" aria-label="Exemple d'une référence efficace. Le texte complet simule l'hyperlien">Déterminez si vous êtes admissible</a>.</span><br>
-      <span id="exmp2"><strong>Au lieu de</strong>&nbsp;: Obtenez des <a href="#exmp2" aria-label="Exemple d'une référence inefficace. Le texte &laquo;&nbsp;renseignements relatifs à l'admissibilité sur le site Canada.ca&nbsp;&raquo; simule l'hyperlien">renseignements relatifs à l'admissibilité sur le site Canada.ca</a>.</span></p>
-    <section id="wp3-2-1">
-      <h4>Désigner les tierces parties</h4>
-      <p>Ne donnez pas de renseignements au nom d'une autre organisation. Ne reproduisez pas les renseignements fournis sur le site Web d'une autre organisation. Dirigez plutôt les gens vers son site Web pour obtenir ces renseignements.</p>
-      <p>Nommez l'autre organisation par son nom lorsque votre contenu y fait référence.</p>
-      <h5>Exemple d'énoncé faisant référence à une tierce partie</h5>
-      <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
-        <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
-    </section>
-    <h4>Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-2">3.2 Use "we" to refer to the Government of Canada</a></span></li>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-1">4.1 Capitalization and punctuation</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de désigner le gouvernement du Canada", "title": "3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada", "url": "https://conception.canada.ca/guide-redaction/#wp3-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-2"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les majuscules et la ponctuation", "title": "4.1 Majuscules et ponctuation", "url": "https://conception.canada.ca/guide-redaction/#wp4-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-1"}'></div>
     </div>
   </section>
-  <section id="wp3-3">
-    <h3>3.3 Exprimer une obligation ou une recommandation</h3>
-    <p>Le gouvernement publie des règles, des renseignements et des instructions qui relèvent d'une loi. Nous fournissons également des conseils sur la façon de les suivre.</p>
-    <section id="wp3-3-1">
-      <h4>Exprimer une obligation</h4>
-      <p>Lorsque vous informez les gens de ce que la loi exige d'eux, mentionnez ce qu'ils doivent faire au lieu de préciser ce qu'ils sont &laquo;&nbsp;légalement tenus de faire&nbsp;&raquo;.</p>
-      <p>Utilisez un vocabulaire directif pour exprimer une obligation.</p>
-      <h5>Exemple d'énoncé exprimant une obligation</h5>
-      <p><strong>Écrivez</strong>&nbsp;: Vous devez remplir le questionnaire.<br>
-        <strong>Au lieu de</strong>&nbsp;: La Loi sur la statistique exige que vous remplissiez le présent questionnaire.</p>
-    </section>
-    <section id="wp3-3-2">
-      <h4>Exprimer une recommandation </h4>
-      <p>Lorsque vous dites aux gens qu'une chose est permise sans être obligatoire, utilisez un vocabulaire qui dénote la permission ou la possibilité, tel que &laquo;&nbsp;pourriez&nbsp;&raquo; ou &laquo;&nbsp;pouvez&nbsp;&raquo;.</p>
-      <h4>Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise</h4>
-      <ul>
-        <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-3">3.3 Expressing an obligation or a recommendation</a></span></li>
-      </ul>
-      <div class="mrgn-tp-lg">
-        <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière d&#8217;exprimer une obligation ou une recommandation", "title": "3.3 Exprimer une obligation ou une recommandation", "url": "https://conception.canada.ca/guide-redaction/#wp3-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-3"}'></div>
-      </div>
-    </section>
-  </section>
-  <section id="toc8">
-    <h2>4.0 Style de présentation</h2>
-    <div class="row mrgn-tp-lg">
-      <div class="col-md-8">
-        <div class="panel panel-default">
-          <div class="panel-body">
-            <h3 class="mrgn-tp-sm">Dans cette section</h3>
-            <ul>
-              <li><a href="#wp4-1">4.1 Majuscules et ponctuation</a>
-                <ul>
-                  <li><a href="#wp4-1-1">Mot tout en majuscules</a></li>
-                  <li><a href="#wp4-1-2">Titres et sous-titres</a></li>
-                  <li><a href="#wp4-1-3">Listes d'éléments</a></li>
-                </ul>
-              </li>
-              <li><a href="#wp4-2">4.2 Soulignement, caractères gras et italique</a></li>
-              <li><a href="#wp4-3">4.3 Symboles</a></li>
-              <li><a href="#wp4-4">4.4 Abréviations, acronymes et référence</a>
-                <ul>
-                  <li><a href="#wp4-4-1">Citer des exemples</a></li>
-                </ul>
-              </li>
-              <li><a href="#wp4-5">4.5 Forme contractée</a></li>
-              <li><a href="#wp4-6">4.6 Nombres</a></li>
-              <li><a href="#wp4-7">4.7 Dates</a></li>
-              <li><a href="#wp4-8">4.8 Heures</a></li>
-              <li><a href="#wp4-9">4.9 Numéros de téléphone</a></li>
-              <li><a href="#wp4-10">4.10 Adresses</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
+  <section id="wp4-2">
+    <h3>4.2 Soulignement, caractères gras et italique</h3>
+    <p>Le style de présentation doit faire ressortir les renseignements les plus importants sur la page Web.</p>
+    <p>Ne combinez pas les styles, comme le soulignement et les caractères gras, sauf s'il s'agit du texte en hyperlien sur une page de sujet.</p>
+    <h4>Soulignement</h4>
+    <p>Utilisez le soulignement seulement pour les liens.</p>
+    <h4>Caractères gras</h4>
+    <p>Utilisez les caractères gras pour mettre du texte en évidence, <strong>mais</strong> utilisez-les avec modération: plus vous faites usage de cette mise en forme, moins elle est efficace.</p>
+    <h4>Italique</h4>
+    <p>Les personnes qui ont une dyslexie ou d'autres troubles de lecture pourraient avoir de la difficulté à lire un texte en italique.</p>
+    <p>N'utilisez pas l'italique&nbsp;:</p>
+    <ul>
+      <li>à des fins de mise en page ou de décoration;</li>
+      <li>pour faire ressortir un mot ou une phrase (utilisez plutôt les caractères gras avec modération);</li>
+      <li>pour de longs passages, des citations, par exemple;</li>
+      <li>dans les titres de page.</li>
+    </ul>
+    <p>Consultez <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">Le guide du rédacteur</a></cite> dans les cas suivants&nbsp;:</p>
+    <ul>
+      <li>les titres de livres, de journaux, de revues et d'œuvres d'art (article 5.2.1);</li>
+      <li>les titres de lois (article 5.2.2);</li>
+      <li>les mots ou abréviations en latin (article 5.3.3);</li>
+      <li>les mots en langue étrangère (article 5.3.4);</li>
+      <li>les lettres de l'alphabet (article 5.4.1).</li>
+    </ul>
+    <h4>Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-2">4.2 Underlining, bold and italics</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les caractères gras, l&#8217;italique et le soulignement", "title": "4.2 Soulignement, caractères gras et italique", "url": "https://conception.canada.ca/guide-redaction/#wp4-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-2"}'></div>
     </div>
-    <p>Sur le Web, un style de présentation du contenu allégé est plus facile à lire. Simplifiez la présentation et évitez la ponctuation excessive ou complexe. Le formatage (tel que les caractères gras, l'italique ou le soulignement) et la ponctuation complexe peuvent distraire les lecteurs et nuire à la compréhension.</p>
-    <section id="wp4-1">
-      <h3>4.1 Majuscules et ponctuation</h3>
-      <p>Ayez recours aux styles décrits ci-après pour les majuscules et la ponctuation dans les textes, les liens et les applications.</p>
-      <section id="wp4-1-1">
-        <h4>Mot tout en majuscules</h4>
-        <p>Évitez d'écrire toutes les lettres d'un mot en majuscules.</p>
-        <h5>Exceptions</h5>
-        <ul>
-          <li>Abréviations (à utiliser seulement si nécessaire)</li>
-          <li>Noms d'exercices ou d'opérations militaires (par exemple, l'opération PROVISION)</li>
-          <li>Le nom de famille de l’auteur dans une notice bibliographique (NOM DE FAMILLE, Prénom.)</li>
-        </ul>
-      </section>
-      <section id="wp4-1-2">
-        <h4>Titres et sous-titres</h4>
-        <p>Omettez la ponctuation à la fin des titres, titres de sections, sous-titres, légendes et en-têtes de tableaux.</p>
-        <h5>Exceptions</h5>
-        <ul>
-          <li>Cette règle ne s'applique pas aux slogans.</li>
-          <li>Utilisez le point d'interrogation uniquement lorsqu'on demande aux gens de fournir des renseignements dans un formulaire, un questionnaire ou un sondage.</li>
-        </ul>
-        <h5>Exemple de point d'interrogation dans un formulaire, un questionnaire ou un sondage</h5>
-        <figure class="mrgn-bttm-lg">
-          <figcaption class="text-center"><strong>Figure 3</strong></figcaption>
-          <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="/guide-redaction/images/fig-03-fra.jpg">
-          <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
-            <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
-            <p>Une page Web contenant un sous-titre écrit sous forme de question.</p>
-            <ul>
-              <li>Titre de page
-                <ul>
-                  <li>Déterminez si vous devez facturer la TPS/TVH</li>
-                </ul>
-              </li>
-              <li>Résumé de la page en langage clair et simple
-                <ul>
-                  <li>Répondez à quelques questions afin de savoir si vous devez facturer ou percevoir la taxe et vous inscrire pour obtenir un numéro de compte de TPS/TVH. Les entreprises à faible revenu et celles qui offrent certains biens et services pourraient ne pas avoir à facturer la TPS/TVH.</li>
-                </ul>
-              </li>
-              <li>Sous-titre
-                <ul>
-                  <li>Est-ce que vous ou votre organisation avez déjà un compte de TPS/TVH?</li>
-                </ul>
-              </li>
-              <li>2 choix de réponse à sélectionner
-                <ul>
-                  <li>Oui</li>
-                  <li>Non</li>
-                </ul>
-              </li>
-              <li>Bouton pour poursuivre la tâche
-                <ul>
-                  <li>Suivant</li>
-                </ul>
-              </li>
-            </ul>
-          </details>
-        </figure>
-      </section>
-      <section id="wp4-1-3">
-        <h4>Listes d'éléments</h4>
-        <ul>
-          <li>Évitez d'avoir plus d'une (1) phrase par élément.</li>
-          <li>Ne mettez pas de point d'exclamation ou d'interrogation après les éléments d'une liste.</li>
-        </ul>
-        <p>Lorsque les listes à puces forment des éléments distincts sur le plan grammatical ou si elles sont introduites par un sous-titre, mettez la première lettre de chaque élément en majuscule.</p>
-        <h5>Exemples de listes à puces indépendantes</h5>
-        <p><strong>En demande</strong></p>
-        <ul>
-          <li><a href="http://www.entreprisescanada.ca/fra/page/2852/pof-191/">Financement pour votre nouvelle entreprise</a></li>
-          <li><a href="http://www.entreprisescanada.ca/fra/page/2772/">Financement pour l'innovation</a></li>
-          <li><a href="http://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/fra/h_la00007.html">Trouvez un prêt pour votre entreprise</a></li>
-          <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/subvention-emploi/employeurs.html">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
-        </ul>
-        <p class="mrgn-tp-lg">Lorsque le sens des éléments d'une liste à puces dépend d'une phrase d'introduction, mettez la première lettre de chaque élément en minuscule, sauf s'il s'agit d'un nom propre.</p>
-        <h5>Exemples d'une liste à puces dont le sens dépend d'une phrase d'introduction</h5>
-        <p>Les représentants peuvent être&nbsp;:</p>
-        <ul>
-          <li>des consultants en citoyenneté ou en immigration;</li>
-          <li>des avocats;</li>
-          <li>d'autres représentants.</li>
-        </ul>
-      </section>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp4-1" aria-label="Voyez comment la règle sur les majuscules et la ponctuation s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20majuscules%20et%20la%20ponctuation%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-1" aria-label="Diffusez la règle sur les majuscules et la ponctuation par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
-    </section>
-    <section id="wp4-2">
-      <h3>4.2 Soulignement, caractères gras et italique</h3>
-      <p>Le style de présentation doit faire ressortir les renseignements les plus importants sur la page Web.</p>
-      <p>Ne combinez pas les styles, comme le soulignement et les caractères gras, sauf s'il s'agit du texte en hyperlien sur une page de sujet.</p>
-      <h4>Soulignement</h4>
-      <p>Utilisez le soulignement seulement pour les liens.</p>
-      <h4>Caractères gras</h4>
-      <p>Utilisez les caractères gras pour mettre du texte en évidence, <strong>mais</strong> utilisez-les avec modération: plus vous faites usage de cette mise en forme, moins elle est efficace.</p>
-      <h4>Italique</h4>
-      <p>Les personnes qui ont une dyslexie ou d'autres troubles de lecture pourraient avoir de la difficulté à lire un texte en italique.</p>
-      <p>N'utilisez pas l'italique&nbsp;:</p>
-      <ul>
-        <li>à des fins de mise en page ou de décoration;</li>
-        <li>pour faire ressortir un mot ou une phrase (utilisez plutôt les caractères gras avec modération);</li>
-        <li>pour de longs passages, des citations, par exemple;</li>
-        <li>dans les titres de page.</li>
-      </ul>
-      <p>Consultez <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">Le guide du rédacteur</a></cite> dans les cas suivants&nbsp;:</p>
-      <ul>
-        <li>les titres de livres, de journaux, de revues et d'œuvres d'art (article 5.2.1);</li>
-        <li>les titres de lois (article 5.2.2);</li>
-        <li>les mots ou abréviations en latin (article 5.3.3);</li>
-        <li>les mots en langue étrangère (article 5.3.4);</li>
-        <li>les lettres de l'alphabet (article 5.4.1).</li>
-      </ul>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp4-2" aria-label="Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20caractères%20gras,%20de%20l'italique%20et%20du%20soulignement%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-2" aria-label="Diffusez la règle sur les caractères gras, l'italique et le soulignement par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
-    </section>
   </section>
   <section id="wp4-3">
     <h3>4.3 Symboles</h3>
@@ -844,10 +847,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li>100 $ par mois</li>
     </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp4-3" aria-label="Voyez comment la règle sur les symboles s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20symboles%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-3" aria-label="Diffusez la règle sur les symboles par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur les symboles s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-3">4.3 Symbols</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les symboles", "title": "4.3 Symboles", "url": "https://conception.canada.ca/guide-redaction/#wp4-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-3"}'></div>
     </div>
   </section>
   <section id="wp4-4">
@@ -884,21 +889,28 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Écrivez</strong>&nbsp;: c'est-à-dire <br>
         <strong>Au lieu de</strong>&nbsp;: c.-à-d.&nbsp;</p>
       <p>Vous pouvez utiliser ces abréviations quand l'espace est restreint (par exemple, dans un tableau ou dans un schéma).</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp4-4" aria-label="Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20d'abréviations%20et%20d'acronymes%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-4" aria-label="Diffusez la règle sur les abréviations et les acronymes par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
     </section>
+    <h4>Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-4">4.4 Abbreviations and acronyms</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les symboles", "title": "4.4 Abréviations, acronymes et référence", "url": "https://conception.canada.ca/guide-redaction/#wp4-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-4"}'></div>
+    </div>
   </section>
   <section id="wp4-5">
     <h3>4.5 Forme contractée</h3>
     <p>Cette règle s’applique en anglais plutôt qu’en français. La forme contractée en français s’applique par défaut. En anglais, elle est facultative, mais elle est recommandée pour simplifier la lecture.</p>
-    <p><a href="{{ site.urldesign }}/style-guide/#wp4-5" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-5" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle de Forme contractée s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-5">4.5 Contractions</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle de Forme contractée", "title": "4.5 Forme contractée", "url": "https://conception.canada.ca/guide-redaction/#wp4-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-5"}'></div>
+    </div>
   </section>
   <section id="wp4-6">
-    <h3>4.6 Nombres </h3>
+    <h3>4.6 Nombres</h3>
     <h4>Principes généraux</h4>
     <ul>
       <li>Écrivez les nombres en chiffres arabes (0, 1, 2, 3), sauf s'ils se trouvent dans&nbsp;:
@@ -926,10 +938,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Les enfants âgés de 0 à 10 ans (et non &laquo;&nbsp;0–10 ans&nbsp;&raquo;)</li>
       <li>Les participants ont entre 0 et 10 ans</li>
     </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp4-6" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-6" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-6">4.6 Numbers</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des nombres", "title": "4.6 Nombres", "url": "https://conception.canada.ca/guide-redaction/#wp4-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-6"}'></div>
     </div>
   </section>
   <section id="wp4-7">
@@ -966,10 +980,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </ul>
       </li>
     </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp4-7" aria-label="Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20dates%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-7" aria-label="Diffusez la règle sur le style de présentation des dates par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-7">4.7 Dates</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des nombres", "title": "4.7 Dates", "url": "https://conception.canada.ca/guide-redaction/#wp4-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-7"}'></div>
     </div>
   </section>
   <section id="wp4-8">
@@ -978,6 +994,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>16 h 30</li>
       <li>De 9 h à 17 h</li>
     </ul>
+    <h4>Voyez comment la règle sur le style de présentation des heures s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-8">4.8 Times</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des heures", "title": "4.8 Heures", "url": "https://conception.canada.ca/guide-redaction/#wp4-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-8"}'></div>
+    </div>
   </section>
   <section id="wp4-9">
     <h3>4.9 Numéros de téléphone</h3>
@@ -987,6 +1010,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>vous pouvez nous joindre au 819-123-4567</li>
       <li>613-999-9900 poste 123</li>
     </ul>
+    <h4>Voyez comment la règle sur le style de présentation numéros de téléphone s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-9">4.9 Phone numbers</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des numéros de téléphone", "title": "4.9 Numéros de téléphone", "url": "https://conception.canada.ca/guide-redaction/#wp4-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-9"}'></div>
+    </div>
   </section>
   <section id="wp4-10">
     <h3>4.10 Adresses</h3>
@@ -1020,13 +1050,15 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>Pour soumettre votre demande par courriel&nbsp;: <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
       </ul>
       <p><strong>Au lieu de</strong>&nbsp;: <a href="mailto:abcxyz@canada.ca">Contactez-nous par courriel</a> pour soumettre votre demande.</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp4-10" aria-label="Voyez comment la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20de%20l'heure,%20des%20numéros%20de%20téléphones%20et%20des%20adresses%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-10" aria-label="Diffusez la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
     </section>
   </section>
+  <h4>Voyez comment la règle sur le style de présentation de Adresses s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-10">4.10 Addresses</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des nombres", "title": "4.10 Adresses", "url": "https://conception.canada.ca/guide-redaction/#wp4-10", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-10"}'></div>
+  </div>
 </section>
 <section id="toc9">
   <h2>5.0 Structure du contenu</h2>
