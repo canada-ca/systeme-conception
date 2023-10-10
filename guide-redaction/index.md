@@ -6,6 +6,14 @@ description: "Ce guide établit les règles dont vous devez vous servir pour él
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
 ---
+---
+altLangPage: "https://design.canada.ca/style-guide/"
+date: 2016-04-12
+dateModified: 2023-08-24
+description: "Ce guide établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
+layout: default
+title: "Guide de rédaction du contenu du site Canada.ca"
+---
 <section id="intro">
   <p>Les règles pour créer du contenu Web qui peut être trouvé, compris et utilisé facilement. Ces règles s'appuient sur des principes de rédaction et des techniques qui aident à fournir un contenu Web clair et adapté aux besoins de tous. Consultez les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite> lorsque vous concevez et organisez du contenu Web.</p>
 </section>
@@ -279,7 +287,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-1">2.1 Start with the most important information</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la pyramide inversée", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " l\'a règle sur la pyramide inversée", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
     </div>
   </section>
   <section id="wp2-2">
