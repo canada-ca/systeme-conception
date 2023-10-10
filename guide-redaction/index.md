@@ -181,344 +181,346 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
 </section>
 <section id="toc6">
-  <h2>2.0 Langage clair et simple</h2>
-  <div class="row mrgn-tp-lg">
-    <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <h3 class="mrgn-tp-sm">Dans cette section</h3>
-          <ul>
-            <li><a href="#wp2-1">2.1 Commencer par les renseignements les plus importants</a></li>
-            <li><a href="#wp2-2">2.2 Utiliser des mots simples et courants</a></li>
-            <li><a href="#wp2-3">2.3 Utiliser la voix active et la forme positive </a>
-              <ul>
-                <li><a href="#wp2-3-1">Voix active ou passive </a></li>
-                <li><a href="#wp2-3-2">Forme positive ou négative</a></li>
-              </ul>
-            </li>
-            <li><a href="#wp2-4">2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</a></li>
-            <li><a href="#wp2-5">2.5 Éviter le jargon et les expressions familières ou imagées</a></li>
-            <li><a href="#wp2-6">2.6 Utiliser des phrases simples</a></li>
-            <li><a href="#wp2-7">2.7 Utiliser des phrases et des paragraphes courts</a></li>
-            <li><a href="#wp2-8">2.8 Expliquer les références aux lois</a></li>
-            <li><a href="#wp2-9">2.9 Vérifier la lisibilité de votre contenu </a>
-              <ul>
-                <li><a href="#wp2-9-1">Utiliser un outil d'analyse de la lisibilité</a></li>
-                <li><a href="#wp2-9-2">Exigences de niveau de compétence en lecture</a></li>
-                <li><a href="#wp2-9-3">Vérifier si le contenu est facile à comprendre</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <section class="alert alert-warning">
-    <h3>Exigences en matière de langage clair et simple</h3>
-    <p>L'utilisation d'un langage clair et simple est une exigence de la <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite>.</p>
-  </section>
-  <p>Rédiger en langage clair et simple ne veut pas dire simplifier outre mesure ou omettre des renseignements essentiels. Le recours à un langage simple rend l'information essentielle lisible et accessible à tous.</p>
-  <p>Écrire en langage clair et simple&nbsp;:</p>
-  <ul>
-    <li>augmente les chances que les gens trouvent, lisent et comprennent votre information sur n'importe quel appareil;</li>
-    <li>rend votre information plus accessible aux personnes handicapées;</li>
-    <li>permet à ceux qui se servent de petits écrans de voir l'information essentielle en premier;</li>
-    <li>maximise vos ressources à l'étape de la traduction et de la révision de votre texte;</li>
-    <li>facilite la réalisation des tâches en ligne et contribue à réduire les coûts, par exemple, en diminuant le nombre de demandes de renseignements.</li>
-  </ul>
-  <section id="wp2-1">
-    <h3>2.1 Commencer par les renseignements les plus importants</h3>
-    <p>Introduisez les renseignements les plus importants au début de votre texte et allez droit au but. Lorsqu'ils survolent les pages Web, les gens ont tendance à débuter dans le coin supérieur gauche en déplaçant leur regard vers la droite. À mesure qu'ils font défiler la page vers le bas, ils survolent de moins en moins le texte à droite.</p>
-    <p>Organisez votre contenu selon le modèle de la pyramide inversée afin&nbsp;:</p>
-    <ul>
-      <li>d'orienter la personne vers les renseignements dont elle a besoin pour accomplir une tâche;</li>
-      <li>de placer les renseignements complémentaires à la fin du texte.</li>
-    </ul>
-    <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="/guide-redaction/images/fig-01-fra.jpg">
-      <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
-        <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'">Figure 1 - Version textuelle</summary>
-        <p>Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés.</p>
+<h2>2.0 Langage clair et simple</h2>
+<div class="row mrgn-tp-lg">
+  <div class="col-md-8">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h3 class="mrgn-tp-sm">Dans cette section</h3>
         <ul>
-          <li>Premièrement&nbsp;:
+          <li><a href="#wp2-1">2.1 Commencer par les renseignements les plus importants</a></li>
+          <li><a href="#wp2-2">2.2 Utiliser des mots simples et courants</a></li>
+          <li><a href="#wp2-3">2.3 Utiliser la voix active et la forme positive </a>
             <ul>
-              <li>commencer chaque page Web par l'idée, l'étape ou l'information la plus importante.</li>
+              <li><a href="#wp2-3-1">Voix active ou passive </a></li>
+              <li><a href="#wp2-3-2">Forme positive ou négative</a></li>
             </ul>
           </li>
-          <li>Deuxièmement&nbsp;:
+          <li><a href="#wp2-4">2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</a></li>
+          <li><a href="#wp2-5">2.5 Éviter le jargon et les expressions familières ou imagées</a></li>
+          <li><a href="#wp2-6">2.6 Utiliser des phrases simples</a></li>
+          <li><a href="#wp2-7">2.7 Utiliser des phrases et des paragraphes courts</a></li>
+          <li><a href="#wp2-8">2.8 Expliquer les références aux lois</a></li>
+          <li><a href="#wp2-9">2.9 Vérifier la lisibilité de votre contenu </a>
             <ul>
-              <li>ajouter les détails et les tâches par ordre d'importance;</li>
-              <li>mettre tout le contenu lié à la tâche au centre de la page;</li>
-              <li>utiliser des liens pour orienter les gens vers les renseignements et les tâches essentielles.</li>
-            </ul>
-          </li>
-          <li>Troisièmement&nbsp;:
-            <ul>
-              <li>inclure des renseignements pertinents à l'intention des publics cibles qui désirent en apprendre davantage ou qui ont une connaissance approfondie du sujet ou du service.</li>
-            </ul>
-          </li>
-          <li>Quatrièmement&nbsp;:
-            <ul>
-              <li>ajouter des liens seulement s'ils concernent le contenu et appuient la tâche.</li>
+              <li><a href="#wp2-9-1">Utiliser un outil d'analyse de la lisibilité</a></li>
+              <li><a href="#wp2-9-2">Exigences de niveau de compétence en lecture</a></li>
+              <li><a href="#wp2-9-3">Vérifier si le contenu est facile à comprendre</a></li>
             </ul>
           </li>
         </ul>
-      </details>
-    </figure>
-    <section id="wp2-1-1">
-      <h4>Aller droit au but</h4>
-      <p>Évitez les renseignements généraux et les messages d'accueil (par exemple, &laquo;&nbsp;bienvenue sur notre site&nbsp;&raquo;). Ces messages relèguent au second plan le contenu dont la personne a besoin pour accomplir sa tâche.</p>
-      <p>Écrivez des énoncés directs.</p>
-      <h5>Exemple d'énoncé direct</h5>
-      <p><strong>Écrivez</strong>&nbsp;<strong></strong>: Présentez votre passeport à l'agent à l'aéroport. <br>
-        <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l'agent qui vous accueille à l'aéroport.</p>
-    </section>
-    <h4>Voyez comment la règle sur la pyramide inversée s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-1">2.1 Start with the most important information</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la pyramide inversée", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+      </div>
     </div>
-  </section>
-  <section id="wp2-2">
-    <h3>2.2 Utiliser des mots simples et courants</h3>
-    <p>Remplacez les mots longs par des mots courts, simples et de tous les jours que la plupart des gens comprennent et utilisent. Les mots simples ont 2 syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
-    <h4>Exemples d'utilisation de mots simples et courants</h4>
-    <p><strong>Écrivez</strong>&nbsp;: demander<br>
-      <strong>Au lieu de</strong>&nbsp;: faire une requête</p>
-    <p><strong>Écrivez</strong>&nbsp;: assez de<br>
-      <strong>Au lieu de</strong>&nbsp;: un nombre suffisant de</p>
-    <p><strong>Écrivez</strong>&nbsp;: si<br>
-      <strong>Au lieu de</strong>&nbsp;: dans la mesure où</p>
-    <p><strong>Écrivez</strong>&nbsp;: avant<br>
-      <strong>Au lieu de</strong>&nbsp;: préalablement</p>
-    <p><strong>Écrivez</strong>&nbsp;: tous les 2 ans<br>
-      <strong>Au lieu de</strong>&nbsp;: bisannuellement</p>
-    <h4>Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.2 Use simple and common words</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation des mots simples et courants par courriel", "title": "2.2 Utiliser des mots simples et courants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'>
-    </div>
-  </section>
-  <section id="wp2-3">
-    <h3>2.3 Utiliser la voix active et la forme positive</h3>
-    <p>Lorsque c'est possible, utilisez la&nbsp;:</p>
-    <ul>
-      <li>voix active plutôt que la voix passive;</li>
-      <li>forme positive plutôt que la forme négative.</li>
-    </ul>
-    <section id="wp2-3-1">
-      <h4>Voix active ou passive</h4>
-      <p>Dans une phrase à la voix active, le sujet fait l'action. La phrase est claire et directe.</p>
-      <p>Dans une phrase à la voix passive, il n'est pas toujours facile de savoir qui (ou quoi) fait l'action.</p>
-      <h5>Exemples de constructions active et passive</h5>
-      <p><strong>Construction active</strong>&nbsp;: Vous devrez peut-être fournir une preuve de citoyenneté.<br>
-        <strong>Construction passive</strong>&nbsp;: Une preuve de citoyenneté sera peut-être exigée.</p>
-    </section>
-    <section id="wp2-3-2">
-      <h4>Forme positive ou négative</h4>
-      <p>Lorsque c'est possible, dites ce que la personne peut ou doit faire plutôt que ce qu'elle ne peut ou ne doit pas faire. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
-      <h5>Exemples de formes positives et négatives</h5>
-      <p><strong>Forme positive</strong>&nbsp;: Vous pouvez déduire une partie du montant à la&nbsp;ligne 147 de votre déclaration de revenus.<br>
-        <strong>Forme négative</strong>&nbsp;: Vous ne pouvez déduire qu'une partie du montant de la&nbsp;ligne 147 de votre déclaration de revenus.</p>
-      <p><strong>Forme positive</strong>&nbsp;: La procédure sera efficace.<br>
-        <strong>Double négation</strong>&nbsp;: La procédure ne sera pas inefficace.</p>
-      <p><strong>Forme positive</strong>&nbsp;: Vous pouvez demander une déduction pour un enfant à charge né en 1972 ou avant si cet enfant a une déficience mentale ou physique.<br>
-        <strong>Double négation</strong>&nbsp;: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n'ait une déficience mentale ou physique.</p>
-      <p class="mrgn-tp-lg">Lorsqu'une action risque d'entraîner de graves conséquences, vous pouvez utiliser la forme négative pour expliquer que l'action est impossible ou doit être évitée.</p>
-      <h5>Exemples d'utilisation de la forme négative pour quelque chose pouvant avoir des conséquences graves</h5>
-      <p><strong>Écrivez&nbsp;: N</strong>'essayez <strong>pas</strong> de trouver la source de monoxyde de carbone. Sortez immédiatement pour respirer de l'air frais.</p>
-    </section>
-    <h4>Voyez comment la règle sur l'utilisation de la voix active et de la forme positive s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use active voice and positive form</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de la voix active et de la forme positive par courriel", "title": "2.3 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'>
-    </div>
-    </div>
-  </section>
-  <section id="wp2-4">
-    <h3>2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</h3>
-    <p>Privilégiez le verbe (forme verbale) plutôt que le nom formé à partir du verbe (forme nominale) pour exprimer clairement une action.</p>
-    <h4>Exemples d'énoncés qui contiennent des verbes plutôt que des noms</h4>
-    <p><strong>Écrivez</strong>&nbsp;: recommander une mesure<br>
-      <strong>Au lieu de</strong>&nbsp;: formuler une recommandation d'une mesure</p>
-    <p><strong>Écrivez</strong>&nbsp;: distribuer le courrier<br>
-      <strong>Au lieu de</strong>&nbsp;: faire la distribution du courrier</p>
-    <p><strong>Écrivez&nbsp;</strong>: modifier la page<br>
-      <strong>Au lieu de</strong>&nbsp;: apporter une modification à la page</p>
-    <p>Utilisez le verbe dans sa forme la plus simple. Si possible, utilisez le présent.</p>
-    <h4>Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la r&#232;gle sur l&#8217;utilisation de la forme verbale s&#8217;applique &#224; un contenu", "title": "2.4 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'>
-    </div>
-    </div>
-  </section>
-  <section id="wp2-5">
-    <h3>2.5 Éviter le jargon et les expressions familières ou imagées</h3>
-    <p>Évitez d'utiliser du jargon, un langage spécialisé ou des expressions familières, imagées ou régionales. Choisissez le terme le plus simple ou le plus courant pour votre public cible.</p>
-    <p>Pour la plupart des gens, les termes juridiques et techniques et le jargon administratif portent à confusion.</p>
-    <p>Ceux et celles qui ne parlent ni français ni anglais peuvent recourir à des outils en ligne pour traduire du texte. Les traductions produites par ces outils ne sont pas toujours exactes, surtout lorsqu'il est question d'expressions familières, imagées ou régionales.</p>
-    <h4>Exemples de jargon, d'idiotisme et d'expression</h4>
-    <p><strong>Jargon</strong>&nbsp;: mandat d'arrêt décerné sur le siège (ordre émis par un juge d'arrêter une personne qui ne s'est pas présentée en cour ou qui n'a pas respecté certaines conditions)</p>
-    <p><strong>Idiotisme</strong>&nbsp;: pour faire court (pour résumer, en un mot, bref)</p>
-    <p><strong>Expression</strong>&nbsp;: ne pas avoir la langue dans sa poche (personne qui n'a pas peur de dire ce qu'elle pense)</p>
-    <p class="mrgn-tp-lg">Si vous devez utiliser un jargon bien connu de votre public cible&nbsp;:</p>
-    <ul>
-      <li>expliquez le terme en employant des mots simples et courants ou donnez un exemple pour aider les non-spécialistes à comprendre;</li>
-      <li>n'utilisez pas de jargon pour expliquer le jargon.</li>
-    </ul>
-    <h4>Exemples d'énoncés qui évitent le recours au jargon</h4>
-    <p><strong>Écrivez</strong>&nbsp;: Vous devez nous envoyer votre déclaration de revenus (T1) d'ici le 30 avril. <br>
-      <strong>Au lieu de</strong>&nbsp;: Vous devez nous envoyer votre T1 d'ici le 30 avril.</p>
-    <p><strong>Écrivez</strong> <strong></strong>: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à épargner assez d'argent pour la retraite.<br>
-      <strong>Au lieu de</strong>&nbsp;: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à vous constituer un bas de laine pour votre retraite.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-5" aria-label="Voyez comment la règle sur le jargon et les expressions familières ou imagées s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20jargon%20et%20les%20expressions%20familières%20ou%20imagées%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-5" aria-label="Partagez la règle sur le jargon et les expressions familières ou imagées par courriel">Diffusez cette règle par courriel</a></p>
-    </div>
-    <h4>Identifiez les mots-clés que votre public utilise pour trouver votre contenu</h4>
-    <p>Voici des outils pour vous aider à identifier les termes de recherche les plus populaires&nbsp;:</p>
-    <ul>
-      <li><a lang="en" href="https://www.google.ca/trends/explore">Google Trends</a></li>
-      <li><a lang="en" href="http://adwords.google.com/keywordplanner">Google Keyword Planner</a> (en anglais seulement)</li>
-      <li><a lang="en" href="http://www.bing.com/toolbox/keywords">Bing Keyword Research</a> (en anglais seulement)</li>
-      <li>Keywords Everywhere de Mozilla Firefox</li>
-    </ul>
-    <p>Certains de ces outils ne sont offerts qu'en anglais, et d'autres sont offerts en français si votre navigateur est configuré en français.</p>
-    <p>Consultez vos données d'analyse Web pour savoir quels termes votre public utilise pour chercher du contenu connexe.</p>
-  </section>
-  <section id="wp2-6">
-    <h3>2.6 Utiliser des phrases simples</h3>
-    <p>Privilégiez des structures syntaxiques simples en plaçant le sujet et le verbe en début de phrase et en utilisant des constructions de type sujet + verbe + complément. Cette structure aide le lecteur à comprendre ce que fait le sujet de la phrase en plaçant le sujet tout juste devant le verbe.</p>
-    <p>Évitez les phrases complexes composées de plusieurs énoncés. Elles rassemblent généralement trop d'informations pour que les gens puissent les comprendre en survolant le texte.</p>
-    <h4>Exemples de phrase simple</h4>
-    <p><strong>Écrivez</strong>&nbsp;: Renseignez-vous au sujet du réseau de transport du Canada. Trouvez des renseignements au sujet des routes, les pistes cyclables, les ports et les aéroports partout au pays.<br>
-      <strong>Au lieu de</strong> <strong></strong>: Le réseau de transport du Canada, avec ses routes, ses pistes cyclables, ses ports et ses aéroports, est vaste, et ce site vous fournira une foule d'information au sujet du réseau d'un bout à l'autre du pays.</p>
-    <p class="mrgn-tp-lg">Remplacez les structures de phrase complexes par des énoncés directs.</p>
-    <h4>Exemples d'énoncé direct</h4>
-    <p><strong>Écrivez</strong>&nbsp;: Vous avez jusqu'au 30&nbsp;avril pour soumettre votre déclaration de revenus.<br>
-      <strong>Au lieu de</strong>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30&nbsp;avril.</p>
-    <p>Pour aider les gens à comprendre le sens d'une phrase longue, entourez-la de phrases courtes.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-6" aria-label="Voyez comment la règle sur les phrases simples s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20phrases%20simples%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-6" aria-label="Partagez la règle sur les phrases simples par courriel">Diffusez cette règle par courriel</a></p>
-    </div>
-  </section>
-  <section id="wp2-7">
-    <h3>2.7 Utiliser des phrases et des paragraphes courts</h3>
-    <p>Soyez concis. Utilisez un minimum de mots pour exprimer une idée. Vous aidez ainsi les gens, même les experts, à exécuter une tâche.</p>
-    <p>Raccourcissez vos phrases et vos paragraphes&nbsp;pour faciliter le survol d'un texte sur n'importe quelle taille d'écran.</p>
-    <p>Les personnes qui ont des troubles d'apprentissage risquent d'avoir de la difficulté à comprendre des phrases longues ou des paragraphes longs.</p>
-    <p>Essayez d'écrire des phrases de moins de 24 mots à l'aide des techniques suivantes&nbsp;:</p>
-    <ul>
-      <li>découpez les phrases longues en phrases plus courtes;</li>
-      <li>limitez-vous à une (1) idée par phrase;</li>
-      <li>enlevez les mots inutiles.</li>
-    </ul>
-    <h4>Exemple de phrases simplifiées</h4>
-    <p><strong>Écrivez</strong> <strong></strong>: Nous avons reçu et approuvé votre demande de financement. <br>
-      <strong>Au lieu de</strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
-    <p><strong>Écrivez</strong>&nbsp;: Nous examinerons tout type d'investissement.<br>
-      <strong>Au lieu de</strong> <strong></strong>: Tout type d'investissement fera l'objet d'un examen de notre part.</p>
-    <p class="mrgn-tp-lg">Essayez d'écrire des paragraphes de 3 phrases ou moins à l'aide des techniques suivantes&nbsp;:</p>
-    <ul>
-      <li>développez une (1) idée principale par paragraphe;</li>
-      <li>utilisez des listes d'éléments pour présenter une série de plus de 2 idées ou de mots;</li>
-      <li>utilisez une forme plus courte au lieu de répéter un titre long.</li>
-    </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-7" aria-label="Voyez comment la règle sur les phrases et paragraphes courts s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20phrases%20et%20paragraphes%20courts%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-7" aria-label="Partagez la règle sur les phrases et paragraphes courts par courriel">Diffusez cette règle par courriel</a></p>
-    </div>
-  </section>
-  <section id="wp2-8">
-    <h3>2.8 Expliquer les références aux lois</h3>
-    <p>Lorsque vous expliquez une exigence qui découle d'un article de loi ou d'un règlement, évitez de spécifier le nom de la loi ou du règlement. Donnez simplement les renseignements dont les gens ont besoin pour accomplir la tâche.</p>
-    <p>Si vous <strong>devez </strong>inclure le nom de la loi ou du règlement, fournissez-en toujours une description en langage clair. Expliquez d'abord ce que votre public cible a besoin de savoir et pourquoi il doit en savoir plus sur cette loi ou ce règlement. Puis, vous pouvez ajouter la référence à la loi ou au règlement.</p>
-    <h4>Exemples de phrase faisant référence à une loi</h4>
-    <p><strong>Écrivez</strong>&nbsp;: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.</p>
-    <p>Lien connexe</p>
-    <ul>
-      <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html">Loi sur la citoyenneté</a></cite>, article 5.1</li>
-    </ul>
-    <p><strong>Au lieu de</strong>&nbsp;: Après l'arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l'enfant en vertu de l'article&nbsp;5.1 de la <cite>Loi sur la citoyenneté</cite>.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-8" aria-label="Voyez comment la règle sur les références aux lois s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20références%20aux%20lois%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-8" aria-label="Partagez la règle sur les références aux lois par courriel">Diffusez cette règle par courriel</a></p>
-    </div>
-  </section>
-  <section id="wp2-9">
-    <h3>2.9 Vérifier la lisibilité de votre contenu</h3>
-    <p>Vérifiez le niveau de lisibilité de votre texte. Assurez-vous de rédiger au niveau de lisibilité approprié en tenant compte de la compétence en lecture de votre public cible. Testez votre contenu pendant que vous rédigez votre texte. Vous pouvez utiliser divers outils pour le faire.</p>
-    <p>Certains outils permettent de vérifier si le contenu est trop verbeux ou complexe. Un texte qui correspond à un niveau de compétence en lecture supérieur à la 8e année peut empêcher plusieurs personnes de comprendre la tâche qu'elles doivent effectuer.</p>
-    <section id="wp2-9-1">
-      <h4>Utiliser un outil d'analyse de la lisibilité </h4>
-      <p>Vous pouvez utiliser gratuitement l'outil en ligne <a href="http://www.scolarius.com/">Scolarius</a> pour vérifier le niveau de lisibilité du contenu rédigé en français. L'outil cote le texte au moyen d'un système de points fondé sur des groupes de niveau de scolarité. Consultez le site de Scolarius pour connaître les pointages associés au niveau de scolarité.</p>
-      <p>Si le texte que vous mettez à l'essai renferme des éléments sous forme de puces, ajoutez un point à la fin de chaque puce pour que l'outil évalue le texte correctement. Vous devrez supprimer ces points avant de publier le texte.</p>
-      <p>Pour utiliser cet outil&nbsp;:</p>
+  </div>
+</div>
+<section class="alert alert-warning">
+  <h3>Exigences en matière de langage clair et simple</h3>
+  <p>L'utilisation d'un langage clair et simple est une exigence de la <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite>.</p>
+</section>
+<p>Rédiger en langage clair et simple ne veut pas dire simplifier outre mesure ou omettre des renseignements essentiels. Le recours à un langage simple rend l'information essentielle lisible et accessible à tous.</p>
+<p>Écrire en langage clair et simple&nbsp;:</p>
+<ul>
+  <li>augmente les chances que les gens trouvent, lisent et comprennent votre information sur n'importe quel appareil;</li>
+  <li>rend votre information plus accessible aux personnes handicapées;</li>
+  <li>permet à ceux qui se servent de petits écrans de voir l'information essentielle en premier;</li>
+  <li>maximise vos ressources à l'étape de la traduction et de la révision de votre texte;</li>
+  <li>facilite la réalisation des tâches en ligne et contribue à réduire les coûts, par exemple, en diminuant le nombre de demandes de renseignements.</li>
+</ul>
+<section id="wp2-1">
+  <h3>2.1 Commencer par les renseignements les plus importants</h3>
+  <p>Introduisez les renseignements les plus importants au début de votre texte et allez droit au but. Lorsqu'ils survolent les pages Web, les gens ont tendance à débuter dans le coin supérieur gauche en déplaçant leur regard vers la droite. À mesure qu'ils font défiler la page vers le bas, ils survolent de moins en moins le texte à droite.</p>
+  <p>Organisez votre contenu selon le modèle de la pyramide inversée afin&nbsp;:</p>
+  <ul>
+    <li>d'orienter la personne vers les renseignements dont elle a besoin pour accomplir une tâche;</li>
+    <li>de placer les renseignements complémentaires à la fin du texte.</li>
+  </ul>
+  <figure class="mrgn-bttm-lg">
+    <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
+    <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="/guide-redaction/images/fig-01-fra.jpg">
+    <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
+      <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'">Figure 1 - Version textuelle</summary>
+      <p>Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés.</p>
       <ul>
-        <li>acceptez tous les changements dans votre document pour éliminer le suivi des modifications;</li>
-        <li>ouvrez www.scolarius.com;</li>
-        <li>sélectionnez le texte à partir de votre document Word ou d'une page Web existante;</li>
-        <li>copiez et collez le texte dans la zone prévue;</li>
-        <li>cliquez sur <strong>Soumettre</strong>.</li>
+        <li>Premièrement&nbsp;:
+          <ul>
+            <li>commencer chaque page Web par l'idée, l'étape ou l'information la plus importante.</li>
+          </ul>
+        </li>
+        <li>Deuxièmement&nbsp;:
+          <ul>
+            <li>ajouter les détails et les tâches par ordre d'importance;</li>
+            <li>mettre tout le contenu lié à la tâche au centre de la page;</li>
+            <li>utiliser des liens pour orienter les gens vers les renseignements et les tâches essentielles.</li>
+          </ul>
+        </li>
+        <li>Troisièmement&nbsp;:
+          <ul>
+            <li>inclure des renseignements pertinents à l'intention des publics cibles qui désirent en apprendre davantage ou qui ont une connaissance approfondie du sujet ou du service.</li>
+          </ul>
+        </li>
+        <li>Quatrièmement&nbsp;:
+          <ul>
+            <li>ajouter des liens seulement s'ils concernent le contenu et appuient la tâche.</li>
+          </ul>
+        </li>
       </ul>
-      <p>Votre texte comprend peut-être des termes techniques contenant plusieurs syllabes et qui sont importants pour un public spécialisé. Retirez ces mots du texte avant d'évaluer la lisibilité du contenu pour déterminer si le texte qui entoure ces mots peut être simplifié.</p>
-      <p>Une seule note apparaîtra pour votre contenu. Le texte devrait se trouver dans les rangs supérieurs de &laquo;&nbsp;primaire&nbsp;&raquo; ou dans les rangs inférieurs de &laquo;&nbsp;secondaire&nbsp;&raquo;.</p>
-      <figure class="mrgn-bttm-lg">
-        <figcaption class="text-center"> <strong>Figure 2</strong> </figcaption>
-        <img alt="Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de &laquo;&nbsp;94 secondaire&nbsp;&raquo;. " class="img-responsive center-block" src="/guide-redaction/images/fig-02-fra.jpg">
-        <details>
-          <summary> Figure 2 - Version textuelle </summary>
-          <p>Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de &laquo;&nbsp;94 secondaire&nbsp;&raquo;.</p>
-        </details>
-      </figure>
-    </section>
-    <section id="wp2-9-2">
-      <h4>Exigences de niveau de compétence en lecture</h4>
-      <p>Visez le niveau de compétence en lecture suivant pour le contenu&nbsp;:</p>
-      <ul>
-        <li>de navigation (pages d'accueil, de thème et de sujet)&nbsp;: un niveau de scolarité secondaire (pointage de 100 ou moins);</li>
-        <li>conçu pour le grand public&nbsp;: visez un niveau de scolarité secondaire (pointage de 100 ou moins);</li>
-        <li>conçu pour des spécialistes&nbsp;: établir le niveau de scolarité approprié et l'appliquer à l'ensemble du contenu.</li>
-      </ul>
-    </section>
-    <section id="wp2-9-3">
-      <h4>Vérifier si le contenu est facile à comprendre</h4>
-      <p>Les outils d'analyse de la lisibilité révèlent le niveau de compétence requis en lecture pour comprendre le texte. Ils ne vous disent pas si le texte est facile à lire et comprendre.</p>
-      <p>Pour vérifier si votre contenu est facile à lire et comprendre&nbsp;:</p>
-      <ul>
-        <li>demandez à des personnes qui ont peu ou pas de connaissances sur le sujet d'examiner le texte pour voir si le message est clair et logique;</li>
-        <li>collaborez avec l'équipe des communications pour mettre en œuvre un test d'utilisation.</li>
-      </ul>
-      <p>Si votre contenu correspond à un niveau de compréhension trop élevé ou si le test d'utilisation donne lieu à un faible taux de réalisation des tâches, essayez de&nbsp;:</p>
-      <ul>
-        <li>réduire la taille des mots, des phrases ou des paragraphes, tout en conservant les mots de 3&nbsp;syllabes ou plus qui sont bien connus de votre public cible;</li>
-        <li>remplacer le jargon par des termes que votre public cible comprendra;</li>
-        <li>éliminer les détails dont les gens n'ont pas besoin pour accomplir la tâche;</li>
-        <li>remplacer le nom d'un programme déjà cité par un terme court comme &laquo;&nbsp;le programme&nbsp;&raquo; au lieu d'utiliser son nom au long ou son abréviation;</li>
-        <li>présenter les tâches principales sous forme de listes à puces ou numérotées.</li>
-      </ul>
-    </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-9" aria-label="Voyez comment la règle sur l'évaluation de la lisibilité du contenu s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'évaluation%20de%20la%20lisibilité%20du%20contenu%20du%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-9" aria-label="Partagez la règle sur l'évaluation de la lisibilité du contenu par courriel">Diffusez cette règle par courriel</a></p>
-    </div>
+    </details>
+  </figure>
+  <section id="wp2-1-1">
+    <h4>Aller droit au but</h4>
+    <p>Évitez les renseignements généraux et les messages d'accueil (par exemple, &laquo;&nbsp;bienvenue sur notre site&nbsp;&raquo;). Ces messages relèguent au second plan le contenu dont la personne a besoin pour accomplir sa tâche.</p>
+    <p>Écrivez des énoncés directs.</p>
+    <h5>Exemple d'énoncé direct</h5>
+    <p><strong>Écrivez</strong>&nbsp;<strong></strong>: Présentez votre passeport à l'agent à l'aéroport. <br>
+      <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l'agent qui vous accueille à l'aéroport.</p>
   </section>
+  <h4>Voyez comment la règle sur la pyramide inversée s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-1">2.1 Start with the most important information</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la pyramide inversée", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+  </div>
+</section>
+<section id="wp2-2">
+<h3>2.2 Utiliser des mots simples et courants</h3>
+<p>Remplacez les mots longs par des mots courts, simples et de tous les jours que la plupart des gens comprennent et utilisent. Les mots simples ont 2 syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
+<h4>Exemples d'utilisation de mots simples et courants</h4>
+<p><strong>Écrivez</strong>&nbsp;: demander<br>
+  <strong>Au lieu de</strong>&nbsp;: faire une requête</p>
+<p><strong>Écrivez</strong>&nbsp;: assez de<br>
+  <strong>Au lieu de</strong>&nbsp;: un nombre suffisant de</p>
+<p><strong>Écrivez</strong>&nbsp;: si<br>
+  <strong>Au lieu de</strong>&nbsp;: dans la mesure où</p>
+<p><strong>Écrivez</strong>&nbsp;: avant<br>
+  <strong>Au lieu de</strong>&nbsp;: préalablement</p>
+<p><strong>Écrivez</strong>&nbsp;: tous les 2 ans<br>
+  <strong>Au lieu de</strong>&nbsp;: bisannuellement</p>
+<h4>Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise</h4>
+<ul>
+  <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.2 Use simple and common words</a></span></li>
+</ul>
+<div class="mrgn-tp-lg">
+<div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation des mots simples et courants par courriel", "title": "2.2 Utiliser des mots simples et courants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'> </div>
+</section>
+<section id="wp2-3">
+  <h3>2.3 Utiliser la voix active et la forme positive</h3>
+  <p>Lorsque c'est possible, utilisez la&nbsp;:</p>
+  <ul>
+    <li>voix active plutôt que la voix passive;</li>
+    <li>forme positive plutôt que la forme négative.</li>
+  </ul>
+  <section id="wp2-3-1">
+    <h4>Voix active ou passive</h4>
+    <p>Dans une phrase à la voix active, le sujet fait l'action. La phrase est claire et directe.</p>
+    <p>Dans une phrase à la voix passive, il n'est pas toujours facile de savoir qui (ou quoi) fait l'action.</p>
+    <h5>Exemples de constructions active et passive</h5>
+    <p><strong>Construction active</strong>&nbsp;: Vous devrez peut-être fournir une preuve de citoyenneté.<br>
+      <strong>Construction passive</strong>&nbsp;: Une preuve de citoyenneté sera peut-être exigée.</p>
+  </section>
+  <section id="wp2-3-2">
+    <h4>Forme positive ou négative</h4>
+    <p>Lorsque c'est possible, dites ce que la personne peut ou doit faire plutôt que ce qu'elle ne peut ou ne doit pas faire. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
+    <h5>Exemples de formes positives et négatives</h5>
+    <p><strong>Forme positive</strong>&nbsp;: Vous pouvez déduire une partie du montant à la&nbsp;ligne 147 de votre déclaration de revenus.<br>
+      <strong>Forme négative</strong>&nbsp;: Vous ne pouvez déduire qu'une partie du montant de la&nbsp;ligne 147 de votre déclaration de revenus.</p>
+    <p><strong>Forme positive</strong>&nbsp;: La procédure sera efficace.<br>
+      <strong>Double négation</strong>&nbsp;: La procédure ne sera pas inefficace.</p>
+    <p><strong>Forme positive</strong>&nbsp;: Vous pouvez demander une déduction pour un enfant à charge né en 1972 ou avant si cet enfant a une déficience mentale ou physique.<br>
+      <strong>Double négation</strong>&nbsp;: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n'ait une déficience mentale ou physique.</p>
+    <p class="mrgn-tp-lg">Lorsqu'une action risque d'entraîner de graves conséquences, vous pouvez utiliser la forme négative pour expliquer que l'action est impossible ou doit être évitée.</p>
+    <h5>Exemples d'utilisation de la forme négative pour quelque chose pouvant avoir des conséquences graves</h5>
+    <p><strong>Écrivez&nbsp;: N</strong>'essayez <strong>pas</strong> de trouver la source de monoxyde de carbone. Sortez immédiatement pour respirer de l'air frais.</p>
+  </section>
+  <h4>Voyez comment la règle sur l'utilisation de la voix active et de la forme positive s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use active voice and positive form</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de la voix active et de la forme positive par courriel", "title": "2.3 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'> </div>
+  </div>
+</section>
+<section id="wp2-4">
+  <h3>2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</h3>
+  <p>Privilégiez le verbe (forme verbale) plutôt que le nom formé à partir du verbe (forme nominale) pour exprimer clairement une action.</p>
+  <h4>Exemples d'énoncés qui contiennent des verbes plutôt que des noms</h4>
+  <p><strong>Écrivez</strong>&nbsp;: recommander une mesure<br>
+    <strong>Au lieu de</strong>&nbsp;: formuler une recommandation d'une mesure</p>
+  <p><strong>Écrivez</strong>&nbsp;: distribuer le courrier<br>
+    <strong>Au lieu de</strong>&nbsp;: faire la distribution du courrier</p>
+  <p><strong>Écrivez&nbsp;</strong>: modifier la page<br>
+    <strong>Au lieu de</strong>&nbsp;: apporter une modification à la page</p>
+  <p>Utilisez le verbe dans sa forme la plus simple. Si possible, utilisez le présent.</p>
+  <h4>Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la r&#232;gle sur l&#8217;utilisation de la forme verbale s&#8217;applique &#224; un contenu", "title": "2.4 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'> </div>
+  </div>
+</section>
+<section id="wp2-5">
+<h3>2.5 Éviter le jargon et les expressions familières ou imagées</h3>
+<p>Évitez d'utiliser du jargon, un langage spécialisé ou des expressions familières, imagées ou régionales. Choisissez le terme le plus simple ou le plus courant pour votre public cible.</p>
+<p>Pour la plupart des gens, les termes juridiques et techniques et le jargon administratif portent à confusion.</p>
+<p>Ceux et celles qui ne parlent ni français ni anglais peuvent recourir à des outils en ligne pour traduire du texte. Les traductions produites par ces outils ne sont pas toujours exactes, surtout lorsqu'il est question d'expressions familières, imagées ou régionales.</p>
+<h4>Exemples de jargon, d'idiotisme et d'expression</h4>
+<p><strong>Jargon</strong>&nbsp;: mandat d'arrêt décerné sur le siège (ordre émis par un juge d'arrêter une personne qui ne s'est pas présentée en cour ou qui n'a pas respecté certaines conditions)</p>
+<p><strong>Idiotisme</strong>&nbsp;: pour faire court (pour résumer, en un mot, bref)</p>
+<p><strong>Expression</strong>&nbsp;: ne pas avoir la langue dans sa poche (personne qui n'a pas peur de dire ce qu'elle pense)</p>
+<p class="mrgn-tp-lg">Si vous devez utiliser un jargon bien connu de votre public cible&nbsp;:</p>
+<ul>
+  <li>expliquez le terme en employant des mots simples et courants ou donnez un exemple pour aider les non-spécialistes à comprendre;</li>
+  <li>n'utilisez pas de jargon pour expliquer le jargon.</li>
+</ul>
+<h4>Exemples d'énoncés qui évitent le recours au jargon</h4>
+<p><strong>Écrivez</strong>&nbsp;: Vous devez nous envoyer votre déclaration de revenus (T1) d'ici le 30 avril. <br>
+  <strong>Au lieu de</strong>&nbsp;: Vous devez nous envoyer votre T1 d'ici le 30 avril.</p>
+<p><strong>Écrivez</strong> <strong></strong>: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à épargner assez d'argent pour la retraite.<br>
+  <strong>Au lieu de</strong>&nbsp;: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à vous constituer un bas de laine pour votre retraite.</p>
+<h4>Voyez comment la règle sur le jargon et les expressions familières ou imagées s'applique à un contenu de langue anglaise</h4>
+<ul>
+  <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-5">2.5 Avoid jargon, idioms and expressions</a></span></li>
+</ul>
+<div class="mrgn-tp-lg">
+<div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le jargon et les expressions familières ou imagées", "title": "2.5 Éviter le jargon et les expressions familières ou imagées", "url": "https://conception.canada.ca/guide-redaction/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'> </div>
+<h4>Identifiez les mots-clés que votre public utilise pour trouver votre contenu</h4>
+<p>Voici des outils pour vous aider à identifier les termes de recherche les plus populaires&nbsp;:</p>
+<ul>
+  <li><a lang="en" href="https://www.google.ca/trends/explore">Google Trends</a></li>
+  <li><a lang="en" href="http://adwords.google.com/keywordplanner">Google Keyword Planner</a> (en anglais seulement)</li>
+  <li><a lang="en" href="http://www.bing.com/toolbox/keywords">Bing Keyword Research</a> (en anglais seulement)</li>
+  <li>Keywords Everywhere de Mozilla Firefox</li>
+</ul>
+<p>Certains de ces outils ne sont offerts qu'en anglais, et d'autres sont offerts en français si votre navigateur est configuré en français.</p>
+<p>Consultez vos données d'analyse Web pour savoir quels termes votre public utilise pour chercher du contenu connexe.</p>
+</section>
+<section id="wp2-6">
+<h3>2.6 Utiliser des phrases simples</h3>
+<p>Privilégiez des structures syntaxiques simples en plaçant le sujet et le verbe en début de phrase et en utilisant des constructions de type sujet + verbe + complément. Cette structure aide le lecteur à comprendre ce que fait le sujet de la phrase en plaçant le sujet tout juste devant le verbe.</p>
+<p>Évitez les phrases complexes composées de plusieurs énoncés. Elles rassemblent généralement trop d'informations pour que les gens puissent les comprendre en survolant le texte.</p>
+<h4>Exemples de phrase simple</h4>
+<p><strong>Écrivez</strong>&nbsp;: Renseignez-vous au sujet du réseau de transport du Canada. Trouvez des renseignements au sujet des routes, les pistes cyclables, les ports et les aéroports partout au pays.<br>
+  <strong>Au lieu de</strong> <strong></strong>: Le réseau de transport du Canada, avec ses routes, ses pistes cyclables, ses ports et ses aéroports, est vaste, et ce site vous fournira une foule d'information au sujet du réseau d'un bout à l'autre du pays.</p>
+<p class="mrgn-tp-lg">Remplacez les structures de phrase complexes par des énoncés directs.</p>
+<h4>Exemples d'énoncé direct</h4>
+<p><strong>Écrivez</strong>&nbsp;: Vous avez jusqu'au 30&nbsp;avril pour soumettre votre déclaration de revenus.<br>
+  <strong>Au lieu de</strong>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30&nbsp;avril.</p>
+<p>Pour aider les gens à comprendre le sens d'une phrase longue, entourez-la de phrases courtes.</p>
+<h4>Voyez comment la règle sur les phrases simples s'applique à un contenu de langue anglaise</h4>
+<ul>
+  <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-6">2.6 Use simple sentences</a></span></li>
+</ul>
+<div class="mrgn-tp-lg">
+<div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les phrases simples", "title": "2.6 Utiliser des phrases simples", "url": "https://conception.canada.ca/guide-redaction/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-6"}'> </div>
+</section>
+<section id="wp2-7">
+<h3>2.7 Utiliser des phrases et des paragraphes courts</h3>
+<p>Soyez concis. Utilisez un minimum de mots pour exprimer une idée. Vous aidez ainsi les gens, même les experts, à exécuter une tâche.</p>
+<p>Raccourcissez vos phrases et vos paragraphes&nbsp;pour faciliter le survol d'un texte sur n'importe quelle taille d'écran.</p>
+<p>Les personnes qui ont des troubles d'apprentissage risquent d'avoir de la difficulté à comprendre des phrases longues ou des paragraphes longs.</p>
+<p>Essayez d'écrire des phrases de moins de 24 mots à l'aide des techniques suivantes&nbsp;:</p>
+<ul>
+  <li>découpez les phrases longues en phrases plus courtes;</li>
+  <li>limitez-vous à une (1) idée par phrase;</li>
+  <li>enlevez les mots inutiles.</li>
+</ul>
+<h4>Exemple de phrases simplifiées</h4>
+<p><strong>Écrivez</strong> <strong></strong>: Nous avons reçu et approuvé votre demande de financement. <br>
+  <strong>Au lieu de</strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
+<p><strong>Écrivez</strong>&nbsp;: Nous examinerons tout type d'investissement.<br>
+  <strong>Au lieu de</strong> <strong></strong>: Tout type d'investissement fera l'objet d'un examen de notre part.</p>
+<p class="mrgn-tp-lg">Essayez d'écrire des paragraphes de 3 phrases ou moins à l'aide des techniques suivantes&nbsp;:</p>
+<ul>
+  <li>développez une (1) idée principale par paragraphe;</li>
+  <li>utilisez des listes d'éléments pour présenter une série de plus de 2 idées ou de mots;</li>
+  <li>utilisez une forme plus courte au lieu de répéter un titre long.</li>
+</ul>
+<h4>Voyez comment la règle sur les phrases et paragraphes courts s'applique à un contenu de langue anglaise</h4>
+<ul>
+  <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-7">2.7 Use short sentences and paragraphs</a></span></li>
+</ul>
+<div class="mrgn-tp-lg">
+<div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les phrases et paragraphes courts", "title": "2.7 Utiliser des phrases et des paragraphes courts", "url": "https://conception.canada.ca/guide-redaction/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'> </div>
+</section>
+<section id="wp2-8">
+<h3>2.8 Expliquer les références aux lois</h3>
+<p>Lorsque vous expliquez une exigence qui découle d'un article de loi ou d'un règlement, évitez de spécifier le nom de la loi ou du règlement. Donnez simplement les renseignements dont les gens ont besoin pour accomplir la tâche.</p>
+<p>Si vous <strong>devez </strong>inclure le nom de la loi ou du règlement, fournissez-en toujours une description en langage clair. Expliquez d'abord ce que votre public cible a besoin de savoir et pourquoi il doit en savoir plus sur cette loi ou ce règlement. Puis, vous pouvez ajouter la référence à la loi ou au règlement.</p>
+<h4>Exemples de phrase faisant référence à une loi</h4>
+<p><strong>Écrivez</strong>&nbsp;: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.</p>
+<p>Lien connexe</p>
+<ul>
+  <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html">Loi sur la citoyenneté</a></cite>, article 5.1</li>
+</ul>
+<p><strong>Au lieu de</strong>&nbsp;: Après l'arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l'enfant en vertu de l'article&nbsp;5.1 de la <cite>Loi sur la citoyenneté</cite>.</p>
+<h4>Voyez comment la règle sur les références aux lois s'applique à un contenu de langue anglaise</h4>
+<ul>
+  <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-8">2.8 Explain references to legislation</a></span></li>
+</ul>
+<div class="mrgn-tp-lg">
+<div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les références aux lois", "title": "2.8 Expliquer les références aux lois", "url": "https://conception.canada.ca/guide-redaction/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'> </div>
+</section>
+<section id="wp2-9">
+<h3>2.9 Vérifier la lisibilité de votre contenu</h3>
+<p>Vérifiez le niveau de lisibilité de votre texte. Assurez-vous de rédiger au niveau de lisibilité approprié en tenant compte de la compétence en lecture de votre public cible. Testez votre contenu pendant que vous rédigez votre texte. Vous pouvez utiliser divers outils pour le faire.</p>
+<p>Certains outils permettent de vérifier si le contenu est trop verbeux ou complexe. Un texte qui correspond à un niveau de compétence en lecture supérieur à la 8e année peut empêcher plusieurs personnes de comprendre la tâche qu'elles doivent effectuer.</p>
+<section id="wp2-9-1">
+  <h4>Utiliser un outil d'analyse de la lisibilité </h4>
+  <p>Vous pouvez utiliser gratuitement l'outil en ligne <a href="http://www.scolarius.com/">Scolarius</a> pour vérifier le niveau de lisibilité du contenu rédigé en français. L'outil cote le texte au moyen d'un système de points fondé sur des groupes de niveau de scolarité. Consultez le site de Scolarius pour connaître les pointages associés au niveau de scolarité.</p>
+  <p>Si le texte que vous mettez à l'essai renferme des éléments sous forme de puces, ajoutez un point à la fin de chaque puce pour que l'outil évalue le texte correctement. Vous devrez supprimer ces points avant de publier le texte.</p>
+  <p>Pour utiliser cet outil&nbsp;:</p>
+  <ul>
+    <li>acceptez tous les changements dans votre document pour éliminer le suivi des modifications;</li>
+    <li>ouvrez www.scolarius.com;</li>
+    <li>sélectionnez le texte à partir de votre document Word ou d'une page Web existante;</li>
+    <li>copiez et collez le texte dans la zone prévue;</li>
+    <li>cliquez sur <strong>Soumettre</strong>.</li>
+  </ul>
+  <p>Votre texte comprend peut-être des termes techniques contenant plusieurs syllabes et qui sont importants pour un public spécialisé. Retirez ces mots du texte avant d'évaluer la lisibilité du contenu pour déterminer si le texte qui entoure ces mots peut être simplifié.</p>
+  <p>Une seule note apparaîtra pour votre contenu. Le texte devrait se trouver dans les rangs supérieurs de &laquo;&nbsp;primaire&nbsp;&raquo; ou dans les rangs inférieurs de &laquo;&nbsp;secondaire&nbsp;&raquo;.</p>
+  <figure class="mrgn-bttm-lg">
+    <figcaption class="text-center"> <strong>Figure 2</strong> </figcaption>
+    <img alt="Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de &laquo;&nbsp;94 secondaire&nbsp;&raquo;. " class="img-responsive center-block" src="/guide-redaction/images/fig-02-fra.jpg">
+    <details>
+      <summary> Figure 2 - Version textuelle </summary>
+      <p>Cette saisie d'écran d'une boîte de dialogue sur les statistiques de lisibilité de Scolarius indique que le niveau de lisibilité d'un échantillon de texte est de &laquo;&nbsp;94 secondaire&nbsp;&raquo;.</p>
+    </details>
+  </figure>
+</section>
+<section id="wp2-9-2">
+  <h4>Exigences de niveau de compétence en lecture</h4>
+  <p>Visez le niveau de compétence en lecture suivant pour le contenu&nbsp;:</p>
+  <ul>
+    <li>de navigation (pages d'accueil, de thème et de sujet)&nbsp;: un niveau de scolarité secondaire (pointage de 100 ou moins);</li>
+    <li>conçu pour le grand public&nbsp;: visez un niveau de scolarité secondaire (pointage de 100 ou moins);</li>
+    <li>conçu pour des spécialistes&nbsp;: établir le niveau de scolarité approprié et l'appliquer à l'ensemble du contenu.</li>
+  </ul>
+</section>
+<section id="wp2-9-3">
+  <h4>Vérifier si le contenu est facile à comprendre</h4>
+  <p>Les outils d'analyse de la lisibilité révèlent le niveau de compétence requis en lecture pour comprendre le texte. Ils ne vous disent pas si le texte est facile à lire et comprendre.</p>
+  <p>Pour vérifier si votre contenu est facile à lire et comprendre&nbsp;:</p>
+  <ul>
+    <li>demandez à des personnes qui ont peu ou pas de connaissances sur le sujet d'examiner le texte pour voir si le message est clair et logique;</li>
+    <li>collaborez avec l'équipe des communications pour mettre en œuvre un test d'utilisation.</li>
+  </ul>
+  <p>Si votre contenu correspond à un niveau de compréhension trop élevé ou si le test d'utilisation donne lieu à un faible taux de réalisation des tâches, essayez de&nbsp;:</p>
+  <ul>
+    <li>réduire la taille des mots, des phrases ou des paragraphes, tout en conservant les mots de 3&nbsp;syllabes ou plus qui sont bien connus de votre public cible;</li>
+    <li>remplacer le jargon par des termes que votre public cible comprendra;</li>
+    <li>éliminer les détails dont les gens n'ont pas besoin pour accomplir la tâche;</li>
+    <li>remplacer le nom d'un programme déjà cité par un terme court comme &laquo;&nbsp;le programme&nbsp;&raquo; au lieu d'utiliser son nom au long ou son abréviation;</li>
+    <li>présenter les tâches principales sous forme de listes à puces ou numérotées.</li>
+  </ul>
+</section>
+<h4>Voyez comment la règle sur l'évaluation de la lisibilité du contenu s'applique à un contenu de langue anglaise</h4>
+<ul>
+  <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-9">2.9 Check the reading level of the content</a></span></li>
+</ul>
+<div class="mrgn-tp-lg">
+<div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les références aux lois", "title": "2.9 Vérifier la lisibilité de votre contenu", "url": "https://conception.canada.ca/guide-redaction/#wp2-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-9"}'> </div>
+</section>
 </section>
 <section id="toc7">
   <h2>3.0 Ton</h2>
