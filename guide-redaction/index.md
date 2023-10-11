@@ -1298,7 +1298,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
 </section>
 <section id="wp5-3">
-  <h3>5.3 Utiliser des tableaux pour organiser des données </h3>
+  <h3>5.3 Utiliser des tableaux pour organiser des données</h3>
   <p>Utilisez des tableaux pour organiser et présenter des données. Assurez-vous que&nbsp;:</p>
   <ul>
     <li>la valeur de chaque cellule correspond aux en-têtes des colonnes et des rangées;</li>
@@ -1612,7 +1612,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-3">5.3 Use tables to organize data</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de tableaux", "title": "5.2 Utiliser des listes d&#8217;éléments pour aider les gens à survoler le texte", "url": "https://conception.canada.ca/guide-redaction/#wp5-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-3"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de tableaux", "title": "5.3 Utiliser des tableaux pour organiser des données", "url": "https://conception.canada.ca/guide-redaction/#wp5-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-3"}'></div>
   </div>
 </section>
 <section id="toc10">
