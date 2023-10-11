@@ -906,7 +906,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-5">4.5 Contractions</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle de Forme contractée", "title": "4.5 Forme contractée", "url": "https://conception.canada.ca/guide-redaction/#wp4-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-5"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle de forme contractée", "title": "4.5 Forme contractée", "url": "https://conception.canada.ca/guide-redaction/#wp4-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-5"}'></div>
     </div>
   </section>
   <section id="wp4-6">
