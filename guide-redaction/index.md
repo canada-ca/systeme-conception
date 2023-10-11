@@ -895,7 +895,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-4">4.4 Abbreviations and acronyms</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les symboles", "title": "4.4 Abréviations, acronymes et référence", "url": "https://conception.canada.ca/guide-redaction/#wp4-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-4"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les abréviations et les acronymes", "title": "4.4 Abréviations, acronymes et référence", "url": "https://conception.canada.ca/guide-redaction/#wp4-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-4"}'></div>
     </div>
   </section>
   <section id="wp4-5">
