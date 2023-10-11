@@ -1057,7 +1057,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-10">4.10 Addresses</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des nombres", "title": "4.10 Adresses", "url": "https://conception.canada.ca/guide-redaction/#wp4-10", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-10"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des adresses", "title": "4.10 Adresses", "url": "https://conception.canada.ca/guide-redaction/#wp4-10", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-10"}'></div>
   </div>
 </section>
 <section id="toc9">
