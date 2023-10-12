@@ -67,14 +67,14 @@ title: "Outil de rétroaction sur la page"
   <p><strong>Si l'utilisateur choisit &laquo;&nbsp;Non&nbsp;&raquo;</strong>, il lui est demandé de fournir davantage de renseignements sur son expérience.</p>
   <p>Cela commence par un titre indiquant &laquo;&nbsp;Veuillez fournir plus de détails&nbsp;&raquo;, suivi du texte &laquo;&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères&nbsp;&raquo;. Une fois que l'utilisateur a sélectionné &laquo;&nbsp;Soumettre&nbsp;&raquo;, un message de remerciement s'affiche.</p>
   <p>Vient ensuite un champ de texte ouvert permettant de recueillir la rétroaction.</p>
-  <p>Si l'option de contact est utilisée, un lien permettant de contacter le service apparaît dans une configuration de style afficher/masquer intitulée &laquo;&nbsp;Vous avez besoin d'une aide urgente pour résoudre un problème? Contactez-nous&nbsp;&raquo; située juste avant le titre et le champ de texte ouvert.</p>
+  <p>Si l'option de contact est utilisée, un lien permettant de contacter le service apparaît dans une configuration de style afficher/masquer intitulée &laquo;&nbsp;Besoin d'aide urgente pour résoudre un problème? Communiquez avec nous&nbsp;&raquo; située juste avant le titre et le champ de texte ouvert.</p>
   <p>L'utilisateur utilise le bouton &laquo;&nbsp;Soumettre&nbsp;&raquo; pour envoyer sa rétroaction. Une fois que l'utilisateur a sélectionné &laquo;&nbsp;Soumettre&nbsp;&raquo;, un message de remerciement accompagné d'une coche verte s'affiche pour indiquer que la rétroaction a bien été envoyée.</p>
-  <p><strong>Si un·e utilisateur·rice sélectionne &laquo;&nbsp;Oui&nbsp;&raquo;</strong>, seul un message de remerciement s'affiche.</p>
+  <p><strong>Si un utilisateur sélectionne &laquo;&nbsp;Oui&nbsp;&raquo;</strong>, seul un message de remerciement s'affiche.</p>
   <h3>Spécifications de conception</h3>
   <p>Lorsqu'il est utilisé, l'outil de rétroaction sur la page remplace la configuration &laquo;&nbsp;Signaler un problème sur la page&nbsp;&raquo;.</p>
   <h4>Encadré gris</h4>
   <ul>
-    <li>Type d'encadré&nbsp;: well mrgn-bttm-0</li>
+    <li>Classe de l'encadré&nbsp;: well mrgn-bttm-0</li>
   </ul>
   <h4>Typographie</h4>
   <ul>
@@ -84,7 +84,7 @@ title: "Outil de rétroaction sur la page"
   <h4>Boutons</h4>
   <ul>
     <li>Positionnement&nbsp;: Les boutons se situent à droite de la question &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo; Le bouton &laquo;&nbsp;Oui&nbsp;&raquo; se trouve à gauche du bouton &laquo;&nbsp;Non&nbsp;&raquo;.</li>
-    <li>Type de bouton&nbsp;: btn btn-primary</li>
+    <li>Classe de bouton&nbsp;: btn btn-primary</li>
   </ul>
   <h4>Icône coche du message de remerciement</h4>
   <ul>
@@ -120,14 +120,14 @@ title: "Outil de rétroaction sur la page"
       <figure class="mrgn-tp-md mrgn-bttm-lg">
         <figcaption>
           <h4>2b. Vue optionnelle après avoir sélectionné &laquo;&nbsp;Non&nbsp;&raquo; avec l'option de contact</h4>
-          <p>La configuration de style développer/réduire &laquo;&nbsp;Vous avez besoin d'une aide urgente pour résoudre un problème? Contactez-nous&nbsp;&raquo; sera réduite par défaut.La configuration de style développer/réduire &laquo;&nbsp;Vous avez besoin d'une aide urgente pour résoudre un problème? Contactez-nous&nbsp;&raquo; sera réduite par défaut.</p>
+          <p>La configuration de style afficher/masquer &laquo;&nbsp;Besoin d'aide urgente pour résoudre un problème? Communiquez avec nous&nbsp;&raquo; sera réduite par défaut.</p>
         </figcaption>
         <img src="/images/urgent-help-fr.png" class="img-responsive" alt="2b. Vue optionnelle après avoir sélectionné Non avec l'option de contact. Version texte ci-dessous&nbsp;:" />
         <details>
-          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Vue optionnelle après avoir sélectionné Non avec l'option de contact</summary>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Vue optionnelle après avoir sélectionné « Non » avec l'option de contact</summary>
           <p class="mrgn-tp-md">Après l'interaction avec le bouton &laquo;&nbsp;Non&nbsp;&raquo;, la question est remplacée par un écran comportant un champ de texte.</p>
-          <p>Dans l'option de contact, une configuration de style développer/réduire porte le titre &laquo;&nbsp;Vous avez besoin d'une aide urgente pour résoudre un problème? Contactez-nous.&nbsp;&raquo; Lorsque le texte est développé, un lien personnalisable permettant de contacter le service s'affiche.</p>
-          <p>Après la configuration développer/réduire vient le titre &laquo;&nbsp;Veuillez fournir plus de détails&nbsp;&raquo;, suivi des instructions de ne pas inclure de renseignements personnels&nbsp;: &laquo;&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères&nbsp;&raquo;. Un petit champ de texte est suivi d'un bouton &laquo;&nbsp;Soumettre&nbsp;&raquo;.</p>
+          <p>Dans l'option de contact, une configuration de style afficher/masquer porte le titre &laquo;&nbsp;Besoin d'aide urgente pour résoudre un problème? Communiquez avec nous.&nbsp;&raquo; Lorsque la configuration afficher/masquer est ouverte, un lien personnalisable permettant de contacter le service s'affiche.</p>
+          <p>Après la configuration afficher/masquer vient le titre &laquo;&nbsp;Veuillez fournir plus de détails&nbsp;&raquo;, suivi des instructions de ne pas inclure de renseignements personnels&nbsp;: &laquo;&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères&nbsp;&raquo;. Un petit champ de texte est suivi d'un bouton &laquo;&nbsp;Soumettre&nbsp;&raquo;.</p>
         </details>
       </figure>
       <figure class="mrgn-tp-md mrgn-bttm-lg">
@@ -137,7 +137,7 @@ title: "Outil de rétroaction sur la page"
         <img src="/images/thank-you-fr.jpg" class="img-responsive" alt="3. Vue après avoir sélectionné Oui ou après avoir soumis la rétroaction. Version texte ci-dessous&nbsp;:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Vue après avoir sélectionné « Oui » ou après avoir soumis la rétroaction</summary>
-          <p class="mrgn-tp-md">Lorsqu'un·e utilisateur·rice sélectionne &laquo;&nbsp;Yes&nbsp;&raquo; comme réponse à la première question ou lorsqu'il ou elle soumet sa rétroaction, un message de remerciement apparaît. Une icône coche verte apparaît, suivie du titre &laquo;&nbsp;Merci de vos commentaires&nbsp;&raquo;</p>
+          <p class="mrgn-tp-md">Lorsqu'un utilisateur sélectionne &laquo;&nbsp;Oui&nbsp;&raquo; comme réponse à la première question ou lorsqu'il soumet sa rétroaction, un message de remerciement apparaît. Une icône coche verte apparaît, suivie du titre &laquo;&nbsp;Merci de vos commentaires&nbsp;&raquo;</p>
         </details>
       </figure>
     </div>
@@ -145,7 +145,7 @@ title: "Outil de rétroaction sur la page"
 </section>
 <section id="comment-proceder">
   <h2>Comment procéder à la mise en œuvre</h2>
-  <p>Ajoutez-le au bas d'une page de contenu, après le contenu de la page et avant la date de modification.</p>
+  <p>Ajoutez l'outil de rétroaction au bas d'une page de contenu, après le contenu de la page et avant la date de modification.</p>
   <div class="row">
     <div class="col-md-8">
       <h3>Outil de rétroaction pour les pages du Service Web géré (SWG)</h3>
@@ -154,10 +154,10 @@ title: "Outil de rétroaction sur la page"
         <summary>Instructions pour les pages SWG</summary>
         <h4>Ajout de l’outil de rétroaction</h4>
         <p><a href="#">Comment ajouter l'outil de rétroaction à votre page dans Adobe Experience Manager (AEM).</a> (Contenu interne, uniquement disponible sur GCPedia)</p>
-        <h4><span class="label label-primary">Recommandé</span> Ajouter une valeur masquée &laquo;&nbsp;Thème&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
+        <h4><span class="label label-primary">Recommandé</span> Ajouter une valeur masquée d'un &laquo;&nbsp;Thème&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
         <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour des pages de tout un thème en même temps.</p>
         <p>Dans la plupart des cas, vous devriez inclure le thème &laquo;&nbsp;Canada.ca&nbsp;&raquo; pour votre contenu (vous trouverez la liste complète ci-dessous).</p>
-        <p>Il s'agit d'une valeur unilingue. Entrez la même valeur pour vos pages en anglais et en français.</p>
+        <p>Il s'agit d'une valeur unilingue. Entrez la valeur du thème en anglais, tant pour vos pages en anglais que celles en français.</p>
         <h5>Thèmes Canada.ca</h5>
         <ul>
           <li>AboutGov (À propos du gouvernement)</li>
@@ -185,11 +185,11 @@ title: "Outil de rétroaction sur la page"
         <h4><span class="label label-warning">Optionnel</span> Ajouter une valeur masquée &laquo;&nbsp;Section&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
         <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour plusieurs pages en même temps.</p>
         <p>Envisagez d'inclure cette valeur lorsque vous ajoutez l'outil de rétroaction à plusieurs pages relatives à un même sujet, comme &laquo;&nbsp;passeports&nbsp;&raquo; ou &laquo;&nbsp;assurance-emploi&nbsp;&raquo;.</p>
-        <p>Il s'agit d'une valeur unilingue. Entrez la même valeur pour vos pages en anglais et en français.</p>
+        <p>Il s'agit d'une valeur unilingue. Entrez la valeur de section en anglais, tant pour vos pages en anglais que celles en français.</p>
         <p>Si vous souhaitez ajouter une nouvelle valeur &laquo;&nbsp;Section&nbsp;&raquo; qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
         <p>Adresse courriel&nbsp;: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
         <h4><span class="label label-warning">Optionnel</span> Lien de contact</h4>
-        <p>Envisagez uniquement d'ajouter un lien de contact si vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateur·rice·s utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
+        <p>Envisagez uniquement d'ajouter un lien de contact si vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateurs utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
       </details>
     </div>
   </div>
@@ -260,10 +260,10 @@ title: "Outil de rétroaction sur la page"
           <li>FEGC</li>
           <li>DEO</li>
         </ul>
-        <h4><span class="label label-primary">Recommandé</span> Ajouter une valeur masquée &laquo;&nbsp;Thème&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
+        <h4><span class="label label-primary">Recommandé</span> Ajouter une valeur masquée d'un &laquo;&nbsp;Thème&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
         <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour des pages de tout un thème en même temps.</p>
         <p>Dans la plupart des cas, vous devriez inclure le thème &laquo;&nbsp;Canada.ca&nbsp;&raquo; pour votre contenu (vous trouverez la liste complète ci-dessous).</p>
-        <p>Il s'agit d'une valeur unilingue. Entrez la même valeur pour vos pages en anglais et en français.</p>
+        <p>Il s'agit d'une valeur unilingue. Entrez la valeur du thème en anglais, tant pour vos pages en anglais que celles en français.</p>
         <h5>Thèmes Canada.ca</h5>
 <ul>
           <li>AboutGov (À propos du gouvernement)</li>
@@ -291,11 +291,11 @@ title: "Outil de rétroaction sur la page"
         <h4><span class="label label-warning">Optional</span> Ajouter une valeur masquée &laquo;&nbsp;Section&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
         <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour plusieurs pages en même temps.</p>
         <p>Envisagez d'inclure cette valeur lorsque vous ajoutez l'outil de rétroaction à plusieurs pages relatives à un même sujet, comme &laquo;&nbsp;passeports&nbsp;&raquo; ou &laquo;&nbsp;assurance-emploi&nbsp;&raquo;.</p>
-        <p>Il s'agit d'une valeur unilingue. Entrez la même valeur pour vos pages en anglais et en français.</p>
+        <p>Il s'agit d'une valeur unilingue. Entrez la valeur de section en anglais, tant pour vos pages en anglais que celles en français.</p>
         <p>Si vous souhaitez ajouter une nouvelle valeur &laquo;&nbsp;Section&nbsp;&raquo; qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
         <p>Adresse courriel&nbsp;: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
         <h4><span class="label label-warning">Optionnel</span> Lien de contact</h4>
-        <p><strong>Envisagez uniquement d'ajouter un lien de contact si</strong> vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateur·rice·s utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
+        <p><strong>Envisagez uniquement d'ajouter un lien de contact si</strong> vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateurs utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
       </details>
     </div>
   </div>
