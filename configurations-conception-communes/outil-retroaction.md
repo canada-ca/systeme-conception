@@ -23,7 +23,7 @@ title: "Outil de rétroaction sur la page"
   <p>Envisagez d'utiliser l'outil de rétroaction sur la page pour&nbsp;:</p>
   <ul>
     <li>Découvrir des problèmes propres à la page qui modifient votre note sur le sondage sur la réussite des tâches du gouvernement du Canada (GC).</li>
-    <li>Rechercher des problèmes sur des pages que vous prévoyez de traiter ultérieurement.</li>
+    <li>Rechercher des problèmes sur des pages que vous prévoyez traiter ultérieurement.</li>
     <li>Déterminer si les pages nouvelles ou existantes répondent aux besoins des utilisateurs.</li>
     <li>Déterminer les problèmes émergents.</li>
     <li>Assurer le suivi des améliorations de la page après leur mise en ligne.</li>
@@ -36,39 +36,39 @@ title: "Outil de rétroaction sur la page"
 </section>
 <section id="contenu-et-conception">
   <h2>Contenu et conception</h2>
-  <p>L'outil de rétroaction sur la page invite les visiteur·se·s à effectuer les actions suivantes&nbsp;:</p>
+  <p>L'outil de rétroaction sur la page invite les visiteurs à effectuer les actions suivantes&nbsp;:</p>
   <ul>
-    <li>Indiquer s'ils ou elles ont trouvé ce qu'ils ou elles cherchaient (oui ou non)</li>
-    <li>Fournir leur rétroaction en décrivant le problème</li>
+    <li>indiquer s'ils ont trouvé ce qu'ils cherchaient (oui ou non);</li>
+    <li>fournir leur rétroaction en décrivant le problème.</li>
   </ul>
   <p>Placez l'outil en bas de la page, juste avant la date de modification. Alignez-le à gauche de la page, avant l'élément &laquo;&nbsp;Partagez cette page&nbsp;&raquo;. Vous pouvez choisir d'utiliser l'outil de rétroaction sur la page au lieu de la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;. Il n'est pas obligatoire d'ajouter l'outil de rétroaction sur la page lors du retrait de la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;.</p>
   <p>La configuration de rétroaction comporte trois états&nbsp;:</p>
   <ul>
-    <li>La question &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo; accompagnée des boutons &laquo;&nbsp;Oui&nbsp;&raquo; et &laquo;&nbsp;Non&nbsp;&raquo;</li>
-    <li>Le champ de texte destiné à la rétroaction (avec la possibilité d'ajouter un lien de contact personnalisable)</li>
-    <li>Le message de remerciement</li>
+    <li>la question &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo; accompagnée des boutons &laquo;&nbsp;Oui&nbsp;&raquo; et &laquo;&nbsp;Non&nbsp;&raquo;;</li>
+    <li>le champ de texte destiné à la rétroaction (avec la possibilité d'ajouter un lien de contact personnalisable);</li>
+    <li>le message de remerciement.</li>
   </ul>
   <p>Une documentation détaillée est également disponible pour l'utilisation de cette configuration et pour l'analyse de la rétroaction.</p>
   <p><a href="/retroaction/">Outil de rétroaction sur la page (Analyses, sondage et commentaires)</a></p>
   <h3>Spécifications de contenu</h3>
   <p>Lorsque vous ajoutez pour la première fois l'outil de rétroaction à votre page, utilisez l'option par défaut, sans le lien de contact.</p>
-  <p><strong>Envisagez uniquement d'ajouter un lien de contact si</strong> vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateur·rice·s utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
+  <p><strong>Envisagez uniquement d'ajouter un lien de contact si</strong> vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateurs utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
   <p>Le lien peut mener vers une page HTML ou vers une adresse courriel.</p>
   <p>Veillez à ce que le texte du lien soit court. Nous recommandons la formulation &laquo;&nbsp;Contacter [nom du service]&nbsp;&raquo;.</p>
   <h3>Interactions</h3>
   <p>La configuration de rétroaction comporte trois états&nbsp;:</p>
   <ul>
-    <li>Une question &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo;</li>
-    <li>Un champ de texte où saisir la rétroaction</li>
-    <li>Un message de remerciement</li>
+    <li>une question &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo;;</li>
+    <li>un champ de texte où saisir la rétroaction;</li>
+    <li>un message de remerciement.</li>
   </ul>
-  <p>Pour tous ces états, l'utilisateur·rice reste sur la même page HTML en interagissant avec la configuration de rétroaction.</p>
+  <p>Pour tous ces états, l'utilisateur reste sur la même page HTML en interagissant avec la configuration de rétroaction.</p>
   <p><strong>Sur la page</strong>, la configuration affiche la question &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo; et affiche les boutons &laquo;&nbsp;Oui&nbsp;&raquo; et &laquo;&nbsp;Non&nbsp;&raquo;.</p>
-  <p><strong>Si l'utilisateur·rice choisit &laquo;&nbsp;Non&nbsp;&raquo;</strong>, il lui est demandé de fournir davantage de renseignements sur son expérience.</p>
-  <p>Cela commence par un titre indiquant &laquo;&nbsp;Veuillez fournir plus de détails&nbsp;&raquo;, suivi du texte &laquo;&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères&nbsp;&raquo;. Une fois que l'utilisateur·rice a sélectionné &laquo;&nbsp;Soumettre&nbsp;&raquo;, un message de remerciement s'affiche.</p>
+  <p><strong>Si l'utilisateur choisit &laquo;&nbsp;Non&nbsp;&raquo;</strong>, il lui est demandé de fournir davantage de renseignements sur son expérience.</p>
+  <p>Cela commence par un titre indiquant &laquo;&nbsp;Veuillez fournir plus de détails&nbsp;&raquo;, suivi du texte &laquo;&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères&nbsp;&raquo;. Une fois que l'utilisateur a sélectionné &laquo;&nbsp;Soumettre&nbsp;&raquo;, un message de remerciement s'affiche.</p>
   <p>Vient ensuite un champ de texte ouvert permettant de recueillir la rétroaction.</p>
-  <p>Si l'option de contact est utilisée, un lien permettant de contacter le service apparaît dans une configuration de style développer/réduire intitulée &laquo;&nbsp;Vous avez besoin d'une aide urgente pour résoudre un problème? Contactez-nous&nbsp;&raquo; située juste avant le titre et le champ de texte ouvert.</p>
-  <p>L'utilisateur·rice utilise le bouton &laquo;&nbsp;Soumettre&nbsp;&raquo; pour envoyer sa rétroaction. Une fois que l'utilisateur·rice a sélectionné &laquo;&nbsp;Soumettre&nbsp;&raquo;, un message de remerciement accompagné d'une coche verte s'affiche pour indiquer que la rétroaction a bien été envoyée.</p>
+  <p>Si l'option de contact est utilisée, un lien permettant de contacter le service apparaît dans une configuration de style afficher/masquer intitulée &laquo;&nbsp;Vous avez besoin d'une aide urgente pour résoudre un problème? Contactez-nous&nbsp;&raquo; située juste avant le titre et le champ de texte ouvert.</p>
+  <p>L'utilisateur utilise le bouton &laquo;&nbsp;Soumettre&nbsp;&raquo; pour envoyer sa rétroaction. Une fois que l'utilisateur a sélectionné &laquo;&nbsp;Soumettre&nbsp;&raquo;, un message de remerciement accompagné d'une coche verte s'affiche pour indiquer que la rétroaction a bien été envoyée.</p>
   <p><strong>Si un·e utilisateur·rice sélectionne &laquo;&nbsp;Oui&nbsp;&raquo;</strong>, seul un message de remerciement s'affiche.</p>
   <h3>Spécifications de conception</h3>
   <p>Lorsqu'il est utilisé, l'outil de rétroaction sur la page remplace la configuration &laquo;&nbsp;Signaler un problème sur la page&nbsp;&raquo;.</p>
