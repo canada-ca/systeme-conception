@@ -71,9 +71,13 @@ La surveillance des tendances d’une semaine à l’autre est une activité int
 
 Nous ne recommandons pas de garder l’outil de rétroaction sur une page continuellement. Cette approche vient réitérer que l’outil est destiné à la recherche (plutôt qu’à la surveillance) et pour assurer la meilleure utilisation de votre temps.
 
+
 ### Espaces sécurisés
 
 Nous ne recommandons pas l'utilisation de l'outil dans les espaces sécurisés. Dans ces espaces, il est préférable de s'assurer que les utilisateurs ont un accès clair aux canaux d'assistance directe.
+
+### Sujets sensibles
+Les pages sur des sujets sensibles doivent être évitées (par exemple, le suicide).
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
