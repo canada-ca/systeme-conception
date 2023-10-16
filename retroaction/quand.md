@@ -18,11 +18,20 @@ title: Quand utiliser l’outil de rétroaction sur la page
 
 ## Sur cette page
 
-* [Cas d’utilisation de l’outil de rétroaction sur la page](#cas-dutilisation-de-loutil-de-rétroaction-sur-la-page)
+* [Quand utiliser l’outil de rétroaction sur la page](#quand-utiliser-l-outil-de-rétroaction-sur-la-page)
+* [Cas d’utilisation de l’outil de rétroaction sur la page](#cas-d-utilisation-de-l-outil-de-rétroaction-sur-la-page)
 * [Attentes et engagement](#attentes-et-engagement)
-* [Comment ne pas utiliser l’outil de rétroaction](#comment-ne-pas-utiliser-loutil-de-rétroaction)
+* [Comment ne pas utiliser l’outil de rétroaction](#comment-ne-pas-utiliser-l-outil-de-rétroaction)
 
-## Cas d'utilisation de loutil de rétroaction sur la page
+
+## Quand utiliser l’outil de rétroaction sur la page
+
+Nous recommandons d’utiliser l’outil de rétroaction lorsqu’il y a un engagement à lire la rétroaction et à prendre des mesures en fonction de celle-ci&nbsp;:
+
+* par rapport à des pages spécifiques;
+* pendant une période définie
+
+## Cas d'utilisation de l'outil de rétroaction sur la page
 
 Envisagez d’utiliser l’outil de rétroaction sur la page pour&nbsp;:
 
@@ -32,10 +41,7 @@ Envisagez d’utiliser l’outil de rétroaction sur la page pour&nbsp;:
 * déterminer les problèmes émergents
 * assurer le suivi des améliorations de la page après leur mise en ligne
 
-Nous recommandons d’utiliser l’outil de rétroaction lorsqu’il y a un engagement à lire la rétroaction et à prendre des mesures en fonction de celle-ci&nbsp;:
 
-* par rapport à des pages spécifiques;
-* pendant une période définie
 
 ## Attentes et engagement
 
