@@ -1225,8 +1225,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/signaler-probleme.html\">Signaler un problème sur cette page</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Permet aux gens de fournir une rétroaction au moyen d’un formulaire pour tous les problèmes qu’ils ont pu rencontrer ",
-      "WHENTOUSE": "Permet aux gens de fournir une r&#233;troaction au moyen d’un formulaire pour tous les probl&#232;mes qu’ils ont pu rencontrer",
+      "DESCRIPTION": "Permet aux gens de fournir une rétroaction au moyen d’un formulaire pour tous les problèmes qu’ils ont pu rencontrer. Nous mettons la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; hors service. Nous vous déconseillons d’ajouter cette configuration à vos pages.",
+      "WHENTOUSE": "Permet aux gens de fournir une rétroaction au moyen d’un formulaire pour tous les problèmes qu’ils ont pu rencontrer. Nous mettons la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; hors service. Nous vous déconseillons d’ajouter cette configuration à vos pages.",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
       "MANDATORY": "Non",
