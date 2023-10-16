@@ -314,7 +314,7 @@
     },
     {
       "NAME": "<a href=\"{{ site.url }}/retroaction/index.html\">Outil de rétroaction sur la page</a>",
-      "SOURCE": "Amélioration continue",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "L’outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l’expérience sur une page. Il ne doit être utilisé que si la rétroaction sur une page va faire l’objet d’un suivi actif et être exploitée.",
       "WHENTOUSE": "L’outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l’expérience sur une page. Il ne doit être utilisé que si la rétroaction sur une page va faire l’objet d’un suivi actif et être exploitée.",
       "CATEGORY": " Configuration de conception",
