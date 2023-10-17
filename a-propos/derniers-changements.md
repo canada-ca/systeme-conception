@@ -13,7 +13,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
 <div id="expand-collapse">
   <details open="open">
     <summary>xx octobre 2023</summary>
-    <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/signaler-probleme.html">configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;</a> pour informer les utilisateurs de sa future mise hors service. Stabilisation de la configuration de l’outil de rétroaction sur la page, ajout de spécifications sur le contenu et mise à jour des instructions de mise en œuvre.</p>
+    <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/signaler-probleme.html">configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;</a> pour informer les utilisateurs de sa future mise hors service. Stabilisation de la <a href="{{ site.url }}/configurations-conception-communes/outil-retroaction.html">configuration de l’outil de rétroaction</a> sur la page, ajout de spécifications sur le contenu et mise à jour des instructions de mise en œuvre.</p>
   </details>
   <details>
     <summary>12 juillet 2023</summary>
