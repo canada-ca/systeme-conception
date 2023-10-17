@@ -208,57 +208,57 @@ title: "Outil de rétroaction sur la page"
         <h4>Ajout des valeurs masquées obligatoires</h4>
         <p>Mise à jour des données pour les acronymes institutionnels (valeur unilingue).</p>
         <h5>Acronymes des institutions Canada.ca</h5>
-        <ul>
-          <li>AAC</li>
-          <li>SCDATA</li>
-          <li>ACSTA</li>
-          <li>ACIA</li>
-          <li>RCAANC</li>
-          <li>GRSGC</li>
-          <li>ASFC</li>
-          <li>GCC</li>
-          <li>CCG</li>
-          <li>IRSC</li>
-          <li>OPIC</li>
-          <li>ARC</li>
-          <li>CRTC</li>
-          <li>ASC</li>
-          <li>CSTC</li>
-          <li>EFPC</li>
-          <li>MPO</li>
-          <li>MDN</li>
+               <ul>
+          <li>AAFC (Agriculture et Agroalimentaire Canada)</li>
+          <li>ATSSC (Service canadien d’appui aux tribunaux administratifs)</li>
+          <li>CATSA (Administration canadienne de la sûreté du transport aérien)</li>
+          <li>CFIA (Agence canadienne d'inspection des aliments)</li>
+          <li>CIRNAC (Relations Couronne-Autochtones et Affaires du Nord Canada)</li>
+          <li>NSERC (Conseil de recherches en sciences naturelles et en génie du Canada)</li>
+          <li>CBSA (Agence des services frontaliers du Canada)</li>
+          <li>CCG (Garde côtière canadienne)</li>
+          <li>CGC (Commission canadienne des grains)</li>
+          <li>CIHR (Instituts de recherche en santé du Canada)</li>
+          <li>CIPO (Office de la propriété intellectuelle du Canada)</li>
+          <li>CRA (Agence du revenu du Canada)</li>
+          <li>CRTC (Conseil de la radiodiffusion et des télécommunications canadiennes)</li>
+          <li>CSA (Agence spatiale canadienne)</li>
+          <li>CSEC (Centre de la sécurité des télécommunications)</li>
+          <li>CSPS (École de la fonction publique du Canada)</li>
+          <li>DFO (Pêches et Océans Canada)</li>
+          <li>DND</li>
           <li>ECCC</li>
-          <li>EDSC</li>
-          <li>ACFC</li>
+          <li>ESDC</li>
+          <li>FCAC</li>
           <li>FIN</li>
-          <li>Affaires mondiales Canada</li>
-          <li>Santé Canada</li>
+          <li>GAC</li>
+          <li>HC</li>
           <li>INFC</li>
           <li>IRCC</li>
-          <li>SAC</li>
-          <li>ISDE</li>
+          <li>ISC</li>
+          <li>ISED</li>
           <li>JUS</li>
-          <li>BAC</li>
-          <li>ONF</li>
-          <li>CNRC</li>
-          <li>RNCan</li>
-          <li>BSF</li>
-          <li>CLCC</li>
+          <li>LAC</li>
+          <li>NFB</li>
+          <li>NRC</li>
+          <li>NRCan</li>
+          <li>OSB</li>
+          <li>PBC</li>
           <li>PC</li>
           <li>PCH</li>
-          <li>BCP</li>
-          <li>ASPC</li>
-          <li>SP</li>
-          <li>CFP</li>
-          <li>SPC</li>
-          <li>SPAC</li>
-          <li>Gendarmerie royale du Canada</li>
+          <li>PCO</li>
+          <li>PHAC</li>
+          <li>PS</li>
+          <li>PSC</li>
+          <li>SSC</li>
+          <li>PSPC</li>
+          <li>RCMP</li>
           <li>StatCan</li>
-          <li>SCT</li>
+          <li>TBS</li>
           <li>TC</li>
-          <li>ACC</li>
-          <li>FEGC</li>
-          <li>DEO</li>
+          <li>VAC</li>
+          <li>WAGE</li>
+          <li>WD</li>
         </ul>
         <h4><span class="label label-primary">Recommandé</span> Ajouter une valeur masquée d'un &laquo;&nbsp;Thème&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
         <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour des pages de tout un thème en même temps.</p>
