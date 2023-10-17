@@ -77,7 +77,7 @@ title: 'Pied de page de la zone du contenu '
 
 <ul>
  <li>
-   <a href="https://test.canada.ca/experimental/feedback-retroaction/outil-retroaction.html">
+   <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">
   Outil de rétroaction sur la page
  </a>
   (facultatif)
