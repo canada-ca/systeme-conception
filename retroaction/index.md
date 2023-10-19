@@ -46,7 +46,7 @@ L’outil de rétroaction sur la page est un <strong>outil de recherche</strong>
     <section class="wb-eqht gc-drmt">
       <div class="col-md-4">
         <section>
-          <h3><a href="https://test.canada.ca/experimental/feedback-retroaction/outil-retroaction.html">Mise en œuvre</a></h3>
+          <h3><a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">Mise en œuvre</a></h3>
           <p>Obtenez le code pour mettre en œuvre l’outil de rétroaction sur votre site</p>
         </section>
       </div>
