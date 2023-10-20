@@ -10,7 +10,7 @@
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
-    },{
+    }, {
       "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/confiance.html\">Étude sur la confiance</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Cette étude menée sur la confiance aide à déterminer lesquels des éléments de communication graphiques inspirent le plus de confiance aux utilisateurs par rapport à la marque du gouvernement du Canada.",
@@ -19,7 +19,7 @@
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
-    },{
+    }, {
       "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/trouver-emploi-resume-recherche.html\">Trouver un emploi</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "En facilitant la tâche de trouver les emplois du gouvernement, nous avons appris à éliminer les pages redondantes, à orienter le contenu pour les utilisateurs et leurs principales tâches, à concevoir le contenu en fonction de réponses plutôt que des renseignements, à utiliser des titres d’emploi recherchés et à répondre aux attentes des utilisateurs à l’égard d’une seule plateforme de recherche d’emploi.",
@@ -318,7 +318,7 @@
       "DESCRIPTION": "L’outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l’expérience sur une page. Il ne doit être utilisé que si la rétroaction sur une page va faire l’objet d’un suivi actif et être exploitée.",
       "WHENTOUSE": "L’outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l’expérience sur une page. Il ne doit être utilisé que si la rétroaction sur une page va faire l’objet d’un suivi actif et être exploitée.",
       "CATEGORY": " Configuration de conception",
-      "TYPE": "Interaction",
+      "TYPE": "Configuration de conception, Interaction",
       "MANDATORY": "No",
       "TANDP": "1"
     },
