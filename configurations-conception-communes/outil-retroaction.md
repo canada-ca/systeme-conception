@@ -169,7 +169,7 @@ title: "Outil de rétroaction sur la page"
           <li><strong>Environment</strong> (Environnement)</li>
           <li><strong>Health (Santé)</strong></li>
           <li><strong>Immigration (Immigration)</strong></li>
-          <li><strong>Indigenous</strong> (Autochtones)</strong></li>
+          <li><strong>Indigenous</strong> (Autochtones)</li>
           <li><strong>Jobs</strong> (Emplois)</li>
           <li><strong>Money</strong> (Argent)</li>
           <li><strong>Policing</strong> (Politique)</li>
