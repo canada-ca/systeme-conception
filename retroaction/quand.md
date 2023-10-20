@@ -18,11 +18,20 @@ title: Quand utiliser l’outil de rétroaction sur la page
 
 ## Sur cette page
 
+* [Quand utiliser l’outil de rétroaction sur la page](#quand-utiliser-loutil-de-rétroaction-sur-la-page)
 * [Cas d’utilisation de l’outil de rétroaction sur la page](#cas-dutilisation-de-loutil-de-rétroaction-sur-la-page)
 * [Attentes et engagement](#attentes-et-engagement)
 * [Comment ne pas utiliser l’outil de rétroaction](#comment-ne-pas-utiliser-loutil-de-rétroaction)
 
-## Cas d'utilisation de loutil de rétroaction sur la page
+
+## Quand utiliser l’outil de rétroaction sur la page
+
+Nous recommandons d’utiliser l’outil de rétroaction lorsqu’il y a un engagement à lire la rétroaction et à prendre des mesures en fonction de celle-ci&nbsp;:
+
+* par rapport à des pages spécifiques;
+* pendant une période définie
+
+## Cas d'utilisation de l'outil de rétroaction sur la page
 
 Envisagez d’utiliser l’outil de rétroaction sur la page pour&nbsp;:
 
@@ -32,10 +41,7 @@ Envisagez d’utiliser l’outil de rétroaction sur la page pour&nbsp;:
 * déterminer les problèmes émergents
 * assurer le suivi des améliorations de la page après leur mise en ligne
 
-Nous recommandons d’utiliser l’outil de rétroaction lorsqu’il y a un engagement à lire la rétroaction et à prendre des mesures en fonction de celle-ci&nbsp;:
 
-* par rapport à des pages spécifiques;
-* pendant une période définie
 
 ## Attentes et engagement
 
@@ -71,9 +77,13 @@ La surveillance des tendances d’une semaine à l’autre est une activité int
 
 Nous ne recommandons pas de garder l’outil de rétroaction sur une page continuellement. Cette approche vient réitérer que l’outil est destiné à la recherche (plutôt qu’à la surveillance) et pour assurer la meilleure utilisation de votre temps.
 
+
 ### Espaces sécurisés
 
 Nous ne recommandons pas l'utilisation de l'outil dans les espaces sécurisés. Dans ces espaces, il est préférable de s'assurer que les utilisateurs ont un accès clair aux canaux d'assistance directe.
+
+### Sujets sensibles
+Les pages sur des sujets sensibles doivent être évitées (par exemple, le suicide).
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
