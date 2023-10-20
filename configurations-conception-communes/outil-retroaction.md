@@ -266,25 +266,25 @@ title: "Outil de rétroaction sur la page"
         <p>Il s'agit d'une valeur unilingue. Entrez la valeur du thème en anglais, tant pour vos pages en anglais que celles en français.</p>
         <h5>Thèmes Canada.ca</h5>
 <ul>
-          <li>AboutGov (À propos du gouvernement)</li>
-          <li>Benefits (Prestations)</li>
-          <li>Business (Entreprises)</li>
-          <li>CanadaTheWorld (Canada et le monde)</li>
-          <li>Culture (Culture)</li>
-          <li>Defense (Défense)</li>
-          <li>Environment (Environnement)</li>
-          <li>Health (Santé)</li>
-          <li>Immigration (Immigration)</li>
-          <li>Indigenous (Autochtones)</li>
-          <li>Jobs (Emplois)</li>
-          <li>Money (Argent)</li>
-          <li>Policing (Politique)</li>
-          <li>PublicService (Service public)</li>
-          <li>Science (Science)</li>
-          <li>Taxes (Impôts)</li>
-          <li>Transport (Transport)</li>
-          <li>Travel (Voyage)</li>
-          <li>Veterans (Vétérans)</li>
+          <li><strong>AboutGov</strong> (À propos du gouvernement)</li>
+          <li><strong>Benefits</strong> (Prestations)</li>
+          <li><strong>Business</strong> (Entreprises)</li>
+          <li><strong>CanadaTheWorld</strong> (Canada et le monde)</li>
+          <li><strong>Culture</strong> (Culture)</li>
+          <li><strong>Defense</strong> (Défense)</li>
+          <li><strong>Environment</strong> (Environnement)</li>
+          <li><strong>Health</strong> (Santé)</li>
+          <li><strong>Immigration</strong> (Immigration)</li>
+          <li><strong>Indigenous</strong> (Autochtones)</li>
+          <li><strong>Jobs</strong> (Emplois)</li>
+          <li><strong>Money</strong> (Argent)</li>
+          <li><strong>Policing</strong> (Politique)</li>
+          <li><strong>PublicService</strong> (Service public)</li>
+          <li><strong>Science</strong> (Science)</li>
+          <li><strong>Taxes</strong> (Impôts)</li>
+          <li><strong>Transport</strong> (Transport)</li>
+          <li><strong>Travel</strong> (Voyage)</li>
+          <li><strong>Veterans</strong> (Vétérans)</li>
 </ul>
         <p>Si vous souhaitez ajouter un nouveau thème qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
         <p>Adresse courriel&nbsp;: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
