@@ -167,8 +167,8 @@ title: "Outil de rétroaction sur la page"
           <li><strong>Culture</strong> (Culture)</li>
           <li><strong>Defense</strong> (Défense)</li>
           <li><strong>Environment</strong> (Environnement)</li>
-          <li><strong>Health (Santé)</strong></li>
-          <li><strong>Immigration (Immigration)</strong></li>
+          <li><strong>Health</strong> (Santé)</li>
+          <li><strong>Immigration</strong> (Immigration)</li>
           <li><strong>Indigenous</strong> (Autochtones)</li>
           <li><strong>Jobs</strong> (Emplois)</li>
           <li><strong>Money</strong> (Argent)</li>
