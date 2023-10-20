@@ -160,25 +160,25 @@ title: "Outil de rétroaction sur la page"
         <p>Il s'agit d'une valeur unilingue. Entrez la valeur du thème en anglais, tant pour vos pages en anglais que celles en français.</p>
         <h5>Thèmes Canada.ca</h5>
         <ul>
-          <li>AboutGov (À propos du gouvernement)</li>
-          <li>Benefits (Prestations)</li>
-          <li>Business (Entreprises)</li>
-          <li>CanadaTheWorld (Canada et le monde)</li>
-          <li>Culture (Culture)</li>
-          <li>Defense (Défense)</li>
-          <li>Environment (Environnement)</li>
-          <li>Health (Santé)</li>
-          <li>Immigration (Immigration)</li>
-          <li>Indigenous (Autochtones)</li>
-          <li>Jobs (Emplois)</li>
-          <li>Money (Argent)</li>
-          <li>Policing (Politique)</li>
-          <li>PublicService (Service public)</li>
-          <li>Science (Science)</li>
-          <li>Taxes (Impôts)</li>
-          <li>Transport (Transport)</li>
-          <li>Travel (Voyage)</li>
-          <li>Veterans (Vétérans)</li>
+          <li><strong>AboutGov</strong> (À propos du gouvernement)</li>
+          <li><strong>Benefits</strong> (Prestations)</li>
+          <li><strong>Business</strong> (Entreprises)</li>
+          <li><strong>CanadaTheWorld</strong> (Canada et le monde)</li>
+          <li><strong>Culture</strong> (Culture)</li>
+          <li><strong>Defense</strong> (Défense)</li>
+          <li><strong>Environment</strong> (Environnement)</li>
+          <li><strong>Health (Santé)</strong></li>
+          <li><strong>Immigration (Immigration)</strong></li>
+          <li><strong>Indigenous</strong> (Autochtones)</strong></li>
+          <li><strong>Jobs</strong> (Emplois)</li>
+          <li><strong>Money</strong> (Argent)</li>
+          <li><strong>Policing</strong> (Politique)</li>
+          <li><strong>PublicService</strong> (Service public)</li>
+          <li><strong>Science</strong> (Science)</li>
+          <li><strong>Taxes</strong> (Impôts)</li>
+          <li><strong>Transport</strong> (Transport)</li>
+          <li><strong>Travel</strong> (Voyage)</li>
+          <li><strong>Veterans</strong> (Vétérans)</li>
         </ul>
         <p>Si vous souhaitez ajouter un nouveau thème qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
         <p>Adresse courriel&nbsp;: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
@@ -206,59 +206,59 @@ title: "Outil de rétroaction sur la page"
           <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Outil de rétroaction sur la page avec lien de contact</a></li>
         </ul>
         <h4>Ajout des valeurs masquées obligatoires</h4>
-        <p>Mise à jour des données pour les acronymes institutionnels (valeur unilingue).</p>
+        <p>Mise à jour des données pour les acronymes institutionnels. Il s'agit d'une valeur unilingue. Entrez la valeur en anglais, tant pour vos pages en anglais que celles en français.</p>
         <h5>Acronymes des institutions Canada.ca</h5>
                <ul>
-          <li>AAFC (Agriculture et Agroalimentaire Canada)</li>
-          <li>ATSSC (Service canadien d’appui aux tribunaux administratifs)</li>
-          <li>CATSA (Administration canadienne de la sûreté du transport aérien)</li>
-          <li>CFIA (Agence canadienne d'inspection des aliments)</li>
-          <li>CIRNAC (Relations Couronne-Autochtones et Affaires du Nord Canada)</li>
-          <li>NSERC (Conseil de recherches en sciences naturelles et en génie du Canada)</li>
-          <li>CBSA (Agence des services frontaliers du Canada)</li>
-          <li>CCG (Garde côtière canadienne)</li>
-          <li>CGC (Commission canadienne des grains)</li>
-          <li>CIHR (Instituts de recherche en santé du Canada)</li>
-          <li>CIPO (Office de la propriété intellectuelle du Canada)</li>
-          <li>CRA (Agence du revenu du Canada)</li>
-          <li>CRTC (Conseil de la radiodiffusion et des télécommunications canadiennes)</li>
-          <li>CSA (Agence spatiale canadienne)</li>
-          <li>CSEC (Centre de la sécurité des télécommunications)</li>
-          <li>CSPS (École de la fonction publique du Canada)</li>
-          <li>DFO (Pêches et Océans Canada)</li>
-          <li>DND</li>
-          <li>ECCC</li>
-          <li>ESDC</li>
-          <li>FCAC</li>
-          <li>FIN</li>
-          <li>GAC</li>
-          <li>HC</li>
-          <li>INFC</li>
-          <li>IRCC</li>
-          <li>ISC</li>
-          <li>ISED</li>
-          <li>JUS</li>
-          <li>LAC</li>
-          <li>NFB</li>
-          <li>NRC</li>
-          <li>NRCan</li>
-          <li>OSB</li>
-          <li>PBC</li>
-          <li>PC</li>
-          <li>PCH</li>
-          <li>PCO</li>
-          <li>PHAC</li>
-          <li>PS</li>
-          <li>PSC</li>
-          <li>SSC</li>
-          <li>PSPC</li>
-          <li>RCMP</li>
-          <li>StatCan</li>
-          <li>TBS</li>
-          <li>TC</li>
-          <li>VAC</li>
-          <li>WAGE</li>
-          <li>WD</li>
+          <li><strong>AAFC</strong> (Agriculture et Agroalimentaire Canada)</li>
+          <li><strong>ATSSC</strong> (Service canadien d’appui aux tribunaux administratifs)</li>
+          <li><strong>CATSA</strong> (Administration canadienne de la sûreté du transport aérien)</li>
+          <li><strong>CFIA</strong> (Agence canadienne d'inspection des aliments)</li>
+          <li><strong>CIRNAC</strong> (Relations Couronne-Autochtones et Affaires du Nord Canada)</li>
+          <li><strong>NSERC</strong> (Conseil de recherches en sciences naturelles et en génie du Canada)</li>
+          <li><strong>CBSA</strong> (Agence des services frontaliers du Canada)</li>
+          <li><strong>CCG</strong> (Garde côtière canadienne)</li>
+          <li><strong>CGC</strong> (Commission canadienne des grains)</li>
+          <li><strong>CIHR</strong> (Instituts de recherche en santé du Canada)</li>
+          <li><strong>CIPO</strong> (Office de la propriété intellectuelle du Canada)</li>
+          <li><strong>CRA</strong> (Agence du revenu du Canada)</li>
+          <li><strong>CRTC</strong> (Conseil de la radiodiffusion et des télécommunications canadiennes)</li>
+          <li><strong>CSA</strong> (Agence spatiale canadienne)</li>
+          <li><strong>CSEC</strong> (Centre de la sécurité des télécommunications)</li>
+          <li><strong>CSPS</strong> (École de la fonction publique du Canada)</li>
+          <li><strong>DFO</strong> (Pêches et Océans Canada)</li>
+          <li><strong>DND</strong> (Le ministère de la Défense nationale)</li>
+          <li><strong>ECCC</strong> (Environnement et Changement climatique Canada)</li>
+          <li><strong>ESDC</strong> (Emploi et Développement social Canada)</li>
+          <li><strong>FCAC</strong> (Agence de la consommation en matière financière du Canada)</li>
+          <li><strong>FIN</strong> (Ministère des Finances Canada)</li>
+          <li><strong>GAC</strong> (Affaires mondiales Canada)</li>
+          <li><strong>HC</strong> (Santé Canada)</li>
+          <li><strong>INFC</strong> (Infrastructure Canada)</li>
+          <li><strong>IRCC</strong> (Immigration, Réfugiés et Citoyenneté Canada)</li>
+          <li><strong>ISC</strong> (Services aux Autochtones Canada)</li>
+          <li><strong>ISED</strong> (Innovation, Sciences et Développement économique Canada)</li>
+          <li><strong>JUS</strong> (Ministère de la Justice Canada)</li>
+          <li><strong>LAC</strong> (Bibliothèque et Archives Canada)</li>
+          <li><strong>NFB</strong> (Office national du film du Canada)</li>
+          <li><strong>NRC</strong> (Conseil national de recherches Canada)</li>
+          <li><strong>NRCan</strong> (Ressources naturelles Canada)</li>
+          <li><strong>OSB</strong> (Bureau du surintendant des faillites)</li>
+          <li><strong>PBC</strong> (Commission des libérations conditionnelles du Canada)</li>
+          <li><strong>PC</strong> (Parcs Canada)</li>
+          <li><strong>PCH</strong> (Patrimoine canadien)</li>
+          <li><strong>PCO</strong> (Bureau du Conseil privé)</li>
+          <li><strong>PHAC</strong> (Agence de la santé publique du Canada)</li>
+          <li><strong>PS</strong> (Sécurité publique Canada)</li>
+          <li><strong>PSC</strong> (Commission de la fonction publique du Canada)</li>
+          <li><strong>SSC</strong> (Services partagés Canada)</li>
+          <li><strong>PSPC</strong> (Services publics et Approvisionnement Canada)</li>
+          <li><strong>RCMP</strong> (Gendarmerie royale du Canada)</li>
+          <li><strong>StatCan</strong> (Statistique Canada)</li>
+          <li><strong>TBS</strong> (Secrétariat du Conseil du Trésor du Canada)</li>
+          <li><strong>TC</strong> (Transports Canada)</li>
+          <li><strong>VAC</strong> (Anciens Combattants Canada)</li>
+          <li><strong>WAGE</strong> (Femmes et Égalité des genres Canada)</li>
+          <li><strong>WD</strong> (Diversification de l'économie de l'Ouest Canada)</li>
         </ul>
         <h4><span class="label label-primary">Recommandé</span> Ajouter une valeur masquée d'un &laquo;&nbsp;Thème&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
         <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour des pages de tout un thème en même temps.</p>
