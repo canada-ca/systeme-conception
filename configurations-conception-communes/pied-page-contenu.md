@@ -77,9 +77,9 @@ title: 'Pied de page de la zone du contenu '
 
 <ul>
  <li>
-  <a href="signaler-probleme.html">
-   Signaler un problème
-  </a>
+   <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">
+  Outil de rétroaction sur la page
+ </a>
   (facultatif)
  </li>
  <li>
@@ -102,21 +102,6 @@ title: 'Pied de page de la zone du contenu '
 </p>
 
 <h2>
- Outil pilote de rétroaction sur la page
-</h2>
-
-<p>
- L’outil de rétroaction sur la page est un produit pilote. Ajoutez ce modèle au pied de page de la zone du contenu à la
-    place du modèle "Signaler un problème" pour recueillir activement les commentaires des utilisateurs.
-</p>
-
-<p>
- <a href="https://conception.canada.ca/amelioration-continue/mesure/retroaction.html">
-  Outil de rétroaction sur la page
- </a>
-</p>
-
-<h2>
  Exemple
 </h2>
 
@@ -124,18 +109,17 @@ title: 'Pied de page de la zone du contenu '
  <figure class="mrgn-bttm-lg">
   <figcaption>
    <b>
-    Content footer
+    Pied de page de la zone du contenu
    </b>
   </figcaption>
-  <img alt="Diagram of content footer." class="img-responsive" src="../images/content-footer-fr.jpg"/>
+  <img alt="Capture d’écran du pied de page du contenu." class="img-responsive" src="../images/content-footer-fr.jpg"/>
   <details>
    <summary class="wb-toggle" data-toggle='{"print":"on"}'>
-    Version texte
+    Description de l'image : Pied de page de la zone du contenu
    </summary>
-   <p>
-    Le pied de page de la zone du contenu contient les éléments suivants : Signaler un problème sur cette page, Partager
-          cette page et Date de modification.
-   </p>
+   <p>Sur le côté gauche se trouve la vue initiale de l’outil de rétroaction sur la page. Un petit encadré gris demande «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» et affiche les boutons «&nbsp;Oui&nbsp;» et «&nbsp;Non&nbsp;».</p>
+    <p>Sur la droite se trouve un encadré gris comportant un symbole de partage ainsi que le texte «&nbsp;Partagez cette page&nbsp;».</p>
+    <p>Sous l’outil apparaît le texte : «&nbsp;Date de modification : 2023-08-01&nbsp;».</p>
   </details>
  </figure>
 </div>

@@ -1,19 +1,22 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/report-problem.html
 date: null
-dateModified: '2021-11-30'
+dateModified: '2023-10-03'
 description: null
 section-title: "Configuration de conception de Canada.ca"
 title: "Signaler un problème sur cette page"
 ---
 
+ <section class="alert alert-warning">
+  <p>Nous mettons hors service la configuration «&nbsp;Signaler un problème sur cette page&nbsp;». Nous ne vous conseillons pas d’ajouter cette configuration à vos pages.</p>
+<p>Si vous souhaitez recueillir de la rétroaction pour des pages Web en particulier, vous pouvez utiliser la configuration <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">«&nbsp;Outil de rétroaction sur la page (ORP)&nbsp;»</a>. N’ajoutez l’ORP qu’aux pages pour lesquelles vous prévoyez d’assurer un suivi actif et d’exploiter la rétroaction reçue.</p>
+</section>
 
 <p class="gc-byline">
  <strong>
   De :
   <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-   Secrétariat du
-					Conseil du Trésor du Canada
+   Secrétariat du Conseil du Trésor du Canada
   </a>
  </strong>
 </p>
@@ -109,27 +112,6 @@ title: "Signaler un problème sur cette page"
  <h2 id="comment">
   Comment mettre en œuvre
  </h2>
- <section class="alert alert-warning">
-  <h3>
-   Utilisation de la Solution de gabarits à déploiement centralisé (SGDC) pour mettre en œuvre le thème du site
-					Canada.ca.
-  </h3>
-  <p>
-   Ne mettez pas en œuvre ce modèle au moyen de la SGDC. Pour désactiver le pied de page dans la SGDC :
-  </p>
-  <ul>
-   <li>
-    utilisez la version de la SGDC pour les applications Web du GC, même s’il s’agit de vos pages HTML
-						statiques;
-   </li>
-   <li>
-    supprimez la référence pour le « pré-pied de page ».
-   </li>
-  </ul>
-  <p>
-   Vous devriez ensuite afficher le formulaire « Signaler un problème » à sa place.
-  </p>
- </section>
  <p>
   Le bouton, l’étiquette, le placement et l’énoncé de protection des renseignements personnels sont obligatoires
 				:
