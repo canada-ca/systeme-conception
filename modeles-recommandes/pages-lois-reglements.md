@@ -8,14 +8,7 @@ title: "Pages des lois et des règlements - Modèle de Canada.ca"
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   De :
-   <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-    Secrétariat du Conseil du Trésor du Canada
-   </a>
-  </strong>
- </p>
+ 
  <p>
   La collection des lois et règlements donne accès aux lois et règlements du gouvernement du Canada par l’intermédiaire de leur profil respectif.
  </p>

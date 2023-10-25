@@ -8,14 +8,7 @@ title: "Pages de campagne - Modèle de Canada.ca"
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   De :
-   <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-    Secrétariat du Conseil du Trésor du Canada
-   </a>
-  </strong>
- </p>
+ 
  <p>
   Les pages de campagne sont des pages promotionnelles à durée limitée qui répondent à la volonté de communication, de formation, de commercialisation, de sensibilisation et d’appel à l’action du gouvernement du Canada.
  </p>

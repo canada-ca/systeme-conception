@@ -7,14 +7,7 @@ title: "Transparence et rapports sur l'organisation - Modèle recommandé de Can
 ---
 
 
-<p class="gc-byline">
- <strong>
-  De :
-  <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-   Secrétariat du Conseil du Trésor du Canada
-  </a>
- </strong>
-</p>
+
 
 <p>
  Une page de rapport sur l'organisation fournit une divulgation proactive des renseignements offerts par cette institution.

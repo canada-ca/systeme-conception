@@ -9,14 +9,7 @@ title: " Page de compte rendu du rendement des services institutionnels - Modè\
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   De :
-   <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-    Secrétariat du Conseil du Trésor du Canada
-   </a>
-  </strong>
- </p>
+ 
  <p>
   Les pages de compte rendu du rendement des services institutionnels rassemblent toutes les normes de service d’une institution et fournissent des renseignements sur le compte rendu du rendement annuel, en appui à la
   <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">
