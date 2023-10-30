@@ -8,14 +8,7 @@ title: "Pages d\u2019index - Modèle de Canada.ca"
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   De :
-   <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-    Secrétariat du Conseil du Trésor du Canada
-   </a>
-  </strong>
- </p>
+
  <p>
   Les pages d’index sont des pages de navigation présentant une liste globale de titres assortis d’hyperliens menant à d’autres pages ou documents.
  </p>

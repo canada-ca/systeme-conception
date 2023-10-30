@@ -9,14 +9,7 @@ title: "Profil de partenariat ou d\u2019entente de collaboration - Modèle de\
 
 
 <div>
- <p class="gc-byline">
-  <strong>
-   De :
-   <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-    Secrétariat du Conseil du Trésor du Canada
-   </a>
-  </strong>
- </p>
+
  <p>
   Une page de profil de partenariat ou d’entente de collaboration représente une page d’accueil unique du site Canada.ca visant une entité associée à une ou plusieurs institutions du gouvernement du Canada.
  </p>

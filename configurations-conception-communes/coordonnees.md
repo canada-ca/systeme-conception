@@ -5,7 +5,7 @@ dateModified: "2018-12-19"
 description: "Deux configurations permettent de présenter les coordonnées dans les pages de Canada.ca."
 title: "Coordonnées - Configuration de conception de Canada.ca"
 ---
-<p class="gc-byline"> <strong> De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html"> Secrétariat du Conseil du Trésor du Canada </a> </strong> </p>
+
 <section>
   <p>Deux configurations permettent de présenter les coordonnées dans les pages de Canada.ca. La configuration « Coordonnées » se présente comme un bloc normalisé indiquant l’adresse civique ou postale, l’adresse courriel et les numéros de téléphone, alors que la configuration « Liens aux coordonnées » présente des liens pointant vers les pages de coordonnées. </p>
   <section>

@@ -12,14 +12,7 @@ title: "Aide-mémoire pour la conception du contenu des communications de crise"
 ---
 
 
-<p class="gc-byline">
- <strong>
-  De :
-  <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-   Secrétariat du Conseil du Trésor du Canada
-  </a>
- </strong>
-</p>
+
 
 <section>
  <h2>

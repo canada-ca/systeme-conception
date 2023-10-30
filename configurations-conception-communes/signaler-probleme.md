@@ -12,14 +12,7 @@ title: "Signaler un problème sur cette page"
 <p>Si vous souhaitez recueillir de la rétroaction pour des pages Web en particulier, vous pouvez utiliser la configuration <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">«&nbsp;Outil de rétroaction sur la page (ORP)&nbsp;»</a>. N’ajoutez l’ORP qu’aux pages pour lesquelles vous prévoyez d’assurer un suivi actif et d’exploiter la rétroaction reçue.</p>
 </section>
 
-<p class="gc-byline">
- <strong>
-  De :
-  <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-   Secrétariat du Conseil du Trésor du Canada
-  </a>
- </strong>
-</p>
+
 
 <div class="gc-stp-stp">
  <div class="row">
