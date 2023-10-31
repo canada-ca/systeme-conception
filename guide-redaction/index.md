@@ -1358,10 +1358,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </caption>
         <thead>
           <tr class="active">
-            <th scope="col">Date</th>
-            <th scope="col">Nom du fournisseur</th>
-            <th scope="col">Description</th>
-            <th scope="col">Valeur</th>
+            <th scope="col" class="col-md-2">Date</th>
+            <th scope="col" class="col-md-4">Nom du fournisseur</th>
+            <th scope="col" class="col-md-4">Description</th>
+            <th scope="col" class="col-md-2">Valeur</th>
           </tr>
         </thead>
         <tbody>
