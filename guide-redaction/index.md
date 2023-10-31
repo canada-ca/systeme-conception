@@ -1443,7 +1443,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </table>
       <h5>Après&nbsp;: tableaux simples</h5>
       <p>Le tableau complexe peut être facilement divisé en tableaux simples.</p>
-      <h6>Exemple&nbsp;: un tableau simple</h6>
+      <h6><strong>Exemple&nbsp;: un tableau simple</strong></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
@@ -1484,7 +1484,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </tbody>
       </table>
       <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de 2 tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
-      <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
+      <h6><strong>Exemple&nbsp;: plusieurs tableaux simples</strong></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
@@ -1532,7 +1532,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </tbody>
       </table>
       <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
-      <h6>Exemple: conversion de tableaux en texte </h6>
+      <h6><strong>Exemple: conversion de tableaux en texte</strong></h6>
       <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
       <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
       <ul>
@@ -2038,10 +2038,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>ne mettez pas de liens essentiels à la tâche au milieu d'un paragraphe ou au bas d'une page.</li>
     </ul>
     <h4>Exemple d'une utilisation appropriée des hyperliens</h4>
-    <h6>Écrivez&nbsp;:</h6>
+    <h6><strong>Écrivez&nbsp;:</strong></h6>
     <p>Une portion selon le Guide alimentaire est la quantité d'aliments de chacun des 4 groupes que l'on devrait manger chaque jour. Dans certains cas, une portion correspond à un aliment que l'on mange habituellement en une seule fois, comme une pomme. Dans d'autres, la quantité quotidienne correspond à plus d'une portion, comme pour du riz ou des pâtes.</p>
     <p><a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-fra.php">Nombre de portions quotidiennes pour les enfants, les adolescents et les adultes</a></p>
-    <h6>Au lieu de&nbsp;:</h6>
+    <h6><strong>Au lieu de&nbsp;:</strong></h6>
     <p>Une portion du Guide alimentaire est tout simplement une à titre de référence qui vous aide à comprendre la <a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-fra.php" title="quantités">quantité</a> d'aliments recommandée chaque jour dans chacun des groupes alimentaires. Dans certains cas, une portion du Guide alimentaire peut se rapprocher de ce que vous mangez, comme une pomme. Dans d'autres cas, comme lorsqu'il s'agit de riz ou de pâtes alimentaires, vous vous servez peut-être plus d'une portion du Guide alimentaire à la fois.</p>
     <section id="wp7-1-1">
       <h4>Choisir le contenu connexe avec soin</h4>
@@ -2080,7 +2080,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Lorsque vous rédigez des instructions sur la façon d'exécuter une tâche, vous devez parfois insérer un lien pour diriger la personne vers les formulaires ou d'autres documents. Créez ce lien en mettant l'accent sur l'action qu'elle doit accomplir.</p>
       <p>Ne répétez pas le titre d'un formulaire ou d'un document dans les étapes à suivre si ce titre n'est pas assez descriptif.</p>
       <h4>Exemple de la façon d'utiliser des hyperliens en mettant l'accent sur la tâche</h4>
-      <h6>Écrivez&nbsp;:</h6>
+      <h6><strong>Écrivez&nbsp;:</strong></h6>
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit&nbsp;:</p>
       <ul>
         <li>ouvrez le <a href="http://www.servicecanada.gc.ca/fi-if/index.jsp?app=prfl&amp;frm=ins5241&amp;lang=fra">formulaire servant à déclarer votre revenu</a> assurable;</li>
@@ -2092,7 +2092,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </li>
         <li>retournez le formulaire rempli en personne au <a href="http://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=fra">bureau de Service Canada le plus près de chez vous</a>.</li>
       </ul>
-      <h6>Au lieu de&nbsp;:</h6>
+      <h6><strong>Au lieu de&nbsp;:</strong></h6>
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit, remplissez le formulaire <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=fra">Attestation du prestataire – Semaines durant lesquelles la rémunération assurable était la plus élevée (Meilleures semaines variables)</a>. Inscrivez-y les renseignements requis concernant les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant vos 52 dernières semaines d'emploi ou depuis le début de votre dernière demande, selon la plus courte période des deux.</p>
     </section>
     <h4>Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise</h4>
