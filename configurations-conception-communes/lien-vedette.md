@@ -1,5 +1,5 @@
 ---
-altLangPage: https://design.canada.ca/common-design-patterns/services-information.html
+altLangPage: https://design.canada.ca/common-design-patterns/featured-link.html
 date: "2018-12-19"
 dateModified: "2023-09-21"
 description: "Orientation sur l’utilisation de la configuration de conception d’un lien en vedette sur Canada.ca."
@@ -37,7 +37,7 @@ title: "Lien en vedette"
   <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
   <h3>Spécifications de contenu</h3>
   <p>Dans cette configuration de conception, alignez le texte à gauche.</p>
-  <p>Utilisez du texte de lien descriptif pour que l’utilisateur sache clairement où il ira s’il clique sur le lien</p>
+  <p>Utilisez du texte de lien descriptif pour que l’utilisateur sache clairement où il ira s’il clique sur le lien.</p>
   <h3>Spécifications de conception</h3>
   <ul>
     <li> Texte&nbsp;:
