@@ -43,15 +43,15 @@ title: "Lien en vedette"
     <li> Texte&nbsp;:
       <ul>
         <li>Couleur&nbsp;: #FFF</li>
-        <li>Couleur&nbsp;: Lato Sans</li>
-        <li>Font size&nbsp;: 20&nbsp;px</li>
+        <li>Type de la police&nbsp;: Lato Sans</li>
+        <li>Taille de la police&nbsp;: 20&nbsp;px</li>
       </ul>
     </li>
     <li> Arrière-plan&nbsp;:
       <ul>
         <li>Couleur par défaut&nbsp;: #31708F</li>
         <li>Opacité&nbsp;: 0.9</li>
-        <li>Marges intérieures (padding)&nbsp;:
+        <li>Marges intérieures <span lang="en"><i>(padding)</i></span>&nbsp;:
           <ul>
             <li>Bas&nbsp;: 15&nbsp;px</li>
             <li>Haut&nbsp;: 15&nbsp;px</li>
