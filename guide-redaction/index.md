@@ -1197,11 +1197,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>qui sont liés à ce que la personne indique dans la barre de recherche.</li>
       </ul>
       <p class="mrgn-tp-lg">Lorsque vous affichez une publication en ligne, vous devez l'adapter pour le Web. Voici quelques techniques de base qui vous aideront à obtenir les meilleurs résultats&nbsp;:</p>
-      <h6><strong>Utilisez un titre qui décrit le contenu de la page</strong></h6>
+      <h6>Utilisez un titre qui décrit le contenu de la page</h6>
       <p>Le titre principal (Titre 1) de la page est le texte que vous voyez en haut de la page lorsque vous la regardez. Assurez-vous qu'il décrit bien le sujet de votre publication en langage clair et simple.</p>
-      <h6><strong>Utilisez le premier paragraphe pour introduire votre publication</strong> </h6>
+      <h6>Utilisez le premier paragraphe pour introduire votre publication </h6>
       <p>Le premier paragraphe de votre page Web doit introduire votre publication en langage clair et simple. Il aide les personnes qui consultent votre page à déterminer s'ils ont trouvé ce qu'ils cherchent. Vous pouvez inclure le titre de votre publication ici.</p>
-      <h6><strong>Incluez des mots-clés dans les métadonnées de la page</strong></h6>
+      <h6>Incluez des mots-clés dans les métadonnées de la page</h6>
       <p>Utilisez les métabalises Titre et Description pour améliorer le classement de votre publication dans les résultats de recherche. Voici ce que vous pouvez faire&nbsp;:</p>
       <p><strong>Métabalise Titre</strong>&nbsp;: La métabalise Titre de la page est le texte en hyperlien bleu que vous voyez lorsque les moteurs de recherche génèrent une liste de résultats. Trouvez un titre principal (Titre 1) efficace pour votre page et utilisez-le aussi comme métabalise Titre.</p>
       <p><strong>Métabalise Description</strong>&nbsp;: La métabalise Description est le contenu que vous voyez sous le texte en hyperlien bleu dans la liste des résultats de recherche. <strong>Évitez d'énumérer seulement des mots-clés,</strong> car les moteurs de recherche tendent à ne pas les prendre en considération. Écrivez une (1) ou 2 phrases courtes qui décrivent le contenu de la page. Assurez-vous d'inclure les mots-clés que vos publics cibles utilisent lorsqu'ils cherchent votre contenu (par exemple, des abréviations qu'ils connaissent bien).</p>
@@ -1354,19 +1354,19 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <table class="table table-condensed table-bordered">
         <caption>
-        <strong>Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010</strong>
+        <strong>Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup></strong>
         </caption>
         <thead>
           <tr class="active">
-            <th scope="col" class="col-md-2">Date</th>
-            <th scope="col" class="col-md-4">Nom du fournisseur</th>
-            <th scope="col" class="col-md-4">Description</th>
-            <th scope="col" class="col-md-2">Valeur</th>
+            <th scope="col">Date</th>
+            <th scope="col">Nom du fournisseur</th>
+            <th scope="col">Description</th>
+            <th scope="col">Valeur</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <th scope="row"><time datetime="2010-02-01">2010-02-01</time></th>
+            <th scope="row"><time datetime="2010-02-01">2010-02-01<sup id="table2b-fn2-rf"><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">table 2 note </span>**</a></sup></time></th>
             <td>Solutions d'entreprises ABC</td>
             <td>Location d'appareils, de meubles et d'accessoires de bureau</td>
             <td class="text-right">227&nbsp;703,22&nbsp;$</td>
@@ -1390,6 +1390,25 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <td class="text-right">56&nbsp;294,42&nbsp;$</td>
           </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="4"><section class="wb-fnote">
+                <h5 class="wb-inv" id="table2b-fn">Notes du tableau 2</h5>
+                <dl>
+                  <dt> Note * du tableau 2 </dt>
+                  <dd id="table2b-fn1">
+                    <p>Quatrième trimestre de l'exercice financier allant du 1er avril 2009 au 31 mars 2010.</p>
+                    <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>*<span class="wb-inv"> du tableau 2</span></a></p>
+                  </dd>
+                  <dt> Note ** du tableau 2 </dt>
+                  <dd id="table2b-fn2">
+                    <p>Les dates de ce tableau représentent l'année et le mois, suivis du jour (aaaa-mm-jj).</p>
+                    <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>**<span class="wb-inv"> du tableau 2</span></a></p>
+                  </dd>
+                </dl>
+              </section></td>
+          </tr>
+        </tfoot>
       </table>
       <p class="mrgn-tp-lg">En examinant l'en-tête des colonnes &laquo;&nbsp;Date d'attribution du contrat&nbsp;&raquo;, &laquo;&nbsp;Nom du fournisseur&nbsp;&raquo; et &laquo;&nbsp;Valeur&nbsp;&raquo;, on comprend que le 23 février 2010, l'entreprise Service conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
     </section>
@@ -1403,10 +1422,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <h5>Avant&nbsp;: tableau complexe</h5>
       <p>Le tableau qui suit est complexe et mal conçu. Il serait difficile d'y accéder et d'en comprendre l'information à l'aide d'un lecteur d'écran ou d'un appareil mobile.</p>
-      <h6><strong>Exemple de tableau complexe</strong></h6>
+      <h6> Exemple <span class="wb-inv">de tableau complexe</span></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (1927-2013)</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1443,10 +1462,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </table>
       <h5>Après&nbsp;: tableaux simples</h5>
       <p>Le tableau complexe peut être facilement divisé en tableaux simples.</p>
-      <h6><strong>Exemple&nbsp;: un tableau simple</strong></h6>
+      <h6>Exemple&nbsp;: un tableau simple</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1484,10 +1503,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </tbody>
       </table>
       <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de 2 tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
-      <h6><strong>Exemple&nbsp;: plusieurs tableaux simples</strong></h6>
+      <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1512,7 +1531,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </table>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1532,16 +1551,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </tbody>
       </table>
       <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
-      <h6><strong>Exemple: conversion de tableaux en texte</strong></h6>
+      <h6>Exemple: conversion de tableaux en texte </h6>
       <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
-      <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
+      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
       <ul>
         <li>Canadiens de Montréal&nbsp;: 22</li>
         <li>Maple Leafs de Toronto&nbsp;: 11</li>
         <li>Sénateurs d'Ottawa&nbsp;: 1</li>
       </ul>
       <p><strong>Association de l'Ouest de la Ligue nationale de hockey </strong></p>
-      <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
+      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
       <ul>
         <li>Oilers d'Edmonton&nbsp;: 5</li>
         <li>Flames de Calgary&nbsp;: 1</li>
@@ -1943,8 +1962,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <th class="text-right" scope="col">2008</th>
           <th class="text-right" scope="col">2010</th>
         </tr>
-      </thead>
-      <tbody>
         <tr>
           <th scope="row">Hommes</th>
           <td class="text-right">58,2</td>
@@ -1965,7 +1982,15 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <td class="text-right">54,9</td>
           <td class="text-right">55,2</td>
         </tr>
+        <tr>
+          <td class="small" colspan="8"><p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
+              Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé sans solde.</p></td>
+        </tr>
+      </thead>
+      <tbody>
       </tbody>
+      <tfoot>
+      </tfoot>
     </table>
   </figure>
   <p>Collaborez avec votre équipe Web pour déterminer la meilleure façon d'insérer la description longue. Elle vous conseillera sur la façon de s'assurer que l'information contenue dans l'image est accessible aux personnes qui utilisent les technologies d'aide. Votre équipe Web s'assurera également que l'image respecte les <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-fra.asp">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite>.</p>
@@ -2038,10 +2063,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>ne mettez pas de liens essentiels à la tâche au milieu d'un paragraphe ou au bas d'une page.</li>
     </ul>
     <h4>Exemple d'une utilisation appropriée des hyperliens</h4>
-    <h6><strong>Écrivez&nbsp;:</strong></h6>
+    <h6>Écrivez&nbsp;:</h6>
     <p>Une portion selon le Guide alimentaire est la quantité d'aliments de chacun des 4 groupes que l'on devrait manger chaque jour. Dans certains cas, une portion correspond à un aliment que l'on mange habituellement en une seule fois, comme une pomme. Dans d'autres, la quantité quotidienne correspond à plus d'une portion, comme pour du riz ou des pâtes.</p>
     <p><a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-fra.php">Nombre de portions quotidiennes pour les enfants, les adolescents et les adultes</a></p>
-    <h6><strong>Au lieu de&nbsp;:</strong></h6>
+    <h6>Au lieu de&nbsp;:</h6>
     <p>Une portion du Guide alimentaire est tout simplement une à titre de référence qui vous aide à comprendre la <a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-fra.php" title="quantités">quantité</a> d'aliments recommandée chaque jour dans chacun des groupes alimentaires. Dans certains cas, une portion du Guide alimentaire peut se rapprocher de ce que vous mangez, comme une pomme. Dans d'autres cas, comme lorsqu'il s'agit de riz ou de pâtes alimentaires, vous vous servez peut-être plus d'une portion du Guide alimentaire à la fois.</p>
     <section id="wp7-1-1">
       <h4>Choisir le contenu connexe avec soin</h4>
@@ -2080,7 +2105,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Lorsque vous rédigez des instructions sur la façon d'exécuter une tâche, vous devez parfois insérer un lien pour diriger la personne vers les formulaires ou d'autres documents. Créez ce lien en mettant l'accent sur l'action qu'elle doit accomplir.</p>
       <p>Ne répétez pas le titre d'un formulaire ou d'un document dans les étapes à suivre si ce titre n'est pas assez descriptif.</p>
       <h4>Exemple de la façon d'utiliser des hyperliens en mettant l'accent sur la tâche</h4>
-      <h6><strong>Écrivez&nbsp;:</strong></h6>
+      <h6>Écrivez&nbsp;:</h6>
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit&nbsp;:</p>
       <ul>
         <li>ouvrez le <a href="http://www.servicecanada.gc.ca/fi-if/index.jsp?app=prfl&amp;frm=ins5241&amp;lang=fra">formulaire servant à déclarer votre revenu</a> assurable;</li>
@@ -2092,7 +2117,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </li>
         <li>retournez le formulaire rempli en personne au <a href="http://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=fra">bureau de Service Canada le plus près de chez vous</a>.</li>
       </ul>
-      <h6><strong>Au lieu de&nbsp;:</strong></h6>
+      <h6>Au lieu de&nbsp;:</h6>
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit, remplissez le formulaire <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=fra">Attestation du prestataire – Semaines durant lesquelles la rémunération assurable était la plus élevée (Meilleures semaines variables)</a>. Inscrivez-y les renseignements requis concernant les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant vos 52 dernières semaines d'emploi ou depuis le début de votre dernière demande, selon la plus courte période des deux.</p>
     </section>
     <h4>Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise</h4>
@@ -2456,11 +2481,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>489</strong></td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td class="small" colspan="4"><p>Remarque&nbsp;: Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p></td>
+      </tr>
+    </tfoot>
   </table>
   <h4>Après</h4>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Tableau 1&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts budgétaires nets (en millions de dollars)</strong>
+    <strong>Tableau 1&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts budgétaires nets (en millions de dollars)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 1</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2472,7 +2502,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </thead>
     <tbody>
       <tr>
-        <th scope="row">Total&nbsp;: Soutenir les familles et les collectivités</th>
+        <th scope="row">Total&nbsp;: Soutenir les familles et les collectivités<sup id="table1-fn2-rf"><a class="fn-lnk" href="#table1-fn2"><span class="wb-inv">Voir la note </span>2<span class="wb-inv"> du tableau 1</span></a></sup></th>
         <td class="text-right">342</td>
         <td class="text-right">657</td>
         <td class="text-right">999</td>
@@ -2496,10 +2526,29 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>489</strong></td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table1a-fn">Notes du tableau 1</h5>
+            <dl>
+              <dt> Note 1 du tableau 1 </dt>
+              <dd id="table1-fn1">
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 1</span></a></p>
+              </dd>
+              <dt> Note 2 du tableau 1 </dt>
+              <dd id="table1-fn2">
+                <p>Voir le tableau 1B pour une ventilation détaillée.</p>
+                <p class="fn-rtn"> <a href="#table1-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 1</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Tableau 1A&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts totaux (en millions de dollars)</strong>
+    <strong>Tableau 1A&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts totaux (en millions de dollars)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 2</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2511,25 +2560,25 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Soutenir les familles</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Soutenir les familles<sup id="table2-fn2-rf"><a class="fn-lnk" href="#table2-fn2"><span class="wb-inv">Voir la note </span>2<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
         <td class="text-right">82</td>
         <td class="text-right">82</td>
         <td class="text-right">164</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investir dans les collectivités</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Investir dans les collectivités<sup id="table2-fn3-rf"><a class="fn-lnk" href="#table2-fn3"><span class="wb-inv">Voir la note </span>3<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
         <td class="text-right">133</td>
         <td class="text-right">476</td>
         <td class="text-right">609</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Protéger l'environnement naturel du Canada</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Protéger l'environnement naturel du Canada<sup id="table2-fn4-rf"><a class="fn-lnk" href="#table2-fn4"><span class="wb-inv">Voir la note </span>4<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
         <td class="text-right">32</td>
         <td class="text-right">9</td>
         <td class="text-right">41</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Créer des collectivités autochtones vigoureuses</span></th>
+        <th scope="row"><span class="mrgn-lft-md">Créer des collectivités autochtones vigoureuses<sup id="table2-fn5-rf"><a class="fn-lnk" href="#table2-fn5"><span class="wb-inv">Voir la note </span>5<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
         <td class="text-right">95</td>
         <td class="text-right">90</td>
         <td class="text-right">185</td>
@@ -2541,10 +2590,44 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>999</strong></td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table1-fn">Notes du tableau 1</h5>
+            <dl>
+              <dt> Note 1 du tableau 2 </dt>
+              <dd id="table2-fn1">
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table2-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 2</span></a></p>
+              </dd>
+              <dt> Note 2 du tableau 2 </dt>
+              <dd id="table2-fn2">
+                <p>Voir le tableau 1B pour une ventilation détaillée.</p>
+                <p class="fn-rtn"> <a href="#table2-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 2</span></a></p>
+              </dd>
+              <dt> Note 3 du tableau 2 </dt>
+              <dd id="table2-fn3">
+                <p>Voir le tableau 1C pour une ventilation détaillée.</p>
+                <p class="fn-rtn"> <a href="#table2-fn3-rf"><span class="wb-inv">Retour à la référence de la note </span>3<span class="wb-inv"> du tableau 2</span></a></p>
+              </dd>
+              <dt> Note 4 du tableau 2 </dt>
+              <dd id="table2-fn4">
+                <p>Voir le tableau 1D pour une ventilation détaillée.</p>
+                <p class="fn-rtn"> <a href="#table2-fn4-rf"><span class="wb-inv">Retour à la référence de la note </span>4<span class="wb-inv"> du tableau 2</span></a></p>
+              </dd>
+              <dt> Note 5 du tableau 2 </dt>
+              <dd id="table2-fn5">
+                <p>Voir le tableau 1E pour une ventilation détaillée.</p>
+                <p class="fn-rtn"> <a href="#table2-fn5-rf"><span class="wb-inv">Retour à la référence de la note </span>5<span class="wb-inv"> du tableau 2</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Tableau 1B&nbsp;: Soutien aux familles pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)</strong>
+    <strong>Tableau 1B&nbsp;: Soutien aux familles pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 3</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2580,10 +2663,24 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>164</strong></td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table3-fn">Notes du tableau 3</h5>
+            <dl>
+              <dt> Note 1 du tableau 3 </dt>
+              <dd id="table3-fn1">
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table3-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 3</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Tableau 1C&nbsp;: Investir dans les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)</strong>
+    <strong>Tableau 1C&nbsp;: Investir dans les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 4</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2673,10 +2770,24 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>609</strong></td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table4-fn">Notes du tableau 4</h5>
+            <dl>
+              <dt> Note 1 du tableau 4 </dt>
+              <dd id="table4-fn1">
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table4-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 4</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Tableau 1D&nbsp;: Protéger l'environnement naturel du Canada pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars</strong>
+    <strong>Tableau 1D&nbsp;: Protéger l'environnement naturel du Canada pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 5</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2730,10 +2841,24 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>41</strong></td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table5-fn">Notes du tableau 5</h5>
+            <dl>
+              <dt> Note 1 du tableau 5 </dt>
+              <dd id="table5-fn1">
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table5-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 5</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
     <caption class="text-center">
-    <strong>Tableau 1E&nbsp;: Créer des collectivités autochtones vigoureuses pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)</strong>
+    <strong>Tableau 1E&nbsp;: Créer des collectivités autochtones vigoureuses pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 6</span></a></sup></strong>
     </caption>
     <thead>
       <tr class="active">
@@ -2793,6 +2918,20 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>185</strong></td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4"><section class="wb-fnote">
+            <h5 class="wb-inv" id="table6-fn">Notes du tableau 6</h5>
+            <dl>
+              <dt> Note 1 du tableau 6 </dt>
+              <dd id="table6-fn1">
+                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                <p class="fn-rtn"> <a href="#table6-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 6</span></a></p>
+              </dd>
+            </dl>
+          </section></td>
+      </tr>
+    </tfoot>
   </table>
   <h4>Ce que nous avons fait</h4>
   <p>Pour créer ces tableaux, nous avons&nbsp;:</p>
