@@ -70,8 +70,8 @@ title: "Lien en vedette"
       <figcaption><b>Lien en vedette - grand écran</b></figcaption>
       <img src="/images/feature-link-fr.png" class="img-responsive" alt="Lien en vedette pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
-        <p>Un lien en vedette est affiché dans une bande bleue qui s’étend sur toute la longueur de l’écran. Au-dessus du lien en vedette figure le nom du ministère (Ressources naturelles Canada), suivi d’une brève description du ministère. Sous le lien en vedette se trouve le titre En demande suivi de trois liens.</p>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: lien en vedette - grand écran</summary>
+        <p>Un lien en vedette est affiché dans une bande bleue qui s’étend sur toute la longueur de l’écran. Au-dessus du lien en vedette figure le nom du ministère (Ressources naturelles Canada), suivi d’une brève description du ministère.</p>
       </details>
 
     </figure>
@@ -86,7 +86,7 @@ title: "Lien en vedette"
   </ul>
   <h3>Affichage aléatoire dans la BOEW</h3>
   <ul>
-    <li><a href="https://wet-boew.github.io/v4.0-ci/demos/wb-randomize/wb-randomize-en.html">Aléatoire</a> - exemples pratiques et code</li>
+    <li><a href="https://wet-boew.github.io/v4.0-ci/demos/wb-randomize/wb-randomize-fr.html">Aléatoire</a> - exemples pratiques et code</li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
   <h3>Mises en oeuvre</h3>
@@ -113,7 +113,7 @@ title: "Lien en vedette"
             <summary><strong>Drupal WXT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WXT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
+              <li><a href="https://drupalwxt.github.io">Documentation de Drupal WxT (en anglais seulement)</a></li>
             </ul>
           </details>
         </div>
@@ -128,7 +128,7 @@ title: "Lien en vedette"
   <h3>Justification stratégique</h3>
   <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
   <ul>
-    <li>Page d’accueil institutionnelle</li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
     <li>Page d’accueil de Canada.ca</li>
   </ul>
 </section>
