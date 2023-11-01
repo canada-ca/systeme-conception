@@ -37,9 +37,9 @@ title: "Chaînes de médias sociaux"
   <h2>Contenu et conception</h2>
   <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
   <h3>Spécifications de contenu</h3>
-  <p>La configuration de conception des chaînes de médias sociaux est composée du titre « Sur les médias sociaux » et d’icônes renvoyant aux comptes de médias sociaux officiels du gouvernement du Canada.</p>
+  <p>La configuration de conception des chaînes de médias sociaux est composée du titre «&nbsp;Sur les médias sociaux&nbsp;» et d’icônes renvoyant aux comptes de médias sociaux officiels du gouvernement du Canada.</p>
   <p>Les comptes mentionnés dans la configuration de conception doivent être entièrement conformes à la Directive sur la gestion des communications.</p>
-  <p>Afficher un maximum de sept (7) icônes alignées dans une colonne verticale ou une rangée horizontale :</p>
+  <p>Afficher un maximum de sept (7) icônes alignées dans une colonne verticale ou une rangée horizontale&nbsp;:</p>
   <ul>
     <li>L’affichage vertical comprend une étiquette à côté de chaque icône.</li>
     <li>L’affichage horizontal ne comprend que les icônes.</li>
@@ -65,7 +65,7 @@ title: "Chaînes de médias sociaux"
     </li>
     <li>Liens&nbsp;:
       <ul>
-        <li>Police&nbsp;: Noto Sans, 16 px, couleurs de lien standards</li>
+        <li>Police&nbsp;: Noto Sans, 16 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
       </ul>
     </li>
     <li>Le style du bouton est celui d’un bouton principal.</li>
@@ -143,8 +143,8 @@ title: "Chaînes de médias sociaux"
       <figcaption><b>Chaînes de médias sociaux (affichage vertical avec étiquettes) — grand écran</b></figcaption>
       <img src="/images/social-media-vertical-mask-fr.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre « Sur les médias sociaux ». On trouve sous le titre une liste verticale avec les icônes et les étiquettes associées :</p>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaîne de médias sociaux (affichage horizontal) - grand écran</summary>
+        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». On trouve sous le titre une liste verticale avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
           <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
@@ -160,8 +160,8 @@ title: "Chaînes de médias sociaux"
       <figcaption><b>Chaînes de médias sociaux (affichage horizontal) — grand écran</b></figcaption>
       <img src="/images/social-media-horizontal-mask-en.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage horizontal) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre « Sur les médias sociaux ».  On trouve sous le titre une liste horizontale avec les icônes associées, mais sans les étiquettes :</p>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaîne de médias sociaux (affichage horizontal) - grand écran</summary>
+        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;».  On trouve sous le titre une liste horizontale avec les icônes associées, mais sans les étiquettes&nbsp;:</p>
         <ul>
           <li>Facebook</li>
           <li>Twitter</li>
@@ -174,11 +174,11 @@ title: "Chaînes de médias sociaux"
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Chaînes de médias sociaux (conception verticale avec étiquettes) – petit écran</b></figcaption>
+      <figcaption><b>Chaînes de médias sociaux (affichage vertical avec étiquettes) – petit écran</b></figcaption>
       <img src="../images/social-media-vertical-en-sm.png" class="img-responsive" alt="Chaînes de médias sociaux (conception verticale avec étiquettes) pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre « Sur les médias sociaux ». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées :</p>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage vertical avec étiquettes) - petit écran</summary>
+        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
           <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
@@ -192,9 +192,9 @@ title: "Chaînes de médias sociaux"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Fenêtre contextuelle modale de médias sociaux pour comptes multiples</b></figcaption>
-      <img src="../images/social-media-lightbox-fr.png" class="img-responsive" alt="Fenêtre contextuelle modale de médias sociaux pour comptes multiples.  Version texte ci-dessous&nbsp;:" />
+      <img src="../images/social-media-lightbox-fr.png" class="img-responsive" alt="Fenêtre contextuelle modale de médias sociaux pour comptes multiples. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: fenêtre contextuelle modale de médias sociaux pour comptes multiples</summary>
         <p>Une fenêtre contextuelle superposée pour afficher de multiples comptes Facebook. Un titre indique la plateforme de médias sociaux, tandis que deux liens intitulés [Titre du premier compte Facebook] et [Titre du deuxième compte Facebook] se trouvent en dessous. La fenêtre modale est dotée d’un bouton de fermeture et d’un X dans le coin pour fermer la composante modale.</p>
       </details>
     </figure>
@@ -206,6 +206,7 @@ title: "Chaînes de médias sociaux"
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <p>La référence à l’implémentation comprend la façon de configurer chaque élément du système de conception.</p>
   <ul>
+    <li><a href=""></a>[xxxx] – thème GCWeb</li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
   <h3>Mises en œuvre</h3>
@@ -218,7 +219,6 @@ title: "Chaînes de médias sociaux"
             <summary><strong>GC-AEM</strong></summary>
             <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
             <ul>
-              <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/3/35/Documentation-AEM-6.5-Unite-4-29-Composant-Bande-m%C3%A9dias-sociaux.pdf">Composante de la bande de médias sociaux (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
               <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
             </ul>
           </details>
@@ -233,7 +233,7 @@ title: "Chaînes de médias sociaux"
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+              <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
             </ul>
           </details>
         </div>
@@ -243,12 +243,13 @@ title: "Chaînes de médias sociaux"
 </section>
 <section id="recherche">
   <h2>Recherche et justification</h2>
-  <p>Consultez les constatations de la recherche et la justification stratégique.</p>
+  <p>Consultez la justification stratégique.</p>
   <h3>Justification stratégique</h3>
   <p>Le contenu de la section des chaînes de médias sociaux doit suivre la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a>.</p>
   <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
   <ul>
     <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html"></a>Page de thème et de sujet</li>
     <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
   </ul>
 </section>
