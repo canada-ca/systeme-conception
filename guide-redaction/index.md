@@ -1425,7 +1425,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6> Exemple <span class="wb-inv">de tableau complexe</span></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (1927-2013)</strong>
+        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1465,7 +1465,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6>Exemple&nbsp;: un tableau simple</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1506,7 +1506,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1531,7 +1531,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </table>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1553,14 +1553,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
       <h6>Exemple: conversion de tableaux en texte </h6>
       <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
-      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
+      <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
       <ul>
         <li>Canadiens de Montréal&nbsp;: 22</li>
         <li>Maple Leafs de Toronto&nbsp;: 11</li>
         <li>Sénateurs d'Ottawa&nbsp;: 1</li>
       </ul>
       <p><strong>Association de l'Ouest de la Ligue nationale de hockey </strong></p>
-      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
+      <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
       <ul>
         <li>Oilers d'Edmonton&nbsp;: 5</li>
         <li>Flames de Calgary&nbsp;: 1</li>
