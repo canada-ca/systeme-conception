@@ -99,13 +99,13 @@ title: À propos de l’institution
       </ul>
     </li>
   </ul>
-  <h3>Visual examples</h3>
+  <h3>Exemples visuels</h3>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>À propos de l’institution – grand écran</b></figcaption>
       <img src="/images/about-institution-mask-fr.png" class="img-responsive" alt="À propos de l’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: à propos de l’institution - grand écran</summary>
         <p>Les liens d’&laquo;&nbsp;À propos de l’institution&nbsp;&raquo; apparaissent dans une section avec le titre &laquo;&nbsp;À propos de [Institution]&nbsp;&raquo;. Les liens apparaissent sous forme d’une liste à puces qui s’étend sur deux colonnes. La première colonne contient les éléments suivants&nbsp;:</p>
         <ul>
           <li>Mandat</li>
@@ -120,7 +120,6 @@ title: À propos de l’institution
           <li>Conformité</li>
           <li>Notifications d’application de la loi</li>
           <li>[Lien institutionnel]</li>
-          <li>[Lien institutionnel]</li>
           <li>En savoir plus : À propos de [institution]</li>
         </ul>
       </details>
@@ -131,12 +130,12 @@ title: À propos de l’institution
       <figcaption><b>À propos de l’institution – petit écran</b></figcaption>
       <img src="/images/about-institution-sm-fr.png" class="img-responsive" alt="À propos de l’institution pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: à propos de l’institution - petit écran</summary>
         <p>Les liens d’&laquo;&nbsp;À propos de l’institution&nbsp;&raquo; apparaissent dans une section avec le titre &laquo;&nbsp;À propos de [Institution]&nbsp;&raquo;. La conception organise les liens sous forme d’une liste à puces&nbsp;:</p>
         <ul>
           <li>Mandat</li>
           <li>Structure organisationnelle</li>
-          <li>ransparence</li>
+          <li>Transparence</li>
           <li>Accessibilité</li>
           <li>Possibilités d’emploi</li>
           <li>Rapports</li>
@@ -182,7 +181,7 @@ title: À propos de l’institution
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+              <li><a href="https://drupalwxt.github.io">Documentation de Drupal WxT</a> (en anglais seulement)</li>
             </ul>
           </details>
         </div>
