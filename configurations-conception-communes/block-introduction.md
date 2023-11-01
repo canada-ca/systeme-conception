@@ -6,7 +6,7 @@ description: Orientation sur l’utilisation de la configuration de conception d
 title: Bloc d’introduction
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
-<p>La configuration de conception du bloc d’introduction introduit le contenu d’une page d’accueil.</p>
+<p>La configuration de conception du bloc d’introduction introduit le contenu d’une page de renvoi.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/intro-block-full-fr.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>Sur cette page</h2>
@@ -21,7 +21,7 @@ title: Bloc d’introduction
 </section>
 <section>
     <h2 id="use">Quand l’utiliser</h2>
-    <p>La configuration de conception du bloc d’introduction est un élément obligatoire pour les pages d’accueil institutionnelles et les pages de sujet. Elle est facultative pour les autres pages d’accueil.</p>
+    <p>La configuration de conception du bloc d’introduction est un élément obligatoire pour les pages d’accueil institutionnelles et les pages de sujet. Elle est facultative pour les autres pages de renvoi.</p>
 </section>
 <section>
     <h2 id="avoid">Quoi éviter</h2>
@@ -88,7 +88,6 @@ title: Bloc d’introduction
             Bouton de super-tâche
             <ul>
                 <li><a href="https://conception.canada.ca/configurations-conception-communes/boutons.html#action">Voir les détails sur le bouton de super-tâche</a></li>
-                <li></li>
             </ul>
         </li>
     </ul>
@@ -102,7 +101,7 @@ title: Bloc d’introduction
             <figcaption><b>Bloc d’introduction – grand écran</b></figcaption>
             <img src="../images/intro-block-fr.png" class="img-responsive" alt="Introduction block pattern for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bloc d’introduction - grand écran</summary>
                 <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution.</p>
             </details>
         </figure>
@@ -112,7 +111,7 @@ title: Bloc d’introduction
             <figcaption><b>Bloc d’introduction – petit écran</b></figcaption>
             <img src="../images/intro-block-sm-fr.png" class="img-responsive" alt="Introduction block pattern for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bloc d’introduction - petit écran</summary>
                 <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution.</p>
             </details>
         </figure>
@@ -145,7 +144,7 @@ title: Bloc d’introduction
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+                            <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
                         </ul>
                     </details>
                 </div>
@@ -165,7 +164,7 @@ title: Bloc d’introduction
     <h3>Justification stratégique</h3>
     <p>La configuration de conception du bloc d’introduction est requise dans les modèles obligatoires suivants&nbsp;:</p>
     <ul>
-        <li><a href="">Modèle de page d’accueil institutionnelle</a></li>
+        <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Modèle de page d’accueil institutionnelle</a></li>
         <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html">Modèle de page de thème et de sujet</a></li>
     </ul>
 </section>
