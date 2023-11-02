@@ -34,7 +34,7 @@ title: "Page des ministères et organismes - Modèle obligatoire de Canada.ca"
     <li>indiquées dans la <a href="http://laws-lois.justice.gc.ca/fra/lois/F-11/"> Loi sur la gestion des finances publiques</a> (LGFP), liées à leur profil institutionnel respectif;</li>
     <li>non indiquées dans la LGFP, mais mentionnées dans le <a href="http://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/fip-pcim/reg-fra.asp"> Registre des titres d’usage</a> , liées à leur profil organisationnel respectif;</li>
     <li>indiquées dans la LGFP, non sujettes à Canada.ca, liées à leur site web respectif;</li>
-    <li>considérées comme des unités à profil élevé, liées à leur profil organisationnel respectif. Le Secrétariat du Conseil du Trésor du Canada (SCT), Service Canada et le Bureau du Conseil privé se consulteront pour déterminer si l’institution peut être inclue.</li>
+    <li>considérées comme des unités à profil élevé, liées à leur profil organisationnel respectif. Emploi et Développement social Canada (ESDC) et le Bureau du Conseil privé se consulteront pour déterminer si l’institution peut être inclue.</li>
   </ul>
 </section>
 <section>
