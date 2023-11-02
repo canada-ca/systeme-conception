@@ -35,7 +35,7 @@ title: "Organiser le contenu dans Canada.ca"
       <li><strong>Recherche&nbsp;:</strong> prend en charge la repérabilité pour la navigation thématique et institutionnelle par le biais des moteurs de recherche internes et externes</li>
     </ul>
     <p>La plupart des gens à la recherche de services et de renseignements gouvernementaux ne comprennent pas comment le gouvernement est organisé. Pour résoudre ce problème, la navigation par thème est le chemin de navigation prioritaire sur Canada.ca.</p>
-    <p>Voyez où se situe votre contenu dans les thèmes et les sujets correspondants de<a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#arborescence">l'arborescence thématique de Canada.ca</a>.</p>
+    <p>Voyez où se situe votre contenu dans les thèmes et les sujets correspondants de <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#arborescence">l'arborescence thématique de Canada.ca</a>.</p>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"><b>Aperçu conceptuel de la navigation de l'utilisateur</b></figcaption>
       <img src="./images/conceptual-overview-fra.png" class="img-responsive center-block" alt="Diagramme de l'aperçu conceptuel de l'architecture de l'information. La version textuelle se trouve ci-dessous&nbsp;:">
