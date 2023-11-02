@@ -474,7 +474,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>2a : Insigne</h4>
+            <h4>2a&nbsp;: Insigne</h4>
             <p><span class="label label-warning">Conditionelle</span></p>
             <p>Fournit l’identification de la Gendarmerie royale du Canada</p>
             <ul class="list-unstyled">
@@ -523,7 +523,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>4 : Réseaux de médias sociaux de l’institution</h4>
+            <h4>4&nbsp;: Réseaux de médias sociaux de l’institution</h4>
             <p><span class="label label-warning">Conditionelle</span></p>
             <p>Présente les réseaux de médias sociaux propres à l’institution</p>
             <ul class="list-unstyled">
@@ -547,7 +547,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>5 : Nouveautés</h4>
+            <h4>5&nbsp;: Nouveautés</h4>
             <p><span class="label label-warning">Conditionelle</span></p>
             <p>Présente les nouvelles ayant trait à l’institution</p>
             <ul class="list-unstyled">
@@ -571,7 +571,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>6 : Services et renseignements</h4>
+            <h4>6&nbsp;: Services et renseignements</h4>
             <p><span class="label label-danger">Obligatoire</span></p>
             <p>Dresse la liste des sujets propres à l’institution</p>
             <ul class="list-unstyled">
@@ -594,7 +594,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>7 : En demande</h4>
+            <h4>7&nbsp;: En demande</h4>
             <p><span class="label label-warning">Conditionelle</span></p>
             <p>Présente les services et renseignements les plus demandés propres à l’institution</p>
             <ul class="list-unstyled">
@@ -618,7 +618,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>8 : Contactez-nous</h4>
+            <h4>8&nbsp;: Contactez-nous</h4>
             <p><span class="label label-danger">Obligatoire</span></p>
             <p>Donne accès aux coordonnées de l’institution</p>
             <ul class="list-unstyled">
@@ -642,7 +642,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>9 : Autres renseignements pour les</h4>
+            <h4>9&nbsp;: Autres renseignements pour les</h4>
             <p><span class="label label-info">Facultative</span></p>
             <p>Liens menant à des renseignements intéressant divers publics cibles</p>
             <ul class="list-unstyled">
@@ -665,7 +665,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>10 : Ce que nous faisons</h4>
+            <h4>10&nbsp;: Ce que nous faisons</h4>
             <p><span class="label label-warning">Conditionelle</span></p>
             <p>Fournit des liens vers le contenu relatif à l’élaboration des politiques et programmes de l’institution</p>
             <ul class="list-unstyled">
@@ -689,7 +689,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>11 : Renseignements organisationnels</h4>
+            <h4>11&nbsp;: Renseignements organisationnels</h4>
             <p><span class="label label-danger">Obligatoire</span></p>
             <p>Fournit un accès uniforme aux principaux renseignements organisationnels</p>
             <ul class="list-unstyled">
@@ -860,7 +860,7 @@ ul.feeds-cont li a {
                 <details class="mrgn-bttm-sm">
                   <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Contenu</strong></summary>
                   <ul>
-                    <li>Cette composante est conditionnelle. Seules les institutions qui font partie de la catégorie des tribunaux administratifs selon les <a href="http://www.appointments-nominations.gc.ca/prsnt.asp?menu=2&amp;page=gicIntro&amp;lang=fra">règles sur les nominations par le gouverneur en conseil</a>ont l’option d’afficher leur identificateur d’image de marque approuvé.</li>
+                    <li>Cette composante est conditionnelle. Seules les institutions qui font partie de la catégorie des tribunaux administratifs selon les <a href="http://www.appointments-nominations.gc.ca/prsnt.asp?menu=2&amp;page=gicIntro&amp;lang=fra">règles sur les nominations par le gouverneur en conseil</a> ont l’option d’afficher leur identificateur d’image de marque approuvé.</li>
                     <li>Les institutions faisant partie de la catégorie des agences et conseils qui ont pour mandat de rendre des décisions exécutoires peuvent aussi avoir l’option d’afficher leur identificateur d’image de marque approuvé, tel que déterminé au cas par cas par les organismes centraux.</li>
                     <li>L’image de marque doit être conforme aux règles du Programme de coordination de l’image de marque (PCIM) sur l’identification des institutions fédérales.</li>
                   </ul>
