@@ -244,14 +244,14 @@ title: "Organiser le contenu dans Canada.ca"
           <li>Service de production de rapports d'assurance-emploi par Internet<span class="glyphicon glyphicon-arrow-right"></span><span class="wb-inv">flèche pointant vers la droite</span><code>assurance-emploi.canada.ca/declaration</code></li>
         </ul>
       </ul>
-      <p><strong>Remarque&nbsp;:</strong> votre gestionnaire de compte peut faire une demande pour un nouveau sous-domaine de Canada.ca ou une demande de changement à l'Éditeur principal en utilisant le<a href="http://requestform.portal.gc.ca/billets.html">Formulaire de demande pour Canada.ca</a>. Les demandes de sous-domaines sont révisées par le Secrétariat du Conseil du Trésor.</p>
+      <p><strong>Remarque&nbsp;:</strong> votre gestionnaire de compte peut faire une demande pour un nouveau sous-domaine de Canada.ca ou une demande de changement à l'Éditeur principal en utilisant le <a href="http://requestform.portal.gc.ca/billets.html">Formulaire de demande pour Canada.ca</a>. Les demandes de sous-domaines sont révisées par le Secrétariat du Conseil du Trésor.</p>
     </section>
   </section>
 </section>
 <h2 id="types">Types de contenu et état du contenu</h2>
 <h3>Types de contenu</h3>
 <p>Un type de contenu est un élément unique qui décrit la nature du contenu de la page.</p>
-<p>Utilisez la<a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#types">liste des types de contenu de Canada.ca</a>, une taxonomie commune, pour classer et filtrer les longues listes de contenu en fonction du type de contenu.</p>
+<p>Utilisez la <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#types">liste des types de contenu de Canada.ca</a>, une taxonomie commune, pour classer et filtrer les longues listes de contenu en fonction du type de contenu.</p>
 <h3>État du contenu</h3>
 <p>Il y a 3 différents états de contenu pour le contenu publié sur Canada.ca&nbsp;:</p>
 <ol>
