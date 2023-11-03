@@ -741,7 +741,7 @@ ul.feeds-cont li a {
                         <dd>
                           <ul>
                             <li>Obligatoire</li>
-                            <li>Mène aux renseignements sur la transparence propres à l’institution prescrits par le Secrétariat du Conseil du Trésor, comme les plans prospectifs de la réglementation et la divulgation proactive</li>
+                            <li>Mène aux renseignements sur la transparence propres à l’institution prescrits par Emploi et Développement social Canada, comme les plans prospectifs de la réglementation et la divulgation proactive</li>
                           </ul>
                         </dd>
                         <dt><strong>Possibilités d’emploi</strong></dt>
@@ -774,7 +774,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>12a : Ministre d’un ministère ou chef d’une institution quasi judiciaire sans lien de dépendance</h4>
+            <h4>12a&nbsp;: Ministre d’un ministère ou chef d’une institution quasi judiciaire sans lien de dépendance</h4>
             <p><span class="label label-warning">Conditionelle</span></p>
             <p>Fournit le profil de chaque ministre ou chef d’institution</p>
             <ul class="list-unstyled">
@@ -813,7 +813,7 @@ ul.feeds-cont li a {
             </ul>
           </section>
           <section>
-            <h4>13 : Section &laquo;&nbsp;En vedette » de l’institution</h4>
+            <h4>13&nbsp;: Section &laquo;&nbsp;En vedette » de l’institution</h4>
             <p><span class="label label-info">Facultative</span></p>
             <p>Fait la promotion des activités en cours de l’institution et menées par celle-ci</p>
             <ul class="list-unstyled">
@@ -829,7 +829,7 @@ ul.feeds-cont li a {
                 <details class="mrgn-bttm-sm">
                   <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Présentation</strong></summary>
                   <ul>
-                    <li>L’étiquette de l’en-tête est &laquo;&nbsp;En vedette ».</li>
+                    <li>L’étiquette de l’en-tête est &laquo;&nbsp;En vedette&nbsp;&raquo;.</li>
                   </ul>
                 </details>
               </li>
@@ -937,7 +937,7 @@ ul.feeds-cont li a {
                       </ul>
                     </li>
                     <li>Les images et les textes sont assortis d’un hyperlien menant à la page de profil ministériel pertinente (voir la section sur les <a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">pages de profil des ministres</a>).</li>
-                    <li>Le texte de l’hyperlien se limite aux titre honorifique, prénom et nom du ministre : L’honorable [nom du ministre].</li>
+                    <li>Le texte de l’hyperlien se limite aux titre honorifique, prénom et nom du ministre&nbsp;: L’honorable [nom du ministre].</li>
                     <li>Le texte non assorti d’un hyperlien se limite au titre officiel des ministres.</li>
                   </ul>
                 </details>
@@ -946,7 +946,7 @@ ul.feeds-cont li a {
                 <details class="mrgn-bttm-sm">
                   <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Présentation</strong></summary>
                   <ul>
-                    <li>Cette composante figure au-dessus de «Renseignements organisationnels ».</li>
+                    <li>Cette composante figure au-dessus de «Renseignements organisationnels&nbsp;&raquo;.</li>
                     <li>Les sujets sont présentés en ordre de priorité, de gauche à droite.</li>
                     <li>Lorsque plus de trois images sont requises, continuez la liste sur une deuxième ligne.</li>
                     <li>Consultez la <a href="http://wet-boew.github.io/themes-dist/GCWeb/index-fr.html">page GitHub sur Canada.ca</a>pour obtenir des détails sur la taille des images.</li>
@@ -958,7 +958,7 @@ ul.feeds-cont li a {
         </section>
       </div>
     </div>
-    <h3 id="organismes">Comment utiliser la configuration &laquo;&nbsp;organismes du portefeuille »</h3>
+    <h3 id="organismes">Comment utiliser la configuration &laquo;&nbsp;organismes du portefeuille&nbsp;&raquo;</h3>
     <div class="btn-group mrgn-bttm-sm">
       <button class="btn btn-default wb-toggle" data-toggle='{"selector": "details", "parent": "#template-elements4", "type": "on"}' type="button">Développer tout</button>
       <button class="btn btn-default wb-toggle" data-toggle='{"selector": "details", "parent": "#template-elements4", "type": "off"}' type="button">Réduire tout</button>
