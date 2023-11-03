@@ -228,7 +228,7 @@ title: "Organiser le contenu dans Canada.ca"
           <li>URL personnalisée pour les médias écrits&nbsp;: canada.ca/assurance-emploi-maternite</li>
           <li>URL personnalisée pour la radio et la télévision&nbsp;: canada.ca/assuranceemploimaternite (à l'oral&nbsp;: &laquo;&nbsp;canada point c a barre oblique assurance emploi maternite&nbsp;&raquo;)</li>
         </ul>
-        <p><strong>Remarque&nbsp;:</strong> votre gestionnaire de compte peut faire une demande pour une nouvelle adresses URL personnalisées et des demandes de changements à l'Éditeur principal en utilisant le<a href="http://requestform.portal.gc.ca/billets.html">Formulaire de demande pour Canada.ca</a>.</p>
+        <p><strong>Remarque&nbsp;:</strong> votre gestionnaire de compte peut faire une demande pour une nouvelle adresses URL personnalisées et des demandes de changements à l'Éditeur principal en utilisant le <a href="http://requestform.portal.gc.ca/billets.html">Formulaire de demande pour Canada.ca</a>.</p>
       </section>
       <h3>Sous-domaines</h3>
       <p>Utilisez des sous-domaines uniquement pour le contenu ou les services hébergés à l'extérieur du Service Web géré.</p>
@@ -244,7 +244,7 @@ title: "Organiser le contenu dans Canada.ca"
           <li>Service de production de rapports d'assurance-emploi par Internet<span class="glyphicon glyphicon-arrow-right"></span><span class="wb-inv">flèche pointant vers la droite</span><code>assurance-emploi.canada.ca/declaration</code></li>
         </ul>
       </ul>
-      <p><strong>Remarque&nbsp;:</strong> votre gestionnaire de compte peut faire une demande pour un nouveau sous-domaine de Canada.ca ou une demande de changement à l'Éditeur principal en utilisant le <a href="http://requestform.portal.gc.ca/billets.html">Formulaire de demande pour Canada.ca</a>. Les demandes de sous-domaines sont révisées par le Secrétariat du Conseil du Trésor.</p>
+      <p><strong>Remarque&nbsp;:</strong> votre gestionnaire de compte peut faire une demande pour un nouveau sous-domaine de Canada.ca ou une demande de changement à l'Éditeur principal en utilisant le <a href="http://requestform.portal.gc.ca/billets.html">Formulaire de demande pour Canada.ca</a>. Les demandes de sous-domaines sont révisées par Emploi et Développement social Canada.</p>
     </section>
   </section>
 </section>
