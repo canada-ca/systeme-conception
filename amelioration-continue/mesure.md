@@ -44,8 +44,8 @@ title: "Suivi et mesure du succès"
 <p>Il est préférable de combiner les mesures avec les tests de convivialité pour valider les améliorations proposées.</p>
 <ul>
   <li><a href="https://conception.canada.ca/retroaction/index.html">Rétroaction sur la page</a></li>
-  <li><a href="https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction">Recueillir la rétroaction, trouver les problèmes</a>(blogue)</li>
-  <li><a href="https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels">L'importance de collaborer avec les centres d'appels</a>(blogue)</li>
+  <li><a href="https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction">Recueillir la rétroaction, trouver les problèmes</a> (blogue)</li>
+  <li><a href="https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels">L'importance de collaborer avec les centres d'appels</a> (blogue)</li>
 </ul>
 <h2 id="continue">Amélioration continue</h2>
 <p>Utilisez les données que vous surveillez (telles que la rétroaction des utilisateurs, l'analytique Web et les recherches sur les utilisateurs) pour trouver des moyens d'améliorer votre contenu. Évaluez les améliorations proposées à l'aide de tests de convivialité.</p>
