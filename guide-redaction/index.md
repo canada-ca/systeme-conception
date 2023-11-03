@@ -1,8 +1,8 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2023-10-12
-description: "Ce guide établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
+dateModified: 2023-10-31
+description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
 ---
@@ -1425,7 +1425,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6> Exemple <span class="wb-inv">de tableau complexe</span></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (1927-2013)</strong>
+        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1458,19 +1458,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <td>Flames de Calgary</td>
             <td class="text-right">1</td>
           </tr>
-          <tr>
-            <td class="small" colspan="10"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
         </tbody>
-        <tfoot>
-        </tfoot>
       </table>
       <h5>Après&nbsp;: tableaux simples</h5>
       <p>Le tableau complexe peut être facilement divisé en tableaux simples.</p>
       <h6>Exemple&nbsp;: un tableau simple</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1506,17 +1501,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <td class="text-right">1</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="3"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
       </table>
       <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de 2 tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
       <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1538,15 +1528,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <td class="text-right">1</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="2"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
       </table>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1564,23 +1549,18 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <td class="text-right">1</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="2"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
       </table>
       <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
       <h6>Exemple: conversion de tableaux en texte </h6>
       <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
-      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
+      <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
       <ul>
         <li>Canadiens de Montréal&nbsp;: 22</li>
         <li>Maple Leafs de Toronto&nbsp;: 11</li>
         <li>Sénateurs d'Ottawa&nbsp;: 1</li>
       </ul>
       <p><strong>Association de l'Ouest de la Ligue nationale de hockey </strong></p>
-      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
+      <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
       <ul>
         <li>Oilers d'Edmonton&nbsp;: 5</li>
         <li>Flames de Calgary&nbsp;: 1</li>
