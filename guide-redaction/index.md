@@ -1776,67 +1776,69 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </figure>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"><strong>Figure 5</strong></figcaption>
-      <img alt="Nombre de page par objectif principal et par audience" class="img-responsive center-block" src="/guide-redaction/images/fig-05-fra.png">
+      <img alt="Figure de la : la description suit" class="img-responsive center-block" src="/guide-redaction/images/organigramme-taux-fixe.png">
       <details>
         <summary>Figure 5 - Version textuelle</summary>
-        <table class="table table-bordered table-condensed">
-          <tbody>
-            <tr class="active">
-              <th>&nbsp;</th>
-              <th class="text-right" scope="col">Éducative</th>
-              <th class="text-right" scope="col">Tâches</th>
-              <th class="text-right" scope="col">Navigation</th>
-              <th class="text-right" scope="col">Soutien</th>
-              <th class="text-right" scope="col">Information</th>
-              <th class="text-right" scope="col">Entreprise</th>
-            </tr>
-            <tr>
-              <th scope="row">Général</th>
-              <td class="text-right">2</td>
-              <td class="text-right">0</td>
-              <td class="text-right">20</td>
-              <td class="text-right">4</td>
-              <td class="text-right">100</td>
-              <td class="text-right">50</td>
-            </tr>
-            <tr>
-              <th scope="row">Étudiants</th>
-              <td class="text-right">2</td>
-              <td class="text-right">2</td>
-              <td class="text-right">1</td>
-              <td class="text-right">5</td>
-              <td class="text-right">50</td>
-              <td class="text-right">0</td>
-            </tr>
-            <tr>
-              <th scope="row">Entreprises</th>
-              <td class="text-right">60</td>
-              <td class="text-right">10</td>
-              <td class="text-right">20</td>
-              <td class="text-right">90</td>
-              <td class="text-right">50</td>
-              <td class="text-right">8</td>
-            </tr>
-            <tr>
-              <th scope="row">Professionnels</th>
-              <td class="text-right">46</td>
-              <td class="text-right">26</td>
-              <td class="text-right">5</td>
-              <td class="text-right">101</td>
-              <td class="text-right">200</td>
-              <td class="text-right">142</td>
-            </tr>
-            <tr>
-              <th scope="row">Avocats</th>
-              <td class="text-right">0</td>
-              <td class="text-right">2</td>
-              <td class="text-right">4</td>
-              <td class="text-right">0</td>
-              <td class="text-right">300</td>
-              <td class="text-right">300</td>
-            </tr>
-          </tbody>
-        </table>
+        <p>L'organigramme vous présente des questions que vous pouvez répondre par oui ou non. Si vous répondez &laquo;&nbsp;&nbsp;non&nbsp;», il vous recommande d'autres projets d'accessibilité.</p>
+        <section>
+          <p><strong>Question&nbsp;1&nbsp;:</strong> L’entrée de votre immeuble est-elle exempte d’obstacles ?</p>
+          <ul>
+            <li>Si votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;, passez à la question&nbsp;2.</li>
+            <li>Si votre réponse est &laquo;&nbsp;Non&nbsp;&raquo;&nbsp;:
+              <ul>
+                <li>des rampes, des portes accessibles, un stationnement réservé et le nivellement du terrain peuvent améliorer l’accessibilité de votre immeuble.</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question&nbsp;2&nbsp;:</strong> Les couloirs sont-ils assez larges pour permettre aux personnes utilisant des appareils fonctionnels, comme les fauteuils roulants électriques, de passer ?</p>
+          <ul>
+            <li>Si  votre réponse est &laquo;&nbsp;Oui &nbsp;&raquo;, passez à la question&nbsp;3.</li>
+            <li>Si  votre réponse est &laquo;&nbsp;Non&nbsp;&raquo;&nbsp;:
+              <ul>
+                <li>élargir les couloirs et les portes, ou installer des ouvre-portes automatiques, des ascenseurs ou des plateformes élévatrices pourrait éliminer les obstacles dans votre immeuble.</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question&nbsp;3&nbsp;:</strong> Les personnes en situation de handicap peuvent-elles accéder à l’ensemble des  étages, niveaux et sections nécessaires de votre immeuble ?</p>
+          <ul>
+            <li>Si  votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;, passez à la question&nbsp;4.</li>
+            <li>Si  votre réponse est &laquo;&nbsp;Non &nbsp;&raquo;&nbsp;:
+              <ul>
+                <li>élargir les couloirs et les portes, ou installer des ouvre-portes automatiques, des ascenseurs ou des plateformes élévatrices pourrait éliminer les obstacles dans votre immeuble.</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question&nbsp;4&nbsp;:</strong> Les  personnes à mobilité réduite peuvent-elles utiliser les toilettes de votre  immeuble ?</p>
+          <ul>
+            <li>Si  votre réponse est &laquo;&nbsp;Oui &nbsp;&raquo;, passez à la question&nbsp;5.</li>
+            <li>Si  votre réponse est &laquo;&nbsp;Non&nbsp;&raquo;&nbsp;:
+              <ul>
+                <li>des  toilettes accessibles ou une cabine accessible devraient être disponibles dans tous les édifices.&nbsp; </li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <p><strong>Question&nbsp;5&nbsp;:</strong> Les  toilettes sont-elles équipées d’ouvre-portes automatiques ? L’entrée des toilettes est-elle assez large pour accueillir des appareils fonctionnels ?</p>
+          <ul>
+            <li>Si  votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;&nbsp;:
+              <ul>
+                <li>félicitations!  Voici quelques exemples d’autres projets d’accessibilité financés par le Fonds pour l’accessibilité (FA)&nbsp;: éléments relatifs à la sûreté et la sécurité,  comme des alarmes incendie visuelles; pièces multisensorielles; appareils auditifs à boucle; et plus encore !</li>
+              </ul>
+            </li>
+            <li>&nbsp;Si votre réponse est &laquo;&nbsp;Non &nbsp;&raquo;&nbsp;:
+              <ul>
+                <li>élargir  les couloirs et les portes, ou installer des ouvre-portes automatiques, des  ascenseurs ou des plateformes élévatrices pourrait éliminer les obstacles dans  votre immeuble.</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
       </details>
     </figure>
   </section>
