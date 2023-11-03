@@ -189,13 +189,13 @@ title: "Pages des publics cibles - Modèle obligatoire de Canada.ca"
 <section>
   <h2 id="exemples">Exemples concrets</h2>
   <ul>
-    <li><a href="http://wet-boew.github.io/themes-dist/GCWeb/gc-audience-fr.html">Exemple concret en français</a>(sur GitHub)</li>
-    <li><a href="http://wet-boew.github.io/themes-dist/GCWeb/gc-audience-en.html">Exemple concret en anglais</a>(sur GitHub)</li>
+    <li><a href="http://wet-boew.github.io/themes-dist/GCWeb/gc-audience-fr.html">Exemple concret en français</a> (sur GitHub)</li>
+    <li><a href="http://wet-boew.github.io/themes-dist/GCWeb/gc-audience-en.html">Exemple concret en anglais</a> (sur GitHub)</li>
   </ul>
 </section>
 <section>
   <h2 id="navigation">Navigation de l’utilisateur</h2>
-  <p>Lorsqu’une page axée sur le public du gouvernement est utilisée, elle est accessible à partir des pages Web suivantes :</p>
+  <p>Lorsqu’une page axée sur le public du gouvernement est utilisée, elle est accessible à partir des pages Web suivantes&nbsp;:</p>
   <ul>
     <li>page d’accueil;</li>
     <li>page dont le sujet s’applique au public visé;</li>
