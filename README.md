@@ -6,6 +6,7 @@ La spécification 2.0 ne contiendrait que les parties obligatoires du système d
 
 La première étape consistera à copier les modèles actuels dans ce dépôt.
 
-La vision serait alors d'améliorer progressivement chaque modèle et de le transformer en code utilisable (plutôt qu'en images) avec des instructions. Nous pourrions également avoir une bibliothèque séparée de [&laquo;&nbsp;modèles expérimentaux&laquo;&nbsp;](https://github.com/canada-ca/design-system-systeme-conception), que nous pourrions ouvrir à toute la communauté. Nous devrons éventuellement élaborer un processus impliquant la communauté pour qu'un modèle passe de &laquo;&nbsp;expérimental&nbsp;&raquo;
+La vision serait alors d'améliorer progressivement chaque modèle et de le transformer en code utilisable (plutôt qu'en images) avec des instructions. Nous pourrions également avoir une bibliothèque séparée de [&laquo;&nbsp;modèles expérimentaux&nbsp;&raquo;
+](https://github.com/canada-ca/design-system-systeme-conception), que nous pourrions ouvrir à toute la communauté. Nous devrons éventuellement élaborer un processus impliquant la communauté pour qu'un modèle passe de &laquo;&nbsp;expérimental&nbsp;&raquo;
  à &laquo;&nbsp;approuvé&nbsp;&raquo;
 .
