@@ -1779,7 +1779,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <img alt="Figure de la : la description suit" class="img-responsive center-block" src="/guide-redaction/images/organigramme-taux-fixe.png">
       <details>
         <summary>Figure 5 - Version textuelle</summary>
-        <p>L'organigramme vous présente des questions que vous pouvez répondre par oui ou non. Si vous répondez &laquo;&nbsp;&nbsp;non&nbsp;», il vous recommande d'autres projets d'accessibilité.</p>
+        <p class="mrgn-tp-lg">L'organigramme vous présente des questions que vous pouvez répondre par oui ou non. Si vous répondez &laquo;&nbsp;&nbsp;non&nbsp;», il vous recommande d'autres projets d'accessibilité.</p>
         <section>
           <p><strong>Question&nbsp;1&nbsp;:</strong> L’entrée de votre immeuble est-elle exempte d’obstacles ?</p>
           <ul>
