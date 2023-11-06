@@ -67,6 +67,7 @@ Si vous recevez un message concernant une menace particulière ou une crise pers
 La personne émettant ce type de menace ne définit pas de cible particulière (« vous autres », « ces gens-là », « le gouvernement »).
 
 La menace est hypothétique (« Si je vais au bureau, je vais blesser quelqu’un. »)
+
 Mesures à prendre
 
 * Conservez une copie du commentaire ainsi que la date et l’heure de sa soumission.
