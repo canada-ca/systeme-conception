@@ -19,7 +19,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#toc1">Sommaire des changements</a></li>
             <li><a href="#toc2">But du document</a></li>
             <li><a href="#toc3">Application</a></li>
-            <li><a href="#toc4">Politiques, normes et procédures connexes</a></li>
             <li><a href="#toc5">1.0 Principes de rédaction pour le contenu Web</a></li>
             <li><a href="#toc6">2.0 Langage clair et simple</a></li>
             <li><a href="#toc7">3.0 Ton</a></li>
@@ -28,6 +27,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#toc10">6.0 Images et vidéos</a></li>
             <li><a href="#toc11">7.0 Liens</a></li>
             <li><a href="#toc12">Refonte de contenu Web</a></li>
+            <li><a href="#toc4">Politiques, normes et procédures connexes</a></li>
             <li><a href="#toc13">Ressources</a></li>
           </ul>
         </div>
@@ -55,25 +55,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>Tous les ministères et les autres secteurs de l’administration publique fédérale qui sont assujettis à la Directive sur la gestion des communications doivent appliquer le Guide de rédaction du contenu du site Canada.ca. Ces organisations doivent respecter les normes décrites dans ce guide lorsqu’elles élaborent des sites Web ou des services numériques destinés au public, et ce, peu importe la technologie, le nom de domaine ou la plateforme qu’elles utilisent. Cette exigence est prévue à l’annexe D, Procédure obligatoire relative à l’utilisation des médias sociaux et aux communications sur le Web, de <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">la Directive sur la gestion des communications</a>.</p>
   <h3>Institutions non visées par le présent guide</h3>
   <p>Les institutions qui ne sont pas visées par la Directive sur la gestion des communications n’ont pas à suivre le présent guide. Toutefois, elles sont encouragées à le faire pour leurs produits Web internes et externes. Le fait de respecter les règles et les conseils décrits dans ce guide permettra de rendre le contenu Web du gouvernement facile à trouver, à comprendre et à utiliser pour toute personne.</p>
-</section>
-<section id="toc4">
-  <h2>Politiques, normes et procédures connexes</h2>
-  <p>Votre contenu doit se conformer aux&nbsp;:</p>
-  <ul>
-    <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite></li>
-    <li>exigences énoncées dans les instruments&nbsp;législatifs et politiques, notamment&nbsp;:
-      <ul>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683">Politique sur les communications et l'image de marque</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite></li>
-        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601">Norme sur l'accessibilité des sites Web </a></cite></li>
-        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875">Norme sur l'interopérabilité du Web</a></cite></li>
-        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088">Norme sur l'optimisation des sites Web et des applications pour appareils mobiles </a></cite></li>
-        <li><cite><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/conseils-edition-gouvernement.html">Conseils sur l'édition de produits de communications</a></cite></li>
-        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition </a></cite></li>
-        <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/O-3.01/">Loi sur les langues officielles </a></cite></li>
-      </ul>
-    </li>
-  </ul>
 </section>
 <section id="toc5">
   <h2>1.0 Principes de rédaction pour le contenu Web</h2>
@@ -2945,6 +2926,25 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>veillé à ce que les en-têtes des 3 colonnes numériques correspondent à la valeur unitaire indiquée dans chaque colonne;</li>
     <li>ajouté des zéros afin de fournir des renseignements pertinents dans les cellules qui auraient autrement été laissées vides;</li>
     <li>supprimé les cellules et les rangées vides ainsi que les sous-titres non pertinents (c'est-à-dire, ceux qui ne correspondaient à aucune valeur sous les en-têtes de colonne).</li>
+  </ul>
+</section>
+<section id="toc4">
+  <h2>Politiques, normes et procédures connexes</h2>
+  <p>Votre contenu doit se conformer aux&nbsp;:</p>
+  <ul>
+    <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite></li>
+    <li>exigences énoncées dans les instruments&nbsp;législatifs et politiques, notamment&nbsp;:
+      <ul>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683">Politique sur les communications et l'image de marque</a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite></li>
+        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601">Norme sur l'accessibilité des sites Web </a></cite></li>
+        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875">Norme sur l'interopérabilité du Web</a></cite></li>
+        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088">Norme sur l'optimisation des sites Web et des applications pour appareils mobiles </a></cite></li>
+        <li><cite><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/conseils-edition-gouvernement.html">Conseils sur l'édition de produits de communications</a></cite></li>
+        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition </a></cite></li>
+        <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/O-3.01/">Loi sur les langues officielles </a></cite></li>
+      </ul>
+    </li>
   </ul>
 </section>
 <section id="toc13">
