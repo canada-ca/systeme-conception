@@ -50,7 +50,10 @@ Il est important de s’engager à lire et à examiner la rétroaction soumise e
 Dans certains cas, les gens donneront leur avis sur un certain programme ou une certaine politique. Le traitement d’une question de politique dépasse le champ d’action des équipes Web. Il est donc important de communiquer cette rétroaction à des collègues responsables des programmes et des politiques.
 
 ### Reconnaître et gérer les menaces
-Avant de mettre en œuvre l’outil de rétroaction sur la page, veillez à ce que votre organisme dispose d’un processus en place pour gérer les rétroactions menaçantes. Il est possible qu’un processus similaire soit déjà documenté pour les menaces reçues par courriel, ou par le biais des médias sociaux ou des centres d’appel. Bien que les menaces soient rares, l’utilisation de boîtes de texte libres présente tout de même un risque. Il est donc important de s’y préparer.
+Avant de mettre en œuvre l’outil de rétroaction sur la page, veillez à ce que votre organisme dispose d’un processus en place pour gérer les rétroactions menaçantes. Il est possible qu’un processus similaire soit déjà documenté pour les menaces reçues par courriel, ou par le biais des médias sociaux ou des centres d’appel.
+
+Bien que les menaces soient rares, l’utilisation de boîtes de texte libres présente tout de même un risque. Il est donc important de s’y préparer.
+
 En fonction de la nature de la menace, différentes étapes s’imposent.
 
 ### Menace particulière ou crise personnelle
