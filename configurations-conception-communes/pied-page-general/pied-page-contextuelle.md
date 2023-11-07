@@ -158,7 +158,7 @@ title: "Pied de page général&nbsp;: Bande contextuelle"
         <summary><strong>Drupal WxT</strong></summary>
         <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
         <ul>
-          <li><a href="https://drupalwxt.github.io/en/">Documentation Drupal WxT (en anglais seulement)</a></li>
+          <li><a href="https://drupalwxt.github.io/">Documentation Drupal WxT (en anglais seulement)</a></li>
         </ul>
         <p class="mrgn-tp-lg">Mise à jour du pied de page de 2023&nbsp;:</p>
         <ul>

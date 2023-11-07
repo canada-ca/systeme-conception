@@ -1,8 +1,8 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2023-08-24
-description: "Ce guide établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
+dateModified: 2023-10-31
+description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
 ---
@@ -273,12 +273,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h5>Exemple d'énoncé direct</h5>
       <p><strong>Écrivez</strong>&nbsp;<strong></strong>: Présentez votre passeport à l'agent à l'aéroport. <br>
         <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l'agent qui vous accueille à l'aéroport.</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp2-1" aria-label="Voyez comment la règle sur la pyramide inversée s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20du%20modèle%20de%20la%20pyramide%20inversée%20pour%20organiser%20le%20contenu%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-1" aria-label="Partage la règle sur l'utilisation du modèle de la pyramide inversée par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
     </section>
+    <h4>Voyez comment la règle sur la pyramide inversée s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-1">2.1 Start with the most important information</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la pyramide inversée", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+    </div>
   </section>
   <section id="wp2-2">
     <h3>2.2 Utiliser des mots simples et courants</h3>
@@ -294,10 +296,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <strong>Au lieu de</strong>&nbsp;: préalablement</p>
     <p><strong>Écrivez</strong>&nbsp;: tous les 2 ans<br>
       <strong>Au lieu de</strong>&nbsp;: bisannuellement</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-2" aria-label="Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20mots%20simples%20et%20courants%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-2" aria-label="Diffusez la règle sur l'utilisation des mots simples et courants par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.2 Use simple and common words</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation des mots simples et courants", "title": "2.2 Utiliser des mots simples et courants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
     </div>
   </section>
   <section id="wp2-3">
@@ -328,12 +332,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p class="mrgn-tp-lg">Lorsqu'une action risque d'entraîner de graves conséquences, vous pouvez utiliser la forme négative pour expliquer que l'action est impossible ou doit être évitée.</p>
       <h5>Exemples d'utilisation de la forme négative pour quelque chose pouvant avoir des conséquences graves</h5>
       <p><strong>Écrivez&nbsp;: N</strong>'essayez <strong>pas</strong> de trouver la source de monoxyde de carbone. Sortez immédiatement pour respirer de l'air frais.</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp2-3" aria-label="Voyez comment la règle sur l'utilisation de la voix active et de la forme positive s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20la%20voix%20active%20et%20de%20la%20forme%20positive%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-3" aria-label="Diffusez la règle sur l'utilisation de la voix active et de la forme positive par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
     </section>
+    <h4>Voyez comment la règle sur l'utilisation de la voix active et de la forme positive s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use active voice and positive form</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de la voix active et de la forme positive", "title": "2.3 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
+    </div>
   </section>
   <section id="wp2-4">
     <h3>2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</h3>
@@ -346,10 +352,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p><strong>Écrivez&nbsp;</strong>: modifier la page<br>
       <strong>Au lieu de</strong>&nbsp;: apporter une modification à la page</p>
     <p>Utilisez le verbe dans sa forme la plus simple. Si possible, utilisez le présent.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-4" aria-label="Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20la%20forme%20verbale%20plutôt%20que%20la%20forme%20nominale%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-4" aria-label="Partagez la règle sur l'utilisation de la forme verbale plutôt que la forme nominale par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la r&#232;gle sur l&#8217;utilisation de la forme verbale qui s&#8217;applique &#224; un contenu", "title": "2.4 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
     </div>
   </section>
   <section id="wp2-5">
@@ -371,10 +379,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <strong>Au lieu de</strong>&nbsp;: Vous devez nous envoyer votre T1 d'ici le 30 avril.</p>
     <p><strong>Écrivez</strong> <strong></strong>: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à épargner assez d'argent pour la retraite.<br>
       <strong>Au lieu de</strong>&nbsp;: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à vous constituer un bas de laine pour votre retraite.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-5" aria-label="Voyez comment la règle sur le jargon et les expressions familières ou imagées s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20jargon%20et%20les%20expressions%20familières%20ou%20imagées%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-5" aria-label="Partagez la règle sur le jargon et les expressions familières ou imagées par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur le jargon et les expressions familières ou imagées s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-5">2.5 Avoid jargon, idioms and expressions</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le jargon et les expressions familières ou imagées", "title": "2.5 Éviter le jargon et les expressions familières ou imagées", "url": "https://conception.canada.ca/guide-redaction/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
     </div>
     <h4>Identifiez les mots-clés que votre public utilise pour trouver votre contenu</h4>
     <p>Voici des outils pour vous aider à identifier les termes de recherche les plus populaires&nbsp;:</p>
@@ -399,10 +409,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p><strong>Écrivez</strong>&nbsp;: Vous avez jusqu'au 30&nbsp;avril pour soumettre votre déclaration de revenus.<br>
       <strong>Au lieu de</strong>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30&nbsp;avril.</p>
     <p>Pour aider les gens à comprendre le sens d'une phrase longue, entourez-la de phrases courtes.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-6" aria-label="Voyez comment la règle sur les phrases simples s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20phrases%20simples%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-6" aria-label="Partagez la règle sur les phrases simples par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur les phrases simples s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-6">2.6 Use simple sentences</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les phrases simples", "title": "2.6 Utiliser des phrases simples", "url": "https://conception.canada.ca/guide-redaction/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-6"}'></div>
     </div>
   </section>
   <section id="wp2-7">
@@ -427,10 +439,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>utilisez des listes d'éléments pour présenter une série de plus de 2 idées ou de mots;</li>
       <li>utilisez une forme plus courte au lieu de répéter un titre long.</li>
     </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-7" aria-label="Voyez comment la règle sur les phrases et paragraphes courts s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20phrases%20et%20paragraphes%20courts%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-7" aria-label="Partagez la règle sur les phrases et paragraphes courts par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur les phrases et paragraphes courts s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-7">2.7 Use short sentences and paragraphs</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les phrases et paragraphes courts", "title": "2.7 Utiliser des phrases et des paragraphes courts", "url": "https://conception.canada.ca/guide-redaction/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
     </div>
   </section>
   <section id="wp2-8">
@@ -444,10 +458,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html">Loi sur la citoyenneté</a></cite>, article 5.1</li>
     </ul>
     <p><strong>Au lieu de</strong>&nbsp;: Après l'arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l'enfant en vertu de l'article&nbsp;5.1 de la <cite>Loi sur la citoyenneté</cite>.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-8" aria-label="Voyez comment la règle sur les références aux lois s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20références%20aux%20lois%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-8" aria-label="Partagez la règle sur les références aux lois par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur les références aux lois s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-8">2.8 Explain references to legislation</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les références aux lois", "title": "2.8 Expliquer les références aux lois", "url": "https://conception.canada.ca/guide-redaction/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
     </div>
   </section>
   <section id="wp2-9">
@@ -503,12 +519,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>présenter les tâches principales sous forme de listes à puces ou numérotées.</li>
       </ul>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp2-9" aria-label="Voyez comment la règle sur l'évaluation de la lisibilité du contenu s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'évaluation%20de%20la%20lisibilité%20du%20contenu%20du%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp2-9" aria-label="Partagez la règle sur l'évaluation de la lisibilité du contenu par courriel">Diffusez cette règle par courriel</a></p>
-    </div>
   </section>
+  <h4>Voyez comment la règle sur l'évaluation de la lisibilité du contenu s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-9">2.9 Check the reading level of the content</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;évaluation de la lisibilité du contenu", "title": "2.9 Vérifier la lisibilité de votre contenu", "url": "https://conception.canada.ca/guide-redaction/#wp2-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-9"}'></div>
+  </div>
 </section>
 <section id="toc7">
   <h2>3.0 Ton</h2>
@@ -580,10 +598,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Au lieu de</strong>&nbsp;: Comment dois-je renouveler mon passeport?</p>
       <h5>Exception</h5>
       <p>Vous pouvez utiliser &laquo;&nbsp;mon&nbsp;&raquo;, &laquo;&nbsp;ma&nbsp;&raquo;, &laquo;&nbsp;mes&nbsp;&raquo;&nbsp;dans le contenu, les titres de page et les liens lorsqu'il s'agit de <strong>noms&nbsp;propres </strong>(par exemple, Mon dossier Service Canada).</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp3-1" aria-label="Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20de%20s'adresser%20directement%20à%20la%20personne%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp3-1" aria-label="Partagez la règle sur la manière de s'adresser directement à la personne par courriel">Diffusez cette règle par courriel</a></p>
+      <h4>Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise</h4>
+      <ul>
+        <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-1">3.1 Write directly to the person</a></span></li>
+      </ul>
+      <div class="mrgn-tp-lg">
+        <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de s&#8217;adresser directement à la personne", "title": "3.1 Écrire directement à la personne", "url": "https://conception.canada.ca/guide-redaction/#wp3-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-1"}'></div>
       </div>
     </section>
   </section>
@@ -623,14 +643,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
         <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp3-2" aria-label="Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20de%20désigner%20le%20gouvernement%20du%20Canada%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp3-2" aria-label="Partagez la règle sur la manière de désigner le gouvernement du Canada par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-2">3.2 Use "we" to refer to the Government of Canada</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de désigner le gouvernement du Canada", "title": "3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada", "url": "https://conception.canada.ca/guide-redaction/#wp3-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-2"}'></div>
     </div>
   </section>
   <section id="wp3-3">
-    <h3>3.3 Exprimer une obligation ou une recommandation </h3>
+    <h3>3.3 Exprimer une obligation ou une recommandation</h3>
     <p>Le gouvernement publie des règles, des renseignements et des instructions qui relèvent d'une loi. Nous fournissons également des conseils sur la façon de les suivre.</p>
     <section id="wp3-3-1">
       <h4>Exprimer une obligation</h4>
@@ -643,167 +665,173 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <section id="wp3-3-2">
       <h4>Exprimer une recommandation </h4>
       <p>Lorsque vous dites aux gens qu'une chose est permise sans être obligatoire, utilisez un vocabulaire qui dénote la permission ou la possibilité, tel que &laquo;&nbsp;pourriez&nbsp;&raquo; ou &laquo;&nbsp;pouvez&nbsp;&raquo;.</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp3-3" aria-label="Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20manière%20d'exprimer%20une%20obligation%20ou%20une%20recommandation%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp3-3" aria-label="Diffusez la règle sur la manière d'exprimer une obligation ou une recommandation par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
     </section>
+    <h4>Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-3">3.3 Expressing an obligation or a recommendation</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière d&#8217;exprimer une obligation ou une recommandation", "title": "3.3 Exprimer une obligation ou une recommandation", "url": "https://conception.canada.ca/guide-redaction/#wp3-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-3"}'></div>
+    </div>
   </section>
-  <section id="toc8">
-    <h2>4.0 Style de présentation</h2>
-    <div class="row mrgn-tp-lg">
-      <div class="col-md-8">
-        <div class="panel panel-default">
-          <div class="panel-body">
-            <h3 class="mrgn-tp-sm">Dans cette section</h3>
-            <ul>
-              <li><a href="#wp4-1">4.1 Majuscules et ponctuation</a>
-                <ul>
-                  <li><a href="#wp4-1-1">Mot tout en majuscules</a></li>
-                  <li><a href="#wp4-1-2">Titres et sous-titres</a></li>
-                  <li><a href="#wp4-1-3">Listes d'éléments</a></li>
-                </ul>
-              </li>
-              <li><a href="#wp4-2">4.2 Soulignement, caractères gras et italique</a></li>
-              <li><a href="#wp4-3">4.3 Symboles</a></li>
-              <li><a href="#wp4-4">4.4 Abréviations, acronymes et référence</a>
-                <ul>
-                  <li><a href="#wp4-4-1">Citer des exemples</a></li>
-                </ul>
-              </li>
-              <li><a href="#wp4-5">4.5 Forme contractée</a></li>
-              <li><a href="#wp4-6">4.6 Nombres</a></li>
-              <li><a href="#wp4-7">4.7 Dates</a></li>
-              <li><a href="#wp4-8">4.8 Heures</a></li>
-              <li><a href="#wp4-9">4.9 Numéros de téléphone</a></li>
-              <li><a href="#wp4-10">4.10 Adresses</a></li>
-            </ul>
-          </div>
+</section>
+<section id="toc8">
+  <h2>4.0 Style de présentation</h2>
+  <div class="row mrgn-tp-lg">
+    <div class="col-md-8">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h3 class="mrgn-tp-sm">Dans cette section</h3>
+          <ul>
+            <li><a href="#wp4-1">4.1 Majuscules et ponctuation</a>
+              <ul>
+                <li><a href="#wp4-1-1">Mot tout en majuscules</a></li>
+                <li><a href="#wp4-1-2">Titres et sous-titres</a></li>
+                <li><a href="#wp4-1-3">Listes d'éléments</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp4-2">4.2 Soulignement, caractères gras et italique</a></li>
+            <li><a href="#wp4-3">4.3 Symboles</a></li>
+            <li><a href="#wp4-4">4.4 Abréviations, acronymes et référence</a>
+              <ul>
+                <li><a href="#wp4-4-1">Citer des exemples</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp4-5">4.5 Forme contractée</a></li>
+            <li><a href="#wp4-6">4.6 Nombres</a></li>
+            <li><a href="#wp4-7">4.7 Dates</a></li>
+            <li><a href="#wp4-8">4.8 Heures</a></li>
+            <li><a href="#wp4-9">4.9 Numéros de téléphone</a></li>
+            <li><a href="#wp4-10">4.10 Adresses</a></li>
+          </ul>
         </div>
       </div>
     </div>
-    <p>Sur le Web, un style de présentation du contenu allégé est plus facile à lire. Simplifiez la présentation et évitez la ponctuation excessive ou complexe. Le formatage (tel que les caractères gras, l'italique ou le soulignement) et la ponctuation complexe peuvent distraire les lecteurs et nuire à la compréhension.</p>
-    <section id="wp4-1">
-      <h3>4.1 Majuscules et ponctuation</h3>
-      <p>Ayez recours aux styles décrits ci-après pour les majuscules et la ponctuation dans les textes, les liens et les applications.</p>
-      <section id="wp4-1-1">
-        <h4>Mot tout en majuscules</h4>
-        <p>Évitez d'écrire toutes les lettres d'un mot en majuscules.</p>
-        <h5>Exceptions</h5>
-        <ul>
-          <li>Abréviations (à utiliser seulement si nécessaire)</li>
-          <li>Noms d'exercices ou d'opérations militaires (par exemple, l'opération PROVISION)</li>
-          <li>Le nom de famille de l’auteur dans une notice bibliographique (NOM DE FAMILLE, Prénom.)</li>
-        </ul>
-      </section>
-      <section id="wp4-1-2">
-        <h4>Titres et sous-titres</h4>
-        <p>Omettez la ponctuation à la fin des titres, titres de sections, sous-titres, légendes et en-têtes de tableaux.</p>
-        <h5>Exceptions</h5>
-        <ul>
-          <li>Cette règle ne s'applique pas aux slogans.</li>
-          <li>Utilisez le point d'interrogation uniquement lorsqu'on demande aux gens de fournir des renseignements dans un formulaire, un questionnaire ou un sondage.</li>
-        </ul>
-        <h5>Exemple de point d'interrogation dans un formulaire, un questionnaire ou un sondage</h5>
-        <figure class="mrgn-bttm-lg">
-          <figcaption class="text-center"><strong>Figure 3</strong></figcaption>
-          <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="/guide-redaction/images/fig-03-fra.jpg">
-          <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
-            <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
-            <p>Une page Web contenant un sous-titre écrit sous forme de question.</p>
-            <ul>
-              <li>Titre de page
-                <ul>
-                  <li>Déterminez si vous devez facturer la TPS/TVH</li>
-                </ul>
-              </li>
-              <li>Résumé de la page en langage clair et simple
-                <ul>
-                  <li>Répondez à quelques questions afin de savoir si vous devez facturer ou percevoir la taxe et vous inscrire pour obtenir un numéro de compte de TPS/TVH. Les entreprises à faible revenu et celles qui offrent certains biens et services pourraient ne pas avoir à facturer la TPS/TVH.</li>
-                </ul>
-              </li>
-              <li>Sous-titre
-                <ul>
-                  <li>Est-ce que vous ou votre organisation avez déjà un compte de TPS/TVH?</li>
-                </ul>
-              </li>
-              <li>2 choix de réponse à sélectionner
-                <ul>
-                  <li>Oui</li>
-                  <li>Non</li>
-                </ul>
-              </li>
-              <li>Bouton pour poursuivre la tâche
-                <ul>
-                  <li>Suivant</li>
-                </ul>
-              </li>
-            </ul>
-          </details>
-        </figure>
-      </section>
-      <section id="wp4-1-3">
-        <h4>Listes d'éléments</h4>
-        <ul>
-          <li>Évitez d'avoir plus d'une (1) phrase par élément.</li>
-          <li>Ne mettez pas de point d'exclamation ou d'interrogation après les éléments d'une liste.</li>
-        </ul>
-        <p>Lorsque les listes à puces forment des éléments distincts sur le plan grammatical ou si elles sont introduites par un sous-titre, mettez la première lettre de chaque élément en majuscule.</p>
-        <h5>Exemples de listes à puces indépendantes</h5>
-        <p><strong>En demande</strong></p>
-        <ul>
-          <li><a href="http://www.entreprisescanada.ca/fra/page/2852/pof-191/">Financement pour votre nouvelle entreprise</a></li>
-          <li><a href="http://www.entreprisescanada.ca/fra/page/2772/">Financement pour l'innovation</a></li>
-          <li><a href="http://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/fra/h_la00007.html">Trouvez un prêt pour votre entreprise</a></li>
-          <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/subvention-emploi/employeurs.html">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
-        </ul>
-        <p class="mrgn-tp-lg">Lorsque le sens des éléments d'une liste à puces dépend d'une phrase d'introduction, mettez la première lettre de chaque élément en minuscule, sauf s'il s'agit d'un nom propre.</p>
-        <h5>Exemples d'une liste à puces dont le sens dépend d'une phrase d'introduction</h5>
-        <p>Les représentants peuvent être&nbsp;:</p>
-        <ul>
-          <li>des consultants en citoyenneté ou en immigration;</li>
-          <li>des avocats;</li>
-          <li>d'autres représentants.</li>
-        </ul>
-      </section>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp4-1" aria-label="Voyez comment la règle sur les majuscules et la ponctuation s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20les%20majuscules%20et%20la%20ponctuation%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-1" aria-label="Diffusez la règle sur les majuscules et la ponctuation par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
-    </section>
-    <section id="wp4-2">
-      <h3>4.2 Soulignement, caractères gras et italique</h3>
-      <p>Le style de présentation doit faire ressortir les renseignements les plus importants sur la page Web.</p>
-      <p>Ne combinez pas les styles, comme le soulignement et les caractères gras, sauf s'il s'agit du texte en hyperlien sur une page de sujet.</p>
-      <h4>Soulignement</h4>
-      <p>Utilisez le soulignement seulement pour les liens.</p>
-      <h4>Caractères gras</h4>
-      <p>Utilisez les caractères gras pour mettre du texte en évidence, <strong>mais</strong> utilisez-les avec modération: plus vous faites usage de cette mise en forme, moins elle est efficace.</p>
-      <h4>Italique</h4>
-      <p>Les personnes qui ont une dyslexie ou d'autres troubles de lecture pourraient avoir de la difficulté à lire un texte en italique.</p>
-      <p>N'utilisez pas l'italique&nbsp;:</p>
+  </div>
+  <p>Sur le Web, un style de présentation du contenu allégé est plus facile à lire. Simplifiez la présentation et évitez la ponctuation excessive ou complexe. Le formatage (tel que les caractères gras, l'italique ou le soulignement) et la ponctuation complexe peuvent distraire les lecteurs et nuire à la compréhension.</p>
+  <section id="wp4-1">
+    <h3>4.1 Majuscules et ponctuation</h3>
+    <p>Ayez recours aux styles décrits ci-après pour les majuscules et la ponctuation dans les textes, les liens et les applications.</p>
+    <section id="wp4-1-1">
+      <h4>Mot tout en majuscules</h4>
+      <p>Évitez d'écrire toutes les lettres d'un mot en majuscules.</p>
+      <h5>Exceptions</h5>
       <ul>
-        <li>à des fins de mise en page ou de décoration;</li>
-        <li>pour faire ressortir un mot ou une phrase (utilisez plutôt les caractères gras avec modération);</li>
-        <li>pour de longs passages, des citations, par exemple;</li>
-        <li>dans les titres de page.</li>
+        <li>Abréviations (à utiliser seulement si nécessaire)</li>
+        <li>Noms d'exercices ou d'opérations militaires (par exemple, l'opération PROVISION)</li>
+        <li>Le nom de famille de l’auteur dans une notice bibliographique (NOM DE FAMILLE, Prénom.)</li>
       </ul>
-      <p>Consultez <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">Le guide du rédacteur</a></cite> dans les cas suivants&nbsp;:</p>
-      <ul>
-        <li>les titres de livres, de journaux, de revues et d'œuvres d'art (article 5.2.1);</li>
-        <li>les titres de lois (article 5.2.2);</li>
-        <li>les mots ou abréviations en latin (article 5.3.3);</li>
-        <li>les mots en langue étrangère (article 5.3.4);</li>
-        <li>les lettres de l'alphabet (article 5.4.1).</li>
-      </ul>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp4-2" aria-label="Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20caractères%20gras,%20de%20l'italique%20et%20du%20soulignement%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-2" aria-label="Diffusez la règle sur les caractères gras, l'italique et le soulignement par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
     </section>
+    <section id="wp4-1-2">
+      <h4>Titres et sous-titres</h4>
+      <p>Omettez la ponctuation à la fin des titres, titres de sections, sous-titres, légendes et en-têtes de tableaux.</p>
+      <h5>Exceptions</h5>
+      <ul>
+        <li>Cette règle ne s'applique pas aux slogans.</li>
+        <li>Utilisez le point d'interrogation uniquement lorsqu'on demande aux gens de fournir des renseignements dans un formulaire, un questionnaire ou un sondage.</li>
+      </ul>
+      <h5>Exemple de point d'interrogation dans un formulaire, un questionnaire ou un sondage</h5>
+      <figure class="mrgn-bttm-lg">
+        <figcaption class="text-center"><strong>Figure 3</strong></figcaption>
+        <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="/guide-redaction/images/fig-03-fra.jpg">
+        <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
+          <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
+          <p>Une page Web contenant un sous-titre écrit sous forme de question.</p>
+          <ul>
+            <li>Titre de page
+              <ul>
+                <li>Déterminez si vous devez facturer la TPS/TVH</li>
+              </ul>
+            </li>
+            <li>Résumé de la page en langage clair et simple
+              <ul>
+                <li>Répondez à quelques questions afin de savoir si vous devez facturer ou percevoir la taxe et vous inscrire pour obtenir un numéro de compte de TPS/TVH. Les entreprises à faible revenu et celles qui offrent certains biens et services pourraient ne pas avoir à facturer la TPS/TVH.</li>
+              </ul>
+            </li>
+            <li>Sous-titre
+              <ul>
+                <li>Est-ce que vous ou votre organisation avez déjà un compte de TPS/TVH?</li>
+              </ul>
+            </li>
+            <li>2 choix de réponse à sélectionner
+              <ul>
+                <li>Oui</li>
+                <li>Non</li>
+              </ul>
+            </li>
+            <li>Bouton pour poursuivre la tâche
+              <ul>
+                <li>Suivant</li>
+              </ul>
+            </li>
+          </ul>
+        </details>
+      </figure>
+    </section>
+    <section id="wp4-1-3">
+      <h4>Listes d'éléments</h4>
+      <ul>
+        <li>Évitez d'avoir plus d'une (1) phrase par élément.</li>
+        <li>Ne mettez pas de point d'exclamation ou d'interrogation après les éléments d'une liste.</li>
+      </ul>
+      <p>Lorsque les listes à puces forment des éléments distincts sur le plan grammatical ou si elles sont introduites par un sous-titre, mettez la première lettre de chaque élément en majuscule.</p>
+      <h5>Exemples de listes à puces indépendantes</h5>
+      <p><strong>En demande</strong></p>
+      <ul>
+        <li><a href="http://www.entreprisescanada.ca/fra/page/2852/pof-191/">Financement pour votre nouvelle entreprise</a></li>
+        <li><a href="http://www.entreprisescanada.ca/fra/page/2772/">Financement pour l'innovation</a></li>
+        <li><a href="http://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/fra/h_la00007.html">Trouvez un prêt pour votre entreprise</a></li>
+        <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/subvention-emploi/employeurs.html">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
+      </ul>
+      <p class="mrgn-tp-lg">Lorsque le sens des éléments d'une liste à puces dépend d'une phrase d'introduction, mettez la première lettre de chaque élément en minuscule, sauf s'il s'agit d'un nom propre.</p>
+      <h5>Exemples d'une liste à puces dont le sens dépend d'une phrase d'introduction</h5>
+      <p>Les représentants peuvent être&nbsp;:</p>
+      <ul>
+        <li>des consultants en citoyenneté ou en immigration;</li>
+        <li>des avocats;</li>
+        <li>d'autres représentants.</li>
+      </ul>
+    </section>
+    <h4>Voyez comment la règle sur les majuscules et la ponctuation s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-1">4.1 Capitalization and punctuation</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les majuscules et la ponctuation", "title": "4.1 Majuscules et ponctuation", "url": "https://conception.canada.ca/guide-redaction/#wp4-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-1"}'></div>
+    </div>
+  </section>
+  <section id="wp4-2">
+    <h3>4.2 Soulignement, caractères gras et italique</h3>
+    <p>Le style de présentation doit faire ressortir les renseignements les plus importants sur la page Web.</p>
+    <p>Ne combinez pas les styles, comme le soulignement et les caractères gras, sauf s'il s'agit du texte en hyperlien sur une page de sujet.</p>
+    <h4>Soulignement</h4>
+    <p>Utilisez le soulignement seulement pour les liens.</p>
+    <h4>Caractères gras</h4>
+    <p>Utilisez les caractères gras pour mettre du texte en évidence, <strong>mais</strong> utilisez-les avec modération: plus vous faites usage de cette mise en forme, moins elle est efficace.</p>
+    <h4>Italique</h4>
+    <p>Les personnes qui ont une dyslexie ou d'autres troubles de lecture pourraient avoir de la difficulté à lire un texte en italique.</p>
+    <p>N'utilisez pas l'italique&nbsp;:</p>
+    <ul>
+      <li>à des fins de mise en page ou de décoration;</li>
+      <li>pour faire ressortir un mot ou une phrase (utilisez plutôt les caractères gras avec modération);</li>
+      <li>pour de longs passages, des citations, par exemple;</li>
+      <li>dans les titres de page.</li>
+    </ul>
+    <p>Consultez <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">Le guide du rédacteur</a></cite> dans les cas suivants&nbsp;:</p>
+    <ul>
+      <li>les titres de livres, de journaux, de revues et d'œuvres d'art (article 5.2.1);</li>
+      <li>les titres de lois (article 5.2.2);</li>
+      <li>les mots ou abréviations en latin (article 5.3.3);</li>
+      <li>les mots en langue étrangère (article 5.3.4);</li>
+      <li>les lettres de l'alphabet (article 5.4.1).</li>
+    </ul>
+    <h4>Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-2">4.2 Underlining, bold and italics</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les caractères gras, l&#8217;italique et le soulignement", "title": "4.2 Soulignement, caractères gras et italique", "url": "https://conception.canada.ca/guide-redaction/#wp4-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-2"}'></div>
+    </div>
   </section>
   <section id="wp4-3">
     <h3>4.3 Symboles</h3>
@@ -820,10 +848,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li>100 $ par mois</li>
     </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp4-3" aria-label="Voyez comment la règle sur les symboles s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20des%20symboles%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-3" aria-label="Diffusez la règle sur les symboles par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur les symboles s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-3">4.3 Symbols</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les symboles", "title": "4.3 Symboles", "url": "https://conception.canada.ca/guide-redaction/#wp4-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-3"}'></div>
     </div>
   </section>
   <section id="wp4-4">
@@ -860,21 +890,28 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Écrivez</strong>&nbsp;: c'est-à-dire <br>
         <strong>Au lieu de</strong>&nbsp;: c.-à-d.&nbsp;</p>
       <p>Vous pouvez utiliser ces abréviations quand l'espace est restreint (par exemple, dans un tableau ou dans un schéma).</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp4-4" aria-label="Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20d'abréviations%20et%20d'acronymes%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-4" aria-label="Diffusez la règle sur les abréviations et les acronymes par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
     </section>
+    <h4>Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-4">4.4 Abbreviations and acronyms</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les abréviations et les acronymes", "title": "4.4 Abréviations, acronymes et référence", "url": "https://conception.canada.ca/guide-redaction/#wp4-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-4"}'></div>
+    </div>
   </section>
   <section id="wp4-5">
     <h3>4.5 Forme contractée</h3>
     <p>Cette règle s’applique en anglais plutôt qu’en français. La forme contractée en français s’applique par défaut. En anglais, elle est facultative, mais elle est recommandée pour simplifier la lecture.</p>
-    <p><a href="{{ site.urldesign }}/style-guide/#wp4-5" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-5" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle de Forme contractée s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-5">4.5 Contractions</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la forme contractée", "title": "4.5 Forme contractée", "url": "https://conception.canada.ca/guide-redaction/#wp4-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-5"}'></div>
+    </div>
   </section>
   <section id="wp4-6">
-    <h3>4.6 Nombres </h3>
+    <h3>4.6 Nombres</h3>
     <h4>Principes généraux</h4>
     <ul>
       <li>Écrivez les nombres en chiffres arabes (0, 1, 2, 3), sauf s'ils se trouvent dans&nbsp;:
@@ -902,10 +939,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Les enfants âgés de 0 à 10 ans (et non &laquo;&nbsp;0–10 ans&nbsp;&raquo;)</li>
       <li>Les participants ont entre 0 et 10 ans</li>
     </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp4-6" aria-label="Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20nombres%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-6" aria-label="Diffusez la règle sur style de présentation des nombres par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-6">4.6 Numbers</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des nombres", "title": "4.6 Nombres", "url": "https://conception.canada.ca/guide-redaction/#wp4-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-6"}'></div>
     </div>
   </section>
   <section id="wp4-7">
@@ -942,10 +981,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </ul>
       </li>
     </ul>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp4-7" aria-label="Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20des%20dates%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-7" aria-label="Diffusez la règle sur le style de présentation des dates par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-7">4.7 Dates</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des dates", "title": "4.7 Dates", "url": "https://conception.canada.ca/guide-redaction/#wp4-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-7"}'></div>
     </div>
   </section>
   <section id="wp4-8">
@@ -954,6 +995,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>16 h 30</li>
       <li>De 9 h à 17 h</li>
     </ul>
+    <h4>Voyez comment la règle sur le style de présentation des heures s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-8">4.8 Times</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des heures", "title": "4.8 Heures", "url": "https://conception.canada.ca/guide-redaction/#wp4-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-8"}'></div>
+    </div>
   </section>
   <section id="wp4-9">
     <h3>4.9 Numéros de téléphone</h3>
@@ -963,6 +1011,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>vous pouvez nous joindre au 819-123-4567</li>
       <li>613-999-9900 poste 123</li>
     </ul>
+    <h4>Voyez comment la règle sur le style de présentation des numéros de téléphone s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-9">4.9 Phone numbers</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des numéros de téléphone", "title": "4.9 Numéros de téléphone", "url": "https://conception.canada.ca/guide-redaction/#wp4-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-9"}'></div>
+    </div>
   </section>
   <section id="wp4-10">
     <h3>4.10 Adresses</h3>
@@ -996,13 +1051,15 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>Pour soumettre votre demande par courriel&nbsp;: <a href="mailto:abcxyz@canada.ca">abcxyz@canada.ca</a>.</li>
       </ul>
       <p><strong>Au lieu de</strong>&nbsp;: <a href="mailto:abcxyz@canada.ca">Contactez-nous par courriel</a> pour soumettre votre demande.</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp4-10" aria-label="Voyez comment la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20le%20style%20de%20présentation%20de%20l'heure,%20des%20numéros%20de%20téléphones%20et%20des%20adresses%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp4-10" aria-label="Diffusez la règle sur le style de présentation de l'heure, des numéros de téléphones et des adresses par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
     </section>
   </section>
+  <h4>Voyez comment la règle sur le style de présentation des Adresses s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-10">4.10 Addresses</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des adresses", "title": "4.10 Adresses", "url": "https://conception.canada.ca/guide-redaction/#wp4-10", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-10"}'></div>
+  </div>
 </section>
 <section id="toc9">
   <h2>5.0 Structure du contenu</h2>
@@ -1130,11 +1187,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <h5>Volet de navigation</h5>
         <p>Utilisez le volet de navigation de Microsoft Word. Lorsque vous ouvrez l'outil de recherche (ou que vous tapez Control + F) et sélectionnez l'affichage des résultats par en têtes, une fenêtre contenant tous les titres de votre document apparaîtra.</p>
       </details>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp5-1" aria-label="Voyez comment la règle sur la rédaction de titres de pages et de sous-titres descriptifs s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20rédaction%20de%20titres%20de%20pages%20et%20de%20sous-titres%20descriptifs%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-1" aria-label="Diffusez la règle sur la rédaction de titres de pages et de sous-titres descriptifs par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
       <h4>Les titres de publications et de programmes font rarement de bons titres de page Web </h4>
       <p>Reproduire les titres de rapports, de brochures, de publications ou de programmes dans les titres de page Web peut empêcher les gens de trouver votre contenu, même si le contenu est lié à leur tâche.</p>
       <p>Les titres de publications ne sont pas toujours écrits en langage clair, ni assez courts ou assez descriptifs.</p>
@@ -1155,6 +1207,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Métabalise Description</strong>&nbsp;: La métabalise Description est le contenu que vous voyez sous le texte en hyperlien bleu dans la liste des résultats de recherche. <strong>Évitez d'énumérer seulement des mots-clés,</strong> car les moteurs de recherche tendent à ne pas les prendre en considération. Écrivez une (1) ou 2 phrases courtes qui décrivent le contenu de la page. Assurez-vous d'inclure les mots-clés que vos publics cibles utilisent lorsqu'ils cherchent votre contenu (par exemple, des abréviations qu'ils connaissent bien).</p>
       <p>Reportez-vous à la <a href="#toc6">section sur le langage clair et simple</a> pour des conseils sur l'utilisation de mots-clés simples et courants.</p>
     </section>
+    <h4>Voyez comment la règle sur la rédaction de titres de pages et de sous-titres descriptifs s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-1">5.1 Write useful page titles and headings</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de titres de pages et de sous-titres descriptifs", "title": "5.1 Rédiger des titres et sous-titres de page descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp5-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-1"}'></div>
+    </div>
   </section>
   <section id="wp5-2">
     <h3>5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</h3>
@@ -1231,14 +1290,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Cependant, il peut être approprié de présenter des éléments par ordre alphabétique, comme une liste de noms.</p>
       <p>Si vous présentez du contenu français par ordre alphabétique, présentez aussi le contenu traduit en anglais par ordre alphabétique pour offrir la même expérience intuitive.</p>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp5-2" aria-label="Voyez comment la règle sur l'utilisation de listes d'éléments s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20listes%20d'éléments%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-2" aria-label="Diffusez la règle sur l'utilisation de listes d'éléments par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur l'utilisation de listes d'éléments s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-2">5.2 Use lists to help people scan</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de listes d&#8217;éléments", "title": "5.2 Utiliser des listes d&#8217;éléments pour aider les gens à survoler le texte", "url": "https://conception.canada.ca/guide-redaction/#wp5-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-2"}'></div>
     </div>
   </section>
   <section id="wp5-3">
-    <h3>5.3 Utiliser des tableaux pour organiser des données </h3>
+    <h3>5.3 Utiliser des tableaux pour organiser des données</h3>
     <p>Utilisez des tableaux pour organiser et présenter des données. Assurez-vous que&nbsp;:</p>
     <ul>
       <li>la valeur de chaque cellule correspond aux en-têtes des colonnes et des rangées;</li>
@@ -1364,7 +1425,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6> Exemple <span class="wb-inv">de tableau complexe</span></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (1927-2013)</strong>
+        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1397,19 +1458,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <td>Flames de Calgary</td>
             <td class="text-right">1</td>
           </tr>
-          <tr>
-            <td class="small" colspan="10"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
         </tbody>
-        <tfoot>
-        </tfoot>
       </table>
       <h5>Après&nbsp;: tableaux simples</h5>
       <p>Le tableau complexe peut être facilement divisé en tableaux simples.</p>
       <h6>Exemple&nbsp;: un tableau simple</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1445,17 +1501,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <td class="text-right">1</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="3"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
       </table>
       <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de 2 tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
       <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1477,15 +1528,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <td class="text-right">1</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="2"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
       </table>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley (de 1927 à 2013)</strong>
+        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1503,23 +1549,18 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <td class="text-right">1</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td class="small" colspan="2"><p>Source&nbsp;: <a href="http://www.nhl.com">nhl.com</a></p></td>
-          </tr>
-        </tfoot>
       </table>
       <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
       <h6>Exemple: conversion de tableaux en texte </h6>
       <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
-      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
+      <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
       <ul>
         <li>Canadiens de Montréal&nbsp;: 22</li>
         <li>Maple Leafs de Toronto&nbsp;: 11</li>
         <li>Sénateurs d'Ottawa&nbsp;: 1</li>
       </ul>
       <p><strong>Association de l'Ouest de la Ligue nationale de hockey </strong></p>
-      <p>Équipes canadiennes gagnantes de la Coupe Stanley de 1927 à 2013&nbsp;:</p>
+      <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
       <ul>
         <li>Oilers d'Edmonton&nbsp;: 5</li>
         <li>Flames de Calgary&nbsp;: 1</li>
@@ -1547,12 +1588,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>&laquo;&nbsp;s/o&nbsp;&raquo; (sans objet).</li>
       </ul>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp5-3" aria-label="Voyez comment la règle sur l'utilisation de tableaux s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20de%20tableaux%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp5-3" aria-label="Diffusez la règle sur l'utilisation de tableaux par courriel">Diffusez cette règle par courriel</a></p>
-    </div>
   </section>
+  <h4>Voyez comment la règle sur l'utilisation de tableaux s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-3">5.3 Use tables to organize data</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de tableaux", "title": "5.3 Utiliser des tableaux pour organiser des données", "url": "https://conception.canada.ca/guide-redaction/#wp5-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-3"}'></div>
+  </div>
 </section>
 <section id="toc10">
   <h2>6.0 Images et vidéos</h2>
@@ -1822,14 +1865,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>référez-vous aux <a href="http://wet-boew.github.io/themes-dist/GCWeb/index-fr.html">types de pages pour Canada.ca sur le site GitHub</a>.</li>
     </ul>
   </section>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp6-1" aria-label="Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20d'images%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-1" aria-label="Diffusez la règle sur l'utilisation d'images par courriel">Diffusez cette règle par courriel</a></p>
+  <h4>Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-1">6.1 Understand the purpose of images online</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation d&#8217;images", "title": "6.1 Comprendre le but des images sur le Web", "url": "https://conception.canada.ca/guide-redaction/#wp6-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-1"}'> </div>
   </div>
 </section>
 <section id="wp6-2">
-  <h3>6.2 Ajouter un texte alternatif aux images </h3>
+  <h3>6.2 Ajouter un texte alternatif aux images</h3>
   <p>Un texte alternatif (ou texte de remplacement ou texte Alt) est de l'information qui décrit une image. Il lui donne un sens lorsqu'une personne utilise des technologies d'aide pour l'interpréter. Il permet aussi aux moteurs de recherche de mieux déchiffrer l'intention des fichiers d'image.</p>
   <p>Pour rédiger un texte alternatif pour des <a href="#wp6-1-1">images fonctionnelles</a>&nbsp;:</p>
   <ul>
@@ -1841,10 +1886,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>ne décrivez pas une image ou un graphique par le même mot (par exemple, &laquo;&nbsp;image du...&nbsp;&raquo; ou &laquo;&nbsp;graphique des...&nbsp;&raquo;), car les lecteurs d'écran le font déjà.</li>
   </ul>
   <p>Les <a href="#wp6-1-2">images décoratives</a> n'exigent pas de renseignements supplémentaires pour les rendre accessibles ou visibles aux moteurs de recherche. Utilisez l'indicateur vide (alt="") en guise de texte alternatif.</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp6-2" aria-label="Voyez comment la règle sur l'ajout de texte alternatif s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20de%20texte%20alternatif%20aux%20photos%20ou%20graphiques%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-2" aria-label="Diffusez la règle sur l'ajout de texte alternatif par courriel">Diffusez cette règle par courriel</a></p>
+  <h4>Voyez comment la règle sur l'ajout de texte alternatif s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-2">6.2 Include alternative text for images</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout de texte alternatif", "title": "6.2 Ajouter un texte alternatif aux images", "url": "https://conception.canada.ca/guide-redaction/#wp6-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-2"}'> </div>
   </div>
 </section>
 <section id="wp6-3">
@@ -1947,10 +1994,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </table>
   </figure>
   <p>Collaborez avec votre équipe Web pour déterminer la meilleure façon d'insérer la description longue. Elle vous conseillera sur la façon de s'assurer que l'information contenue dans l'image est accessible aux personnes qui utilisent les technologies d'aide. Votre équipe Web s'assurera également que l'image respecte les <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-fra.asp">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite>.</p>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp6-3" aria-label="Voyez comment la règle sur l'ajout d'une description longue s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20d'une%20description%20longue%20aux%20images%20complexes%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-3" aria-label="Diffusez la règle sur l'ajout d'une description longue par courriel">Diffusez cette règle par courriel</a></p>
+  <h4>Voyez comment la règle sur l'ajout d'une description longue s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-3">6.3 Include long descriptions for complex images</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout d&#8217;une description longue", "title": "6.3 Ajouter une description longue pour expliquer les images complexes", "url": "https://conception.canada.ca/guide-redaction/#wp6-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-3"}'> </div>
   </div>
 </section>
 <section id="wp6-4">
@@ -1968,10 +2017,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>les sons importants (comme une explosion);</li>
     <li>une action ou un élément visuel important (par exemple, une personne qui s'enfuit, qui porte un costume).</li>
   </ul>
-  <div class="well panel"> 
-    <!--UPDATE LATER-->
-    <p><a href="{{ site.urldesign }}/style-guide/#wp6-4" aria-label="Voyez comment la règle sur l'ajout d'une transcription aux fichiers audio et vidéo s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-    <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'ajout%20d'une%20transcription%20pour%20décrire%20les%20fichiers%20audio%20et%20vidéo%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp6-4" aria-label="Diffusez la règle sur l'ajout d'une transcription aux fichiers audio et vidéo par courriel">Diffusez cette règle par courriel</a></p>
+  <h4>Voyez comment la règle sur l'ajout d'une transcription aux fichiers audio et vidéo s'applique à un contenu de langue anglaise</h4>
+  <ul>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-4">6.4 Include transcripts to describe audio and video files</a></span></li>
+  </ul>
+  <div class="mrgn-tp-lg">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout d&#8217;une transcription aux fichiers audio et vidéo", "title": "6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo", "url": "https://conception.canada.ca/guide-redaction/#wp6-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-4"}'> </div>
   </div>
 </section>
 <section id="toc11">
@@ -2022,10 +2073,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Ajouter des liens vers d'autres pages Web pertinentes peut aider les gens à trouver rapidement des renseignements utiles. Les liens qui mènent à vos pages à partir d'autres pages Web peuvent aussi améliorer le classement de vos pages dans la liste des résultats générée par les moteurs de recherche.</p>
       <p>Choisissez avec soin les liens connexes. Trop de liens dans une page Web pourraient inciter les gens à quitter la page sans avoir lu l'information importante ou les dissuader d'exécuter une tâche.</p>
     </section>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp7-1" aria-label="Voyez comment la règle sur l'utilisation stratégique des liens s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'utilisation%20stratégique%20des%20liens%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-1" aria-label="Diffusez la règle sur l'utilisation stratégique des liens par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur l'utilisation stratégique des liens s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-1">7.1 Use links strategically</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation stratégique des liens", "title": "7.1 Utiliser les liens de façon stratégique", "url": "https://conception.canada.ca/guide-redaction/#wp7-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-1"}'> </div>
     </div>
   </section>
   <section id="wp7-2">
@@ -2066,20 +2119,24 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <h6>Au lieu de&nbsp;:</h6>
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit, remplissez le formulaire <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=fra">Attestation du prestataire – Semaines durant lesquelles la rémunération assurable était la plus élevée (Meilleures semaines variables)</a>. Inscrivez-y les renseignements requis concernant les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant vos 52 dernières semaines d'emploi ou depuis le début de votre dernière demande, selon la plus courte période des deux.</p>
-      <div class="well panel"> 
-        <!--UPDATE LATER-->
-        <p><a href="{{ site.urldesign }}/style-guide/#wp7-2" aria-label="Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-        <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20rédaction%20de%20liens%20descriptifs%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-2" aria-label="Diffusez la règle sur la rédaction de liens descriptifs par courriel">Diffusez cette règle par courriel</a></p>
-      </div>
     </section>
+    <h4>Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de liens descriptifs", "title": "7.2 Rédiger des liens descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'> </div>
+    </div>
   </section>
   <section id="wp7-3">
     <h3>7.3 Vérifier que les liens fonctionnent</h3>
     <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp7-3" aria-label="Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20l'importance%20de%20vérifier%20les%20liens%20sur%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-3" aria-label="Diffusez la règle sur la vérification des liens par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-3">7.3 Make sure that links work</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la vérification des liens", "title": "7.3 Vérifier que les liens fonctionnent", "url": "https://conception.canada.ca/guide-redaction/#wp7-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-3"}'> </div>
     </div>
   </section>
   <section id="wp7-4">
@@ -2094,20 +2151,24 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h4>Exemple de l'utilisation d'un hyperlien qui renvoie à un contenu disponible en anglais seulement</h4>
     <p><strong>Écrivez</strong>&nbsp;: Informez-vous au sujet des <a href="https://help.cbp.gov/app/answers/detail/a_id/1192/~/canadian--citizens%2Fresidents%2Flanded-immigrants-entering-the-u.s.">documents requis pour permettre aux citoyens canadiens d'entrer aux États-Unis</a> (en anglais seulement).</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp7-4" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20création%20de%20liens%20vers%20du%20contenu%20externe%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-4" aria-label="Diffusez la règle sur le contenu externe par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-4">7.4 Linking to non-government content</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le contenu externe", "title": "7.4 Créer des liens vers du contenu externe", "url": "https://conception.canada.ca/guide-redaction/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'> </div>
     </div>
   </section>
   <section id="wp7-5">
     <h3>7.5 Créer des liens vers du contenu interne</h3>
     <p>En général, le contenu destiné au public ne devrait pas contenir de liens renvoyant vers du contenu accessible seulement sur les serveurs internes du gouvernement. Il arrive cependant qu'un contenu accessible au public s'adresse essentiellement aux employés de la fonction publique.</p>
     <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</p>
-    <div class="well panel"> 
-      <!--UPDATE LATER-->
-      <p><a href="{{ site.urldesign }}/style-guide/#wp7-5" aria-label="Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise">Voyez comment cette règle s'applique à un contenu de langue anglaise</a></p>
-      <p><a href="mailto:?subject=Guide%20de%20rédaction%20du%20contenu%20du%20site%20Canada.ca&amp;body=Voir%20la%20règle%20sur%20la%20création%20de%20liens%20vers%20du%20contenu%20interne%20pour%20le%20site%20Canada.ca%20:%20https://conception.canada.ca/guide-redaction/#wp7-5" aria-label="Diffusez la règle sur le contenu externe par courriel">Diffusez cette règle par courriel</a></p>
+    <h4>Voyez comment la règle sur le contenu interne s'applique à un contenu de langue anglaise</h4>
+    <ul>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-5">7.5 Linking to internal-to-government content</a></span></li>
+    </ul>
+    <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le contenu interne", "title": "7.5 Créer des liens vers du contenu interne", "url": "https://conception.canada.ca/guide-redaction/#wp7-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-5"}'> </div>
     </div>
   </section>
 </section>

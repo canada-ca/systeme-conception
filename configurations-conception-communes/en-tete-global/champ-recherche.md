@@ -135,7 +135,7 @@ title: "Champ de recherche du site"
 					<summary><strong>Drupal WxT</strong></summary>
 					<p class="mrgn-tp-lg">Pour Drupal WxT :</p>
 					<ul>
-						<li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
+						<li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
 					</ul>
 				</details>
 			</div>
