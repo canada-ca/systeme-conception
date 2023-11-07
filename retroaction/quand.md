@@ -57,7 +57,7 @@ Bien que les menaces soient rares, l’utilisation de boîtes de texte libres pr
 En fonction de la nature de la menace, différentes étapes s’imposent.
 
 ### Menace particulière ou crise personnelle
-La personne émettant ce type de message définit une cible (adresse, nom de bureau, personne) ou indique son identité.
+* La personne émettant ce type de message définit une cible (adresse, nom de bureau, personne) ou indique son identité.
 
 #### Mesures à prendre
 
