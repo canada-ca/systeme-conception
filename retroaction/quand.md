@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/when.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2023-11-07
 description: null
 title: Quand utiliser l’outil de rétroaction sur la page
 ---
