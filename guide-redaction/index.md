@@ -1633,9 +1633,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <p>Les images fonctionnelles ajoutent de la valeur au contenu étant donné qu'elles communiquent l'information avec plus d'efficacité que le texte seul. Voici quelques types d'images fonctionnelles&nbsp;:</p>
     <ul>
-      <li>éléments infographiques
-      <li>tableaux
-      <li>graphiques</li>
+      <li>éléments infographiques</li>
+      <li>illustration</li>
+      <li>diagramme</li>
+      <li>Carte d'images</li>
     </ul>
     <p><a href="#wp6-2">Ajoutez un texte alternatif approprié</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
     <h5>Exemples d'images fonctionnelles</h5>
