@@ -6,9 +6,9 @@ breadcrumbs:
   - title: Analyses, sondage et commentaires
     link: https://www.canada.ca/fr/analytique.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2023-11-07
 description: null
-title: Outil de rétroaction sur la page
+title: Instructions sur l’outil de rétroaction sur la page
 ---
 
 L’outil de rétroaction sur la page est un <strong>outil de recherche</strong> qui peut vous aider à mieux comprendre les problèmes qui empêchent de réussir les tâches sur la page.

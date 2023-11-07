@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/when.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2023-11-07
 description: null
 title: Quand utiliser l’outil de rétroaction sur la page
 ---
@@ -49,6 +49,33 @@ Il est important de s’engager à lire et à examiner la rétroaction soumise e
 
 Dans certains cas, les gens donneront leur avis sur un certain programme ou une certaine politique. Le traitement d’une question de politique dépasse le champ d’action des équipes Web. Il est donc important de communiquer cette rétroaction à des collègues responsables des programmes et des politiques.
 
+### Reconnaître et gérer les menaces
+Avant de mettre en œuvre l’outil de rétroaction sur la page, veillez à ce que votre organisme dispose d’un processus en place pour gérer les rétroactions menaçantes. Il est possible qu’un processus similaire soit déjà documenté pour les menaces reçues par courriel, ou par le biais des médias sociaux ou des centres d’appel.
+
+Bien que les menaces soient rares, l’utilisation de boîtes de texte libres présente tout de même un risque. Il est donc important de s’y préparer.
+
+En fonction de la nature de la menace, différentes étapes s’imposent.
+
+### Menace particulière ou crise personnelle
+* La personne émettant ce type de message définit une cible (adresse, nom de bureau, personne) ou indique son identité.
+
+#### Mesures à prendre
+
+Si vous recevez un message concernant une menace particulière ou une crise personnelle par le biais de l’outil de rétroaction, vous devez le signaler.
+* Conservez une copie du commentaire ainsi que la date et l’heure de sa soumission.
+* Contactez immédiatement la police locale ou la GRC et fournissez une copie du commentaire.
+* Contactez également les services de sécurité de votre ministère.
+
+### Menace générale
+* La personne émettant ce type de menace ne définit pas de cible particulière (« vous autres », « ces gens-là », « le gouvernement »).
+
+* La menace est hypothétique (« Si je vais au bureau, je vais blesser quelqu’un. »)
+
+#### Mesures à prendre
+
+* Conservez une copie du commentaire ainsi que la date et l’heure de sa soumission.
+* Suivez les mêmes procédures que celles mises en place par votre organisme pour les menaces reçues par courriel ou par le biais des médias sociaux.
+
 ## Comment ne pas utiliser l’outil de rétroaction
 
 L’outil de rétroaction ne doit pas être utilisé aux fins suivantes&nbsp;:
@@ -82,8 +109,10 @@ Nous ne recommandons pas de garder l’outil de rétroaction sur une page contin
 
 Nous ne recommandons pas l'utilisation de l'outil dans les espaces sécurisés. Dans ces espaces, il est préférable de s'assurer que les utilisateurs ont un accès clair aux canaux d'assistance directe.
 
-### Sujets sensibles
-Les pages sur des sujets sensibles doivent être évitées (par exemple, le suicide).
+### Contenu sensibles
+Si vous utilisez l’outil pour des pages traitant de sujets sensibles (comme le suicide), veillez à assurer fréquemment un suivi de la rétroaction et à agir lorsque nécessaire. L’outil devrait être ajouté pour de courts intervalles et retiré lorsque des modifications sont en cours.
+
+
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
