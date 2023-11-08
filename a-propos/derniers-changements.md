@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2023-08-15
+dateModified: 2023-11-07
 description: "Derniers changements apportés au système de conception de Canada.ca."
 layout: default
 title: "Derniers changements apportés au système de conception de Canada.ca"
@@ -11,7 +11,11 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
 </div>
 <div id="expand-collapse">
-  <details open>
+  <details open="open">
+    <summary>7 novembre 2023</summary>
+    <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/signaler-probleme.html">configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;</a> pour informer les utilisateurs de sa future mise hors service. Stabilisation de la <a href="{{ site.url }}/configurations-conception-communes/outil-retroaction.html">configuration de l’outil de rétroaction</a> sur la page, ajout de spécifications sur le contenu et mise à jour des instructions de mise en œuvre.</p>
+  </details>
+  <details>
     <summary>12 juillet 2023</summary>
     <p>La page sur le modèle de <a href="{{ site.url }}/configurations-conception-communes/navigation-metro.html">navigation de style métro</a> a été mise à jour afin de supprimer la phrase où l’on déconseille l’utilisation de sous-étapes. Il est vrai que, dans le cas de certains processus plus complexes, l’utilisation de sous-étapes peut s’avérer judicieuse.</p>
   </details>
