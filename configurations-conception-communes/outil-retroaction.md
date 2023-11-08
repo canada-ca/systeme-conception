@@ -154,8 +154,6 @@ title: "Outil de rétroaction sur la page"
         <summary>Instructions pour les pages SWG</summary>
         <h4>Ajout de l’outil de rétroaction</h4>
         <p><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5#Chapitre_3_.E2.80.93_Travailler_avec_du_contenu">Comment ajouter l'outil de rétroaction à votre page dans Adobe Experience Manager (AEM).</a> (Contenu interne, uniquement disponible sur GCPedia)</p>
-
-
         <h4><span class="label label-warning">Optionnel</span> Ajouter une valeur masquée &laquo;&nbsp;Section&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
         <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour plusieurs pages en même temps.</p>
         <p>Envisagez d'inclure cette valeur lorsque vous ajoutez l'outil de rétroaction à plusieurs pages relatives à un même sujet, comme &laquo;&nbsp;passeports&nbsp;&raquo; ou &laquo;&nbsp;assurance-emploi&nbsp;&raquo;.</p>
@@ -182,7 +180,7 @@ title: "Outil de rétroaction sur la page"
         <h4>Ajout des valeurs masquées obligatoires</h4>
         <p>Mise à jour des données pour les acronymes institutionnels. Il s'agit d'une valeur unilingue. Entrez la valeur en anglais, tant pour vos pages en anglais que celles en français.</p>
         <h5>Acronymes des institutions Canada.ca</h5>
-               <ul>
+        <ul>
           <li><strong>AAFC</strong> (Agriculture et Agroalimentaire Canada)</li>
           <li><strong>ATSSC</strong> (Service canadien d’appui aux tribunaux administratifs)</li>
           <li><strong>CATSA</strong> (Administration canadienne de la sûreté du transport aérien)</li>
@@ -239,7 +237,7 @@ title: "Outil de rétroaction sur la page"
         <p>Dans la plupart des cas, vous devriez inclure le thème &laquo;&nbsp;Canada.ca&nbsp;&raquo; pour votre contenu (vous trouverez la liste complète ci-dessous).</p>
         <p>Il s'agit d'une valeur unilingue. Entrez la valeur du thème en anglais, tant pour vos pages en anglais que celles en français.</p>
         <h5>Thèmes Canada.ca</h5>
-<ul>
+        <ul>
           <li><strong>AboutGov</strong> (À propos du gouvernement)</li>
           <li><strong>Benefits</strong> (Prestations)</li>
           <li><strong>Business</strong> (Entreprises)</li>
@@ -259,7 +257,7 @@ title: "Outil de rétroaction sur la page"
           <li><strong>Transport</strong> (Transport)</li>
           <li><strong>Travel</strong> (Voyage)</li>
           <li><strong>Veterans</strong> (Vétérans)</li>
-</ul>
+        </ul>
         <p>Si vous souhaitez ajouter un nouveau thème qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
         <p>Adresse courriel&nbsp;: <a href="maito:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></p>
         <h4><span class="label label-warning">Optional</span> Ajouter une valeur masquée &laquo;&nbsp;Section&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
