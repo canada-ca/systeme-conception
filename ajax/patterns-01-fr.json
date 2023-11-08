@@ -10,7 +10,7 @@
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
-    },{
+    }, {
       "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/confiance.html\">Étude sur la confiance</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Cette étude menée sur la confiance aide à déterminer lesquels des éléments de communication graphiques inspirent le plus de confiance aux utilisateurs par rapport à la marque du gouvernement du Canada.",
@@ -19,7 +19,7 @@
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
-    },{
+    }, {
       "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/trouver-emploi-resume-recherche.html\">Trouver un emploi</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "En facilitant la tâche de trouver les emplois du gouvernement, nous avons appris à éliminer les pages redondantes, à orienter le contenu pour les utilisateurs et leurs principales tâches, à concevoir le contenu en fonction de réponses plutôt que des renseignements, à utiliser des titres d’emploi recherchés et à répondre aux attentes des utilisateurs à l’égard d’une seule plateforme de recherche d’emploi.",
@@ -313,12 +313,12 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/retroaction/index.html\">Outil de rétroaction sur la page</a>",
-      "SOURCE": "Amélioration continue",
-      "DESCRIPTION": "L'outil de rétroaction est un modèle facultatif pour découvrir les problèmes spécifiques au niveau de la page qui affectent la performance de la tâche.",
-      "WHENTOUSE": "L'outil de r&eacute;troaction est un mod&egrave;le facultatif pour d&eacute;couvrir les probl&egrave;mes sp&eacute;cifiques au niveau de la page qui affectent la performance de la t&acirc;che.",
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/outil-retroaction.html\">Outil de rétroaction sur la page</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "L’outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l’expérience sur une page. Il ne doit être utilisé que si la rétroaction sur une page va faire l’objet d’un suivi actif et être exploitée.",
+      "WHENTOUSE": "L’outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l’expérience sur une page. Il ne doit être utilisé que si la rétroaction sur une page va faire l’objet d’un suivi actif et être exploitée.",
       "CATEGORY": " Configuration de conception",
-      "TYPE": "Interaction",
+      "TYPE": "Configuration de conception, Interaction",
       "MANDATORY": "No",
       "TANDP": "1"
     },
@@ -1225,8 +1225,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/signaler-probleme.html\">Signaler un problème sur cette page</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Permet aux gens de fournir une rétroaction au moyen d’un formulaire pour tous les problèmes qu’ils ont pu rencontrer ",
-      "WHENTOUSE": "Permet aux gens de fournir une r&#233;troaction au moyen d’un formulaire pour tous les probl&#232;mes qu’ils ont pu rencontrer",
+      "DESCRIPTION": "Permet aux gens de fournir une rétroaction au moyen d’un formulaire pour tous les problèmes qu’ils ont pu rencontrer. Nous mettons la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; hors service. Nous vous déconseillons d’ajouter cette configuration à vos pages.",
+      "WHENTOUSE": "Permet aux gens de fournir une rétroaction au moyen d’un formulaire pour tous les problèmes qu’ils ont pu rencontrer. Nous mettons la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; hors service. Nous vous déconseillons d’ajouter cette configuration à vos pages.",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
       "MANDATORY": "Non",
