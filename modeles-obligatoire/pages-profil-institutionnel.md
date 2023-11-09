@@ -14,8 +14,12 @@ dateModified: '2023-08-23'
 description: Orientation sur la façon d’utiliser le modèle de page d’accueil institutionnelle et ses composants associés sur Canada.ca.
 title: Page d’accueil institutionnelle
 ---
+
 <p><strong>Dernière modification</strong>&nbsp;: {{ page.dateModified }}</p>
-<p>Il s’agit du modèle de page d’accueil de chaque ministère, organisme et organisation du gouvernement du Canada qui a un titre d’usage dans le registre du <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Programme fédéral de l’image de marque (PFIM)</a>.</p>
+<p>
+    Il s’agit du modèle de page d’accueil de chaque ministère, organisme et organisation du gouvernement du Canada qui a un titre d’usage dans le registre du
+    <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Programme fédéral de l’image de marque (PFIM)</a>.
+</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/ilp-cropped-fr.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>Sur cette page</h2>
@@ -45,175 +49,245 @@ title: Page d’accueil institutionnelle
 </section>
 <section>
     <h2 id="design">Contenu et conception</h2>
-   <div class="row mrgn-tp-lg">
-  <div class="col-md-12">
-    <div class="panel panel-default">
-      <table class="table table-striped" id="ilp-01" aria-live="polite">
-        <caption class="wb-inv">
-        Content and design patterns for Institutional Landing Page
-        </caption>
-        <thead>
-          <tr>
-            <th class="col-md-3">Pattern</th>
-            <th class="col-md-7">ILP Guidance</th>
-            <th class="col-md-2 text-center">Obligatoire</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><a href="#">Bloc d’introduction</a></td>
-            <td><p>Utilisez le titre d’usage de l’institution (voir le <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Registre des titres d’usage</a>).</p>
-              <p>La description doit être un très bref résumé de ce que fait l’institution.</p></td>
-            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
-          </tr>
-          <tr>
-            <td><a href="#">En demande</a></td>
-            <td><p>Comprend les tâches principales propres à l’institution.</p>
-              <p>Si l’une des tâches principales de l’institution est déjà incluse sous forme de lien direct sous services et renseignements, ne la reproduisez pas ici.</p></td>
-            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
-          </tr>
-          <tr>
-            <td><a href="#">Services et renseignements</a></td>
-            <td><p>Le modèle de services et de renseignements pointe vers les catégories de niveau supérieur de l’architecture d’information de votre organisation.</p></td>
-            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
-          </tr>
-          <tr>
-            <td><a href="#">Bande de coordonnées</a></td>
-            <td><p>Le premier lien doit être le contact principal de votre institution. Vous devez limiter la bande à trois liens de contact.</p></td>
-            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
-          </tr>
-          <tr>
-            <td><a href="#">À propos de l’institution</a></td>
-            <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
-            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
-          </tr>
-          <tr>
-            <td><a href="#">Chaînes de médias sociaux</a></td>
-            <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
-            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
-          </tr>
-          <tr>
-            <td><a href="#">Ministre ou chef d’institution</a></td>
-            <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
-            <td class="text-center">Optional</td>
-          </tr>
-          <tr>
-            <td><a href="#">Bouton de super-tâche</a></td>
-            <td><p>N’incluez un bouton de super-tâche que si une tâche particulière produit au moins un tiers des clics sur la page d’accueil de l’institution.</p></td>
-            <td class="text-center">Optional</td>
-          </tr>
-          <tr>
-            <td><a href="#">Espace flexible</a></td>
-            <td><p>La partie inférieure de la page au-dessus du pied de page est considérée comme un espace flexible où les ministères peuvent ajouter le contenu de leur choix.</p>
-              <p>L’utilisation de cet espace est facultative et les configurations de conception par défaut sont dernières nouvelles et promotions contextuelles.</p></td>
-            <td class="text-center">Optional</td>
-          </tr>
-        </tbody>
-      </table>
+    <div class="row mrgn-tp-lg">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <table class="table table-striped" id="ilp-01" aria-live="polite">
+                    <caption class="wb-inv">
+                        Content and design patterns for Institutional Landing Page
+                    </caption>
+                    <thead>
+                        <tr>
+                            <th class="col-md-3">Pattern</th>
+                            <th class="col-md-7">ILP Guidance</th>
+                            <th class="col-md-2 text-center">Obligatoire</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><a href="#">Bloc d’introduction</a></td>
+                            <td>
+                                <p>Utilisez le titre d’usage de l’institution (voir le <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Registre des titres d’usage</a>).</p>
+                                <p>La description doit être un très bref résumé de ce que fait l’institution.</p>
+                            </td>
+                            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="#">En demande</a></td>
+                            <td>
+                                <p>Comprend les tâches principales propres à l’institution.</p>
+                                <p>Si l’une des tâches principales de l’institution est déjà incluse sous forme de lien direct sous services et renseignements, ne la reproduisez pas ici.</p>
+                            </td>
+                            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="#">Services et renseignements</a></td>
+                            <td><p>Le modèle de services et de renseignements pointe vers les catégories de niveau supérieur de l’architecture d’information de votre organisation.</p></td>
+                            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="#">Bande de coordonnées</a></td>
+                            <td><p>Le premier lien doit être le contact principal de votre institution. Vous devez limiter la bande à trois liens de contact.</p></td>
+                            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="#">À propos de l’institution</a></td>
+                            <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
+                            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="#">Chaînes de médias sociaux</a></td>
+                            <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
+                            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
+                        </tr>
+                        <tr>
+                            <td><a href="#">Ministre ou chef d’institution</a></td>
+                            <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
+                            <td class="text-center">Optional</td>
+                        </tr>
+                        <tr>
+                            <td><a href="#">Bouton de super-tâche</a></td>
+                            <td><p>N’incluez un bouton de super-tâche que si une tâche particulière produit au moins un tiers des clics sur la page d’accueil de l’institution.</p></td>
+                            <td class="text-center">Optional</td>
+                        </tr>
+                        <tr>
+                            <td><a href="#">Espace flexible</a></td>
+                            <td>
+                                <p>La partie inférieure de la page au-dessus du pied de page est considérée comme un espace flexible où les ministères peuvent ajouter le contenu de leur choix.</p>
+                                <p>L’utilisation de cet espace est facultative et les configurations de conception par défaut sont dernières nouvelles et promotions contextuelles.</p>
+                            </td>
+                            <td class="text-center">Optional</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
     <h3>Exemples visuels</h3>
-      <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Page d’accueil institutionnelle – grand écran</b></figcaption>
             <img src="../images/ilp-large.png" class="img-responsive" alt="Institutional landing page for large screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: </summary>
-                <p>Dans la partie supérieure de la page se trouve un bloc d’introduction qui comprend un h1 intitulé [Nom de l’institution]. Il est souligné d’un court trait rouge épais. Sous l’en-tête se trouve une courte description du mandat de l’institution.</p>
+                <p>
+                    Dans la partie supérieure de la page se trouve un bloc d’introduction qui comprend un h1 intitulé [Nom de l’institution]. Il est souligné d’un court trait rouge épais. Sous l’en-tête se trouve une courte description du
+                    mandat de l’institution.
+                </p>
                 <p>Après le bloc d’introduction, il y a un bouton de super-tâche qui est un rectangle vert avec les mots Bouton de super-tâche [facultatif].</p>
-                <p>Sous celui-ci se trouve la configuration de conception de lien en vedette. Elle est contenue dans une bande bleue horizontale qui s’étend sur toute la longueur de l’écran. À l’intérieur de la bande se trouve un texte blanc souligné qui se lit comme suit : Lien en vedette [facultatif].</p>
-                <p>L’élément suivant sur la page est la configuration de conception en demande. Elle est contenue dans une bande gris pâle qui s’étend sur toute la longueur de l’écran. Dans la bande se trouvent les mots En demande en texte noir. Ils sont suivis de deux colonnes de liens. Chaque colonne contient trois liens dans une liste à puces. Le texte d’espace réservé pour chaque lien est [Hyperlien de la tâche principale].</p>
-                <p>Sous cet espace se trouve la configuration de conception des services et renseignements. Elle est composée de neuf menus d’accueil thématique distincts affichés sur trois colonnes et trois lignes. Chaque menu d’accueil thématique a un titre d’espace réservé lié qui affiche [Texte de l’hyperlien]. Sous le titre, il y a une description d’espace réservé qui contiennent les instructions suivantes : Utilisez des verbes d’action ou répertoriez simplement des mots-clés pour résumer les renseignements ou les tâches qui peuvent être accomplies sur la page à laquelle ils renvoient.</p>
-                <p>L’élément suivant sur la page est la configuration de conception de la bande de coordonnées. Elle consiste en une bande horizontale gris pâle avec l’en-tête Coordonnées suivi de trois liens sur une seule ligne. Le premier lien est Communiquez avec [Institution], les liens suivants sont des espaces réservés pour les principales tâches de contact.</p>
-                <p>La bande de coordonnées est suivie de la configuration de conception à propos de l’institution à gauche et de la configuration de conception des chaînes de médias sociaux à droite. Les liens à propos de l’institution figurent dans une section avec le titre «&nbsp;À propos de [l’institution]&nbsp;». La conception organise les liens en gras dans une liste à puces qui s’étend sur deux colonnes. La première colonne contient&nbsp;:</p>
+                <p>
+                    Sous celui-ci se trouve la configuration de conception de lien en vedette. Elle est contenue dans une bande bleue horizontale qui s’étend sur toute la longueur de l’écran. À l’intérieur de la bande se trouve un texte
+                    blanc souligné qui se lit comme suit : Lien en vedette [facultatif].
+                </p>
+                <p>
+                    L’élément suivant sur la page est la configuration de conception en demande. Elle est contenue dans une bande gris pâle qui s’étend sur toute la longueur de l’écran. Dans la bande se trouvent les mots En demande en texte
+                    noir. Ils sont suivis de deux colonnes de liens. Chaque colonne contient trois liens dans une liste à puces. Le texte d’espace réservé pour chaque lien est [Hyperlien de la tâche principale].
+                </p>
+                <p>
+                    Sous cet espace se trouve la configuration de conception des services et renseignements. Elle est composée de neuf menus d’accueil thématique distincts affichés sur trois colonnes et trois lignes. Chaque menu d’accueil
+                    thématique a un titre d’espace réservé lié qui affiche [Texte de l’hyperlien]. Sous le titre, il y a une description d’espace réservé qui contiennent les instructions suivantes : Utilisez des verbes d’action ou
+                    répertoriez simplement des mots-clés pour résumer les renseignements ou les tâches qui peuvent être accomplies sur la page à laquelle ils renvoient.
+                </p>
+                <p>
+                    L’élément suivant sur la page est la configuration de conception de la bande de coordonnées. Elle consiste en une bande horizontale gris pâle avec l’en-tête Coordonnées suivi de trois liens sur une seule ligne. Le
+                    premier lien est Communiquez avec [Institution], les liens suivants sont des espaces réservés pour les principales tâches de contact.
+                </p>
+                <p>
+                    La bande de coordonnées est suivie de la configuration de conception à propos de l’institution à gauche et de la configuration de conception des chaînes de médias sociaux à droite. Les liens à propos de l’institution
+                    figurent dans une section avec le titre «&nbsp;À propos de [l’institution]&nbsp;». La conception organise les liens en gras dans une liste à puces qui s’étend sur deux colonnes. La première colonne contient&nbsp;:
+                </p>
                 <ul>
-                  <li>Mandat</li>
-                  <li>Structure organisationnelle</li>
-                  <li>Transparence</li>
-                  <li>Accessibilité</li>
-                  <li>Possibilités d’emploi</li>
+                    <li>Mandat</li>
+                    <li>Structure organisationnelle</li>
+                    <li>Transparence</li>
+                    <li>Accessibilité</li>
+                    <li>Possibilités d’emploi</li>
                 </ul>
                 <p>La deuxième colonne contient&nbsp;:</p>
-                  <ul>
-                  <li>Rapports</li>
-                  <li>Conformité</li>
-                  <li>Notifications d’application de la loi</li>
-                  <li>[Lien institutionnel]</li>
-                  <li>En savoir plus : À propos de [l’institution]  (Remarque : «&nbsp;en savoir plus&nbsp;» n’est pas lié) </li>
+                <ul>
+                    <li>Rapports</li>
+                    <li>Conformité</li>
+                    <li>Notifications d’application de la loi</li>
+                    <li>[Lien institutionnel]</li>
+                    <li>En savoir plus : À propos de [l’institution] (Remarque : «&nbsp;en savoir plus&nbsp;» n’est pas lié)</li>
                 </ul>
                 <p>La configuration de conception des chaînes de médias sociaux commence par le titre « Sur les médias sociaux ». Sous le titre se trouve une liste verticale avec des icônes et des étiquettes associées&nbsp;:</p>
                 <ul>
-                <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
-                <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
-                <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
-                <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
-                <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
+                    <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
+                    <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
+                    <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
+                    <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
+                    <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
                 </ul>
-                <p>L’élément suivant qui s’affiche sur la page est la configuration de conception d’un ministre ou d’un chef d’institution. La configuration de conception s’affiche en 2 colonnes avec l’en-tête «&nbsp;Ministre(s)&nbsp;». </p>
-                <p>La première colonne présente un espace réservé pour l’image d’un chef d’institution à gauche. Les dimensions de l’image sont 200 x 250 pixels. Les renseignements à droite comprennent&nbsp;: </p>
+                <p>L’élément suivant qui s’affiche sur la page est la configuration de conception d’un ministre ou d’un chef d’institution. La configuration de conception s’affiche en 2 colonnes avec l’en-tête «&nbsp;Ministre(s)&nbsp;».</p>
+                <p>La première colonne présente un espace réservé pour l’image d’un chef d’institution à gauche. Les dimensions de l’image sont 200 x 250 pixels. Les renseignements à droite comprennent&nbsp;:</p>
                 <ul>
-                <li>L’honorable [nom du ou de la ministre] (lien)</li>
-                <li>[Titre officiel] (texte)</li>
-                <li>Élément de liste&nbsp;: Lettre de mandat [facultatif] (lien)</li>
-                <li>Élément de liste&nbsp;: Dossier d’information [facultatif] (lien)</li>
+                    <li>L’honorable [nom du ou de la ministre] (lien)</li>
+                    <li>[Titre officiel] (texte)</li>
+                    <li>Élément de liste&nbsp;: Lettre de mandat [facultatif] (lien)</li>
+                    <li>Élément de liste&nbsp;: Dossier d’information [facultatif] (lien)</li>
                 </ul>
-                <p>La deuxième colonne présente un espace réservé pour l’image d’un chef d’institution à gauche. Les dimensions de l’image sont 200 x 250 pixels. Les renseignements à droite comprennent&nbsp;: </p>
+                <p>La deuxième colonne présente un espace réservé pour l’image d’un chef d’institution à gauche. Les dimensions de l’image sont 200 x 250 pixels. Les renseignements à droite comprennent&nbsp;:</p>
                 <ul>
-                <li>L’honorable [nom du ou de la ministre] (lien)</li>
-                <li>[Titre officiel] (texte)</li>
-                <li>Élément de liste : Lettre de mandat [facultatif - élément unique] (lien)</li>
+                    <li>L’honorable [nom du ou de la ministre] (lien)</li>
+                    <li>[Titre officiel] (texte)</li>
+                    <li>Élément de liste : Lettre de mandat [facultatif - élément unique] (lien)</li>
                 </ul>
-                <p>Sous cette configuration de conception se trouve celle des dernières nouvelles à gauche et celle des promotions contextuelles à droite. La configuration de conception des dernières nouvelles a un titre qui lit « Nouvelles » suivi de trois groupes de texte. Chaque groupe a un texte d’espace réservé en gras avec lien qui se lit [Titre de nouvelles] suivi d’un texte d’espace réservé pour la date sur une nouvelle ligne. Le format de date affiché est AAAA-MM-JJ HH:MM. Après les trois groupes de texte, il y a une autre ligne de texte qui se lit comme suit : «&nbsp;En savoir plus : Nouvelles de [institution]&nbsp;». Les mots « Nouvelles de [institution] » ont un lien.</p>
-                <p>La configuration de conception des promotions contextuelles est composée d’un titre intitulé «&nbsp;En vedette&nbsp;» suivi de deux espaces réservés de promotions contextuelles dans une rangée horizontale. Chacune a un espace réservé pour l’image entouré d’un fond gris pâle. Dans l’espace réservé à l’image se trouvent les dimensions d’image prescrites : 360 x 203 pixels. Sous chaque espace réservé d’image sur fond gris se trouve un lien d’espace réservé qui se lit [Hyperlien de l’élément en vedette]. En dessous se trouve le texte d’espace réservé suivant : Brève description de l’élément en vedette. </p>
+                <p>
+                    Sous cette configuration de conception se trouve celle des dernières nouvelles à gauche et celle des promotions contextuelles à droite. La configuration de conception des dernières nouvelles a un titre qui lit «
+                    Nouvelles » suivi de trois groupes de texte. Chaque groupe a un texte d’espace réservé en gras avec lien qui se lit [Titre de nouvelles] suivi d’un texte d’espace réservé pour la date sur une nouvelle ligne. Le format de
+                    date affiché est AAAA-MM-JJ HH:MM. Après les trois groupes de texte, il y a une autre ligne de texte qui se lit comme suit : «&nbsp;En savoir plus : Nouvelles de [institution]&nbsp;». Les mots « Nouvelles de
+                    [institution] » ont un lien.
+                </p>
+                <p>
+                    La configuration de conception des promotions contextuelles est composée d’un titre intitulé «&nbsp;En vedette&nbsp;» suivi de deux espaces réservés de promotions contextuelles dans une rangée horizontale. Chacune a un
+                    espace réservé pour l’image entouré d’un fond gris pâle. Dans l’espace réservé à l’image se trouvent les dimensions d’image prescrites : 360 x 203 pixels. Sous chaque espace réservé d’image sur fond gris se trouve un
+                    lien d’espace réservé qui se lit [Hyperlien de l’élément en vedette]. En dessous se trouve le texte d’espace réservé suivant : Brève description de l’élément en vedette.
+                </p>
             </details>
         </figure>
     </div>
-      <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Page d’accueil institutionnelle – petit écran</b></figcaption>
             <img src="../images/ilp-small.png" class="img-responsive" alt="Institutional landing page for small screens. Text version below:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
-                <p>Dans la partie supérieure de la page se trouve un bloc d’introduction qui comprend un h1 intitulé [Nom de l’institution]. Il est souligné d’un court trait rouge épais. Sous l’en-tête se trouve une courte description du mandat de l’institution.</p>
+                <p>
+                    Dans la partie supérieure de la page se trouve un bloc d’introduction qui comprend un h1 intitulé [Nom de l’institution]. Il est souligné d’un court trait rouge épais. Sous l’en-tête se trouve une courte description du
+                    mandat de l’institution.
+                </p>
                 <p>Après le bloc d’introduction, il y a un bouton de super-tâche qui est un rectangle vert avec les mots Bouton de super-tâche [facultatif].</p>
-                <p>Sous celui-ci se trouve la configuration de conception de lien en vedette. Elle est contenue dans une bande bleue horizontale qui s’étend sur toute la longueur de l’écran. À l’intérieur de la bande se trouve un texte blanc souligné qui se lit comme suit : Lien en vedette [facultatif].</p>
-                <p>L’élément suivant sur la page est la configuration de conception en demande. Elle est contenue dans une bande gris pâle qui s’étend sur toute la longueur de l’écran. Dans la bande se trouvent les mots En demande en texte noir. Ils sont suivis d’une liste unique de liens dans une liste à puces. Le texte d’espace réservé pour chaque lien est [Hyperlien de la tâche principale].</p>
-                <p>Sous cet espace se trouve la configuration de conception des services et renseignements. Elle est composée de neuf menus d’accueil thématiques distincts affichés qui sont empilés verticalement les uns sur les autres. Chaque menu d'accueil thématique a un titre d’espace réservé lié qui affiche [Texte de l’hyperlien]. Sous le titre, il y a une description d’espace réservé qui contiennent les instructions suivantes : Utilisez des verbes d’action ou répertoriez simplement des mots-clés pour résumer les renseignements ou les tâches qui peuvent être accomplies sur la page à laquelle ils renvoient.</p>
-                <p>L’élément suivant sur la page est la configuration de conception de la bande de coordonnées. Elle est contenue dans une bande gris pâle qui s’étend sur toute la longueur de l’écran. Il y a un en-tête «&nbsp;Coordonnées&nbsp;» suivi de trois liens dans une rangée verticale. Le premier lien est Communiquez avec [Institution], les liens suivants sont des espaces réservés pour les principales tâches de contact.</p>
+                <p>
+                    Sous celui-ci se trouve la configuration de conception de lien en vedette. Elle est contenue dans une bande bleue horizontale qui s’étend sur toute la longueur de l’écran. À l’intérieur de la bande se trouve un texte
+                    blanc souligné qui se lit comme suit : Lien en vedette [facultatif].
+                </p>
+                <p>
+                    L’élément suivant sur la page est la configuration de conception en demande. Elle est contenue dans une bande gris pâle qui s’étend sur toute la longueur de l’écran. Dans la bande se trouvent les mots En demande en texte
+                    noir. Ils sont suivis d’une liste unique de liens dans une liste à puces. Le texte d’espace réservé pour chaque lien est [Hyperlien de la tâche principale].
+                </p>
+                <p>
+                    Sous cet espace se trouve la configuration de conception des services et renseignements. Elle est composée de neuf menus d’accueil thématiques distincts affichés qui sont empilés verticalement les uns sur les autres.
+                    Chaque menu d'accueil thématique a un titre d’espace réservé lié qui affiche [Texte de l’hyperlien]. Sous le titre, il y a une description d’espace réservé qui contiennent les instructions suivantes : Utilisez des verbes
+                    d’action ou répertoriez simplement des mots-clés pour résumer les renseignements ou les tâches qui peuvent être accomplies sur la page à laquelle ils renvoient.
+                </p>
+                <p>
+                    L’élément suivant sur la page est la configuration de conception de la bande de coordonnées. Elle est contenue dans une bande gris pâle qui s’étend sur toute la longueur de l’écran. Il y a un en-tête
+                    «&nbsp;Coordonnées&nbsp;» suivi de trois liens dans une rangée verticale. Le premier lien est Communiquez avec [Institution], les liens suivants sont des espaces réservés pour les principales tâches de contact.
+                </p>
                 <p>La bande de coordonnées est suivie de la configuration de conception à propos de l’institution. Elle se compose d’une rubrique «&nbsp;À propos de [l’institution]&nbsp;». Suivi de neuf liens en gras&nbsp;:</p>
                 <ul>
-                  <li>Mandat</li>
-                  <li>Structure organisationnelle</li>
-                  <li>Transparence</li>
-                  <li>Accessibilité</li>
-                  <li>Possibilités d’emploi</li>
-                  <li>Rapports</li>
-                  <li>Conformité</li>
-                  <li>Notifications d’application de la loi</li>
-                  <li>[Lien institutionnel]</li>
-                  <li>En savoir plus&nbsp;: À propos de [l’institution]  (Remarque : «&nbsp;en savoir plus&nbsp;» n’est pas lié) </li>
+                    <li>Mandat</li>
+                    <li>Structure organisationnelle</li>
+                    <li>Transparence</li>
+                    <li>Accessibilité</li>
+                    <li>Possibilités d’emploi</li>
+                    <li>Rapports</li>
+                    <li>Conformité</li>
+                    <li>Notifications d’application de la loi</li>
+                    <li>[Lien institutionnel]</li>
+                    <li>En savoir plus&nbsp;: À propos de [l’institution] (Remarque : «&nbsp;en savoir plus&nbsp;» n’est pas lié)</li>
                 </ul>
-                <p>Sous la configuration de conception à propos de l’institution se trouve celle des chaînes de médias sociaux. Elle commence par le titre «&nbsp;Sur les médias sociaux&nbsp;». Sous le titre se trouve une liste verticale avec des icônes et des étiquettes associées&nbsp;:</p>
+                <p>
+                    Sous la configuration de conception à propos de l’institution se trouve celle des chaînes de médias sociaux. Elle commence par le titre «&nbsp;Sur les médias sociaux&nbsp;». Sous le titre se trouve une liste verticale
+                    avec des icônes et des étiquettes associées&nbsp;:
+                </p>
                 <ul>
-                <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
-                <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
-                <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
-                <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
-                <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
+                    <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
+                    <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
+                    <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
+                    <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
+                    <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
                 </ul>
-                <p>L’élément suivant qui s’affiche sur la page est la configuration de conception d’un ministre ou d’un chef d’institution. La configuration de conception commence par le titre «&nbsp;Ministre(s)&nbsp;» et est suivi de deux éléments.</p>
-                <p>Le premier élément commence par un titre avec lien «&nbsp;L’honorable [nom du ou de la ministre]&nbsp;» suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le texte [Titre officiel]. Il est suivi d’une liste à puces avec les deux éléments avec lien suivants&nbsp;: </p>
+                <p>
+                    L’élément suivant qui s’affiche sur la page est la configuration de conception d’un ministre ou d’un chef d’institution. La configuration de conception commence par le titre «&nbsp;Ministre(s)&nbsp;» et est suivi de deux
+                    éléments.
+                </p>
+                <p>
+                    Le premier élément commence par un titre avec lien «&nbsp;L’honorable [nom du ou de la ministre]&nbsp;» suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le
+                    texte [Titre officiel]. Il est suivi d’une liste à puces avec les deux éléments avec lien suivants&nbsp;:
+                </p>
                 <ul>
-                <li>Lettre de mandat [facultatif]</li>
-                <li>Dossier d’information [facultatif]</li>
+                    <li>Lettre de mandat [facultatif]</li>
+                    <li>Dossier d’information [facultatif]</li>
                 </ul>
-                <p>Le deuxième élément commence par un titre avec lien « L’honorable [nom du ou de la ministre] » suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le texte [Titre officiel]. Il est suivi de l’élément avec lien suivant&nbsp;:</p>
+                <p>
+                    Le deuxième élément commence par un titre avec lien « L’honorable [nom du ou de la ministre] » suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le texte [Titre
+                    officiel]. Il est suivi de l’élément avec lien suivant&nbsp;:
+                </p>
                 <ul>
-                <li>Lettre de mandat [facultatif – élément unique]</li>
+                    <li>Lettre de mandat [facultatif – élément unique]</li>
                 </ul>
-                <p>Sous cette configuration de conception se trouve celle des dernières nouvelles ; elle a un titre qui se lit «&nbsp;Nouvelles&nbsp;» suivi de trois groupes de texte. Chaque groupe a un texte d’espace réservé en gras avec lien qui se lit [Titre de nouvelles] suivi d’un texte d’espace réservé pour la date sur une nouvelle ligne. Le format de date affiché est AAAA-MM-JJ HH:MM. Après les trois groupes de texte, il y a une autre ligne de texte qui se lit comme suit : «&nbsp;En savoir plus : Nouvelles de [institution]&nbsp;». Les mots «&nbsp;Nouvelles de [institution]&nbsp;» ont un lien.</p>
-                <p>L’élément suivant sur la page est la configuration de conception des promotions contextuelles. Elle est composée d’un titre intitulé «&nbsp;En vedette&nbsp;» suivie de deux éléments. Chaque élément a un espace réservé pour l’image entouré d’un fond gris pâle. Dans l’espace réservé à l’image se trouvent les dimensions d’image prescrites : 360 x 203 pixels. Sous chaque espace réservé d’image sur fond gris se trouve un lien d’espace réservé qui se lit [Hyperlien de l’élément en vedette]. En dessous se trouve le texte d’espace réservé suivant&nbsp;: Brève description de l’élément en vedette.</p>
+                <p>
+                    Sous cette configuration de conception se trouve celle des dernières nouvelles ; elle a un titre qui se lit «&nbsp;Nouvelles&nbsp;» suivi de trois groupes de texte. Chaque groupe a un texte d’espace réservé en gras avec
+                    lien qui se lit [Titre de nouvelles] suivi d’un texte d’espace réservé pour la date sur une nouvelle ligne. Le format de date affiché est AAAA-MM-JJ HH:MM. Après les trois groupes de texte, il y a une autre ligne de
+                    texte qui se lit comme suit : «&nbsp;En savoir plus : Nouvelles de [institution]&nbsp;». Les mots «&nbsp;Nouvelles de [institution]&nbsp;» ont un lien.
+                </p>
+                <p>
+                    L’élément suivant sur la page est la configuration de conception des promotions contextuelles. Elle est composée d’un titre intitulé «&nbsp;En vedette&nbsp;» suivie de deux éléments. Chaque élément a un espace réservé
+                    pour l’image entouré d’un fond gris pâle. Dans l’espace réservé à l’image se trouvent les dimensions d’image prescrites : 360 x 203 pixels. Sous chaque espace réservé d’image sur fond gris se trouve un lien d’espace
+                    réservé qui se lit [Hyperlien de l’élément en vedette]. En dessous se trouve le texte d’espace réservé suivant&nbsp;: Brève description de l’élément en vedette.
+                </p>
             </details>
         </figure>
     </div>
@@ -236,7 +310,11 @@ title: Page d’accueil institutionnelle
                         <summary><strong>AEM-GC</strong></summary>
                         <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada&nbsp;:</p>
                         <ul>
-                            <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCPédia - accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
+                            <li>
+                                <a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">
+                                    Documentation d’AEM et des services Web gérés (lien GCPédia - accessible uniquement sur le réseau du gouvernement du Canada)
+                                </a>
+                            </li>
                         </ul>
                     </details>
                     <details id="005">
@@ -259,49 +337,56 @@ title: Page d’accueil institutionnelle
     </div>
 </section>
 <section>
-    <h2 id="research"> Recherche et justification</h2>
+    <h2 id="research">Recherche et justification</h2>
     <p>Consultez les conclusions de la recherche et la justification de la politique.</p>
     <h3>Constatations découlant de la recherche</h3>
-    <p>Nous avons validé la page d’accueil institutionnelle dans le cadre de deux projets d’optimisation avec l’Agence du revenu du Canada. Nous avons constaté que cette conception était utile pour fournir un accès aux principales tâches d’une institution tout en permettant aux utilisateurs d’accéder aux renseignements d’entreprise sur l’organisme.</p>
+    <p>
+        Nous avons validé la page d’accueil institutionnelle dans le cadre de deux projets d’optimisation avec l’Agence du revenu du Canada. Nous avons constaté que cette conception était utile pour fournir un accès aux principales tâches
+        d’une institution tout en permettant aux utilisateurs d’accéder aux renseignements d’entreprise sur l’organisme.
+    </p>
     <h3>Justification stratégique</h3>
     <p>Ce modèle est un élément obligatoire des spécifications du contenu et de l’architecture de l’information pour Canada.ca.</p>
     <ul>
-        <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
+        <li>
+            <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">
+                Éléments obligatoires du système de conception
+            </a>
+        </li>
     </ul>
 </section>
 <section>
     <h2 id="latest">Derniers changements</h2>
     <dl class="dl-horizontal">
-     <dt>
+        <dt>
             <time datetime="2023-10-xx" class="link-muted">2023-10-xx</time>
         </dt>
         <dd>
-        <ul>
-            <li>Déplacement du modèle de l’état bêta à stable</li>
-            <li>Mise à jour des orientations visant à inclure des spécifications en matière de contenu et de conception, des exemples visuels et des orientations sur la mise en œuvre./li>
-        </ul>
+            <ul>
+                <li>Déplacement du modèle de l’état bêta à stable</li>
+                <li>Mise à jour des orientations visant à inclure des spécifications en matière de contenu et de conception, des exemples visuels et des orientations sur la mise en œuvre./li></li>
+            </ul>
         </dd>
-    <dt>
+        <dt>
             <time datetime="2020-07-23" class="link-muted">2020-07-23</time>
         </dt>
         <dd>
-        <ul>
-            <li>Examen du code frontal, création de modifications de l’ensemble HTML/CSS</li>
-            <li>Supprimer l’opacité du lien en vedette pour le contraste</li>
-            <li>Améliorations de la disposition de l’image d’arrière-plan</li>
-        </ul>
+            <ul>
+                <li>Examen du code frontal, création de modifications de l’ensemble HTML/CSS</li>
+                <li>Supprimer l’opacité du lien en vedette pour le contraste</li>
+                <li>Améliorations de la disposition de l’image d’arrière-plan</li>
+            </ul>
         </dd>
-       <dt>
+        <dt>
             <time datetime="2020-07-13" class="link-muted">2020-07-13</time>
         </dt>
         <dd>
-        <ul>
-            <li>Modifications pour résoudre les problèmes d’accessibilité</li>
-            <li>La configuration de conception en demande a été mise à jour avec une liste à puces</li>
-            <li>Modifications apportées aux colonnes du menu d’accueil thématique en mode tablette</li>
-        </ul>
+            <ul>
+                <li>Modifications pour résoudre les problèmes d’accessibilité</li>
+                <li>La configuration de conception en demande a été mise à jour avec une liste à puces</li>
+                <li>Modifications apportées aux colonnes du menu d’accueil thématique en mode tablette</li>
+            </ul>
         </dd>
-       <dt>
+        <dt>
             <time datetime="2020-03-05" class="link-muted">2020-03-05</time>
         </dt>
         <dd>ajout d’une classe CSS facultative pour masquer l’image d’en-tête en mode tablette</dd>
