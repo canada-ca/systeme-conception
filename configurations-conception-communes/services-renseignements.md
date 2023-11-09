@@ -34,7 +34,7 @@ title: Services et renseignements
   <h3>Spécifications de contenu</h3>
   <p>Le style est très important lors de la mise en œuvre de la configuration services et renseignements. Veuillez consulter le Guide de rédaction du contenu du site Canada.ca pour obtenir de plus amples renseignements sur la façon de rédiger du contenu pour cette configuration.</p>
   <ul>
-    <li><a href="//guide-redaction/">Guide de rédaction du contenu du site Canada.ca</a></li>
+    <li><a href="https://conception.canada.ca/guide-redaction/">Guide de rédaction du contenu du site Canada.ca</a></li>
   </ul>
   <p>Chaque menu d’accueil thématique se compose d’un titre et d’une description. Le titre est un lien.</p>
   <h4>Menus d’accueil thématique</h4>
@@ -73,6 +73,14 @@ title: Services et renseignements
         <li>L’ordre des tabulations est de gauche à droite, puis de haut en bas.</li>
       </ul>
     </li>
+    <li>
+        Titres&nbsp;:
+        <ul>
+            <li>Couleur&nbsp;: <a href="https://design.canada.ca/styles/colours.html">Couleurs de lien normalisées</a></li>
+            <li>Taille de la police&nbsp;: Canada.ca H3 (1em)</li>
+            <li>Famille de police&nbsp;: Lato Sans</li>
+        </ul>
+    </li>
     <li>Descriptions&nbsp;:
       <ul>
         <li>Couleur&nbsp;: <a href="/styles/couleurs.html">Couleur de texte normalisée</a></li>
@@ -94,7 +102,7 @@ title: Services et renseignements
       <figcaption><b>Services et renseignements - grand écran</b></figcaption>
       <img src="/images/services-info-fr.png" class="img-responsive" alt="Services et renseignements pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: services et renseignements - grand écran</summary>
         <p>Neuf menus d’accueil thématique distincts sont affichés sur trois colonnes et trois lignes. Le titre de chaque menu d’accueil thématique est un lien. En dessous du titre figurent des mots-clés qui décrivent ce que l’on trouvera en cliquant sur le titre du lien.</p>
       </details>
     </figure>
@@ -104,7 +112,7 @@ title: Services et renseignements
       <figcaption><b>Services et renseignements - petit écran</b></figcaption>
       <img src="/images/services-info-sm-fr.png" class="img-responsive" alt="Services et renseignements pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: services et renseignements - petit écran</summary>
         <p>Neuf menus d’accueil thématique distincts sont affichés sous forme de liste. Le titre de chaque menu d’accueil thématique est un lien. En dessous du titre figurent des mots-clés qui décrivent ce que l’on trouvera en cliquant sur le titre du lien.</p>
       </details>
     </figure>
@@ -143,7 +151,7 @@ title: Services et renseignements
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+              <li><a href="https://drupalwxt.github.io">Documentation de Drupal WxT</a> (en anglais seulement)</li>
             </ul>
           </details>
         </div>
@@ -153,7 +161,7 @@ title: Services et renseignements
 </section>
 <section id="recherche">
   <h2>Recherche et justification</h2>
-  <p>Consult resarch findings and policy rationale.</p>
+  <p>Consultez les conclusions de la recherche et la justification de la politique.</p>
   <h3>Constatations découlant de la recherche</h3>
   <p><a href="https://blogue.canada.ca/resumes-recherche/comptes-entreprises-resume-recherche.html">Résumé de recherche&nbsp;: Déclaration de revenus</a></p>
   <p>Ce résumé de recherche explique comment le choix des bons mots-clés a aidé les utilisateurs à trouver les renseignements dont ils avaient besoin. Il explique également comment l’équipe a réduit et simplifié le texte en mettant les mots-clés au début des titres, des liens et des descriptions. De meilleures pistes d’information.</p>
