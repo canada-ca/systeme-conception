@@ -1758,7 +1758,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </figure>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"><strong>Figure 5</strong></figcaption>
-      <img alt="Figure de la : la description suit" class="img-responsive center-block" src="/guide-redaction/images/organigramme-taux-fixe.png">
+      <img alt="Cet organigramme vous aidera à choisir le projet d’accessibilité qui vous convient le mieux : la description suit" class="img-responsive center-block" src="/guide-redaction/images/organigramme-taux-fixe.png">
       <details>
         <summary>Figure 5 - Version textuelle</summary>
         <p class="mrgn-tp-lg">L'organigramme vous présente des questions que vous pouvez répondre par oui ou non. Si vous répondez &laquo;&nbsp;&nbsp;non&nbsp;», il vous recommande d'autres projets d'accessibilité.</p>
