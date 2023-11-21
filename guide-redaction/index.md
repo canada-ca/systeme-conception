@@ -1856,16 +1856,18 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p><a href="#wp6-2">Ajoutez un texte alternatif</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
     <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>.</p>
     <h5>Exemple d'une image décorative</h5>
-    <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="/guide-redaction/images/fig-06-fra.jpg"></p>
-    <p><strong>Description de l'image</strong></p>
-    <p>Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail.</p>
+    <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="/guide-redaction/images/panier-01.png"></p>
+    <h5>Ne décrivez pas les images décoratives</h5>
+    <p>Les images décoratives ne nécessitent pas de description. Elles ont pour seul objectif de rendre le contenu visuellement attrayant, et non de fournir du contexte. L’image décorative dans l’exemple nous sert juste à créer un intérêt sur le plan visuel. L’utilisation d’une description pour une image décorative donne au lectorat des renseignements superflus qui peuvent distraire du contenu de la page.</p>
+    <h5>Texte de remplacement pour les images décoratives</h5>
+    <p>Utilisez l’indicateur vide (null) comme texte de remplacement (alt="") pour les images décoratives. Cela indique aux lecteurs d’écran d’ignorer l’image.</p>
   </section>
   <section id="wp6-1-3">
-    <h4>Taille et positionnement des images</h4>
-    <p>Pour savoir où placer les images et les vidéos dans Canada.ca et quelle devrait être leur taille&nbsp;:</p>
+    <h4>Taille et placement des images</h4>
+    <p>Apprenez où placer les images et vidéos sur les pages Canada.ca et quelle taille leur donner&nbsp;:</p>
     <ul>
-      <li>utilisez les modèles contenus dans les <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-fra.asp">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite>;</li>
-      <li>référez-vous aux <a href="http://wet-boew.github.io/themes-dist/GCWeb/index-fr.html">types de pages pour Canada.ca sur le site GitHub</a>.</li>
+      <li>Utilisez les gabarits des <a href="https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html">spécifications du contenu et de l’architecture de l’information pour Canada.ca</a></li>
+      <li>Examinez les <a href="https://wet-boew.github.io/GCWeb/index-fr.html">types de pages de Canada.ca sur GitHub</a></li>
     </ul>
   </section>
   <h4>Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise</h4>
