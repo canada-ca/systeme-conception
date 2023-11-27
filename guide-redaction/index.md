@@ -1856,7 +1856,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p><a href="#wp6-2">Ajoutez un texte alternatif</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
     <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>.</p>
     <h5>Exemple d'une image décorative</h5>
-    <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="/guide-redaction/images/panier-03.png"></p>
+    <p><img alt="Image décorative en contexte pour créer un intérêt visuel" class="img-responsive center-block" src="/guide-redaction/images/panier-03.png"></p>
     <h5>Ne décrivez pas les images décoratives</h5>
     <p>Les images décoratives ne nécessitent pas de description. Elles ont pour seul objectif de rendre le contenu visuellement attrayant, et non de fournir du contexte. L’image décorative dans l’exemple nous sert juste à créer un intérêt sur le plan visuel. L’utilisation d’une description pour une image décorative donne au lectorat des renseignements superflus qui peuvent distraire du contenu de la page.</p>
     <h5>Texte de remplacement pour les images décoratives</h5>
