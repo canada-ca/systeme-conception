@@ -26,8 +26,8 @@ title: "En demande"
 </section>
 <section id="eviter">
   <h2>Quoi éviter</h2>
-  <p>N’utilisez pas ce modèle lorsque vous voulez que les gens restent sur la page et fassent leur tâche.</p>
-  <p>e l’utilisez pas pour promouvoir les préférences ministérielles. Utilisez des données et des preuves pour déterminer les principales tâches auxquelles les personnes essaient d’accéder.</p>
+  <p>N’utilisez pas ce modèle lorsque vous voulez que les gens restent sur la page et accomplissent leur tâche.</p>
+  <p>Ne l’utilisez pas pour promouvoir les préférences ministérielles. Utilisez des données et des preuves pour déterminer les principales tâches auxquelles les personnes essaient d’accéder.</p>
   <p>Ne présentez pas différentes tâches principales sur les versions anglaise et française de la page d’accueil. Les principales tâches doivent être les mêmes dans les deux langues.</p>
 </section>
 <section id="contenu">
@@ -50,7 +50,7 @@ title: "En demande"
     <li>l’en-tête de section apparaît au-dessus des liens;</li>
     <li>la liste des liens apparaît dans une seule colonne.</li>
   </ul>
-  <h3>Design specifications</h3>
+  <h3>Spécifications de conception</h3>
   <ul>
     <li>Mise en page&nbsp;:
       <ul>
@@ -64,8 +64,8 @@ title: "En demande"
         <li>Famille de police&nbsp;: Noto Sans</li>
         <li>Épaisseur de la police&nbsp;: gras</li>
         <li>Titre: H2, Lato&nbsp;: 1,2&nbsp;em</li>
-        <li>Hauteur de ligne&nbsp;: 2&nbsp;em (la taille de base est X)</li>
-        <li>Taille du texte&nbsp;: 19&nbsp;px</li>
+        <li>Hauteur de ligne&nbsp;: 2&nbsp;em (la taille de base est 20&nbsp;px)</li>
+        <li>Taille du texte&nbsp;: 87% (la taille de base est 20&nbsp;px)</li>
       </ul>
     </li>
   </ul>
@@ -75,7 +75,7 @@ title: "En demande"
       <figcaption><b>En demande – grand écran</b></figcaption>
       <img src="../images/most-requested-fr.png" class="img-responsive" alt="En demande pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: en demande - grand écran</summary>
         <p>Les liens en demande apparaissent dans une bande horizontale avec l’en-tête de section &laquo;&nbsp;En demande&nbsp;&raquo;. Les liens sont organisés dans une liste à puces.</p>
       </details>
     </figure>
@@ -85,7 +85,7 @@ title: "En demande"
       <figcaption><b>En demande – petit écran</b></figcaption>
       <img src="/images/most-requested-sm-fr.png" class="img-responsive" alt="En demande pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: en demande - petit écran</summary>
         <p>Les liens en demande apparaissent dans une liste à puces sous l’en-tête de section &laquo;&nbsp;En demande&nbsp;&raquo;.</p>
       </details>
     </figure>
@@ -122,7 +122,7 @@ title: "En demande"
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Documentation relative à Drupal WxT</a> (en anglais seulement) </li>
+              <li><a href="https://drupalwxt.github.io/">Documentation relative à Drupal WxT</a> (en anglais seulement) </li>
             </ul>
           </details>
         </div>
