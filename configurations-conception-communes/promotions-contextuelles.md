@@ -118,7 +118,7 @@ title: "Promotions contextuelles"
       <figcaption><b>Promotions contextuelles – grand écran</b></figcaption>
       <img src="/images/contextual-features-fr.png" class="img-responsive" alt="Promotions contextuelles pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: promotions contextuelles - grand écran</summary>
         <p>Un en-tête de section intitulé &laquo;&nbsp;En vedette&nbsp;&raquo; est suivi de deux espaces réservés aux éléments en vedette dans une rangée horizontale. Chacun d’eux comporte un espace réservé à l’image, entouré d’un fond gris clair. L’espace réservé à l’image contient les dimensions prévues de l’image&nbsp;: 360 sur 203 pixels. Sous chaque espace réservé à l’image, sur fond gris, se trouve un espace réservé à un hyperlien qui se lit comme suit&nbsp;: [Hyperlien de l’élément en vedette]. On trouve en dessous le texte de l’espace réservé suivant&nbsp;: Brève description de l’élément en vedette.</p>
       </details>
     </figure>
@@ -128,7 +128,7 @@ title: "Promotions contextuelles"
       <figcaption><b>Promotions contextuelles – petit écran</b></figcaption>
       <img src="/images/contextual-features-sm-fr.png" class="img-responsive" alt="Promotions contextuelles pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: promotions contextuelles - petit écran</summary>
         <p>Un en-tête de section intitulé &laquo;&nbsp;En vedette&nbsp;&raquo; est suivi de deux espaces réservés aux éléments en vedette dans une rangée verticale. Chacun d’eux comporte un espace réservé à l’image, entouré d’un fond gris clair. L’espace réservé à l’image contient les dimensions prévues de l’image&nbsp;: 360 sur 203 pixels. Sous chaque espace réservé à l’image, sur fond gris, se trouve un espace réservé à un hyperlien qui se lit comme suit&nbsp;: [Hyperlien de l’élément en vedette]. On trouve en dessous le texte de l’espace réservé suivant&nbsp;: Brève description de l’élément en vedette.</p>
       </details>
     </figure>
@@ -151,7 +151,7 @@ title: "Promotions contextuelles"
             <summary><strong>GC-AEM</strong></summary>
             <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
             <ul>
-              <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/24/Documentation-AEM-6.5-Unite-4-15-Composant-Image-en-vedette.pdf">Titre du composant de l’image en vedette (uniquement accessible sur le réseau du gouvernement du Canada)</a></li>
+              <!-- <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/24/Documentation-AEM-6.5-Unite-4-15-Composant-Image-en-vedette.pdf">Titre du composant de l’image en vedette (uniquement accessible sur le réseau du gouvernement du Canada)</a></li> -->
               <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
             </ul>
           </details>
@@ -159,14 +159,14 @@ title: "Promotions contextuelles"
             <summary><strong>SGDC</strong></summary>
             <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
             <ul>
-              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">CDTS documentation</a></li>
             </ul>
           </details>
           <details id="006">
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Drupal WxT documentation</a> (en anglais seulement)</li>
+              <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a> (en anglais seulement)</li>
             </ul>
           </details>
         </div>
@@ -176,13 +176,15 @@ title: "Promotions contextuelles"
 </section>
 <section id="recherche">
   <h2>Recherche et justification</h2>
-  <h3>Constatations découlant des recherches</h3>
+  <p>Consultez les conclusions de la recherche et la justification de la politique.</p>
+  <h3>Constatations découlant de la recherche</h3>
   <p>La qualité vaut mieux que la quantité. Les recherches sur l’amélioration des promotions sur Canada.ca montrent que les éléments en vedette sont les plus efficaces lorsqu’ils sont pertinents par rapport au contenu de la page. Il est préférable d’utiliser une tuile unique promotionnelle, mais tenez-vous-en au minimum requis si vous prévoyez en utiliser plus d’une.</p>
   <h3>Justification stratégique</h3>
   <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
   <ul>
-    <li><a href="/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li><a href="#">Pages ministérielles</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html">Page de thème et de sujet</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
   </ul>
 </section>
 <section id="changements">
