@@ -69,7 +69,7 @@ title: "Ministre ou chef d’institution"
         <li><a href="/styles/typographie.html">Famille et taille de police standards pour le corps de texte de Canada.ca</a></li>
       </ul>
     </li>
-    <li> Title of institutional head
+    <li> Titre du chef d’institution
       <ul>
         <li><a href="/styles/couleurs.html">Couleurs standards des liens de Canada.ca</a></li>
         <li><a href="https://conception.canada.ca/styles/typographie.html">Famille et taille de police standards de Canada.ca</a>. La classe est petite et constitue 87 % de la taille de la police (celle du corps du texte est de 20 px)</li>
@@ -90,16 +90,16 @@ title: "Ministre ou chef d’institution"
         </li>
       </ul>
     </li>
-    <li>Images&nbsp;: 200px by 250px</li>
+    <li>Images&nbsp;: 200&nbsp;px par 250&nbsp;px</li>
     <li>Mise en page&nbsp;: Deux colonnes avec image à gauche et puces à droite sur les grands et les moyens écrans, ou une seule colonne sur les petits écrans</li>
   </ul>
   <h3>Exemples visuels</h3>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Configuration de conception pour un ministre ou un chef d’institution – grand écran</b></figcaption>
+      <figcaption><b>Ministre ou un chef d’institution – grand écran</b></figcaption>
       <img src="/images/ministers-block-en.png" class="img-responsive" alt="Configuration de conception pour un ministre ou un chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp; Ministre(s)&nbsp;&raquo;.</p>
         <p>La première colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
@@ -119,10 +119,10 @@ title: "Ministre ou chef d’institution"
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Configuration de conception pour un ministre ou un chef d’institution – petit écran</b></figcaption>
+      <figcaption><b>Ministre ou un chef d’institution – petit écran</b></figcaption>
       <img src="/images/ministers-block-en.png" class="img-responsive" alt="Configuration de conception pour un ministre ou un chef d’institution pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - petit écran</summary>
         <p>La configuration de conception s’affiche dans une colonne et deux éléments avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
         <p>Le premier élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ou de la ministre] » suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le texte [Titre officiel]. Il est suivi d’une liste à puces avec les deux éléments avec lien suivants&nbsp;:</p>
         <ul>
@@ -181,9 +181,9 @@ title: "Ministre ou chef d’institution"
   <h2>Recherche et justification</h2>
   <p>Consultez la justification de la politique.</p>
   <h3>Justification stratégique</h3>
-  <p>La configuration de conception pour un ministre ou un chef d’institution est requise dans les modèles obligatoires suivants :</p>
+  <p>La configuration de conception pour un ministre ou un chef d’institution est requise dans le modèle obligatoire suivant&nbsp;:</p>
   <ul>
-    <li><a href="/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
   </ul>
 </section>
 <section id="changements">
