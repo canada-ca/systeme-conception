@@ -23,7 +23,7 @@ title: Bande de coordonnées
   <p>Utilisez la bande de coordonnées sur les pages pour&nbsp;:</p>
   <ul>
     <li>présenter les coordonnées de manière cohérente dans divers contextes;</li>
-    <li>donner accès à plusieurs options de contact</li>
+    <li>donner accès à plusieurs options de contact.</li>
   </ul>
 </section>
 <section id="eviter">
@@ -33,7 +33,7 @@ title: Bande de coordonnées
 </section>
 <section id="contenu">
   <h2>Contenu et conception</h2>
-  <p>Trouvez des spécifications de contenu et de conception et des exemples visuels</p>
+  <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
   <h3>Spécifications de contenu</h3>
   <p>Utilisez un titre descriptif commençant par &laquo;&nbsp;Communiquer avec&nbsp;&raquo; ou &laquo;&nbsp;Coordonnées&nbsp;&raquo;.</p>
   <p>Utilisez un texte de lien descriptif afin que les coordonnées auxquelles l’utilisateur est mené soient claires.</p>
@@ -52,7 +52,7 @@ title: Bande de coordonnées
     <li>Arrière-plan&nbsp;:
       <ul>
         <li>Couleur par défaut&nbsp;: #f5f5f5</li>
-        <li>Marges intérieures (padding)&nbsp;:
+        <li>Marges intérieures (<i>padding</i>)&nbsp;:
           <ul>
             <li>Bas&nbsp;: 15&nbsp;px</li>
             <li>Haut&nbsp;: 15&nbsp;px</li>
@@ -66,13 +66,13 @@ title: Bande de coordonnées
       </ul>
     </li>
   </ul>
-  <h3>Visual examples</h3>
+  <h3>Exemples visuels</h3>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Bande de coordonnées standard – grand écran</b></figcaption>
       <img src="/images/contact-band-fr.png" class="img-responsive" alt="Bande de coordonnées standard pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bande de coordonnées standard - grand écran</summary>
         <p>Une bande grise horizontale avec le titre Coordonnées suivie de trois liens sur une seule rangée. Le premier lien est Communiquer avec [Institution]; les liens suivants sont des espaces réservés pour les tâches principales liées aux contacts.</p>
       </details>
     </figure>
@@ -82,17 +82,17 @@ title: Bande de coordonnées
       <figcaption><b>Bande de coordonnées standard – petit écran</b></figcaption>
       <img src="/images/contact-band-sm-fr.png" class="img-responsive" alt="Bande de coordonnées pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bande de coordonnées standard - petit écran</summary>
         <p>Une seule colonne avec un ombrage gris clair en arrière-plan. Le titre Coordonnées est suivi de trois liens. Le premier lien est Communiquer avec [Institution]; les liens suivants sont des espaces réservés pour les tâches principales liées aux contacts.</p>
       </details>
     </figure>
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Plusieurs bandes de coordonnées – grand écran</b></figcaption>
+      <figcaption><b>Bandes de coordonnées multiples – grand écran</b></figcaption>
       <img src="/images/contact-band-multi-fr.png" class="img-responsive" alt="Plusieurs bandes de coordonnées pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bande de coordonnées multiples - grand écran</summary>
         <p>Une bande blanche horizontale avec le titre Coordonnées pour [sujet] suivi de six liens. Les liens sont présentés sur deux rangées avec trois liens par rangée.</p>
         <p>La bande blanche est suivie d’une bande grise horizontale avec le titre Coordonnées pour [sujet] suivi de six liens. Les liens sont présentés sur deux rangées avec trois liens par rangée.</p>
       </details>
@@ -100,10 +100,10 @@ title: Bande de coordonnées
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Plusieurs bandes de coordonnées – petit écran</b></figcaption>
+      <figcaption><b>Bandes de coordonnées multiples – petit écran</b></figcaption>
       <img src="/images/contact-band-multi-sm-fr.png" class="img-responsive" alt="Bande de coordonnées pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bande de coordonnées multiples - petit écran</summary>
         <p>Une seule colonne avec un ombrage blanc contient le titre Coordonnées pour [sujet] suivi de six liens.</p>
         <p>Cette colonne est suivie d’une seule colonne avec un ombrage contenant le titre Coordonnées pour [sujet] suivi de six liens.</p>
       </details>
@@ -113,13 +113,8 @@ title: Bande de coordonnées
 <section id="œuvre">
   <h2>Comment procéder à la mise en œuvre</h2>
   <p>Trouvez des exemples pratiques et de code pour mettre en œuvre la configuration de conception bande de coordonnées.</p>
-  <h3>GCweb (WET) theme implementation reference</h3>
-  <p>The implementation reference includes how to configure elements of the design system.</p>
-  <ul>
-    <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-en.html">Quick implementation guide - GCWeb theme</a></li>
-  </ul>
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
-  <p>La référence à l’implémentation comprend la façon de configurer chaque élément de la page d’accueil institutionnelle.</p>
+  <p>La référence à l’implémentation comprend la façon de configurer chaque élément du système de conception.</p>
   <ul>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
@@ -147,7 +142,7 @@ title: Bande de coordonnées
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+              <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
             </ul>
           </details>
         </div>
@@ -157,6 +152,7 @@ title: Bande de coordonnées
 </section>
 <section id="recherche">
   <h2>Recherche et justification</h2>
+  <p>Consultez les conclusions de la recherche et la justification de la politique.</p>
   <h3>Constatations découlant de la recherche</h3>
   <p>L’Agence du revenu du Canada (ARC) et le Bureau de la transformation numérique ont mis au point des bandes de coordonnées dans le cadre du projet d’optimisation des coordonnées de l’ARC. Nous avons déterminé que les bandes de coordonnées sont utiles pour donner accès à des coordonnées précises pour différents services.</p>
   <h3>Justification stratégique</h3>
