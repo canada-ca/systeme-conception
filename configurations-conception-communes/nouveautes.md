@@ -59,10 +59,10 @@ title: "Dernières nouvelles"
   <h3>Exemples visuels</h3>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Configuration de conception des dernières nouvelles</b></figcaption>
+      <figcaption><b>Dernières nouvelles</b></figcaption>
       <img src="/images/latest-news-fr.png" class="img-responsive" alt="Configuration de conception des dernières nouvelles. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: dernières nouvelles</summary>
         <p>Un en-tête de section, Nouvelles, est suivi de trois liens. Chaque titre de lien est [Titre de la nouvelle]. Sous chaque lien, on trouve un espace réservé pour la date et l’heure, présenté comme AAAA-MM-JJ HH:MM. En dessous de la liste de liens et de dates, on trouve une ligne indiquant En savoir plus&nbsp;: Nouvelles de [Institution].</p>
       </details>
     </figure>
@@ -100,7 +100,7 @@ title: "Dernières nouvelles"
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+              <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
             </ul>
           </details>
         </div>
@@ -112,8 +112,8 @@ title: "Dernières nouvelles"
   <h2>Recherche et justification</h2>
   <p>La configuration de conception des dernières nouvelles est facultative pour les modèles obligatoires suivants :</p>
   <ul>
-    <li><a href="/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li><a href="#">Pages ministérielles</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/page">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
   </ul>
 </section>
 <section id="changements">
