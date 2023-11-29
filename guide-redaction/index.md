@@ -1657,7 +1657,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>diagramme</li>
       <li>Carte d'images</li>
     </ul>
-    <p><a href="#wp6-2">Ajoutez un texte alternatif approprié</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
     <h5>Exemples d'images fonctionnelles</h5>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
