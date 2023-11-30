@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2023-11-27
+dateModified: 2023-12-01
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -1849,24 +1849,23 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>page de thème ou de sujet;</li>
       <li>page d'accueil;</li>
       <li>pages d'une campagne publicitaire;</li>
-      <li>vignette promotionnelle d'une page de sujet ou de la page d'accueil (Activités et initiatives du gouvernement du Canada).</li>
+      <li>promotions contextuelles d'une page de sujet ou de la page d'accueil (Activités et initiatives du gouvernement du Canada).</li>
     </ul>
     <p>N'insérez pas de texte important, comme des titres de campagne ou de programme, dans des images décoratives.</p>
-    <p><a href="#wp6-2">Ajoutez un texte alternatif</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
     <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>.</p>
     <h5>Exemple d'une image décorative</h5>
     <p><img alt="Image décorative en contexte pour créer un intérêt visuel" class="img-responsive center-block" src="/guide-redaction/images/panier-03.png"></p>
     <h5>Ne décrivez pas les images décoratives</h5>
     <p>Les images décoratives ne nécessitent pas de description. Elles ont pour seul objectif de rendre le contenu visuellement attrayant, et non de fournir du contexte. L’image décorative dans l’exemple nous sert juste à créer un intérêt sur le plan visuel. L’utilisation d’une description pour une image décorative donne au lectorat des renseignements superflus qui peuvent distraire du contenu de la page.</p>
-    <h5>Texte de remplacement pour les images décoratives</h5>
-    <p>Utilisez l’indicateur vide (null) comme texte de remplacement (alt="") pour les images décoratives. Cela indique aux lecteurs d’écran d’ignorer l’image.</p>
+    <h5>Texte alternatif pour les images décoratives</h5>
+    <p>Utilisez l’indicateur vide (null) comme texte alternatif (alt="") pour les images décoratives. Cela indique aux lecteurs d’écran d’ignorer l’image.</p>
   </section>
   <section id="wp6-1-3">
     <h4>Taille et placement des images</h4>
     <p>Apprenez où placer les images et vidéos sur les pages Canada.ca et quelle taille leur donner&nbsp;:</p>
     <ul>
-      <li>Utilisez les gabarits des <a href="https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html">spécifications du contenu et de l’architecture de l’information pour Canada.ca</a></li>
-      <li>Examinez les <a href="https://wet-boew.github.io/GCWeb/index-fr.html">types de pages de Canada.ca sur GitHub</a></li>
+      <li>Utilisez les modèles contenus dans les <a href="https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html">spécifications du contenu et de l’architecture de l’information pour Canada.ca</a></li>
+      <li>Référez-vous aux <a href="https://wet-boew.github.io/GCWeb/index-fr.html">types de pages de Canada.ca sur GitHub</a></li>
     </ul>
   </section>
   <h4>Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise</h4>
