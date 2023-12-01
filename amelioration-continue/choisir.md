@@ -97,7 +97,7 @@ title: "Choisir quoi améliorer"
 
 <ul>
  <li>
-  <a href="./mesure/SRTGC.html">
+  <a href="https://conception.canada.ca/sondage/index.html">
    Sondage sur la réussite des tâches du GC
   </a>
  </li>
@@ -166,7 +166,7 @@ title: "Choisir quoi améliorer"
 
 <ul>
  <li>
-  <a href="./mesure/SRTGC.html">
+  <a href="https://conception.canada.ca/sondage/index.html">
    Sondage sur la réussite des tâches du GC
   </a>
  </li>
@@ -251,8 +251,3 @@ title: "Choisir quoi améliorer"
   </li>
  </ul>
 </nav>
-
-
-
-
-
