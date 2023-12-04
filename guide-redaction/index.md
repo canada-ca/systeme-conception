@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2023-12-01
+dateModified: 2023-12-04
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -40,13 +40,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>Nous avons apporté les modifications suivantes à cette version du guide&nbsp;:</p>
   <ul>
     <li>Amélioration de l’exemple no 5 d’image fonctionnelle dans la section <a href="#wp6-1-1">&laquo;&nbsp;Images fonctionnelles&nbsp;&raquo;</a>;</li>
-    <li>Amélioration de la section <a href="#wp6-1-2">&laquo;&nbsp;Image décorative&nbsp;&raquo;</a> à l’aide du contenu suivant&nbsp;:
-      <ul>
-        <li>Amélioration de l’exemple d’image décorative;</li>
-        <li>Approfondissement des lignes directrices pour l’utilisation d’images décoratives;</li>
-      </ul>
-    </li>
-    <li>Amélioration des exemples de tableaux simples dans la <a href="#wp5-3">section 5.3, &laquo;&nbsp;Utiliser des tableaux pour organiser des données&nbsp;&raquo;</a>;</li>
+    <li>Mise à jour de l'exemple dans la section <a href="#wp6-1-2">&laquo;&nbsp;Image décorative&nbsp;&raquo;</a> et ajout d'informations sur l'utilisation d'un indicateur vide (null) comme texte alternatif;</li>
+    <li>Amélioration des exemples de tableaux simples dans la section 5.3, <a href="#wp5-3">section 5.3, &laquo;&nbsp;Utiliser des tableaux pour organiser des données&nbsp;&raquo;</a>;</li>
     <li>Mise à jour du texte de la section <a href="https://conception.canada.ca/guide-redaction/#toc3">&laquo;&nbsp;Application&nbsp;&raquo;</a> pour souligner que la Directive sur la gestion des communications est la source d’information officielle pour les personnes devant utiliser ce guide;</li>
     <li>Mise à jour du texte de la section <a href="#wp1-2-1b">&laquo;&nbsp;Rédiger pour assurer l’inclusion&nbsp;&raquo;</a> afin de refléter les nouvelles lignes directrices et ressources en matière d’inclusivité;</li>
     <li>Dans la <a href="#wp4-1">section 4.1, &laquo;&nbsp;Majuscules et ponctuation&nbsp;&raquo;</a> de la version anglaise, ajout d’un exemple indiquant quand utiliser des majuscules lorsqu’on écrit &laquo;&nbsp;public service&nbsp;&raquo;, le terme anglais pour fonction publique</li>
