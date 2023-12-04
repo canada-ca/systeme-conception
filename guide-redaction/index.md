@@ -44,7 +44,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>Reportez-vous à la section pour plus de détails.</p>
 </section>
 <section id="toc2">
-  <h2>But du document</h2>
+  <h2>But du document</h2> 
+
+<p>test</p>
+
+  
   <p>Le présent guide fait état des règles de rédaction et de révision du contenu français qui sera publié sur un site du gouvernement du Canada.&nbsp;Elles diffèrent des pratiques adaptées à l'imprimé afin d'appuyer les principes liés à l'accessibilité, à la lisibilité et à la facilité d'utilisation.</p>
   <p>Les règles comprises dans ce guide ont pour but de rendre le contenu Web facile à trouver, à comprendre et à utiliser pour toute personne, y compris celles qui ont un handicap physique ou cognitif.</p>
   <p>Les règles décrites dans ce guide complémentent celles du <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">guide du rédacteur</a></cite>. S'il existe des divergences entre le présent guide, le guide du rédacteur ou toute autre ressource, le présent guide a préséance en ce qui concerne le contenu publié en ligne.</p>
