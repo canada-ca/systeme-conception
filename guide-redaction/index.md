@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2023-11-10
+dateModified: 2023-12-04
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -37,11 +37,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section id="toc1">
   <h2>Sommaire des changements</h2>
-  <p>Voici les changements que nous avons apportés à cette version du guide&nbsp;:</p>
+  <p>Nous avons apporté les modifications suivantes à cette version du guide&nbsp;:</p>
   <ul>
-    <li>Nous avons ajouté &laquo;&nbsp;Rédiger pour assurer l'inclusion&nbsp;&raquo; à la section <a href="#toc5">Principes de rédaction pour le contenu Web</a></li>
+    <li>Amélioration de l’exemple no 5 d’image fonctionnelle dans la section <a href="#wp6-1-1">&laquo;&nbsp;Images fonctionnelles&nbsp;&raquo;</a>;</li>
+    <li>Mise à jour de l'exemple dans la section <a href="#wp6-1-2">&laquo;&nbsp;Images décoratives&nbsp;&raquo;</a> et ajout d'informations sur l'utilisation d'un indicateur vide (null) comme texte alternatif;</li>
+    <li>Amélioration des exemples de tableaux simples dans la section 5.3, <a href="#wp5-3">section 5.3, &laquo;&nbsp;Utiliser des tableaux pour organiser des données&nbsp;&raquo;</a>;</li>
+    <li>Mise à jour du texte de la section <a href="https://conception.canada.ca/guide-redaction/#toc3">&laquo;&nbsp;Application&nbsp;&raquo;</a> pour souligner que la Directive sur la gestion des communications est la source d’information officielle pour les personnes devant utiliser ce guide;</li>
+    <li>Mise à jour du texte de la section <a href="#wp1-2-1b">&laquo;&nbsp;Rédiger pour assurer l’inclusion&nbsp;&raquo;</a> afin de refléter les nouvelles lignes directrices et ressources en matière d’inclusivité;</li>
+    <li>Dans la <a href="#wp4-1">section 4.1, &laquo;&nbsp;Majuscules et ponctuation&nbsp;&raquo;</a> de la version anglaise, ajout d’un exemple indiquant quand utiliser des majuscules lorsqu’on écrit &laquo;&nbsp;public service&nbsp;&raquo;, le terme anglais pour fonction publique.</li>
   </ul>
-  <p>Reportez-vous à la section pour plus de détails.</p>
+  <p>Pour plus de renseignements, consultez les sections mentionnées ci-dessus.</p>
 </section>
 <section id="toc2">
   <h2>But du document</h2>
@@ -1657,7 +1662,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>diagramme</li>
       <li>Carte d'images</li>
     </ul>
-    <p><a href="#wp6-2">Ajoutez un texte alternatif approprié</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
     <h5>Exemples d'images fonctionnelles</h5>
     <figure class="mrgn-bttm-lg">
       <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
@@ -1850,22 +1854,23 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>page de thème ou de sujet;</li>
       <li>page d'accueil;</li>
       <li>pages d'une campagne publicitaire;</li>
-      <li>vignette promotionnelle d'une page de sujet ou de la page d'accueil (Activités et initiatives du gouvernement du Canada).</li>
+      <li>promotions contextuelles d'une page de sujet ou de la page d'accueil (Activités et initiatives du gouvernement du Canada).</li>
     </ul>
     <p>N'insérez pas de texte important, comme des titres de campagne ou de programme, dans des images décoratives.</p>
-    <p><a href="#wp6-2">Ajoutez un texte alternatif</a> pour décrire l'image pour les personnes qui ne peuvent la voir.</p>
     <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>.</p>
     <h5>Exemple d'une image décorative</h5>
-    <p><img alt="Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail." class="img-responsive center-block" src="/guide-redaction/images/fig-06-fra.jpg"></p>
-    <p><strong>Description de l'image</strong></p>
-    <p>Une membre de la Gendarmerie royale du Canada sur la page Web de Canada.ca axée sur les emplois et le milieu de travail.</p>
+    <p><img alt="Image décorative en contexte pour créer un intérêt visuel" class="img-responsive center-block" src="/guide-redaction/images/panier-03.png"></p>
+    <h5>Ne décrivez pas les images décoratives</h5>
+    <p>Les images décoratives ne nécessitent pas de description. Elles ont pour seul objectif de rendre le contenu visuellement attrayant, et non de fournir du contexte. L’image décorative dans l’exemple nous sert juste à créer un intérêt sur le plan visuel. L’utilisation d’une description pour une image décorative donne au lectorat des renseignements superflus qui peuvent distraire du contenu de la page.</p>
+    <h5>Texte alternatif pour les images décoratives</h5>
+    <p>Utilisez l’indicateur vide (null) comme texte alternatif (alt="") pour les images décoratives. Cela indique aux lecteurs d’écran d’ignorer l’image.</p>
   </section>
   <section id="wp6-1-3">
-    <h4>Taille et positionnement des images</h4>
-    <p>Pour savoir où placer les images et les vidéos dans Canada.ca et quelle devrait être leur taille&nbsp;:</p>
+    <h4>Taille et placement des images</h4>
+    <p>Apprenez où placer les images et vidéos sur les pages Canada.ca et quelle taille leur donner&nbsp;:</p>
     <ul>
-      <li>utilisez les modèles contenus dans les <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-fra.asp">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite>;</li>
-      <li>référez-vous aux <a href="http://wet-boew.github.io/themes-dist/GCWeb/index-fr.html">types de pages pour Canada.ca sur le site GitHub</a>.</li>
+      <li>Utilisez les modèles contenus dans les <a href="https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html">spécifications du contenu et de l’architecture de l’information pour Canada.ca</a></li>
+      <li>Référez-vous aux <a href="https://wet-boew.github.io/GCWeb/index-fr.html">types de pages de Canada.ca sur GitHub</a></li>
     </ul>
   </section>
   <h4>Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise</h4>
