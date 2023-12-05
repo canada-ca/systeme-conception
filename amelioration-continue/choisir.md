@@ -97,7 +97,7 @@ title: "Choisir quoi améliorer"
 
 <ul>
  <li>
-  <a href="https://conception.canada.ca/sondage/index.html">
+  <a href="../sondage/index.html">
    Sondage sur la réussite des tâches du GC
   </a>
  </li>
@@ -166,7 +166,7 @@ title: "Choisir quoi améliorer"
 
 <ul>
  <li>
-  <a href="https://conception.canada.ca/sondage/index.html">
+  <a href="../sondage/index.html">
    Sondage sur la réussite des tâches du GC
   </a>
  </li>
@@ -188,8 +188,8 @@ title: "Choisir quoi améliorer"
   (blogue)
  </li>
  <li>
-  <a href="./mesure/retroaction.html">
-   Rétroaction sur la page (pilote)
+  <a href="../retroaction/index.html">
+   Rétroaction sur la page 
   </a>
  </li>
 </ul>
