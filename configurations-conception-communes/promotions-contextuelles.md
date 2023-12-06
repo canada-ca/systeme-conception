@@ -137,9 +137,9 @@ title: "Promotions contextuelles"
 <section id="œuvre">
   <h2>Comment procéder à la mise en œuvre</h2>
   <p>Trouvez des exemples pratiques pour procéder à la mise en œuvre de la configuration de conception des promotions contextuelles.</p>
-  <h3>GCweb (WET) theme implementation reference</h3>
+  <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <ul>
-    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-features/gc-features-doc-en.html">Context-specific features (wet-boew)</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-features/gc-features-doc-fr.html">Promotions contextuelles (Boîte à outils de l’expérience Web)</a></li>
   </ul>
   <h3>Mises en œuvre</h3>
   <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
@@ -159,14 +159,14 @@ title: "Promotions contextuelles"
             <summary><strong>SGDC</strong></summary>
             <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
             <ul>
-              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">CDTS documentation</a></li>
+              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
             </ul>
           </details>
           <details id="006">
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a> (en anglais seulement)</li>
+              <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation (en anglais seulement)</a></li>
             </ul>
           </details>
         </div>
