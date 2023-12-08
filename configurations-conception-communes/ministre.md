@@ -96,8 +96,8 @@ title: "Ministre ou chef d’institution"
   <h3>Exemples visuels</h3>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Ministre ou un chef d’institution – grand écran</b></figcaption>
-      <img src="/images/ministers-block-en.png" class="img-responsive" alt="Configuration de conception pour un ministre ou un chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <figcaption><b>Ministre ou chef d’institution – grand écran</b></figcaption>
+      <img src="/images/ministers-block-en.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp; Ministre(s)&nbsp;&raquo;.</p>
@@ -119,8 +119,8 @@ title: "Ministre ou chef d’institution"
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Ministre ou un chef d’institution – petit écran</b></figcaption>
-      <img src="/images/ministers-block-en.png" class="img-responsive" alt="Configuration de conception pour un ministre ou un chef d’institution pour les petits écrans. Version texte ci-dessous&nbsp;:" />
+      <figcaption><b>Ministre ou chef d’institution – petit écran</b></figcaption>
+      <img src="/images/ministers-block-en.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - petit écran</summary>
         <p>La configuration de conception s’affiche dans une colonne et deux éléments avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
@@ -169,7 +169,7 @@ title: "Ministre ou chef d’institution"
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+              <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
             </ul>
           </details>
         </div>
