@@ -80,7 +80,7 @@ title: Bande de coordonnées
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Bande de coordonnées standard – petit écran</b></figcaption>
-      <img src="/images/contact-band-sm-fr.png" class="img-responsive" alt="Bande de coordonnées pour les petits écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/contact-band-sm-fr.png" class="img-responsive" alt="Bande de coordonnées standard pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bande de coordonnées standard - petit écran</summary>
         <p>Une seule colonne avec un ombrage gris clair en arrière-plan. Le titre Coordonnées est suivi de trois liens. Le premier lien est Communiquer avec [Institution]; les liens suivants sont des espaces réservés pour les tâches principales liées aux contacts.</p>
@@ -90,7 +90,7 @@ title: Bande de coordonnées
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Bandes de coordonnées multiples – grand écran</b></figcaption>
-      <img src="/images/contact-band-multi-fr.png" class="img-responsive" alt="Plusieurs bandes de coordonnées pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/contact-band-multi-fr.png" class="img-responsive" alt="Bandes de coordonnées multiples pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bande de coordonnées multiples - grand écran</summary>
         <p>Une bande blanche horizontale avec le titre Coordonnées pour [sujet] suivi de six liens. Les liens sont présentés sur deux rangées avec trois liens par rangée.</p>
@@ -101,7 +101,7 @@ title: Bande de coordonnées
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Bandes de coordonnées multiples – petit écran</b></figcaption>
-      <img src="/images/contact-band-multi-sm-fr.png" class="img-responsive" alt="Bande de coordonnées pour les petits écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/contact-band-multi-sm-fr.png" class="img-responsive" alt="Bande de coordonnées multiples pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bande de coordonnées multiples - petit écran</summary>
         <p>Une seule colonne avec un ombrage blanc contient le titre Coordonnées pour [sujet] suivi de six liens.</p>
