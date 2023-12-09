@@ -700,7 +700,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
               <ul>
                 <li><a href="#wp4-4-1">Citer des exemples</a></li>
                 <li><a href="#wp4-4-2">Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</a>
-              </ul>
             </li>
             <li><a href="#wp4-5">4.5 Forme contractée</a></li>
             <li><a href="#wp4-6">4.6 Nombres</a></li>
