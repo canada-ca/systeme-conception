@@ -119,7 +119,13 @@ title: Bloc d’introduction
 </section>
 <section>
     <h2 id="implement">Comment procéder à la mise en œuvre</h2>
-    <mark>we need the right text for here linking to the GCWeb example</mark>
+    <p>Trouvez des exemples pratiques et du code pour mettre en œuvre la configuration de conception du bloc d’introduction.</p>
+    <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
+    <p>La référence à l’implémentation comprend la façon de configurer les éléments du système de conception.</p>
+    <ul>
+        <li><a href="">Bloc d’introduction de GCWeb (BOEW)</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
+    </ul>
     <h3>Mises en œuvre</h3>
     <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
     <div class="row">
