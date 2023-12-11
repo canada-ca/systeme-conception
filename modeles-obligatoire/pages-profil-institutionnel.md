@@ -49,6 +49,7 @@ title: Page d’accueil institutionnelle
 </section>
 <section>
     <h2 id="design">Contenu et conception</h2>
+    <p>La page d’accueil institutionnelle est composée de plusieurs configurations de conception&nbsp;:</p>
     <div class="row mrgn-tp-lg">
         <div class="col-md-12">
             <div class="panel panel-default">
@@ -58,8 +59,8 @@ title: Page d’accueil institutionnelle
                     </caption>
                     <thead>
                         <tr>
-                            <th class="col-md-3">Pattern</th>
-                            <th class="col-md-7">ILP Guidance</th>
+                            <th class="col-md-3">Configuration de conception</th>
+                            <th class="col-md-7">Orientation pour la page d'accueil institutionnelle </th>
                             <th class="col-md-2 text-center">Obligatoire</th>
                         </tr>
                     </thead>
@@ -71,6 +72,18 @@ title: Page d’accueil institutionnelle
                                 <p>La description doit être un très bref résumé de ce que fait l’institution.</p>
                             </td>
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
+                        </tr>
+                          <tr>
+                            <td><a href="#">Bouton de super-tâche</a></td>
+                            <td><p>N’incluez un bouton de super-tâche que si une tâche particulière produit au moins un tiers des clics sur la page d’accueil de l’institution.</p></td>
+                            <td class="text-center">Facultatif</td>
+                        </tr>
+                          <tr>
+                            <td><a href="#">Lien en vedette</a></td>
+                            <td>
+                                <p>XXXXXXX</p>
+                            </td>
+                            <td class="text-center">Facultatif</td>
                         </tr>
                         <tr>
                             <td><a href="#">En demande</a></td>
@@ -103,20 +116,20 @@ title: Page d’accueil institutionnelle
                         <tr>
                             <td><a href="#">Ministre ou chef d’institution</a></td>
                             <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
-                            <td class="text-center">Optional</td>
+                            <td class="text-center">Facultatif</td>
                         </tr>
                         <tr>
-                            <td><a href="#">Bouton de super-tâche</a></td>
-                            <td><p>N’incluez un bouton de super-tâche que si une tâche particulière produit au moins un tiers des clics sur la page d’accueil de l’institution.</p></td>
-                            <td class="text-center">Optional</td>
-                        </tr>
-                        <tr>
-                            <td><a href="#">Espace flexible</a></td>
+                            <td><a href="#">Espace flexible&nbsp;:</a>
+                            <ul>
+                                <li><a href="">Dernières nouvelles</a></li>
+                                <lu><a href="">Promotions contextuelles</a></li>
+                            </ul>
+                            </td>
                             <td>
                                 <p>La partie inférieure de la page au-dessus du pied de page est considérée comme un espace flexible où les ministères peuvent ajouter le contenu de leur choix.</p>
                                 <p>L’utilisation de cet espace est facultative et les configurations de conception par défaut sont dernières nouvelles et promotions contextuelles.</p>
                             </td>
-                            <td class="text-center">Optional</td>
+                            <td class="text-center">Facultatif</td>
                         </tr>
                     </tbody>
                 </table>
@@ -129,7 +142,7 @@ title: Page d’accueil institutionnelle
             <figcaption><b>Page d’accueil institutionnelle – grand écran</b></figcaption>
             <img src="../images/ilp-large.png" class="img-responsive" alt="Institutional landing page for large screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: </summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: page d’accueil institutionnelle - grand écran</summary>
                 <p>
                     Dans la partie supérieure de la page se trouve un bloc d’introduction qui comprend un h1 intitulé [Nom de l’institution]. Il est souligné d’un court trait rouge épais. Sous l’en-tête se trouve une courte description du
                     mandat de l’institution.
@@ -212,7 +225,7 @@ title: Page d’accueil institutionnelle
             <figcaption><b>Page d’accueil institutionnelle – petit écran</b></figcaption>
             <img src="../images/ilp-small.png" class="img-responsive" alt="Institutional landing page for small screens. Text version below:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;:</summary>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: page d’accueil institutionnelle - petit écran</summary>
                 <p>
                     Dans la partie supérieure de la page se trouve un bloc d’introduction qui comprend un h1 intitulé [Nom de l’institution]. Il est souligné d’un court trait rouge épais. Sous l’en-tête se trouve une courte description du
                     mandat de l’institution.
@@ -328,7 +341,7 @@ title: Page d’accueil institutionnelle
                         <summary><strong>Drupal WxT</strong></summary>
                         <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+                            <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
                         </ul>
                     </details>
                 </div>
