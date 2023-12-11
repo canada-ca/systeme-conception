@@ -122,7 +122,7 @@ title: Page d’accueil institutionnelle
                             <td><a href="#">Espace flexible&nbsp;:</a>
                             <ul>
                                 <li><a href="">Dernières nouvelles</a></li>
-                                <lu><a href="">Promotions contextuelles</a></li>
+                                <li><a href="">Promotions contextuelles</a></li>
                             </ul>
                             </td>
                             <td>
