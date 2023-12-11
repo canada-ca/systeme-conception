@@ -157,8 +157,8 @@ title: "Chaînes de médias sociaux"
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Chaînes de médias sociaux (affichage horizontal) — grand écran</b></figcaption>
-      <img src="/images/social-media-horizontal-mask-en.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage horizontal) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <figcaption><b>Chaînes de médias sociaux (affichage vertical avec étiquettes) — grand écran</b></figcaption>
+      <img src="/images/social-media-horizontal-mask-en.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaîne de médias sociaux (affichage horizontal) - grand écran</summary>
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;».  On trouve sous le titre une liste horizontale avec les icônes associées, mais sans les étiquettes&nbsp;:</p>
@@ -233,7 +233,7 @@ title: "Chaînes de médias sociaux"
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+              <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
             </ul>
           </details>
         </div>
