@@ -76,14 +76,14 @@ title: Services et renseignements
     <li>
         Titres&nbsp;:
         <ul>
-            <li>Couleur&nbsp;: <a href="https://design.canada.ca/styles/colours.html">Couleurs de lien normalisées</a></li>
+            <li>Couleur&nbsp;: <a href="https://design.canada.ca/styles/colours.html">Couleurs standard</a> pour les liens</li>
             <li>Taille de la police&nbsp;: Canada.ca H3 (1em)</li>
             <li>Famille de police&nbsp;: Lato Sans</li>
         </ul>
     </li>
     <li>Descriptions&nbsp;:
       <ul>
-        <li>Couleur&nbsp;: <a href="/styles/couleurs.html">Couleur de texte normalisée</a></li>
+        <li>Couleur&nbsp;: <a href="/styles/couleurs.html">Couleurs standard</a> pour le texte</li>
         <li>Taille de la police&nbsp;:
           <ul>
             <li>17&nbsp;px (ordinateur de bureau)</li>
@@ -135,8 +135,6 @@ title: Services et renseignements
             <summary><strong>GC-AEM</strong></summary>
             <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
             <ul>
-              <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/8/8c/AEM-6.5-Documentation-Unit-4-11-Doormat-links-Component.pdf">Composant des liens du menu d’accueil thématique</a></li>
-              <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/2/2b/AEM-6.5-Documentation-Unit-4-12-Doormat-link-set-Component.pdf">Composant de l’ensemble de liens du menu d’accueil thématique</a></li>
               <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
             </ul>
           </details>
@@ -151,7 +149,7 @@ title: Services et renseignements
             <summary><strong>Drupal WxT</strong></summary>
             <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
             <ul>
-              <li><a href="https://drupalwxt.github.io">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+              <li><a href="https://drupalwxt.github.io">Documentation de Drupal WxT (en anglais seulement)</a></li>
             </ul>
           </details>
         </div>
