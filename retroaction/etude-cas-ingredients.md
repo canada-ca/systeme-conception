@@ -36,7 +36,7 @@ Les commentaires concernant les ingrédients sur la page «&nbsp;Ce que vous dev
 Le lien vers les ingrédients à partir de la navigation «&nbsp;Sur cette page&nbsp;» est devenu le deuxième lien le plus utilisé sur la page après l’ajout.
 
 <figure class="gc-complex-img" role="group">
-	<img alt="Une longue description peut être trouvée après l'image." src="/images/action-2.png" />
+	<img alt="Une longue description peut être trouvée après l'image." src="images/action-2.png" />
 	<figcaption>
 		<details>
 			<summary>Rétroaction sur la liste d’ingrédients</summary>
