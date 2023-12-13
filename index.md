@@ -111,7 +111,8 @@ title: "Système de conception de Canada.ca"
             { &quot;data&quot;: &quot;TYPE&quot;,  &quot;visible&quot;: false },
             { &quot;data&quot;: &quot;MANDATORY&quot;,  &quot;visible&quot;: false },
             { &quot;data&quot;: &quot;TANDP&quot;,  &quot;visible&quot;: false }
-            ]
+            ],
+            &quot;dom&quot;: &quot;<\u0027top\u0027pfil>rt<\u0027bottom\u0027p><\u0027clear\u0027>&quot;
             }">
             <thead>
               <tr>

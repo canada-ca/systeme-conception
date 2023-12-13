@@ -1,4 +1,4 @@
---- 
+---
 altLangPage: "https://design.canada.ca/pattern-library.html"
 date: 2021-05-03
 dateModified: 2023-08-19
@@ -60,7 +60,7 @@ title: "Bibliothèque de modèles et de configurations de conception"
         <div class="mrgn-tp-md mrgn-bttm-md">
           <table class="wb-tables table table-striped small" aria-live="polite" id="design" data-page-length="100" data-wb-tables="{
             &quot;bDeferRender&quot;: true,
-            &quot;ajaxSource&quot;: &quot;./ajax/patterns-01-fr.json&quot;,
+            &quot;ajaxSource&quot;: &quot;https://conception.canada.ca/ajax/patterns-01-fr.json&quot;,
             &quot;order&quot;: [0, &quot;asc&quot;],
             &quot;paging&quot;: false,
             &quot;info&quot;: false,
@@ -73,16 +73,18 @@ title: "Bibliothèque de modèles et de configurations de conception"
             { &quot;data&quot;: &quot;TYPE&quot;, &quot;className&quot;: &quot;&quot; },
             { &quot;data&quot;: &quot;MANDATORY&quot;,  &quot;visible&quot;: false },
             { &quot;data&quot;: &quot;TANDP&quot;,  &quot;visible&quot;: false, &quot;Search&quot;: &quot;1&quot; }
-            ], 
+            ],
+            &quot;dom&quot;: &quot;<\u0027top\u0027pfil>rt<\u0027bottom\u0027p><\u0027clear\u0027>&quot;,
             &quot;searchCols&quot;: [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null, 
-            null,
-            { &quot;sSearch&quot;: &quot;1&quot; }]
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              { &quot;sSearch&quot;: &quot;1&quot; }
+            ]
             }">
             <thead>
               <tr>
