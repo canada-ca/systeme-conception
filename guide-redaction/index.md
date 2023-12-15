@@ -41,7 +41,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <ul>
     <li>added a separate page for the <a href="update-history.html">Update history for the Canada.ca Content Style Guide</a></li>
   </ul>
-  <p><a href="/guide-redaction/historique-modifications.md">Update history</a> (this list begins with changes on May 25, 2023.).</p>
+  <p><a href="/guide-redaction/historique-modifications.html">Update history</a> (this list begins with changes on May 25, 2023.).</p>
 </section>
 <section id="toc2">
   <h2>But du document</h2>
