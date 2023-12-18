@@ -20,7 +20,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>Mise à jour du texte de la section <a href="#wp1-2-1b">&laquo;&nbsp;Rédiger pour assurer l’inclusion&nbsp;&raquo;</a> afin de refléter les nouvelles lignes directrices et ressources en matière d’inclusivité;</li>
     <li>Dans la <a href="#wp4-1">section 4.1, &laquo;&nbsp;Majuscules et ponctuation&nbsp;&raquo;</a> de la version anglaise, ajout d’un exemple indiquant quand utiliser des majuscules lorsqu’on écrit &laquo;&nbsp;public service&nbsp;&raquo;, le terme anglais pour fonction publique.</li>
 </ul>
-<h2>25 mars 2023</h2>
+<h2>25 mai 2023</h2>
 <ul class="mrgn-tp-lg">
   <li>Nous avons ajouté &laquo;&nbsp;Rédiger pour assurer l'inclusion&nbsp;&raquo; à la section <a href="#toc5">Principes de rédaction pour le contenu Web</a></li>
 </ul>
