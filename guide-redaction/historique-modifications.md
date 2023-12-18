@@ -2,11 +2,11 @@
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2023-12-12
 dateModified: 2023-12-12
-description: "Les changements apportés au Guide de rédaction du contenu du site Canada.ca."
+description: "Les modifications apportés au Guide de rédaction du contenu du site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
 ---
-<p>Cette liste contient tous les changements apportés au Guide de rédaction du contenu du site Canada.ca depuis le 25 mai 2023.</p>
+<p>Cette liste contient tous les modifications apportés au Guide de rédaction du contenu du site Canada.ca depuis le 25 mai 2023.</p>
 <h2>12 décembre 2023</h2>
 <ul class="mrgn-tp-lg">
   <li>Ajout d’une page distincte pour l’historique des mises à jour du Guide de rédaction du contenu du site Canada.ca</li>
