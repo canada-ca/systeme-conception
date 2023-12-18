@@ -6,10 +6,10 @@ description: "Ce Guide de rédaction du contenu du site Canada.ca établit les r
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
 ---
-<p>This list begins with changes on May 25, 2023.</p>
+<p>Cette liste contient tous les changements apportés au Guide de rédaction du contenu du site Canada.ca depuis le 25 mai 2023.</p>
 <h2>12 décembre 2023</h2>
 <ul class="mrgn-tp-lg">
-  <li>added a separate page for the update history for the Canada.ca Content Style Guide</li>
+  <li>Ajout d’une page distincte pour l’historique des mises à jour du Guide de rédaction du contenu du site Canada.ca/li>
 </ul>  
 <h2>6 décembre 20232023</h2>
 <ul class="mrgn-tp-lg">
