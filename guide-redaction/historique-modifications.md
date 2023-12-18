@@ -9,7 +9,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <p>Cette liste contient tous les changements apportés au Guide de rédaction du contenu du site Canada.ca depuis le 25 mai 2023.</p>
 <h2>12 décembre 2023</h2>
 <ul class="mrgn-tp-lg">
-  <li>Ajout d’une page distincte pour l’historique des mises à jour du Guide de rédaction du contenu du site Canada.ca/li>
+  <li>Ajout d’une page distincte pour l’historique des mises à jour du Guide de rédaction du contenu du site Canada.ca</li>
 </ul>  
 <h2>6 décembre 20232023</h2>
 <ul class="mrgn-tp-lg">
