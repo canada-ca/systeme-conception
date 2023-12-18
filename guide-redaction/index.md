@@ -39,9 +39,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>Mises à jour récentes</h2>
   <p>Nous avons apporté les modifications suivantes à cette version du guide :</p>
   <ul>
-    <li>ajout d’une page distincte pour l’<a href="update-history.html">historique des mises à jour du Guide de rédaction du contenu du site Canada.ca</a></li>
+    <li>ajout d’une page distincte pour l’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour du Guide de rédaction du contenu du site Canada.ca</a></li>
   </ul>
-  <p><a href="/guide-redaction/historique-modifications.html">Update history</a> (this list begins with changes on May 25, 2023.).</p>
+  <p>L’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> contient toutes les modifications apportées au guide depuis le 25 mai 2023.</p>
 </section>
 <section id="toc2">
   <h2>But du document</h2>
