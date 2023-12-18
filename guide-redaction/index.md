@@ -16,7 +16,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <div class="panel-body">
           <h2 class="mrgn-tp-sm">Table des matières</h2>
           <ul>
-            <li><a href="#toc1">What's new</a></li>
+            <li><a href="#toc1">Mises à jour récentes</a></li>
             <li><a href="#toc2">But du document</a></li>
             <li><a href="#toc3">Application</a></li>
             <li><a href="#toc4">Politiques, normes et procédures connexes</a></li>
@@ -36,10 +36,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
 </section>
 <section id="toc1">
-  <h2>What's new</h2>
-  <p>Most recent changes to the guide:</p>
+  <h2>Mises à jour récentes</h2>
+  <p>Nous avons apporté les modifications suivantes à cette version du guide :</p>
   <ul>
-    <li>added a separate page for the <a href="update-history.html">Update history for the Canada.ca Content Style Guide</a></li>
+    <li>ajout d’une page distincte pour l’<a href="update-history.html">historique des mises à jour du Guide de rédaction du contenu du site Canada.ca</a></li>
   </ul>
   <p><a href="/guide-redaction/historique-modifications.html">Update history</a> (this list begins with changes on May 25, 2023.).</p>
 </section>
