@@ -2049,14 +2049,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp7-2">7.2 Rédiger des liens descriptifs</a>
               <ul>
                 <li><a href="#wp7-2-1">Mettre l'accent sur la tâche</a></li>
+                <li><a href="#wp7-2-2">Utilisation de parenthèses pour ajouter des renseignements supplémentaires</a>
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Vérifier que les liens fonctionnent </a></li>
-            <li><a href="#wp7-4">7.4 Créer des liens vers du contenu externe</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
   </div>
   <p>Un lien (ou hyperlien) est un mot, une phrase ou une image d'une page Web sur lequel la personne peut cliquer pour accéder à une autre partie du contenu de la page ou à une autre ressource Web (c'est-à-dire une page Web, une vidéo ou un fichier téléchargeable).</p>
   <p>Les personnes qui utilisent les technologies d'aide peuvent naviguer dans le contenu Web à l'aide de liens. Par exemple, les lecteurs d'écran énumèrent tous les liens d'une page sans afficher le contenu contextuel.</p>
@@ -2128,15 +2124,41 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6>Au lieu de&nbsp;:</h6>
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit, remplissez le formulaire <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=fra">Attestation du prestataire – Semaines durant lesquelles la rémunération assurable était la plus élevée (Meilleures semaines variables)</a>. Inscrivez-y les renseignements requis concernant les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant vos 52 dernières semaines d'emploi ou depuis le début de votre dernière demande, selon la plus courte période des deux.</p>
     </section>
+<div>
+<section id="wp7-2-2">
+    <h4>Utiliser des parenthèses pour ajouter des renseignements supplémentaires</h4>
+    <b>Utilisez des parenthèses à l'intérieur d'un hyperlien pour y ajouter les informations supplémentaires.</b> Ces informations aideront les utilisateurs à décider s'ils veulent continuer ou non. Cette directive s'applique dans les situations suivantes : <p>
+    <ol>
+    <li><b>Lorsque le lien renvoie à un document téléchargeable.</b> Assurez vous d'inclure le <b>type de fichier et sa taille</b> entre les parenthèses : 
+    Example :<p>
+    <ul> 
+    <li><a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf">ETSI EN 301 549 - V3.2.1 - Accessibility requirements for ICT products and services (en anglais seulement) (PDF, 2 mo)</a></ul>
+    <p>
+    <li><b>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue.</b> Ajoutez une parenthèse à l'intérieur du lien et spécifiez la langue du contenulié, formatée comme suit:  (Langue X only).<p>
+    <ul>
+    <li>Sur une page en francais, écrivez :
+    <li>Texte en hyperlien (en anglais seulement)
+    <li>Texte en hyperlien (en inuktitut seulement)
+    <li>Texte en hyperlien  (en espagnol et portugais seulement)<p>
+    <li>Examples :<p>
+    <ul>
+    <li><a href="https://accessibility.18f.gov">Accessibility Guide (en anglais seulement)</a>
+    <li><a href="https://www.w3.org/TR/WCAG/">L’article 508 révisé, la norme EN 301 549 ou les Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a>
+    </ul><>
+    <li><b>Lorsque le lien ouvre un contenu vidéo ou audio</b>, précisez la durée du contenu entre parenthèses. Suivez les consignes du 2e point quand le contenu n'est disponible que dans une autre langue.
+    <ul><p>
+    <li>Example : <a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a>
+    </ul>
+    </ol>
+    <p>
     <h4>Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise</h4>
     <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
+    <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de liens descriptifs", "title": "7.2 Rédiger des liens descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'> </div>
-    </div>
-  </section>
-  <section id="wp7-3">
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de liens descriptifs", "title": "7.2 Rédiger des liens descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
+    <div></section>
+    <section id="wp7-3">
     <h3>7.3 Vérifier que les liens fonctionnent</h3>
     <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
     <h4>Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise</h4>
@@ -2147,25 +2169,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la vérification des liens", "title": "7.3 Vérifier que les liens fonctionnent", "url": "https://conception.canada.ca/guide-redaction/#wp7-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-3"}'> </div>
     </div>
   </section>
-  <section id="wp7-4">
-    <h3>7.4 Créer des liens vers du contenu externe</h3>
-    <p>Certains contenus pour lesquels le gouvernement ne fait pas autorité ne sont pas disponibles dans les 2 langues officielles. Si vous créez un lien vers du contenu Web externe qui n'est pas disponible dans la langue de la page courante, précisez la ou les langues dans lesquelles le contenu est disponible.</p>
-    <p>Sur les pages en français, ajoutez le texte suivant après un lien&nbsp;qui renvoie à du contenu qui n'est pas en français&nbsp;: (en XXXX seulement).</p>
-    <p>Si le lien renvoie à du contenu seulement disponible en&nbsp;:</p>
-    <ul>
-      <li>anglais, écrivez &laquo;&nbsp;&nbsp;(en anglais seulement)&nbsp;&raquo;;</li>
-      <li>inuktitut, écrivez &laquo;&nbsp;(en inuktitut seulement)&nbsp;&raquo;;</li>
-      <li>espagnol et portugais, écrivez &laquo;&nbsp;(en espagnol et portugais seulement)&nbsp;&raquo;.</li>
-    </ul>
-    <h4>Exemple de l'utilisation d'un hyperlien qui renvoie à un contenu disponible en anglais seulement</h4>
-    <p><strong>Écrivez</strong>&nbsp;: Informez-vous au sujet des <a href="https://help.cbp.gov/app/answers/detail/a_id/1192/~/canadian--citizens%2Fresidents%2Flanded-immigrants-entering-the-u.s.">documents requis pour permettre aux citoyens canadiens d'entrer aux États-Unis</a> (en anglais seulement).</p>
-    <h4>Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-4">7.4 Linking to non-government content</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le contenu externe", "title": "7.4 Créer des liens vers du contenu externe", "url": "https://conception.canada.ca/guide-redaction/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'> </div>
-    </div>
   </section>
   <section id="wp7-5">
     <h3>7.5 Créer des liens vers du contenu interne</h3>
