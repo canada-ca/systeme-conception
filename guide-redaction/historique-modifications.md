@@ -11,7 +11,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <ul class="mrgn-tp-lg">
   <li>Ajout d’une page distincte pour l’historique des mises à jour du Guide de rédaction du contenu du site Canada.ca</li>
 </ul>  
-<h2>6 décembre 20232023</h2>
+<h2>6 décembre 2023</h2>
 <ul class="mrgn-tp-lg">
     <li>Amélioration de l’exemple no 5 d’image fonctionnelle dans la section <a href="#wp6-1-1">&laquo;&nbsp;Images fonctionnelles&nbsp;&raquo;</a>;</li>
     <li>Mise à jour de l'exemple dans la section <a href="#wp6-1-2">&laquo;&nbsp;Images décoratives&nbsp;&raquo;</a> et ajout d'informations sur l'utilisation d'un indicateur vide (null) comme texte alternatif;</li>
