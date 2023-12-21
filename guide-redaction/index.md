@@ -251,7 +251,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <li>commencer chaque page Web par l'idée, l'étape ou l'information la plus importante.</li>
         </ul>
       </li>
-      <li><strong>Prioritized tasks</strong>&nbsp;:
+      <li><strong>Tâches prioritaires</strong>&nbsp;:
         <ul>
           <li>ajouter les détails et les tâches par ordre d'importance;</li>
           <li>mettre tout le contenu lié à la tâche au centre de la page;</li>
