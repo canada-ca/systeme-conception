@@ -240,41 +240,38 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>de placer les renseignements complémentaires à la fin du texte.</li>
     </ul>
     <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="/guide-redaction/images/fig-01-fra.jpg">
-      <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
-        <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'">Figure 1 - Version textuelle</summary>
-        <p>Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés.</p>
+      <figcaption>
+        <h4>Figure 1 (Inverted pyramid for ordering content on a web page)</h4>
+      </figcaption>
+      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive" id="fig1" src="/style-guide/images/pyramide-fr-01.png" /></figure>
+    <p>The inverted pyramid for ordering content on a web page in Figure 1 is divided into four sections.  The most important content for task completion is at the top, the widest part of the pyramid.   The relevance of content for task completion flows down the inverted pyramid toward the peak at the bottom.</p>
+    <ol>
+      <li><strong>Information la plus importante</strong>&nbsp;:
         <ul>
-          <li>Premièrement&nbsp;:
-            <ul>
-              <li>commencer chaque page Web par l'idée, l'étape ou l'information la plus importante.</li>
-            </ul>
-          </li>
-          <li>Deuxièmement&nbsp;:
-            <ul>
-              <li>ajouter les détails et les tâches par ordre d'importance;</li>
-              <li>mettre tout le contenu lié à la tâche au centre de la page;</li>
-              <li>utiliser des liens pour orienter les gens vers les renseignements et les tâches essentielles.</li>
-            </ul>
-          </li>
-          <li>Troisièmement&nbsp;:
-            <ul>
-              <li>inclure des renseignements pertinents à l'intention des publics cibles qui désirent en apprendre davantage ou qui ont une connaissance approfondie du sujet ou du service.</li>
-            </ul>
-          </li>
-          <li>Quatrièmement&nbsp;:
-            <ul>
-              <li>ajouter des liens seulement s'ils concernent le contenu et appuient la tâche.</li>
-            </ul>
-          </li>
+          <li>commencer chaque page Web par l'idée, l'étape ou l'information la plus importante.</li>
         </ul>
-      </details>
-    </figure>
+      </li>
+      <li><strong>Prioritized tasks</strong>&nbsp;:
+        <ul>
+          <li>ajouter les détails et les tâches par ordre d'importance;</li>
+          <li>mettre tout le contenu lié à la tâche au centre de la page;</li>
+          <li>utiliser des liens pour orienter les gens vers les renseignements et les tâches essentielles.</li>
+        </ul>
+      </li>
+      <li><strong>Plus d'information</strong>&nbsp;:
+        <ul>
+          <li>inclure des renseignements pertinents à l'intention des publics cibles qui désirent en apprendre davantage ou qui ont une connaissance approfondie du sujet ou du service.</li>
+        </ul>
+      </li>
+      <li><strong>Liens connexes</strong>&nbsp;:
+        <ul>
+          <li>ajouter des liens seulement s'ils concernent le contenu et appuient la tâche.</li>
+        </ul>
+      </li>
+    </ol>
     <section id="wp2-1-1">
       <h4>Aller droit au but</h4>
-      <p>Évitez les renseignements généraux et les messages d'accueil (par exemple, &laquo;&nbsp;bienvenue sur notre site&nbsp;&raquo;). Ces messages relèguent au second plan le contenu dont la personne a besoin pour accomplir sa tâche.</p>
-      <p>Écrivez des énoncés directs.</p>
+      <p>Write direct statements that relate to completing a task.  Don’t distract people with superfluous content, such as background information or welcome messages.</p>
       <h5>Exemple d'énoncé direct</h5>
       <p><strong>Écrivez</strong>&nbsp;<strong></strong>: Présentez votre passeport à l'agent à l'aéroport. <br>
         <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l'agent qui vous accueille à l'aéroport.</p>
