@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2023-12-04
+dateModified: 2023-12-12
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -16,7 +16,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <div class="panel-body">
           <h2 class="mrgn-tp-sm">Table des matières</h2>
           <ul>
-            <li><a href="#toc1">Sommaire des changements</a></li>
+            <li><a href="#toc1">Mises à jour récentes</a></li>
             <li><a href="#toc2">But du document</a></li>
             <li><a href="#toc3">Application</a></li>
             <li><a href="#toc4">Politiques, normes et procédures connexes</a></li>
@@ -36,17 +36,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
 </section>
 <section id="toc1">
-  <h2>Sommaire des changements</h2>
-  <p>Nous avons apporté les modifications suivantes à cette version du guide&nbsp;:</p>
+  <h2>Mises à jour récentes</h2>
+  <p>Nous avons apporté les modifications suivantes à cette version du guide :</p>
   <ul>
-    <li>Amélioration de l’exemple no 5 d’image fonctionnelle dans la section <a href="#wp6-1-1">&laquo;&nbsp;Images fonctionnelles&nbsp;&raquo;</a>;</li>
-    <li>Mise à jour de l'exemple dans la section <a href="#wp6-1-2">&laquo;&nbsp;Images décoratives&nbsp;&raquo;</a> et ajout d'informations sur l'utilisation d'un indicateur vide (null) comme texte alternatif;</li>
-    <li>Amélioration des exemples de tableaux simples dans la section 5.3, <a href="#wp5-3">section 5.3, &laquo;&nbsp;Utiliser des tableaux pour organiser des données&nbsp;&raquo;</a>;</li>
-    <li>Mise à jour du texte de la section <a href="https://conception.canada.ca/guide-redaction/#toc3">&laquo;&nbsp;Application&nbsp;&raquo;</a> pour souligner que la Directive sur la gestion des communications est la source d’information officielle pour les personnes devant utiliser ce guide;</li>
-    <li>Mise à jour du texte de la section <a href="#wp1-2-1b">&laquo;&nbsp;Rédiger pour assurer l’inclusion&nbsp;&raquo;</a> afin de refléter les nouvelles lignes directrices et ressources en matière d’inclusivité;</li>
-    <li>Dans la <a href="#wp4-1">section 4.1, &laquo;&nbsp;Majuscules et ponctuation&nbsp;&raquo;</a> de la version anglaise, ajout d’un exemple indiquant quand utiliser des majuscules lorsqu’on écrit &laquo;&nbsp;public service&nbsp;&raquo;, le terme anglais pour fonction publique.</li>
+    <li>ajout d’une page distincte pour l’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour du Guide de rédaction du contenu du site Canada.ca</a></li>
   </ul>
-  <p>Pour plus de renseignements, consultez les sections mentionnées ci-dessus.</p>
+  <p>L’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> contient toutes les modifications apportées au guide depuis le 25 mai 2023.</p>
 </section>
 <section id="toc2">
   <h2>But du document</h2>
