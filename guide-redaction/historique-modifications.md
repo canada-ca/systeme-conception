@@ -22,5 +22,5 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </ul>
 <h2>25 mai 2023</h2>
 <ul class="mrgn-tp-lg">
-  <li>Nous avons ajouté &laquo;&nbsp;Rédiger pour assurer l'inclusion&nbsp;&raquo; à la section <a href="#toc5">Principes de rédaction pour le contenu Web</a></li>
+  <li>Nous avons ajouté &laquo;&nbsp;Rédiger pour assurer l'inclusion&nbsp;&raquo; à la section <a href="/guide-redaction/#toc5">Principes de rédaction pour le contenu Web</a></li>
 </ul>
