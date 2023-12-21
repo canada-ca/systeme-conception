@@ -164,7 +164,7 @@
             "link": "https://conception.canada.ca"
           },
           {
-            "link": "acceuil.html",
+            "link": "https://conception.canada.ca/communte/acceuil.html",
             "title": "Communauté"
           }
         ]
@@ -185,7 +185,7 @@
           },
           {
             "title": "Sondage sur la réussite des tâches",
-            "link": "sondage/index.html"
+            "link": "https://conception.canada.ca/sondage/index.html"
           }
         ]
       }
@@ -365,7 +365,7 @@
           },
           {
             "title": "Outil de rétroaction",
-            "link": "retroaction/index.html"
+            "link": "https://conception.canada.ca/retroaction/index.html"
           }
         ]
       }
