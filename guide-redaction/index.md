@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2023-12-04
+dateModified: 2023-12-21
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -2049,7 +2049,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp7-2">7.2 Rédiger des liens descriptifs</a>
               <ul>
                 <li><a href="#wp7-2-1">Mettre l'accent sur la tâche</a></li>
-                <li><a href="#wp7-2-2">Utilisation de parenthèses pour ajouter des renseignements supplémentaires</a>
+                <li><a href="#wp7-2-2">Utiliser de parenthèses pour ajouter des informations contextuelles</a>
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Vérifier que les liens fonctionnent </a></li>
@@ -2126,31 +2126,36 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
 <div>
 <section id="wp7-2-2">
-    <h4>Utiliser des parenthèses pour ajouter des renseignements supplémentaires</h4>
-    <b>Utilisez des parenthèses à l'intérieur d'un hyperlien pour y ajouter les informations supplémentaires.</b> Ces informations aideront les utilisateurs à décider s'ils veulent continuer ou non. Cette directive s'applique dans les situations suivantes : <p>
-    <ol>
-    <li><b>Lorsque le lien renvoie à un document téléchargeable.</b> Assurez vous d'inclure le <b>type de fichier et sa taille</b> entre les parenthèses : 
-    Example :<p>
-    <ul> 
-    <li><a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf">ETSI EN 301 549 - V3.2.1 - Accessibility requirements for ICT products and services (en anglais seulement) (PDF, 2 mo)</a></ul>
-    <p>
-    <li><b>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue.</b> Ajoutez une parenthèse à l'intérieur du lien et spécifiez la langue du contenulié, formatée comme suit:  (Langue X only).<p>
+  <h4>Utiliser de parenthèses pour ajouter des informations contextuelles</h4>
+  
+  <p><b>Utilisez des parenthèses à l'intérieur d'un hyperlien pour y ajouter les informations supplémentaires.</b> Ces informations aideront les utilisateurs à décider s'ils veulent continuer ou non. Cette directive s'applique dans les situations suivantes :</p>
+  
+  <ol>
+    <li><b>Lorsque le lien renvoie à un document téléchargeable.</b> Assurez vous d'inclure le <b>type de fichier et sa taille</b> entre les parenthèses :</li>
     <ul>
-    <li>Sur une page en francais, écrivez :
-    <li>Texte en hyperlien (en anglais seulement)
-    <li>Texte en hyperlien (en inuktitut seulement)
-    <li>Texte en hyperlien  (en espagnol et portugais seulement)<p>
-    <li>Examples :<p>
-    <ul>
-    <li><a href="https://accessibility.18f.gov">Accessibility Guide (en anglais seulement)</a>
-    <li><a href="https://www.w3.org/TR/WCAG/">L’article 508 révisé, la norme EN 301 549 ou les Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a>
-    </ul><>
-    <li><b>Lorsque le lien ouvre un contenu vidéo ou audio</b>, précisez la durée du contenu entre parenthèses. Suivez les consignes du 2e point quand le contenu n'est disponible que dans une autre langue.
-    <ul><p>
-    <li>Example : <a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a>
+      <li>Example :<span lang="en"><a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf">ETSI EN 301 549 - V3.2.1 - Accessibility requirements for ICT products and services (en anglais seulement) (PDF, 2 mo)</a></span></li>
     </ul>
-    </ol>
-    <p>
+    <br>
+    <li><b>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue.</b> Ajoutez une parenthèse à l'intérieur du lien et spécifiez la langue du contenulié, formatée comme suit:  (Langue X only). Ne traduisez pas le titre du contenu en renvoi. Assurez-vous que la langue du renvoi soit spécifiée dans le code du lien/</li>
+    <br>
+    <ul>
+      <li>Sur une page en francais, écrivez :</li>
+      <li>Texte en hyperlien (en anglais seulement)</li>
+      <li>Texte en hyperlien (en inuktitut seulement)</li>
+      <li>Texte en hyperlien  (en espagnol et portugais seulement)</li><p>
+        <ul>
+          <li>Examples :</li>
+        <li><span lang="en"><a href="https://accessibility.18f.gov">Accessibility Guide (en anglais seulement)</a></span></li>
+        <li><span lang="en"><a href="https://www.w3.org/TR/WCAG/">L’article 508 révisé, la norme EN 301 549 ou les Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
+        </ul>
+    </ul>
+    <br>
+      <li><b>Lorsque le lien ouvre un contenu vidéo ou audio</b>, précisez la durée du contenu entre parenthèses. Suivez les consignes du 2e point quand le contenu n'est disponible que dans une autre langue.</li>
+      <ul><p>
+        <li>Example : <span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></li>
+          </ul>
+        </ol>
+          <p>
     <h4>Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise</h4>
     <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
