@@ -4378,7 +4378,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         </header>
         <div class="panel-body">
           <p>Utilisez la <a href="{{ site.url }}/modeles-obligatoire/page-sujet.html">page de sujet</a>.</p>
-          <p>Les pages de sujet doivent être utilisées pour les 2 premiers niveaux de l’gou<a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#arborescence">arborescence thématique</a>. Elles peuvent également être utilisées dans les niveaux inférieurs, mais elles ne sont pas obligatoires. Elles sont de nature navigationnelles et ne devraient pas être utilisées lorsque plusieurs tâches doivent être regroupées ensemble. Consultez toujours votre responsable de thème avant de créer une nouvelle page de sujet.</p>
+          <p>Les pages de sujet doivent être utilisées pour les 2 premiers niveaux de l’<a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#arborescence">arborescence thématique</a>. Elles peuvent également être utilisées dans les niveaux inférieurs, mais elles ne sont pas obligatoires. Elles sont de nature navigationnelles et ne devraient pas être utilisées lorsque plusieurs tâches doivent être regroupées ensemble. Consultez toujours votre responsable de thème avant de créer une nouvelle page de sujet.</p>
         </div>
       </section>
     </div>
