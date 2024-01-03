@@ -44,11 +44,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>Reportez-vous à la section pour plus de détails.</p>
 </section>
 <section id="toc2">
-  <h2>But du document</h2> 
-
-<p>test</p>
-
-  
+  <h2>But du document</h2>
+  <p>test</p>
   <p>Le présent guide fait état des règles de rédaction et de révision du contenu français qui sera publié sur un site du gouvernement du Canada.&nbsp;Elles diffèrent des pratiques adaptées à l'imprimé afin d'appuyer les principes liés à l'accessibilité, à la lisibilité et à la facilité d'utilisation.</p>
   <p>Les règles comprises dans ce guide ont pour but de rendre le contenu Web facile à trouver, à comprendre et à utiliser pour toute personne, y compris celles qui ont un handicap physique ou cognitif.</p>
   <p>Les règles décrites dans ce guide complémentent celles du <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">guide du rédacteur</a></cite>. S'il existe des divergences entre le présent guide, le guide du rédacteur ou toute autre ressource, le présent guide a préséance en ce qui concerne le contenu publié en ligne.</p>
@@ -699,7 +696,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp4-4">4.4 Abréviations, acronymes et référence</a>
               <ul>
                 <li><a href="#wp4-4-1">Citer des exemples</a></li>
-                <li><a href="#wp4-4-2">Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</a></li></ul>            </li>
+                <li><a href="#wp4-4-2">Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</a></li>
+              </ul>
+            </li>
             <li><a href="#wp4-5">4.5 Forme contractée</a></li>
             <li><a href="#wp4-6">4.6 Nombres</a></li>
             <li><a href="#wp4-7">4.7 Dates</a></li>
@@ -895,14 +894,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Vous pouvez utiliser ces abréviations quand l'espace est restreint (par exemple, dans un tableau ou dans un schéma).</p>
     </section>
     <section id="wp4-4-2">
-   <h4>Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</h4><p>Suivez les consignes des <i><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction:</a></i>
-    <ul>
-      <li>Comment <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/docteur.html">employer le titre « docteur » ou « docteure » et son abréviation</a>.</li> 
-      <li>Comment se référer aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-certificats-abreviations.html">grades et doctorats</a> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-et-grades-universitaires.html">diplômes et grades universitaires</a>.</li>
-      <li><a href="https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html">Formules épistolaires</a> : comment s’adresser à des personnes spécifiques de façon appropriée et respectueuse.</li>
-    </ul>
-    <p>Consultez les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/navigateur-navigator?f%5B0%5D=navigateur_navigator_french_themes%3A517&f%5B1%5D=navigateur_navigator_french_themes%3A518&f%5B2%5D=navigateur_navigator_writing_tools%3A234&field_writing_tools=234&sort_by=gclp_total_views#navigateur-navigator-resultats-results"><i>Clés de la rédaction</i></a> pour toutes autres informations à propos de l’emploi des abréviations.
-        </p></section>
+      <h4>Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</h4>
+      <p>Suivez les consignes des <i><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction:</a></i>
+      
+      <ul>
+        <li>Comment <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/docteur.html">employer le titre « docteur » ou « docteure » et son abréviation</a>.</li>
+        <li>Comment se référer aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-certificats-abreviations.html">grades et doctorats</a> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-et-grades-universitaires.html">diplômes et grades universitaires</a>.</li>
+        <li><a href="https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html">Formules épistolaires</a> : comment s’adresser à des personnes spécifiques de façon appropriée et respectueuse.</li>
+      </ul>
+      <p>Consultez les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/navigateur-navigator?f%5B0%5D=navigateur_navigator_french_themes%3A517&f%5B1%5D=navigateur_navigator_french_themes%3A518&f%5B2%5D=navigateur_navigator_writing_tools%3A234&field_writing_tools=234&sort_by=gclp_total_views#navigateur-navigator-resultats-results"><i>Clés de la rédaction</i></a> pour toutes autres informations à propos de l’emploi des abréviations. </p>
+    </section>
     <h4>Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise.</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-4">4.4 Abbreviations and acronyms</a></span></li>
