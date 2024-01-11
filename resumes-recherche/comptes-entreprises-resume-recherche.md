@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://design.canada.ca/resumes-recherche/"
+altLangPage: "https://design.canada.ca/research-summaries/"
 date: 2019-02-04
 dateModified: 2019-02-04
 description: ""
