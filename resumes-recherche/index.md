@@ -9,22 +9,22 @@ title: "Résumés de recherche"
 <p>Summaries of the research the Digital Transformation Office (DTO) and federal departments undertook to make it easier for people to find and understand Government of Canada information and services on Canada.ca.</p>
 <h2>List of research summaries</h2>
 <ul class="mrgn-tp-lg">
-  <li><a href="/research-summaries/diseases-research-summary.html">Diseases and immunization</a></li>
-  <li><a href="/research-summaries/weather-research-summary.html">Weather optimization</a></li>
-  <li><a href="/research-summaries/taxfiling-research-summary.html">Tax filing</a></li>
-  <li><a href="/research-summaries/recalls-research-summary.html">Recalls and safety alerts</a></li>
-  <li><a href="/research-summaries/business-account-research-summary.html">CRA business registration and account maintenance</a></li>
-  <li><a href="/research-summaries/find-job-research-summary.html">Find a job</a></li>
-  <li><a href="/research-summaries/maternity-parental-research-summary.html">Employment insurance maternity and parental benefits</a></li>
-  <li><a href="/research-summaries/student-loans-research-summary.html">Student loans and grants optimization</a></li>
-  <li><a href="/research-summaries/cra-contact-us-research-summary.html">Contact the Canada Revenue Agency (CRA)</a></li>
-  <li><a href="/research-summaries/travel-advice-research-summary.html">Travel advice and advisories</a></li>
-  <li><a href="/research-summaries/recalls-safety-alerts-research-summary.html">Recalls and safety alerts search optimization, Round 2</a></li>
-  <li><a href="/research-summaries/electronic-procurement-research-summary.html">Electronic Procurement Solution (EPS) portal</a></li>
-  <li><a href="/research-summaries/conversation-design.html">Delivering government services through conversation design</a></li>
-  <li><a href="/research-summaries/citizenship-test-research-summary.html">Citizenship test optimization project</a></li>
-  <li><a href="/research-summaries/caregiving-research-summary.html">Employment Insurance caregiving benefits</a></li>
-  <li><a href="/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca</a></li>
-  <li><a href="/research-summaries/canada-child-benefit.html">Canada Child Benefit</a></li>
-  <li><a href="/research-summaries/trust.html">Trust study: Canada.ca design elements</a></li>
+  <li><a href="/resumes-recherche/maladies-resume-recherche.html">Renseignements sur les maladies et la vaccination</a></li>
+  <li><a href="/resumes-recherche/meteo-resume-recherche.html">Renseignements météorologiques</a></li>
+  <li><a href="/resumes-recherche/impots-resume-recherche.html">Déclaration de la TPS/TVH et de retenues sur la paie</a></li>
+  <li><a href="/resumes-recherche/rappels-resume-recherche.html">Rappels et alertes de sécurité</a></li>
+  <li><a href="/resumes-recherche/comptes-entreprises-resume-recherche.html">Inscription des entreprises et tenue des comptes – ARC</a></li>
+  <li><a href="/resumes-recherche/trouver-emploi-resume-recherche.html">Trouver un emploi</a></li>
+  <li><a href="/resumes-recherche/maternite-parentales-resume-recherche.html">Prestations de maternité et prestations parentales de l’assurance-emploi</a></li>
+  <li><a href="/resumes-recherche/prets-etudiants-resume-recherche.html">Prêts et bourses pour les étudiants</a></li>
+  <li><a href="/resumes-recherche/cra-contact-us-research-summary.html">arc-contactez-nous-resume-recherche.html</a></li>
+  <li><a href="/resumes-recherche/conseils-voyageurs-resume-recherche.html">Conseils aux voyageurs et avertissements</a></li>
+  <li><a href="/resumes-recherche/rappels-securite-resume-recherche.html">Optimisation de la recherche de rappels et d’avis de sécurité (deuxième série)</a></li>
+  <li><a href="/resumes-recherche/achats-electroniques-resume-recherche.html">Portail de solution d’achats électroniques (SAE)</a></li>
+  <li><a href="/resumes-recherche/design-conversationnel.html">Fournir des services gouvernementaux grâce au design conversationnel</a></li>
+  <li><a href="/resumes-recherche/examen-citoyennete-resume-recherche.html">Projet d’optimisation de l’examen pour la citoyenneté</a></li>
+  <li><a href="/resumes-recherche/prochesaidants-resume-recherche.html">Prestations d’assurance-emploi pour proches aidants</a></li>
+  <li><a href="/resumes-recherche/orientation-dans-canada-ca.html">Orientation et repérage</a></li>
+  <li><a href="/resumes-recherche/allocation-canadienne-enfants.html">Allocation canadienne pour enfants</a></li>
+  <li><a href="/resumes-recherche/confiance.html">Éléments de conception de Canada.ca</a></li>
 </ul>
