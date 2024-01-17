@@ -100,7 +100,7 @@ Pour vérifier si un agent conversationnel peut contribuer à améliorer la réu
 
 {::nomarkdown}
 <figure class="gc-complex-img" role="group">
-	<img alt="Une longue description peut être trouvée après l'image." src="/images/conversation-1.png" />
+	<img alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/conversation-1.png" />
 	<figcaption><details>
 			<summary>Assistant (en anglais seulement)</summary>
 			<p>L'assistant &quot;Trouver le bon contact ou numéro de téléphone de l'ARC&quot; affiche des questions sur votre appel pour vous guider vers la réponse dont vous avez besoin.</p>
@@ -110,7 +110,7 @@ Pour vérifier si un agent conversationnel peut contribuer à améliorer la réu
 
 {::nomarkdown}
 <figure class="gc-complex-img" role="group">
-	<img alt="Une longue description peut être trouvée après l'image." src="/images/conversation-2.png" />
+	<img alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/conversation-2.png" />
 	<figcaption><details>
 			<summary>Agent conversationnel (en anglais seulement)</summary>
 			<p>Le chatbot de l'ARC qui apparaît au bas de votre écran. Il affiche le texte &quot;Bonjour, essayons de trouver le bon numéro de téléphone de l'ARC pour vous. À quel sujet voulez-vous appeler ?&quot; Les gens tapent ensuite leur réponse pour obtenir une réponse.</p>
@@ -120,7 +120,7 @@ Pour vérifier si un agent conversationnel peut contribuer à améliorer la réu
 
 {::nomarkdown}
 <figure class="gc-complex-img" role="group">
-	<img alt="Une longue description peut être trouvée après l'image." src="/images/conversation-3.png" />
+	<img alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/conversation-3.png" />
 	<figcaption><details>
 			<summary>Agent vocal de l’assistant Google (en anglais seulement)</summary>
 			<p>Le chercheur de numéros de téléphone ARC est un assistant vocal Google. Le texte suivant s'affiche&nbsp;: &quot;Bienvenue dans le moteur de recherche de numéros de téléphone de l'ARC. À quel sujet voulez-vous appeler?&quot; La réponse est &quot;une déclaration de preuve de revenus&quot;.</p>
@@ -138,7 +138,7 @@ Dans la **partie 2**, nous avons apporté des changements mineurs à certains sc
 
 {::nomarkdown}
 <figure class="gc-complex-img" role="group">
-	<img alt="Une longue description peut être trouvée après l'image." src="/images/conversation-4.png" />
+	<img alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/conversation-4.png" />
 	<figcaption><details>
 			<summary>Agent vocal (en anglais seulement)</summary>
 			<p>Pour tester l’interaction vocale, le participant a parlé au modérateur comme s’il parlait à un appareil Google Home. L’animateur a tapé dans le robot conversationnel et a joué le rôle de l’agent vocal. Le comportement et la formulation du robot conversationnel étaient les mêmes que ceux d’un appareil Google Home.</p>
