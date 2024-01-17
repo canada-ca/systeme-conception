@@ -83,7 +83,7 @@ title: "Maladies et vaccination"
   <p>Une fois la nouvelle conception prête, nous avons appelé 16 nouveaux participants pour accomplir les mêmes 11 tâches. Le résultat visé était un taux de réussite de 80&nbsp;%, ou une amélioration d'au moins 20 points par rapport aux résultats de la base de référence. La restructuration du contenu et de l'aspect a amélioré le taux de réussite de la recherche de 66&nbsp;% à 90&nbsp;%. Quant au taux de réussite des tâches, il est monté de 53&nbsp;% à 84&nbsp;%.</p>
   <p>Le graphique suivant illustre le taux de réussite des tâches des scénarios aux essais de validation de la base de référence et du prototype restructuré pour les 32 participants&nbsp;:</p>
 </div>
-<img class="img-responsive hidden-sm hidden-xs" alt="Optimisation des renseignements sur les maladies et la vaccination - taux de réussite d'accomplissement des tâches (tableau)" src="/resumes-recherche/images/Base-Validation-Resultats.jpg"/>
+<div><img class="img-responsive hidden-sm hidden-xs" alt="Optimisation des renseignements sur les maladies et la vaccination - taux de réussite d'accomplissement des tâches (tableau)" src="/resumes-recherche/images/Base-Validation-Resultats.jpg"/></div>
 <div class="col-md-8 row">
   <details>
     <summary> Taux de réussite des tâches – tableau </summary>
