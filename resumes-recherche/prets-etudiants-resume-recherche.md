@@ -24,7 +24,7 @@ title: "Optimisation des prêts et des bourses aux étudiants"
 <p>Nous avons regroupé le contenu sur les prêts et les bourses dans le cadre d’une nouvelle conception, au lieu de le laisser dans des sections de programmes distinctes. Nous avons déplacé les descriptions des programmes dans le site d’<abbr title="Emploi et Développement social Canada">EDSC</abbr>.</p>
 <h3>Conception aux fins des réponses et à non à titre informatif</h3>
 <p>L’étude de référence a montré qu’il était difficile pour les utilisateurs de trouver le site du <abbr title="Centre de service national de prêts aux étudiants">CSNPE</abbr> et de comprendre ce que ce site leur permettait d’effectuer. Il semblerait que les personnes oublient souvent le nom complexe du programme du Centre de service national de prêts aux étudiants. De nombreuses recherches ont été effectuées sur Google et sur le site Canada.ca comportant des variantes du terme «&nbsp;<abbr title="Centre de service national de prêts aux étudiants">CSNPE</abbr>&nbsp;». Pour régler ce problème, l’équipe a utilisé le terme qui figure dans le titre de la nouvelle page&nbsp;:&nbsp;<a href="https://www.canada.ca/fr/services/prestations/education/aide-etudiants/gerer-pret-etudiant.html">Gérer votre prêt étudiant au <abbr title="Centre de service national de prêts aux étudiants">CSNPE</abbr></a>. De plus, nous avons ajouté un seul bouton principal permettant d’acheminer les étudiants vers la connexion à leur compte de <abbr title="Centre de service national de prêts aux étudiants">CSNPE</abbr>. </p>
-<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Placement du bouton primaire" src="../images/prets-etudiants/compte-csnpe.png"/>
+<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Placement du bouton primaire" src="/resumes-recherche/images/prets-etudiants/compte-csnpe.png"/>
   <figcaption>Capture d'écran de la section de la page Web où le nouveau bouton "Connectez-vous à votre compte <abbr title="Centre de service national de prêts aux étudiants">CSNPE</abbr>" a été ajouté. Il se trouve sous la liste des éléments que vous pouvez faire dans votre compte <abbr title="Centre de service national de prêts aux étudiants">CSNPE</abbr>.</figcaption>
 </figure>
 <h3>Utilisation de données probantes à l’égard de la langue de conception</h3>
@@ -60,7 +60,7 @@ title: "Optimisation des prêts et des bourses aux étudiants"
 <h2>Mesurer la réussite</h2>
 <p>Dans l’ensemble, le rendement des tâches a augmenté en passant d’un taux de réussite de 61&nbsp;% à 88&nbsp;% lorsque nous avons mis à l’essai les scénarios de tâches dans le cadre du prototype. </p>
 <p>Ce graphique montre la mesure de référence au début du projet par rapport à la mesure de validation du prototype redessiné par l'équipe de projet.</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="../images/prets-etudiants/prets-etudiants-taux-de-reussite.png"/>
+<img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="/resumes-recherche/images/prets-etudiants/prets-etudiants-taux-de-reussite.png"/>
 <div class="row col-md-9 mrgn-bttm-lg">
   <details>
     <summary> Taux de réussite des tâches – tableau </summary>
@@ -99,8 +99,7 @@ title: "Optimisation des prêts et des bourses aux étudiants"
             <td>100&nbsp;%</td>
           </tr>
             </tr>
-          
-          <tr>
+            <tr>
             <td>Aide au remboursement</td>
             <td  >86&nbsp;%</td>
             <td>100&nbsp;%</td>

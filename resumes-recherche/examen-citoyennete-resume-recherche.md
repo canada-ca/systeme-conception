@@ -32,7 +32,7 @@ title: "Projet d'optimisation de l'examen pour la citoyenneté"
 <h3>Aucune distraction</h3>
 <p>Nous avons supprimé les liens affichés sur la page afin d'aider les utilisateurs à rester concentrés sur la tâche. De cette façon, ils n'ont pas été distraits par des liens vers des renseignements supplémentaires. Nous avons répondu, directement dans le contenu, aux questions qu'ils pourraient poser au lieu de les diriger vers une autre page à l'aide de liens.</p>
 <p>Voici un exemple de la façon dont nous avons réorganisé l'information&nbsp;:</p>
-<figure> <img class="img-responsive" alt="Le guide d'étude montrant le nouveau modèle de long document." src="../images/citoyennete/long-document-modele.jpg" /> </figure>
+<figure> <img class="img-responsive" alt="Le guide d'étude montrant le nouveau modèle de long document." src="/resumes-recherche/images/citoyennete/long-document-modele.jpg" /> </figure>
 <div class="col-md-8 row">
   <details>
     <summary>Description détaillée</summary>
@@ -45,7 +45,7 @@ title: "Projet d'optimisation de l'examen pour la citoyenneté"
   <p>Réussite! Notre objectif était d'améliorer la repérabilité et la réussite des tâches d'au moins 20 points de pourcentage, ou de dépasser 80&nbsp;% pour les deux mesures. Nous avons remis à l'essai les six mêmes tâches à l'aide de notre prototype avec 17 nouveaux participants. La réussite des tâches a augmenté de 17&nbsp;% pour atteindre un total de 86&nbsp;%.</p>
   <p>Ce graphique montre les taux de réussite et de repérabilité de toutes les tâches dans les phases de référence et de validation&nbsp;: </p>
 </div>
-<div><img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="../images/citoyennete/citoyennete-taux-de-reussite.jpg"/></div>
+<div><img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="/resumes-recherche/images/citoyennete/citoyennete-taux-de-reussite.jpg"/></div>
 <div class="row col-md-8">
   <details>
     <summary> Taux de réussite des tâches – tableau </summary>

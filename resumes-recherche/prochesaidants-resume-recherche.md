@@ -35,7 +35,7 @@ title: "Prestations d'assurance-emploi pour proches aidants"
 <p>Au cours des tests initiaux, les participants ont constaté qu'il était relativement simple de faire la distinction entre «&nbsp;prendre soin d'un enfant&nbsp;» et «&nbsp;prendre soin d'un adulte&nbsp;». Cependant, ils ont eu de la difficulté à déterminer s'ils avaient besoin de «&nbsp;prestations de compassion&nbsp;» ou de «&nbsp;prestations pour proches aidants&nbsp;». </p>
 <p>Une autre innovation du prototype optimisé consistait à donner un aperçu des différentes étapes du processus de demande. Le processus comprend la collecte de documents auprès des employeurs et des professionnels de la santé. Les demandeurs doivent ensuite présenter ces documents à Service Canada. Sur le site en direct, ces renseignements apparaissent sous «&nbsp;Une fois votre demande présentée&nbsp;». Certains participants n'ont pas identifié les documents requis parce qu'ils n'ont pas pensé à chercher à cet endroit. </p>
 <p>Dans le prototype, nous avons mis la liste des documents au début du processus. Les participants réussissaient mieux à trouver les documents qu'ils devaient fournir. </p>
-<figure> <img class="img-responsive" alt="Images avant et après des lignes directrices pour «&nbsp;présenter une demande&nbsp;» pour les prestations d'AE pour proches aidants." src="../images/caregiving-prochesaidants/caregiving-before-after-FR.jpg"/>
+<figure> <img class="img-responsive" alt="Images avant et après des lignes directrices pour «&nbsp;présenter une demande&nbsp;» pour les prestations d'AE pour proches aidants." src="/resumes-recherche/images/caregiving-before-after-FR.jpg"/>
   <figcaption><small>Images avant et après des lignes directrices pour «&nbsp;présenter une demande&nbsp;» pour les prestations d'<abbr title="assurance-emploi">AE</abbr> pour proches aidants</small></figcaption>
 </figure>
 <div class="col-md-8 row">
@@ -54,7 +54,7 @@ title: "Prestations d'assurance-emploi pour proches aidants"
   <li>le taux global de réussite des tâches est passé de 51&nbsp;% à 79&nbsp;%</li>
 </ul>
 <p>Ce graphique montre les taux de réussite des tâches dans l'ensemble de la phase initiale et l'essai de validation restructuré du prototype&nbsp;:</p>
-<div> <img class="img-responsive hidden-sm hidden-xs" alt="Optimisation des prestations d'AE pour proches aidants - taux de réussite d'accomplissement des tâches (tableau)" src="../images/caregiving-prochesaidants/caregiving-task-success-chart-FR.jpg"/></div>
+<div> <img class="img-responsive hidden-sm hidden-xs" alt="Optimisation des prestations d'AE pour proches aidants - taux de réussite d'accomplissement des tâches (tableau)" src="/resumes-recherche/images/caregiving-task-success-chart-FR.jpg"/></div>
 <div class="row col-md-8">
   <details>
     <summary> Taux de réussite des tâches – tableau </summary>

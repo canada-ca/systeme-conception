@@ -29,7 +29,7 @@ title: "Maladies et vaccination"
   <li><strong>Quand</strong> je pense à faire vacciner mon enfant, <strong>je veux</strong> savoir si le vaccin est sécuritaire, <strong>pour que je</strong> puisse comprendre les risques</li>
   <li><strong>Quand</strong> je reviens d'un voyage aux tropiques, <strong>je veux</strong> avoir si on peut tester si j'ai le Zika, <strong>pour que</strong> je puisse décider si je dois temporairement éviter de devenir enceinte</li>
 </ul>
-<figure> <img class="img-responsive" alt="«&nbsp;Note autocollante écrite à la main en haut de la page avec la tâche de se faire vacciner contre la grippe pendant la grossesse. Il y a des points autocollants sur la note.&nbsp;»" src="../images/diseases-maladies-immun/task_JTBD.jpg" />
+<figure> <img class="img-responsive" alt="«&nbsp;Note autocollante écrite à la main en haut de la page avec la tâche de se faire vacciner contre la grippe pendant la grossesse. Il y a des points autocollants sur la note.&nbsp;»" src="/resumes-recherche/images/task_JTBD.jpg" />
   <figcaption><small>Scénario avec des points de vote de l'équipe (en anglais)</small></figcaption>
 </figure>
 <div class="col-md-8 row">
@@ -68,7 +68,7 @@ title: "Maladies et vaccination"
 <h2 id="redesign-to-improve-task-success">Restructuration visant à améliorer le taux de réussite des tâches</h2>
 <p>Afin de remédier aux problèmes que nous avons identifiés, l'équipe a créé un prototype fonctionnel d'une nouvelle présentation du site sur Github. On a divisé l'équipe et mis sur pied plusieurs ateliers afin de travailler de manière intensive sur la résolution des problèmes que les participants avaient rencontrés. Par exemple, l'équipe travaillant sur le Zika s'est rendu compte que les participants n'avaient pas pleinement compris des risques sérieux que présente la grossesse à la suite d'une exposition au Zika. L'équipe de projet a travaillé sans relâche pour intégrer le contenu visant à surmonter les préoccupations du public au sujet de la vaccination. De plus, de nouveaux aspects ont été créés pour la page d'accueil de Canada.ca. Ceux-ci exposent mieux les liens vers les sections Santé et Voyage, que les participants aux essais de validation avaient manqués. (Avant, les liens étaient cachés dans un menu qui ne s'affichait que si le visiteur cliquait sur l'icône du menu en question.) </p>
 <p>Tout au long du processus de restructuration, nous avons mis le contenu à l'essai au moyen de séances informelles de petite envergure. Ces séances ont révélé des problèmes dans la restructuration que nous avons pu régler avant de commencer les essais de convivialité dirigés à grande échelle.</p>
-<div><img class="img-responsive" alt="Une image de téléphones intelligents qui montrent la page sur le Zika avant et après la restructuration. Une description détaillée suit." src="../images/diseases-maladies-immun/zika_telephones.png" /></div>
+<div><img class="img-responsive" alt="Une image de téléphones intelligents qui montrent la page sur le Zika avant et après la restructuration. Une description détaillée suit." src="/resumes-recherche/images/zika_telephones.png" /></div>
 <div class="col-md-8 row">
   <figure>
     <figcaption><small>Page sur les pays de destination qui présentent un risque d'infection par le virus Zika&nbsp;: version de base et nouvelle version aux fins de validation</small></figcaption>
@@ -83,7 +83,7 @@ title: "Maladies et vaccination"
   <p>Une fois la nouvelle conception prête, nous avons appelé 16 nouveaux participants pour accomplir les mêmes 11 tâches. Le résultat visé était un taux de réussite de 80&nbsp;%, ou une amélioration d'au moins 20 points par rapport aux résultats de la base de référence. La restructuration du contenu et de l'aspect a amélioré le taux de réussite de la recherche de 66&nbsp;% à 90&nbsp;%. Quant au taux de réussite des tâches, il est monté de 53&nbsp;% à 84&nbsp;%.</p>
   <p>Le graphique suivant illustre le taux de réussite des tâches des scénarios aux essais de validation de la base de référence et du prototype restructuré pour les 32 participants&nbsp;:</p>
 </div>
-<img class="img-responsive hidden-sm hidden-xs" alt="Optimisation des renseignements sur les maladies et la vaccination - taux de réussite d'accomplissement des tâches (tableau)" src="../images/diseases-maladies-immun/Base-Validation-Resultats.jpg"/>
+<img class="img-responsive hidden-sm hidden-xs" alt="Optimisation des renseignements sur les maladies et la vaccination - taux de réussite d'accomplissement des tâches (tableau)" src="/resumes-recherche/images/Base-Validation-Resultats.jpg"/>
 <div class="col-md-8 row">
   <details>
     <summary> Taux de réussite des tâches – tableau </summary>

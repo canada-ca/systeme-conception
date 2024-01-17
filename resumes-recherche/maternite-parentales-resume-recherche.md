@@ -99,7 +99,7 @@ title: "Prestations de maternité et prestations parentales de l'assurance-emplo
 <p>Ce graphique montre la mesure de référence au début du projet par rapport à la mesure de validation du prototype
     redessiné par l'équipe de projet.</p>
 <img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données."
-    src="../images/prestations-mat-ae/maternite-parentales-taux-de-reussite.png" />
+    src="/resumes-recherche/images/maternite-parentales-taux-de-reussite.png" />
 <div class="row col-md-9 mrgn-bttm-lg">
     <details>
         <summary>
@@ -182,13 +182,13 @@ title: "Prestations de maternité et prestations parentales de l'assurance-emplo
 <h3>Montrer le calcul</h3>
 <figure class="mrgn-tp-lg mrgn-bttm-lg">
     <img class="img-responsive border" alt="La page Web pour le nombre de semaines de prestations avant."
-        src="../images/prestations-mat-ae/prestations-mat-avant.jpg" />
+        src="/resumes-recherche/images/prestations-mat-avant.jpg" />
     <figcaption>Les gens ne tenaient même pas compte des prestations utilisées en combinaison. Ils n'accordaient leur
         attention qu'au nombre le plus élevé, pensant qu'il s'agissait du total.</figcaption>
 </figure>
 <figure class="mrgn-tp-lg mrgn-bttm-lg">
     <img class="img-responsive border" alt="La page Web pour le nombre de semaines de prestations après."
-        src="../images/prestations-mat-ae/prestations-mat-apres.jpg" />
+        src="/resumes-recherche/images/prestations-mat-apres.jpg" />
     <figcaption>Montrer une formule pratique que les gens pourront comprendre, afin de les aider à effectuer le calcul.
     </figcaption>
 </figure>

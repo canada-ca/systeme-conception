@@ -11,7 +11,7 @@ title: "Orientation dans Canada.ca"
 <p>L’un des principaux éléments de la marque est l’en-tête général, qui comprend un thème et un menu thématique. Ce menu comporte plusieurs lacunes. Le Bureau de la transformation numérique (BTN) a mené un ensemble d’études pour comprendre le rôle et les répercussions du menu sur la navigation dans le site.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="../images/rs-wayfinding-gh-01-fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/rs-wayfinding-gh-01-fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>L’en-tête général comprenant le menu thématique</summary>
@@ -139,7 +139,7 @@ title: "Orientation dans Canada.ca"
 <p>La nouvelle conception du pied de page a aussi permis d’ajouter une bande contextuelle facultative pour &laquo;&nbsp;Contactez-nous&nbsp;&raquo; et d’autres liens de dépannage contextuels.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="../images/rs-wayfinding-footer-fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/rs-wayfinding-footer-fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Le nouveau pied de page Canada.ca</summary>
@@ -154,7 +154,7 @@ title: "Orientation dans Canada.ca"
 <p>Le modèle de page thématique stratifié comporte une barre de navigation sur la gauche et une bande En demande dans la partie supérieure. Les sujets du thème se trouvent sous la bande En demande.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="../images/rs-wafingding-theme-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/rs-wafingding-theme-en.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Prototype de la conception d'une nouvelle page thématique (en anglais seulement)</summary>
@@ -168,7 +168,7 @@ title: "Orientation dans Canada.ca"
 <p>Les utilisateurs s’attendent généralement à trouver un bouton de connexion en haut à droite de la page. Ceci est courant sur de nombreux sites Web. C’est devenu une convention Web. Nous en avons ajouté un pour soutenir cette tâche principale.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="../images/rs-wayfinding-sign-in-01-fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/rs-wayfinding-sign-in-01-fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Nouvel en-tête avec le bouton contextuel facultatif &laquo;&nbsp;Se connecter.&nbsp;&raquo; </summary>

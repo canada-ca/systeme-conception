@@ -6,7 +6,6 @@ description: ""
 language: fr
 title: "Conseils aux voyageurs et avertissements"
 ---
-<h1>Résumé de recherche&nbsp;: Conseils aux voyageurs et avertissements</h1>
 <p class="post-meta">Le 1 novembre 2019</p>
 <p>Le projet d'optimisation des conseils et des avertissements aux voyageurs a été mis en œuvre de janvier à mars 2019. L'objectif était de permettre aux Canadiens de trouver et de comprendre plus facilement les conseils et les avis aux voyageurs disponibles sur Canada.ca. L'équipe de projet était codirigée par le Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor et Affaires mondiales Canada (AMC).</p>
 <p>Les partenaires d'<abbr title="Affaires mondiales Canada">AMC</abbr> ont également participé à la diffusion de contenu sur les voyages&nbsp;:</p>
@@ -23,7 +22,7 @@ title: "Conseils aux voyageurs et avertissements"
 <p>Les déplacements comportent un certain degré de risque. La plupart des voyageurs prennent des précautions de routine contre des risques qui leurs sont familiers, comme le vol ou les blessures. Le gouvernement du Canada ne peut pas empêcher les Canadiens de voyager vers les destinations à risque élevé, mais il a l'obligation de les protéger contre les dangers. Nous informons les Canadiens lorsqu'ils devraient modifier leur comportement habituel ou tout simplement éviter de voyager pour rester en sécurité. Il est essentiel que nous concevions des pages Web qui présentent clairement et succinctement la nature et le niveau des risques. Pour ce faire, l'équipe de projet a conçu un nouveau modèle de page pour les destinations. La conception priorise les risques &laquo;&nbsp;qu'il faut connaître&nbsp;&raquo; à l'aide d'un nouveau modèle d'alerte et d'une courte liste de points importants soigneusement organisée.</p>
 <h3>Encourager les gens à examiner à la fois les conseils génériques et ceux particuliers à la destination</h3>
 <p>La section Voyages de Canada.ca contient de nombreuses pages qui donnent des conseils généraux. On peut y trouver des conseils sur les documents de voyage, les voyages avec des enfants ou des animaux de compagnie, l'assurance voyage et les vaccins. Souvent, les pages d'une destination en particulier reproduisaient ce contenu. Les tests ont révélé un enjeu persistant, à savoir qu'il était habituel que les gens ayant trouvé des conseils généraux supposent disposer de toute l'information nécessaire pour prendre des décisions sur les déplacements. Ils ne remarquaient pas les conseils essentiels sur la destination en particulier. Pour régler ce problème, nous avons supprimé les conseils &laquo;&nbsp;généraux&nbsp;&raquo; en double des pages de la destination en particulier. Nous avons plutôt ajouté des liens vers ces conseils. Nous avons également regroupé le contenu différemment dans la zone de navigation. Nous avons accru la visibilité de sujets comme &laquo;&nbsp;Planification de votre voyage&nbsp;&raquo; et ajouté une liste de vérification &laquo;&nbsp;Avant de partir&nbsp;&raquo;. Ces changements ont aidé les gens à naviguer plus efficacement entre les deux types de conseils.</p>
-<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Refonte des conseils aux voyageurs." src="../images/conseils-voyageurs/advice-design.png"/>
+<figure class="mrgn-tp-lg mrgn-bttm-lg"> <img class="img-responsive border" alt="Refonte des conseils aux voyageurs." src="/resumes-recherche/images/conseils-voyageurs/advice-design.png"/>
   <figcaption>Refonte de la page de conseils aux voyageurs utilisée pour les tests de validation (en anglais).</figcaption>
 </figure>
 <h2>Établir une base de référence</h2>
@@ -58,7 +57,7 @@ title: "Conseils aux voyageurs et avertissements"
 <h2>Mesure des taux de réussite du nouveau prototype</h2>
 <p>L'équipe a mis à l'essai le prototype remanié avec un nouvel ensemble de 19 voyageurs canadiens. Elle a effectué 146 essais des mêmes scénarios de tâches que dans les tests de référence. Notre objectif était soit d'atteindre un taux de réussite de 80&nbsp;% soit d'obtenir une amélioration d'au moins 20 points par rapport au pointage de référence. Les taux de repérage ont augmenté de 49&nbsp;% à 88&nbsp;% (+&nbsp;39&nbsp;%) après révision du contenu et du design. La réussite globale des tâches est passée de 23&nbsp;% à 72&nbsp;% (+&nbsp;49&nbsp;%).</p>
 <p>Ce graphique présente une comparaison des taux de réussite des tâches entre les tests de référence et les tests de validation pour l'ensemble des 38 participants.</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="Comparaison des taux de réussite à l'accomplissement des tâches — tests de référence et tests de validation." src="../images/conseils-voyageurs/conseils-voyageurs-taux-de-reussite.png"/>
+<img class="img-responsive hidden-sm hidden-xs" alt="Comparaison des taux de réussite à l'accomplissement des tâches — tests de référence et tests de validation." src="/resumes-recherche/images/conseils-voyageurs/conseils-voyageurs-taux-de-reussite.png"/>
 <div class="row col-md-9 mrgn-bttm-lg">
   <details>
     <summary> Taux de réussite des tâches – tableau </summary>
@@ -91,13 +90,12 @@ title: "Conseils aux voyageurs et avertissements"
             <td>Cuba + assurance-maladie</td>
             <td>16&nbsp;%</td>
             <td>63&nbsp;%</td>
-          
+          </tr>
           <tr>
             <td>Îles caïmans + ouragans</td>
             <td>32&nbsp;%</td>
             <td>78&nbsp;%</td>
           </tr>
-            </tr>
           <tr>
             <td>Liste de vérification pour les voyages</td>
             <td>11&nbsp;%</td>

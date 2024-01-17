@@ -17,7 +17,7 @@ title: "Inscription des entreprises et tenue des comptes – ARC"
 <p>Nos concepteurs d'interaction ont créé le prototype dans GitHub. Nous avons reproduit les parties du site Web de l'<abbr title="Agence du revenu du Canada">ARC</abbr> que nous avions mises à l'essai. Grâce à une série intensive d'ateliers et de discussions en petites équipes, et grâce aux membres individuels de l'équipe qui ont analysé les vidéos des tests de base, nous avons apporté de nombreuses mises à jour et améliorations au prototype sur une période de quatre semaines. Ensuite, le prototype a été approuvé comme étant prêt pour les essais. Si les résultats des essais étaient positifs, l'<abbr title="Agence du revenu du Canada">ARC</abbr> continuerait le processus pour les afficher sur Canada.ca.</p>
 <h2>Résultats des essais de validation</h2>
 <p>Succès! Notre objectif était d'améliorer la repérabilité et le succès des tâches d'au moins 20 points de pourcentage, ou de dépasser 80&nbsp;% pour les deux mesures. Au cours de la ronde de validation, 20 participants ont trouvé la bonne destination 84&nbsp;% du temps. Il s'agissait d'une amélioration de 40 points de pourcentage pour atteindre les deux objectifs. La réussite des tâches a augmenté de 38&nbsp;% pour atteindre un total de 72&nbsp;%.</p>
-<div> <img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="../images/comptes-entreprises/comptes-entreprises-taux-de-reussite.jpg"/></div>
+<div> <img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="/resumes-recherche/images/comptes-entreprises/comptes-entreprises-taux-de-reussite.jpg"/></div>
 <div class="row col-md-8">
   <details>
     <summary> Taux de réussite des tâches – tableau </summary>
@@ -87,7 +87,7 @@ title: "Inscription des entreprises et tenue des comptes – ARC"
 <h3>Ajout d'un assistant</h3>
 <p>Pour trouver la bonne adresse, nous avons créé un assistant simple qui utilise un ensemble de questions et une recherche par code postal pour donner la réponse précise concernant l'endroit où envoyer vos documents fiscaux d'entreprise.</p>
 <br>
-<figure> <img class="img-responsive" alt="Images «&nbsp;avant&nbsp;» et «&nbsp;après&nbsp;» des pages «&nbsp;Numéro d'entreprise&nbsp;» qui contiennent des renseignements pour l'inscription au numéro d'entreprise auprès de l'ARC." src="../images/comptes-entreprises/avant-apres-NE.jpg" /> </figure>
+<figure> <img class="img-responsive" alt="Images «&nbsp;avant&nbsp;» et «&nbsp;après&nbsp;» des pages «&nbsp;Numéro d'entreprise&nbsp;» qui contiennent des renseignements pour l'inscription au numéro d'entreprise auprès de l'ARC." src="/resumes-recherche/images/comptes-entreprises/avant-apres-NE.jpg" /> </figure>
 <br>
 <div class="col-md-8 row">
   <details>

@@ -41,7 +41,7 @@ title: "Trouver un emploi"
 <h2>Mesurer les taux de réussite du prototype restructuré</h2>
 <p>L'équipe a mis à l'essai le prototype restructuré avec un nouvel ensemble de 18 étudiants canadiens. Ils ont effectué 123 essais selon les mêmes scénarios de tâches. Notre objectif était d'obtenir soit un taux de réussite de 80&nbsp;%, soit une amélioration d'au moins 20 points par rapport à la note de référence. Le contenu et la conception révisés ont permis d'améliorer les taux de repérabilité de 64&nbsp;% à 90&nbsp;%, et le taux de réussite global des tâches est passé de 59&nbsp;% à 85&nbsp;%.</p>
 <p>Le graphique suivant illustre les taux de réussite des tâches des scénarios aux essais de validation de la base de référence et du prototype restructuré pour les 34 participants&nbsp;:</p>
-<div> <img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="../images/emplois/emplois-taux-de-reussite.png" /></div>
+<div> <img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="/resumes-recherche/images/emplois-taux-de-reussite.png" /></div>
 <div class="row col-md-9">
   <details>
     <summary>Taux de réussite des tâches – tableau</summary>

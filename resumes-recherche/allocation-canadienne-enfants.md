@@ -79,7 +79,7 @@ title: "Allocation canadienne pour enfants"
 <p>L'équipe a donc remplacé la configuration relative à la navigation dans plusieurs pages ordonnées par le nouveau modèle de navigation de style métro. Le modèle de navigation de style métro différencie les sections dans un espace plus restreint et affiche les liens entre celles-ci.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran de l'ancien modèle de navigation dans plusieurs pages ordonnées de l'allocation canadienne pour enfants" src="../images/ccb_apercu_fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran de l'ancien modèle de navigation dans plusieurs pages ordonnées de l'allocation canadienne pour enfants" src="/resumes-recherche/images/ccb_apercu_fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Description de l'image&nbsp;: ancien modèle de navigation dans plusieurs pages ordonnées de l'allocation canadienne pour enfants</summary>
@@ -103,7 +103,7 @@ title: "Allocation canadienne pour enfants"
 <p>Dans le modèle original de page de lancement d'un service avec la configuration relative à la navigation dans plusieurs pages, les gens éprouvaient des problèmes à naviguer d'une page à l'autre et cliquaient souvent sur le bouton de la page sur laquelle ils se trouvaient déjà.  La configuration de navigation de style métro rend les étapes plus claires sans répéter le titre. Elle positionne la configuration &laquo;&nbsp;Sur cette page&nbsp;&raquo; après les liens de navigation de style métro. Sur un ordinateur de bureau, les liens de navigation de style métro apparaissent du côté droit de l'écran.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran de l'ancien modèle de navigation dans plusieurs pages ordonnées et du nouveau modèle de navigation de style métro de l'allocation canadienne pour enfants" src="../images/ccb_nav_metro_fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran de l'ancien modèle de navigation dans plusieurs pages ordonnées et du nouveau modèle de navigation de style métro de l'allocation canadienne pour enfants" src="/resumes-recherche/images/ccb_nav_metro_fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Description de l'image&nbsp;: l'ancien et le nouveau modèle de navigation de l'allocation canadienne pour enfants</summary>
@@ -117,7 +117,7 @@ title: "Allocation canadienne pour enfants"
 <p>Dans le modèle de page de lancement d'un service avec la navigation dans plusieurs pages, les titres des pages s'affichent sous la forme de boutons sans espace pour la description. Le renvoi à la ligne brise l'alignement, donc les concepteurs de contenu limitent souvent les mots pour contrôler la taille des boutons. Dans l'étude de référence, il était donc plus difficile pour les gens de choisir le bon bouton, car les libellés n'étaient pas suffisamment clairs.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran du menu de navigation de l'allocation canadienne pour enfants" src="../images/ccb_nav_menu_fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran du menu de navigation de l'allocation canadienne pour enfants" src="/resumes-recherche/images/ccb_nav_menu_fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Description de l'image&nbsp;: capture d'écran du menu de navigation de l'allocation canadienne pour enfants</summary>
@@ -130,7 +130,7 @@ title: "Allocation canadienne pour enfants"
 <p>Dans le modèle de navigation de style métro, le texte des liens peut être plus long. La page d'index comporte un espace pour afficher une description sous chaque lien.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran du modèle de navigation de style métro de l'allocation canadienne pour enfants" src="../images/metro_fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran du modèle de navigation de style métro de l'allocation canadienne pour enfants" src="/resumes-recherche/images/metro_fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Description de l'image&nbsp;: modèle de navigation de style métro de l'allocation canadienne pour enfants</summary>
@@ -155,7 +155,7 @@ title: "Allocation canadienne pour enfants"
 <p>Nous avons reformulé les titres des pages et les en-têtes pour répondre aux principales questions des utilisateurs. Par exemple, les participants à l'étude de référence ont effectué une recherche au moyen du terme &laquo;&nbsp;Faire une demande&nbsp;&raquo; pour savoir &laquo;&nbsp;qui peut faire une demande&nbsp;&raquo; ainsi que pour savoir &laquo;&nbsp;comment demeurer admissible&nbsp;&raquo;. Le modèle de navigation de style métro comportait des titres de pages distincts pour chacune des réponses.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran de l'ancien et du nouveau modèle de conception avec les titres de pages adaptés" src="../images/ccb_admissibilite_fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran de l'ancien et du nouveau modèle de conception avec les titres de pages adaptés" src="/resumes-recherche/images/ccb_admissibilite_fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Description de l'image&nbsp;: ancien et nouveau modèle de conception avec les titres de pages adaptés</summary>
@@ -172,7 +172,7 @@ title: "Allocation canadienne pour enfants"
 <p>Sur le site Web en ligne, un long avis de non-responsabilité bloquait l'accès à un important outil de calcul des prestations, et il fallait cliquer sur le bouton &laquo;&nbsp;J'accepte&nbsp;&raquo; qui se trouvait sous la mise en garde pour être en mesure de le lancer. Les participants ne faisaient pas défiler l'avis de non-responsabilité pour atteindre le bouton, et certaines personnes qui trouvaient ce bouton hésitaient à cliquer sur &laquo;&nbsp;J'accepte&nbsp;&raquo;.  L'équipe a déplacé l'avis de non-responsabilité à la phase de réponse de l'outil, où il était pertinent de l'afficher, et a retiré l'étape &laquo;&nbsp;J'accepte&nbsp;&raquo;.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran avant et après le retrait de l'avis de non-responsabilité de l'allocation canadienne pour enfants" src="../images/calculateur_fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran avant et après le retrait de l'avis de non-responsabilité de l'allocation canadienne pour enfants" src="/resumes-recherche/images/calculateur_fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Description de l'image&nbsp;: retrait de l'avis de non-responsabilité de l'allocation canadienne pour enfants </summary>

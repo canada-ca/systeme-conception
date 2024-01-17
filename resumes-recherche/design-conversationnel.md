@@ -96,29 +96,34 @@ Pour vérifier si un agent conversationnel peut contribuer à améliorer la réu
 - **un robot conversationnel** où les utilisateurs l'ont ouvert sur la page Web et ont interagi en tapant
 - **un assistant vocal** où les utilisateurs ont interagi avec leur voix au moyen de Google Home ou d'un assistant Google sur un téléphone
 
-{% include components/gc-complex-img.html
-   alt="Une longue description peut être trouvée après l'image."
-   file="conversation-1.png"
-   caption=""
-   summary="Assistant (en anglais seulement)"
-   content="<p>L'assistant &quot;Trouver le bon contact ou numéro de téléphone de l'ARC&quot; affiche des questions sur votre appel pour vous guider vers la réponse dont vous avez besoin.</p>"
-%}
+<figure class="gc-complex-img" role="group">
+	<img alt="Une longue description peut être trouvée après l'image." src="/images/conversation-1.png" />
+	<figcaption><details>
+			<summary>Assistant (en anglais seulement)</summary>
+			<p>L'assistant &quot;Trouver le bon contact ou numéro de téléphone de l'ARC&quot; affiche des questions sur votre appel pour vous guider vers la réponse dont vous avez besoin.</p>
+		</details></figcaption>
+</figure>
+{:/}
 
-{% include components/gc-complex-img.html
-   alt="Une longue description peut être trouvée après l'image."
-   file="conversation-2.png"
-   caption=""
-   summary="Agent conversationnel (en anglais seulement)"
-   content="<p>Le chatbot de l'ARC qui apparaît au bas de votre écran. Il affiche le texte &quot;Bonjour, essayons de trouver le bon numéro de téléphone de l'ARC pour vous. À quel sujet voulez-vous appeler ?&quot; Les gens tapent ensuite leur réponse pour obtenir une réponse.</p>"
-%}
+{::nomarkdown}
+<figure class="gc-complex-img" role="group">
+	<img alt="Une longue description peut être trouvée après l'image." src="/images/conversation-2.png" />
+	<figcaption><details>
+			<summary>Agent conversationnel (en anglais seulement)</summary>
+			<p>Le chatbot de l'ARC qui apparaît au bas de votre écran. Il affiche le texte &quot;Bonjour, essayons de trouver le bon numéro de téléphone de l'ARC pour vous. À quel sujet voulez-vous appeler ?&quot; Les gens tapent ensuite leur réponse pour obtenir une réponse.</p>
+		</details></figcaption>
+</figure>
+{:/}
 
-{% include components/gc-complex-img.html
-   alt="Une longue description peut être trouvée après l'image."
-   file="conversation-3.png"
-   caption=""
-   summary="Agent vocal de l'assistant Google (en anglais seulement)"
-   content="<p>Le chercheur de numéros de téléphone ARC est un assistant vocal Google. Le texte suivant s'affiche&nbsp;: &quot;Bienvenue dans le moteur de recherche de numéros de téléphone de l'ARC. À quel sujet voulez-vous appeler?&quot; La réponse est &quot;une déclaration de preuve de revenus&quot;.</p>"
-%}
+{::nomarkdown}
+<figure class="gc-complex-img" role="group">
+	<img alt="Une longue description peut être trouvée après l'image." src="/images/conversation-3.png" />
+	<figcaption><details>
+			<summary>Agent vocal de l’assistant Google (en anglais seulement)</summary>
+			<p>Le chercheur de numéros de téléphone ARC est un assistant vocal Google. Le texte suivant s'affiche&nbsp;: &quot;Bienvenue dans le moteur de recherche de numéros de téléphone de l'ARC. À quel sujet voulez-vous appeler?&quot; La réponse est &quot;une déclaration de preuve de revenus&quot;.</p>
+		</details></figcaption>
+</figure>
+{:/}
 
 ### Comment nous avons testé la conception
 
@@ -128,13 +133,15 @@ Dans la **partie 1**, les participants pouvaient utiliser n'importe quelle secti
 
 Dans la **partie 2**, nous avons apporté des changements mineurs à certains scénarios de tâches et demandé aux participants de tenter de trouver la bonne réponse en utilisant **uniquement les agents conversationnels**. Ils ont essayé d'effectuer certaines tâches en utilisant seulement leur voix (le modérateur jouant le rôle de l'assistant vocal, en fonction des réponses du robot conversationnel), et d'autres en utilisant le robot conversationnel sur le prototype.
 
-{% include components/gc-complex-img.html
-   alt="Une longue description peut être trouvée après l'image."
-   file="conversation-4.png"
-   caption=""
-   summary="Agent vocal (en anglais seulement)"
-   content="<p>Pour tester l'interaction vocale, le participant a parlé au modérateur comme s'il parlait à un appareil Google Home. L'animateur a tapé dans le robot conversationnel et a joué le rôle de l'agent vocal. Le comportement et la formulation du robot conversationnel étaient les mêmes que ceux d'un appareil Google Home.</p>"
-%}
+{::nomarkdown}
+<figure class="gc-complex-img" role="group">
+	<img alt="Une longue description peut être trouvée après l'image." src="/images/conversation-4.png" />
+	<figcaption><details>
+			<summary>Agent vocal (en anglais seulement)</summary>
+			<p>Pour tester l’interaction vocale, le participant a parlé au modérateur comme s’il parlait à un appareil Google Home. L’animateur a tapé dans le robot conversationnel et a joué le rôle de l’agent vocal. Le comportement et la formulation du robot conversationnel étaient les mêmes que ceux d’un appareil Google Home.</p>
+		</details></figcaption>
+</figure>
+{:/}
 
 ## Résultats
 
@@ -175,7 +182,7 @@ Cela a conduit à certains problèmes. Par exemple, lorsque l'utilisateur a dema
 {::nomarkdown}
 <figure>
   <video controls class="img-responsive">
-    <source src="../media/Clip2-FR.mp4" type="video/mp4">
+    <source src="/resumes-recherche/media/Clip2-FR.mp4" type="video/mp4">
   </video>
   <details>
     <summary>Recherche d'un numéro</summary>
@@ -223,7 +230,7 @@ Par exemple, pour la tâche « Signaler une arnaque », nous n'avons pas inclus 
 {::nomarkdown}
 <figure>
   <video controls class="img-responsive">
-    <source src="../media/Clip1-FR.mp4" type="video/mp4">
+    <source src="/resumes-recherche/media/Clip1-FR.mp4" type="video/mp4">
   </video>
   <details>
     <summary>Utiliser un mot qui n'est pas dans les phrases de formation</summary>
@@ -285,7 +292,7 @@ Les « intentions » doivent être conçues de manière à permettre aux utilisa
 {::nomarkdown}
 <figure>
   <video controls class="img-responsive">
-    <source src="../media/Clip3-FR.mp4" type="video/mp4">
+    <source src="/resumes-recherche/media/Clip3-FR.mp4" type="video/mp4">
   </video>
   <details>
     <summary>Un participant qui doit répéter quelque chose</summary>
@@ -370,7 +377,7 @@ Plusieurs facteurs sont entrés en jeu&nbsp;:
 {::nomarkdown}
 <figure>
   <video controls class="img-responsive">
-    <source src="../media/Clip4-FR.mp4" type="video/mp4">
+    <source src="/resumes-recherche/media/Clip4-FR.mp4" type="video/mp4">
   </video>
   <details>
     <summary>Utiliser l'agent pour rechercher une preuve de revenu</summary>
@@ -432,7 +439,7 @@ Les tâches qui n'étaient pas bien exécutées avec les agents conversationnels
 {::nomarkdown}
 <figure>
   <video controls class="img-responsive">
-    <source src="../media/Clip5-FR.mp4" type="video/mp4">
+    <source src="/resumes-recherche/media/Clip5-FR.mp4" type="video/mp4">
   </video>
   <details>
     <summary>Utiliser l'assistant et l'agent pour effectuer une entente de paiement</summary>

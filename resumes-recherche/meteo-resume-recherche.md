@@ -44,8 +44,7 @@ title: "Renseignements météorologiques"
 </ul>
 <p>Nous avons utilisé ces scénarios de tâche pour tester le site Web auprès de personnes de nos publics cibles.</p>
 <figure> <img class="img-responsive"
-        alt="Des feuillets autoadhésifs manuscrits apposés au haut de la page indiquent des suggestions de conception pour améliorer les icônes. Il y a des points autoadhésifs sur le feuillet."
-        src="../images/weather-meteo/design-suggestions.jpg" width="800px" />
+        alt="Des feuillets autoadhésifs manuscrits apposés au haut de la page indiquent des suggestions de conception pour améliorer les icônes. Il y a des points autoadhésifs sur le feuillet." src="/resumes-recherche/images/design-suggestions.jpg" width="800px" />
     <figcaption><small>Suggestions de conception avec points de vote (en anglais)</small></figcaption>
 </figure>
 <div class="col-md-8 row">
@@ -103,9 +102,9 @@ title: "Renseignements météorologiques"
 <div class="col-md-10 row">
     <div class="mwsmediaplayer section">
         <figure class="wb-mltmd">
-            <video poster="../images/weather-meteo/weather_phones_anim-alert-FR.jpg"
-                title="Conception d'alertes avant et après la nouvelle conception mobile aux fins de validation">
-                <source src="../images/weather-meteo/weather_phones_anim-alert-FR.mp4" type="video/mp4" />
+            <video poster="/resumes-recherche/images/weather_phones_anim-alert-FR.jpg"
+                title="Conception d'alertes avant et après la nouvelle conception mobile aux fins de validation"> 
+                <source src="/resumes-recherche/media/weather_phones_anim-alert-FR.mp4" type="video/mp4" />
             </video>
         </figure>
     </div>
@@ -129,9 +128,9 @@ title: "Renseignements météorologiques"
 <h3>Conception de la page de la ville avant et après la nouvelle conception mobile aux fins de validation</h3>
 <div class="mwsmediaplayer section">
     <figure class="wb-mltmd">
-        <video poster="../images/weather-meteo/weather_phones_anim-FR.jpg"
+        <video poster="/resumes-recherche/images/weather_phones_anim-FR.jpg"
             title="Conception de la page de la ville avant et après la nouvelle conception mobile aux fins de validation">
-            <source src="../images/weather-meteo/weather_phones_anim-FR.mp4" type="video/mp4" />
+            <source src="/resumes-recherche/media/weather_phones_anim-FR.mp4" type="video/mp4" />
         </video>
     </figure>
 </div>
@@ -159,7 +158,7 @@ title: "Renseignements météorologiques"
 <p>Ce graphique montre les taux de réussite de l'exécution de la tâche dans l'ensemble de la référence et de la mise
     à l'essai de validation remanié du prototype pour l'ensemble des 40 participants&nbsp;:</p>
 <div class="col-md-12"> <img class="img-responsive hidden-sm hidden-xs"
-        src="../images/weather-meteo/Baseline_vs_Validation_Success_resultats.jpg"
+        src="/resumes-recherche/images/Baseline_vs_Validation_Success_resultats.jpg"
         alt="Graphique qui illustre les résultats de la base de référence et de la restructuration." /> </div>
 <div class="row col-md-8">
     <details>
