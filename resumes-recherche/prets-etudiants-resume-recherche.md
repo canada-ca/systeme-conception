@@ -60,7 +60,7 @@ title: "Optimisation des prêts et des bourses aux étudiants"
 <h2>Mesurer la réussite</h2>
 <p>Dans l’ensemble, le rendement des tâches a augmenté en passant d’un taux de réussite de 61&nbsp;% à 88&nbsp;% lorsque nous avons mis à l’essai les scénarios de tâches dans le cadre du prototype. </p>
 <p>Ce graphique montre la mesure de référence au début du projet par rapport à la mesure de validation du prototype redessiné par l'équipe de projet.</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="/resumes-recherche/images/prets-etudiants-taux-de-reussite.png"/>
+<div><img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="/resumes-recherche/images/prets-etudiants-taux-de-reussite.png"/></div>
 <div class="row col-md-9 mrgn-bttm-lg">
   <details>
     <summary> Taux de réussite des tâches – tableau </summary>

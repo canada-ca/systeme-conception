@@ -17,7 +17,7 @@ title: "Résumés de recherche"
   <li><a href="/resumes-recherche/trouver-emploi-resume-recherche.html">Trouver un emploi</a></li>
   <li><a href="/resumes-recherche/maternite-parentales-resume-recherche.html">Prestations de maternité et prestations parentales de l’assurance-emploi</a></li>
   <li><a href="/resumes-recherche/prets-etudiants-resume-recherche.html">Prêts et bourses pour les étudiants</a></li>
-  <li><a href="/resumes-recherche/cra-contact-us-research-summary.html">arc-contactez-nous-resume-recherche.html</a></li>
+  <li><a href="/resumes-recherche/arc-contactez-nous-resume-recherche.html">Communiquer avec l'ARC</a></li>
   <li><a href="/resumes-recherche/conseils-voyageurs-resume-recherche.html">Conseils aux voyageurs et avertissements</a></li>
   <li><a href="/resumes-recherche/rappels-securite-resume-recherche.html">Optimisation de la recherche de rappels et d’avis de sécurité (deuxième série)</a></li>
   <li><a href="/resumes-recherche/achats-electroniques-resume-recherche.html">Portail de solution d’achats électroniques (SAE)</a></li>
