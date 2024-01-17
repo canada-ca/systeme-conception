@@ -30,15 +30,13 @@ title: "Portail de solution d'achats électroniques (SAE)"
 <p>Nous avons élaboré la conception du prototype grâce à une série d'ateliers de collaboration intensifs avec des experts en approvisionnement des SPAC. Ainsi, nous avons pu développer un prototype avec plusieurs innovations, notamment&nbsp;:</p>
 <h4>Interface de recherche rationalisée et affichage de l'appel d'offres</h4>
 <p>L'expérience de recherche prototypique utilisait une seule boîte de recherche sur la page d'accueil.</p>
-<figure> <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="../images/CanadaBuys.PNG" width="700"> </figure>
+<figure><img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/CanadaBuys.png" width="700"></figure>
 <details>
   <summary>Le prototype d'AchatsCanada (en anglais seulement).</summary>
   <p>Texte d'en-tête&nbsp;: CanadaBuys. Il y a un champ de recherche intitulé «&nbsp;Rechercher les opportunités actives du gouvernement du Canada&nbsp;». Sous le champ de recherche se trouve un lien vers «&nbsp;Modifications apportées aux marchés publics - ce que les fournisseurs actuels doivent savoir&nbsp;».</p>
 </details>
 <p>Elle présentait ensuite un ensemble simplifié d'options à facettes pour réduire les résultats.</p>
-<figure> <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="../images/Category.PNG" width="500"> </figure>
+<figure><img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/Category.png" width="500"></figure>
 <details>
   <summary>Un example de les facettes (en anglais seulement).</summary>
   <p>Les facettes sont énumérées dans cet ordre&nbsp;: Catégorie et code, Lieu, Type d'avis, Qui peut soumissionner, Acheteur.</p>
@@ -62,8 +60,7 @@ src="../images/Category.PNG" width="500"> </figure>
 <p>Actuellement, la plupart des DP sont seulement publiées en format PDF. Les entreprises doivent télécharger le PDF avant de pouvoir l'analyser ou faire une recherche dans le document. Le prototype a essayé d'utiliser un format HTML navigable pour les documents longs. Il contenait une table des matières interactive permettant aux gens d'accéder facilement à des sections clés comme l'énoncé de travail.</p>
 <h4>Hiérarchie navigable pour les codes de produits et de services</h4>
 <p>Le prototype utilisait une simple recherche par mot clé pour aider les entreprises à trouver le code UNSPSC ou NIBS pour un produit ou un service en particulier. Les résultats affichaient la hiérarchie complète du contexte et permettaient aux utilisateurs de naviguer dans l'arborescence.</p>
-<figure> <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="../images/internet-hierarchy.PNG" width="700"> </figure>
+<figure> <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/internet-hierarchy.png" width="700"></figure>
 <details>
   <summary>Services de développement d'applications client sur Internet ou intranet (en anglais seulement).</summary>
   <p>Le texte de l'en-tête se lit&nbsp;: Services de développement d'applications client sur Internet ou intranet. Le code UNSPSC pour ce type de service est indiqué en gras sous le titre&nbsp;: 81111509.</p>
@@ -79,15 +76,14 @@ src="../images/internet-hierarchy.PNG" width="700"> </figure>
 </details>
 <h4>Un assistant aidant les fournisseurs à identifier leur meilleure «&nbsp;méthode d'approvisionnement&nbsp;»</h4>
 <p>Savoir s'il existe un arrangement en matière d'approvisionnement permettant à votre entreprise de se préqualifier pour les occasions gouvernementales est l'un des aspects les plus complexes de l'apprentissage du fonctionnement de l'approvisionnement. L'assistant prototypé a simplifié cette tâche. Il posait des questions simples et présentait les meilleurs choix pour votre produit ou votre service.</p>
-<figure> <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="../images/Find-the-way.PNG" width="700"> </figure>
+<figure> <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/Find-the-way.png" width="700"></figure>
 <details>
   <summary> Identifier leur meilleure «&nbsp;méthode d'approvisionnement&nbsp;» (en anglais seulement).</summary>
   <p>Le texte de l'en-tête de l'assistant se lit comme suit&nbsp;: Trouvez la meilleure façon de concurrencer pour les marchés publics. Il explique&nbsp;: Nous avons peut-être une méthode d'approvisionnement privilégiée ou obligatoire pour l'achat de certains biens ou services. Cette explication est suivie d'une question simple&nbsp;: Qu'est-ce que vous vendez ou fournissez? Les options sont les suivantes&nbsp;: Matières premières, équipement industriel, composants et fournitures, produits d'utilisation finale et services. Vous trouverez ci-dessous un bouton intitulé «&nbsp;Continuer&nbsp;».</p>
 </details>
 <h2>Mesure des taux de réussite du nouveau prototype AchatsCanada</h2>
 <p>Ce graphique présente une comparaison des taux de réussite des tâches entre les tests de référence et les tests de validation pour l'ensemble des 37 participants.</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="Une longue description peut être trouvée après l'image." src="../images/EPS-Graph-2.png"/>
+<div> <img class="img-responsive hidden-sm hidden-xs" alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/EPS-Graph-2.png"/> </div>
 <div class="row col-md-9">
   <details>
     <summary> Taux de réussite des tâches – tableau </summary>
@@ -120,13 +116,12 @@ src="../images/Find-the-way.PNG" width="700"> </figure>
             <td>Appel d'offres (correction d'épreuves)</td>
             <td>41&nbsp;%</td>
             <td>89&nbsp;%</td>
-          
+          </tr>
           <tr>
             <td>Travail à distance</td>
             <td>0&nbsp;%</td>
             <td>95&nbsp;%</td>
           </tr>
-            </tr>
           <tr>
             <td>Dates + offre permanente</td>
             <td>11&nbsp;%</td>
@@ -157,10 +152,10 @@ src="../images/Find-the-way.PNG" width="700"> </figure>
 </ul>
 <div class="clearfix"></div>
 <h2>Demander les résultats de recherche</h2>
-<p>Si vous souhaitez voir les conclusions de recherche détaillés de ce projet, envoyez-nous un courriel à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.
+<p>Si vous souhaitez voir les conclusions de recherche détaillés de ce projet, envoyez-nous un courriel à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
 <h2>Dites-nous ce que vous en pensez</h2>
 <p>Envoyez un gazouillis en utilisant le mot-clic #Canadapointca.</p>
 <h2>Pour en savoir plus</h2>
 <ul>
-  <li>Consultez les aperçus de nos autres <a href=" {{ '/pages/apercu-projet.html#projets' | prepend: site.urlalt[ page.language ] }} ">projets avec nos partenaires</a></li>
+  <li>Consultez les aperçus de nos autres <a href="{{ '/pages/apercu-projet.html#projets' | prepend: site.urlalt[ page.language ] }}">projets avec nos partenaires</a></li>
 </ul>
