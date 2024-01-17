@@ -60,13 +60,15 @@ Les agents conversationnels fonctionnent ainsi:
 - l'agent répond à l'utilisateur avec une réponse préconçue pour cette situation&nbsp;: « *Voulez-vous appeler au sujet de votre compte d'impôts personnels ou d'un compte d'impôts pour les entreprises*? »
 - le cycle redémarre, si la conversation n'est pas terminée
 
-{% include components/gc-complex-img.html
-   alt="Une longue description peut être trouvée après l'image."
-   file="chat-cycle-fr.jpg"
-   caption=""
-   summary="Fonctionnement des agents conversationnels"
-   content="<p>Un exemple visuel du fonctionnement d'un agent conversationnel. L'utilisateur dit quelque chose. Le traitement du langage naturel essaie de le faire correspondre à une intention, dans le contexte. Ensuite, l'agent répond quelque chose. Si la conversation n'est pas terminée, le cycle se répète.</p>"
-%}
+{::nomarkdown}
+<figure class="gc-complex-img" role="group">
+	<img alt="Une longue description peut être trouvée après l'image." src="/images/chat-cycle-fr.jpg" />
+	<figcaption><details>
+			<summary>Fonctionnement des agents conversationnels</summary>
+			<p>Un exemple visuel du fonctionnement d'un agent conversationnel. L'utilisateur dit quelque chose. Le traitement du langage naturel essaie de le faire correspondre à une intention, dans le contexte. Ensuite, l'agent répond quelque chose. Si la conversation n'est pas terminée, le cycle se répète.</p>
+		</details></figcaption>
+</figure>
+{:/}
 
 La « magie » des agents conversationnels réside dans le traitement du langage naturel – une forme d'intelligence artificielle. L'agent utilise le traitement du langage naturel pour analyser à la fois la syntaxe et la sémantique de la conversation en se basant sur un vaste jeu de données de langage de conversation. Par conséquent, si un utilisateur dit « J'aimerais », l'agent peut comprendre cela pour faire une correspondance à une intention qui dit « Je voudrais ... » et une intention qui dit « Je veux ».
 
@@ -96,6 +98,7 @@ Pour vérifier si un agent conversationnel peut contribuer à améliorer la réu
 - **un robot conversationnel** où les utilisateurs l'ont ouvert sur la page Web et ont interagi en tapant
 - **un assistant vocal** où les utilisateurs ont interagi avec leur voix au moyen de Google Home ou d'un assistant Google sur un téléphone
 
+{::nomarkdown}
 <figure class="gc-complex-img" role="group">
 	<img alt="Une longue description peut être trouvée après l'image." src="/images/conversation-1.png" />
 	<figcaption><details>
