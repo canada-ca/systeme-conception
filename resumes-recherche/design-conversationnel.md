@@ -62,7 +62,7 @@ Les agents conversationnels fonctionnent ainsi:
 
 {::nomarkdown}
 <figure class="gc-complex-img" role="group">
-	<img alt="Une longue description peut être trouvée après l'image." src="/images/chat-cycle-fr.jpg" />
+	<img alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/chat-cycle-fr.jpg" />
 	<figcaption><details>
 			<summary>Fonctionnement des agents conversationnels</summary>
 			<p>Un exemple visuel du fonctionnement d'un agent conversationnel. L'utilisateur dit quelque chose. Le traitement du langage naturel essaie de le faire correspondre à une intention, dans le contexte. Ensuite, l'agent répond quelque chose. Si la conversation n'est pas terminée, le cycle se répète.</p>
