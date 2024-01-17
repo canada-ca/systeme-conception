@@ -1,48 +1,48 @@
 ---
-altLangPage: "https://design.canada.ca/research-summaries/"
+altLangPage: "https://design.canada.ca/research-summaries/citizenship-test-research-summary.html"
 date: 2019-03-29
 dateModified: 2019-03-29
 description: ""
 language: fr
-title: "Projet d’optimisation de l’examen pour la citoyenneté"
+title: "Projet d'optimisation de l'examen pour la citoyenneté"
 ---
 <p class="post-meta">29 mars 2019</p>
-<p>À l’été 2018, le Bureau de la transformation numérique (BTN) et Immigration, Réfugiés et Citoyenneté Canada (IRCC) ont collaboré au projet d’optimisation de l’examen pour la citoyenneté. Dans le cadre de ce projet, l’équipe a cherché à aider les gens à se préparer plus facilement en vue de l’examen que la plupart des nouveaux citoyens doivent passer pour remplir leur demande de citoyenneté canadienne.</p>
-<p>Une équipe formée de concepteurs de contenu, de chercheurs en conception et de concepteurs d’interactions a collaboré avec <abbr title="Immigration, Réfugiés et Citoyenneté Canada">IRCC</abbr> à la définition d’un ensemble de six scénarios de tâches liés à l’examen pour la citoyenneté. À l’aide de ces scénarios, nous avons fait passer un total de 214 à 36 participants. Nous avons mis à l’essai les pages existantes, puis nous les avons remises à l’essai avec les améliorations apportées au prototype. En général, le taux de réussite des tâches a augmenté de 17&nbsp;% (points de pourcentage) pour atteindre une moyenne de 86&nbsp;% avec le prototype remanié</p>
+<p>À l'été 2018, le Bureau de la transformation numérique (BTN) et Immigration, Réfugiés et Citoyenneté Canada (IRCC) ont collaboré au projet d'optimisation de l'examen pour la citoyenneté. Dans le cadre de ce projet, l'équipe a cherché à aider les gens à se préparer plus facilement en vue de l'examen que la plupart des nouveaux citoyens doivent passer pour remplir leur demande de citoyenneté canadienne.</p>
+<p>Une équipe formée de concepteurs de contenu, de chercheurs en conception et de concepteurs d'interactions a collaboré avec <abbr title="Immigration, Réfugiés et Citoyenneté Canada">IRCC</abbr> à la définition d'un ensemble de six scénarios de tâches liés à l'examen pour la citoyenneté. À l'aide de ces scénarios, nous avons fait passer un total de 214 à 36 participants. Nous avons mis à l'essai les pages existantes, puis nous les avons remises à l'essai avec les améliorations apportées au prototype. En général, le taux de réussite des tâches a augmenté de 17&nbsp;% (points de pourcentage) pour atteindre une moyenne de 86&nbsp;% avec le prototype remanié</p>
 <h2>Établir une base de référence</h2>
-<p>Nous avons sélectionné 19 participants pour mettre à l’essai les pages existantes à l’aide des six tâches conçues par notre équipe. Notre équipe tentait de mesurer ce qui suit&nbsp;:</p>
+<p>Nous avons sélectionné 19 participants pour mettre à l'essai les pages existantes à l'aide des six tâches conçues par notre équipe. Notre équipe tentait de mesurer ce qui suit&nbsp;:</p>
 <ul>
   <li><b>repérabilité</b>&nbsp;: la fréquence à laquelle les gens ont réussi à trouver la page du site Web sur laquelle se trouve la réponse à la question sur la tâche</li>
-  <li><b>taux de réussite</b>&nbsp;: la fréquence à laquelle les gens ont identifié correctement la bonne réponse à la question sur la tâche et l’ont bien compris</li>
+  <li><b>taux de réussite</b>&nbsp;: la fréquence à laquelle les gens ont identifié correctement la bonne réponse à la question sur la tâche et l'ont bien compris</li>
 </ul>
 <p>Nous avons produit des scénarios réels qui correspondent à ce que les gens essaient vraiment de faire. Par exemple&nbsp;:</p>
 <ul>
-  <li><b>lorsque</b> j’ai demandé la citoyenneté canadienne, on m’a informé de l’existence de l’examen pour la citoyenneté. <b>Je souhaite</b> étudier, <b>afin d’être en mesure</b> de le réussir</li>
-  <li><b>lorsque je</b> me sens prêt pour l’examen, <b>je veux</b> savoir quand je peux le passer <b>afin que je puisse</b> le planifier</li>
-  <li><b>lorsque je</b> suis moins sûr de réussir l’examen, <b>je veux savoir ce qui se</b> passe si j’échoue <b>afin de comprendre</b> comment je peux devenir citoyen</li>
+  <li><b>lorsque</b> j'ai demandé la citoyenneté canadienne, on m'a informé de l'existence de l'examen pour la citoyenneté. <b>Je souhaite</b> étudier, <b>afin d'être en mesure</b> de le réussir</li>
+  <li><b>lorsque je</b> me sens prêt pour l'examen, <b>je veux</b> savoir quand je peux le passer <b>afin que je puisse</b> le planifier</li>
+  <li><b>lorsque je</b> suis moins sûr de réussir l'examen, <b>je veux savoir ce qui se</b> passe si j'échoue <b>afin de comprendre</b> comment je peux devenir citoyen</li>
 </ul>
-<p>L’équipe a analysé le comportement des utilisateurs à l’aide de vidéos des essais afin de voir où les gens éprouvaient des difficultés. Nous avons passé du temps à essayer de comprendre quels renseignements les gens souhaitent trouver et quels problèmes ils rencontrent.</p>
+<p>L'équipe a analysé le comportement des utilisateurs à l'aide de vidéos des essais afin de voir où les gens éprouvaient des difficultés. Nous avons passé du temps à essayer de comprendre quels renseignements les gens souhaitent trouver et quels problèmes ils rencontrent.</p>
 <h2>Restructurer pour faciliter la tâche aux gens</h2>
-<p>En utilisant les résultats des essais de base, l’équipe a conçu un prototype en gardant à l’esprit le déroulement des tâches. Nous voulions simplifier les renseignements sur les étapes à suivre après la présentation d’une demande et faciliter l’utilisation du guide d’étude par les demandeurs. Nous avons précisé les étiquettes des sujets et réduit le nombre d’options affichées sur la page afin d’éliminer les distractions. En utilisant des verbes et un langage plus clair dans les liens et les descriptions, l’équipe a permis aux utilisateurs de trouver plus facilement le bon chemin vers les renseignements dont ils avaient besoin.</p>
-<p>Sur le site en ligne, les étapes menant à la citoyenneté canadienne n’étaient pas numérotées ni énumérées de façon séquentielle. Cela a eu pour effet de semer la confusion chez les utilisateurs. Dans le prototype, nous avons numéroté et regroupé les étapes afin de permettre aux utilisateurs de comprendre l’ordre dans lequel elles devraient être effectuées. </p>
+<p>En utilisant les résultats des essais de base, l'équipe a conçu un prototype en gardant à l'esprit le déroulement des tâches. Nous voulions simplifier les renseignements sur les étapes à suivre après la présentation d'une demande et faciliter l'utilisation du guide d'étude par les demandeurs. Nous avons précisé les étiquettes des sujets et réduit le nombre d'options affichées sur la page afin d'éliminer les distractions. En utilisant des verbes et un langage plus clair dans les liens et les descriptions, l'équipe a permis aux utilisateurs de trouver plus facilement le bon chemin vers les renseignements dont ils avaient besoin.</p>
+<p>Sur le site en ligne, les étapes menant à la citoyenneté canadienne n'étaient pas numérotées ni énumérées de façon séquentielle. Cela a eu pour effet de semer la confusion chez les utilisateurs. Dans le prototype, nous avons numéroté et regroupé les étapes afin de permettre aux utilisateurs de comprendre l'ordre dans lequel elles devraient être effectuées. </p>
 <h3>Processus et étapes séquentiels</h3>
-<p>Nous avons précisé et numéroté les étapes à suivre pour lors de la présentation d’une demande de citoyenneté canadienne. Cela a facilité la compréhension et le suivi du processus.</p>
-<h3>Navigation du guide d’étude</h3>
-<p>Nous avons mené des essais avec un nouveau modèle de long document. Nous avons ajouté une fonctionnalité de «&nbsp;recherche dans le document&nbsp;» et une de navigation à gauche de l’écran qui affiche tous les autres chapitres. Les utilisateurs ont été en mesure d’effectuer facilement des recherches dans le chapitre en question et de voir en un coup d’œil les autres chapitres pertinents.</p>
+<p>Nous avons précisé et numéroté les étapes à suivre pour lors de la présentation d'une demande de citoyenneté canadienne. Cela a facilité la compréhension et le suivi du processus.</p>
+<h3>Navigation du guide d'étude</h3>
+<p>Nous avons mené des essais avec un nouveau modèle de long document. Nous avons ajouté une fonctionnalité de «&nbsp;recherche dans le document&nbsp;» et une de navigation à gauche de l'écran qui affiche tous les autres chapitres. Les utilisateurs ont été en mesure d'effectuer facilement des recherches dans le chapitre en question et de voir en un coup d'œil les autres chapitres pertinents.</p>
 <h3>Aucune distraction</h3>
-<p>Nous avons supprimé les liens affichés sur la page afin d’aider les utilisateurs à rester concentrés sur la tâche. De cette façon, ils n’ont pas été distraits par des liens vers des renseignements supplémentaires. Nous avons répondu, directement dans le contenu, aux questions qu’ils pourraient poser au lieu de les diriger vers une autre page à l’aide de liens.</p>
-<p>Voici un exemple de la façon dont nous avons réorganisé l’information&nbsp;:</p>
+<p>Nous avons supprimé les liens affichés sur la page afin d'aider les utilisateurs à rester concentrés sur la tâche. De cette façon, ils n'ont pas été distraits par des liens vers des renseignements supplémentaires. Nous avons répondu, directement dans le contenu, aux questions qu'ils pourraient poser au lieu de les diriger vers une autre page à l'aide de liens.</p>
+<p>Voici un exemple de la façon dont nous avons réorganisé l'information&nbsp;:</p>
 <figure> <img class="img-responsive" alt="Le guide d'étude montrant le nouveau modèle de long document." src="../images/citoyennete/long-document-modele.jpg" /> </figure>
 <div class="col-md-8 row">
   <details>
     <summary>Description détaillée</summary>
     <h4>Avant&nbsp;:</h4>
-    <p>Tous les renseignements pour ce chapitre (chapitre non numéroté) se trouvaient sur une page. La seule façon de faire une recherche était d’utiliser Ctrl + F. Souvent, les utilisateurs se perdaient lorsqu’ils commençaient à défiler.</p>
+    <p>Tous les renseignements pour ce chapitre (chapitre non numéroté) se trouvaient sur une page. La seule façon de faire une recherche était d'utiliser Ctrl + F. Souvent, les utilisateurs se perdaient lorsqu'ils commençaient à défiler.</p>
     <h4>Après&nbsp;:</h4>
-    <p>En ajoutant une fonctionnalité de «&nbsp;recherche dans le document&nbsp;» et une de navigation à gauche de l’écran, les utilisateurs réussissent plus facilement à naviguer dans le document et à trouver ce dont ils avaient besoin. </p>
+    <p>En ajoutant une fonctionnalité de «&nbsp;recherche dans le document&nbsp;» et une de navigation à gauche de l'écran, les utilisateurs réussissent plus facilement à naviguer dans le document et à trouver ce dont ils avaient besoin. </p>
   </details>
   <h2>Mesurer la réussite</h2>
-  <p>Réussite! Notre objectif était d’améliorer la repérabilité et la réussite des tâches d’au moins 20 points de pourcentage, ou de dépasser 80&nbsp;% pour les deux mesures. Nous avons remis à l’essai les six mêmes tâches à l'aide de notre prototype avec 17 nouveaux participants. La réussite des tâches a augmenté de 17&nbsp;% pour atteindre un total de 86&nbsp;%.</p>
+  <p>Réussite! Notre objectif était d'améliorer la repérabilité et la réussite des tâches d'au moins 20 points de pourcentage, ou de dépasser 80&nbsp;% pour les deux mesures. Nous avons remis à l'essai les six mêmes tâches à l'aide de notre prototype avec 17 nouveaux participants. La réussite des tâches a augmenté de 17&nbsp;% pour atteindre un total de 86&nbsp;%.</p>
   <p>Ce graphique montre les taux de réussite et de repérabilité de toutes les tâches dans les phases de référence et de validation&nbsp;: </p>
 </div>
 <div><img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="../images/citoyennete/citoyennete-taux-de-reussite.jpg"/></div>

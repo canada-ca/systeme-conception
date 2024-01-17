@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://design.canada.ca/research-summaries/"
+altLangPage: "https://design.canada.ca/research-summaries/canada-child-benefit.html"
 date: 2023-08-23
 dateModified: 2023-08-23
 description: ""
