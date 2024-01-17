@@ -57,7 +57,7 @@ title: "Conseils aux voyageurs et avertissements"
 <h2>Mesure des taux de réussite du nouveau prototype</h2>
 <p>L'équipe a mis à l'essai le prototype remanié avec un nouvel ensemble de 19 voyageurs canadiens. Elle a effectué 146 essais des mêmes scénarios de tâches que dans les tests de référence. Notre objectif était soit d'atteindre un taux de réussite de 80&nbsp;% soit d'obtenir une amélioration d'au moins 20 points par rapport au pointage de référence. Les taux de repérage ont augmenté de 49&nbsp;% à 88&nbsp;% (+&nbsp;39&nbsp;%) après révision du contenu et du design. La réussite globale des tâches est passée de 23&nbsp;% à 72&nbsp;% (+&nbsp;49&nbsp;%).</p>
 <p>Ce graphique présente une comparaison des taux de réussite des tâches entre les tests de référence et les tests de validation pour l'ensemble des 38 participants.</p>
-<img class="img-responsive hidden-sm hidden-xs" alt="Comparaison des taux de réussite à l'accomplissement des tâches — tests de référence et tests de validation." src="/resumes-recherche/images/conseils-voyageurs-taux-de-reussite.png"/>
+<div><img class="img-responsive hidden-sm hidden-xs" alt="Comparaison des taux de réussite à l'accomplissement des tâches — tests de référence et tests de validation." src="/resumes-recherche/images/conseils-voyageurs-taux-de-reussite.png"/></div>
 <div class="row col-md-9 mrgn-bttm-lg">
   <details>
     <summary> Taux de réussite des tâches – tableau </summary>
