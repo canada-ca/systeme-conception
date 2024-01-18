@@ -894,14 +894,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <section id="wp4-4-2">
       <h4>Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</h4>
-      <p>Suivez les consignes des <i><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction:</a></i>
-      
+      <p>Suivez les consignes des <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite></a>&nbsp;:</p>
       <ul>
-        <li>Comment <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/docteur.html">employer le titre « docteur » ou « docteure » et son abréviation</a>.</li>
+        <li>Comment <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/docteur.html">employer le titre &laquo;&nbsp;docteur&nbsp;&raquo; ou &laquo;&nbsp;docteure&nbsp;&raquo; et son abréviation</a>.</li>
         <li>Comment se référer aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-certificats-abreviations.html">grades et doctorats</a> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-et-grades-universitaires.html">diplômes et grades universitaires</a>.</li>
-        <li><a href="https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html">Formules épistolaires</a> : comment s’adresser à des personnes spécifiques de façon appropriée et respectueuse.</li>
+        <li><a href="https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html">Formules épistolaires</a>&nbsp;: comment s’adresser à des personnes spécifiques de façon appropriée et respectueuse.</li>
       </ul>
-      <p>Consultez les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/navigateur-navigator?f%5B0%5D=navigateur_navigator_french_themes%3A517&f%5B1%5D=navigateur_navigator_french_themes%3A518&f%5B2%5D=navigateur_navigator_writing_tools%3A234&field_writing_tools=234&sort_by=gclp_total_views#navigateur-navigator-resultats-results"><i>Clés de la rédaction</i></a> pour toutes autres informations à propos de l’emploi des abréviations. </p>
+      <p>Consultez les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/navigateur-navigator?f%5B0%5D=navigateur_navigator_french_themes%3A517&f%5B1%5D=navigateur_navigator_french_themes%3A518&f%5B2%5D=navigateur_navigator_writing_tools%3A234&field_writing_tools=234&sort_by=gclp_total_views#navigateur-navigator-resultats-results"><cite>Clés de la rédaction</cite></a> pour toutes autres informations à propos de l’emploi des abréviations.</p>
     </section>
     <h4>Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise.</h4>
     <ul>
