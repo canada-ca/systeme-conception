@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/about-page-feedback.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2024-01-08
 description: null
 title: Comment fonctionne l’outil de rétroaction sur la page
 ---
@@ -22,7 +22,6 @@ title: Comment fonctionne l’outil de rétroaction sur la page
 * [Conception de l’outil de rétroaction](#conception-de-loutil-de-rétroaction)
 * [Protéger les renseignements personnels](#protéger-les-renseignements-personnels)
 
-L’outil de rétroaction sur la page en est encore à la phase pilote. Cela signifie que vous pouvez utiliser l’outil, mais sachez que son apparence ou son codage pourrait changer ultérieurement.
 
 ## Pourquoi recueillir la rétroaction des utilisateurs
 
