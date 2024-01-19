@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-01-18
+dateModified: 2024-01-19
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -900,7 +900,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>Comment se référer aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-certificats-abreviations.html">grades et doctorats</a> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-et-grades-universitaires.html">diplômes et grades universitaires</a>.</li>
         <li><a href="https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html">Formules épistolaires</a>&nbsp;: comment s’adresser à des personnes spécifiques de façon appropriée et respectueuse.</li>
       </ul>
-      <p>Consultez les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/navigateur-navigator?f%5B0%5D=navigateur_navigator_french_themes%3A517&f%5B1%5D=navigateur_navigator_french_themes%3A518&f%5B2%5D=navigateur_navigator_writing_tools%3A234&field_writing_tools=234&sort_by=gclp_total_views#navigateur-navigator-resultats-results"><cite>Clés de la rédaction</cite></a> pour toutes autres informations à propos de l’emploi des abréviations.</p>
     </section>
     <h4>Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise.</h4>
     <ul>
