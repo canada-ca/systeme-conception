@@ -57,7 +57,7 @@ title: Typographie - Style de Canada.ca
  </h2>
  <ul>
   <li>
-   H1 : Lato, 34px, caractère gras, avec une ligne rouge en-dessous
+   H1 : Lato, 34px, caractère gras
   </li>
   <li>
    H2 : Lato, 32px, caractère gras
@@ -78,6 +78,15 @@ title: Typographie - Style de Canada.ca
    Corps du texte : Noto sans, 20px, texte régulier
   </li>
  </ul>
+   <h2>Titre principal de la page</h2>
+  <p>Lorsque l’en-tête H1 est le titre principal d’une page, il est souligné d’une barre rouge conformément à l’image de marque de Canada.ca.</p>
+  <p>Spécifications de la barre rouge (gc-thickline)&nbsp;:</p>
+    <ul>
+        <li>alignement&nbsp;: gauche</li>
+        <li>couleur&nbsp;: #AF3C43</li>
+        <li>positionnement&nbsp;: 8 px ou 0,4 em sous l’en-tête H1 (le corps du texte est réglé à 20 px)</li>
+        <li>taille&nbsp;: 71 px par 3,6 px ou 3.55 em par 0,18 em (le corps du texte est réglé à 20 px)</li>
+    </ul>
  <h2>
   Longueur de la ligne
  </h2>
