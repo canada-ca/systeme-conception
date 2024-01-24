@@ -31,7 +31,7 @@ title: Typographie - Style de Canada.ca
  </h2>
  <ul>
   <li>
-   H1 : Lato, 38px, caractère gras, avec une ligne rouge en-dessous
+   H1 : Lato, 38px, caractère gras
   </li>
   <li>
    H2 : Lato, 36px, caractère gras
