@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-01-19
+dateModified: 2024-01-23
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -2096,8 +2096,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <section id="wp7-2">
     <h3>7.2 Rédiger des liens descriptifs</h3>
-    <p>Le texte du lien doit décrire clairement le contenu auquel le lien donne accès. Il est plus facile pour une personne d'accomplir une tâche lorsque le contenu auquel renvoie le lien correspond à ce qu'elle s'attend à y trouver. Assurez-vous que le texte est assez descriptif pour indiquer vers quel contenu le lien permettra d'accéder.</p>
-    <p>Il n'est pas nécessaire que le texte du lien soit identique au titre de la page de destination pour se conformer aux <cite>Règles pour l'accessibilité des contenus Web</cite>. Il suffit que les principaux mots-clés du lien correspondent au titre de la page afin d'indiquer à la personne qu'elle est au bon endroit.</p>
+    <p>Le texte du lien doit décrire clairement le contenu auquel le lien donne accès. Il est plus facile pour une personne d'accomplir une tâche lorsque le contenu auquel renvoie le lien correspond à ce qu'elle s'attend à y trouver.</p>
     <p>Pour rédiger des liens descriptifs et utiles&nbsp;:</p>
     <ul>
       <li>utilisez les premiers mots du titre de la page de destination ou son titre complet s'il est assez descriptif;</li>
