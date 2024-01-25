@@ -33,15 +33,15 @@ title: Working with partners to improve task success on Canada.ca
     <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-02.html" aria-label="Instruments médicaux"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Instruments médicaux</h3>
-        <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: make it easier for stakeholders subject to Canada’s medical device regulations find and understand regulatory requirements.</p>
+        <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: make it easier for stakeholders subject to Canada's medical device regulations find and understand regulatory requirements.</p>
         <p><strong>Partner</strong>&nbsp;: Santé Canada</p>
       </div>
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-03.html" aria-label="Solution d’approvisionnement électronique"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-03.html" aria-label="Solution d'approvisionnement électronique"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
-        <h3>Solution d’approvisionnement électronique</h3>
+        <h3>Solution d'approvisionnement électronique</h3>
         <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
         <p><strong>Partners</strong>&nbsp;: Services publics et Approvisionnement Canada (SPAC)</p>
       </div>
@@ -57,9 +57,9 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-05.html" aria-label="Recherche de rappels et d’avis de sécurité"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-05.html" aria-label="Recherche de rappels et d'avis de sécurité"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
-        <h3>Recherche de rappels et d’avis de sécurité</h3>
+        <h3>Recherche de rappels et d'avis de sécurité</h3>
         <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface.</p>
         <p><strong>Partners</strong>&nbsp;: Santé Canada et Transports Canada</p>
       </div>
@@ -84,9 +84,9 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-08.html" aria-label="Communiquer avec l’ARC"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-08.html" aria-label="Communiquer avec l'ARC"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
-        <h3>Communiquer avec l’ARC</h3>
+        <h3>Communiquer avec l'ARC</h3>
         <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: make it easier for Canadians to find the correct phone number or mailing address for specific services related to the CRA.</p>
         <p><strong>Partner</strong>&nbsp;: Agence du revenu du Canada (ARC)</p>
       </div>
@@ -120,9 +120,9 @@ title: Working with partners to improve task success on Canada.ca
       </a></div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 mrgn-bttm-lg">
-    <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-13.html" aria-label="Se préparer à passer l’examen de citoyenneté"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
+    <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-13.html" aria-label="Se préparer à passer l'examen de citoyenneté"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
-        <h3>Se préparer à passer l’examen de citoyenneté</h3>
+        <h3>Se préparer à passer l'examen de citoyenneté</h3>
         <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: make it easier for applicants to study for the Canadian citizenship test.</p>
         <p><strong>Partners</strong>&nbsp;: Immigration, Réfugiés et Citoyenneté Canada</p>
       </div>
@@ -142,7 +142,7 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>Rappels et alertes de sécurité</h3>
         <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: make it easier for Canadians to find and understand both recalls and safety alerts for food, health products, vehicles and car seats.</p>
-        <p><strong>Partners</strong>&nbsp;: Santé Canada, Agence canadienne d’inspection des aliments, Transports Canada et Environnement Canada</p>
+        <p><strong>Partners</strong>&nbsp;: Santé Canada, Agence canadienne d'inspection des aliments, Transports Canada et Environnement Canada</p>
       </div>
       </a></div>
   </div>

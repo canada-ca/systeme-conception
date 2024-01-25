@@ -2,10 +2,10 @@
 altLangPage: "https://design.canada.ca/partners/project-18.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Faire en sorte qu’il soit plus facile pour les Canadiens d’interpréter les lignes directrices en matière d’immunisation."
+description: "Faire en sorte qu'il soit plus facile pour les Canadiens d'interpréter les lignes directrices en matière d'immunisation."
 title: "Renseignements sur les maladies et la vaccination"
 ---
-<p>Faire en sorte qu’il soit plus facile pour les Canadiens d’interpréter les lignes directrices en matière d’immunisation.</p>
+<p>Faire en sorte qu'il soit plus facile pour les Canadiens d'interpréter les lignes directrices en matière d'immunisation.</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Santé Canada (SC)</li>

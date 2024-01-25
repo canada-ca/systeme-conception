@@ -2,10 +2,10 @@
 altLangPage: "https://design.canada.ca/partners/project-16.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Faire en sorte qu’il soit plus facile pour les Canadiens de comprendre l’admissibilité aux prestations pour proches aidants."
+description: "Faire en sorte qu'il soit plus facile pour les Canadiens de comprendre l'admissibilité aux prestations pour proches aidants."
 title: "Prestations spéciales d'assurance-emploi"
 ---
-<p>Faire en sorte qu’il soit plus facile pour les Canadiens de comprendre l’admissibilité aux prestations pour proches aidants.</p>
+<p>Faire en sorte qu'il soit plus facile pour les Canadiens de comprendre l'admissibilité aux prestations pour proches aidants.</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Emploi et Développement social Canada</li>
@@ -50,4 +50,4 @@ title: "Prestations spéciales d'assurance-emploi"
   <li>L'époux d'Irina est tombé gravement malade. Sa meilleure amie Jane s'absentera du travail pour prendre soin de lui. Comme Jane n'est pas un membre de la famille, que devra faire Irina pour appuyer la demande de support de Jane?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/prochesaidants-resume-recherche.html">Prestations spéciales d’assurance-emploi</a></p>
+<p><a href="https://blogue.canada.ca/resumes-recherche/prochesaidants-resume-recherche.html">Prestations spéciales d'assurance-emploi</a></p>

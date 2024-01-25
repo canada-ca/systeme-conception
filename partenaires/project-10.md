@@ -5,7 +5,7 @@ dateModified: 2024-01-03
 description: "Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business."
 title: "Business start-up activities"
 ---
-<p>Combiner les renseignements provenant de l’ensemble des ministères afin que les Canadiens puissent obtenir facilement le portrait d’ensemble des éléments dont le gouvernement du Canada a besoin au moment de démarrer une entreprise.</p>
+<p>Combiner les renseignements provenant de l'ensemble des ministères afin que les Canadiens puissent obtenir facilement le portrait d'ensemble des éléments dont le gouvernement du Canada a besoin au moment de démarrer une entreprise.</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Services publics et Approvisionnement Canada (SPAC)</li>
@@ -43,7 +43,7 @@ title: "Business start-up activities"
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Imaginez que vous allez démarrer une entreprise à domicile à Winnipeg, à temps partiel, à titre de consultant. Renseignez-vous sur les étapes juridiques essentielles de ce processus.
-Vous voulez nommer votre entreprise « SOMOS ». Vérifiez s’il est légal ou illégal pour vous de commencer à utiliser ce nom.
+Vous voulez nommer votre entreprise &laquo;&nbsp;SOMOS &nbsp;&raquo;. Vérifiez s'il est légal ou illégal pour vous de commencer à utiliser ce nom.
 Vous pensez gagner environ 1 000 $ par mois de votre nouvelle entreprise pendant les six premiers mois. Vérifiez si vous devez facturer la TPS à vos clients.
 Votre premier employé commence à travailler le mois prochain. Vérifiez si vous devez appliquer une mesure officielle avant ou peu après avoir émis son premier chèque de paye.
 Votre entreprise doit commencer à percevoir la TPS. Vérifier quelle est la première mesure officielle que vous devez appliquer.

@@ -42,12 +42,12 @@ title: "Documents de voyage"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Déterminer ce dont j’ai besoin pour venir au Canada en tant que touriste de mon pays.</li>
-  <li>Déterminer ce dont j’ai besoin pour venir au Canada en tant que résident permanent canadien.</li>
-  <li>Déterminer ce dont j’ai besoin pour venir au Canada en tant qu’ancien résident permanent canadien.</li>
-  <li>Déterminer ce dont j’ai besoin pour venir au Canada en tant que citoyen canadien ayant la double citoyenneté.</li>
-  <li>Déterminer ce dont j’ai besoin pour venir au Canada en provenance des États-Unis avec un passeport américain.</li>
-  <li>Déterminer ce dont j’ai besoin pour transiter par un aéroport canadien en provenance de la Chine.</li>
+  <li>Déterminer ce dont j'ai besoin pour venir au Canada en tant que touriste de mon pays.</li>
+  <li>Déterminer ce dont j'ai besoin pour venir au Canada en tant que résident permanent canadien.</li>
+  <li>Déterminer ce dont j'ai besoin pour venir au Canada en tant qu'ancien résident permanent canadien.</li>
+  <li>Déterminer ce dont j'ai besoin pour venir au Canada en tant que citoyen canadien ayant la double citoyenneté.</li>
+  <li>Déterminer ce dont j'ai besoin pour venir au Canada en provenance des États-Unis avec un passeport américain.</li>
+  <li>Déterminer ce dont j'ai besoin pour transiter par un aéroport canadien en provenance de la Chine.</li>
 </ul>
 <h2>Résumé de recherche</h2>
 <p><a href="https://blogue.canada.ca/2018/03/29/visiter-le-canada-optimisation.html">Documents de voyage</a></p>

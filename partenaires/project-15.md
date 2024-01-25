@@ -5,17 +5,17 @@ dateModified: 2024-01-03
 description: "Make it easier for Canadians to find and understand both recalls and safety alerts for food, health products, vehicles and car seats."
 title: "Rappels et alertes de sécurité"
 ---
-<p>Permettre aux Canadiens de trouver et de comprendre plus facilement les rappels et les avis de sécurité pour les aliments, les produits de santé, les véhicules et les sièges d’auto.</p>
+<p>Permettre aux Canadiens de trouver et de comprendre plus facilement les rappels et les avis de sécurité pour les aliments, les produits de santé, les véhicules et les sièges d'auto.</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Santé Canada</li>
-  <li>Agence canadienne d’inspection des aliments</li>
+  <li>Agence canadienne d'inspection des aliments</li>
   <li>Transports Canada</li>
   <li>Environnement Canada</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>Chaque année, des milliers de rappels et d’avis de sécurité sont publiés. Lorsque les Canadiens peuvent trouver et comprendre ces renseignements, ils sont davantage en sécurité.</li>
+  <li>Chaque année, des milliers de rappels et d'avis de sécurité sont publiés. Lorsque les Canadiens peuvent trouver et comprendre ces renseignements, ils sont davantage en sécurité.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">

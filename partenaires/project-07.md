@@ -17,9 +17,9 @@ title: "Travel advice and advisories"
 <h2>Pourquoi ce travail est important</h2>
 <p>Les Canadiens voyagent beaucoup :</p>
 <ul>
-  <li>L’accès aux conseils et aux avertissements aux voyageurs est l’une des 10 principales demandes sur Canada.ca, avec plus de 11 millions de visites annuelles à la page d’accueil de cette section. <sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote: Travel advice and advisories</span>1</a></sup> </li>
-  <li>En 2017, les Canadiens ont effectué 42,1 millions de voyages d’une journée et avec une nuitée aux États-Unis et 12,8 millions de voyages à l’étranger; <sup id="fn2-rf"><a class="fn-lnk" href="#fn2"><span class="wb-inv">Footnote: Travel advice and advisories </span>2</a></sup></li>
-  <li>En améliorant ce contenu, il est plus facile pour les Canadiens de trouver l’information dont ils ont besoin au sujet d’un voyage vers une destination donnée afin de pouvoir&nbsp;:
+  <li>L'accès aux conseils et aux avertissements aux voyageurs est l'une des 10 principales demandes sur Canada.ca, avec plus de 11 millions de visites annuelles à la page d'accueil de cette section. <sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote: Travel advice and advisories</span>1</a></sup> </li>
+  <li>En 2017, les Canadiens ont effectué 42,1 millions de voyages d'une journée et avec une nuitée aux États-Unis et 12,8 millions de voyages à l'étranger; <sup id="fn2-rf"><a class="fn-lnk" href="#fn2"><span class="wb-inv">Footnote: Travel advice and advisories </span>2</a></sup></li>
+  <li>En améliorant ce contenu, il est plus facile pour les Canadiens de trouver l'information dont ils ont besoin au sujet d'un voyage vers une destination donnée afin de pouvoir&nbsp;:
     <ul>
       <li>prendre des décisions éclairées</li>
       <li>comprendre les risques</li>
@@ -54,14 +54,14 @@ title: "Travel advice and advisories"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Jeff prévoit une randonnée de six semaines pour explorer l’Indonésie. Il prend du Tylenol avec codéine pour soulager la douleur associée à l’arthrite. Peut-il apporter ce médicament d’ordonnance en Indonésie?</li>
+  <li>Jeff prévoit une randonnée de six semaines pour explorer l'Indonésie. Il prend du Tylenol avec codéine pour soulager la douleur associée à l'arthrite. Peut-il apporter ce médicament d'ordonnance en Indonésie?</li>
   <li>Jan se rend au Malawi pour son travail. Le gouvernement du Canada a-t-il déconseillé de se rendre dans ce pays?</li>
   <li>Carole voyage en Espagne. Elle a perdu son passeport et doit le faire remplacer. Que devra-t-elle fournir comme preuve de sa citoyenneté canadienne?</li>
-  <li>Rani planifie des vacances à Cuba. Elle va souscrire une assurance de soins médicaux, ayant entendu dire qu’elle devra en faire la preuve à son arrivée. Y a-t-il quelque chose de précis que la police d’assurance devrait inclure?</li>
-  <li>Jeanine planifie un mariage à l’étranger. Elle veut se marier aux îles Caïmans pendant la longue fin de semaine de septembre. Existe-t-il des risques graves pour la sécurité qui pourraient affecter ses plans?</li>
-  <li>Le gouvernement canadien fournit une liste de recommandations pour les Canadiens qui voyagent à l’étranger. Quelle est la première recommandation?</li>
+  <li>Rani planifie des vacances à Cuba. Elle va souscrire une assurance de soins médicaux, ayant entendu dire qu'elle devra en faire la preuve à son arrivée. Y a-t-il quelque chose de précis que la police d'assurance devrait inclure?</li>
+  <li>Jeanine planifie un mariage à l'étranger. Elle veut se marier aux îles Caïmans pendant la longue fin de semaine de septembre. Existe-t-il des risques graves pour la sécurité qui pourraient affecter ses plans?</li>
+  <li>Le gouvernement canadien fournit une liste de recommandations pour les Canadiens qui voyagent à l'étranger. Quelle est la première recommandation?</li>
   <li>Daniel se trouve à Londres, en Angleterre, et il doit obtenir un document notarié par un agent consulaire canadien. Peut-il prendre rendez-vous auprès des services consulaires au bureau de Londres du Haut-commissariat du Canada?</li>
-  <li>Après avoir passé du temps avec des amis au Panama, Maya se rend au Costa Rica pour des vacances d’une semaine. A-t-elle besoin d’un vaccin contre la fièvre jaune pour aller au Costa Rica?</li>
+  <li>Après avoir passé du temps avec des amis au Panama, Maya se rend au Costa Rica pour des vacances d'une semaine. A-t-elle besoin d'un vaccin contre la fièvre jaune pour aller au Costa Rica?</li>
   <li>Marco se rend au Cambodge pour son travail. Le gouvernement canadien a-t-il émis un avertissement aux voyageurs pour ce pays?</li>
 </ul>
 <h2>Résumé de recherche</h2>

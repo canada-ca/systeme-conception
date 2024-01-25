@@ -15,7 +15,7 @@ title: "Orientation et repérage"
 <h2>Pourquoi ce travail est important</h2>
 <ul class="lst-spcd">
   <li>Trouver et utiliser les services offerts par les différents ministères devrait être simple, cohérent et accessible à tous les Canadiens.</li>
-  <li>Les gens doivent être en mesure de reconnaître clairement les renseignements et les services officiels du gouvernement afin d’éviter les sites trompeurs et frauduleux.</li>
+  <li>Les gens doivent être en mesure de reconnaître clairement les renseignements et les services officiels du gouvernement afin d'éviter les sites trompeurs et frauduleux.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -35,7 +35,7 @@ title: "Orientation et repérage"
           <tr>
             <td class="table-smnum">54&nbsp;%</td>
             <td class="table-smnum">61&nbsp;%</td>
-            <td class="table-smnum">Comparativement à d’autres projets d’optimisation pour lesquels nous avions prévu d’importantes améliorations, dans ce projet, nous avions comme objectif de maintenir, ou peut être même d’accroître, la réussite des tâches, même si nous avions supprimé le menu et adopté le système de conception Canada.ca. Nous avons atteint notre objectif.</td>
+            <td class="table-smnum">Comparativement à d'autres projets d'optimisation pour lesquels nous avions prévu d'importantes améliorations, dans ce projet, nous avions comme objectif de maintenir, ou peut être même d'accroître, la réussite des tâches, même si nous avions supprimé le menu et adopté le système de conception Canada.ca. Nous avons atteint notre objectif.</td>
           </tr>
         </tbody>
       </table>
