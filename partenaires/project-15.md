@@ -13,7 +13,7 @@ title: "Recalls and safety alerts"
   <li>Transport Canada</li>
   <li>Environment Canada</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul>
   <li>There are thousands of recalls and safety alerts every year. When Canadians can find and understand this information, they are safer.</li>
 </ul>
@@ -21,21 +21,21 @@ title: "Recalls and safety alerts"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">52%</td>
-            <td class="table-smnum">86%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+34%pts</strong></span></td>
+            <td class="table-smnum">52&nbsp;%</td>
+            <td class="table-smnum">86&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+34&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -56,5 +56,5 @@ title: "Recalls and safety alerts"
   <li>Your daughter is allergic to peanuts. She had a reaction this afternoon at home. She ate only these two foods. Check if either was the cause. [(Neither are listed) When they've reached a conclusion: What would you do?] </li>
   <li>You are looking at this high chair on eBay. Check if there are any problems with this model.</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/recalls-research-summary.html">Recalls and safety alerts</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/recalls-research-summary.html">Recalls and safety alerts</a></p>

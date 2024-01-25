@@ -6,11 +6,11 @@ description: "Make it easier for Canadian businesses to find and understand gove
 title: "Electronic Procurement Solution"
 ---
 <p>Make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
-<h2>Partner department</h2>
+<h2>Ministère partenaire</h2>
 <ul>
-  <li>Public Services and Procurement Canada (PSPC)</li>
+  <li>Services publics et Approvisionnement Canada (SPAC)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul class="lst-spcd">
   <li>The federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
   <li>PSPC procures close to 80% of the federal government’s annual procurement expenditures on behalf of client departments and agencies,amounting to approximately $18 billion in goods and services</li>
@@ -19,21 +19,21 @@ title: "Electronic Procurement Solution"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">23%</td>
-            <td class="table-smnum">68%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+45%pts</strong></span></td>
+            <td class="table-smnum">23&nbsp;%</td>
+            <td class="table-smnum">68&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+45&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -51,5 +51,5 @@ title: "Electronic Procurement Solution"
   <li>The Government of Canada uses standardized codes to describe goods and services. What specific code(s) should Frances use to find opportunities related to the web development services she provides?</li>
   <li>The Government of Canada maintains a number of databases of pre-qualified suppliers of goods and services. Richard's company provides architectural consulting services. What is the name of the government's database of suppliers for this type of service?</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/electronic-procurement-research-summary.html">Electronic Procurement Solution</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/electronic-procurement-research-summary.html">Electronic Procurement Solution</a></p>

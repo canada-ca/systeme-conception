@@ -11,7 +11,7 @@ title: "EI maternity and parental benefits"
   <li>Service Canada</li>
   <li>Employment and Social Development Canada (ESDC)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul>
   <li>Thousands of Canadians parents apply for maternity and parental benefits each year</li>
 </ul>
@@ -19,21 +19,21 @@ title: "EI maternity and parental benefits"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">28%</td>
-            <td class="table-smnum">78%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+50%pts</strong></span></td>
+            <td class="table-smnum">28&nbsp;%</td>
+            <td class="table-smnum">78&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+50&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -55,5 +55,5 @@ title: "EI maternity and parental benefits"
     $43,000 per year, and wants to get the highest payments possible during her leave.How much will she get per week?
     When will her payments end?</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/maternity-parental-research-summary.html">Employment Insurance (EI) maternity and parental benefits</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/maternity-parental-research-summary.html">Employment Insurance (EI) maternity and parental benefits</a></p>

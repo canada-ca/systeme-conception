@@ -6,11 +6,11 @@ description: "Make it easier for Canadians to find and understand information re
 title: "Canada Child Benefit"
 ---
 <p>Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
-<h2>Partner department</h2>
+<h2>Ministère partenaire</h2>
 <ul>
   <li>Canada Revenue Agency</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul>
   <li>Nearly 3.7 million Canadian families received close to $24 billion in annual Canada Child Benefit payments between July 2018 and June 2019</li>
 </ul>
@@ -18,21 +18,21 @@ title: "Canada Child Benefit"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr>
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">28%</td>
-            <td class="table-smnum">83%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+55%pts</strong></span></td>
+            <td class="table-smnum">28&nbsp;%</td>
+            <td class="table-smnum">83&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+55&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>

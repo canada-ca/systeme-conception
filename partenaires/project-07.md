@@ -11,10 +11,10 @@ title: "Travel advice and advisories"
   <li>Global Affairs Canada (GAC)</li>
   <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
   <li>Public Health Agency of Canada (PHAC)</li>
-  <li>Health Canada (HC)</li>
+  <li>Santé Canada (SC)</li>
   <li>Canada Border Services Agency (CBSA)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <p>Canadians do a lot of travelling: </p>
 <ul>
   <li>accessing travel advice and advisories is one of the top 10 tasks on Canada.ca, with more than 11 million annual visits to the entry page for this section <sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote: Travel advice and advisories</span>1</a></sup> </li>
@@ -31,21 +31,21 @@ title: "Travel advice and advisories"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">23%</td>
-            <td class="table-smnum">72%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+49%pts</strong></span></td>
+            <td class="table-smnum">23&nbsp;%</td>
+            <td class="table-smnum">72&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+49&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -64,8 +64,8 @@ title: "Travel advice and advisories"
   <li>After spending time with friends in Panama, Maya is heading to Costa Rica for a week-long vacation. Does she require a Yellow Fever vaccination to go to Costa Rica?</li>
   <li>Marco is travelling to Cambodia for his job. Has the Canadian government issued a travel advisory for that country?</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/travel-advice-research-summary.html">Travel advice and advisories</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/travel-advice-research-summary.html">Travel advice and advisories</a></p>
 <aside class="wb-fnote" role="note">
   <h2 class="wb-inv" id="fn-travel">Footnotes: Travel advice and advisories</h2>
   <dl>

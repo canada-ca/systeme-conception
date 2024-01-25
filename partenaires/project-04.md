@@ -6,11 +6,11 @@ description: "Make it easier for public servants to find and understand their pa
 title: "Pay for the public service"
 ---
 <p>Make it easier for public servants to find and understand their pay information.
-<h2>Partner department</h2>
+<h2>Ministère partenaire</h2>
 <ul>
-  <li>Public Services and Procurement Canada (PSPC)</li>
+  <li>Services publics et Approvisionnement Canada (SPAC)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul>
   <li>Canada had nearly 288,000 public servants in 2019</li>
   <li>Pay issues are a major cause of stress for public servants</li>
@@ -20,21 +20,21 @@ title: "Pay for the public service"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr>
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">18%</td>
-            <td class="table-smnum">78%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+60%pts</strong></span></td>
+            <td class="table-smnum">18&nbsp;%</td>
+            <td class="table-smnum">78&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+60&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>

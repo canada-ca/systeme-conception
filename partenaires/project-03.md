@@ -3,53 +3,53 @@ altLangPage: "https://design.canada.ca/partners/project-03.html"
 date: 2023-12-08
 dateModified: 2023-12-08
 description: "We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca."
-title: "Electronic Procurement Solution"
+title: "Solution d’approvisionnement électronique"
 ---
-<p>Our objective was to make make it easier for Canadian businesses to find and understand government business opportunities and guidance.</p>
-<h2>Partner department</h2>
+<p>Permettre aux entreprises Canadiennes de trouver et de comprendre plus facilement les occasions d’affaires et les conseils du gouvernement.</p>
+<h2>Ministère partenaire</h2>
 <ul>
-  <li>Public Services and Procurement Canada (PSPC)</li>
+  <li>Services publics et Approvisionnement Canada (SPAC)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul class="lst-spcd">
-  <li>the federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
-  <li>PSPC procures close to 80% of the federal government’s annual procurement expenditures on behalf of client departments and agencies,amounting to approximately $18 billion in goods and services</li>
+  <li>Le gouvernement fédéral est le plus important acheteur de biens et de services du secteur public au Canada, avec des achats d’environ 23&nbsp;milliards de dollars par année.</li>
+  <li>Les achats effectués par SPAC comptent pour près de 80&nbsp;% des dépenses annuelles d’approvisionnement du gouvernement fédéral pour les ministères et organismes clients, ce qui représente environ 18&nbsp;milliards de dollars en biens et services.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">23%</td>
-            <td class="table-smnum">68%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+45%pts</strong></span></td>
+            <td class="table-smnum">23&nbsp;%</td>
+            <td class="table-smnum">68&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+45&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
     </div>
   </div>
 </div>
-<h3>Task scenarios tested and improved</h3>
+<h3>Scénarios de tâches testés et améliorés</h3>
 <ul class="lst-spcd">
-  <li>Your friend just completed a degree in translation and is considering joining the government. What's the salary of a level 1 translator in the government?</li>
-  <li>Pat starts as a public servant on Monday, December 2nd. He needs to know when he will get his first paycheque, assuming his department does everything correctly.</li>
-  <li>Alice accepted a 3-month acting position at Health Canada, starting in February. She wants to help her manager make sure her pay is accurate when she starts. When should her manager submit the paperwork?</li>
-  <li>You have gone on parental leave and need to check your pay stub deductions from home. Find a way to do this.</li>
-  <li>Avery took a 3-month leave without pay for school and is returning to work at Health Canada next month. She wants to help her manager ensure she starts getting paid as soon as possible. When should her manager submit the paperwork?</li>
-  <li>You switched banks and want your next pay to be deposited in the new account. Which of the options below would you choose: What form or forms should be submitted? Where would you submit the change?</li>
-  <li>Pat started work this year. Find a way for Pat to view her pay stub to check the deductions.</li>
-  <li>Sam works at Statistics Canada. It's payday, but he didn't get any pay. What steps should Sam take?</li>
+  <li>Jon travaille pour une entreprise qui effectue du déneigement en hiver et de l’aménagement paysager le reste de l’année. Son patron lui a demandé de faire des recherches sur les occasions avec le gouvernement fédéral. Y a-t-il des projets ouverts en Ontario qui pourraient convenir à l’entreprise?</li>
+  <li>Jon a trouvé ce projet pour Algoma Grounds Maintenance, mais celui-ci semble un peu trop gros pour son entreprise. Comment peut-il faire savoir aux autres entreprises qu’elles peuvent communiquer avec lui, au cas où une plus grande entreprise serait prête à sous-traiter</li>
+  <li>L’énoncé des travaux pour cette occasion comporte cinq sections distinctes. Quel est le titre de la section 4?</li>
+  <li>Sara a sa propre entreprise de correction d’épreuves et de révision. Elle et ses deux employés ont des contrats à court terme avec d’autres entreprises. Elle aimerait aussi obtenir des contrats du gouvernement du Canada. Combien de projets de correction d’épreuves sont actuellement ouverts?</li>
+  <li>Supposons que Sara a trouvé cette occasion. Son entreprise est située à Calgary. Pourraient-ils faire le travail là-bas?</li>
+  <li>Supposons qu’elle décide qu’elle peut faire le travail à partir de Calgary. Sara attend un grand projet et sera occupée en octobre et en novembre. Ce projet interfère-t-il avec cette occasion de marché?</li>
+  <li>Le gouvernement du Canada utilise des codes normalisés pour décrire les biens et services. Quel(s) code(s) particulier(s) Frances devrait-elle utiliser pour trouver des occasions liés aux services de développement Web qu’elle fournit?</li>
+  <li>Le gouvernement du Canada tient un certain nombre de bases de données sur les fournisseurs préqualifiés de biens et de services. L’entreprise de Richard offre des services de consultation en architecture. Quel est le nom de la base de données du gouvernement sur les fournisseurs de ce type de services?</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/electronic-procurement-research-summary.html">Electronic Procurement Solution (EPS) portal</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/achats-electroniques-resume-recherche">Solution d'approvisionnement électronique</a></p>

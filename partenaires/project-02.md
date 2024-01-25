@@ -3,51 +3,50 @@ altLangPage: "https://design.canada.ca/partners/project-02.html"
 date: 2020-11-20
 dateModified: 2023-12-08
 description: "Our objective was to make it easier for medical device manufacturers and other firms subject to Canada’s medical device regulations to find and understand the information they need."
-title: "Medical devices"
+title: "Instruments médicaux"
 ---
-<p>Our objective was to make it easier for medical device manufacturers and other firms subject to Canada’s medical device regulations to find and understand the information they need to comply with regulatory requirements.</p>
-<h2>Partner department</h2>
+<p>Faire en sorte qu’il soit plus facile pour les fabricants d’instruments médicaux et les autres entreprises assujetties à la réglementation canadienne sur les instruments médicaux de trouver et de comprendre l’information dont ils ont besoin pour se conformer aux exigences réglementaires.</p>
+<h2>Ministère partenaire</h2>
 <ul>
-  <li>Health Canada (HC)</li>
+  <li>Santé Canada (SC)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>Analytics show that more than half of the visits to pages about medical devices are to those that provide information specific to the medical device industry</li>
+  <li>Les analyses montrent que plus de la moitié des pages sur les instruments médicaux consultées sont celles qui fournissent des renseignements propres à l’industrie des instruments médicaux.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">16%</td>
-            <td class="table-smnum">62%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+46%pts</strong></span></td>
+            <td class="table-smnum">16&nbsp;%</td>
+            <td class="table-smnum">62&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+46&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
     </div>
   </div>
 </div>
-<h3>Task scenarios tested and improved</h3>
+<h3>Scénarios de tâches testés et améliorés</h3>
 <ul class="lst-spcd">
-  <li>Your team has been working on a knee prosthesis that you would like to bring to market. You're submitting a Class III medical device licence application. Will you need to submit a declaration of conformity as part of your application?</li>
-  <li>Your United States-based business imports hydraulic stretchers (a Class I medical device) from Europe and sells them online to health care facilities in the U.S. and Canada. Do you need a Medical Device Establishment Licence (MDEL)
-    from Health Canada?</li>
-  <li >Your company manufactures infrared lamps. Can you determine what class of medical device licence is required?</li>
-  <li>Starting in 2019, a new process was introduced for Quality Management System certification for medical devices. The advantage for manufacturers is that quality auditing will now be recognized internationally. In how many nations is the certification now recognized?</li>
-  <li>Your company manufactures sleep apnea equipment. You received your medical device licence September 1, 2019. What do you need to do to renew your medical device licence for 2020?</li>
-  <li>There was recently a problem with one of the medical devices your company sells in Canada. Under which of the following circumstances is your company required to report the incident to Health Canada?</li>
-  <li>Your distribution company delivered temperature-sensitive medical devices to hospitals. You later discover that one of the freezers at your facility was above the required temperature for storing the product. Do you need to initiate a recall?</li>
-  <li>Your competitor produces a light therapy product similar to yours. You have reason to believe that the competitor's product label regarding the amount of light it emits is incorrect. Can you show me the form you would use to report your concerns to Health Canada?</li>
+  <li>Votre équipe a travaillé sur une prothèse du genou que vous souhaitez mettre sur le marché. Vous présentez une demande de licence d’instrument médical de classe III. Devrez-vous soumettre une déclaration de conformité dans le cadre de votre demande?</li>
+  <li>Votre entreprise située aux États-Unis importe des civières hydrauliques (un instrument médical de classe I) d’Europe et les vend en ligne à des établissements de soins de santé aux États-Unis et au Canada. Avez-vous besoin d’une licence d’établissement d’instruments médicaux (LEIM) de Santé Canada?</li>
+  <li>Votre entreprise fabrique des lampes infrarouges. Pouvez-vous déterminer la classe d'homologation des instruments médicaux requise?</li>
+  <li>En 2019, un nouveau processus a été mis en place pour la certification des systèmes de gestion de la qualité pour les instruments médicaux. L’avantage pour les fabricants, c’est que l’audit de la qualité est maintenant reconnu à l’échelle internationale. Dans combien de pays la certification est-elle maintenant reconnue?</li>
+  <li>Votre entreprise fabrique de l’équipement pour traiter l’apnée du sommeil. Vous avez obtenu votre licence d’instrument médical le 1er septembre 2019. Que devez-vous faire pour renouveler votre licence d’instrument médical pour 2020?</li>
+  <li>Il y a eu récemment un problème avec l’un des instruments médicaux que votre entreprise vend au Canada. Dans quelles circonstances votre entreprise est-elle tenue de signaler l’incident à Santé Canada?</li>
+  <li>Votre entreprise de distribution a livré des instruments médicaux thermosensibles aux hôpitaux. Vous découvrez plus tard que la température de l’un des congélateurs de votre installation était supérieure à celle qui est requise pour entreposer le produit. Est-il nécessaire d’amorcer un rappel?</li>
+  <li>Votre concurrent fabrique un instrument de luminothérapie semblable au vôtre. Vous avez des raisons de croire que l’étiquette du produit du concurrent concernant la quantité de lumière qu’il émet est incorrecte. Pouvez-vous me montrer le formulaire que vous utiliseriez pour signaler votre préoccupation à Santé Canada?</li>
 </ul>

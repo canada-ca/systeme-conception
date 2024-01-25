@@ -10,7 +10,7 @@ title: "Prepare for the citizenship test"
 <ul>
   <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul class="lst-spcd">
   <li>Canada confers citizenship on over 100,000 people each year</li>
   <li>Applicants for Canadian citizenship have adapted to a new country, a new culture, and often a new language</li>
@@ -20,21 +20,21 @@ title: "Prepare for the citizenship test"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">69%</td>
-            <td class="table-smnum">86%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+17%pts</strong></span></td>
+            <td class="table-smnum">69&nbsp;%</td>
+            <td class="table-smnum">86&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+17&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -50,5 +50,5 @@ title: "Prepare for the citizenship test"
   <li>According to the citizenship test study guide, what does the word Inuit mean?</li>
   <li>What do you need to take with you when you go to take the Citizenship test?</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/citizenship-test-research-summary.html">Prepare for the citizenship test</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/citizenship-test-research-summary.html">Prepare for the citizenship test</a></p>

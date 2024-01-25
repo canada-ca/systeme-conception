@@ -3,45 +3,44 @@ altLangPage: "https://design.canada.ca/partners/project-01.html"
 date: 2020-11-20
 dateModified: 2023-12-08
 description: "We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca."
-title: "Orientation and wayfinding"
+title: "Orientation et repérage"
 ---
-<p>All government departments are adopting the Canada.ca look. The design needs to adapt to their needs. We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca.</p>
+<p>Tous les ministères adoptent le look de Canada.ca. La conception doit s'adapter à leurs besoins. Nous avons étudié les options de navigation et de conception pour aider les gens à se rendre aux services dont ils ont besoin et à les utiliser, tout en conservant leur confiance dans Canada.ca.</p>
 <h2>Partner departments</h2>
 <ul>
-  <li>Agriculture and Agri-Food Canada</li>
-  <li>Immigration, Refugees and Citizenship Canada</li>
-  <li>Veterans Affairs Canada</li>
-  <li>Statistics Canada</li>
+  <li>Agriculture et Agroalimentaire Canada</li>
+  <li>Immigration, Réfugiés et Citoyenneté Canada</li>
+  <li>Anciens Combattants Canada et Statistique Canada</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul class="lst-spcd">
-  <li>Finding and using services delivered by different government departments should be simple, consistent and accessible to all Canadians</li>
-  <li>People need to be able to clearly recognize official government information and services to avoid deceptive and fraudulent sites</li>
+  <li>Trouver et utiliser les services offerts par les différents ministères devrait être simple, cohérent et accessible à tous les Canadiens.</li>
+  <li>Les gens doivent être en mesure de reconnaître clairement les renseignements et les services officiels du gouvernement afin d’éviter les sites trompeurs et frauduleux.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">54%</td>
-            <td class="table-smnum">61%</td>
-            <td class="table-smnum">In contrast to other optimization projects where large improvements were expected, in this project we were looking to maintain or, hopefully increase, task success despite removing the menu and changing to the Canada.ca design. We achieved our goal.</td>
+            <td class="table-smnum">54&nbsp;%</td>
+            <td class="table-smnum">61&nbsp;%</td>
+            <td class="table-smnum">Comparativement à d’autres projets d’optimisation pour lesquels nous avions prévu d’importantes améliorations, dans ce projet, nous avions comme objectif de maintenir, ou peut être même d’accroître, la réussite des tâches, même si nous avions supprimé le menu et adopté le système de conception Canada.ca. Nous avons atteint notre objectif.</td>
           </tr>
         </tbody>
       </table>
     </div>
   </div>
 </div>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Wayfinding on Canada.ca</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca">Orientation dans Canada.ca</a></p>

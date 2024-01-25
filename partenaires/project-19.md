@@ -6,11 +6,11 @@ description: "Make it easier for Canadians to understand notifications about dan
 title: "Weather information"
 ---
 <p>Make it easier for Canadians to understand notifications about dangerous weather conditions.</p>
-<h2>Partner department</h2>
+<h2>Ministère partenaire</h2>
 <ul>
   <li>Environment and Climate Change Canada</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul>
   <li>Flu cases result in nearly 12,000 hospitalizations in Canada each year</li>
 </ul>
@@ -18,21 +18,21 @@ title: "Weather information"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">33%</td>
-            <td class="table-smnum">72%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+39%pts</strong></span></td>
+            <td class="table-smnum">33&nbsp;%</td>
+            <td class="table-smnum">72&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+39&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -49,5 +49,5 @@ title: "Weather information"
   <li>You are coaching children's soccer tonight. You have to cancel if the humidex is above 40 degrees. Should you cancel the game or not?</li>
   <li>You are the golf course manager: the sky looks dark. Find out (yes/no) whether you should clear the course because of the potential of lightning in the next 10-20 minutes.</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/weather-research-summary.html">Weather information</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/weather-research-summary.html">Weather information</a></p>

@@ -11,7 +11,7 @@ title: "Recalls and safety alerts search"
   <li>Health Canada</li>
   <li>Transport Canada</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul>
   <li>the federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
 </ul>
@@ -30,5 +30,5 @@ title: "Recalls and safety alerts search"
   <li>Your daughter is allergic to peanuts. She had a reaction this afternoon at home. She ate only these two foods. Check if either was the cause.</li>
   <li>You are looking at this bluetooth speaker on eBay. Check if there are any problems with it. Is there a specific detail you should ask the seller about?</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/recalls-safety-alerts-research-summary.html">Research summary: Recalls and safety alerts search</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/recalls-safety-alerts-research-summary.html">Research summary: Recalls and safety alerts search</a></p>

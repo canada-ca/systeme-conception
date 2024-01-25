@@ -8,10 +8,10 @@ title: "Disease and immunization information"
 <p>Make it easier for businesses to fulfill their Goods and Services Tax (GST), Harmonized Sales Tax (HST) and payroll requirements.</p>
 <h2>Partner departments</h2>
 <ul>
-  <li>Health Canada (HC)</li>
+  <li>Santé Canada (SC)</li>
   <li>Global Affairs Canada (GAC)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul>
   <li>Flu cases result in nearly 12,000 hospitalizations in Canada each year</li>
 </ul>
@@ -19,21 +19,21 @@ title: "Disease and immunization information"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">53%</td>
-            <td class="table-smnum">84%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+31%pts</strong></span></td>
+            <td class="table-smnum">53&nbsp;%</td>
+            <td class="table-smnum">84&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+31&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -53,5 +53,5 @@ title: "Disease and immunization information"
   <li>You are planning a trip to Mexico. Which specific vaccinations are recommended before you go?</li>
   <li>The weekly flu report says most cases are an H3N2 flu. Find out if that particular flu is in this year's vaccine in Canada to help persuade your partner to get a flu shot.</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/diseases-research-summary.html">GST/HST and payroll</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/diseases-research-summary.html">GST/HST and payroll</a></p>

@@ -6,11 +6,11 @@ description: "Make it easier for Canadians to register and manage their CRA busi
 title: "Business account maintenance"
 ---
 <p>Make it easier for Canadians to register and manage their Canada Revenue Agency (CRA) business accounts.</p>
-<h2>Partner department</h2>
+<h2>Ministère partenaire</h2>
 <ul>
   <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul>
   <li>Improving the usability of self-serve options reduces the workload of managing account information for businesses</li>
   <li>Redirecting simple transactions to lower-cost digital options reduces support costs for the Canada Revenue Agency (CRA) </li>
@@ -19,21 +19,21 @@ title: "Business account maintenance"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">34%</td>
-            <td class="table-smnum">72%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+38%pts</strong></span></td>
+            <td class="table-smnum">34&nbsp;%</td>
+            <td class="table-smnum">72&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+38&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -51,5 +51,5 @@ title: "Business account maintenance"
   <li>You have been offered a full-time job, and won't be earning business income for a period of time. You want to keep your business active for use in the future. What do you need to do to keep your GST/HST account active?</li>
   <li>You operate a business in Penticton, B.C., and you need to send some documents to the CRA tax centre that is processing your business return. Find the mailing address you should use.</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/business-account-research-summary.html">Business account maintenance</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/business-account-research-summary.html">Business account maintenance</a></p>

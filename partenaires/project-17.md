@@ -6,11 +6,11 @@ description: "Make it easier for businesses to fulfill their GST/HST and payroll
 title: "GST/HST and payroll"
 ---
 <p>Make it easier for businesses to fulfill their Goods and Services Tax (GST), Harmonized Sales Tax (HST) and payroll requirements.</p>
-<h2>Partner department</h2>
+<h2>Ministère partenaire</h2>
 <ul>
   <li>Canada Revenue Agency (CRA)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <ul>
   <li>There are 5,400,000 active GST/HST accounts in Canada and 1,700,000 active Payroll accounts in Canada</li>
 </ul>
@@ -18,21 +18,21 @@ title: "GST/HST and payroll"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">48%</td>
-            <td class="table-smnum">76%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+28%pts</strong></span></td>
+            <td class="table-smnum">48&nbsp;%</td>
+            <td class="table-smnum">76&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+28&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -52,5 +52,5 @@ title: "GST/HST and payroll"
   <li>You have recently registered for a GST account and have been collecting GST/HST. How would you find out when you have to pay it?</li>
   <li>Your business operates seasonally, so you don't pay employees during the winter. Do you need to let CRA know this?</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/taxfiling-research-summary.html">GST/HST and payroll</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/taxfiling-research-summary.html">GST/HST and payroll</a></p>

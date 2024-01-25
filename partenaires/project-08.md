@@ -6,11 +6,11 @@ description: "Make it easier for Canadians to find the correct phone number or m
 title: "Contact the CRA"
 ---
 <p>Make it easier for Canadians to find the correct phone number or mailing address for specific services related to the Canada Revenue Agency (CRA).</p>
-<h2>Partner department</h2>
+<h2>Ministère partenaire</h2>
 <ul>
   <li>Canada Revenue Agency (CRA)</li>
 </ul>
-<h2>Why this work matters</h2>
+<h2>Pourquoi ce travail est important</h2>
 <p>Improving the usability of contact information for the Canada Revenue Agency will: </p>
 <ul class="lst-spcd">
   <li>reduce the time Canadians spend looking for answers</li>
@@ -20,21 +20,21 @@ title: "Contact the CRA"
   <div class="col-md-8">
     <div class="panel panel-success">
       <header class="panel-heading">
-        <h4 class="panel-title text-center">Task success</h4>
+        <h4 class="panel-title text-center">Succès de la tâche</h4>
       </header>
       <table class="table">
         <thead>
           <tr style="">
-            <th scope="col" class="col-md-3">Before</th>
-            <th scope="col" class="col-md-3">After</th>
-            <th scope="col" class="col-md-6">Improvement to task success</th>
+            <th scope="col" class="col-md-3">Avant</th>
+            <th scope="col" class="col-md-3">Après</th>
+            <th scope="col" class="col-md-6">Amélioration de la réussite des tâches</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td class="table-smnum">40%</td>
-            <td class="table-smnum">85%</td>
-            <td class="table-smnum"><span class="text-success"><strong>+45%pts</strong></span></td>
+            <td class="table-smnum">40&nbsp;%</td>
+            <td class="table-smnum">85&nbsp;%</td>
+            <td class="table-smnum"><span class="text-success"><strong>+45&nbsp;%pts</strong></span></td>
           </tr>
         </tbody>
       </table>
@@ -56,5 +56,5 @@ title: "Contact the CRA"
   <li>Your business needs to send in this RC1 form to get a payroll account. What address should you send it to from your office in Penticton BC?</li>
   <li>You lost the security code that you need to login to your personal CRA account. Find out which phone number to call to get one.</li>
 </ul>
-<h2>Research summary</h2>
-<p><a href="https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html">Contact the Canada Revenue Agency (CRA)</a></p>
+<h2>Résumé de recherche</h2>
+<p><a href="https://blogue.canada.ca/resumes-recherche/cra-contact-us-research-summary.html">Contact the Canada Revenue Agency (CRA)</a></p>
