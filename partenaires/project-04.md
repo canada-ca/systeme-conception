@@ -3,18 +3,18 @@ altLangPage: "https://design.canada.ca/partners/project-04.html"
 date: 2023-12-08
 dateModified: 2023-12-08
 description: "Make it easier for public servants to find and understand their pay information."
-title: "Pay for the public service"
+title: "Rémunération à la fonction publique"
 ---
-<p>Make it easier for public servants to find and understand their pay information.
+<p>Faire en sorte qu’il soit plus facile pour les employés de la fonction publique de trouver et de comprendre les renseignements de paye.</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Services publics et Approvisionnement Canada (SPAC)</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>Canada had nearly 288,000 public servants in 2019</li>
-  <li>Pay issues are a major cause of stress for public servants</li>
-  <li>Helping public servants access and understand pay information better can reduce stress and avoid some common pay issues</li>
+  <li>Le Canada comptait près de 288 000 fonctionnaires en 2019.</li>
+  <li>Les problèmes de paye sont une importante cause de stress pour les employés de la fonction publique.</li>
+  <li>Aider les employés de la fonction publique à accéder aux renseignements sur la paye et à mieux les comprendre peut réduire le stress et éviter certains problèmes de paye courants.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -41,17 +41,16 @@ title: "Pay for the public service"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Your friend just completed a degree in translation and is considering joining the government. What's the salary of a level 1 translator in the government?</li>
-  <li>Pat starts as a public servant on Monday, December 2nd. He needs to know when he will get his first paycheque, assuming his department does everything correctly.</li>
-  <li>Alice accepted a 3-month acting position at Health Canada, starting in February. She wants to help her manager make sure her pay is accurate when she starts. When should her manager submit the paperwork?</li>
-  <li>You have gone on parental leave and need to check your pay stub deductions from home. Find a way to do this.</li>
-  <li>Avery took a 3-month leave without pay for school and is returning to work at Health Canada next month. She wants to help her manager ensure she starts getting paid as soon as possible. When should her manager submit the paperwork?</li>
-  <li>You switched banks and want your next pay to be deposited in the new account. Which of the options below would you choose: What form or forms should be submitted? Where would you submit the change?</li>
-  <li>Pat started work this year. Find a way for Pat to view her pay stub to check the deductions.</li>
-  <li>Sam works at Statistics Canada. It's payday, but he didn't get any pay. What steps should Sam take?</li>
-  <li>It turns out you had an overpayment of
-    $500 on 4 pays last year. You've since bought a new house and finances are tight. Is it possible to arrange your own repayment schedule?</li>
-  <li>Your pay last year was correct. You got two T4 tax slips though—an incorrect one then a correct one in mid-February. You hired a tax advisor to help sort out your taxes. Without contacting anyone, find out if it's possible to get reimbursed for that tax advisor expense.</li>
+  <li>Votre ami vient d’obtenir un diplôme en traduction et il envisage de travailler au gouvernement. Quel est le salaire d’un traducteur de niveau 1 au gouvernement?</li>
+  <li>Pat commence à travailler comme employé de la fonction publique le lundi 2 décembre. Il veut savoir quand il recevra son premier chèque de paye (si son ministère fait tout correctement).</li>
+  <li>Alice a accepté un poste intérimaire de trois mois à Santé Canada, à compter de février. Elle veut aider son gestionnaire à s’assurer que sa paye est exacte lorsqu’elle commence. Quand son gestionnaire doit-il soumettre les documents?</li>
+  <li>Vous avez pris un congé parental et devez vérifier les retenues qui figurent sur votre talon de paye à partir de la maison. Trouvez une façon d’y arriver.</li>
+  <li>Avery a pris un congé non payé de trois mois pour poursuivre ses études et elle retournera travailler à Santé Canada le mois prochain. Elle veut aider son gestionnaire à s’assurer qu’elle commence à être payée le plus tôt possible. Quand son gestionnaire doit-il soumettre les documents?</li>
+  <li>Vous avez changé d’institution bancaire et vous voulez que votre prochaine paye soit déposée dans le nouveau compte. Parmi les options ci-dessous, laquelle choisiriez-vous? Quel(s) formulaire(s) faut-il soumettre? Où devez-vous soumettre le changement?</li>
+  <li>Pat a commencé à travailler cette année. Trouvez-lui une façon de voir son talon de paye pour qu’elle vérifie les retenues qui y figurent.</li>
+  <li>Sam travaille à Statistique Canada. C’est jour de paye, mais aucun montant n’a été déposé dans son compte. Quelles mesures Sam doit-il prendre?</li>
+  <li>L’an dernier, un trop-payé de 500 $ figurait sur 4 de vos payes. Vous avez depuis acheté une nouvelle maison, et vos finances sont serrées. Est-il possible d’organiser votre propre calendrier de remboursement?</li>
+  <li>Votre rémunération de l’an dernier a été versée correctement. Vous avez cependant reçu deux feuillets T4 : un premier feuillet qui comportait des renseignements inexacts, puis un feuillet corrigé (obtenu à la mi-février). Vous avez embauché un conseiller fiscal pour qu’il vous aide à préparer votre déclaration d’impôts. Sans communiquer avec qui que ce soit, déterminez s’il est possible que les honoraires de ce conseiller fiscal vous soient remboursés.</li>
 </ul>

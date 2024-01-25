@@ -39,7 +39,7 @@ title: "EI special benefits"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Darren has been working full-time and making Employment Insurance contributions for 5 months. Is that enough for him to qualify for government support to take time off work to look after his sick 8-year-old son?</li>
   <li>What information would Chen need from his employer to support an application to take time off from work to look after his sick wife?</li>

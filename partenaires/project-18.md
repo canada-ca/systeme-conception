@@ -6,7 +6,7 @@ description: "Make it easier for Canadians to interpret immunization guidelines.
 title: "Disease and immunization information"
 ---
 <p>Make it easier for businesses to fulfill their Goods and Services Tax (GST), Harmonized Sales Tax (HST) and payroll requirements.</p>
-<h2>Partner departments</h2>
+<h2>Ministères partenaires</h2>
 <ul>
   <li>Santé Canada (SC)</li>
   <li>Global Affairs Canada (GAC)</li>
@@ -40,7 +40,7 @@ title: "Disease and immunization information"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>This year's flu season could be worse than usual. Find the government’s advice on the most important way to avoid getting the flu.</li>
   <li>Your friend put up a post urging her friends not to vaccinate their kids because of the risk of autism. Find some answers that would make you feel ready to discuss it with her.</li>

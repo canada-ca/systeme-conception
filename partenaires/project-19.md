@@ -39,7 +39,7 @@ title: "Weather information"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>What will the weather be like in your area for the rest of the day?</li>
   <li>You heard there is rain coming but you want to cycle to/home from work. Find out when the probability of rain is the highest so you can avoid those times.</li>

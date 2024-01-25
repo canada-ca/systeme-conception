@@ -39,7 +39,7 @@ title: "GST/HST and payroll"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Can you pay your company's payroll Canada Pension Plan (CPP) and Employment Insurance deductions to CRA using Interac?</li>
   <li>You issued an invoice, with GST included, on the last day of the quarter. Can you wait until the invoice is paid before sending in your payment?</li>

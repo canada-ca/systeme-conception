@@ -6,7 +6,7 @@ description: "Help Health Canada prepare for the implementation of a transformed
 title: "Recalls and safety alerts search"
 ---
 <p>Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface so that Canadians can find and understand both recalls and safety alerts.</p>
-<h2>Partner departments</h2>
+<h2>Ministères partenaires</h2>
 <ul>
   <li>Health Canada</li>
   <li>Transport Canada</li>

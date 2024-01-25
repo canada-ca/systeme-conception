@@ -6,7 +6,7 @@ description: "We explored navigation and design options to help people get to an
 title: "Orientation et repérage"
 ---
 <p>Tous les ministères adoptent le look de Canada.ca. La conception doit s'adapter à leurs besoins. Nous avons étudié les options de navigation et de conception pour aider les gens à se rendre aux services dont ils ont besoin et à les utiliser, tout en conservant leur confiance dans Canada.ca.</p>
-<h2>Partner departments</h2>
+<h2>Ministères partenaires</h2>
 <ul>
   <li>Agriculture et Agroalimentaire Canada</li>
   <li>Immigration, Réfugiés et Citoyenneté Canada</li>

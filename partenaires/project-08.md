@@ -41,7 +41,7 @@ title: "Contact the CRA"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Your bank asked for an official proof of income statement. It's Sunday. Do you have to wait until Monday to call CRA to get this or is there a number you can call today?</li>
   <li>You renewed your mortgage, and you moved all your bank accounts to a new bank. What number would you call to get your personal tax refund into your new bank account?</li>

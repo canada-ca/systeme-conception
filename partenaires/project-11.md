@@ -39,7 +39,7 @@ title: "Student loans and grants"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Can an apprentice get a loan from the Canadian government to help during their apprenticeship?</li>
   <li>Can you get a grant from the Government of Canada to attend university part time?</li>

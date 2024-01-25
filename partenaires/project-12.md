@@ -6,7 +6,7 @@ description: "MMake it easier for Canadians to find government jobs on Canada.ca
 title: "Find a job"
 ---
 <p>Make it easier for Canadians to find government jobs on Canada.ca.</p>
-<h2>Partner departments</h2>
+<h2>Ministères partenaires</h2>
 <ul>
   <li>Employment and Social Development Canada (ESDC)</li>
 </ul>
@@ -40,7 +40,7 @@ title: "Find a job"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>You just received your Office Administration diploma. How many Administrative Assistant jobs could you apply for to work for the Federal Government?</li>
   <li>You heard there is a position open in Alberta for a veterinarian to work for the Federal Government. How would you apply for it?</li>

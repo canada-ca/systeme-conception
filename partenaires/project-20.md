@@ -40,7 +40,7 @@ title: "Travel documents"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Find out what I need to come to Canada as a tourist from my country.</li>
   <li>Find out what I need to come to Canada as a Canadian permanent resident.</li>

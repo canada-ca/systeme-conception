@@ -39,7 +39,7 @@ title: "Business start-up activities"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Imagine you are going to start a home business in Winnipeg, part-time as a consultant. Find out what you can find out about any essential legal steps in that process.</li>
   <li>You want to name your new business

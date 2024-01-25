@@ -6,7 +6,7 @@ description: "Make it easier for applicants to study for the Canadian citizenshi
 title: "Prepare for the citizenship test"
 ---
 <p>Make it easier for applicants to study for the Canadian citizenship test.</p>
-<h2>Partner departments</h2>
+<h2>Ministères partenaires</h2>
 <ul>
   <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
 </ul>
@@ -41,7 +41,7 @@ title: "Prepare for the citizenship test"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>You submitted your citizenship application. What else will you need to do to become a Canadian citizen?</li>
   <li>What are the different ways you could study for the Canadian citizenship test?</li>

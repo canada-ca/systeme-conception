@@ -6,7 +6,7 @@ description: "Make it easier for Canadian parents to understand and apply for ma
 title: "EI maternity and parental benefits"
 ---
 <p>Make it easier for Canadian parents to understand and apply for maternity and parental benefits.</p>
-<h2>Partner departments</h2>
+<h2>Ministères partenaires</h2>
 <ul>
   <li>Service Canada</li>
   <li>Employment and Social Development Canada (ESDC)</li>
@@ -40,7 +40,7 @@ title: "EI maternity and parental benefits"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Anne is expecting a baby in 6 weeks. She wants to work right up to her due date and take leave after. She'll be applying to get money from the government during her time off.If she wants to get everything ready before the baby is born, when should she apply?</li>
   <li>Maya's doctor orders her off work 5 weeks before her baby is due. She doesn't have any vacation or sick days left through her work. Does she have to use her maternity leave or are there other options?</li>

@@ -40,7 +40,7 @@ title: "Business account maintenance"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>You want to register for a business number by mail. What is the number of the form you will need to send?</li>
   <li>You just registered your business, a sole proprietorship, with the government of Nova Scotia, and you received a business number. Find out if you need a federal business number, too.</li>

@@ -39,7 +39,7 @@ title: "Canada Child Benefit"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>You didn't get your usual child benefit payment in June. Which of the reasons below would cause payments to stop?</li>
   <li>Mart's second child was just born this month. How much Canada Child Benefit will Mart now get every month?</li>

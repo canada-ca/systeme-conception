@@ -40,7 +40,7 @@ title: "Electronic Procurement Solution"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Jon works for a company that does snow removal in the winter, and landscaping the rest of the year. His boss has asked him to look for opportunities with the federal government. Are there any open projects in Ontario that would be a good fit for the company?</li>
   <li>Jon found this opportunity for Algoma Grounds Maintenance, but it looks like it might be a bit too big for his company. How could he let other businesses know how to contact him, in case there's a larger company that would be willing to sub-contract?</li>

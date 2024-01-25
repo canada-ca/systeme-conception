@@ -6,7 +6,7 @@ description: "Make it easier for Canadians to find and understand travel advice 
 title: "Travel advice and advisories"
 ---
 <p>Make it easier for Canadians to find and understand travel advice and guidance from the Government of Canada.</p>
-<h2>Partner departments</h2>
+<h2>Ministères partenaires</h2>
 <ul>
   <li>Global Affairs Canada (GAC)</li>
   <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
@@ -52,7 +52,7 @@ title: "Travel advice and advisories"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Jeff is planning a 6-week trek to explore Indonesia. He takes Tylenol with codeine for arthritis pain. Can he bring this prescription medication into Indonesia with him?</li>
   <li>Jan is travelling to Malawi for her work. Has the Government of Canada advised against travel to that country?</li>

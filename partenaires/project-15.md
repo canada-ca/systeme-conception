@@ -6,7 +6,7 @@ description: "Make it easier for Canadians to find and understand both recalls a
 title: "Recalls and safety alerts"
 ---
 <p>Make it easier for Canadians to register and manage their Canada Revenue Agency (CRA) business accounts.</p>
-<h2>Partner departments</h2>
+<h2>Ministères partenaires</h2>
 <ul>
   <li>Health Canada</li>
   <li>Canadian Food and Safety Inspection Agency</li>
@@ -42,7 +42,7 @@ title: "Recalls and safety alerts"
     </div>
   </div>
 </div>
-<h2>Task scenarios tested and improved</h2>
+<h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Your son is allergic to eggs. He had a reaction tonight. Find out if each of these foods might have caused his allergic reaction.</li>
   <li>You saw something on Facebook about roast beef recalls. When you check in your fridge, you see you have a sandwich with this tag on it. Are you risking illness if you eat it, or not?</li>
