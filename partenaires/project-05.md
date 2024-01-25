@@ -3,9 +3,9 @@ altLangPage: "https://design.canada.ca/partners/project-05.html"
 date: 2023-12-08
 dateModified: 2023-12-08
 description: "Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface so that Canadians can find and understand both recalls and safety alerts."
-title: "Recalls and safety alerts search"
+title: "Recherche de rappels et d’avis de sécurité"
 ---
-<p>Help Health Canada prepare for the implementation of a transformed Recalls and Safety Alerts Management System (RSAMS) with a new search interface so that Canadians can find and understand both recalls and safety alerts.</p>
+<p>Aider Santé Canada à se préparer à la mise en œuvre d’un système transformé de gestion des rappels et des avis de sécurité comportant une nouvelle interface de recherche qui permet aux Canadiennes et aux Canadiens de trouver et de comprendre les rappels et les avis de sécurité.</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Health Canada</li>
