@@ -2,18 +2,19 @@
 altLangPage: "https://design.canada.ca/partners/project-02.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "MMake it easier for Canadians to find government jobs on Canada.ca."
-title: "Find a job"
+description: "Faciliter l’accès des Canadiens aux emplois gouvernementaux sur Canada.ca."
+title: "Trouver un emploi"
 ---
-<p>Make it easier for Canadians to find government jobs on Canada.ca.</p>
+<p>Faciliter l’accès des Canadiens aux emplois gouvernementaux sur Canada.ca.</p>
 <h2>Ministères partenaires</h2>
 <ul>
-  <li>Employment and Social Development Canada (ESDC)</li>
+  <li>Emploi et Développement social Canada (EDSC)</li>
+  <li>la fonction publique du Canada</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul class="lst-spcd">
-  <li>Canada had an unemployment rate of 5.8% in 2018</li>
-  <li>Improving this content makes it easier for millions of Canadians to find jobs with the Government of Canada</li>
+  <li>Le taux de chômage du Canada en 2018 est de 5,8 %</li>
+  <li>L’amélioration de la convivialité d’Emplois GC facilite la tâche aux millions de Canadiens qui cherchent un emploi au gouvernement du Canada</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -42,13 +43,13 @@ title: "Find a job"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>You just received your Office Administration diploma. How many Administrative Assistant jobs could you apply for to work for the Federal Government?</li>
-  <li>You heard there is a position open in Alberta for a veterinarian to work for the Federal Government. How would you apply for it?</li>
-  <li>You just graduated high school and want to be an Infantry soldier. Is the military accepting applications for infantry soldiers right now?</li>
-  <li>How would you apply to be a government Border Officer?</li>
-  <li>You are halfway through your studies. How would you apply to the Federal Government to be considered for a student job?</li>
-  <li>You are graduating soon with a Legal Assistant diploma. How many open positions can you apply for in Vancouver that are specifically for a legal assistant?</li>
-  <li>You heard there is a carpenter job available in Greenwood, Nova Scotia to work for the Federal Government. Does this job require you to be bilingual, English and French?</li>
+  <li>Vous venez d’obtenir un diplôme en administration de bureau. À combien de postes d’adjoint administratif pouvez-vous postuler au gouvernement fédéral?</li>
+  <li>Vous avez entendu qu'il y a un poste disponible en Alberta pour un vétérinaire pour travailler avec le gouvernement fédéral. Comment postuleriez-vous?</li>
+  <li>Vous venez de terminer vos études secondaires et vous voulez être soldat d’infanterie. L'armée prend-elle des demandes d’emploi en ce moment pour des soldats d'infanterie?</li>
+  <li>Comment feriez-vous une demande pour devenir agent frontalier pour le gouvernement?</li>
+  <li>Vous avez complété la moitié de vos études. Comment postuleriez-vous avec le gouvernement fédéral afin d'être considéré pour un emploi étudiant?</li>
+  <li>Vous obtiendrez bientôt un diplôme d’adjointe juridique. À combien de postes vacants pouvez-vous postuler à Vancouver, spécifiquement pour une adjointe juridique?</li>
+  <li>Vous avez entendu qu'il y a un poste de charpentier disponible à Greenwood, en Nouvelle-Écosse, pour travailler avec le gouvernement fédéral. Est-ce que ce poste requiert le bilinguisme, anglais et français?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/student-loans-research-summary.html">Student loans and grants</a></p>
+<p><a href="https://blogue.canada.ca/resumes-recherche/trouver-emploi-resume-recherche.html">Trouver un emploi</a></p>

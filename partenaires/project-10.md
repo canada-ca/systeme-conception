@@ -1,18 +1,19 @@
 ---
-altLangPage: "https://design.canada.ca/partners/project-21.html"
+altLangPage: "https://design.canada.ca/partners/project-10.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business."
 title: "Business start-up activities"
 ---
-<p>Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business.</p>
+<p>Combiner les renseignements provenant de l’ensemble des ministères afin que les Canadiens puissent obtenir facilement le portrait d’ensemble des éléments dont le gouvernement du Canada a besoin au moment de démarrer une entreprise.</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Services publics et Approvisionnement Canada (SPAC)</li>
+  <li>Innovation, Sciences et Développement économique Canada (ISDEC)</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>Approximately 40,000 new small and medium enterprises start up each year</li>
+  <li>Chaque année, il y a environ 40 000 nouvelles petites et moyennes entreprises qui démarrent</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -41,16 +42,12 @@ title: "Business start-up activities"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Imagine you are going to start a home business in Winnipeg, part-time as a consultant. Find out what you can find out about any essential legal steps in that process.</li>
-  <li>You want to name your new business
-    ‘SOMOS’. Check if it is legal or illegal for you to start using that name.</li>
-  <li>You expect to earn about
-    $1,000 a month from your new business for the first six months. Find out whether you must charge
-    Goods and Services Tax (GST) to your customers.</li>
-  <li>Your first employee starts work next month. Find out if there is an official step you must take before or very soon after you cut their first paycheque.</li>
-  <li>Your business needs to start collecting
-    GST. Find the official first step you must take.</li>
-  <li>You have decided to incorporate your business. Is it possible to submit the application form online, and if so, how much it will cost?</li>
+  <li>Imaginez que vous allez démarrer une entreprise à domicile à Winnipeg, à temps partiel, à titre de consultant. Renseignez-vous sur les étapes juridiques essentielles de ce processus.
+Vous voulez nommer votre entreprise « SOMOS ». Vérifiez s’il est légal ou illégal pour vous de commencer à utiliser ce nom.
+Vous pensez gagner environ 1 000 $ par mois de votre nouvelle entreprise pendant les six premiers mois. Vérifiez si vous devez facturer la TPS à vos clients.
+Votre premier employé commence à travailler le mois prochain. Vérifiez si vous devez appliquer une mesure officielle avant ou peu après avoir émis son premier chèque de paye.
+Votre entreprise doit commencer à percevoir la TPS. Vérifier quelle est la première mesure officielle que vous devez appliquer.
+Vous avez décidé de constituer votre entreprise en société. Est-il possible de présenter le formulaire de demande en ligne et, le cas échéant, combien cela coûtera-t-il?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blog.canada.ca/2018/02/20/Starting_a_business.html">Business start-up activities</a></p>
+<p><a href="https://blogue.canada.ca/2018/02/20/demarrer_une_entreprise.html">Activités de démarrage d'entreprise</a></p>

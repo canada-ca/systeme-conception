@@ -8,27 +8,27 @@ title: "Recherche de rappels et d’avis de sécurité"
 <p>Aider Santé Canada à se préparer à la mise en œuvre d’un système transformé de gestion des rappels et des avis de sécurité comportant une nouvelle interface de recherche qui permet aux Canadiennes et aux Canadiens de trouver et de comprendre les rappels et les avis de sécurité.</p>
 <h2>Ministères partenaires</h2>
 <ul>
-  <li>Health Canada</li>
-  <li>Transport Canada</li>
+  <li>Santé Canada</li>
+  <li>Transports Canada</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>the federal government is the largest public buyer of goods and services in Canada, with purchases of approximately $23 billion annually</li>
+  <li>Des milliers de rappels et d’avis de sécurité sont publiés chaque année. Lorsque les Canadiennes et Canadiens peuvent trouver et comprendre ces renseignements, ils se sentent plus en sécurité.</li>
 </ul>
-<h2>Overall task performance</h2>
-<p>Functionality in the prototype was evolving as testing began, and some features were only available later in the testing. For this reason, the total number of recorded performances did not meet the minimum threshold for reliable comparison.</p>
-<h2>Task scenarios tested</h2>
+<h2>Rendement global des tâches</h2>
+<p>Les fonctions du prototype étaient en pleine évolution lorsque les tests ont commencé, et certaines n’ont été disponibles que plus tard au cours des tests. Pour cette raison, le nombre total des exécutions enregistrées n’a pas atteint le seuil minimum pour qu’une comparaison fiable puisse être effectuée.</p>
+<h2>Scénarios de tâches testés</h2>
 <ul class="lst-spcd">
-  <li>Your son is allergic to eggs. He had a reaction tonight. Find out if each of these foods might have caused his allergic reaction.</li>
-  <li>You saw something on Facebook about pastrami recalls. When you check in your fridge, you see you have a package with this tag on it. Are you risking illness if you eat it, or not?</li>
-  <li>You heard on the news that there have been issues with E. coli in raw beef. You have a boneless blade roast in your freezer, purchased from Metzger Meats. What do you need to know to determine if it is safe to eat?</li>
-  <li>Your sister gave you a 2015 Britax B-SAFE 35 baby car seat. Is there anything you or your sister should do before you use it?</li>
-  <li>Your daughter carries an EpiPen in case of severe allergic reactions. Her EpiPen is going to expire soon. You heard there have been production problems, and want to confirm that you can get a replacement. Will you be able to?</li>
-  <li>You are looking at buying a 2003 Honda Pilot SUV. Find out if there are any recalls for it before you buy it.</li>
-  <li>You bought this USB charger at a gas station. When you plugged it in, it gave you an electric shock. You want to find out if Health Canada has issued a warning about this device.</li>
-  <li>There are recalls right now for children's toys that people might have bought. Find and provide the name of the recalled toy that is of the most concern to you.</li>
-  <li>Your daughter is allergic to peanuts. She had a reaction this afternoon at home. She ate only these two foods. Check if either was the cause.</li>
-  <li>You are looking at this bluetooth speaker on eBay. Check if there are any problems with it. Is there a specific detail you should ask the seller about?</li>
+  <li>Votre fils est allergique aux œufs. Ce qu’il a mangé ce soir a provoqué une réaction. Découvrez si chacun de ces aliments aurait pu causer sa réaction allergique.</li>
+  <li>Vous avez vu quelque chose sur Facebook qui portait sur des rappels de pastrami. Lorsque vous vérifiez dans votre réfrigérateur, vous voyez un emballage portant cette étiquette. Risquez-vous d’être malade si vous mangez le pastrami?</li>
+  <li>Vous avez entendu aux nouvelles qu’il y a eu des problèmes avec la bactérie E. coli dans le bœuf cru. Vous avez dans votre congélateur un morceau de viande pour faire un rôti de palette désossée, que vous avez acheté chez Metzger Meats. Que devez-vous savoir pour déterminer s’il est sécuritaire de le manger?</li>
+  <li>Votre sœur vous a donné un siège d’auto pour bébé Britax B-SAFE 35 fabriqué en 2015. Y a-t-il quelque chose que vous ou votre sœur devriez faire avant de l’utiliser?</li>
+  <li>Votre fille a toujours avec elle son EpiPen en cas de réactions allergiques graves. Son EpiPen expirera bientôt. Vous avez entendu dire qu’il y a eu des problèmes de production et vous voulez confirmer que vous pouvez en obtenir un autre. Pourrez-vous l’obtenir?</li>
+  <li>Vous songez à acheter un VUS Honda Pilote 2003. Vérifiez si ce véhicule a fait l’objet de rappels avant de l’acheter.</li>
+  <li>Vous avez acheté ce chargeur USB à une station-service. Lorsque vous l’avez branché, vous avez reçu une décharge électrique. Vous voulez savoir si Santé Canada a émis une mise en garde au sujet de cet appareil.</li>
+  <li>Des jouets pour enfants font actuellement l’objet de rappels. Trouvez et fournissez le nom du jouet rappelé qui vous préoccupe le plus.</li>
+  <li>Votre fille est allergique aux arachides. Elle a eu une réaction cet après-midi à la maison. Elle n’a mangé que ces deux aliments. Vérifier si l’un ou l’autre en était la cause.</li>
+  <li>Vous regardez ce haut-parleur Bluetooth sur eBay. Vérifier s’il y a des problèmes avec cet appareil. Devriez-vous poser des questions au vendeur sur un détail en particulier?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/recalls-safety-alerts-research-summary.html">Research summary: Recalls and safety alerts search</a></p>
+<p><a href="https://blogue.canada.ca/resumes-recherche/rappels-securite-resume-recherche.html">Recherche de rappels et d’avis de sécurité</a></p>

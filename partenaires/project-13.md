@@ -3,18 +3,18 @@ altLangPage: "https://design.canada.ca/partners/project-13.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for applicants to study for the Canadian citizenship test."
-title: "Prepare for the citizenship test"
+title: "Se préparer à passer l’examen de citoyenneté"
 ---
 <p>Make it easier for applicants to study for the Canadian citizenship test.</p>
 <h2>Ministères partenaires</h2>
 <ul>
-  <li>Immigration, Refugees and Citizenship Canada (IRCC)</li>
+  <li>Immigration, Réfugiés et Citoyenneté Canada (IRCC)</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul class="lst-spcd">
-  <li>Canada confers citizenship on over 100,000 people each year</li>
-  <li>Applicants for Canadian citizenship have adapted to a new country, a new culture, and often a new language</li>
-  <li>Accessing the material they need to study for their citizenship test should be the least of their worries</li>
+  <li>Le Canada confère la citoyenneté à plus de 100 000 personnes chaque année</li>
+  <li>Les candidats de citoyenneté canadienne ont dû s’adapter à un nouveau pays, à une nouvelle culture et souvent à une nouvelle langue</li>
+  <li>Accéder au matériel dont ils ont besoin pour leur test de citoyenneté devrait être le moindre de leurs soucis</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -43,12 +43,12 @@ title: "Prepare for the citizenship test"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>You submitted your citizenship application. What else will you need to do to become a Canadian citizen?</li>
-  <li>What are the different ways you could study for the Canadian citizenship test?</li>
-  <li>Will there be questions testing your English or French language skills in the citizenship test?</li>
-  <li>According to the citizenship test study guide, in what year did the current Canadian flag become the official flag of Canada?</li>
-  <li>According to the citizenship test study guide, what does the word Inuit mean?</li>
-  <li>What do you need to take with you when you go to take the Citizenship test?</li>
+  <li>Vous avez présenté votre demande de citoyenneté. Que devrez-vous faire d’autre pour devenir citoyen canadien?
+    Quelles sont les différentes façons d’étudier pour l’examen pour la citoyenneté canadienne?
+    Y aura-t-il des questions pour évaluer vos compétences linguistiques en anglais ou en français dans le cadre de l’examen pour la citoyenneté?
+    Selon le guide de l’étude sur la citoyenneté, en quelle année le drapeau canadien actuel est-il devenu le drapeau officiel du Canada?
+    Selon le guide de l’étude sur la citoyenneté, que signifie le mot Inuit?
+    Que devez-vous emporter avec vous lorsque vous allez passer l’examen de citoyenneté?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/citizenship-test-research-summary.html">Prepare for the citizenship test</a></p>
+<p><a href="https://blogue.canada.ca/resumes-recherche/examen-citoyennete-resume-recherche.html">Se préparer à passer l’examen de citoyenneté</a></p>

@@ -3,16 +3,16 @@ altLangPage: "https://design.canada.ca/partners/project-11.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for Canadian students applying, managing and accessing details of their student loans and grants."
-title: "Student loans and grants"
+title: "Prêts et bourses pour les étudiants"
 ---
-<p>Make it easier for Canadian students applying, managing and accessing details of their student loans and grants.</p>
+<p>Faire en sorte qu’il soit plus facile pour les étudiants canadiens de présenter une demande de prêts et de bourses, de les gérer et d’accéder aux détails connexes.</p>
 <h2>Ministère partenaire</h2>
 <ul>
-  <li>Employment and Social Development Canada (ESDC)</li>
+  <li>Emploi et Développement social Canada (EDSC)</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>Improving the usability of the student loans process simplifies this important process used by nearly half a million Canadian students each year</li>
+  <li>L’amélioration de la facilité d’emploi du processus de prêts étudiants permet de simplifier ce processus important utilisé par près d’un demi-million d’étudiants canadiens chaque année</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -41,15 +41,15 @@ title: "Student loans and grants"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Can an apprentice get a loan from the Canadian government to help during their apprenticeship?</li>
-  <li>Can you get a grant from the Government of Canada to attend university part time?</li>
-  <li>Your niece lives in New Brunswick will start university soon. She is from a low-income family and wants to apply for a student loan and a grant. Does she need to submit 2 separate applications?</li>
-  <li>How would you update your bank account details to receive your student loan?</li>
-  <li>Does the government offer a way to help you repay your student loans if your income drops?</li>
-  <li>How soon after graduating do you have to start paying back your student loan from the government of Canada?</li>
-  <li>You have been making student loan payments for the last 3 years but your financial situation is now very bad. Can your student loans be cleared if you file for bankruptcy?</li>
-  <li>You graduated and earned some extra money at work. Is it possible to apply that money to your student loan outside of your regular monthly payments?</li>
-  <li>You are having trouble making your loan payments despite still living with your parents in Manitoba. Who would you contact to discuss your situation and find out if you can get help repaying?</li>
+  <li>Les apprentis peuvent-ils obtenir un prêt auprès du gouvernement du Canada afin de les aider pendant leur apprentissage?</li>
+  <li>Pouvez-vous obtenir une subvention du gouvernement du Canada afin de fréquenter l’université à temps partiel?</li>
+  <li>Votre nièce qui habite au Nouveau-Brunswick commencera bientôt l’université. Elle provient d’une famille à faible revenu et veut présenter une demande afin d’obtenir un prêt et une subvention. Doit-elle présenter deux demandes distinctes?</li>
+  <li>Comment effectueriez-vous la mise à jour des détails de votre compte bancaire afin de recevoir votre prêt étudiant?</li>
+  <li>Le gouvernement offre-t-il une façon de vous aider à rembourser vos prêts étudiants advenant une baisse de votre revenu?</li>
+  <li>Combien de temps après l’obtention de votre diplôme devez-vous commencer à rembourser votre prêt étudiant auprès du gouvernement du Canada?</li>
+  <li>Depuis trois ans, vous effectuez des versements pour rembourser votre prêt étudiant, mais vous êtes actuellement dans une très mauvaise situation financière. Pouvez-vous vous débarrasser de vos prêts étudiants si vous déclarez faillite?</li>
+  <li>Vous avez obtenu votre diplôme et avez gagné un montant supplémentaire au travail. Pourriez-vous appliquer ce montant au remboursement de votre prêt étudiant, en dehors de vos paiements mensuels réguliers?</li>
+  <li>Vous avez de la difficulté à effectuer les paiements pour rembourser votre prêt en dépit du fait que vous vivez toujours avec vos parents au Manitoba. Avec qui communiqueriez-vous afin de discuter de votre situation et de savoir s’il est possible de recevoir de l’aide pour effectuer le remboursement?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/student-loans-research-summary.html">Student loans and grants</a></p>
+<p><a href="https://blogue.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html">Prêts et des bourses pour les étudiants</a></p>

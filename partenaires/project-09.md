@@ -3,17 +3,17 @@ altLangPage: "https://design.canada.ca/partners/project-09.html"
 date: 2024-01-02
 dateModified: 2024-01-02
 description: "Make it easier for Canadian parents to understand and apply for maternity and parental benefits."
-title: "EI maternity and parental benefits"
+title: "Prestations de maternité et parentales d'assurance-emploi"
 ---
-<p>Make it easier for Canadian parents to understand and apply for maternity and parental benefits.</p>
+<p>Rendre les prestations de maternité et les prestations parentales plus faciles à comprendre et à demander pour les parents canadiens.</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Service Canada</li>
-  <li>Employment and Social Development Canada (ESDC)</li>
+  <li>Emploi et Développement social Canada (EDSC)</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>Thousands of Canadians parents apply for maternity and parental benefits each year</li>
+  <li>Des milliers de parents canadiens demandent des prestations de maternité ou des prestations parentales chaque année</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -42,18 +42,15 @@ title: "EI maternity and parental benefits"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Anne is expecting a baby in 6 weeks. She wants to work right up to her due date and take leave after. She'll be applying to get money from the government during her time off.If she wants to get everything ready before the baby is born, when should she apply?</li>
-  <li>Maya's doctor orders her off work 5 weeks before her baby is due. She doesn't have any vacation or sick days left through her work. Does she have to use her maternity leave or are there other options?</li>
-  <li>You've been working full time for the past year and are expecting a baby. How can you be sure that your earnings are considered
-    "insurable" so you can apply for parental leave to look after the baby?</li>
-  <li>Diane is expecting a baby. She wants to take as much time off as possible. Her partner also wants to take 4 weeks of leave right after the birth. What's the longest leave Diane can take from start to finish?</li>
-  <li>You have recently been promoted from part-time to full-time, so your weekly pay has gone up a lot. How long do you need to be working at the new rate to get the maximum parental benefit amount after your baby is born?</li>
-  <li>Fiona adopted a baby and chose the 35-week option for parental leave when she applied. Now that the baby is a little older, can she switch to a longer leave?</li>
-  <li>Jeanine is applying for maternity leave. Her employer recently gave everyone in the company a bonus after a successful year. Will Jeanine's bonus be included in the calculation of her maternity benefits?</li>
-  <li>Marie is on parental leave and planning for her return to work. How can she find out when her last benefit payment will be?</li>
-  <li>Naya is expecting a baby. December 13 will be her last day at work. Her partner is going to take 10 weeks of leave. She has a salary of
-    $43,000 per year, and wants to get the highest payments possible during her leave.How much will she get per week?
-    When will her payments end?</li>
+  <li>Anne attend un bébé dans six semaines. Elle veut travailler jusqu’à sa date d’accouchement et prendre un congé après. Elle présentera une demande au gouvernement en vue de recevoir de l’argent pendant son congé. Quand doit-elle envoyer sa demande pour que tout soit prêt avant la naissance du bébé?</li>
+  <li>Le médecin de Maya lui recommande de prendre congé cinq semaines avant la naissance de son bébé. Elle n’a pas de journée de congé ni de congés de maladie restants à son travail. Doit-elle utiliser son congé de maternité ou a-t-elle d’autres options?</li>
+  <li>Vous avez travaillé à temps plein au cours de la dernière année et attendez un bébé. Comment pouvez-vous savoir si votre rémunération est considérée comme « assurable » de sorte que vous puissiez demander un congé parental pour vous occuper du bébé?</li>
+  <li>iane attend un bébé. Elle veut prendre un congé aussi long que possible. Son partenaire veut également prendre quatre semaines de congé immédiatement après la naissance. Quelle est la durée maximale (du début à la fin) du congé que Diane peut prendre?</li>
+  <li>On vous a récemment promu d’un poste à temps partiel à un poste à temps plein. Votre rémunération hebdomadaire a donc considérablement augmenté. Combien de temps vous faut-il travailler au nouveau taux pour pouvoir obtenir le montant maximal des prestations parentales après la naissance du bébé?</li>
+  <li>Fiona a adopté un bébé et a choisi l’option de 35 semaines comme congé parental lorsqu’elle a présenté sa demande. Maintenant que le bébé est un peu plus vieux, peut-elle changer pour un congé plus long?</li>
+  <li>Jeanine fait une demande de congé de maternité. Après une année fructueuse, son employeur a donné une prime à tous les membres de l’entreprise. La prime de Jeanine sera-t-elle incluse dans le calcul de ses prestations de maternité?</li>
+  <li>Marie est en congé parental et planifie son retour au travail. Comment peut-elle savoir quand elle recevra son dernier paiement?</li>
+  <li>Naya attend un bébé. Le 13 décembre sera son dernier jour de travail avant son congé. Son partenaire prendra 10 semaines de congé. Elle a un salaire de 43 000 dollars par année et veut recevoir les plus grandes prestations possible durant son congé. Combien recevra-t-elle par semaine? Quand ses prestations prendront-elles fin?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/maternity-parental-research-summary.html">Employment Insurance (EI) maternity and parental benefits</a></p>
+<p><a href="https://blogue.canada.ca/resumes-recherche/maternite-parentales-resume-recherche.html">Prestations de maternité et parentales d’assurance-emploi</a></p>

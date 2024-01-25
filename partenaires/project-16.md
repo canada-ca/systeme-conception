@@ -2,17 +2,17 @@
 altLangPage: "https://design.canada.ca/partners/project-16.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for Canadians to understand eligibility for caregiver benefits."
-title: "EI special benefits"
+description: "Faire en sorte qu’il soit plus facile pour les Canadiens de comprendre l’admissibilité aux prestations pour proches aidants."
+title: "Prestations spéciales d'assurance-emploi"
 ---
-<p>Make it easier for Canadians to understand eligibility for caregiver benefits.</p>
+<p>Faire en sorte qu’il soit plus facile pour les Canadiens de comprendre l’admissibilité aux prestations pour proches aidants.</p>
 <h2>Ministère partenaire</h2>
 <ul>
-  <li>Employment and Social Development Canada</li>
+  <li>Emploi et Développement social Canada</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>Thousands of Canadians receive the family caregiver and compassionate care benefits each year</li>
+  <li>Des milliers de Canadiens reçoivent chaque année des prestations pour proches aidants et des prestations de compassion</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -41,13 +41,13 @@ title: "EI special benefits"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Darren has been working full-time and making Employment Insurance contributions for 5 months. Is that enough for him to qualify for government support to take time off work to look after his sick 8-year-old son?</li>
-  <li>What information would Chen need from his employer to support an application to take time off from work to look after his sick wife?</li>
-  <li>Tara has applied for government support to take time off work to look after her sick 12-year-old daughter. When will she receive her first payment?</li>
-  <li>Could you show me how you would apply for government help to take time off work to look after a sick parent?</li>
-  <li>Omar is receiving government support to take time off work and look after an aunt who is ill. The relative's illness has suddenly become much worse, and she may not survive it. Omar has heard there is separate support to care for someone who may be near death. When can he apply for this?</li>
-  <li>John's 6-year-old daughter is ill. How does John show that she is sick enough for him to qualify for government support to look after her?</li>
-  <li>Irina’s father has fallen seriously ill. Her best friend Jane will take time off work to look after him. As Jane is not a member of the family, what will Irina need to do to support Jane's application?</li>
+  <li>Darren travaille à temps plein et fait ses cotisations d'AE depuis 5 mois. Est-ce suffisant pour qu'il soit admissible pour un support gouvernemental, afin qu'il puisse absenter du travail et prendre soin de son fils malade de 8 ans?</li>
+  <li>Quelle information Chen aura-t-il besoin de son employeur pour appuyer une demande pour lui permettre de s'absenter du travail pour prendre soin de sa femme malade?</li>
+  <li>Tara a déposé une demande pour un support gouvernemental afin qu'elle puisse s'absenter du travail pour prendre soin de sa fille malade de 12 ans. Quand recevra-t-elle son premier paiement?</li>
+  <li>Pouvez-vous me montrer comment vous présenteriez une demande pour de l'aide du gouvernement pour que vous puissiez vous absenter du travail afin de prendre soin d'un parent malade?</li>
+  <li>Omar reçoit un support gouvernemental pour qu'il puisse s'absenter du travail et prendre soin d'une tante qui est malade. Sa maladie s'est récemment empiré sévèrement, et c'est possible qu'elle ne survive pas. Omar a entendu qu'il y a un support différent pour prendre soin de quelqu'un qui pourrait être proche de la mort. Quand pourra-t-il présenter une demande pour ce support?</li>
+  <li>La fille de John a 6 ans, et elle est malade. Comment peut John démontrer qu'elle est assez malade pour lui rendre admissible à un support gouvernemental pour prendre soin d'elle?</li>
+  <li>L'époux d'Irina est tombé gravement malade. Sa meilleure amie Jane s'absentera du travail pour prendre soin de lui. Comme Jane n'est pas un membre de la famille, que devra faire Irina pour appuyer la demande de support de Jane?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/caregiving-research-summary.html">Employment Insurance caregiving benefits</a></p>
+<p><a href="https://blogue.canada.ca/resumes-recherche/prochesaidants-resume-recherche.html">Prestations spéciales d’assurance-emploi</a></p>

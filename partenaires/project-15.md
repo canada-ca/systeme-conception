@@ -3,19 +3,19 @@ altLangPage: "https://design.canada.ca/partners/project-15.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Make it easier for Canadians to find and understand both recalls and safety alerts for food, health products, vehicles and car seats."
-title: "Recalls and safety alerts"
+title: "Rappels et alertes de sécurité"
 ---
-<p>Make it easier for Canadians to register and manage their Canada Revenue Agency (CRA) business accounts.</p>
+<p>Permettre aux Canadiens de trouver et de comprendre plus facilement les rappels et les avis de sécurité pour les aliments, les produits de santé, les véhicules et les sièges d’auto.</p>
 <h2>Ministères partenaires</h2>
 <ul>
-  <li>Health Canada</li>
-  <li>Canadian Food and Safety Inspection Agency</li>
-  <li>Transport Canada</li>
-  <li>Environment Canada</li>
+  <li>Santé Canada</li>
+  <li>Agence canadienne d’inspection des aliments</li>
+  <li>Transports Canada</li>
+  <li>Environnement Canada</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>There are thousands of recalls and safety alerts every year. When Canadians can find and understand this information, they are safer.</li>
+  <li>Chaque année, des milliers de rappels et d’avis de sécurité sont publiés. Lorsque les Canadiens peuvent trouver et comprendre ces renseignements, ils sont davantage en sécurité.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -44,17 +44,16 @@ title: "Recalls and safety alerts"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Your son is allergic to eggs. He had a reaction tonight. Find out if each of these foods might have caused his allergic reaction.</li>
-  <li>You saw something on Facebook about roast beef recalls. When you check in your fridge, you see you have a sandwich with this tag on it. Are you risking illness if you eat it, or not?</li>
-  <li>While on Facebook, you clicked on this recall. Looking at your bottle, you see it is not the same. Yours is called Original Mixture, with serial number 6F99322. Has it been recalled too?</li>
-  <li>A friend gave you a 2014 Britax B-SAFE 35 baby car seat. Is there anything you or your friend should do before you use it?</li>
-  <li>Your EpiPen is going to expire soon. You heard there are production problems. Find out what you should do if you have an allergic reaction before you get a new one.</li>
-  <li>You are looking at buying a 2003 Honda Pilot SUV. Find out if there are any recalls for it before you buy it. (Then) Rate your confidence that you found all of the recalls for this vehicle.</li>
-  <li>You bought Stella Artois beer. You heard that there is a problem with this brand. Your bottles have this label. Are they affected?</li>
-  <li>There are recalls right now for children's toys that people might have bought. Find and provide the name of the recalled toy that is of the most concern to you.</li>
-  <li>You want to buy lettuce. You remember seeing something about lettuce that made people ill. Which type(s) of lettuce should you avoid buying today?</li>
-  <li>Your daughter is allergic to peanuts. She had a reaction this afternoon at home. She ate only these two foods. Check if either was the cause. [(Neither are listed) When they've reached a conclusion: What would you do?] </li>
-  <li>You are looking at this high chair on eBay. Check if there are any problems with this model.</li>
+  <li>Votre fils est allergique aux oeufs. Ce soir il a subi une réaction. Trouvez si des aliments dans cette liste auraient pu être la cause de sa réaction.</li>
+  <li>Vous avez vu un message sur Facebook qui mentionnait un rappel de rôti de boeuf. Lorsque vous ouvrez votre réfrigérateur, vous voyez que vous avez un sandwich avec cette étiquette. Risquez-vous de tomber malade si vous le mangez, ou non?</li>
+  <li>Vous étiez sur Facebook, et vous avez cliqué sur ce rappel. En regardant votre bouteille, vous voyez que ce n'est pas la même. Le vôtre est appelé Formule Originale, avec le numéro de série 6F99322. Est-ce que celle-ci a été rappelée aussi?</li>
+  <li>Un ami vous a donné un siège d'auto pour bébé - le modèle 2014 Britax B-SAFE 35. Que devez-vous faire?</li>
+  <li>Votre EpiPen va bientôt expirer. Vous avez entendu dire qu'il y a des problèmes de production. Trouvez ce que vous devez faire si vous avez une réaction allergique avant d'en obtenir un nouveau.</li>
+  <li>Vous avez acheté de la bière Stella Artois. Vous avez entendu dire qu'il y a un problème avec cette marque. Vos bouteilles ont l'étiquette suivante. Sont-elles affectées?</li>
+  <li>Il y a des rappels en ce moment pour des jouets d'enfants que des personnes pourraient avoir acheter. Touvez et indiquez le nom du jouet qui fait l'objet d'un rappel que vous pensez être le plus inquiétant.</li>
+  <li>Vous voulez acheter de la laitue. Vous vous souvenez d'avoir vu quelque chose disant que de la laitue avait rendu des gens malades. Quels types de laitue devez-vous éviter lors de vos achats d'aujourd'hui?</li>
+  <li>Votre fille est allergique aux arachides. Elle a subi une réaction cet après-midi à la maison. Elle n'a mangé que les deux aliments suivants. Vérifiez si l'un ou l'autre en était la cause. Que feriez-vous?</li>
+  <li>Vous regardez cette chaise haute sur eBay. Vérifiez s'il y a des problèmes avec cette chaise pour décider si vous allez l'acheter ou non.</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/recalls-research-summary.html">Recalls and safety alerts</a></p>
+<p><a href="https://blogue.canada.ca/resumes-recherche/rappels-resume-recherche.html">Rappels et alertes de sécurité</a></p>

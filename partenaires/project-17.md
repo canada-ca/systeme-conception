@@ -2,17 +2,17 @@
 altLangPage: "https://design.canada.ca/partners/project-17.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for businesses to fulfill their GST/HST and payroll requirements."
-title: "GST/HST and payroll"
+description: "Faire en sorte qu’il soit plus facile pour les entreprises de respecter les exigences en matière de TPS/TVH et de retenues sur la paye."
+title: "TPS/TVH et retenues sur la paie"
 ---
-<p>Make it easier for businesses to fulfill their Goods and Services Tax (GST), Harmonized Sales Tax (HST) and payroll requirements.</p>
+<p>Faire en sorte qu’il soit plus facile pour les entreprises de respecter les exigences en matière de TPS/TVH et de retenues sur la paye.</p>
 <h2>Ministère partenaire</h2>
 <ul>
-  <li>Canada Revenue Agency (CRA)</li>
+  <li>Agence du revenu du Canada (ARC)</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>There are 5,400,000 active GST/HST accounts in Canada and 1,700,000 active Payroll accounts in Canada</li>
+  <li>Il y a 5&nbsp;400&nbsp;000 comptes de TPS/TVH actifs et 1&nbsp;700&nbsp;000 comptes de retenues sur la paie actifs au Canada</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -41,16 +41,16 @@ title: "GST/HST and payroll"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Can you pay your company's payroll Canada Pension Plan (CPP) and Employment Insurance deductions to CRA using Interac?</li>
-  <li>You issued an invoice, with GST included, on the last day of the quarter. Can you wait until the invoice is paid before sending in your payment?</li>
-  <li>You accidentally made an error when you submitted your last payroll return. You under-paid your source deductions to CRA by $350. Will you get fined?</li>
-  <li>If your Ontario company sells and ships a taxable product to a customer in Alberta, do you charge them GST or HST?</li>
-  <li>You mailed a cheque to pay your company’s payroll deductions. How would you confirm that the CRA received it?</li>
-  <li>You registered for GST for the first time on August 31, and will file your return annually. Your fiscal year ended October 31. Your net tax for September and October was $2,500. Will you need to pay your GST in instalments for the next fiscal year?</li>
-  <li>A business collects taxes from its employees’ pay. It sends the taxes it has collected to the government 4 times a year. When must it send the next payment by?</li>
-  <li>In 2018, what will be the maximum amount of CPP contributions you can deduct from an employee's pay?</li>
-  <li>You have recently registered for a GST account and have been collecting GST/HST. How would you find out when you have to pay it?</li>
-  <li>Your business operates seasonally, so you don't pay employees during the winter. Do you need to let CRA know this?</li>
+  <li>Pouvez-vous payer les retenues de votre entreprise pour le RPC et l’AE à l’ARC au moyen d’Interac?</li>
+  <li>Vous avez produit une facture incluant la TPS le dernier jour du trimestre. Pouvez-vous attendre que la facture soit payée avant d’envoyer votre paiement?</li>
+  <li>Vous avez accidentellement fait une erreur lorsque vous avez transmis votre dernière déclaration de retenues sur la paie. Vous avez sous-payé les retenues à la source à l’ARC de 350 $. Va-t-on vous imposer une amende?</li>
+  <li>Si votre entreprise ontarienne vend et expédie un produit imposable à un client de l’Alberta, vous faut-il lui facturer la TPS ou la TVH?</li>
+  <li>Vous avez posté un chèque pour payer les retenues sur la paie pour votre entreprise. Comment pouvez-vous confirmer que l’ARC l’a reçu?</li>
+  <li>Vous avez inscrit votre entreprise à la TPS pour la première fois le 31 août et vous produirez une déclaration chaque année. L’exercice financier s’est terminé le 31 octobre. Les taxes nettes en septembre et octobre étaient de 2 500 $. Devrez-vous payer la TPS en versements échelonnés au prochain exercice?</li>
+  <li>Une entreprise perçoit des retenues sur la paie de ses employés. Elle envoie les retenues perçues au gouvernement quatre fois l’an. Quand doit-elle envoyer le prochain paiement?</li>
+  <li>En 2018, quel sera le montant maximal des cotisations au RPC que vous pourrez déduire de la paie d’un employé?</li>
+  <li>Vous avez récemment inscrit votre entreprise à un compte de TPS et vous percevez la TPS/TVH. Comment saurez-vous à quel moment payer?</li>
+  <li>Votre entreprise fonctionne de façon saisonnière, de sorte que vous ne payez pas les employés pendant l’hiver. Devez-vous en informer l’ARC?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/taxfiling-research-summary.html">GST/HST and payroll</a></p>
+<p><a href="https://blogue.canada.ca/resumes-recherche/impots-resume-recherche.html">TPS/TVH et retenues sur la paie</a></p>

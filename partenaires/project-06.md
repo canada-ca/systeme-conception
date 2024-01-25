@@ -2,17 +2,17 @@
 altLangPage: "https://design.canada.ca/partners/project-06.html"
 date: 2023-12-08
 dateModified: 2023-12-08
-description: "Make it easier for Canadians to find and understand information related to the Canada Child Benefit."
-title: "Canada Child Benefit"
+description: "Permettre aux Canadiens de trouver et de comprendre plus facilement les renseignements liés à l’Allocation canadienne pour enfants."
+title: "Allocation canadienne pour enfants"
 ---
-<p>Make it easier for Canadians to find and understand information related to the Canada Child Benefit.</p>
+<p>Permettre aux Canadiens de trouver et de comprendre plus facilement les renseignements liés à l’Allocation canadienne pour enfants.</p>
 <h2>Ministère partenaire</h2>
 <ul>
-  <li>Canada Revenue Agency</li>
+  <li>Agence du revenu du Canada</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>Nearly 3.7 million Canadian families received close to $24 billion in annual Canada Child Benefit payments between July 2018 and June 2019</li>
+  <li>Près de 3,7 millions de familles canadiennes ont reçu près de 24 milliards de dollars en prestations annuelles de l’Allocation canadienne pour enfants entre juillet 2018 et juin 2019.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -41,14 +41,14 @@ title: "Canada Child Benefit"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>You didn't get your usual child benefit payment in June. Which of the reasons below would cause payments to stop?</li>
-  <li>Mart's second child was just born this month. How much Canada Child Benefit will Mart now get every month?</li>
-  <li>Exactly which day in December will your Canada Child Benefit payment be deposited?</li>
-  <li>Peter's kids are living with his ex. They will start coming to stay with Peter for 2 weekends per month. Should he apply for the Canada Child Benefit?</li>
-  <li>The kids usually live with Kom but are coming to live with Jad for the summer holidays. What steps should they take so Jad gets the Child Benefit for those months?</li>
-  <li>If you were separated and sharing custody, could the two of you choose what percentage of the Canada Child Benefit each of you will get?</li>
-  <li>Petra's July Child Benefit payment arrived and it is much less than she received in June. What is the most likely reason for this change?</li>
-  <li>Petra didn't work last year while she finished school. What is the one official thing she must do every year in order to keep getting Canada Child Benefit payments for her daughter?</li>
-  <li>Does it take longer to get your first Canada Child Benefit payment if you apply by mail than if you register/use My Account and apply online?</li>
-  <li>Is it safe to close your old bank account before your June 20 Child Benefit payment? You changed your direct deposit to a new bank account number on June 5.</li>
+  <li>Vous n’avez pas reçu vos prestations habituelles de l’Allocation canadienne pour enfants en juin. Parmi les raisons suivantes, lesquelles entraîneraient l’arrêt de vos prestations?</li>
+  <li>Le deuxième enfant de Mart est né ce mois-ci. Combien d’argent Mart recevra-t-il chaque mois grâce à l’Allocation canadienne pour enfants?</li>
+  <li>Précisément quel jour en décembre vos prestations de l’Allocation canadienne pour enfants seront-elles versées dans votre compte?</li>
+  <li>Les enfants de Peter vivent avec son ex-conjointe. Ils commenceront à habiter chez Peter deux fins de semaine par mois. Peter devrait-il demander l’Allocation canadienne pour enfants?</li>
+  <li>Les enfants vivent habituellement avec Kom, mais ils vont vivre avec Jad pendant les vacances d’été. Quelles mesures devraient-ils prendre pour que Jad reçoive les prestations de l’Allocation canadienne pour enfants pendant ces mois?</li>
+  <li>Si vous étiez séparés et aviez la garde partagée de vos enfants, pourriez-vous décider ensemble du pourcentage de l’Allocation canadienne pour enfants que chacun de vous recevra?</li>
+  <li>Petra a reçu ses prestations de l’Allocation canadienne pour enfants de juillet, qui sont bien inférieures à celles qu’elle a reçues en juin. Quelle est la raison la plus probable de ce changement?</li>
+  <li>Petra n’a pas travaillé l’année dernière alors qu’elle terminait ses études. Quelle est la principale mesure officielle qu’elle doit effectuer chaque année pour continuer à recevoir l’Allocation canadienne pour enfants pour sa fille?</li>
+  <li>Le délai pour obtenir votre premier versement de l’Allocation canadienne pour enfants est-il plus long si vous présentez votre demande par courrier que si vous vous inscrivez à Mon dossier et présentez votre demande en ligne?</li>
+  <li>Est-il conseillé de fermer votre ancien compte bancaire avant le versement de vos prestations de l’Allocation canadienne pour enfants du 20 juin? Vous avez modifié vos renseignements de dépôt direct pour un nouveau numéro de compte bancaire le 5 juin.</li>
 </ul>

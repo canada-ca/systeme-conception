@@ -3,18 +3,18 @@ altLangPage: "https://design.canada.ca/partners/project-08.html"
 date: 2024-01-02
 dateModified: 2024-01-02
 description: "Make it easier for Canadians to find the correct phone number or mailing address for specific services related to the Canada Revenue Agency (CRA)."
-title: "Contact the CRA"
+title: "Communiquer avec l’ARC"
 ---
-<p>Make it easier for Canadians to find the correct phone number or mailing address for specific services related to the Canada Revenue Agency (CRA).</p>
+<p>Permettre aux Canadiens de trouver plus facilement le bon numéro de téléphone ou la bonne adresse postale pour des services précis liés à l’ARC.</p>
 <h2>Ministère partenaire</h2>
 <ul>
-  <li>Canada Revenue Agency (CRA)</li>
+  <li>Agence du revenu du Canada (ARC)</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
-<p>Improving the usability of contact information for the Canada Revenue Agency will: </p>
+<p>L’amélioration de la facilité d’utilisation des coordonnées de l’ARC permettra de :</p>
 <ul class="lst-spcd">
-  <li>reduce the time Canadians spend looking for answers</li>
-  <li>free up call centre agents to work on more complex problems</li>
+  <li>réduire le temps que les Canadiens passent à chercher des réponses;</li>
+  <li>rlibérer les agents des centres d’appels afin qu’ils puissent travailler à résoudre des problèmes plus complexes.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -43,18 +43,17 @@ title: "Contact the CRA"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Your bank asked for an official proof of income statement. It's Sunday. Do you have to wait until Monday to call CRA to get this or is there a number you can call today?</li>
-  <li>You renewed your mortgage, and you moved all your bank accounts to a new bank. What number would you call to get your personal tax refund into your new bank account?</li>
-  <li>You are sponsoring your parents so they can immigrate to Canada. Immigration asked for copies of your CRA Notices of Assessment for the last 3 years. What number would you call to get them?</li>
-  <li>You had a baby a few weeks ago. While at the hospital, you applied for the Canada Child Benefit but you haven't heard back. What number would you call to find out what to expect?</li>
-  <li>You were expecting your personal tax refund to be deposited last week but it hasn't come. You only have a few minutes to call and it's Monday
-    - find the best phone number to find out when it will arrive.</li>
-  <li>You made a business tax payment 2 weeks ago, but it got applied to your personal tax account by mistake. Which number would you call to move the payment to the right account?</li>
-  <li>You owe more corporate income tax than you expected and can't pay what you owe. What number would you call to talk about whether you can pay it off over several months?</li>
-  <li>Your office got one of those threatening fake phone calls saying they were the Canada Revenue Agency. What number would you call to report it?</li>
-  <li>You are helping your aunt in China sell a house in Vancouver. She filled out this T2062 form and is ready to send it in as registered mail. What address should she send it to?</li>
-  <li>Your business needs to send in this RC1 form to get a payroll account. What address should you send it to from your office in Penticton BC?</li>
-  <li>You lost the security code that you need to login to your personal CRA account. Find out which phone number to call to get one.</li>
+  <li>Votre banque a demandé une preuve officielle de revenu. C’est dimanche. Devez-vous attendre jusqu’à lundi pour téléphoner à l’ARC ou y a-t-il un numéro où vous pouvez appeler aujourd’hui?</li>
+  <li>Vous avez renouvelé votre hypothèque et transféré tous vos comptes bancaires à une nouvelle banque. Quel numéro appelleriez-vous pour que votre remboursement d’impôt des particuliers soit versé dans votre nouveau compte bancaire?</li>
+  <li>Vous parrainez vos parents pour qu’ils puissent immigrer au Canada. Le ministère de l’Immigration a demandé des copies de vos avis de cotisation de l’ARC des trois dernières années. Quel numéro appelleriez-vous pour les obtenir?</li>
+  <li>Vous avez eu un bébé il y a quelques semaines. Pendant que vous étiez à l’hôpital, vous avez présenté une demande de prestations canadiennes pour enfants, mais vous n’avez pas encore eu de réponse. Quel numéro appelleriez-vous pour savoir à quoi vous attendre?</li>
+  <li>Vous vous attendiez à ce que votre remboursement d’impôt des particuliers soit déposé la semaine dernière, mais ce n’est pas le cas. Vous ne disposez que de quelques minutes pour téléphoner et c’est lundi - trouvez le meilleur numéro de téléphone pour savoir quand il sera déposé.</li>
+  <li>Vous avez effectué un paiement d’impôt des entreprises il y a deux semaines, mais il a été appliqué par erreur à votre compte d’impôt des particuliers. Quel numéro appelleriez-vous pour faire transférer le paiement au bon compte?</li>
+  <li>Vous devez plus d’impôt sur le revenu des sociétés que ce à quoi vous vous attendiez et vous ne pouvez pas payer la somme due. Quel numéro appelleriez-vous pour savoir si vous pouvez étaler le remboursement sur plusieurs mois?</li>
+  <li>Votre bureau a reçu l’un de ces faux appels téléphoniques menaçants provenant prétendument de l’Agence du revenu du Canada. Quel numéro appelleriez-vous pour le signaler?</li>
+  <li>Vous aidez votre tante qui est en Chine à vendre une maison à Vancouver. Elle a rempli le formulaire T2062 et est prête à l’envoyer par courrier recommandé. À quelle adresse devrait-elle l’envoyer?</li>
+  <li>Votre entreprise doit envoyer le formulaire RC1 pour obtenir un compte de retenue sur la paye. À quelle adresse devriez-vous l’envoyer depuis votre bureau de Penticton, en Colombie-Britannique?</li>
+  <li>Vous avez perdu le code de sécurité dont vous avez besoin pour vous connecter à votre dossier - particuliers à l’ARC. Trouvez le numéro de téléphone à composer pour en obtenir un autre.</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/cra-contact-us-research-summary.html">Contact the Canada Revenue Agency (CRA)</a></p>
+<p><a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">Communiquer avec l’ARC</a></p>
