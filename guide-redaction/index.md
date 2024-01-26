@@ -2162,7 +2162,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
                 <li><a href="#">Texte en hyperlien (en anglais seulement)</a></li>
                 <li><a href="#">Texte en hyperlien (en inuktitut seulement)</a></li>
                 <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a></li>
-                <p><strong>Exemple&nbsp;:&nbsp;</strong></p><span lang="en"><span lang="en">L’article 508 révisé, la norme EN 301 549 ou les <span lang=en><a href="https://www.w3.org/TR/WCAG/"></a>Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</span></p>
+                <p><strong>Exemple&nbsp;:&nbsp;</strong></p><span lang="en">L’article 508 révisé, la norme EN 301 549 ou les <span lang=en><a href="https://www.w3.org/TR/WCAG/"></a>Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</span></p>
               </ul>
               <p>Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français.</p>
               <ul>
