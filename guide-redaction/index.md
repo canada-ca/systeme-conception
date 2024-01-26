@@ -2148,12 +2148,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <p>Cette directive s'applique dans les situations suivantes&nbsp;:</p>
           <ul>
             <li><strong>Le lien renvoie à un document téléchargeable</strong>. Assurez vous d'inclure le <strong>type de fichier et sa taille</strong> entre les parenthèses&nbsp</li>
-              <p><strong>Exemple&nbsp;:&nbsp;</strong><span lang="en"><a href="https://www.asc-csa.gc.ca/pdf/fra/publications/2021-2022-etat-secteur-spatial-canadien-faits-chiffres-2020-et-2021-v2.pdf">État du secteur spatial canadien (PDF, 5,52 mo)</a></span></p>
+            <ul>
+              <li><strong>Exemple&nbsp;:&nbsp;</strong><span lang="en"><a href="https://www.asc-csa.gc.ca/pdf/fra/publications/2021-2022-etat-secteur-spatial-canadien-faits-chiffres-2020-et-2021-v2.pdf">État du secteur spatial canadien (PDF, 5,52 mo)</a></span></li>
+            </ul>
           </ul>
-        <ul>
+          <ul>
           <li><strong>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue.</strong>
               <ul>
-                <li>Ajoutez une parenthèse à l'intérieur du lien et spécifiez la langue du contenu lié, formatée comme suit : (Langue X seulement).</li>
+                <li>Ajoutez une parenthèse à l'intérieur du lien et spécifiez la langue du contenu lié, formatée comme suit&nbsp;: (Langue X seulement).</li>
                 <li>Ne traduisez pas le titre du contenu en renvoi.</li>
                 <li>Assurez-vous que la langue du renvoi soit spécifiée dans le code du lien.</li>
               </ul>
@@ -2162,7 +2164,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
                 <li><a href="#">Texte en hyperlien (en anglais seulement)</a></li>
                 <li><a href="#">Texte en hyperlien (en inuktitut seulement)</a></li>
                 <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a></li>
-                <p><strong>Exemple&nbsp;:&nbsp;</strong></p><span lang="en">L’article 508 révisé, la norme EN 301 549 ou les <span lang=en><a href="https://www.w3.org/TR/WCAG/"></a>Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</span></p>
+                <p><strong>Exemple&nbsp;:&nbsp;</strong>L’article 508 révisé, la norme EN 301 549 ou les <span lang=en><a href="https://www.w3.org/TR/WCAG/"></a>Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</span></p>
               </ul>
               <p>Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français.</p>
               <ul>
@@ -2171,9 +2173,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           </ul>
           <ul>
             <li><strong>Le lien renvoi à un contenu audio ou vidéo. </strong> Précisez la durée du contenu entre parenthèses.</li>
-          </ul>
-                  <ul>
-                    <p><strong>Exemple&nbsp;</strong>:&nbsp;<span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></p>
+                    <ul><li><strong>Exemple&nbsp;</strong>:&nbsp;<span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></li>
                   </ul>
                 </ul>
                   <ul>
