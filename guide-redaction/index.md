@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-01-23
+dateModified: 2024-01-26
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -2054,8 +2054,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp7-2">7.2 Rédiger des liens descriptifs</a>
               <ul>
                 <li><a href="#wp7-2-1">Mettre l'accent sur la tâche</a></li>
-                                    <li><a href="#wp7-2-2">Utiliser de parenthèses pour ajouter des informations contextuelles</a></li>
-
+                <li><a href="#wp7-2-2">Utiliser de parenthèses pour ajouter des informations contextuelles</a></li>
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Vérifier que les liens fonctionnent </a></li>
@@ -2148,11 +2147,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <p>Utilisez des parenthèses à l'intérieur d'un lien pour ajouter des informations contextuelles à propos du contenu en renvoi. Ne fournissez que les informations contextuelles nécessaires pour aider les utilisateurs à décider s'ils veulent poursuivre ou non.</p>
           <p>Cette directive s'applique dans les situations suivantes&nbsp;:</p>
           <ul>
-            <li><strong>Le lien renvoie à un document téléchargeable</strong>. Assurez vous d'inclure le <strong>type de fichier et sa taille</strong> entre les parenthèses&nbsp;:</li>
-            <ul>
-              <li><strong>Example&nbsp;:</strong><span lang="en"><a href="https://www.asc-csa.gc.ca/pdf/fra/publications/2021-2022-etat-secteur-spatial-canadien-faits-chiffres-2020-et-2021-v2.pdf">État du secteur spatial canadien (PDF, 5,52 mo)</a></span></li>
-            </ul>
-            <li><strong>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue.</strong>
+            <li><strong>Le lien renvoie à un document téléchargeable</strong>. Assurez vous d'inclure le <strong>type de fichier et sa taille</strong> entre les parenthèses&nbsp</li>
+              <p><strong>Exemple&nbsp;:&nbsp;</strong><span lang="en"><a href="https://www.asc-csa.gc.ca/pdf/fra/publications/2021-2022-etat-secteur-spatial-canadien-faits-chiffres-2020-et-2021-v2.pdf">État du secteur spatial canadien (PDF, 5,52 mo)</a></span></p>
+          </ul>
+        <ul>
+          <li><strong>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue.</strong>
               <ul>
                 <li>Ajoutez une parenthèse à l'intérieur du lien et spécifiez la langue du contenu lié, formatée comme suit : (Langue X seulement).</li>
                 <li>Ne traduisez pas le titre du contenu en renvoi.</li>
@@ -2167,19 +2166,23 @@ title: "Guide de rédaction du contenu du site Canada.ca"
               </ul>
               <p>Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français.</p>
               <ul>
-                <li>Vidéo&nbsp;:&nbsp;<a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a>
-                </li>
+                <li>Vidéo&nbsp;:&nbsp;<a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></li>
               </ul>
-            <li><strong>Le lien renvoi à un contenu audio ou vidéo. </strong> Précisez la durée du contenu entre parenthèses.</li>
-            <ul>
-              <li><strong>Exemple&nbsp;</strong>:&nbsp;<span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></li>
-            </ul>
-            <li><strong>Lorsque plus d’une de ces situations s’appliquent, ajoutez toutes les informations contextuelles nécessaires entre parenthèses.</strong></li>
-            <ul>
-              <li><strong>Exemple&nbsp;</strong>:&nbsp;<a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 KB, 4 pages)</a>
-              </li>
-            </ul>
           </ul>
+          <ul>
+            <li><strong>Le lien renvoi à un contenu audio ou vidéo. </strong> Précisez la durée du contenu entre parenthèses.</li>
+          </ul>
+                  <ul>
+                    <p><strong>Exemple&nbsp;</strong>:&nbsp;<span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></p>
+                  </ul>
+                </ul>
+                  <ul>
+                    <li><strong>Lorsque plus d’une de ces situations s’appliquent, ajoutez toutes les informations contextuelles nécessaires entre parenthèses.</strong></li>
+                    <ul>
+                      <li><strong>Exemple&nbsp;</strong>:&nbsp;<a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 KB, 4 pages)</a>
+                      </li>
+                    </ul>
+                  </ul>
           <h4>Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise</h4>
           <ul>
             <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
@@ -2211,30 +2214,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur le contenu interne&quot;, &quot;title&quot;: &quot;7.4 Créer des liens vers du contenu interne&quot;, &quot;url&quot;: &quot;https://conception.canada.ca/guide-redaction/#wp7-4&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-4&quot;}"> </div>
         </div>
       </section>
-      </section>
-      <section id="wp7-3">
-        <h3>7.3 Vérifier que les liens fonctionnent</h3>
-        <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
-        <h4>Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise</h4>
-        <ul>
-          <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-3">7.3 Make sure that links work</a></span></li>
-        </ul>
-        <div class="mrgn-tp-lg">
-          <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur la vérification des liens&quot;, &quot;title&quot;: &quot;7.3 Vérifier que les liens fonctionnent&quot;, &quot;url&quot;: &quot;https://conception.canada.ca/guide-redaction/#wp7-3&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-3&quot;}"> </div>
-        </div>
-      </section>
-
-      <section id="wp7-4">
-        <h3>7.4 Créer des liens vers du contenu interne</h3>
-        <p>En général, le contenu destiné au public ne devrait pas contenir de liens renvoyant vers du contenu accessible seulement sur les serveurs internes du gouvernement. Il arrive cependant qu'un contenu accessible au public s'adresse essentiellement aux employés de la fonction publique.</p>
-        <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</p>
-        <h4>Voyez comment la règle sur le contenu interne s'applique à un contenu de langue anglaise</h4>
-        <ul>
-          <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-4">7.4 Linking to internal-to-government content</a></span></li>
-        </ul>
-        <div class="mrgn-tp-lg">
-          <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur le contenu interne&quot;, &quot;title&quot;: &quot;7.4 Créer des liens vers du contenu interne&quot;, &quot;url&quot;: &quot;https://conception.canada.ca/guide-redaction/#wp7-4&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-4&quot;}"> </div>
-        </div>
       </section>
     </section>
 <section id="toc12">
