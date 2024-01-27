@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-01-26
+dateModified: 2024-01-29
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -47,7 +47,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>But du document</h2>
   <p>Le présent guide fait état des règles de rédaction et de révision du contenu français qui sera publié sur un site du gouvernement du Canada.&nbsp;Elles diffèrent des pratiques adaptées à l'imprimé afin d'appuyer les principes liés à l'accessibilité, à la lisibilité et à la facilité d'utilisation.</p>
   <p>Les règles comprises dans ce guide ont pour but de rendre le contenu Web facile à trouver, à comprendre et à utiliser pour toute personne, y compris celles qui ont un handicap physique ou cognitif.</p>
-  <p>Les règles décrites dans ce guide complémentent celles du <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">guide du rédacteur</a></cite>. S'il existe des divergences entre le présent guide, le guide du rédacteur ou toute autre ressource, le présent guide a préséance en ce qui concerne le contenu publié en ligne.</p>
+  <p>Les règles décrites dans ce guide complètent celles des <cite></cite><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></cite>, un outil de recherche  qui traite des difficultés liées à la grammaire, à la ponctuation et à d’autres règles d’écriture du français. 
+En cas de conflit entre le présent guide, les Clés de la rédaction ou toute autre ressource, le présent guide a préséance en ce qui concerne le contenu publié en ligne.
+</p>
   <p>À mesure que les tendances du Web et de la langue évolueront, nous mettrons ce guide à jour pour répondre aux besoins changeants de nos publics cibles.</p>
 </section>
 <section id="toc3">
@@ -818,13 +820,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>pour de longs passages, des citations, par exemple;</li>
       <li>dans les titres de page.</li>
     </ul>
-    <p>Consultez <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">Le guide du rédacteur</a></cite> dans les cas suivants&nbsp;:</p>
+    <p>Consultez <cite>les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></cite> dans les cas suivants&nbsp;:</p>
     <ul>
-      <li>les titres de livres, de journaux, de revues et d'œuvres d'art (article 5.2.1);</li>
-      <li>les titres de lois (article 5.2.2);</li>
-      <li>les mots ou abréviations en latin (article 5.3.3);</li>
-      <li>les mots en langue étrangère (article 5.3.4);</li>
-      <li>les lettres de l'alphabet (article 5.4.1).</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/mots-etrangers-italique-et-guillemets#italique">italique de l’article &laquo;&nbsp;mots étrangers (italique et guillemets)&nbsp;&raquo;</a></li>
+      <li><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/latin-locutions-latines-et-mots-latins">latin (locutions latines et mots latins)</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/lettres-de-lalphabet-employees-seules">lettres de l’alphabet employées seules</a></li>
+      <li><cite><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/operecitato-lococitato">opere citato/loco citato</a></cite></li>
+      <li><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/nom-latin-de-plante-et-danimal">nom latin de plante et d'animal</a></li>
+     <li><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique">noms propres (italique)</a></li>
+     <li><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/titres-de-lois-reglements-accords-chartes-decrets">titres de lois (règlements, accords, chartes, décrets, etc.)</a></li>
+     <li><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique#e">titres de lois et autres textes juridiques de l’article « noms propres (italique) »</a></li>
     </ul>
     <h4>Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise</h4>
     <ul>
