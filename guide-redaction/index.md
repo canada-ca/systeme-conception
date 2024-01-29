@@ -47,9 +47,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>But du document</h2>
   <p>Le présent guide fait état des règles de rédaction et de révision du contenu français qui sera publié sur un site du gouvernement du Canada.&nbsp;Elles diffèrent des pratiques adaptées à l'imprimé afin d'appuyer les principes liés à l'accessibilité, à la lisibilité et à la facilité d'utilisation.</p>
   <p>Les règles comprises dans ce guide ont pour but de rendre le contenu Web facile à trouver, à comprendre et à utiliser pour toute personne, y compris celles qui ont un handicap physique ou cognitif.</p>
-  <p>Les règles décrites dans ce guide complètent celles des <cite></cite><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></cite>, un outil de recherche  qui traite des difficultés liées à la grammaire, à la ponctuation et à d’autres règles d’écriture du français. 
-En cas de conflit entre le présent guide, les Clés de la rédaction ou toute autre ressource, le présent guide a préséance en ce qui concerne le contenu publié en ligne.
-</p>
+  <p>Les règles décrites dans ce guide complètent celles des <cite><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></cite>, un outil de recherche  qui traite des difficultés liées à la grammaire, à la ponctuation et à d’autres règles d’écriture du français. 
+En cas de conflit entre le présent guide, les <cite>Clés de la rédaction</cite>ou toute autre ressource, le présent guide a préséance en ce qui concerne le contenu publié en ligne.</p>
   <p>À mesure que les tendances du Web et de la langue évolueront, nous mettrons ce guide à jour pour répondre aux besoins changeants de nos publics cibles.</p>
 </section>
 <section id="toc3">
@@ -823,13 +822,13 @@ En cas de conflit entre le présent guide, les Clés de la rédaction ou toute a
     <p>Consultez <cite>les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></cite> dans les cas suivants&nbsp;:</p>
     <ul>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/mots-etrangers-italique-et-guillemets#italique">italique de l’article &laquo;&nbsp;mots étrangers (italique et guillemets)&nbsp;&raquo;</a></li>
-      <li><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/latin-locutions-latines-et-mots-latins">latin (locutions latines et mots latins)</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/latin-locutions-latines-et-mots-latins">latin (locutions latines et mots latins)</a></li>
     <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/lettres-de-lalphabet-employees-seules">lettres de l’alphabet employées seules</a></li>
-      <li><cite><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/operecitato-lococitato">opere citato/loco citato</a></cite></li>
-      <li><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/nom-latin-de-plante-et-danimal">nom latin de plante et d'animal</a></li>
-     <li><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique">noms propres (italique)</a></li>
-     <li><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/titres-de-lois-reglements-accords-chartes-decrets">titres de lois (règlements, accords, chartes, décrets, etc.)</a></li>
-     <li><a href"https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique#e">titres de lois et autres textes juridiques de l’article « noms propres (italique) »</a></li>
+      <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/operecitato-lococitato">opere citato/loco citato</a></cite></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/nom-latin-de-plante-et-danimal">nom latin de plante et d'animal</a></li>
+     <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique">noms propres (italique)</a></li>
+     <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/titres-de-lois-reglements-accords-chartes-decrets">titres de lois (règlements, accords, chartes, décrets, etc.)</a></li>
+     <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique#e">titres de lois et autres textes juridiques de l’article « noms propres (italique) »</a></li>
     </ul>
     <h4>Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise</h4>
     <ul>
@@ -2999,6 +2998,7 @@ En cas de conflit entre le présent guide, les Clés de la rédaction ou toute a
   <ul>
     <li><a href="http://ccat-ctac.org/CMFiles/Publication/LiteracyBook-FR.pdf">L'alphabétisation et l'accès à la justice administrative au Canada</a>, Conseil des tribunaux administratifs canadiens</li>
     <li><a href="http://www.spl.gouv.qc.ca/ministreetspl/actualites/detail/article/bonnes-pratiques/">Bonnes pratiques de la communication écrite dans les démarches en ligne</a>, Secrétariat à la politique linguistique et par la Délégation générale à la langue française et aux langues de France</li>
+    <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction, Ressource du Portail linguistique du Canada, Gouvernement du Canada</a></cite></li>
     <li><a href="http://publications.europa.eu/code/fr/fr-000500.htm">Code de rédaction interinstitutionnel</a>, Commission Européenne</li>
     <li><a href="http://www.publications.gc.ca/site/fra/9.639707/publication.html">Communiquer avec les aînés&nbsp;: conseils et techniques</a>, Santé Canada</li>
     <li><a href="http://www.spiria.com/fr/blogue/sites-web/comprendre-laccessibilite-web">Comprendre l'accessibilité Web</a>, SPIRIA</li>
@@ -3013,7 +3013,6 @@ En cas de conflit entre le présent guide, les Clés de la rédaction ou toute a
     <li><a href="http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?t1=1&amp;id=4208">Impératif et infinitif</a>, Office québécois de la langue française</li>
     <li><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-FR.pdf">Introduction à la justice administrative et au langage clair</a>, Conseil des tribunaux administratifs canadiens</li>
     <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a> (en anglais seulement), Government Digital Service, GOV.UK</li>
-    <li><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">Le guide du rédacteur</a>, Bureau de la traduction</li>
     <li><a href="http://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-fra.htm">Les compétences au Canada&nbsp;: Premiers résultats du Programme pour l'évaluation internationale des compétences des adultes</a>, Statistique Canada</li>
     <li><a href="http://www.vortexsolution.com/lexique-web-montreal.html">Lexique Web</a>, Vortex solution</li>
     <li><a href="http://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a> (en anglais seulement), ABC Life Literacy Canada</li>
