@@ -1,12 +1,12 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/update-history.html"
 date: 2023-12-21
-dateModified: 2023-12-21
+dateModified: 2024-01-31
 description: "Les modifications apportés au Guide de rédaction du contenu du site Canada.ca."
 layout: default
-title: "Guide de rédaction du contenu du site Canada.ca"
+title: "Historique des mises à jour du Guide de rédaction du contenu du site Canada.ca"
 ---
-<p>Cette liste contient tous les modifications apportés au Guide de rédaction du contenu du site Canada.ca depuis le 25 mai 2023.</p>
+<p>L’historique des mises à jour contient toutes les modifications apportées au guide depuis le 25 mai 2023</p>
 <h2>le 29 janvier 2024</h2>
 <ul class="mrgn-tp-lg">
   <li>À compter de janvier 2024, Le guide du rédacteur et  le Canadian Style et ont été archivés. Leur contenu a été intégré à Writing Tips Plus et aux Clés de la rédaction. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:</li>
