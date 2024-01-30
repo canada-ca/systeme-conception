@@ -7,7 +7,7 @@ layout: default
 title: "Historique des mises à jour du Guide de rédaction du contenu du site Canada.ca"
 ---
 <p>L’historique des mises à jour contient toutes les modifications apportées au guide depuis le 25 mai 2023</p>
-<h2>le 29 janvier 2024</h2>
+<h2>le 31 janvier 2024</h2>
 <ul class="mrgn-tp-lg">
   <li>À compter de janvier 2024, Le guide du rédacteur et  le Canadian Style et ont été archivés. Leur contenu a été intégré à Writing Tips Plus et aux Clés de la rédaction. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:</li>
 <ul>
