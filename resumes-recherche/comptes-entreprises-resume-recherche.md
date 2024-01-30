@@ -1,8 +1,8 @@
 ---
 altLangPage: "https://design.canada.ca/research-summaries/business-account-research-summary.html"
-date: 2019-02-04
-dateModified: 2019-02-04
-description: ""
+date: 2018-05-04
+dateModified: 2018-05-04
+description: "Aider les travailleurs et travailleuses autonomes et les petites entreprises du Canada à trouver des réponses et à résoudre des problèmes sur Canada.ca.Date : Mars 2018"
 language: fr
 title: "Inscription des entreprises et tenue des comptes – ARC"
 ---

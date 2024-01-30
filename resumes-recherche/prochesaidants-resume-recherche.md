@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/caregiving-research-summary.html"
 date: 2018-09-06
 dateModified: 2018-09-06
-description: ""
+description: "Faciliter la recherche et la compréhension des prestations d’assurance-emploi, et l’accès à celles-ci. Date : 2018"
 language: fr
 title: "Prestations d'assurance-emploi pour proches aidants"
 ---

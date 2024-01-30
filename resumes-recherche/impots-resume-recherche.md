@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/taxfiling-research-summary.html"
 date: 2018-07-23
 dateModified: 2018-07-23
-description: ""
+description: "Aider les entreprises canadiennes à s’acquitter de leurs obligations en matière de taxe sur les produits et services (TPS), de taxe de vente harmonisée (TVH) et de retenues sur la paye. Date : Novembre 2017"
 language: fr
 title: "Déclaration de la TPS/TVH et de retenues sur la paie"
 ---

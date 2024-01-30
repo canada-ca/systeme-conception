@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/find-job-research-summary.html"
 date: 2019-05-23
 dateModified: 2019-05-23
-description: ""
+description: "Faciliter la recherche d’emplois gouvernementaux sur Canada.ca pour les Canadiens et Canadiennes.Date : Été 2018"
 language: fr
 title: "Trouver un emploi"
 ---

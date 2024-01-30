@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/wayfinding-on-canada-ca.html"
 date: 2022-12-21
 dateModified: 2022-12-21
-description: "Le projet Orientation dans Canada.ca a étudié la façon dont les gens naviguent sur Canada.ca. Les résultats ont mené à plusieurs changements de conception pour améliorer la navigation sur les sites Web du gouvernement du Canada."
+description: "Comprendre comment les personnes naviguent sur Canada.ca. Les conclusions ont mené à plusieurs changements de conception qui améliorent la navigation sur l’ensemble des sites Web du gouvernement du Canada. Date : 2021"
 language: fr
 title: "Orientation dans Canada.ca"
 ---

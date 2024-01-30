@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/travel-advice-research-summary.html"
 date: 2019-11-01
 dateModified: 2019-11-01
-description: ""
+description: "Aider les personnes qui pourraient visiter le Canada à bien comprendre quels sont les documents requis pour entrer au pays. Date : 2017"
 language: fr
 title: "Conseils aux voyageurs et avertissements"
 ---

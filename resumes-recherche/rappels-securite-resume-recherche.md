@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/recalls-safety-alerts-research-summary.html"
 date: 2020-08-07
 dateModified: 2020-08-07
-description: ""
+description: "Aider Santé Canada à se préparer à la mise en œuvre de fonctionnalités de recherche dans une nouvelle infrastructure de publication fondée sur Drupal pour le système de gestion des rappels et des avis de sécurité, fonctionnalités qui seront lancées au cours de l’exercice 2020 à 2021. Date : Automne 2019"
 language: fr
 title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxième série)"
 ---

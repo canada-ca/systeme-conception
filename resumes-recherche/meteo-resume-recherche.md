@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/weather-research-summary.html"
 date: 2018-07-23
 dateModified: 2018-07-23
-description: ""
+description: "Aider les Canadiens et Canadiennes à comprendre les avis relatifs aux conditions météorologiques dangereuses. Date : Juillet 2017"
 language: fr
 title: "Renseignements météorologiques"
 ---

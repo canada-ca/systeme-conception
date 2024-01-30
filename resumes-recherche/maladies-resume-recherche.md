@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/diseases-research-summary.html"
 date: 2018-05-10
 dateModified: 2018-05-10
-description: ""
+description: "Aider les Canadiens et Canadiennes à faire des choix éclairés en matière de vaccination. Date : Automne 2017"
 language: fr
 title: "Maladies et vaccination"
 ---

@@ -1,8 +1,8 @@
 ---
 altLangPage: "https://design.canada.ca/research-summaries/trust.html"
-date: 2023-08-23
-dateModified: 2023-08-23
-description: ""
+date: 2022-08-23
+dateModified: 2022-08-23
+description: "Déterminer lesquels des éléments de conception du gouvernement du Canada inspirent le plus de confiance par rapport à la marque Canada.ca. Date : 2022"
 language: fr
 title: "Éléments de conception de Canada.ca"
 ---

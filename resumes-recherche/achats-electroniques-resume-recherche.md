@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/electronic-procurement-research-summary.html"
 date: 2020-11-20
 dateModified: 2020-11-20
-description: ""
+description: "Aider à développer le prototype d’un nouveau site Web d’approvisionnement. Nous avons mis l’accent sur les besoins des entreprises nouvellement arrivées dans le domaine de l’approvisionnement au gouvernement. Nous avons fait des tests auprès de petites et moyennes entreprises pas encore inscrites comme fournisseurs du gouvernement du Canada. Date : Printemps/été 2019"
 language: fr
 title: "Portail de solution d'achats électroniques (SAE)"
 ---

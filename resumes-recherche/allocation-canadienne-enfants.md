@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/canada-child-benefit.html"
 date: 2023-08-23
 dateModified: 2023-08-23
-description: ""
+description: "Faciliter la recherche en ligne des réponses aux questions principales sur l’Allocation canadienne pour enfants. Date : 2019"
 language: fr
 title: "Allocation canadienne pour enfants"
 ---

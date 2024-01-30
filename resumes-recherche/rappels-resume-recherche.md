@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/recalls-research-summary.html"
 date: 2018-10-18
 dateModified: 2018-10-18
-description: ""
+description: "Aider les Canadiens et Canadiennes à trouver et à comprendre les informations sur les rappels d’aliments et de produits et sur les avis de sécurité. Date : Printemps 2018"
 language: fr
 title: "Rappels et avis de sécurité"
 ---

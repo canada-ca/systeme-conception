@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/maternity-parental-research-summary.html"
 date: 2019-08-23
 dateModified: 2019-08-23
-description: ""
+description: "Rendre les prestations de maternité et les prestations parentales de l’assurance-emploi plus faciles à trouver et à comprendre pour les Canadiens et Canadiennes qui prévoient agrandir leur famille. Date : 2019"
 language: fr
 title: "Prestations de maternité et prestations parentales de l'assurance-emploi"
 ---

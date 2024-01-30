@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/student-loans-research-summary.html"
 date: 2019-08-22
 dateModified: 2019-08-22
-description: ""
+description: "Améliorer le taux de réussite des étudiants et étudiantes cherchant des prêts et bourses. Date : Automne 2018"
 language: fr
 title: "Optimisation des prêts et des bourses aux étudiants"
 ---

@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/citizenship-test-research-summary.html"
 date: 2019-03-29
 dateModified: 2019-03-29
-description: ""
+description: "Aider les personnes à se préparer à l’examen pour la citoyenneté canadienne. Date : Été 2018"
 language: fr
 title: "Projet d'optimisation de l'examen pour la citoyenneté"
 ---

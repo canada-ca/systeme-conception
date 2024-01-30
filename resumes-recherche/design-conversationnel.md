@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/conversation-design.html"
 date: 2021-06-30
 dateModified: 2021-06-30
-description: "Nous avons élaboré un assistant de recherche de numéros de téléphone ainsi qu'un agent expérimental qui fonctionnait à la fois comme robot conversationnel (*chatbot*) sur un écran et comme agent vocal, afin de pouvoir comparer les processus de conception et les résultats de chacun."
+description: "En savoir plus sur la façon dont divers types d’interaction peuvent aider les utilisateurs et utilisatrices à trouver des informations fournies par le gouvernement. Nous avons conçu un assistant de recherche de numéros de téléphone ainsi qu’un agent expérimental qui fonctionnait à la fois comme robot conversationnel (chatbot) sur un écran et comme agent vocal, afin de pouvoir comparer les processus de conception et les résultats de chacun. Date : Hiver 2019"
 language: fr
 title: "Fournir des services gouvernementaux grâce au design conversationnel"
 ---

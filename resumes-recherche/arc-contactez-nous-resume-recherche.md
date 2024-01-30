@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/cra-contact-us-research-summary.html"
 date: 2019-11-01
 dateModified: 2019-11-01
-description: ""
+description: "Améliorer le taux de réussite des tâches en ligne en aidant les utilisateurs et utilisatrices à trouver des informations. À l’aide des données probantes des centres d’appels et des données analytiques Web, le Bureau de la transformation numérique (BTN) s’est associé à l’Agence du revenu du Canada pour travailler à améliorer les résultats. Date : 2019"
 language: fr
 title: "Communiquer avec l'ARC"
 ---
