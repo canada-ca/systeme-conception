@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2023-12-11
+dateModified: 2024-01-23
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -695,6 +695,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp4-4">4.4 Abréviations, acronymes et référence</a>
               <ul>
                 <li><a href="#wp4-4-1">Citer des exemples</a></li>
+                <li><a href="#wp4-4-2">Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</a></li>
               </ul>
             </li>
             <li><a href="#wp4-5">4.5 Forme contractée</a></li>
@@ -891,7 +892,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <strong>Au lieu de</strong>&nbsp;: c.-à-d.&nbsp;</p>
       <p>Vous pouvez utiliser ces abréviations quand l'espace est restreint (par exemple, dans un tableau ou dans un schéma).</p>
     </section>
-    <h4>Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise</h4>
+    <section id="wp4-4-2">
+      <h4>Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</h4>
+      <p>Suivez les consignes des <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite></a>&nbsp;:</p>
+      <ul>
+        <li>Comment <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/docteur.html">employer le titre &laquo;&nbsp;docteur&nbsp;&raquo; ou &laquo;&nbsp;docteure&nbsp;&raquo; et son abréviation</a>.</li>
+        <li>Comment se référer aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-certificats-abreviations.html">grades et doctorats</a> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-et-grades-universitaires.html">diplômes et grades universitaires</a>.</li>
+        <li><a href="https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html">Formules épistolaires</a>&nbsp;: comment s’adresser à des personnes spécifiques de façon appropriée et respectueuse.</li>
+      </ul>
+    </section>
+    <h4>Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise.</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-4">4.4 Abbreviations and acronyms</a></span></li>
     </ul>
@@ -2086,8 +2096,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <section id="wp7-2">
     <h3>7.2 Rédiger des liens descriptifs</h3>
-    <p>Le texte du lien doit décrire clairement le contenu auquel le lien donne accès. Il est plus facile pour une personne d'accomplir une tâche lorsque le contenu auquel renvoie le lien correspond à ce qu'elle s'attend à y trouver. Assurez-vous que le texte est assez descriptif pour indiquer vers quel contenu le lien permettra d'accéder.</p>
-    <p>Il n'est pas nécessaire que le texte du lien soit identique au titre de la page de destination pour se conformer aux <cite>Règles pour l'accessibilité des contenus Web</cite>. Il suffit que les principaux mots-clés du lien correspondent au titre de la page afin d'indiquer à la personne qu'elle est au bon endroit.</p>
+    <p>Le texte du lien doit décrire clairement le contenu auquel le lien donne accès. Il est plus facile pour une personne d'accomplir une tâche lorsque le contenu auquel renvoie le lien correspond à ce qu'elle s'attend à y trouver.</p>
     <p>Pour rédiger des liens descriptifs et utiles&nbsp;:</p>
     <ul>
       <li>utilisez les premiers mots du titre de la page de destination ou son titre complet s'il est assez descriptif;</li>
