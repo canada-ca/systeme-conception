@@ -872,7 +872,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>écrivez &laquo;&nbsp;le programme&nbsp;&raquo;, &laquo;&nbsp;le plan&nbsp;&raquo;, &laquo;&nbsp;le fonds&nbsp;&raquo;, etc., avec une lettre initiale minuscule, au lieu de répéter le terme en toutes lettres ou d'utiliser son acronyme ou une abréviation;</li>
       <li>employez une abréviation comme référence secondaire seulement si les données d'analyse ou les tests d'utilisation révèlent qu'elle est bien connue et couramment utilisée comme mot-clé dans les moteurs de recherche.</li>
     </ul>
-    <p>Il faut toujours écrire une abréviation au long la première fois que vous l'utilisez sur une page Web.</p>
     <h4>Exemples d'énoncés sans abréviation ni acronyme</h4>
     <p><strong>Écrivez</strong>&nbsp;: Il y a 15 centres de contact avec la clientèle dans l'ensemble du Canada.<br>
       <strong>Au lieu de</strong>&nbsp;: Il y a 15 CCC dans l'ensemble du Canada.</p>
