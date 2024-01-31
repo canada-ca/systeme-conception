@@ -85,8 +85,8 @@ title: Working with partners to improve task success on Canada.ca
       <div class="card-container">
         <h3>Conseils aux voyageurs et avertissements</h3>
         <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: Aider les Canadiens et Canadiennes à trouver et à comprendre les conseils aux voyageurs et voyageuses sur Canada.ca.</p>
-        <p><strong>Partners</strong>&nbsp;: Affaires mondiales Canada (AMC); Immigration, Réfugiés et Citoyenneté Canada (IRCC); Agence de la santé publique du Canada (ASPC); Santé Canada (SC); Agence des services frontaliers du Canada (ASFC)</p>
         <p>Date: 2019</p>
+        <p><strong>Partners</strong>&nbsp;: Affaires mondiales Canada (AMC); Immigration, Réfugiés et Citoyenneté Canada (IRCC); Agence de la santé publique du Canada (ASPC); Santé Canada (SC); Agence des services frontaliers du Canada (ASFC)</p>
       </div>
       </a></div>
   </div>
