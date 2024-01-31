@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-20.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Help visitors to Canada clearly understand what documentation is required to enter."
+description: "Aider les personnes qui pourraient visiter le Canada à bien comprendre quels sont les documents requis pour entrer au pays."
 title: "Documents de voyage"
 ---
 <p>Aider les visiteurs potentiels du Canada à comprendre clairement les documents requis pour entrer au pays.</p>
