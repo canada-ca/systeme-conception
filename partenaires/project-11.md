@@ -1,9 +1,9 @@
 ---
 altLangPage: "https://design.canada.ca/partners/project-11.html"
-date: 2024-01-03
-dateModified: 2024-01-03
+date: 2018-01-03
+dateModified: 2018-01-03
 description: "Make it easier for Canadian students applying, managing and accessing details of their student loans and grants."
-title: "Prêts et bourses pour les étudiants"
+title: "Améliorer le taux de réussite des étudiants et étudiantes cherchant des prêts et bourses. Date : Automne 2018"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les étudiants canadiens de présenter une demande de prêts et de bourses, de les gérer et d'accéder aux détails connexes.</p>
 <h2>Ministère partenaire</h2>
