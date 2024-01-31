@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-08.html"
 date: 2024-01-02
 dateModified: 2024-01-02
-description: "Make it easier for Canadians to find the correct phone number or mailing address for specific services related to the Canada Revenue Agency (CRA)."
+description: "Améliorer le taux de réussite des tâches en ligne en aidant les utilisateurs et utilisatrices à trouver des informations. À l’aide des données probantes des centres d’appels et des données analytiques Web, le Bureau de la transformation numérique (BTN) s’est associé à l’Agence du revenu du Canada pour travailler à améliorer les résultats. Date : 2019"
 title: "Communiquer avec l'ARC"
 ---
 <p>Permettre aux Canadiens de trouver plus facilement le bon numéro de téléphone ou la bonne adresse postale pour des services précis liés à l'ARC.</p>
