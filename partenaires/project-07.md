@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-07.html"
 date: 2023-01-01
 dateModified: 2023-01-01
-description: "Permettre aux Canadiens de trouver et de comprendre plus facilement les conseils et les avis du gouvernement du Canada en matière de voyage."
+description: "Aider les Canadiens et Canadiennes à trouver et à comprendre les conseils aux voyageurs et voyageuses sur Canada.ca. Date : 2019"
 title: "Travel advice and advisories"
 ---
 <p>Permettre aux Canadiens de trouver et de comprendre plus facilement les conseils et les avis du gouvernement du Canada en matière de voyage.</p>
