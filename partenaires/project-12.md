@@ -1,8 +1,8 @@
 ---
 altLangPage: "https://design.canada.ca/partners/project-02.html"
-date: 2024-01-03
-dateModified: 2024-01-03
-description: "Faciliter l'accès des Canadiens aux emplois gouvernementaux sur Canada.ca."
+date: 2018-01-03
+dateModified: 2018-01-03
+description: "Faciliter la recherche d’emplois gouvernementaux sur Canada.ca pour les Canadiens et Canadiennes.Date : Été 2018"
 title: "Trouver un emploi"
 ---
 <p>Faciliter l'accès des Canadiens aux emplois gouvernementaux sur Canada.ca.</p>
