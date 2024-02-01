@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-01-23
+dateModified: 2024-01-31
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -859,20 +859,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <section id="wp4-4">
     <h3>4.4 Abréviations, acronymes et référence</h3>
-    <p>N'utilisez pas une abréviation, un acronyme ou un sigle, sauf s'il est mieux connu du grand public que le mot dans sa forme au long. Par exemple&nbsp;:</p>
+    <p>L’abréviation est la forme réduite d’un terme. Les acronymes et les sigles sont tous deux des types d’abréviations. Ils sont composés des initiales d’une suite de mots et s’écrivent sans espace.</p>
+    <p>Écrivez le terme au long à la première mention, suivi de son abréviation entre parenthèses. Par exemple :</p>
     <ul>
-      <li>REER</li>
-      <li>CELI</li>
-      <li>T4</li>
+      <li>Agence spatiale canadienne (ASC)</li>
+      <li>Équipe d’intervention en cas de catastrophe (EICC)</li>
+      <li>Ontario (Ont.)</li>
     </ul>
+    <p>Après avoir introduit l’abréviation, utilisez-la sans le terme écrit au long.</p>
     <h4>Cherchez des mots-clés courants</h4>
     <p>Consultez vos données d'analyse pour savoir quels mots-clés votre public cible utilise pour trouver votre contenu.</p>
-    <p>Si un terme formé de plusieurs mots revient plus d'une fois dans une page Web, écrivez-le au long la première fois qu'il figure sur la page. Lorsque vous y faites référence par la suite&nbsp;:</p>
-    <ul>
-      <li>écrivez &laquo;&nbsp;le programme&nbsp;&raquo;, &laquo;&nbsp;le plan&nbsp;&raquo;, &laquo;&nbsp;le fonds&nbsp;&raquo;, etc., avec une lettre initiale minuscule, au lieu de répéter le terme en toutes lettres ou d'utiliser son acronyme ou une abréviation;</li>
-      <li>employez une abréviation comme référence secondaire seulement si les données d'analyse ou les tests d'utilisation révèlent qu'elle est bien connue et couramment utilisée comme mot-clé dans les moteurs de recherche.</li>
-    </ul>
-    <p>Il faut toujours écrire une abréviation au long la première fois que vous l'utilisez sur une page Web.</p>
+    <p>Si un terme formé de plusieurs mots revient plus d'une fois dans une page Web, écrivez-le au long la première fois qu'il figure sur la page. Lorsque vous y faites référence par la suite écrivez &laquo;&nbsp;le programme&nbsp;&raquo;, &laquo;&nbsp;le plan&nbsp;&raquo;, &laquo;&nbsp;le fonds&nbsp;&raquo;, etc., avec une lettre initiale minuscule, au lieu de répéter le terme en toutes lettres ou d'utiliser son acronyme ou une abréviation.</p>
     <h4>Exemples d'énoncés sans abréviation ni acronyme</h4>
     <p><strong>Écrivez</strong>&nbsp;: Il y a 15 centres de contact avec la clientèle dans l'ensemble du Canada.<br>
       <strong>Au lieu de</strong>&nbsp;: Il y a 15 CCC dans l'ensemble du Canada.</p>
@@ -1144,7 +1141,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>conserve son sens, même hors contexte;</li>
       <li>est suivi d'un texte et non d'un autre titre de section, sauf s'il introduit une liste des sections de la page;</li>
       <li>ne se termine pas par un signe de ponctuation;</li>
-      <li>n'inclut pas d'abréviation, sauf si elle est mieux connue du public cible que l'appellation au long;</li>
+      <li>n'inclut pas d'abréviation;</li>
       <li>n'inclut pas de message promotionnel (comme une affirmation subjective) puisqu'il pourrait être déroutant pour les gens et faire en sorte qu'ils cessent de naviguer jusqu'à la page.</li>
     </ul>
     <section id="wp5-1-1">
