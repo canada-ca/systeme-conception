@@ -500,6 +500,35 @@
           }
         ]
       }
+    },
+    {
+      "scope": {
+        "path": "resumes-recherche/*.md"
+      },
+      "values": {
+        "section-title": "Résumé de recherche",
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
+          {
+            "title": "Résumés de recherche",
+            "link": "https://conception.canada.ca/resumes-recherche/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "resumes-recherche/index.md"
+      },
+      "values": {
+        "section-title": "",
+        "breadcrumbs": [{
+          "title": "À propos de Canada.ca",
+          "link": "https://conception.canada.ca/a-propos/"
+        }]
+      }
     }, {
       "scope": {
         "path": "a-propos"
