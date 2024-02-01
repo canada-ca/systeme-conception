@@ -866,10 +866,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Équipe d’intervention en cas de catastrophe (EICC)</li>
       <li>Ontario (Ont.)</li>
     </ul>
+    <p>Après avoir introduit l’abréviation, utilisez-la sans le terme écrit au long.</p>
     <h4>Cherchez des mots-clés courants</h4>
-    <p>Consultez vos données d'analyse pour savoir quels mots-clés votre public cible utilise pour trouver votre contenu.
-      Si un terme formé de plusieurs mots revient plus d'une fois dans une page Web, écrivez-le au long la première fois qu'il figure sur la page. Lorsque vous y faites référence par la suite écrivez &laquo;&nbsp;le programme&nbsp;&raquo;, &laquo;&nbsp;le plan&nbsp;&raquo;, &laquo;&nbsp;le fonds&nbsp;&raquo;, etc., avec une lettre initiale minuscule, au lieu de répéter le terme en toutes lettres ou d'utiliser son acronyme ou une abréviation. </p>
-    <p>Il faut toujours écrire une abréviation au long la première fois que vous l'utilisez sur une page Web.</p>
+    <p>Consultez vos données d'analyse pour savoir quels mots-clés votre public cible utilise pour trouver votre contenu.</p>
+    <p>Si un terme formé de plusieurs mots revient plus d'une fois dans une page Web, écrivez-le au long la première fois qu'il figure sur la page. Lorsque vous y faites référence par la suite écrivez &laquo;&nbsp;le programme&nbsp;&raquo;, &laquo;&nbsp;le plan&nbsp;&raquo;, &laquo;&nbsp;le fonds&nbsp;&raquo;, etc., avec une lettre initiale minuscule, au lieu de répéter le terme en toutes lettres ou d'utiliser son acronyme ou une abréviation.</p>
     <h4>Exemples d'énoncés sans abréviation ni acronyme</h4>
     <p><strong>Écrivez</strong>&nbsp;: Il y a 15 centres de contact avec la clientèle dans l'ensemble du Canada.<br>
       <strong>Au lieu de</strong>&nbsp;: Il y a 15 CCC dans l'ensemble du Canada.</p>
