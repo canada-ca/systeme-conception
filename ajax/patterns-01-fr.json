@@ -2,7 +2,7 @@
 ---
 {
   "data": [{
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/allocation-canadienne-enfants.html\">Allocation canadienne pour enfants</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/allocation-canadienne-enfants.html\">Allocation canadienne pour enfants</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Ce résumé de recherche définit le contexte du projet de recherche dans le cadre duquel le modèle de navigation de style métro a été créé et décrit tous les points qui ont été pris en considération.",
       "WHENTOUSE": "",
