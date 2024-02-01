@@ -297,7 +297,7 @@ title: "Pied de page général"
   <p>Nous avons mis à jour le pied de page général de Canada.ca pour le faire correspondre à une nouvelle stratégie de
     navigation générale issue du projet de recherche Orientation dans Canada.ca.</p>
   <ul>
-    <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca">Résumé de la recherche sur l’orientation dans Canada.ca</a><br>
+    <li><a href="{{ site.url }}/resumes-recherche/orientation-dans-canada-ca">Résumé de la recherche sur l’orientation dans Canada.ca</a><br>
       Ce résumé explique le contexte de la recherche et les constatations qui ont mené aux mises à jour de la conception.</li>
     <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a><br>
       Ce billet de blogue explique les changements proposés à la conception de Canada.ca et comment ils seront mis en œuvre.</li>

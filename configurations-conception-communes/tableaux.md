@@ -475,12 +475,12 @@ title: Tableaux
 
 <ul>
  <li>
-  <a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">
+  <a href="{{ site.url }}/resumes-recherche/arc-contactez-nous-resume-recherche.html">
    Résumé de recherche : Communiquer avec l’ARC
   </a>
  </li>
  <li>
-  <a href="https://blogue.canada.ca/resumes-recherche/rappels-resume-recherche.html">
+  <a href="{{ site.url }}/resumes-recherche/rappels-resume-recherche.html">
    Résumé de projet : Rappels et avis de sécurité
   </a>
  </li>

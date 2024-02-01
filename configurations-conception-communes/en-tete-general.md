@@ -386,7 +386,7 @@ title: "En-tête général"
   <h4>Projet Orientation dans Canada.ca</h4>
   <p>Nous avons mis à jour l’en-tête général de Canada.ca pour l’harmoniser à une nouvelle stratégie de navigation globale issue du projet de recherche Orientation.</p>
   <ul>
-    <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche&nbsp;: Orientation dans Canada.ca</a><br>
+    <li><a href="{{ site.url }}/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche&nbsp;: Orientation dans Canada.ca</a><br>
       Résumé qui explique le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception</li>
     <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
       Billet de blogue qui explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre</li>
