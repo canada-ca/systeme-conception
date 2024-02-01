@@ -476,7 +476,7 @@ title: Tableaux
 <ul>
  <li>
   <a href="{{ site.url }}/resumes-recherche/arc-contactez-nous-resume-recherche.html">
-   Résumé de recherche : Communiquer avec l’ARC
+   Résumé de recherche&nbsp;: Communiquer avec l’ARC
   </a>
  </li>
  <li>
