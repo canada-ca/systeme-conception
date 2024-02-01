@@ -238,7 +238,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <div class="col-md-8">
         <figure><img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive" id="fig1" src="/guide-redaction/images/pyramide-fr.png" />
           <figcaption>
-            <p><strong>Figure 1:</strong> pyramide inversée pour l’organisation du contenu</p>
+            <p><strong>Figure 1&laquo;:</strong> pyramide inversée pour l’organisation du contenu</p>
           </figcaption>
         </figure>
       </div>
@@ -264,7 +264,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </li>
       <li><strong>Liens connexes</strong>&nbsp;:
         <ul>
-          <li>ajouter des liens seulement s'ils concernent le contenu et appuient la tâche.</li>
+          <li>ajouter des liens seulement s'ils concernent le contenu et appuient la tâche (par exemple, des lois ou des publications).</li>
         </ul>
       </li>
     </ol>
