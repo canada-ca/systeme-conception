@@ -238,12 +238,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <div class="col-md-8">
         <figure><img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive" id="fig1" src="/guide-redaction/images/pyramide-fr.png" />
           <figcaption>
-            <p><strong>Figure 1:</strong> inverted pyramid for ordering content on a web page</p>
+            <p><strong>Figure 1 :</strong> pyramide inversée pour l’organisation du contenu
+</p>
           </figcaption>
         </figure>
       </div>
     </div>
-    <p>The inverted pyramid for ordering content on a web page in Figure 1 is divided into four sections.  The most important content for task completion is at the top, the widest part of the pyramid.   The relevance of content for task completion flows down the inverted pyramid toward the peak at the bottom.</p>
+    <p>La pyramide inversée est divisée en quatre parties. Le contenu le plus important pour la réalisation des tâches se trouve au sommet, la plus grosse partie de la pyramide. La pyramide inversée représente le degré décroissant de pertinence du contenu pour la réalisation des tâches au fur et à mesure que l’on se rapproche du sommet (au bas).</p>
     <ol>
       <li><strong>Information la plus importante</strong>&nbsp;:
         <ul>
