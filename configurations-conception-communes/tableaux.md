@@ -481,7 +481,7 @@ title: Tableaux
  </li>
  <li>
   <a href="{{ site.url }}/resumes-recherche/rappels-resume-recherche.html">
-   Résumé de projet : Rappels et avis de sécurité
+   Résumé de projet&nbsp;: Rappels et avis de sécurité
   </a>
  </li>
 </ul>
