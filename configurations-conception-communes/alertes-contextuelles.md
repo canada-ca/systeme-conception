@@ -372,7 +372,7 @@ title: Alertes contextuelles
   </li>
   <li>
    <a href="{{ site.url }}/resumes-recherche/conseils-voyageurs-resume-recherche.html">
-    Résumé de recherche : Conseils aux voyageurs et avertissements
+    Résumé de recherche&nbsp;: Conseils aux voyageurs et avertissements
    </a>
   </li>
   <li>
