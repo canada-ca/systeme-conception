@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-01-31
+dateModified: 2024-02-01
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -234,38 +234,40 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>d'orienter la personne vers les renseignements dont elle a besoin pour accomplir une tâche;</li>
       <li>de placer les renseignements complémentaires à la fin du texte.</li>
     </ul>
-    <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 1</strong> </figcaption>
-      <img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive center-block" id="fig1" src="/guide-redaction/images/fig-01-fra.jpg">
-      <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
-        <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'">Figure 1 - Version textuelle</summary>
-        <p>Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés.</p>
+    <div class="row mrgn-tp-lg mrgn-bttm-md">
+      <div class="col-md-8">
+        <figure><img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive" id="fig1" src="/guide-redaction/images/pyramide-fr.png" />
+          <figcaption>
+            <p><strong>Figure 1</strong>&nbsp;: pyramide inversée pour l’organisation du contenu</p>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+    <p>La pyramide inversée est divisée en quatre parties. Le contenu le plus important pour la réalisation des tâches se trouve au sommet, la plus grosse partie de la pyramide. La pyramide inversée représente le degré décroissant de pertinence du contenu pour la réalisation des tâches au fur et à mesure que l’on se rapproche du sommet (au bas).</p>
+    <ol>
+      <li><strong>Information la plus importante</strong>&nbsp;:
         <ul>
-          <li>Premièrement&nbsp;:
-            <ul>
-              <li>commencer chaque page Web par l'idée, l'étape ou l'information la plus importante.</li>
-            </ul>
-          </li>
-          <li>Deuxièmement&nbsp;:
-            <ul>
-              <li>ajouter les détails et les tâches par ordre d'importance;</li>
-              <li>mettre tout le contenu lié à la tâche au centre de la page;</li>
-              <li>utiliser des liens pour orienter les gens vers les renseignements et les tâches essentielles.</li>
-            </ul>
-          </li>
-          <li>Troisièmement&nbsp;:
-            <ul>
-              <li>inclure des renseignements pertinents à l'intention des publics cibles qui désirent en apprendre davantage ou qui ont une connaissance approfondie du sujet ou du service.</li>
-            </ul>
-          </li>
-          <li>Quatrièmement&nbsp;:
-            <ul>
-              <li>ajouter des liens seulement s'ils concernent le contenu et appuient la tâche.</li>
-            </ul>
-          </li>
+          <li>commencer chaque page Web par l'idée, l'étape ou l'information la plus importante.</li>
         </ul>
-      </details>
-    </figure>
+      </li>
+      <li><strong>Tâches priorisées</strong>&nbsp;:
+        <ul>
+          <li>ajouter les détails et les tâches par ordre d'importance;</li>
+          <li>mettre tout le contenu lié à la tâche au centre de la page;</li>
+          <li>utiliser des liens pour orienter les gens vers les renseignements et les tâches essentielles.</li>
+        </ul>
+      </li>
+      <li><strong>Plus d'information</strong>&nbsp;:
+        <ul>
+          <li>inclure des renseignements pertinents à l'intention des publics cibles qui désirent en apprendre davantage ou qui ont une connaissance approfondie du sujet ou du service.</li>
+        </ul>
+      </li>
+      <li><strong>Liens connexes</strong>&nbsp;:
+        <ul>
+          <li>ajouter des liens seulement s'ils concernent le contenu et appuient la tâche (par exemple, des lois ou des publications).</li>
+        </ul>
+      </li>
+    </ol>
     <section id="wp2-1-1">
       <h4>Aller droit au but</h4>
       <p>Évitez les renseignements généraux et les messages d'accueil (par exemple, &laquo;&nbsp;bienvenue sur notre site&nbsp;&raquo;). Ces messages relèguent au second plan le contenu dont la personne a besoin pour accomplir sa tâche.</p>
@@ -2997,3 +2999,4 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the Web</a> (en anglais seulement), Nielsen Norman Group</li>
   </ul>
 </section>
+
