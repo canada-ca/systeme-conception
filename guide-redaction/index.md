@@ -2174,8 +2174,7 @@ En cas de conflit entre le présent guide, les <cite>Clés de la rédaction</cit
               <ul>
                 <li>Vidéo&nbsp;:&nbsp;<a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></li>
               </ul>
-          </ul>
-          <ul>
+            <ul>
             <li><strong>Le lien renvoi à un contenu audio ou vidéo. </strong> Précisez la durée du contenu entre parenthèses.</li>
                     <ul><li><strong>Exemple&nbsp;</strong>:&nbsp;<span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></li>
                   </ul>
@@ -2194,7 +2193,7 @@ En cas de conflit entre le présent guide, les <cite>Clés de la rédaction</cit
           <div class="mrgn-tp-lg">
             <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de liens descriptifs", "title": "7.2 Rédiger des liens descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
           </div>
-      </section>
+          </section>
       <section id="wp7-3">
         <h3>7.3 Vérifier que les liens fonctionnent</h3>
         <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
@@ -2217,8 +2216,6 @@ En cas de conflit entre le présent guide, les <cite>Clés de la rédaction</cit
         <div class="mrgn-tp-lg">
           <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur le contenu interne&quot;, &quot;title&quot;: &quot;7.4 Créer des liens vers du contenu interne&quot;, &quot;url&quot;: &quot;https://conception.canada.ca/guide-redaction/#wp7-4&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-4&quot;}"> </div>
         </div>
-      </section>
-      </section>
     </section>
 <section id="toc12">
   <h2>Refonte de contenu Web</h2>
