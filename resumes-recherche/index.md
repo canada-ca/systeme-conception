@@ -2,12 +2,12 @@
 altLangPage: "https://design.canada.ca/research-summaries/"
 date: 2024-01-17
 dateModified: 2024-01-17
-description: ""
+description: "Résumés des recherches menées par le Bureau de la transformation numérique (BTN) et par les ministères fédéraux."
 language: fr
 title: "Résumés de recherche"
 ---
-<p>Summaries of the research the Digital Transformation Office (DTO) and federal departments undertook to make it easier for people to find and understand Government of Canada information and services on Canada.ca.</p>
-<h2>List of research summaries</h2>
+<p>Résumés des recherches menées par le Bureau de la transformation numérique (BTN) et par les ministères fédéraux. Le but de cette recherche était d’aider les gens à trouver et à comprendre les renseignements et services offerts par le gouvernement du Canada sur Canada.ca</p>
+<h2>Liste de résumés de recherche</h2>
 <ul class="mrgn-tp-lg">
   <li><a href="/resumes-recherche/maladies-resume-recherche.html">Renseignements sur les maladies et la vaccination</a></li>
   <li><a href="/resumes-recherche/meteo-resume-recherche.html">Renseignements météorologiques</a></li>

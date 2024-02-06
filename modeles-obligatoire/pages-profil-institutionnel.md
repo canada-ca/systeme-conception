@@ -1004,7 +1004,7 @@ ul.feeds-cont li a {
 <section>
   <h2 id="recherche">Recherche</h2>
   <p>L'utilisation de la version bêta de la page d'accueil institutionnelle a été testée dans le cadre de 2 projets d'optimisation réalisés avec du contenu de l'Agence de revenu du Canada.</p>
-  <p><a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">Résumé de recherche&nbsp;: Communiquer avec l’ARC</a></p>
+  <p><a href="{{ site.url }}/resumes-recherche/arc-contactez-nous-resume-recherche.html">Résumé de recherche&nbsp;: Communiquer avec l’ARC</a></p>
 </section>
 <section>
   <h2 id="changements">Derniers changements</h2>

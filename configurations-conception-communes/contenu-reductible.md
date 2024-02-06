@@ -304,8 +304,8 @@ title: Afficher/masquer - Configuration de conception de Canada.ca
    (blogue)
   </li>
   <li>
-   <a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">
-    Résumé de recherche : Communiquer avec l’ARC
+   <a href="{{ site.url }}/resumes-recherche/arc-contactez-nous-resume-recherche.html">
+    Résumé de recherche&nbsp;: Communiquer avec l’ARC
    </a>
   </li>
  </ul>
