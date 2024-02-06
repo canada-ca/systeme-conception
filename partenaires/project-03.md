@@ -2,8 +2,8 @@
 altLangPage: "https://design.canada.ca/partners/project-03.html"
 date: 2023-12-08
 dateModified: 2023-12-08
-description: "We explored navigation and design options to help people get to and use the services they need, while maintaining confidence and trust in Canada.ca."
-title: "Solution d'approvisionnement électronique"
+description: "Aider à développer le prototype d’un nouveau site Web d’approvisionnement. Nous avons mis l’accent sur les besoins des entreprises nouvellement arrivées dans le domaine de l’approvisionnement au gouvernement. Nous avons fait des tests auprès de petites et moyennes entreprises pas encore inscrites comme fournisseurs du gouvernement du Canada. Date : Printemps/été 2019"
+title: "Portail de solution d’achats électroniques (SAE)"
 ---
 <p>Permettre aux entreprises Canadiennes de trouver et de comprendre plus facilement les occasions d'affaires et les conseils du gouvernement.</p>
 <h2>Ministère partenaire</h2>

@@ -1,8 +1,8 @@
 ---
 altLangPage: "https://design.canada.ca/partners/project-19.html"
-date: 2024-01-03
-dateModified: 2024-01-03
-description: "Faire en sorte qu'il soit plus facile pour les Canadiens de comprendre les avis concernant les conditions météorologiques dangereuses."
+date: 2017-01-03
+dateModified: 2017-01-03
+description: "Aider les Canadiens et Canadiennes à comprendre les avis relatifs aux conditions météorologiques dangereuses. Date : Juillet 2017"
 title: "Renseignements météorologiques"
 ---
 <p>Make it easier for Canadians to understand notifications about dangerous weather conditions.</p>

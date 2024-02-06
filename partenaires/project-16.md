@@ -1,8 +1,8 @@
 ---
 altLangPage: "https://design.canada.ca/partners/project-16.html"
-date: 2024-01-03
-dateModified: 2024-01-03
-description: "Faire en sorte qu'il soit plus facile pour les Canadiens de comprendre l'admissibilité aux prestations pour proches aidants."
+date: 2019-01-03
+dateModified: 2019-01-03
+description: "Rendre les prestations de maternité et les prestations parentales de l’assurance-emploi plus faciles à trouver et à comprendre pour les Canadiens et Canadiennes qui prévoient agrandir leur famille. Date : 2019"
 title: "Prestations spéciales d'assurance-emploi"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les Canadiens de comprendre l'admissibilité aux prestations pour proches aidants.</p>

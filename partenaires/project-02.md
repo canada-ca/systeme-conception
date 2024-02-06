@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-02.html"
 date: 2020-11-20
 dateModified: 2023-12-08
-description: "Our objective was to make it easier for medical device manufacturers and other firms subject to Canada's medical device regulations to find and understand the information they need."
+description: "Faciliter la recherche et la compréhension des exigences réglementaires pour les parties prenantes soumises au Règlement sur les instruments médicaux du Canada. Date : 2020."
 title: "Instruments médicaux"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les fabricants d'instruments médicaux et les autres entreprises assujetties à la réglementation canadienne sur les instruments médicaux de trouver et de comprendre l'information dont ils ont besoin pour se conformer aux exigences réglementaires.</p>

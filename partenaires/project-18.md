@@ -1,8 +1,8 @@
 ---
 altLangPage: "https://design.canada.ca/partners/project-18.html"
-date: 2024-01-03
-dateModified: 2024-01-03
-description: "Faire en sorte qu'il soit plus facile pour les Canadiens d'interpréter les lignes directrices en matière d'immunisation."
+date: 2017-01-03
+dateModified: 2017-01-03
+description: "Aider les Canadiens et Canadiennes à faire des choix éclairés en matière de vaccination. Date : Automne 2017"
 title: "Renseignements sur les maladies et la vaccination"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les Canadiens d'interpréter les lignes directrices en matière d'immunisation.</p>
