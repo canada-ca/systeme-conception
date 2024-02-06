@@ -3,7 +3,7 @@ altLangPage: "https://design.canada.ca/partners/project-07.html"
 date: 2023-01-01
 dateModified: 2023-01-01
 description: "Permettre aux Canadiens de trouver et de comprendre plus facilement les conseils et les avis du gouvernement du Canada en matière de voyage."
-title: "Travel advice and advisories"
+title: "Conseils aus voyageurs et avertissements"
 ---
 <p>Permettre aux Canadiens de trouver et de comprendre plus facilement les conseils et les avis du gouvernement du Canada en matière de voyage.</p>
 <h2>Ministères partenaires</h2>
@@ -65,7 +65,7 @@ title: "Travel advice and advisories"
   <li>Marco se rend au Cambodge pour son travail. Le gouvernement canadien a-t-il émis un avertissement aux voyageurs pour ce pays?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html">Conseils aux voyageurs et avertissements</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html">Conseils aux voyageurs et avertissements</a></p>
 <aside class="wb-fnote" role="note">
   <h2 class="wb-inv" id="fn-voyage">Notes de bas de page: Conseils aux voyageurs et avertissement</h2>
   <dl>

@@ -53,4 +53,4 @@ title: "Gestion des comptes d'entreprise"
   <li>Vous exploitez une entreprise à Penticton, en Colombie-Britannique, et vous devez envoyer des documents au centre fiscal de l'ARC qui traite votre déclaration de revenus des sociétés. Trouvez l'adresse postale que vous devriez utiliser.</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/comptes-entreprises-resume-recherche.html">Gestion des comptes d'entreprise</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/comptes-entreprises-resume-recherche.html">Gestion des comptes d'entreprise</a></p>

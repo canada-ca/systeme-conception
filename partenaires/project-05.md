@@ -31,4 +31,4 @@ title: "Recherche de rappels et d'avis de sécurité"
   <li>Vous regardez ce haut-parleur Bluetooth sur eBay. Vérifier s'il y a des problèmes avec cet appareil. Devriez-vous poser des questions au vendeur sur un détail en particulier?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/rappels-securite-resume-recherche.html">Recherche de rappels et d'avis de sécurité</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/rappels-securite-resume-recherche.html">Recherche de rappels et d'avis de sécurité</a></p>

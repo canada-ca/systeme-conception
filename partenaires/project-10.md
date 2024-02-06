@@ -3,7 +3,7 @@ altLangPage: "https://design.canada.ca/partners/project-10.html"
 date: 2024-01-03
 dateModified: 2024-01-03
 description: "Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business."
-title: "Business start-up activities"
+title: "Activités de démarrage d'entreprise"
 ---
 <p>Combiner les renseignements provenant de l'ensemble des ministères afin que les Canadiens puissent obtenir facilement le portrait d'ensemble des éléments dont le gouvernement du Canada a besoin au moment de démarrer une entreprise.</p>
 <h2>Ministère partenaire</h2>

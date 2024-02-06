@@ -56,4 +56,4 @@ title: "Renseignements sur les maladies et la vaccination"
   </li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/maladies-resume-recherche.html">Renseignements sur les maladies et la vaccination</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/maladies-resume-recherche.html">Renseignements sur les maladies et la vaccination</a></p>

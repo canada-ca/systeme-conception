@@ -51,4 +51,4 @@ title: "Renseignements météorologiques"
   <li>Vous êtes le gestionnaire d'un terrain de golf à Ottawa – le ciel est sombre et il y a aujourd'hui un tournoi majeur. Déterminez (oui/non) si vous devriez évacuer le terrain en raison de risques d'éclairs dans les 10 à 20 minutes.</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/meteo-resume-recherche.html">Renseignements météorologiques/a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/meteo-resume-recherche.html">Renseignements météorologiques</a></p>

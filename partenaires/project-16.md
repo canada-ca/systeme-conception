@@ -50,4 +50,4 @@ title: "Prestations spéciales d'assurance-emploi"
   <li>L'époux d'Irina est tombé gravement malade. Sa meilleure amie Jane s'absentera du travail pour prendre soin de lui. Comme Jane n'est pas un membre de la famille, que devra faire Irina pour appuyer la demande de support de Jane?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/prochesaidants-resume-recherche.html">Prestations spéciales d'assurance-emploi</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/prochesaidants-resume-recherche.html">Prestations spéciales d'assurance-emploi</a></p>

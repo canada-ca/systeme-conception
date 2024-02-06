@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-13.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Make it easier for applicants to study for the Canadian citizenship test."
+description: "Aider les personnes à se préparer à l’examen pour la citoyenneté canadienne."
 title: "Se préparer à passer l'examen de citoyenneté"
 ---
 <p>Make it easier for applicants to study for the Canadian citizenship test.</p>
@@ -51,4 +51,4 @@ title: "Se préparer à passer l'examen de citoyenneté"
     Que devez-vous emporter avec vous lorsque vous allez passer l'examen de citoyenneté?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/examen-citoyennete-resume-recherche.html">Se préparer à passer l'examen de citoyenneté</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/examen-citoyennete-resume-recherche.html">Se préparer à passer l'examen de citoyenneté</a></p>

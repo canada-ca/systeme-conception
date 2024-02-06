@@ -52,4 +52,4 @@ title: "Trouver un emploi"
   <li>Vous avez entendu qu'il y a un poste de charpentier disponible à Greenwood, en Nouvelle-Écosse, pour travailler avec le gouvernement fédéral. Est-ce que ce poste requiert le bilinguisme, anglais et français?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://blogue.canada.ca/resumes-recherche/trouver-emploi-resume-recherche.html">Trouver un emploi</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/trouver-emploi-resume-recherche.html">Trouver un emploi</a></p>
