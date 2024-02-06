@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-15.html"
 date: 2018-01-03
 dateModified: 2018-01-03
-description: "Aider les Canadiens et Canadiennes à trouver et à comprendre les informations sur les rappels d’aliments et de produits et sur les avis de sécurité. Date : Printemps 2018"
+description: "Projet partenaire : Aider les Canadiens et Canadiennes à trouver et à comprendre les informations sur les rappels d’aliments et de produits et sur les avis de sécurité. Date : Printemps 2018"
 title: "Rappels et alertes de sécurité"
 ---
 <p>Permettre aux Canadiens de trouver et de comprendre plus facilement les rappels et les avis de sécurité pour les aliments, les produits de santé, les véhicules et les sièges d'auto.</p>

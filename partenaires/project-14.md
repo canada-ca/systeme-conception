@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-14.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Aider les travailleurs et travailleuses autonomes et les petites entreprises du Canada à trouver des réponses et à résoudre des problèmes sur Canada.ca.Date : Mars 2018"
+description: "Projet partenaire : Aider les travailleurs et travailleuses autonomes et les petites entreprises du Canada à trouver des réponses et à résoudre des problèmes sur Canada.ca.Date : Mars 2018"
 title: "Gestion des comptes d'entreprise"
 ---
 <p>Veiller à ce que les Canadiens puissent ouvrir et gérer plus facilement leurs comptes d'entreprise auprès de l'ARC.</p>

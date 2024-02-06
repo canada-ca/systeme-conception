@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-13.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Aider les personnes à se préparer à l’examen pour la citoyenneté canadienne."
+description: "Projet partenaire : Aider les personnes à se préparer à l’examen pour la citoyenneté canadienne."
 title: "Se préparer à passer l'examen de citoyenneté"
 ---
 <p>Make it easier for applicants to study for the Canadian citizenship test.</p>

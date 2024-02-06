@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-09.html"
 date: 2024-01-02
 dateModified: 2024-01-02
-description: "Make it easier for Canadian parents to understand and apply for maternity and parental benefits."
+description: "Projet partenaire : Make it easier for Canadian parents to understand and apply for maternity and parental benefits."
 title: "Rendre les prestations de maternité et les prestations parentales de l’assurance-emploi plus faciles à trouver et à comprendre pour les Canadiens et Canadiennes qui prévoient agrandir leur famille. Date : 2019"
 ---
 <p>Rendre les prestations de maternité et les prestations parentales plus faciles à comprendre et à demander pour les parents canadiens.</p>

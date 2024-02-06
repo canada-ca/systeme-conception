@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-11.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Améliorer le taux de réussite des étudiants et étudiantes cherchant des prêts et bourses."
+description: "Projet partenaire : Améliorer le taux de réussite des étudiants et étudiantes cherchant des prêts et bourses."
 title: "Prêts et bourses pour les étudiants"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les étudiants canadiens de présenter une demande de prêts et de bourses, de les gérer et d'accéder aux détails connexes.</p>

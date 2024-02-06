@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-01.html"
 date: 2020-11-20
 dateModified: 2023-12-08
-description: "Comprendre comment les personnes naviguent sur Canada.ca. Les conclusions ont mené à plusieurs changements de conception qui améliorent la navigation sur l’ensemble des sites Web du gouvernement du Canada. Date : 2021"
+description: "Projet partenaire : Comprendre comment les personnes naviguent sur Canada.ca. Les conclusions ont mené à plusieurs changements de conception qui améliorent la navigation sur l’ensemble des sites Web du gouvernement du Canada. Date : 2021"
 title: "Orientation et repérage"
 ---
 <p>Tous les ministères adoptent le look de Canada.ca. La conception doit s'adapter à leurs besoins. Nous avons étudié les options de navigation et de conception pour aider les gens à se rendre aux services dont ils ont besoin et à les utiliser, tout en conservant leur confiance dans Canada.ca.</p>

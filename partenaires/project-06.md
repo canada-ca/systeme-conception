@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-06.html"
 date: 2023-12-08
 dateModified: 2023-12-08
-description: "Faciliter la recherche en ligne des réponses aux questions principales sur l’Allocation canadienne pour enfants. Date : 2019"
+description: "Projet partenaire : Faciliter la recherche en ligne des réponses aux questions principales sur l’Allocation canadienne pour enfants. Date : 2019"
 title: "Allocation canadienne pour enfants"
 ---
 <p>Permettre aux Canadiens de trouver et de comprendre plus facilement les renseignements liés à l'Allocation canadienne pour enfants.</p>

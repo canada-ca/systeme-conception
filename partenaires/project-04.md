@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-04.html"
 date: 2023-12-08
 dateModified: 2023-12-08
-description: "Aider les fonctionnaires à trouver et à comprendre les renseignements sur leur paye. Date : 2019."
+description: "Projet partenaire : Aider les fonctionnaires à trouver et à comprendre les renseignements sur leur paye. Date : 2019."
 title: "Rémunération à la fonction publique"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les employés de la fonction publique de trouver et de comprendre les renseignements de paye.</p>

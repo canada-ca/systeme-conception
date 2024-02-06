@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/partners/project-17.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Aider les entreprises canadiennes à s’acquitter de leurs obligations en matière de taxe sur les produits et services (TPS), de taxe de vente harmonisée (TVH) et de retenues sur la paye. Date : Novembre 2017"
+description: "Projet partenaire : Aider les entreprises canadiennes à s’acquitter de leurs obligations en matière de taxe sur les produits et services (TPS), de taxe de vente harmonisée (TVH) et de retenues sur la paye. Date : Novembre 2017"
 title: "TPS/TVH et retenues sur la paie"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les entreprises de respecter les exigences en matière de TPS/TVH et de retenues sur la paye.</p>
