@@ -2196,8 +2196,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#">Texte en hyperlien (en inuktitut seulement)</a></li>
             <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a></li>
             <p><strong>Exemple&nbsp;:&nbsp;</strong>L’article 508 révisé, la norme EN 301 549 ou les <span lang=en><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></p>
-            <p>Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français.Example &nbsp;:&nbsp;<a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></p>
-          </ul>
+            <p>Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français. Example &nbsp;:&nbsp;<a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></p>
       </ul>
       <ul>
         <li><strong>Le lien renvoi à un contenu audio ou vidéo. </strong> Précisez la durée du contenu entre parenthèses.</li>
@@ -2219,7 +2218,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <div class="mrgn-tp-lg">
         <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de liens descriptifs", "title": "7.2 Rédiger des liens descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
       </div>
-    </div>
     <section id="wp7-3">
       <h3>7.3 Vérifier que les liens fonctionnent</h3>
       <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
