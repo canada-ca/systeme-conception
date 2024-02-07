@@ -2062,7 +2062,7 @@ En cas de conflit entre le présent guide, les <cite>Clés de la rédaction</cit
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Vérifier que les liens fonctionnent </a></li>
-            <li><a href="#wp7-4">7.4 Créer des liens vers du contenu externe</a></li>
+            <li><a href="#wp7-4">7.4 Créer des liens vers du contenu interne</a></li>
           </ul>
         </div>
       </div>
