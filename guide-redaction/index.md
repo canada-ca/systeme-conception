@@ -47,7 +47,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>But du document</h2>
   <p>Le présent guide fait état des règles de rédaction et de révision du contenu français qui sera publié sur un site du gouvernement du Canada.&nbsp;Elles diffèrent des pratiques adaptées à l'imprimé afin d'appuyer les principes liés à l'accessibilité, à la lisibilité et à la facilité d'utilisation.</p>
   <p>Les règles comprises dans ce guide ont pour but de rendre le contenu Web facile à trouver, à comprendre et à utiliser pour toute personne, y compris celles qui ont un handicap physique ou cognitif.</p>
-  <p>Les règles décrites dans ce guide complémentent celles du <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">guide du rédacteur</a></cite>. S'il existe des divergences entre le présent guide, le guide du rédacteur ou toute autre ressource, le présent guide a préséance en ce qui concerne le contenu publié en ligne.</p>
+  <p>Les règles décrites dans ce guide complètent celles des <cite><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></cite>, un outil de recherche qui traite des difficultés liées à la grammaire, à la ponctuation et à d’autres règles d’écriture du français.
+    En cas de conflit entre le présent guide, les <cite>Clés de la rédaction</cite> ou toute autre ressource, le présent guide a préséance en ce qui concerne le contenu publié en ligne.</p>
   <p>À mesure que les tendances du Web et de la langue évolueront, nous mettrons ce guide à jour pour répondre aux besoins changeants de nos publics cibles.</p>
 </section>
 <section id="toc3">
@@ -274,7 +275,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Écrivez des énoncés directs.</p>
       <h5>Exemple d'énoncé direct</h5>
       <p><strong>Écrivez</strong>&nbsp;<strong></strong>: Présentez votre passeport à l'agent à l'aéroport. <br>
-        <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l'agent qui vous accueille à l'aéroport.</p>
+        <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l'agent qui vous accueille à l'aéroport.
+      </p>
     </section>
     <h4>Voyez comment la règle sur la pyramide inversée s'applique à un contenu de langue anglaise</h4>
     <ul>
@@ -289,15 +291,20 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Remplacez les mots longs par des mots courts, simples et de tous les jours que la plupart des gens comprennent et utilisent. Les mots simples ont 2 syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
     <h4>Exemples d'utilisation de mots simples et courants</h4>
     <p><strong>Écrivez</strong>&nbsp;: demander<br>
-      <strong>Au lieu de</strong>&nbsp;: faire une requête</p>
+      <strong>Au lieu de</strong>&nbsp;: faire une requête
+    </p>
     <p><strong>Écrivez</strong>&nbsp;: assez de<br>
-      <strong>Au lieu de</strong>&nbsp;: un nombre suffisant de</p>
+      <strong>Au lieu de</strong>&nbsp;: un nombre suffisant de
+    </p>
     <p><strong>Écrivez</strong>&nbsp;: si<br>
-      <strong>Au lieu de</strong>&nbsp;: dans la mesure où</p>
+      <strong>Au lieu de</strong>&nbsp;: dans la mesure où
+    </p>
     <p><strong>Écrivez</strong>&nbsp;: avant<br>
-      <strong>Au lieu de</strong>&nbsp;: préalablement</p>
+      <strong>Au lieu de</strong>&nbsp;: préalablement
+    </p>
     <p><strong>Écrivez</strong>&nbsp;: tous les 2 ans<br>
-      <strong>Au lieu de</strong>&nbsp;: bisannuellement</p>
+      <strong>Au lieu de</strong>&nbsp;: bisannuellement
+    </p>
     <h4>Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.2 Use simple and common words</a></span></li>
@@ -319,18 +326,22 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Dans une phrase à la voix passive, il n'est pas toujours facile de savoir qui (ou quoi) fait l'action.</p>
       <h5>Exemples de constructions active et passive</h5>
       <p><strong>Construction active</strong>&nbsp;: Vous devrez peut-être fournir une preuve de citoyenneté.<br>
-        <strong>Construction passive</strong>&nbsp;: Une preuve de citoyenneté sera peut-être exigée.</p>
+        <strong>Construction passive</strong>&nbsp;: Une preuve de citoyenneté sera peut-être exigée.
+      </p>
     </section>
     <section id="wp2-3-2">
       <h4>Forme positive ou négative</h4>
       <p>Lorsque c'est possible, dites ce que la personne peut ou doit faire plutôt que ce qu'elle ne peut ou ne doit pas faire. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
       <h5>Exemples de formes positives et négatives</h5>
       <p><strong>Forme positive</strong>&nbsp;: Vous pouvez déduire une partie du montant à la&nbsp;ligne 147 de votre déclaration de revenus.<br>
-        <strong>Forme négative</strong>&nbsp;: Vous ne pouvez déduire qu'une partie du montant de la&nbsp;ligne 147 de votre déclaration de revenus.</p>
+        <strong>Forme négative</strong>&nbsp;: Vous ne pouvez déduire qu'une partie du montant de la&nbsp;ligne 147 de votre déclaration de revenus.
+      </p>
       <p><strong>Forme positive</strong>&nbsp;: La procédure sera efficace.<br>
-        <strong>Double négation</strong>&nbsp;: La procédure ne sera pas inefficace.</p>
+        <strong>Double négation</strong>&nbsp;: La procédure ne sera pas inefficace.
+      </p>
       <p><strong>Forme positive</strong>&nbsp;: Vous pouvez demander une déduction pour un enfant à charge né en 1972 ou avant si cet enfant a une déficience mentale ou physique.<br>
-        <strong>Double négation</strong>&nbsp;: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n'ait une déficience mentale ou physique.</p>
+        <strong>Double négation</strong>&nbsp;: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n'ait une déficience mentale ou physique.
+      </p>
       <p class="mrgn-tp-lg">Lorsqu'une action risque d'entraîner de graves conséquences, vous pouvez utiliser la forme négative pour expliquer que l'action est impossible ou doit être évitée.</p>
       <h5>Exemples d'utilisation de la forme négative pour quelque chose pouvant avoir des conséquences graves</h5>
       <p><strong>Écrivez&nbsp;: N</strong>'essayez <strong>pas</strong> de trouver la source de monoxyde de carbone. Sortez immédiatement pour respirer de l'air frais.</p>
@@ -348,11 +359,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Privilégiez le verbe (forme verbale) plutôt que le nom formé à partir du verbe (forme nominale) pour exprimer clairement une action.</p>
     <h4>Exemples d'énoncés qui contiennent des verbes plutôt que des noms</h4>
     <p><strong>Écrivez</strong>&nbsp;: recommander une mesure<br>
-      <strong>Au lieu de</strong>&nbsp;: formuler une recommandation d'une mesure</p>
+      <strong>Au lieu de</strong>&nbsp;: formuler une recommandation d'une mesure
+    </p>
     <p><strong>Écrivez</strong>&nbsp;: distribuer le courrier<br>
-      <strong>Au lieu de</strong>&nbsp;: faire la distribution du courrier</p>
+      <strong>Au lieu de</strong>&nbsp;: faire la distribution du courrier
+    </p>
     <p><strong>Écrivez&nbsp;</strong>: modifier la page<br>
-      <strong>Au lieu de</strong>&nbsp;: apporter une modification à la page</p>
+      <strong>Au lieu de</strong>&nbsp;: apporter une modification à la page
+    </p>
     <p>Utilisez le verbe dans sa forme la plus simple. Si possible, utilisez le présent.</p>
     <h4>Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise</h4>
     <ul>
@@ -378,9 +392,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h4>Exemples d'énoncés qui évitent le recours au jargon</h4>
     <p><strong>Écrivez</strong>&nbsp;: Vous devez nous envoyer votre déclaration de revenus (T1) d'ici le 30 avril. <br>
-      <strong>Au lieu de</strong>&nbsp;: Vous devez nous envoyer votre T1 d'ici le 30 avril.</p>
+      <strong>Au lieu de</strong>&nbsp;: Vous devez nous envoyer votre T1 d'ici le 30 avril.
+    </p>
     <p><strong>Écrivez</strong> <strong></strong>: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à épargner assez d'argent pour la retraite.<br>
-      <strong>Au lieu de</strong>&nbsp;: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à vous constituer un bas de laine pour votre retraite.</p>
+      <strong>Au lieu de</strong>&nbsp;: Apprenez-en plus sur les régimes d'épargne qui peuvent vous aider à vous constituer un bas de laine pour votre retraite.
+    </p>
     <h4>Voyez comment la règle sur le jargon et les expressions familières ou imagées s'applique à un contenu de langue anglaise</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-5">2.5 Avoid jargon, idioms and expressions</a></span></li>
@@ -405,11 +421,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Évitez les phrases complexes composées de plusieurs énoncés. Elles rassemblent généralement trop d'informations pour que les gens puissent les comprendre en survolant le texte.</p>
     <h4>Exemples de phrase simple</h4>
     <p><strong>Écrivez</strong>&nbsp;: Renseignez-vous au sujet du réseau de transport du Canada. Trouvez des renseignements au sujet des routes, les pistes cyclables, les ports et les aéroports partout au pays.<br>
-      <strong>Au lieu de</strong> <strong></strong>: Le réseau de transport du Canada, avec ses routes, ses pistes cyclables, ses ports et ses aéroports, est vaste, et ce site vous fournira une foule d'information au sujet du réseau d'un bout à l'autre du pays.</p>
+      <strong>Au lieu de</strong> <strong></strong>: Le réseau de transport du Canada, avec ses routes, ses pistes cyclables, ses ports et ses aéroports, est vaste, et ce site vous fournira une foule d'information au sujet du réseau d'un bout à l'autre du pays.
+    </p>
     <p class="mrgn-tp-lg">Remplacez les structures de phrase complexes par des énoncés directs.</p>
     <h4>Exemples d'énoncé direct</h4>
     <p><strong>Écrivez</strong>&nbsp;: Vous avez jusqu'au 30&nbsp;avril pour soumettre votre déclaration de revenus.<br>
-      <strong>Au lieu de</strong>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30&nbsp;avril.</p>
+      <strong>Au lieu de</strong>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30&nbsp;avril.
+    </p>
     <p>Pour aider les gens à comprendre le sens d'une phrase longue, entourez-la de phrases courtes.</p>
     <h4>Voyez comment la règle sur les phrases simples s'applique à un contenu de langue anglaise</h4>
     <ul>
@@ -432,9 +450,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h4>Exemple de phrases simplifiées</h4>
     <p><strong>Écrivez</strong> <strong></strong>: Nous avons reçu et approuvé votre demande de financement. <br>
-      <strong>Au lieu de</strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
+      <strong>Au lieu de</strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.
+    </p>
     <p><strong>Écrivez</strong>&nbsp;: Nous examinerons tout type d'investissement.<br>
-      <strong>Au lieu de</strong> <strong></strong>: Tout type d'investissement fera l'objet d'un examen de notre part.</p>
+      <strong>Au lieu de</strong> <strong></strong>: Tout type d'investissement fera l'objet d'un examen de notre part.
+    </p>
     <p class="mrgn-tp-lg">Essayez d'écrire des paragraphes de 3 phrases ou moins à l'aide des techniques suivantes&nbsp;:</p>
     <ul>
       <li>développez une (1) idée principale par paragraphe;</li>
@@ -615,7 +635,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Utilisez la première personne du pluriel (nous, notre et nos) lorsque vous rédigez au nom du gouvernement du Canada.</p>
     <h4>Exemples d'énoncé formulé avec &laquo;&nbsp;nous&nbsp;&raquo; ou &laquo;&nbsp;notre&nbsp;&raquo; pour faire référence au gouvernement du Canada</h4>
     <p><strong>Écrivez</strong>: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, nous renouvellerons automatiquement votre demande existante.<br>
-      <strong>Au lieu de</strong>&nbsp;: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, Service Canada renouvellera automatiquement votre demande existante.</p>
+      <strong>Au lieu de</strong>&nbsp;: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, Service Canada renouvellera automatiquement votre demande existante.
+    </p>
     <p class="mrgn-tp-lg">Utilisez &laquo;&nbsp;gouvernement du Canada&nbsp;&raquo; pour&nbsp;:</p>
     <ul>
       <li>décrire la position du Canada sur un sujet lié à une autre administration (pays, province, territoire, ville, etc.) mentionnée dans le texte;</li>
@@ -636,14 +657,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p class="mrgn-tp-lg">Ne faites pas référence à votre site Web sur les pages de votre site.</p>
     <h4>Exemples d'énoncé qui omet la référence à Canada.ca sur le site Canada.ca</h4>
     <p><span id="exmp1"><strong>Écrivez</strong>&nbsp;: <a href="#exmp1" aria-label="Exemple d'une référence efficace. Le texte complet simule l'hyperlien">Déterminez si vous êtes admissible</a>.</span><br>
-      <span id="exmp2"><strong>Au lieu de</strong>&nbsp;: Obtenez des <a href="#exmp2" aria-label="Exemple d'une référence inefficace. Le texte &laquo;&nbsp;renseignements relatifs à l'admissibilité sur le site Canada.ca&nbsp;&raquo; simule l'hyperlien">renseignements relatifs à l'admissibilité sur le site Canada.ca</a>.</span></p>
+      <span id="exmp2"><strong>Au lieu de</strong>&nbsp;: Obtenez des <a href="#exmp2" aria-label="Exemple d'une référence inefficace. Le texte &laquo;&nbsp;renseignements relatifs à l'admissibilité sur le site Canada.ca&nbsp;&raquo; simule l'hyperlien">renseignements relatifs à l'admissibilité sur le site Canada.ca</a>.</span>
+    </p>
     <section id="wp3-2-1">
       <h4>Désigner les tierces parties</h4>
       <p>Ne donnez pas de renseignements au nom d'une autre organisation. Ne reproduisez pas les renseignements fournis sur le site Web d'une autre organisation. Dirigez plutôt les gens vers son site Web pour obtenir ces renseignements.</p>
       <p>Nommez l'autre organisation par son nom lorsque votre contenu y fait référence.</p>
       <h5>Exemple d'énoncé faisant référence à une tierce partie</h5>
       <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
-        <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
+        <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.
+      </p>
     </section>
     <h4>Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise</h4>
     <ul>
@@ -662,7 +685,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Utilisez un vocabulaire directif pour exprimer une obligation.</p>
       <h5>Exemple d'énoncé exprimant une obligation</h5>
       <p><strong>Écrivez</strong>&nbsp;: Vous devez remplir le questionnaire.<br>
-        <strong>Au lieu de</strong>&nbsp;: La Loi sur la statistique exige que vous remplissiez le présent questionnaire.</p>
+        <strong>Au lieu de</strong>&nbsp;: La Loi sur la statistique exige que vous remplissiez le présent questionnaire.
+      </p>
     </section>
     <section id="wp3-3-2">
       <h4>Exprimer une recommandation </h4>
@@ -820,7 +844,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>pour de longs passages, des citations, par exemple;</li>
       <li>dans les titres de page.</li>
     </ul>
-    <p>Consultez <cite><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">Le guide du rédacteur</a></cite> dans les cas suivants&nbsp;:</p>
+    <p>Consultez <cite>les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></cite> dans les cas suivants&nbsp;:</p>
     <ul>
       <li>les titres de livres, de journaux, de revues et d'œuvres d'art (article 5.2.1);</li>
       <li>les titres de lois (article 5.2.2);</li>
@@ -874,9 +898,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Si un terme formé de plusieurs mots revient plus d'une fois dans une page Web, écrivez-le au long la première fois qu'il figure sur la page. Lorsque vous y faites référence par la suite écrivez &laquo;&nbsp;le programme&nbsp;&raquo;, &laquo;&nbsp;le plan&nbsp;&raquo;, &laquo;&nbsp;le fonds&nbsp;&raquo;, etc., avec une lettre initiale minuscule, au lieu de répéter le terme en toutes lettres ou d'utiliser son acronyme ou une abréviation.</p>
     <h4>Exemples d'énoncés sans abréviation ni acronyme</h4>
     <p><strong>Écrivez</strong>&nbsp;: Il y a 15 centres de contact avec la clientèle dans l'ensemble du Canada.<br>
-      <strong>Au lieu de</strong>&nbsp;: Il y a 15 CCC dans l'ensemble du Canada.</p>
+      <strong>Au lieu de</strong>&nbsp;: Il y a 15 CCC dans l'ensemble du Canada.
+    </p>
     <p><strong>Écrivez</strong>&nbsp;: La loi consolide l'engagement du gouvernement du Canada…<br>
-      <strong>Au lieu de</strong>&nbsp;: La LCALE consolide l'engagement du gouvernement du Canada...</p>
+      <strong>Au lieu de</strong>&nbsp;: La LCALE consolide l'engagement du gouvernement du Canada...
+    </p>
     <p>Ajoutez les abréviations connus de vos publics cibles dans vos métadonnées (comme dans le champ de la métabalise Description) pour que les moteurs de recherche repèrent plus facilement votre page Web.</p>
     <h4>Évitez les abréviations et acronymes en repensant le contenu</h4>
     <p>Si votre texte compte de nombreuses abréviations ou plusieurs acronymes, repensez la structure du contenu. Envisagez de grouper les parties du contenu liées entre elles sous des rubriques et des sections distinctes.</p>
@@ -886,9 +912,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4>Citer des exemples</h4>
       <p>Évitez d'utiliser les abréviations &laquo;&nbsp;p. ex.&nbsp;&raquo; et &laquo;&nbsp;c.-à-d.&nbsp;&raquo;. Choisissez des options plus claires&nbsp;:</p>
       <p><strong>Écrivez</strong>&nbsp;: par exemple, tel que ou comme<br>
-        <strong>Au lieu de</strong>&nbsp;: p. ex.&nbsp;</p>
+        <strong>Au lieu de</strong>&nbsp;: p. ex.&nbsp;
+      </p>
       <p><strong>Écrivez</strong>&nbsp;: c'est-à-dire <br>
-        <strong>Au lieu de</strong>&nbsp;: c.-à-d.&nbsp;</p>
+        <strong>Au lieu de</strong>&nbsp;: c.-à-d.&nbsp;
+      </p>
       <p>Vous pouvez utiliser ces abréviations quand l'espace est restreint (par exemple, dans un tableau ou dans un schéma).</p>
     </section>
     <section id="wp4-4-2">
@@ -1319,8 +1347,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Exemple d'utilisation d'un tableau pour organiser des données</h4>
     <table class="table table-bordered table-condensed">
       <caption class="text-center">
-      <strong>Exemple d'utilisation d'un tableau pour organiser des données<br>
-      Comparaison des autorisations budgétaires nettes et des dépenses pour le crédit du 1er au 31 décembre, pour les exercices financiers 2011 à 2012 et 2012 à 2013 (en millions de dollars)</strong>
+        <strong>Exemple d'utilisation d'un tableau pour organiser des données<br>
+          Comparaison des autorisations budgétaires nettes et des dépenses pour le crédit du 1er au 31 décembre, pour les exercices financiers 2011 à 2012 et 2012 à 2013 (en millions de dollars)</strong>
       </caption>
       <tbody>
         <tr class="active">
@@ -1363,7 +1391,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <table class="table table-condensed table-bordered">
         <caption>
-        <strong>Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup></strong>
+          <strong>Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup></strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1401,7 +1429,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </tbody>
         <tfoot>
           <tr>
-            <td colspan="4"><section class="wb-fnote">
+            <td colspan="4">
+              <section class="wb-fnote">
                 <h5 class="wb-inv" id="table2b-fn">Notes du tableau 2</h5>
                 <dl>
                   <dt> Note * du tableau 2 </dt>
@@ -1415,7 +1444,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
                     <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>**<span class="wb-inv"> du tableau 2</span></a></p>
                   </dd>
                 </dl>
-              </section></td>
+              </section>
+            </td>
           </tr>
         </tfoot>
       </table>
@@ -1434,7 +1464,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6> Exemple <span class="wb-inv">de tableau complexe</span></h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+          <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1474,7 +1504,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6>Exemple&nbsp;: un tableau simple</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+          <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1515,7 +1545,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+          <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1540,7 +1570,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </table>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
-        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+          <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
           <tr class="active">
@@ -1803,8 +1833,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <section>
           <p><strong>Question&nbsp;2&nbsp;:</strong> Les couloirs sont-ils assez larges pour permettre aux personnes utilisant des appareils fonctionnels, comme les fauteuils roulants électriques, de passer ?</p>
           <ul>
-            <li>Si  votre réponse est &laquo;&nbsp;Oui &nbsp;&raquo;, passez à la question&nbsp;3.</li>
-            <li>Si  votre réponse est &laquo;&nbsp;Non&nbsp;&raquo;&nbsp;:
+            <li>Si votre réponse est &laquo;&nbsp;Oui &nbsp;&raquo;, passez à la question&nbsp;3.</li>
+            <li>Si votre réponse est &laquo;&nbsp;Non&nbsp;&raquo;&nbsp;:
               <ul>
                 <li>élargir les couloirs et les portes, ou installer des ouvre-portes automatiques, des ascenseurs ou des plateformes élévatrices pourrait éliminer les obstacles dans votre immeuble.</li>
               </ul>
@@ -1812,10 +1842,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           </ul>
         </section>
         <section>
-          <p><strong>Question&nbsp;3&nbsp;:</strong> Les personnes en situation de handicap peuvent-elles accéder à l’ensemble des  étages, niveaux et sections nécessaires de votre immeuble ?</p>
+          <p><strong>Question&nbsp;3&nbsp;:</strong> Les personnes en situation de handicap peuvent-elles accéder à l’ensemble des étages, niveaux et sections nécessaires de votre immeuble ?</p>
           <ul>
-            <li>Si  votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;, passez à la question&nbsp;4.</li>
-            <li>Si  votre réponse est &laquo;&nbsp;Non &nbsp;&raquo;&nbsp;:
+            <li>Si votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;, passez à la question&nbsp;4.</li>
+            <li>Si votre réponse est &laquo;&nbsp;Non &nbsp;&raquo;&nbsp;:
               <ul>
                 <li>élargir les couloirs et les portes, ou installer des ouvre-portes automatiques, des ascenseurs ou des plateformes élévatrices pourrait éliminer les obstacles dans votre immeuble.</li>
               </ul>
@@ -1823,27 +1853,27 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           </ul>
         </section>
         <section>
-          <p><strong>Question&nbsp;4&nbsp;:</strong> Les  personnes à mobilité réduite peuvent-elles utiliser les toilettes de votre  immeuble ?</p>
+          <p><strong>Question&nbsp;4&nbsp;:</strong> Les personnes à mobilité réduite peuvent-elles utiliser les toilettes de votre immeuble ?</p>
           <ul>
-            <li>Si  votre réponse est &laquo;&nbsp;Oui &nbsp;&raquo;, passez à la question&nbsp;5.</li>
-            <li>Si  votre réponse est &laquo;&nbsp;Non&nbsp;&raquo;&nbsp;:
+            <li>Si votre réponse est &laquo;&nbsp;Oui &nbsp;&raquo;, passez à la question&nbsp;5.</li>
+            <li>Si votre réponse est &laquo;&nbsp;Non&nbsp;&raquo;&nbsp;:
               <ul>
-                <li>des  toilettes accessibles ou une cabine accessible devraient être disponibles dans tous les édifices.&nbsp; </li>
+                <li>des toilettes accessibles ou une cabine accessible devraient être disponibles dans tous les édifices.&nbsp; </li>
               </ul>
             </li>
           </ul>
         </section>
         <section>
-          <p><strong>Question&nbsp;5&nbsp;:</strong> Les  toilettes sont-elles équipées d’ouvre-portes automatiques ? L’entrée des toilettes est-elle assez large pour accueillir des appareils fonctionnels ?</p>
+          <p><strong>Question&nbsp;5&nbsp;:</strong> Les toilettes sont-elles équipées d’ouvre-portes automatiques ? L’entrée des toilettes est-elle assez large pour accueillir des appareils fonctionnels ?</p>
           <ul>
-            <li>Si  votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;&nbsp;:
+            <li>Si votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;&nbsp;:
               <ul>
-                <li>félicitations!  Voici quelques exemples d’autres projets d’accessibilité financés par le Fonds pour l’accessibilité (FA)&nbsp;: éléments relatifs à la sûreté et la sécurité,  comme des alarmes incendie visuelles; pièces multisensorielles; appareils auditifs à boucle; et plus encore !</li>
+                <li>félicitations! Voici quelques exemples d’autres projets d’accessibilité financés par le Fonds pour l’accessibilité (FA)&nbsp;: éléments relatifs à la sûreté et la sécurité, comme des alarmes incendie visuelles; pièces multisensorielles; appareils auditifs à boucle; et plus encore !</li>
               </ul>
             </li>
             <li>&nbsp;Si votre réponse est &laquo;&nbsp;Non &nbsp;&raquo;&nbsp;:
               <ul>
-                <li>élargir  les couloirs et les portes, ou installer des ouvre-portes automatiques, des  ascenseurs ou des plateformes élévatrices pourrait éliminer les obstacles dans  votre immeuble.</li>
+                <li>élargir les couloirs et les portes, ou installer des ouvre-portes automatiques, des ascenseurs ou des plateformes élévatrices pourrait éliminer les obstacles dans votre immeuble.</li>
               </ul>
             </li>
           </ul>
@@ -1961,7 +1991,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vous pourriez écrire la description longue suivante&nbsp;:</p>
     <table class="table table-bordered table-condensed">
       <caption>
-      <strong>Figure 2: Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong>
+        <strong>Figure 2: Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong>
       </caption>
       <thead>
         <tr class="active">
@@ -1995,8 +2025,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <td class="text-right">55,2</td>
         </tr>
         <tr>
-          <td class="small" colspan="8"><p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
-              Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé sans solde.</p></td>
+          <td class="small" colspan="8">
+            <p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
+              Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé sans solde.</p>
+          </td>
         </tr>
       </thead>
       <tbody>
@@ -2053,6 +2085,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp7-2">7.2 Rédiger des liens descriptifs</a>
               <ul>
                 <li><a href="#wp7-2-1">Mettre l'accent sur la tâche</a></li>
+                <li><a href="#wp7-2-2">Utiliser des parenthèses pour ajouter des informations contextuelles</a></li>
               </ul>
             </li>
             <li><a href="#wp7-3">7.3 Vérifier que les liens fonctionnent </a></li>
@@ -2133,870 +2166,910 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <h4>Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise</h4>
     <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
+      <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de liens descriptifs", "title": "7.2 Rédiger des liens descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'> </div>
+      <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur la rédaction de liens descriptifs&quot;, &quot;title&quot;: &quot;7.2 Rédiger des liens descriptifs&quot;, &quot;url&quot;: &quot;https://conception.canada.ca/guide-redaction/#wp7-2&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-2&quot;}"> </div>
     </div>
   </section>
-  <section id="wp7-3">
-    <h3>7.3 Vérifier que les liens fonctionnent</h3>
-    <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
-    <h4>Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-3">7.3 Make sure that links work</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la vérification des liens", "title": "7.3 Vérifier que les liens fonctionnent", "url": "https://conception.canada.ca/guide-redaction/#wp7-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-3"}'> </div>
+  <section id="wp7-2-2">
+    <div>
+      <h4>Utiliser des parenthèses pour ajouter des informations contextuelles</h4>
+      <p>Utilisez des parenthèses à l'intérieur d'un lien pour ajouter des informations contextuelles à propos du contenu en renvoi. Ne fournissez que les informations contextuelles nécessaires pour aider les utilisateurs à décider s'ils veulent poursuivre ou non.</p>
+      <p>Cette directive s'applique dans les situations suivantes&nbsp;:</p>
+      <ul>
+        <li><strong>Le lien renvoie à un document téléchargeable</strong>. Assurez vous d'inclure le <strong>type de fichier et sa taille</strong> entre les parenthèses&nbsp;</li>
+        <ul>
+          <li><strong>Exemple&nbsp;:&nbsp;</strong><span lang="en"><a href="https://www.asc-csa.gc.ca/pdf/fra/publications/2021-2022-etat-secteur-spatial-canadien-faits-chiffres-2020-et-2021-v2.pdf">État du secteur spatial canadien (PDF, 5,52 mo)</a></span></li>
+        </ul>
+      </ul>
+      <ul>
+        <li><strong>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue.</strong>
+          <ul>
+            <li>Ajoutez une parenthèse à l'intérieur du lien et spécifiez la langue du contenu lié, formatée comme suit&nbsp;: (Langue X seulement).</li>
+            <li>Ne traduisez pas le titre du contenu en renvoi.</li>
+            <li>Assurez-vous que la langue du renvoi soit spécifiée dans le code du lien.</li>
+          </ul>
+          <p>Sur une page en francais, écrivez&nbsp;:</p>
+          <ul>
+            <li><a href="#">Texte en hyperlien (en anglais seulement)</a></li>
+            <li><a href="#">Texte en hyperlien (en inuktitut seulement)</a></li>
+            <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a></li>
+            <p><strong>Exemple&nbsp;:&nbsp;</strong>L’article 508 révisé, la norme EN 301 549 ou les <span lang=en><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></p>
+            <p>Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français.Example &nbsp;:&nbsp;<a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></p>
+          </ul>
+      </ul>
+      <ul>
+        <li><strong>Le lien renvoi à un contenu audio ou vidéo. </strong> Précisez la durée du contenu entre parenthèses.</li>
+        <ul>
+          <li><strong>Exemple&nbsp;</strong>:&nbsp;<span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></li>
+        </ul>
+      </ul>
+      <ul>
+        <li><strong>Lorsque plus d’une de ces situations s’appliquent, ajoutez toutes les informations contextuelles nécessaires entre parenthèses.</strong></li>
+        <ul>
+          <li><strong>Exemple&nbsp;</strong>:&nbsp;<a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 KB, 4 pages)</a>
+          </li>
+        </ul>
+      </ul>
+      <h4>Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise</h4>
+      <ul>
+        <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
+      </ul>
+      <div class="mrgn-tp-lg">
+        <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de liens descriptifs", "title": "7.2 Rédiger des liens descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
+      </div>
     </div>
-  </section>
-  <section id="wp7-4">
-    <h3>7.4 Créer des liens vers du contenu externe</h3>
-    <p>Certains contenus pour lesquels le gouvernement ne fait pas autorité ne sont pas disponibles dans les 2 langues officielles. Si vous créez un lien vers du contenu Web externe qui n'est pas disponible dans la langue de la page courante, précisez la ou les langues dans lesquelles le contenu est disponible.</p>
-    <p>Sur les pages en français, ajoutez le texte suivant après un lien&nbsp;qui renvoie à du contenu qui n'est pas en français&nbsp;: (en XXXX seulement).</p>
-    <p>Si le lien renvoie à du contenu seulement disponible en&nbsp;:</p>
-    <ul>
-      <li>anglais, écrivez &laquo;&nbsp;&nbsp;(en anglais seulement)&nbsp;&raquo;;</li>
-      <li>inuktitut, écrivez &laquo;&nbsp;(en inuktitut seulement)&nbsp;&raquo;;</li>
-      <li>espagnol et portugais, écrivez &laquo;&nbsp;(en espagnol et portugais seulement)&nbsp;&raquo;.</li>
-    </ul>
-    <h4>Exemple de l'utilisation d'un hyperlien qui renvoie à un contenu disponible en anglais seulement</h4>
-    <p><strong>Écrivez</strong>&nbsp;: Informez-vous au sujet des <a href="https://help.cbp.gov/app/answers/detail/a_id/1192/~/canadian--citizens%2Fresidents%2Flanded-immigrants-entering-the-u.s.">documents requis pour permettre aux citoyens canadiens d'entrer aux États-Unis</a> (en anglais seulement).</p>
-    <h4>Voyez comment la règle sur le contenu externe s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-4">7.4 Linking to non-government content</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le contenu externe", "title": "7.4 Créer des liens vers du contenu externe", "url": "https://conception.canada.ca/guide-redaction/#wp7-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-4"}'> </div>
-    </div>
-  </section>
-  <section id="wp7-5">
-    <h3>7.5 Créer des liens vers du contenu interne</h3>
-    <p>En général, le contenu destiné au public ne devrait pas contenir de liens renvoyant vers du contenu accessible seulement sur les serveurs internes du gouvernement. Il arrive cependant qu'un contenu accessible au public s'adresse essentiellement aux employés de la fonction publique.</p>
-    <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</p>
-    <h4>Voyez comment la règle sur le contenu interne s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-5">7.5 Linking to internal-to-government content</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le contenu interne", "title": "7.5 Créer des liens vers du contenu interne", "url": "https://conception.canada.ca/guide-redaction/#wp7-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-5"}'> </div>
-    </div>
-  </section>
-</section>
-<section id="toc12">
-  <h2>Refonte de contenu Web</h2>
-  <h3>Étude de cas A&nbsp;: simplifier le langage et améliorer la structure du contenu </h3>
-  <h4>Avant</h4>
-  <p>L'assurance-emploi est un programme qui offre un soutien de revenu temporaire aux Canadiens et aux personnes légalement autorisées à travailler au Canada qui ont un numéro d'assurance sociale valide et qui demeurent au Canada pendant la durée de leurs prestations. Le programme offre entre autres des prestations régulières aux personnes qui ont perdu leur emploi sans en être responsables (par exemple, à la suite d'un manque de travail ou parce qu'elles occupaient un emploi saisonnier) et qui sont prêtes et disposées à travailler et capables de le faire en tout temps, sans pouvoir trouver du travail.</p>
-  <p>Niveau de lecture Scolarius&nbsp;: 312 (initié)</p>
-  <h4>Après</h4>
-  <p>L'assurance-emploi peut offrir une aide financière si vous n'avez plus de travail. Vous pourriez recevoir de l'argent régulièrement, pendant un certain temps, pour vous permettre de vous concentrer sur vos recherches d'emploi.</p>
-  <p>Pour y avoir droit, vous devez&nbsp;:</p>
-  <ul>
-    <li>être Canadien ou avoir le droit de travailler au Canada;</li>
-    <li>avoir un numéro d'assurance sociale;</li>
-    <li>avoir perdu votre emploi sans que ce soit de votre faute;</li>
-    <li>être prêt à travailler et capable de le faire en tout temps;</li>
-    <li>demeurer au Canada pendant que vous recevez des prestations.</li>
-  </ul>
-  <p>Niveau de lecture Scolarius&nbsp;: 71 (primaire)</p>
-  <h4>Ce que nous avons fait</h4>
-  <p>Pour améliorer le contenu, nous avons&nbsp;:</p>
-  <ul>
-    <li>subdivisé le paragraphe en liste d'éléments;</li>
-    <li>remplacé des noms et des verbes par des formes plus simples.</li>
-  </ul>
-  <h3>Étude de cas B&nbsp;: améliorer et simplifier les tableaux</h3>
-  <h4>Avant</h4>
-  <table class="table table-bordered table-condensed">
-    <caption class="text-center">
-    <strong>Soutenir les familles et les collectivités, Budget 2013</strong>
-    </caption>
-    <thead>
-      <tr class="active">
-        <th scope="col"><strong>Soutenir les familles et les collectivités (en millions de dollars)</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 14</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 15</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row"><strong>Soutenir les familles</strong></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Élargir l'allègement fiscal à l'égard des services de soins à domicile</span></th>
-        <td class="text-right">5</td>
-        <td class="text-right">5</td>
-        <td class="text-right">10</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Soins palliatifs et soins de fin de vie</span></th>
-        <td class="text-right">1</td>
-        <td class="text-right">1</td>
-        <td class="text-right">2</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Allègements tarifaires pour les consommateurs canadiens</span></th>
-        <td class="text-right">76</td>
-        <td class="text-right">76</td>
-        <td class="text-right">152</td>
-      </tr>
-      <tr>
-        <th scope="row">Total partiel&nbsp;: Soutenir les familles</th>
-        <td class="text-right">82</td>
-        <td class="text-right">82</td>
-        <td class="text-right">164</td>
-      </tr>
-      <tr>
-        <th scope="row">&nbsp;</th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Investir dans les collectivités</strong></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin</span></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Stratégie des partenariats de lutte contre l'itinérance</span></th>
-        <td>&nbsp;</td>
-        <td class="text-right">119</td>
-        <td class="text-right">119</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement abordable</span></th>
-        <td>&nbsp;</td>
-        <td class="text-right">253</td>
-        <td class="text-right">253</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investir dans le logement au Nunavut </span></th>
-        <td class="text-right">30</td>
-        <td class="text-right">70</td>
-        <td class="text-right">100</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Soutenir les anciens combattants et leur rendre hommage </span></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Améliorer le Programme de funérailles et d'inhumation d'Anciens Combattants Canada </span></th>
-        <td class="text-right">63</td>
-        <td class="text-right">2</td>
-        <td class="text-right">65</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">En route vers 2017 </span></th>
-        <td class="text-right">1</td>
-        <td class="text-right">2</td>
-        <td class="text-right">3</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investir dans les arts et la culture </span></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Revitalisation du Massey Hall </span></th>
-        <td class="text-right">8</td>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">8</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Étendre les services de bibliothèque pour les Canadiens aveugles ou atteints d'une déficience visuelle</span></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Super crédit pour premier don de bienfaisance </span></th>
-        <td class="text-right">3</td>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">3</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Appuyer la transition économique des collectivités associées à l'industrie de l'amiante chrysotile </span></th>
-        <td class="text-right">25</td>
-        <td class="text-right">25</td>
-        <td class="text-right">50</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin </span></th>
-        <td class="text-right">3</td>
-        <td class="text-right">5</td>
-        <td class="text-right">8</td>
-      </tr>
-      <tr>
-        <th scope="row">Total partiel&nbsp;: Investir dans les collectivités </th>
-        <td class="text-right">133</td>
-        <td class="text-right">476</td>
-        <td class="text-right">609</td>
-      </tr>
-      <tr>
-        <th scope="row">&nbsp;</th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Protéger l'environnement naturel du Canada</strong></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Conservation de la nature Canada</span></th>
-        <td class="text-right">20</td>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">20</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Améliorer la conservation des aires de pêche grâce aux partenariats communautaires </span></th>
-        <td class="text-right">5</td>
-        <td class="text-right">5</td>
-        <td class="text-right">10</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Timbre de conservation du saumon </span></th>
-        <td class="text-right">1</td>
-        <td class="text-right">1</td>
-        <td class="text-right">2</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Favoriser la gestion responsable des ressources marines </span></th>
-        <td class="text-right">4</td>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">4</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Lutter contre les espèces envahissantes </span></th>
-        <td class="text-right">2</td>
-        <td class="text-right">2</td>
-        <td class="text-right">3</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Accroître l'aide fiscale pour la production d'énergie propre </span></th>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">1</td>
-        <td class="text-right">1</td>
-      </tr>
-      <tr>
-        <th scope="row">Total partiel&nbsp;: Protéger l'environnement naturel du Canada </th>
-        <td class="text-right">32</td>
-        <td class="text-right">9</td>
-        <td class="text-right">41</td>
-      </tr>
-      <tr>
-        <th scope="row">&nbsp;</th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Créer des collectivités autochtones vigoureuses</strong></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Régler les revendications particulières</span></th>
-        <td class="text-right">27</td>
-        <td class="text-right">27</td>
-        <td class="text-right">54</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Régime de gestion des terres des Premières Nations </span></th>
-        <td class="text-right">2</td>
-        <td class="text-right">7</td>
-        <td class="text-right">9</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Programme des services de police des Premières Nations </span></th>
-        <td class="text-right">18</td>
-        <td class="text-right">18</td>
-        <td class="text-right">36</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Stratégie de la justice applicable aux Autochtones </span></th>
-        <td class="text-right">11</td>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">11</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Renouveler le Programme pour la prévention de la violence familiale </span></th>
-        <td class="text-right">12</td>
-        <td class="text-right">12</td>
-        <td class="text-right">24</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Améliorer les services de santé dans les collectivités des Premières Nations </span></th>
-        <td class="text-right">24</td>
-        <td class="text-right">24</td>
-        <td class="text-right">48</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Améliorer les services en santé mentale dans les collectivités des Premières Nations </span></th>
-        <td class="text-right">2</td>
-        <td class="text-right">2</td>
-        <td class="text-right">4</td>
-      </tr>
-      <tr>
-        <th scope="row">Total partiel&nbsp;: Créer des collectivités autochtones vigoureuses </th>
-        <td class="text-right">95</td>
-        <td class="text-right">90</td>
-        <td class="text-right">185</td>
-      </tr>
-      <tr>
-        <th scope="row">&nbsp;</th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Total&nbsp;: Soutenir les familles et les collectivités</strong></th>
-        <td class="text-right"><strong>342</strong></td>
-        <td class="text-right"><strong>657</strong></td>
-        <td class="text-right"><strong>999</strong></td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Moins les fonds prévus dans le cadre financier actuel </span></th>
-        <td class="text-right">(76)</td>
-        <td class="text-right">(422)</td>
-        <td class="text-right">(498)</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Moins les fonds assurés au moyen de réaffectations internes </span></th>
-        <td class="text-right">(1)</td>
-        <td class="text-right">(11)</td>
-        <td class="text-right">(12)</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Coût budgétaire net</strong></th>
-        <td class="text-right"><strong>265</strong></td>
-        <td class="text-right"><strong>224</strong></td>
-        <td class="text-right"><strong>489</strong></td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td class="small" colspan="4"><p>Remarque&nbsp;: Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p></td>
-      </tr>
-    </tfoot>
-  </table>
-  <h4>Après</h4>
-  <table class="table table-bordered table-condensed">
-    <caption class="text-center">
-    <strong>Tableau 1&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts budgétaires nets (en millions de dollars)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 1</span></a></sup></strong>
-    </caption>
-    <thead>
-      <tr class="active">
-        <th scope="col"><strong>Répartition des coûts</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row">Total&nbsp;: Soutenir les familles et les collectivités<sup id="table1-fn2-rf"><a class="fn-lnk" href="#table1-fn2"><span class="wb-inv">Voir la note </span>2<span class="wb-inv"> du tableau 1</span></a></sup></th>
-        <td class="text-right">342</td>
-        <td class="text-right">657</td>
-        <td class="text-right">999</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Moins les fonds prévus dans le cadre financier actuel</span></th>
-        <td class="text-right">(76)</td>
-        <td class="text-right">(422)</td>
-        <td class="text-right">(498)</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Moins les fonds assurés au moyen de réaffectations internes</span></th>
-        <td class="text-right">(1)</td>
-        <td class="text-right">(11)</td>
-        <td class="text-right">(12)</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Coûts budgétaires nets</strong></th>
-        <td class="text-right"><strong>265</strong></td>
-        <td class="text-right"><strong>224</strong></td>
-        <td class="text-right"><strong>489</strong></td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table1a-fn">Notes du tableau 1</h5>
-            <dl>
-              <dt> Note 1 du tableau 1 </dt>
-              <dd id="table1-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 1</span></a></p>
-              </dd>
-              <dt> Note 2 du tableau 1 </dt>
-              <dd id="table1-fn2">
-                <p>Voir le tableau 1B pour une ventilation détaillée.</p>
-                <p class="fn-rtn"> <a href="#table1-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 1</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
-  </table>
-  <table class="table table-bordered table-condensed">
-    <caption class="text-center">
-    <strong>Tableau 1A&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts totaux (en millions de dollars)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 2</span></a></sup></strong>
-    </caption>
-    <thead>
-      <tr class="active">
-        <th scope="col"><strong>Initiatives et programmes</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Soutenir les familles<sup id="table2-fn2-rf"><a class="fn-lnk" href="#table2-fn2"><span class="wb-inv">Voir la note </span>2<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
-        <td class="text-right">82</td>
-        <td class="text-right">82</td>
-        <td class="text-right">164</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investir dans les collectivités<sup id="table2-fn3-rf"><a class="fn-lnk" href="#table2-fn3"><span class="wb-inv">Voir la note </span>3<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
-        <td class="text-right">133</td>
-        <td class="text-right">476</td>
-        <td class="text-right">609</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Protéger l'environnement naturel du Canada<sup id="table2-fn4-rf"><a class="fn-lnk" href="#table2-fn4"><span class="wb-inv">Voir la note </span>4<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
-        <td class="text-right">32</td>
-        <td class="text-right">9</td>
-        <td class="text-right">41</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Créer des collectivités autochtones vigoureuses<sup id="table2-fn5-rf"><a class="fn-lnk" href="#table2-fn5"><span class="wb-inv">Voir la note </span>5<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
-        <td class="text-right">95</td>
-        <td class="text-right">90</td>
-        <td class="text-right">185</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Total&nbsp;: Soutenir les familles et les collectivités</strong></th>
-        <td class="text-right"><strong>342</strong></td>
-        <td class="text-right"><strong>657</strong></td>
-        <td class="text-right"><strong>999</strong></td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table1-fn">Notes du tableau 1</h5>
-            <dl>
-              <dt> Note 1 du tableau 2 </dt>
-              <dd id="table2-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table2-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 2</span></a></p>
-              </dd>
-              <dt> Note 2 du tableau 2 </dt>
-              <dd id="table2-fn2">
-                <p>Voir le tableau 1B pour une ventilation détaillée.</p>
-                <p class="fn-rtn"> <a href="#table2-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 2</span></a></p>
-              </dd>
-              <dt> Note 3 du tableau 2 </dt>
-              <dd id="table2-fn3">
-                <p>Voir le tableau 1C pour une ventilation détaillée.</p>
-                <p class="fn-rtn"> <a href="#table2-fn3-rf"><span class="wb-inv">Retour à la référence de la note </span>3<span class="wb-inv"> du tableau 2</span></a></p>
-              </dd>
-              <dt> Note 4 du tableau 2 </dt>
-              <dd id="table2-fn4">
-                <p>Voir le tableau 1D pour une ventilation détaillée.</p>
-                <p class="fn-rtn"> <a href="#table2-fn4-rf"><span class="wb-inv">Retour à la référence de la note </span>4<span class="wb-inv"> du tableau 2</span></a></p>
-              </dd>
-              <dt> Note 5 du tableau 2 </dt>
-              <dd id="table2-fn5">
-                <p>Voir le tableau 1E pour une ventilation détaillée.</p>
-                <p class="fn-rtn"> <a href="#table2-fn5-rf"><span class="wb-inv">Retour à la référence de la note </span>5<span class="wb-inv"> du tableau 2</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
-  </table>
-  <table class="table table-bordered table-condensed">
-    <caption class="text-center">
-    <strong>Tableau 1B&nbsp;: Soutien aux familles pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 3</span></a></sup></strong>
-    </caption>
-    <thead>
-      <tr class="active">
-        <th scope="col"><strong>Initiatives et programmes</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Allègement fiscal à l'égard des services de soins à domicile</span></th>
-        <td class="text-right">5</td>
-        <td class="text-right">5</td>
-        <td class="text-right">10</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Soins palliatifs et soins de fin de vie</span></th>
-        <td class="text-right">1</td>
-        <td class="text-right">1</td>
-        <td class="text-right">2</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Allègements tarifaires pour les consommateurs canadiens</span></th>
-        <td class="text-right">76</td>
-        <td class="text-right">76</td>
-        <td class="text-right">152</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Total partiel&nbsp;: Soutenir les familles</strong></th>
-        <td class="text-right"><strong>82</strong></td>
-        <td class="text-right"><strong>82</strong></td>
-        <td class="text-right"><strong>164</strong></td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table3-fn">Notes du tableau 3</h5>
-            <dl>
-              <dt> Note 1 du tableau 3 </dt>
-              <dd id="table3-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table3-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 3</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
-  </table>
-  <table class="table table-bordered table-condensed">
-    <caption class="text-center">
-    <strong>Tableau 1C&nbsp;: Investir dans les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 4</span></a></sup></strong>
-    </caption>
-    <thead>
-      <tr class="active">
-        <th scope="col"><strong>Initiatives et programmes</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Stratégie des partenariats de lutte contre l'itinérance</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">119</td>
-        <td class="text-right">119</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement abordable</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">253</td>
-        <td class="text-right">253</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement au Nunavut</span></th>
-        <td class="text-right">30</td>
-        <td class="text-right">70</td>
-        <td class="text-right">100</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Soutient et hommage combattants et leur rendre hommage</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md"> Programme de funérailles et d'inhumation d'Anciens Combattants Canada</span></th>
-        <td class="text-right">63</td>
-        <td class="text-right">2</td>
-        <td class="text-right">65</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">En route vers 2017</span></th>
-        <td class="text-right">1</td>
-        <td class="text-right">2</td>
-        <td class="text-right">3</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investissement dans les arts et la culture</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Revitalisation du Massey Hall</span></th>
-        <td class="text-right">8</td>
-        <td class="text-right">0</td>
-        <td class="text-right">8</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Services de bibliothèque pour les Canadiens aveugles ou atteints d'une déficience visuelle</span></th>
-        <td class="text-right">3</td>
-        <td class="text-right">0</td>
-        <td class="text-right">3</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Super crédit pour premier don de bienfaisance</span></th>
-        <td class="text-right">25</td>
-        <td class="text-right">25</td>
-        <td class="text-right">50</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Appui de transition économique des collectivités associées à l'industrie de l'amiante chrysotile</span></th>
-        <td class="text-right">3</td>
-        <td class="text-right">5</td>
-        <td class="text-right">8</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Total partiel&nbsp;: Investir dans les collectivités</strong></th>
-        <td class="text-right"><strong>133</strong></td>
-        <td class="text-right"><strong>476</strong></td>
-        <td class="text-right"><strong>609</strong></td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table4-fn">Notes du tableau 4</h5>
-            <dl>
-              <dt> Note 1 du tableau 4 </dt>
-              <dd id="table4-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table4-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 4</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
-  </table>
-  <table class="table table-bordered table-condensed">
-    <caption class="text-center">
-    <strong>Tableau 1D&nbsp;: Protéger l'environnement naturel du Canada pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 5</span></a></sup></strong>
-    </caption>
-    <thead>
-      <tr class="active">
-        <th scope="col"><strong>Initiatives et programmes</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Conservation de la nature Canada</span></th>
-        <td class="text-right">20</td>
-        <td class="text-right">0</td>
-        <td class="text-right">20</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Conservation des aires de pêche grâce aux partenariats communautaires</span></th>
-        <td class="text-right">5</td>
-        <td class="text-right">5</td>
-        <td class="text-right">10</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Timbre de conservation du saumon</span></th>
-        <td class="text-right">1</td>
-        <td class="text-right">1</td>
-        <td class="text-right">2</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Gestion responsable des ressources marines</span></th>
-        <td class="text-right">4</td>
-        <td class="text-right">0</td>
-        <td class="text-right">4</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Lutte contre les espèces envahissantes</span></th>
-        <td class="text-right">2</td>
-        <td class="text-right">2</td>
-        <td class="text-right">3</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Aide fiscale pour la production d'énergie propre</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">1</td>
-        <td class="text-right">1</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Total partiel&nbsp;: Protéger l'environnement naturel du Canada</strong></th>
-        <td class="text-right"><strong>32</strong></td>
-        <td class="text-right"><strong>9</strong></td>
-        <td class="text-right"><strong>41</strong></td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table5-fn">Notes du tableau 5</h5>
-            <dl>
-              <dt> Note 1 du tableau 5 </dt>
-              <dd id="table5-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table5-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 5</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
-  </table>
-  <table class="table table-bordered table-condensed">
-    <caption class="text-center">
-    <strong>Tableau 1E&nbsp;: Créer des collectivités autochtones vigoureuses pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 6</span></a></sup></strong>
-    </caption>
-    <thead>
-      <tr class="active">
-        <th scope="col"><strong>Initiatives et programmes</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Résolution des revendications particulières</span></th>
-        <td class="text-right">27</td>
-        <td class="text-right">27</td>
-        <td class="text-right">54</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Régime de gestion des terres des Premières Nations</span></th>
-        <td class="text-right">2</td>
-        <td class="text-right">7</td>
-        <td class="text-right">9</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Programme des services de police des Premières Nations</span></th>
-        <td class="text-right">18</td>
-        <td class="text-right">18</td>
-        <td class="text-right">36</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Stratégie de la justice applicable aux Autochtones</span></th>
-        <td class="text-right">11</td>
-        <td class="text-right">0</td>
-        <td class="text-right">11</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md"> Programme pour la prévention de la violence familiale</span></th>
-        <td class="text-right">12</td>
-        <td class="text-right">12</td>
-        <td class="text-right">24</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Services de santé dans les collectivités des Premières Nations</span></th>
-        <td class="text-right">24</td>
-        <td class="text-right">24</td>
-        <td class="text-right">48</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Services en santé mentale dans les collectivités des Premières Nations</span></th>
-        <td class="text-right">2</td>
-        <td class="text-right">2</td>
-        <td class="text-right">4</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Total partiel&nbsp;: Créer des collectivités autochtones vigoureuses</strong></th>
-        <td class="text-right"><strong>95</strong></td>
-        <td class="text-right"><strong>90</strong></td>
-        <td class="text-right"><strong>185</strong></td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table6-fn">Notes du tableau 6</h5>
-            <dl>
-              <dt> Note 1 du tableau 6 </dt>
-              <dd id="table6-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table6-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 6</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
-  </table>
-  <h4>Ce que nous avons fait</h4>
-  <p>Pour créer ces tableaux, nous avons&nbsp;:</p>
-  <ul>
-    <li>divisé un tableau complexe en plusieurs tableaux simples et faciles à consulter à partir d'un appareil mobile;</li>
-    <li>utilisé l'approche de la pyramide inversée de façon à présenter le résumé ou la conclusion en premier, suivi de renseignements de plus en plus détaillés;</li>
-    <li>rédigé des titres clairs pour chaque tableau;</li>
-    <li>utilisé les sous-titres existants compris dans l'exemple initial pour créer les titres des différents tableaux;</li>
-    <li>veillé à ce que les en-têtes des 3 colonnes numériques correspondent à la valeur unitaire indiquée dans chaque colonne;</li>
-    <li>ajouté des zéros afin de fournir des renseignements pertinents dans les cellules qui auraient autrement été laissées vides;</li>
-    <li>supprimé les cellules et les rangées vides ainsi que les sous-titres non pertinents (c'est-à-dire, ceux qui ne correspondaient à aucune valeur sous les en-têtes de colonne).</li>
-  </ul>
-</section>
-<section id="toc13">
-  <h2>Ressources</h2>
-  <ul>
-    <li><a href="http://ccat-ctac.org/CMFiles/Publication/LiteracyBook-FR.pdf">L'alphabétisation et l'accès à la justice administrative au Canada</a>, Conseil des tribunaux administratifs canadiens</li>
-    <li><a href="http://www.spl.gouv.qc.ca/ministreetspl/actualites/detail/article/bonnes-pratiques/">Bonnes pratiques de la communication écrite dans les démarches en ligne</a>, Secrétariat à la politique linguistique et par la Délégation générale à la langue française et aux langues de France</li>
-    <li><a href="http://publications.europa.eu/code/fr/fr-000500.htm">Code de rédaction interinstitutionnel</a>, Commission Européenne</li>
-    <li><a href="http://www.publications.gc.ca/site/fra/9.639707/publication.html">Communiquer avec les aînés&nbsp;: conseils et techniques</a>, Santé Canada</li>
-    <li><a href="http://www.spiria.com/fr/blogue/sites-web/comprendre-laccessibilite-web">Comprendre l'accessibilité Web</a>, SPIRIA</li>
-    <li><a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-f.asp">Directives d'adressage</a>, Postes Canada</li>
-    <li><a href="http://www.omafra.gov.on.ca/french/nfporgs/07-050.htm">Écrire avec clarté</a>, Ministère de l'Agriculture, de l'Alimentation et des Affaires rurales de l'Ontario</li>
-    <li><a href="http://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-fra.htm">Étude&nbsp;: Les diplômés universitaires ayant des niveaux de compétence moindres en littératie et en numératie, 2012</a>, Statistique Canada</li>
-    <li><a href="http://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-fra.htm">Étude&nbsp;: Littératie et numératie chez les Premières Nations vivant hors réserve et les Métis, 2012</a>, Statistique Canada</li>
-    <li><a href="http://www.ergolab.net/articles/faciliter-lecture-informations-web.php">Faciliter la lecture d'informations sur le web</a>, Ergolab</li>
-    <li><a href="http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf">Good Fonts for Dyslexia</a> (en anglais seulement), Luz Rello, NLP &amp; Web Research Groups, et Ricardo Baeza-Yates, Yahoo! Labs &amp; Web Research Group, UPF</li>
-    <li><a href="http://www.autisme.qc.ca/assets/files/07-boite-outils/Communication/Guide-pavillon-parc.pdf">Guide de rédaction pour une information accessible</a>, Équipe de recherche en littératie et inclusion</li>
-    <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
-    <li><a href="http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?t1=1&amp;id=4208">Impératif et infinitif</a>, Office québécois de la langue française</li>
-    <li><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-FR.pdf">Introduction à la justice administrative et au langage clair</a>, Conseil des tribunaux administratifs canadiens</li>
-    <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a> (en anglais seulement), Government Digital Service, GOV.UK</li>
-    <li><a href="http://www.btb.termiumplus.gc.ca/tpv2guides/guides/redac/index-fra.html?lang=fra">Le guide du rédacteur</a>, Bureau de la traduction</li>
-    <li><a href="http://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-fra.htm">Les compétences au Canada&nbsp;: Premiers résultats du Programme pour l'évaluation internationale des compétences des adultes</a>, Statistique Canada</li>
-    <li><a href="http://www.vortexsolution.com/lexique-web-montreal.html">Lexique Web</a>, Vortex solution</li>
-    <li><a href="http://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a> (en anglais seulement), ABC Life Literacy Canada</li>
-    <li><a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/">Lower-Literacy Users: Writing for a Broad Consumer Audience</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
-    <li><a href="https://www.nngroup.com/articles/minimize-cognitive-load/">Minimize Cognitive Load to Maximize Usability</a> (en anglais seulement), Kathryn Whitenton, Nielsen Norman Group</li>
-    <li><a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a> (en anglais seulement), Raluca Budio, Nielsen Norman Group</li>
-    <li><a href="http://plainlanguagenetwork.org/">Plain Language Association International</a> (en anglais seulement)</li>
-    <li><a href="https://www.navigatormm.com/blog/plain-language-please-heres-why-to-avoid-marketese-online/">Plain Language, Please! Here's Why to Avoid "Marketese" Only</a> (en anglais seulement), Sarah Bauer</li>
-    <li><a href="http://publications.gc.ca/site/fra/9.678667/publication.html">Pour un style clair et simple</a>, Travaux publics et services gouvernementaux Canada (réimprimé en 2003)</li>
-    <li><a href="http://www.noslangues-ourlanguages.gc.ca/index-fra.php">Portail linguistique du Canada</a>, gouvernement du Canada</li>
-    <li><a href="http://www.uottawa.ca/uoweb/sites/www.uottawa.ca.uoweb/files/principes_et_directives_lies_a_la_redaction_pour_le_web.pdf">Principes et directives liés à la rédaction pour le Web</a> (PDF), Université d'Ottawa</li>
-    <li><a href="http://editoile.fr/rediger-une-liste-a-puces/">Rédiger une liste à puces</a>, Éditoile</li>
-    <li><a href="http://www.w3.org/Translations/WCAG20-fr/">Règles pour l'accessibilité des contenus Web (WCAG) 2.0</a>, World Wide Web Consortium (W3C)</li>
-    <li><a href="http://www.publications.gc.ca/site/eng/9.639699/publication.html">Tendons la main&nbsp;: guide pour bien communiquer avec les aînés autochtones</a>, Santé Canada</li>
-    <li><a href="http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Bureau de la traduction</li>
-    <li><a href="http://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a> (en anglais seulement), George A. Miller</li>
-    <li>Vocabulaire d'Internet – Banque de terminologie du Québec, Index des termes français, Office québécois de la langue française</li>
-    <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a> (en anglais seulement), Jonathan Kahn, GatherContent</li>
-    <li><a href="http://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a> (en anglais seulement), Search Engine People</li>
-    <li><a href="http://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a> (en anglais seulement), The Deque Blog</li>
-    <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the Web</a> (en anglais seulement), Nielsen Norman Group</li>
-  </ul>
-</section>
-
+    <section id="wp7-3">
+      <h3>7.3 Vérifier que les liens fonctionnent</h3>
+      <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
+      <h4>Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise</h4>
+      <ul>
+        <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-3">7.3 Make sure that links work</a></span></li>
+      </ul>
+      <div class="mrgn-tp-lg">
+        <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur la vérification des liens&quot;, &quot;title&quot;: &quot;7.3 Vérifier que les liens fonctionnent&quot;, &quot;url&quot;: &quot;https://conception.canada.ca/guide-redaction/#wp7-3&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-3&quot;}"> </div>
+      </div>
+    </section>
+    <section id="wp7-4">
+      <h3>7.4 Créer des liens vers du contenu interne</h3>
+      <p>En général, le contenu destiné au public ne devrait pas contenir de liens renvoyant vers du contenu accessible seulement sur les serveurs internes du gouvernement. Il arrive cependant qu'un contenu accessible au public s'adresse essentiellement aux employés de la fonction publique.</p>
+      <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</p>
+      <h4>Voyez comment la règle sur le contenu interne s'applique à un contenu de langue anglaise</h4>
+      <ul>
+        <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-4">7.4 Linking to internal-to-government content</a></span></li>
+      </ul>
+      <div class="mrgn-tp-lg">
+        <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur le contenu interne&quot;, &quot;title&quot;: &quot;7.4 Créer des liens vers du contenu interne&quot;, &quot;url&quot;: &quot;https://conception.canada.ca/guide-redaction/#wp7-4&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-4&quot;}"> </div>
+      </div>
+    </section>
+    <section id="toc12">
+      <h2>Refonte de contenu Web</h2>
+      <h3>Étude de cas A&nbsp;: simplifier le langage et améliorer la structure du contenu </h3>
+      <h4>Avant</h4>
+      <p>L'assurance-emploi est un programme qui offre un soutien de revenu temporaire aux Canadiens et aux personnes légalement autorisées à travailler au Canada qui ont un numéro d'assurance sociale valide et qui demeurent au Canada pendant la durée de leurs prestations. Le programme offre entre autres des prestations régulières aux personnes qui ont perdu leur emploi sans en être responsables (par exemple, à la suite d'un manque de travail ou parce qu'elles occupaient un emploi saisonnier) et qui sont prêtes et disposées à travailler et capables de le faire en tout temps, sans pouvoir trouver du travail.</p>
+      <p>Niveau de lecture Scolarius&nbsp;: 312 (initié)</p>
+      <h4>Après</h4>
+      <p>L'assurance-emploi peut offrir une aide financière si vous n'avez plus de travail. Vous pourriez recevoir de l'argent régulièrement, pendant un certain temps, pour vous permettre de vous concentrer sur vos recherches d'emploi.</p>
+      <p>Pour y avoir droit, vous devez&nbsp;:</p>
+      <ul>
+        <li>être Canadien ou avoir le droit de travailler au Canada;</li>
+        <li>avoir un numéro d'assurance sociale;</li>
+        <li>avoir perdu votre emploi sans que ce soit de votre faute;</li>
+        <li>être prêt à travailler et capable de le faire en tout temps;</li>
+        <li>demeurer au Canada pendant que vous recevez des prestations.</li>
+      </ul>
+      <p>Niveau de lecture Scolarius&nbsp;: 71 (primaire)</p>
+      <h4>Ce que nous avons fait</h4>
+      <p>Pour améliorer le contenu, nous avons&nbsp;:</p>
+      <ul>
+        <li>subdivisé le paragraphe en liste d'éléments;</li>
+        <li>remplacé des noms et des verbes par des formes plus simples.</li>
+      </ul>
+      <h3>Étude de cas B&nbsp;: améliorer et simplifier les tableaux</h3>
+      <h4>Avant</h4>
+      <table class="table table-bordered table-condensed">
+        <caption class="text-center">
+          <strong>Soutenir les familles et les collectivités, Budget 2013</strong>
+        </caption>
+        <thead>
+          <tr class="active">
+            <th scope="col"><strong>Soutenir les familles et les collectivités (en millions de dollars)</strong></th>
+            <th class="text-right" scope="col"><strong>2013 à 14</strong></th>
+            <th class="text-right" scope="col"><strong>2014 à 15</strong></th>
+            <th class="text-right" scope="col"><strong>Total</strong></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"><strong>Soutenir les familles</strong></th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Élargir l'allègement fiscal à l'égard des services de soins à domicile</span></th>
+            <td class="text-right">5</td>
+            <td class="text-right">5</td>
+            <td class="text-right">10</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Soins palliatifs et soins de fin de vie</span></th>
+            <td class="text-right">1</td>
+            <td class="text-right">1</td>
+            <td class="text-right">2</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Allègements tarifaires pour les consommateurs canadiens</span></th>
+            <td class="text-right">76</td>
+            <td class="text-right">76</td>
+            <td class="text-right">152</td>
+          </tr>
+          <tr>
+            <th scope="row">Total partiel&nbsp;: Soutenir les familles</th>
+            <td class="text-right">82</td>
+            <td class="text-right">82</td>
+            <td class="text-right">164</td>
+          </tr>
+          <tr>
+            <th scope="row">&nbsp;</th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Investir dans les collectivités</strong></th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin</span></th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Stratégie des partenariats de lutte contre l'itinérance</span></th>
+            <td>&nbsp;</td>
+            <td class="text-right">119</td>
+            <td class="text-right">119</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement abordable</span></th>
+            <td>&nbsp;</td>
+            <td class="text-right">253</td>
+            <td class="text-right">253</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Investir dans le logement au Nunavut </span></th>
+            <td class="text-right">30</td>
+            <td class="text-right">70</td>
+            <td class="text-right">100</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Soutenir les anciens combattants et leur rendre hommage </span></th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Améliorer le Programme de funérailles et d'inhumation d'Anciens Combattants Canada </span></th>
+            <td class="text-right">63</td>
+            <td class="text-right">2</td>
+            <td class="text-right">65</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">En route vers 2017 </span></th>
+            <td class="text-right">1</td>
+            <td class="text-right">2</td>
+            <td class="text-right">3</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Investir dans les arts et la culture </span></th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Revitalisation du Massey Hall </span></th>
+            <td class="text-right">8</td>
+            <td class="text-right">&nbsp;</td>
+            <td class="text-right">8</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Étendre les services de bibliothèque pour les Canadiens aveugles ou atteints d'une déficience visuelle</span></th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Super crédit pour premier don de bienfaisance </span></th>
+            <td class="text-right">3</td>
+            <td class="text-right">&nbsp;</td>
+            <td class="text-right">3</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Appuyer la transition économique des collectivités associées à l'industrie de l'amiante chrysotile </span></th>
+            <td class="text-right">25</td>
+            <td class="text-right">25</td>
+            <td class="text-right">50</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin </span></th>
+            <td class="text-right">3</td>
+            <td class="text-right">5</td>
+            <td class="text-right">8</td>
+          </tr>
+          <tr>
+            <th scope="row">Total partiel&nbsp;: Investir dans les collectivités </th>
+            <td class="text-right">133</td>
+            <td class="text-right">476</td>
+            <td class="text-right">609</td>
+          </tr>
+          <tr>
+            <th scope="row">&nbsp;</th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Protéger l'environnement naturel du Canada</strong></th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Conservation de la nature Canada</span></th>
+            <td class="text-right">20</td>
+            <td class="text-right">&nbsp;</td>
+            <td class="text-right">20</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Améliorer la conservation des aires de pêche grâce aux partenariats communautaires </span></th>
+            <td class="text-right">5</td>
+            <td class="text-right">5</td>
+            <td class="text-right">10</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Timbre de conservation du saumon </span></th>
+            <td class="text-right">1</td>
+            <td class="text-right">1</td>
+            <td class="text-right">2</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Favoriser la gestion responsable des ressources marines </span></th>
+            <td class="text-right">4</td>
+            <td class="text-right">&nbsp;</td>
+            <td class="text-right">4</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Lutter contre les espèces envahissantes </span></th>
+            <td class="text-right">2</td>
+            <td class="text-right">2</td>
+            <td class="text-right">3</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Accroître l'aide fiscale pour la production d'énergie propre </span></th>
+            <td class="text-right">&nbsp;</td>
+            <td class="text-right">1</td>
+            <td class="text-right">1</td>
+          </tr>
+          <tr>
+            <th scope="row">Total partiel&nbsp;: Protéger l'environnement naturel du Canada </th>
+            <td class="text-right">32</td>
+            <td class="text-right">9</td>
+            <td class="text-right">41</td>
+          </tr>
+          <tr>
+            <th scope="row">&nbsp;</th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Créer des collectivités autochtones vigoureuses</strong></th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Régler les revendications particulières</span></th>
+            <td class="text-right">27</td>
+            <td class="text-right">27</td>
+            <td class="text-right">54</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Régime de gestion des terres des Premières Nations </span></th>
+            <td class="text-right">2</td>
+            <td class="text-right">7</td>
+            <td class="text-right">9</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Programme des services de police des Premières Nations </span></th>
+            <td class="text-right">18</td>
+            <td class="text-right">18</td>
+            <td class="text-right">36</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Stratégie de la justice applicable aux Autochtones </span></th>
+            <td class="text-right">11</td>
+            <td class="text-right">&nbsp;</td>
+            <td class="text-right">11</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Renouveler le Programme pour la prévention de la violence familiale </span></th>
+            <td class="text-right">12</td>
+            <td class="text-right">12</td>
+            <td class="text-right">24</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Améliorer les services de santé dans les collectivités des Premières Nations </span></th>
+            <td class="text-right">24</td>
+            <td class="text-right">24</td>
+            <td class="text-right">48</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Améliorer les services en santé mentale dans les collectivités des Premières Nations </span></th>
+            <td class="text-right">2</td>
+            <td class="text-right">2</td>
+            <td class="text-right">4</td>
+          </tr>
+          <tr>
+            <th scope="row">Total partiel&nbsp;: Créer des collectivités autochtones vigoureuses </th>
+            <td class="text-right">95</td>
+            <td class="text-right">90</td>
+            <td class="text-right">185</td>
+          </tr>
+          <tr>
+            <th scope="row">&nbsp;</th>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Total&nbsp;: Soutenir les familles et les collectivités</strong></th>
+            <td class="text-right"><strong>342</strong></td>
+            <td class="text-right"><strong>657</strong></td>
+            <td class="text-right"><strong>999</strong></td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Moins les fonds prévus dans le cadre financier actuel </span></th>
+            <td class="text-right">(76)</td>
+            <td class="text-right">(422)</td>
+            <td class="text-right">(498)</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Moins les fonds assurés au moyen de réaffectations internes </span></th>
+            <td class="text-right">(1)</td>
+            <td class="text-right">(11)</td>
+            <td class="text-right">(12)</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Coût budgétaire net</strong></th>
+            <td class="text-right"><strong>265</strong></td>
+            <td class="text-right"><strong>224</strong></td>
+            <td class="text-right"><strong>489</strong></td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td class="small" colspan="4">
+              <p>Remarque&nbsp;: Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+      <h4>Après</h4>
+      <table class="table table-bordered table-condensed">
+        <caption class="text-center">
+          <strong>Tableau 1&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts budgétaires nets (en millions de dollars)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 1</span></a></sup></strong>
+        </caption>
+        <thead>
+          <tr class="active">
+            <th scope="col"><strong>Répartition des coûts</strong></th>
+            <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+            <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+            <th class="text-right" scope="col"><strong>Total</strong></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">Total&nbsp;: Soutenir les familles et les collectivités<sup id="table1-fn2-rf"><a class="fn-lnk" href="#table1-fn2"><span class="wb-inv">Voir la note </span>2<span class="wb-inv"> du tableau 1</span></a></sup></th>
+            <td class="text-right">342</td>
+            <td class="text-right">657</td>
+            <td class="text-right">999</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Moins les fonds prévus dans le cadre financier actuel</span></th>
+            <td class="text-right">(76)</td>
+            <td class="text-right">(422)</td>
+            <td class="text-right">(498)</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Moins les fonds assurés au moyen de réaffectations internes</span></th>
+            <td class="text-right">(1)</td>
+            <td class="text-right">(11)</td>
+            <td class="text-right">(12)</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Coûts budgétaires nets</strong></th>
+            <td class="text-right"><strong>265</strong></td>
+            <td class="text-right"><strong>224</strong></td>
+            <td class="text-right"><strong>489</strong></td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="4">
+              <section class="wb-fnote">
+                <h5 class="wb-inv" id="table1a-fn">Notes du tableau 1</h5>
+                <dl>
+                  <dt> Note 1 du tableau 1 </dt>
+                  <dd id="table1-fn1">
+                    <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                    <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 1</span></a></p>
+                  </dd>
+                  <dt> Note 2 du tableau 1 </dt>
+                  <dd id="table1-fn2">
+                    <p>Voir le tableau 1B pour une ventilation détaillée.</p>
+                    <p class="fn-rtn"> <a href="#table1-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 1</span></a></p>
+                  </dd>
+                </dl>
+              </section>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+      <table class="table table-bordered table-condensed">
+        <caption class="text-center">
+          <strong>Tableau 1A&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts totaux (en millions de dollars)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 2</span></a></sup></strong>
+        </caption>
+        <thead>
+          <tr class="active">
+            <th scope="col"><strong>Initiatives et programmes</strong></th>
+            <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+            <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+            <th class="text-right" scope="col"><strong>Total</strong></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Soutenir les familles<sup id="table2-fn2-rf"><a class="fn-lnk" href="#table2-fn2"><span class="wb-inv">Voir la note </span>2<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
+            <td class="text-right">82</td>
+            <td class="text-right">82</td>
+            <td class="text-right">164</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Investir dans les collectivités<sup id="table2-fn3-rf"><a class="fn-lnk" href="#table2-fn3"><span class="wb-inv">Voir la note </span>3<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
+            <td class="text-right">133</td>
+            <td class="text-right">476</td>
+            <td class="text-right">609</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Protéger l'environnement naturel du Canada<sup id="table2-fn4-rf"><a class="fn-lnk" href="#table2-fn4"><span class="wb-inv">Voir la note </span>4<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
+            <td class="text-right">32</td>
+            <td class="text-right">9</td>
+            <td class="text-right">41</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Créer des collectivités autochtones vigoureuses<sup id="table2-fn5-rf"><a class="fn-lnk" href="#table2-fn5"><span class="wb-inv">Voir la note </span>5<span class="wb-inv"> du tableau 2</span></a></sup></span></th>
+            <td class="text-right">95</td>
+            <td class="text-right">90</td>
+            <td class="text-right">185</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Total&nbsp;: Soutenir les familles et les collectivités</strong></th>
+            <td class="text-right"><strong>342</strong></td>
+            <td class="text-right"><strong>657</strong></td>
+            <td class="text-right"><strong>999</strong></td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="4">
+              <section class="wb-fnote">
+                <h5 class="wb-inv" id="table1-fn">Notes du tableau 1</h5>
+                <dl>
+                  <dt> Note 1 du tableau 2 </dt>
+                  <dd id="table2-fn1">
+                    <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                    <p class="fn-rtn"> <a href="#table2-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 2</span></a></p>
+                  </dd>
+                  <dt> Note 2 du tableau 2 </dt>
+                  <dd id="table2-fn2">
+                    <p>Voir le tableau 1B pour une ventilation détaillée.</p>
+                    <p class="fn-rtn"> <a href="#table2-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 2</span></a></p>
+                  </dd>
+                  <dt> Note 3 du tableau 2 </dt>
+                  <dd id="table2-fn3">
+                    <p>Voir le tableau 1C pour une ventilation détaillée.</p>
+                    <p class="fn-rtn"> <a href="#table2-fn3-rf"><span class="wb-inv">Retour à la référence de la note </span>3<span class="wb-inv"> du tableau 2</span></a></p>
+                  </dd>
+                  <dt> Note 4 du tableau 2 </dt>
+                  <dd id="table2-fn4">
+                    <p>Voir le tableau 1D pour une ventilation détaillée.</p>
+                    <p class="fn-rtn"> <a href="#table2-fn4-rf"><span class="wb-inv">Retour à la référence de la note </span>4<span class="wb-inv"> du tableau 2</span></a></p>
+                  </dd>
+                  <dt> Note 5 du tableau 2 </dt>
+                  <dd id="table2-fn5">
+                    <p>Voir le tableau 1E pour une ventilation détaillée.</p>
+                    <p class="fn-rtn"> <a href="#table2-fn5-rf"><span class="wb-inv">Retour à la référence de la note </span>5<span class="wb-inv"> du tableau 2</span></a></p>
+                  </dd>
+                </dl>
+              </section>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+      <table class="table table-bordered table-condensed">
+        <caption class="text-center">
+          <strong>Tableau 1B&nbsp;: Soutien aux familles pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 3</span></a></sup></strong>
+        </caption>
+        <thead>
+          <tr class="active">
+            <th scope="col"><strong>Initiatives et programmes</strong></th>
+            <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+            <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+            <th class="text-right" scope="col"><strong>Total</strong></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Allègement fiscal à l'égard des services de soins à domicile</span></th>
+            <td class="text-right">5</td>
+            <td class="text-right">5</td>
+            <td class="text-right">10</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Soins palliatifs et soins de fin de vie</span></th>
+            <td class="text-right">1</td>
+            <td class="text-right">1</td>
+            <td class="text-right">2</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Allègements tarifaires pour les consommateurs canadiens</span></th>
+            <td class="text-right">76</td>
+            <td class="text-right">76</td>
+            <td class="text-right">152</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Total partiel&nbsp;: Soutenir les familles</strong></th>
+            <td class="text-right"><strong>82</strong></td>
+            <td class="text-right"><strong>82</strong></td>
+            <td class="text-right"><strong>164</strong></td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="4">
+              <section class="wb-fnote">
+                <h5 class="wb-inv" id="table3-fn">Notes du tableau 3</h5>
+                <dl>
+                  <dt> Note 1 du tableau 3 </dt>
+                  <dd id="table3-fn1">
+                    <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                    <p class="fn-rtn"> <a href="#table3-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 3</span></a></p>
+                  </dd>
+                </dl>
+              </section>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+      <table class="table table-bordered table-condensed">
+        <caption class="text-center">
+          <strong>Tableau 1C&nbsp;: Investir dans les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 4</span></a></sup></strong>
+        </caption>
+        <thead>
+          <tr class="active">
+            <th scope="col"><strong>Initiatives et programmes</strong></th>
+            <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+            <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+            <th class="text-right" scope="col"><strong>Total</strong></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin</span></th>
+            <td class="text-right">0</td>
+            <td class="text-right">0</td>
+            <td class="text-right">0</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Stratégie des partenariats de lutte contre l'itinérance</span></th>
+            <td class="text-right">0</td>
+            <td class="text-right">119</td>
+            <td class="text-right">119</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement abordable</span></th>
+            <td class="text-right">0</td>
+            <td class="text-right">253</td>
+            <td class="text-right">253</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement au Nunavut</span></th>
+            <td class="text-right">30</td>
+            <td class="text-right">70</td>
+            <td class="text-right">100</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Soutient et hommage combattants et leur rendre hommage</span></th>
+            <td class="text-right">0</td>
+            <td class="text-right">0</td>
+            <td class="text-right">0</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md"> Programme de funérailles et d'inhumation d'Anciens Combattants Canada</span></th>
+            <td class="text-right">63</td>
+            <td class="text-right">2</td>
+            <td class="text-right">65</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">En route vers 2017</span></th>
+            <td class="text-right">1</td>
+            <td class="text-right">2</td>
+            <td class="text-right">3</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Investissement dans les arts et la culture</span></th>
+            <td class="text-right">0</td>
+            <td class="text-right">0</td>
+            <td class="text-right">0</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Revitalisation du Massey Hall</span></th>
+            <td class="text-right">8</td>
+            <td class="text-right">0</td>
+            <td class="text-right">8</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Services de bibliothèque pour les Canadiens aveugles ou atteints d'une déficience visuelle</span></th>
+            <td class="text-right">3</td>
+            <td class="text-right">0</td>
+            <td class="text-right">3</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Super crédit pour premier don de bienfaisance</span></th>
+            <td class="text-right">25</td>
+            <td class="text-right">25</td>
+            <td class="text-right">50</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Appui de transition économique des collectivités associées à l'industrie de l'amiante chrysotile</span></th>
+            <td class="text-right">3</td>
+            <td class="text-right">5</td>
+            <td class="text-right">8</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Total partiel&nbsp;: Investir dans les collectivités</strong></th>
+            <td class="text-right"><strong>133</strong></td>
+            <td class="text-right"><strong>476</strong></td>
+            <td class="text-right"><strong>609</strong></td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="4">
+              <section class="wb-fnote">
+                <h5 class="wb-inv" id="table4-fn">Notes du tableau 4</h5>
+                <dl>
+                  <dt> Note 1 du tableau 4 </dt>
+                  <dd id="table4-fn1">
+                    <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                    <p class="fn-rtn"> <a href="#table4-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 4</span></a></p>
+                  </dd>
+                </dl>
+              </section>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+      <table class="table table-bordered table-condensed">
+        <caption class="text-center">
+          <strong>Tableau 1D&nbsp;: Protéger l'environnement naturel du Canada pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 5</span></a></sup></strong>
+        </caption>
+        <thead>
+          <tr class="active">
+            <th scope="col"><strong>Initiatives et programmes</strong></th>
+            <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+            <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+            <th class="text-right" scope="col"><strong>Total</strong></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Conservation de la nature Canada</span></th>
+            <td class="text-right">20</td>
+            <td class="text-right">0</td>
+            <td class="text-right">20</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Conservation des aires de pêche grâce aux partenariats communautaires</span></th>
+            <td class="text-right">5</td>
+            <td class="text-right">5</td>
+            <td class="text-right">10</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Timbre de conservation du saumon</span></th>
+            <td class="text-right">1</td>
+            <td class="text-right">1</td>
+            <td class="text-right">2</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Gestion responsable des ressources marines</span></th>
+            <td class="text-right">4</td>
+            <td class="text-right">0</td>
+            <td class="text-right">4</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Lutte contre les espèces envahissantes</span></th>
+            <td class="text-right">2</td>
+            <td class="text-right">2</td>
+            <td class="text-right">3</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Aide fiscale pour la production d'énergie propre</span></th>
+            <td class="text-right">0</td>
+            <td class="text-right">1</td>
+            <td class="text-right">1</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Total partiel&nbsp;: Protéger l'environnement naturel du Canada</strong></th>
+            <td class="text-right"><strong>32</strong></td>
+            <td class="text-right"><strong>9</strong></td>
+            <td class="text-right"><strong>41</strong></td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="4">
+              <section class="wb-fnote">
+                <h5 class="wb-inv" id="table5-fn">Notes du tableau 5</h5>
+                <dl>
+                  <dt> Note 1 du tableau 5 </dt>
+                  <dd id="table5-fn1">
+                    <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                    <p class="fn-rtn"> <a href="#table5-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 5</span></a></p>
+                  </dd>
+                </dl>
+              </section>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+      <table class="table table-bordered table-condensed">
+        <caption class="text-center">
+          <strong>Tableau 1E&nbsp;: Créer des collectivités autochtones vigoureuses pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 6</span></a></sup></strong>
+        </caption>
+        <thead>
+          <tr class="active">
+            <th scope="col"><strong>Initiatives et programmes</strong></th>
+            <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
+            <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
+            <th class="text-right" scope="col"><strong>Total</strong></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Résolution des revendications particulières</span></th>
+            <td class="text-right">27</td>
+            <td class="text-right">27</td>
+            <td class="text-right">54</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Régime de gestion des terres des Premières Nations</span></th>
+            <td class="text-right">2</td>
+            <td class="text-right">7</td>
+            <td class="text-right">9</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Programme des services de police des Premières Nations</span></th>
+            <td class="text-right">18</td>
+            <td class="text-right">18</td>
+            <td class="text-right">36</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Stratégie de la justice applicable aux Autochtones</span></th>
+            <td class="text-right">11</td>
+            <td class="text-right">0</td>
+            <td class="text-right">11</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md"> Programme pour la prévention de la violence familiale</span></th>
+            <td class="text-right">12</td>
+            <td class="text-right">12</td>
+            <td class="text-right">24</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Services de santé dans les collectivités des Premières Nations</span></th>
+            <td class="text-right">24</td>
+            <td class="text-right">24</td>
+            <td class="text-right">48</td>
+          </tr>
+          <tr>
+            <th scope="row"><span class="mrgn-lft-md">Services en santé mentale dans les collectivités des Premières Nations</span></th>
+            <td class="text-right">2</td>
+            <td class="text-right">2</td>
+            <td class="text-right">4</td>
+          </tr>
+          <tr>
+            <th scope="row"><strong>Total partiel&nbsp;: Créer des collectivités autochtones vigoureuses</strong></th>
+            <td class="text-right"><strong>95</strong></td>
+            <td class="text-right"><strong>90</strong></td>
+            <td class="text-right"><strong>185</strong></td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="4">
+              <section class="wb-fnote">
+                <h5 class="wb-inv" id="table6-fn">Notes du tableau 6</h5>
+                <dl>
+                  <dt> Note 1 du tableau 6 </dt>
+                  <dd id="table6-fn1">
+                    <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+                    <p class="fn-rtn"> <a href="#table6-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 6</span></a></p>
+                  </dd>
+                </dl>
+              </section>
+            </td>
+          </tr>
+        </tfoot>
+      </table>
+      <h4>Ce que nous avons fait</h4>
+      <p>Pour créer ces tableaux, nous avons&nbsp;:</p>
+      <ul>
+        <li>divisé un tableau complexe en plusieurs tableaux simples et faciles à consulter à partir d'un appareil mobile;</li>
+        <li>utilisé l'approche de la pyramide inversée de façon à présenter le résumé ou la conclusion en premier, suivi de renseignements de plus en plus détaillés;</li>
+        <li>rédigé des titres clairs pour chaque tableau;</li>
+        <li>utilisé les sous-titres existants compris dans l'exemple initial pour créer les titres des différents tableaux;</li>
+        <li>veillé à ce que les en-têtes des 3 colonnes numériques correspondent à la valeur unitaire indiquée dans chaque colonne;</li>
+        <li>ajouté des zéros afin de fournir des renseignements pertinents dans les cellules qui auraient autrement été laissées vides;</li>
+        <li>supprimé les cellules et les rangées vides ainsi que les sous-titres non pertinents (c'est-à-dire, ceux qui ne correspondaient à aucune valeur sous les en-têtes de colonne).</li>
+      </ul>
+    </section>
+    <section id="toc13">
+      <h2>Ressources</h2>
+      <ul>
+        <li><a href="http://ccat-ctac.org/CMFiles/Publication/LiteracyBook-FR.pdf">L'alphabétisation et l'accès à la justice administrative au Canada</a>, Conseil des tribunaux administratifs canadiens</li>
+        <li><a href="http://www.spl.gouv.qc.ca/ministreetspl/actualites/detail/article/bonnes-pratiques/">Bonnes pratiques de la communication écrite dans les démarches en ligne</a>, Secrétariat à la politique linguistique et par la Délégation générale à la langue française et aux langues de France</li>
+        <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction, Ressource du Portail linguistique du Canada, Gouvernement du Canada</a></cite></li>
+        <li><a href="http://publications.europa.eu/code/fr/fr-000500.htm">Code de rédaction interinstitutionnel</a>, Commission Européenne</li>
+        <li><a href="http://www.publications.gc.ca/site/fra/9.639707/publication.html">Communiquer avec les aînés&nbsp;: conseils et techniques</a>, Santé Canada</li>
+        <li><a href="http://www.spiria.com/fr/blogue/sites-web/comprendre-laccessibilite-web">Comprendre l'accessibilité Web</a>, SPIRIA</li>
+        <li><a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-f.asp">Directives d'adressage</a>, Postes Canada</li>
+        <li><a href="http://www.omafra.gov.on.ca/french/nfporgs/07-050.htm">Écrire avec clarté</a>, Ministère de l'Agriculture, de l'Alimentation et des Affaires rurales de l'Ontario</li>
+        <li><a href="http://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-fra.htm">Étude&nbsp;: Les diplômés universitaires ayant des niveaux de compétence moindres en littératie et en numératie, 2012</a>, Statistique Canada</li>
+        <li><a href="http://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-fra.htm">Étude&nbsp;: Littératie et numératie chez les Premières Nations vivant hors réserve et les Métis, 2012</a>, Statistique Canada</li>
+        <li><a href="http://www.ergolab.net/articles/faciliter-lecture-informations-web.php">Faciliter la lecture d'informations sur le web</a>, Ergolab</li>
+        <li><a href="http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf">Good Fonts for Dyslexia</a> (en anglais seulement), Luz Rello, NLP &amp; Web Research Groups, et Ricardo Baeza-Yates, Yahoo! Labs &amp; Web Research Group, UPF</li>
+        <li><a href="http://www.autisme.qc.ca/assets/files/07-boite-outils/Communication/Guide-pavillon-parc.pdf">Guide de rédaction pour une information accessible</a>, Équipe de recherche en littératie et inclusion</li>
+        <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
+        <li><a href="http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?t1=1&amp;id=4208">Impératif et infinitif</a>, Office québécois de la langue française</li>
+        <li><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-FR.pdf">Introduction à la justice administrative et au langage clair</a>, Conseil des tribunaux administratifs canadiens</li>
+        <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a> (en anglais seulement), Government Digital Service, GOV.UK</li>
+        <li><a href="http://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-fra.htm">Les compétences au Canada&nbsp;: Premiers résultats du Programme pour l'évaluation internationale des compétences des adultes</a>, Statistique Canada</li>
+        <li><a href="http://www.vortexsolution.com/lexique-web-montreal.html">Lexique Web</a>, Vortex solution</li>
+        <li><a href="http://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a> (en anglais seulement), ABC Life Literacy Canada</li>
+        <li><a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/">Lower-Literacy Users: Writing for a Broad Consumer Audience</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
+        <li><a href="https://www.nngroup.com/articles/minimize-cognitive-load/">Minimize Cognitive Load to Maximize Usability</a> (en anglais seulement), Kathryn Whitenton, Nielsen Norman Group</li>
+        <li><a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a> (en anglais seulement), Raluca Budio, Nielsen Norman Group</li>
+        <li><a href="http://plainlanguagenetwork.org/">Plain Language Association International</a> (en anglais seulement)</li>
+        <li><a href="https://www.navigatormm.com/blog/plain-language-please-heres-why-to-avoid-marketese-online/">Plain Language, Please! Here's Why to Avoid "Marketese" Only</a> (en anglais seulement), Sarah Bauer</li>
+        <li><a href="http://publications.gc.ca/site/fra/9.678667/publication.html">Pour un style clair et simple</a>, Travaux publics et services gouvernementaux Canada (réimprimé en 2003)</li>
+        <li><a href="http://www.noslangues-ourlanguages.gc.ca/index-fra.php">Portail linguistique du Canada</a>, gouvernement du Canada</li>
+        <li><a href="http://www.uottawa.ca/uoweb/sites/www.uottawa.ca.uoweb/files/principes_et_directives_lies_a_la_redaction_pour_le_web.pdf">Principes et directives liés à la rédaction pour le Web</a> (PDF), Université d'Ottawa</li>
+        <li><a href="http://editoile.fr/rediger-une-liste-a-puces/">Rédiger une liste à puces</a>, Éditoile</li>
+        <li><a href="http://www.w3.org/Translations/WCAG20-fr/">Règles pour l'accessibilité des contenus Web (WCAG) 2.0</a>, World Wide Web Consortium (W3C)</li>
+        <li><a href="http://www.publications.gc.ca/site/eng/9.639699/publication.html">Tendons la main&nbsp;: guide pour bien communiquer avec les aînés autochtones</a>, Santé Canada</li>
+        <li><a href="http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Bureau de la traduction</li>
+        <li><a href="http://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a> (en anglais seulement), George A. Miller</li>
+        <li>Vocabulaire d'Internet – Banque de terminologie du Québec, Index des termes français, Office québécois de la langue française</li>
+        <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a> (en anglais seulement), Jonathan Kahn, GatherContent</li>
+        <li><a href="http://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a> (en anglais seulement), Search Engine People</li>
+        <li><a href="http://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a> (en anglais seulement), The Deque Blog</li>
+        <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the Web</a> (en anglais seulement), Nielsen Norman Group</li>
+      </ul>
+    </section>
