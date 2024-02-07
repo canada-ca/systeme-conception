@@ -2184,7 +2184,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </ul>
       </ul>
       <ul>
-        <li><strong>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue.</strong>
+        <li><strong>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue.</strong></li>
+        <p>Certains contenus pour lesquels le gouvernement ne fait pas autorité ne sont pas disponibles dans les deux langues officielles. Si vous créez un lien vers du contenu Web externe qui n'est pas disponible dans la langue de la page courante, précisez la ou les langues dans lesquelles le contenu est disponible.</p>
           <ul>
             <li>Ajoutez une parenthèse à l'intérieur du lien et spécifiez la langue du contenu lié, formatée comme suit&nbsp;: (Langue X seulement).</li>
             <li>Ne traduisez pas le titre du contenu en renvoi.</li>
