@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-02-01
+dateModified: 2024-02-08
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -37,7 +37,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section id="toc1">
   <h2>Mises à jour récentes</h2>
-  <p>Nous avons apporté les modifications suivantes à cette version du guide :</p>
+  <p>Nous avons apporté les modifications suivantes à cette version du guide&nbsp;:</p>
   <ul>
     <li>ajout d’une page distincte pour l’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour du Guide de rédaction du contenu du site Canada.ca</a></li>
   </ul>
@@ -2158,25 +2158,25 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#">Texte en hyperlien (en inuktitut seulement)</a></li>
             <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a>
               <ul>
-                <li><strong>Exemple&nbsp;:&nbsp;</strong>L’article 508 révisé, la norme EN 301 549 ou les <span lang="en"><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
+                <li><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <span lang="en"><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
               </ul>
             </li>
           </ul>
           <p>Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français.</p>
           <ul>
-            <li>Example &nbsp;:&nbsp;<a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></li>
+            <li><strong>Exemple</strong>&nbsp;: <a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></li>
           </ul>
         </li>
         <li>
           <p><strong>Le lien renvoi à un contenu audio ou vidéo. </strong> Précisez la durée du contenu entre parenthèses.</p>
           <ul>
-            <li><strong>Exemple&nbsp;</strong>:&nbsp;<span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></li>
+            <li><strong>Exemple</strong>&nbsp;: <span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></li>
           </ul>
         </li>
         <li>
           <p><strong>Lorsque plus d’une de ces situations s’appliquent, ajoutez toutes les informations contextuelles nécessaires entre parenthèses.</strong></p>
           <ul>
-            <li><strong>Exemple&nbsp;</strong>:&nbsp;<a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 KB, 4 pages)</a> </li>
+            <li><strong>Exemple</strong>&nbsp;: <a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 KB, 4 pages)</a> </li>
           </ul>
         </li>
       </ul>
