@@ -2152,17 +2152,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li>Ne traduisez pas le titre du contenu en renvoi.</li>
             <li>Assurez-vous que la langue du renvoi soit spécifiée dans le code du lien.</li>
           </ul>
-          <p class="mrgn-tp-md">Sur une page en francais, écrivez&nbsp;:</p>
+          <p>Sur une page en francais, écrivez&nbsp;:</p>
           <ul>
             <li><a href="#">Texte en hyperlien (en anglais seulement)</a></li>
             <li><a href="#">Texte en hyperlien (en inuktitut seulement)</a></li>
-            <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a>
-              <ul>
-                <li><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <span lang="en"><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
-              </ul>
-            </li>
+            <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a></li>
           </ul>
-          <p class="mrgn-tp-md">Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français.</p>
+          <p><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <span lang="en"><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></p>
+          <p>Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français.</p>
           <ul>
             <li><strong>Exemple</strong>&nbsp;: <a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></li>
           </ul>
