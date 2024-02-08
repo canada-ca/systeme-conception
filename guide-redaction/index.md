@@ -2156,9 +2156,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <ul>
             <li><a href="#">Texte en hyperlien (en anglais seulement)</a></li>
             <li><a href="#">Texte en hyperlien (en inuktitut seulement)</a></li>
-            <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a></li>
+            <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a>
+              <ul>
+                <li><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <span lang="en"><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
+              </ul>
+            </li>
           </ul>
-          <p><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <span lang="en"><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></p>
           <p>Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français.</p>
           <ul>
             <li><strong>Exemple</strong>&nbsp;: <a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></li>
