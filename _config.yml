@@ -49,7 +49,7 @@
       },
       "links": {
         "fr": [{
-          "url": "/contactez-nous/",
+          "url": "mailto:cds.dto-btn.snc@servicecanada.gc.ca",
           "text": "Contactez-nous"
         }]
       }
@@ -70,6 +70,10 @@
   "urldesign": "https://design.canada.ca",
   "urlcanadaca": "https://www.canada.ca",
   "urlblogue": "https://blogue.canada.ca",
+  "emails": {
+    "dto": "cds.dto-btn.snc@servicecanada.gc.ca",
+    "atip": "ATIP.AIPRP@tbs-sct.gc.ca"
+  },
   "webmaster_verifications": {
     "google": "Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM",
     "yandex": "4dda5b1b6e392d83"
