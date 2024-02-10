@@ -16,10 +16,10 @@ title: "Historique des mises à jour du Guide de rédaction du contenu du site C
    <li>Mise à jour de la section <a href="/guide-redaction/#ressources">Ressources</a>.</li>
    </ul>
 </ul>
-<ul>
+<ul class="mrgn-tp-lg">
 <li>Dans la section 2.1 Commencer par les renseignements les plus importants&nbsp;:&nbsp;<a href="/guide-redaction/#wp2-1">Mise à jour de l’image de la pyramide inversée</a>. Nous avons retiré la majorité du texte de l'image et l'avons ajouté au contenu de la page pour faciliter la lecture</li>
 </ul>
-<ul>
+<ul class="mrgn-tp-lg">
 <li>Dans la section 4.4 Abréviations, acronymes et référence&nbsp;: Ajout de précisions et références clés sur l’emploi des abréviations, tel que&nbsp;:</li>
   <ul>
   <li>Ajout de précision pour indiquer que <a href="/guide-redaction/#wp4-4">les abréviations doivent être accompagnées de leur signification écrite au longa à la première mention</a> sur une page</li>
@@ -30,7 +30,8 @@ title: "Historique des mises à jour du Guide de rédaction du contenu du site C
     </ul>
   </ul>
 </ul>
-  <ul><li>Dans la section à la section 7.2 Rédiger des liens descriptifs&nbsp;:&nbsp;ajout d'une sous-section, &laquo;&nbsp;<a href="https://conception.canada.ca/guide-redaction/#wp7-2-2">Utiliser des parenthèses pour ajouter des informations contextuelles</a>&nbsp;&raquo;, afin de préciser quand et comment ajouter des informations supplémentaires à l'intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 &laquo;&nbsp;Liens vers des contenus non gouvernementaux&nbsp;&raquo;, qui n’est plus nécessaire.</li>
+<ul class="mrgn-tp-lg">
+  <li>Dans la section à la section 7.2 Rédiger des liens descriptifs&nbsp;:&nbsp;ajout d'une sous-section, &laquo;&nbsp;<a href="https://conception.canada.ca/guide-redaction/#wp7-2-2">Utiliser des parenthèses pour ajouter des informations contextuelles</a>&nbsp;&raquo;, afin de préciser quand et comment ajouter des informations supplémentaires à l'intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 &laquo;&nbsp;Liens vers des contenus non gouvernementaux&nbsp;&raquo;, qui n’est plus nécessaire.</li>
 </ul>
 <h2>le 12 décembre 2023</h2>
 <li>Ajout d’une page distincte pour l’historique des mises à jour du Guide de rédaction du contenu du site Canada.ca</li>
