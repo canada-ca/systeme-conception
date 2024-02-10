@@ -227,7 +227,7 @@ title: "Orientation dans Canada.ca"
 <h2 id="communiquez">Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor du Canada</h2>
 <p>Contactez-nous si vous avez des questions ou si vous souhaitez voir les résultats de recherche détaillés de ce projet ou de l’étude sur la confiance.</p>
 <ul>
-  <li>Courriel&nbsp;: <a href="mailto:dto-btn@tbs-sct.gc.ca">dto-btn@tbs-sct.gc.ca</a></li>
+  <li>Courriel&nbsp;: <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a></li>
   <li>Twitter&nbsp;: #Canadapointca (français) / #Canadadotca (anglais)</li>
   <li>Slack&nbsp;: <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
 </ul>
