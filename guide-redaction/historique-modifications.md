@@ -14,6 +14,8 @@ title: "Historique des mises à jour du Guide de rédaction du contenu du site C
    <li>Section <a href="/guide-redaction/#but-du-document">But du document</a>&nbsp;:&nbsp;Suppression des références à <i>Le guide du rédacteur</i> et remplacement par des références à <i>Clés de la rédaction.</i></li>
    <li>Section <a href="/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italiques</a>&nbsp;:&nbsp;Remplacement de liens vers du contenu archivé par des liens vers des articles courants
    <li>Mise à jour de la section <a href="/guide-redaction/#ressources">Ressources</a>.</li>
+   </ul>
+</ul>
 <ul class="mrgn-tp-lg">
 <li>Dans la section 2.1 Commencer par les renseignements les plus importants&nbsp;:&nbsp;<a href="/guide-redaction/#wp2-1">Mise à jour de l’image de la pyramide inversée</a>. Nous avons retiré la majorité du texte de l'image et l'avons ajouté au contenu de la page pour faciliter la lecture</li>
 </ul>
