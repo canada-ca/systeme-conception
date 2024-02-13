@@ -174,7 +174,7 @@ title: "Abonnez-vous à la liste d\u2019envoi des Gestionnaires Web du GC"
     <input name="b_5700d338d6ab413ebca1099f4_07e7a9ed24" tabindex="-1" type="text" value=""/>
    </div>
    <div class="clear">
-    <input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe"/>
+    <input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="S'inscrire"/>
    </div>
   </div>
  </form>

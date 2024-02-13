@@ -164,7 +164,7 @@
             "link": "https://conception.canada.ca"
           },
           {
-            "link": "acceuil.html",
+            "link": "https://conception.canada.ca/communte/acceuil.html",
             "title": "Communauté"
           }
         ]
@@ -185,7 +185,7 @@
           },
           {
             "title": "Sondage sur la réussite des tâches",
-            "link": "sondage/index.html"
+            "link": "https://conception.canada.ca/sondage/index.html"
           }
         ]
       }
@@ -365,7 +365,7 @@
           },
           {
             "title": "Outil de rétroaction",
-            "link": "retroaction/index.html"
+            "link": "https://conception.canada.ca/retroaction/index.html"
           }
         ]
       }
@@ -499,6 +499,35 @@
             "link": "https://conception.canada.ca/bibliotheque-modeles.html"
           }
         ]
+      }
+    },
+    {
+      "scope": {
+        "path": "resumes-recherche/*.md"
+      },
+      "values": {
+        "section-title": "Résumé de recherche",
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
+          {
+            "title": "Résumés de recherche",
+            "link": "https://conception.canada.ca/resumes-recherche/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "resumes-recherche/index.md"
+      },
+      "values": {
+        "section-title": "",
+        "breadcrumbs": [{
+          "title": "À propos de Canada.ca",
+          "link": "https://conception.canada.ca/a-propos/"
+        }]
       }
     }, {
       "scope": {

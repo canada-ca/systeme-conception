@@ -225,7 +225,7 @@ title: "Fil d'Ariane"
 <ul>
   <li><a href="https://blogue.canada.ca/2020/08/10/canadapointca-source-fiable">Canada.ca est une source fiable</a><br>
     Explique la décision d’utiliser &laquo;&nbsp;Canada.ca&nbsp;&raquo; comme étiquette du premier lien du fil d’Ariane.</li>
-  <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche – Orientation dans Canada.ca</a><br>
+  <li><a href="{{ site.url }}/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche – Orientation dans Canada.ca</a><br>
     La recherche montre que les personnes qui naviguent sur le site utilisent les liens du fil d’Ariane près de deux fois plus souvent que le menu des thèmes et des sujets</li>
 </ul>
 
