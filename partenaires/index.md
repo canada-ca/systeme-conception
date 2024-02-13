@@ -11,7 +11,7 @@ description: "Le Bureau de la transformation numérique travaille avec des organ
 title: "Travailler en partenariat pour améliorer la réussite des tâches sur Canada.ca"
 ---
 <p>Le Bureau de la transformation numérique travaille avec des organismes fédéraux pour rendre le contenu de Canada.ca plus facile à trouver et à comprendre.</p>
-<p>Notre méthode consiste à collaborer pour :</p>
+<p>Notre méthode consiste à collaborer pou&nbsp;:</p>
 <ul>
   <li>Fixer des objectifs d’utilisabilité concrets</li>
   <li>Conduire des tests d’utilisabilité pour des services précis du gouvernement du Canada</li>
