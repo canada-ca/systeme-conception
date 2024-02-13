@@ -1,3 +1,11 @@
+---
+altLangPage: "https://design.canada.ca/style-guide/update-history.html"
+date: 2023-12-21
+dateModified: 2024-02-09
+description: "Les modifications apportés au Guide de rédaction du contenu du site Canada.ca."
+layout: default
+title: "Guide de rédaction du contenu du site Canada.ca"
+---
 <h2>le 9 février 2024</h2>
 <ul class="mrgn-tp-lg">
    <li>
