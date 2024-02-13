@@ -6,7 +6,6 @@ description: "Les modifications apportés au Guide de rédaction du contenu du s
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
 ---
-<p>Cette liste contient tous les modifications apportés au Guide de rédaction du contenu du site Canada.ca depuis le 25 mai 2023.</p>
 <h2>le 9 février 2024</h2>
 <ul class="mrgn-tp-lg">
   <li>À compter de janvier 2024, Le guide du rédacteur et le Canadian Style et ont été archivés. Leur contenu a été intégré à <span lang="en"><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a></span> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><i>Clés de la rédaction</i></a>. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:</li>
@@ -27,6 +26,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </ul>
 </ul>
 <li>Dans la section à la section <a href="https://conception.canada.ca/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a>&nbsp;:&nbsp;ajout d'une sous-section, "Considérations relatives à l'accessibilité", afin de préciser quand et comment ajouter des informations supplémentaires à l'intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 "Liens vers des contenus non gouvernementaux", qui n’est plus nécessaire.</li>
+</ul><li>Dans la section à la section <a href="https://conception.canada.ca/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a>&nbsp;:&nbsp;ajout d'une sous-section, "Considérations relatives à l'accessibilité", afin de préciser quand et comment ajouter des informations supplémentaires à l'intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 "Liens vers des contenus non gouvernementaux", qui n’est plus nécessaire.</li>
 </ul>
 <h2>le 12 décembre 2023</h2>
 	<ul class="mrgn-tp-lg">
