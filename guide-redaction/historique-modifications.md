@@ -9,7 +9,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <h2>le 9 février 2024</h2>
 <ul class="mrgn-tp-lg">
    <li>
-      À compter de janvier 2024, <cite>Le guide du rédacteur</cite> et le <cite>Canadian Style</cite> et ont été archivés. Leur contenu a été intégré à
+      À compter de janvier 2024, <cite>Le guide du rédacteur</cite> et le <cite>Canadian Style</cite> ont été archivés. Leur contenu a été intégré à
       <span lang="en">
       <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a>
       </span>
