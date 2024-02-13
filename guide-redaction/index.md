@@ -38,9 +38,37 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <section id="toc1">
   <h2>Mises à jour récentes</h2>
   <p>Nous avons apporté les modifications suivantes à cette version du guide&nbsp;:</p>
-  <ul>
-    <li>ajout d’une page distincte pour l’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour du Guide de rédaction du contenu du site Canada.ca</a></li>
-  </ul>
+  <ul class="mrgn-tp-lg">
+   <li>
+      À compter de janvier 2024, <cite>Le guide du rédacteur</cite> et le <cite>Canadian Style</cite> ont été archivés. Leur contenu a été intégré à
+      <span lang="en">
+      <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a>
+      </span>
+      et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><i>Clés de la rédaction</i></a>. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:
+   </li>
+   <ul>
+      <li>Section <a href="/guide-redaction/#toc2">But du document</a>&nbsp;:&nbsp;Suppression des références à <i>Le guide du rédacteur</i> et remplacement par des références à <i>Clés de la rédaction.</i></li>
+      <li>Section <a href="/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italiques</a>&nbsp;:&nbsp;Remplacement de liens vers du contenu archivé par des liens vers des articles courants.</li>
+      <li>Mise à jour de la section <a href="/guide-redaction/#toc13">Ressources</a>.</li>
+   </ul>
+   <li>
+      Dans la section 2.1 Commencer par les renseignements les plus importants&nbsp;:&nbsp;Mise à jour de l’image de la <a href="/guide-redaction/#wp2-1">pyramide inversée</a>. Nous avons retiré la majorité du texte de l'image et l'avons
+      ajouté au contenu de la page pour faciliter la lecture.
+   </li>
+   <li>Dans la section <a href="/guide-redaction/#wp4-4">4.4 Abréviations, acronymes et référence</a> : Ajout de précisions et références clés sur l’emploi des abréviations, tel que&nbsp;:</li>
+   <ul>
+      <li>Ajout de précision pour indiquer que les abréviations doivent être accompagnées de leur signification écrite au long à la première mention sur une page</li>
+      <li>Nouvelle sous-section sur les formules épistolaires&nbsp;:</li>
+      <ul>
+         <li>Comment abréger et ponctuer les titres lorsqu'il y a des abréviations liées aux grades universitaires, diplômes, doctorat, y compris l’emploi du titre docteur.</li>
+         <li>Comment utiliser les titres et formules épistolaires avec les prénoms et noms</li>
+      </ul>
+   </ul>
+   <li>
+      Dans la section à la section <a href="https://conception.canada.ca/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a>&nbsp;:&nbsp;ajout d'une sous-section, "Considérations relatives à l'accessibilité", afin de préciser quand
+      et comment ajouter des informations supplémentaires à l'intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 "Liens vers des contenus non gouvernementaux", qui n’est plus nécessaire.
+   </li>
+</ul>
   <p>L’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> contient toutes les modifications apportées au guide depuis le 25 mai 2023.</p>
 </section>
 <section id="toc2">
