@@ -18,10 +18,10 @@ Communiquez avec le bureau de la transformation numérique pour les questions re
 * Outil de visualisation de la rétroaction
 * Méthodes d’analyse de la rétroaction
 
-Adresse courriel&nbsp;: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Adresse courriel&nbsp;: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Groupe de travail
 
 Le groupe de travail sur l’outil de rétroaction sur la page guide l’orientation de l’outil. Les membres du groupe de travail apportent leur contribution et définissent la stratégie à suivre pour l’outil.
 
-Adresse courriel&nbsp;: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Adresse courriel&nbsp;: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})

@@ -197,7 +197,7 @@ Pour les institutions qui reçoivent de la rétroaction en grandes quantités, s
 
 Communiquez avec le bureau de la transformation numérique si vous recevez plus de rétroaction que vous ne pouvez gérer par une analyse manuelle.
 
-Adresse courriel&nbsp;: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Adresse courriel&nbsp;: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Intégrer d’autres sources de données complémentaires
 
