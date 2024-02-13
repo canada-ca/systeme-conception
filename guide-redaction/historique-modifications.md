@@ -9,13 +9,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <p>Cette liste contient tous les modifications apportés au Guide de rédaction du contenu du site Canada.ca depuis le 25 mai 2023.</p>
 <h2>le 9 février 2024</h2>
 <ul class="mrgn-tp-lg">
-  <li>À compter de janvier 2024, Le guide du rédacteur et le Canadian Style et ont été archivés. Leur contenu a été intégré à <span lang=en><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a></span> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><i>Clés de la rédaction</i></a>. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:</li>
+  <li>À compter de janvier 2024, Le guide du rédacteur et le Canadian Style et ont été archivés. Leur contenu a été intégré à <span lang="en"><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a></span> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><i>Clés de la rédaction</i></a>. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:</li>
   <ul>
     <li>Section <a href="#toc2">But du document</a>&nbsp;:&nbsp;Suppression des références à <i>Le guide du rédacteur</i> et remplacement par des références à <i>Clés de la rédaction.</i></li>
     <li>Section <a href="/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italiques</a>&nbsp;:&nbsp;Remplacement de liens vers du contenu archivé par des liens vers des articles courants.
     <li>Mise à jour de la section <a href="/guide-redaction/#toc13">Ressources</a>.</li>
-  </ul>
-  <li>Dans la section 2.1 Commencer par les renseignements les plus importants&nbsp;:&nbsp;Mise à jour de l’image de la <a href="/guide-redaction/#wp2-1">pyramide inversée</a>. Nous avons retiré la majorité du texte de l'image et l'avons ajouté au contenu de la page pour faciliter la lecture</li>
+    </ul>
+    <li>Dans la section 2.1 Commencer par les renseignements les plus importants&nbsp;:&nbsp;Mise à jour de l’image de la <a href="/guide-redaction/#wp2-1">pyramide inversée</a>. Nous avons retiré la majorité du texte de l'image et l'avons ajouté au contenu de la page pour faciliter la lecture</li>
 	<li>Dans la section <a href="/guide-redaction/#wp4-4">4.4 Abréviations, acronymes et référence</a> : Ajout de précisions et références clés sur l’emploi des abréviations, tel que&nbsp;:</li>
   <ul>
     <li>Ajout de précision pour indiquer que les abréviations doivent être accompagnées de leur signification écrite au long à la première mention sur une page</li>
