@@ -35,7 +35,7 @@ title: "À propos de Canada.ca"
       </div>
       <div class="col-md-6">
         <section>
-          <h3 class="h5"><a href="{{ site.urlblogue }}/pages/apercu-projet.html">Projets d'amélioration de contenu</a></h3>
+          <h3 class="h5"><a href="{{ site.url }}/partenaires/">Projets d'amélioration de contenu</a></h3>
           <p>Projets sur lesquels le Bureau de la transformation numérique travaille avec des partenaires ministériels afin que Canada.ca fonctionne mieux pour les gens.</p>
         </section>
       </div>
