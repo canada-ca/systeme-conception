@@ -40,7 +40,7 @@ Contactez le Bureau de la transformation numérique pour les questions relatives
 * comment rédiger des tâches
 * prendre des mesures et mettre en œuvre des modifications
 
-Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Éditeur principal
 

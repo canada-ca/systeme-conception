@@ -8,8 +8,6 @@
 .AppleDouble
 .LSOverride
 .obsidian/
-*.py
-log*.md
 
 # Icon must end with two \r
 Icon
@@ -33,12 +31,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Node
-node_modules/
-
 # Jekyll
 .jekyll-cache
 _site
+node_modules/
 vendor
-Gemfile
-Gemfile*
