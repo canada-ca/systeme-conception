@@ -59,8 +59,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </li>
       </ul>
     </li>
-    <li> Dans la section à la section <a href="https://conception.canada.ca/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a>&nbsp;: ajout d'une sous-section, "Considérations relatives à l'accessibilité", afin de préciser quand
-      et comment ajouter des informations supplémentaires à l'intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 "Liens vers des contenus non gouvernementaux", qui n’est plus nécessaire. </li>
+    <li>Dans la section à la section <a href="/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a>&nbsp;: ajout d’une sous-section, “&laquo;&nbsp;<a href="/guide-redaction/#wp7-2-2">Utiliser des parenthèses pour ajouter des informations contextuelles</a>,&nbsp;&raquo; afin de préciser quand et comment ajouter des informations supplémentaires à l’intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 &laquo;&nbsp;Liens vers des contenus non gouvernementaux&nbsp;&raquo;, qui n’est plus nécessaire.</li>
   </ul>
   <p>L’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> contient toutes les modifications apportées au guide depuis le 25 mai 2023.</p>
 </section>
