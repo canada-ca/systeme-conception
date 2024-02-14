@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-02-08
+dateModified: 2024-02-14
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -39,36 +39,29 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>Mises à jour récentes</h2>
   <p>Nous avons apporté les modifications suivantes à cette version du guide&nbsp;:</p>
   <ul class="mrgn-tp-lg">
-   <li>
-      À compter de janvier 2024, <cite>Le guide du rédacteur</cite> et le <cite>Canadian Style</cite> ont été archivés. Leur contenu a été intégré à
-      <span lang="en">
-      <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a>
-      </span>
-      et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><i>Clés de la rédaction</i></a>. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:
-   </li>
-   <ul>
-      <li>Section <a href="/guide-redaction/#toc2">But du document</a>&nbsp;:&nbsp;Suppression des références à <i>Le guide du rédacteur</i> et remplacement par des références à <i>Clés de la rédaction.</i></li>
-      <li>Section <a href="/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italiques</a>&nbsp;:&nbsp;Remplacement de liens vers du contenu archivé par des liens vers des articles courants.</li>
-      <li>Mise à jour de la section <a href="/guide-redaction/#toc13">Ressources</a>.</li>
-   </ul>
-   <li>
-      Dans la section 2.1 Commencer par les renseignements les plus importants&nbsp;:&nbsp;Mise à jour de l’image de la <a href="/guide-redaction/#wp2-1">pyramide inversée</a>. Nous avons retiré la majorité du texte de l'image et l'avons
-      ajouté au contenu de la page pour faciliter la lecture.
-   </li>
-   <li>Dans la section <a href="/guide-redaction/#wp4-4">4.4 Abréviations, acronymes et référence</a> : Ajout de précisions et références clés sur l’emploi des abréviations, tel que&nbsp;:</li>
-   <ul>
-      <li>Ajout de précision pour indiquer que les abréviations doivent être accompagnées de leur signification écrite au long à la première mention sur une page</li>
-      <li>Nouvelle sous-section sur les formules épistolaires&nbsp;:</li>
+    <li>À compter de janvier 2024, <cite>Le guide du rédacteur</cite> et le <cite>Canadian Style</cite> ont été archivés. Leur contenu a été intégré à <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite><span lang="en">Writing Tips Plus</span></cite></a> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><i>Clés de la rédaction</i></a>. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:
       <ul>
-         <li>Comment abréger et ponctuer les titres lorsqu'il y a des abréviations liées aux grades universitaires, diplômes, doctorat, y compris l’emploi du titre docteur.</li>
-         <li>Comment utiliser les titres et formules épistolaires avec les prénoms et noms</li>
+        <li>Section <a href="/guide-redaction/#toc2">But du document</a>&nbsp;:&nbsp;Suppression des références à <i>Le guide du rédacteur</i> et remplacement par des références à <i>Clés de la rédaction.</i></li>
+        <li>Section <a href="/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italiques</a>&nbsp;:Remplacement de liens vers du contenu archivé par des liens vers des articles courants.</li>
+        <li>Mise à jour de la section <a href="/guide-redaction/#toc13">Ressources</a>.</li>
       </ul>
-   </ul>
-   <li>
-      Dans la section à la section <a href="https://conception.canada.ca/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a>&nbsp;:&nbsp;ajout d'une sous-section, "Considérations relatives à l'accessibilité", afin de préciser quand
-      et comment ajouter des informations supplémentaires à l'intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 "Liens vers des contenus non gouvernementaux", qui n’est plus nécessaire.
-   </li>
-</ul>
+    </li>
+    <li>Dans la section 2.1 Commencer par les renseignements les plus importants&nbsp;: Mise à jour de l’image de la <a href="/guide-redaction/#wp2-1">pyramide inversée</a>. Nous avons retiré la majorité du texte de l'image et l'avons
+      ajouté au contenu de la page pour faciliter la lecture.</li>
+    <li>Dans la section <a href="/guide-redaction/#wp4-4">4.4 Abréviations, acronymes et référence</a>&nbsp;: Ajout de précisions et références clés sur l’emploi des abréviations, tel que&nbsp;:
+      <ul>
+        <li>Ajout de précision pour indiquer que les abréviations doivent être accompagnées de leur signification écrite au long à la première mention sur une page</li>
+        <li>Nouvelle sous-section sur les formules épistolaires&nbsp;:
+          <ul>
+            <li>Comment abréger et ponctuer les titres lorsqu'il y a des abréviations liées aux grades universitaires, diplômes, doctorat, y compris l’emploi du titre docteur.</li>
+            <li>Comment utiliser les titres et formules épistolaires avec les prénoms et noms</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li> Dans la section à la section <a href="https://conception.canada.ca/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a>&nbsp;: ajout d'une sous-section, "Considérations relatives à l'accessibilité", afin de préciser quand
+      et comment ajouter des informations supplémentaires à l'intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 "Liens vers des contenus non gouvernementaux", qui n’est plus nécessaire. </li>
+  </ul>
   <p>L’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> contient toutes les modifications apportées au guide depuis le 25 mai 2023.</p>
 </section>
 <section id="toc2">
@@ -851,11 +844,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <p>Consultez <cite>les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></cite> dans les cas suivants&nbsp;:</p>
     <ul>
-      <li>les titres de livres, de journaux, de revues et d'œuvres d'art (article 5.2.1);</li>
-      <li>les titres de lois (article 5.2.2);</li>
-      <li>les mots ou abréviations en latin (article 5.3.3);</li>
-      <li>les mots en langue étrangère (article 5.3.4);</li>
-      <li>les lettres de l'alphabet (article 5.4.1).</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/mots-etrangers-italique-et-guillemets#italique">italique de l’article &laquo;&nbsp;mots étrangers (italique et guillemets)&nbsp;&raquo;</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/latin-locutions-latines-et-mots-latins">latin (locutions latines et mots latins)</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/lettres-de-lalphabet-employees-seules">lettres de l’alphabet employées seules</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/operecitato-lococitato">opere citato/loco citato</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/nom-latin-de-plante-et-danimal">nom latin de plante et d'animal</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique">noms propres (italique)</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/titres-de-lois-reglements-accords-chartes-decrets">titres de lois (règlements, accords, chartes, décrets, etc.)</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique#e">titres de lois et autres textes juridiques de l’article &laquo;&nbsp;noms propres (italique)&nbsp;&raquo;</a></li>
     </ul>
     <h4>Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise</h4>
     <ul>
