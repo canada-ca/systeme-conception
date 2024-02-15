@@ -80,7 +80,7 @@ title: Typographie - Style de Canada.ca
  </ul>
    <h2>Titre principal de la page</h2>
   <p>Lorsque l’en-tête H1 est le titre principal d’une page, il est souligné d’une barre rouge conformément à l’image de marque de Canada.ca.</p>
-  <p>Spécifications de la barre rouge (gc-thickline)&nbsp;:</p>
+  <p>Spécifications de la barre rouge (auparavant connue sous le nom de gc-thickline)&nbsp;:</p>
     <ul>
         <li>alignement&nbsp;: gauche</li>
         <li>couleur&nbsp;: #AF3C43</li>
