@@ -85,7 +85,7 @@ title: Typographie - Style de Canada.ca
         <li>alignement&nbsp;: gauche</li>
         <li>couleur&nbsp;: #AF3C43</li>
         <li>positionnement&nbsp;: 8 px ou 0,4 em sous l’en-tête H1 (le corps du texte est réglé à 20 px)</li>
-        <li>taille&nbsp;: 71 px par 3,6 px ou 3.55 em par 0,18 em (le corps du texte est réglé à 20 px)</li>
+        <li>taille&nbsp;: 71 px par 3,6 px ou 3,55 em par 0,18 em (le corps du texte est réglé à 20 px)</li>
     </ul>
  <h2>
   Longueur de la ligne
