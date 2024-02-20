@@ -52,5 +52,5 @@ title: "Allocation canadienne pour enfants"
   <li>Petra a reçu ses prestations de l'Allocation canadienne pour enfants de juillet, qui sont bien inférieures à celles qu'elle a reçues en juin. Quelle est la raison la plus probable de ce changement?</li>
   <li>Petra n'a pas travaillé l'année dernière alors qu'elle terminait ses études. Quelle est la principale mesure officielle qu'elle doit effectuer chaque année pour continuer à recevoir l'Allocation canadienne pour enfants pour sa fille?</li>
   <li>Le délai pour obtenir votre premier versement de l'Allocation canadienne pour enfants est-il plus long si vous présentez votre demande par courrier que si vous vous inscrivez à Mon dossier et présentez votre demande en ligne?</li>
-  <li>Est-il conseillé de fermer votre ancien compte bancaire avant le versement de vos prestations de l'Allocation canadienne pour enfants du 20 juin? Vous avez modifié vos renseignements de dépôt direct pour un nouveau numéro de compte bancaire le 5 juin.</li>
+  <li>Est-il conseillé de fermer votre ancien compte bancaire avant le versement de vos prestations de l'Allocation canadienne pour enfants du 20&nbsp;juin? Vous avez modifié vos renseignements de dépôt direct pour un nouveau numéro de compte bancaire le 5 juin.</li>
 </ul>

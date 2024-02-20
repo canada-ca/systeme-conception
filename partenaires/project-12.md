@@ -15,7 +15,7 @@ title: "Trouver un emploi"
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul class="lst-spcd">
-  <li>Le taux de chômage du Canada en 2018 est de 5,8 %</li>
+  <li>Le taux de chômage du Canada en 2018 est de 5,8&nbsp;%</li>
   <li>L'amélioration de la convivialité d'Emplois GC facilite la tâche aux millions de Canadiens qui cherchent un emploi au gouvernement du Canada</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">

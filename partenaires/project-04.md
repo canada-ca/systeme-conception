@@ -46,13 +46,13 @@ title: "Rémunération à la fonction publique"
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Votre ami vient d'obtenir un diplôme en traduction et il envisage de travailler au gouvernement. Quel est le salaire d'un traducteur de niveau 1 au gouvernement?</li>
-  <li>Pat commence à travailler comme employé de la fonction publique le lundi 2 décembre. Il veut savoir quand il recevra son premier chèque de paye (si son ministère fait tout correctement).</li>
+  <li>Pat commence à travailler comme employé de la fonction publique le lundi 2&nbsp;décembre. Il veut savoir quand il recevra son premier chèque de paye (si son ministère fait tout correctement).</li>
   <li>Alice a accepté un poste intérimaire de trois mois à Santé Canada, à compter de février. Elle veut aider son gestionnaire à s'assurer que sa paye est exacte lorsqu'elle commence. Quand son gestionnaire doit-il soumettre les documents?</li>
   <li>Vous avez pris un congé parental et devez vérifier les retenues qui figurent sur votre talon de paye à partir de la maison. Trouvez une façon d'y arriver.</li>
   <li>Avery a pris un congé non payé de trois mois pour poursuivre ses études et elle retournera travailler à Santé Canada le mois prochain. Elle veut aider son gestionnaire à s'assurer qu'elle commence à être payée le plus tôt possible. Quand son gestionnaire doit-il soumettre les documents?</li>
   <li>Vous avez changé d'institution bancaire et vous voulez que votre prochaine paye soit déposée dans le nouveau compte. Parmi les options ci-dessous, laquelle choisiriez-vous? Quel(s) formulaire(s) faut-il soumettre? Où devez-vous soumettre le changement?</li>
   <li>Pat a commencé à travailler cette année. Trouvez-lui une façon de voir son talon de paye pour qu'elle vérifie les retenues qui y figurent.</li>
   <li>Sam travaille à Statistique Canada. C'est jour de paye, mais aucun montant n'a été déposé dans son compte. Quelles mesures Sam doit-il prendre?</li>
-  <li>L'an dernier, un trop-payé de 500 $ figurait sur 4 de vos payes. Vous avez depuis acheté une nouvelle maison, et vos finances sont serrées. Est-il possible d'organiser votre propre calendrier de remboursement?</li>
+  <li>L'an dernier, un trop-payé de 500&nbsp;$ figurait sur 4 de vos payes. Vous avez depuis acheté une nouvelle maison, et vos finances sont serrées. Est-il possible d'organiser votre propre calendrier de remboursement?</li>
   <li>Votre rémunération de l'an dernier a été versée correctement. Vous avez cependant reçu deux feuillets T4 : un premier feuillet qui comportait des renseignements inexacts, puis un feuillet corrigé (obtenu à la mi-février). Vous avez embauché un conseiller fiscal pour qu'il vous aide à préparer votre déclaration d'impôts. Sans communiquer avec qui que ce soit, déterminez s'il est possible que les honoraires de ce conseiller fiscal vous soient remboursés.</li>
 </ul>

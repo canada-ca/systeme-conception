@@ -44,7 +44,7 @@ title: "Activités de démarrage d'entreprise"
 <ul class="lst-spcd">
   <li>Imaginez que vous allez démarrer une entreprise à domicile à Winnipeg, à temps partiel, à titre de consultant. Renseignez-vous sur les étapes juridiques essentielles de ce processus.
   <li>Vous voulez nommer votre entreprise &laquo;&nbsp;SOMOS &nbsp;&raquo;. Vérifiez s'il est légal ou illégal pour vous de commencer à utiliser ce nom.</li>
-  <li>Vous pensez gagner environ 1 000 $ par mois de votre nouvelle entreprise pendant les six premiers mois. Vérifiez si vous devez facturer la TPS à vos clients.</li>
+  <li>Vous pensez gagner environ 1&nbsp;000&nbsp;$ par mois de votre nouvelle entreprise pendant les six premiers mois. Vérifiez si vous devez facturer la TPS à vos clients.</li>
   <li>Votre premier employé commence à travailler le mois prochain. Vérifiez si vous devez appliquer une mesure officielle avant ou peu après avoir émis son premier chèque de paye.</li>
   <li>Votre entreprise doit commencer à percevoir la TPS. Vérifier quelle est la première mesure officielle que vous devez appliquer.</li>
   <li>Vous avez décidé de constituer votre entreprise en société. Est-il possible de présenter le formulaire de demande en ligne et, le cas échéant, combien cela coûtera-t-il?</li>

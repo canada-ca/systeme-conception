@@ -50,10 +50,10 @@ title: "Prestations de maternité et parentales d'assurance-emploi"
   <li>Diane attend un bébé. Elle veut prendre un congé aussi long que possible. Son partenaire veut également prendre quatre semaines de congé immédiatement après la naissance. Quelle est la durée maximale (du début à la fin) du congé que Diane peut prendre?</li>
   <li>On vous a récemment promu d'un poste à temps partiel à un poste à temps plein. Votre rémunération hebdomadaire a donc considérablement augmenté. Combien de temps vous faut-il travailler au nouveau taux pour pouvoir obtenir le montant maximal des prestations parentales après la naissance du 
 bébé?</li>
-  <li>Fiona a adopté un bébé et a choisi l'option de 35 semaines comme congé parental lorsqu'elle a présenté sa demande. Maintenant que le bébé est un peu plus vieux, peut-elle changer pour un congé plus long?</li>
+  <li>Fiona a adopté un bébé et a choisi l'option de 35&nbsp;semaines comme congé parental lorsqu'elle a présenté sa demande. Maintenant que le bébé est un peu plus vieux, peut-elle changer pour un congé plus long?</li>
   <li>Jeanine fait une demande de congé de maternité. Après une année fructueuse, son employeur a donné une prime à tous les membres de l'entreprise. La prime de Jeanine sera-t-elle incluse dans le calcul de ses prestations de maternité?</li>
   <li>Marie est en congé parental et planifie son retour au travail. Comment peut-elle savoir quand elle recevra son dernier paiement?</li>
-  <li>Naya attend un bébé. Le 13 décembre sera son dernier jour de travail avant son congé. Son partenaire prendra 10 semaines de congé. Elle a un salaire de 43 000 dollars par année et veut recevoir les plus grandes prestations possible durant son congé. Combien recevra-t-elle par semaine? Quand ses prestations prendront-elles fin?</li>
+  <li>Naya attend un bébé. Le 13&nbsp;décembre sera son dernier jour de travail avant son congé. Son partenaire prendra 10&nbsp;semaines de congé. Elle a un salaire de 43&nbsp;000 dollars par année et veut recevoir les plus grandes prestations possible durant son congé. Combien recevra-t-elle par semaine? Quand ses prestations prendront-elles fin?</li>
 </ul>
 <h2>Résumé de recherche</h2>
 <p><a href="https://conception.canada.ca/resumes-recherche/maternite-parentales-resume-recherche.html">Prestations de maternité et parentales d'assurance-emploi</a></p>
