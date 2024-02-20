@@ -6,6 +6,8 @@ description: "Projet partenaire : Aider les Canadiens et Canadiennes à faire de
 title: "Renseignements sur les maladies et la vaccination"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les Canadiens d'interpréter les lignes directrices en matière d'immunisation.</p>
+<h2>Date</h2>
+<p>2018</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Santé Canada (SC)</li>

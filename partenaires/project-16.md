@@ -6,6 +6,8 @@ description: "Projet partenaire : Rendre les prestations de maternité et les pr
 title: "Prestations spéciales d'assurance-emploi"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les Canadiens de comprendre l'admissibilité aux prestations pour proches aidants.</p>
+<h2>Date</h2>
+<p>2018</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Emploi et Développement social Canada</li>

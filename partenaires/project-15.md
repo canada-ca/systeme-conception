@@ -6,6 +6,8 @@ description: "Projet partenaire : Aider les Canadiens et Canadiennes à trouver 
 title: "Rappels et alertes de sécurité"
 ---
 <p>Permettre aux Canadiens de trouver et de comprendre plus facilement les rappels et les avis de sécurité pour les aliments, les produits de santé, les véhicules et les sièges d'auto.</p>
+<h2>Date</h2>
+<p>2018</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Santé Canada</li>

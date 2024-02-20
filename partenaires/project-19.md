@@ -5,7 +5,9 @@ dateModified: 2017-01-03
 description: "Projet partenaire : Aider les Canadiens et Canadiennes à comprendre les avis relatifs aux conditions météorologiques dangereuses. Date : Juillet 2017"
 title: "Renseignements météorologiques"
 ---
-<p>Make it easier for Canadians to understand notifications about dangerous weather conditions.</p>
+<p>Faire en sorte qu'il soit plus facile pour les Canadiens de comprendre les avis concernant les conditions météorologiques dangereuses.</p>
+<h2>Date</h2>
+<p>2017</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Environnement et Changement climatique Canada</li>

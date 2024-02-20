@@ -6,6 +6,8 @@ description: "Projet partenaire : Faciliter la recherche en ligne des réponses 
 title: "Allocation canadienne pour enfants"
 ---
 <p>Permettre aux Canadiens de trouver et de comprendre plus facilement les renseignements liés à l'Allocation canadienne pour enfants.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Agence du revenu du Canada</li>

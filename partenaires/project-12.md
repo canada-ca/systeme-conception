@@ -6,6 +6,8 @@ description: "Projet partenaire : Faciliter la recherche d’emplois gouvernemen
 title: "Trouver un emploi"
 ---
 <p>Faciliter l'accès des Canadiens aux emplois gouvernementaux sur Canada.ca.</p>
+<h2>Date</h2>
+<p>2018</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Emploi et Développement social Canada (EDSC)</li>

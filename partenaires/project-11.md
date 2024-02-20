@@ -6,6 +6,8 @@ description: "Projet partenaire : Améliorer le taux de réussite des étudiants
 title: "Prêts et bourses pour les étudiants"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les étudiants canadiens de présenter une demande de prêts et de bourses, de les gérer et d'accéder aux détails connexes.</p>
+<h2>Date</h2>
+<p>2017</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Emploi et Développement social Canada (EDSC)</li>

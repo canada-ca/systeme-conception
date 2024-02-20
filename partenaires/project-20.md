@@ -6,6 +6,8 @@ description: "Projet partenaire : Aider les personnes qui pourraient visiter le 
 title: "Documents de voyage"
 ---
 <p>Aider les visiteurs potentiels du Canada à comprendre clairement les documents requis pour entrer au pays.</p>
+<h2>Date</h2>
+<p>2017</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Immigration, Réfugiés et Citoyenneté Canada (IRCC)</li>

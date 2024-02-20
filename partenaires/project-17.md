@@ -6,6 +6,8 @@ description: "Projet partenaire : Aider les entreprises canadiennes à s’acqui
 title: "TPS/TVH et retenues sur la paie"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les entreprises de respecter les exigences en matière de TPS/TVH et de retenues sur la paye.</p>
+<h2>Date</h2>
+<p>2018</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Agence du revenu du Canada (ARC)</li>

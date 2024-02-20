@@ -6,6 +6,8 @@ description: "Projet partenaire : Aider à développer le prototype d’un nouve
 title: "Portail de solution d’achats électroniques (SAE)"
 ---
 <p>Permettre aux entreprises Canadiennes de trouver et de comprendre plus facilement les occasions d'affaires et les conseils du gouvernement.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Services publics et Approvisionnement Canada (SPAC)</li>

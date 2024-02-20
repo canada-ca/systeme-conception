@@ -2,10 +2,12 @@
 altLangPage: "https://design.canada.ca/partners/project-09.html"
 date: 2024-01-02
 dateModified: 2024-01-02
-description: "Projet partenaire : Make it easier for Canadian parents to understand and apply for maternity and parental benefits."
-title: "Rendre les prestations de maternité et les prestations parentales de l’assurance-emploi plus faciles à trouver et à comprendre pour les Canadiens et Canadiennes qui prévoient agrandir leur famille. Date : 2019"
+description: "Projet partenaire :  Rendre les prestations de maternité et les prestations parentales plus faciles à comprendre et à demander pour les parents canadiens."
+title: "Prestations de maternité et parentales d'assurance-emploi"
 ---
 <p>Rendre les prestations de maternité et les prestations parentales plus faciles à comprendre et à demander pour les parents canadiens.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Service Canada</li>
@@ -45,8 +47,9 @@ title: "Rendre les prestations de maternité et les prestations parentales de l�
   <li>Anne attend un bébé dans six semaines. Elle veut travailler jusqu'à sa date d'accouchement et prendre un congé après. Elle présentera une demande au gouvernement en vue de recevoir de l'argent pendant son congé. Quand doit-elle envoyer sa demande pour que tout soit prêt avant la naissance du bébé?</li>
   <li>Le médecin de Maya lui recommande de prendre congé cinq semaines avant la naissance de son bébé. Elle n'a pas de journée de congé ni de congés de maladie restants à son travail. Doit-elle utiliser son congé de maternité ou a-t-elle d'autres options?</li>
   <li>Vous avez travaillé à temps plein au cours de la dernière année et attendez un bébé. Comment pouvez-vous savoir si votre rémunération est considérée comme « assurable » de sorte que vous puissiez demander un congé parental pour vous occuper du bébé?</li>
-  <li>iane attend un bébé. Elle veut prendre un congé aussi long que possible. Son partenaire veut également prendre quatre semaines de congé immédiatement après la naissance. Quelle est la durée maximale (du début à la fin) du congé que Diane peut prendre?</li>
-  <li>On vous a récemment promu d'un poste à temps partiel à un poste à temps plein. Votre rémunération hebdomadaire a donc considérablement augmenté. Combien de temps vous faut-il travailler au nouveau taux pour pouvoir obtenir le montant maximal des prestations parentales après la naissance du bébé?</li>
+  <li>Diane attend un bébé. Elle veut prendre un congé aussi long que possible. Son partenaire veut également prendre quatre semaines de congé immédiatement après la naissance. Quelle est la durée maximale (du début à la fin) du congé que Diane peut prendre?</li>
+  <li>On vous a récemment promu d'un poste à temps partiel à un poste à temps plein. Votre rémunération hebdomadaire a donc considérablement augmenté. Combien de temps vous faut-il travailler au nouveau taux pour pouvoir obtenir le montant maximal des prestations parentales après la naissance du 
+bébé?</li>
   <li>Fiona a adopté un bébé et a choisi l'option de 35 semaines comme congé parental lorsqu'elle a présenté sa demande. Maintenant que le bébé est un peu plus vieux, peut-elle changer pour un congé plus long?</li>
   <li>Jeanine fait une demande de congé de maternité. Après une année fructueuse, son employeur a donné une prime à tous les membres de l'entreprise. La prime de Jeanine sera-t-elle incluse dans le calcul de ses prestations de maternité?</li>
   <li>Marie est en congé parental et planifie son retour au travail. Comment peut-elle savoir quand elle recevra son dernier paiement?</li>

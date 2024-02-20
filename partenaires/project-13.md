@@ -5,7 +5,9 @@ dateModified: 2024-01-03
 description: "Projet partenaire : Aider les personnes à se préparer à l’examen pour la citoyenneté canadienne."
 title: "Se préparer à passer l'examen de citoyenneté"
 ---
-<p>Make it easier for applicants to study for the Canadian citizenship test.</p>
+<p>Rendre l'étude du test de citoyenneté canadienne plus facile pour les candidats.</p>
+<h2>Date</h2>
+<p>2018</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Immigration, Réfugiés et Citoyenneté Canada (IRCC)</li>
@@ -43,12 +45,12 @@ title: "Se préparer à passer l'examen de citoyenneté"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Vous avez présenté votre demande de citoyenneté. Que devrez-vous faire d'autre pour devenir citoyen canadien?
-    Quelles sont les différentes façons d'étudier pour l'examen pour la citoyenneté canadienne?
-    Y aura-t-il des questions pour évaluer vos compétences linguistiques en anglais ou en français dans le cadre de l'examen pour la citoyenneté?
-    Selon le guide de l'étude sur la citoyenneté, en quelle année le drapeau canadien actuel est-il devenu le drapeau officiel du Canada?
-    Selon le guide de l'étude sur la citoyenneté, que signifie le mot Inuit?
-    Que devez-vous emporter avec vous lorsque vous allez passer l'examen de citoyenneté?</li>
+  <li>Vous avez présenté votre demande de citoyenneté. Que devrez-vous faire d'autre pour devenir citoyen canadien?</li>
+    <li>Quelles sont les différentes façons d'étudier pour l'examen pour la citoyenneté canadienne?</li>
+    <li>Y aura-t-il des questions pour évaluer vos compétences linguistiques en anglais ou en français dans le cadre de l'examen pour la citoyenneté?</li>
+    <li>Selon le guide de l'étude sur la citoyenneté, en quelle année le drapeau canadien actuel est-il devenu le drapeau officiel du Canada?</li>
+    <li>Selon le guide de l'étude sur la citoyenneté, que signifie le mot Inuit?</li>
+    <li>Que devez-vous emporter avec vous lorsque vous allez passer l'examen de citoyenneté?</li>
 </ul>
 <h2>Résumé de recherche</h2>
 <p><a href="https://conception.canada.ca/resumes-recherche/examen-citoyennete-resume-recherche.html">Se préparer à passer l'examen de citoyenneté</a></p>

@@ -6,6 +6,8 @@ description: "Projet partenaire : Comprendre comment les personnes naviguent sur
 title: "Orientation et repérage"
 ---
 <p>Tous les ministères adoptent le look de Canada.ca. La conception doit s'adapter à leurs besoins. Nous avons étudié les options de navigation et de conception pour aider les gens à se rendre aux services dont ils ont besoin et à les utiliser, tout en conservant leur confiance dans Canada.ca.</p>
+<h2>Date</h2>
+<p>2021</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Agriculture et Agroalimentaire Canada</li>

@@ -6,6 +6,8 @@ description: "Projet partenaire : Aider Santé Canada à se préparer à la mise
 title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxième série)"
 ---
 <p>Aider Santé Canada à se préparer à la mise en œuvre d'un système transformé de gestion des rappels et des avis de sécurité comportant une nouvelle interface de recherche qui permet aux Canadiennes et aux Canadiens de trouver et de comprendre les rappels et les avis de sécurité.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Santé Canada</li>

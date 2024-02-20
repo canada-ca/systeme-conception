@@ -6,6 +6,8 @@ description: "Projet partenaire : Aider les travailleurs et travailleuses autono
 title: "Gestion des comptes d'entreprise"
 ---
 <p>Veiller à ce que les Canadiens puissent ouvrir et gérer plus facilement leurs comptes d'entreprise auprès de l'ARC.</p>
+<h2>Date</h2>
+<p>2018</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Agence du revenu du Canada (ARC)</li>
@@ -13,7 +15,7 @@ title: "Gestion des comptes d'entreprise"
 <h2>Pourquoi ce travail est important</h2>
 <ul>
   <li>Améliorer la convivialité des options de libre-service réduit la charge de travail des entreprises en simplifiant la gestion des renseignements sur les comptes.</li>
-  <li>ARediriger les transactions simples vers des options numériques moins coûteuses réduit les coûts de soutien pour l'ARC.</li>
+  <li>Rediriger les transactions simples vers des options numériques moins coûteuses réduit les coûts de soutien pour l'ARC.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">

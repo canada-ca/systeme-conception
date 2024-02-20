@@ -6,6 +6,8 @@ description: "Projet partenaire : Faciliter la recherche et la compréhension de
 title: "Instruments médicaux"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les fabricants d'instruments médicaux et les autres entreprises assujetties à la réglementation canadienne sur les instruments médicaux de trouver et de comprendre l'information dont ils ont besoin pour se conformer aux exigences réglementaires.</p>
+<h2>Date</h2>
+<p>2020</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Santé Canada (SC)</li>

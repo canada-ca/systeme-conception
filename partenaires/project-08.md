@@ -6,6 +6,8 @@ description: "Projet partenaire : Améliorer le taux de réussite des tâches en
 title: "Communiquer avec l'ARC"
 ---
 <p>Permettre aux Canadiens de trouver plus facilement le bon numéro de téléphone ou la bonne adresse postale pour des services précis liés à l'ARC.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Agence du revenu du Canada (ARC)</li>

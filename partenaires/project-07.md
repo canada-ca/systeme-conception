@@ -6,6 +6,8 @@ description: "Projet partenaire : Permettre aux Canadiens de trouver et de compr
 title: "Conseils aus voyageurs et avertissements"
 ---
 <p>Permettre aux Canadiens de trouver et de comprendre plus facilement les conseils et les avis du gouvernement du Canada en matière de voyage.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Ministères partenaires</h2>
 <ul>
   <li>Affaires mondiales Canada (AMC)</li>

@@ -6,6 +6,8 @@ description: "Projet partenaire : Aider les fonctionnaires à trouver et à comp
 title: "Rémunération à la fonction publique"
 ---
 <p>Faire en sorte qu'il soit plus facile pour les employés de la fonction publique de trouver et de comprendre les renseignements de paye.</p>
+<h2>Date</h2>
+<p>2019</p>
 <h2>Ministère partenaire</h2>
 <ul>
   <li>Services publics et Approvisionnement Canada (SPAC)</li>

@@ -2,18 +2,18 @@
 altLangPage: "https://design.canada.ca/partners/project-10.html"
 date: 2024-01-03
 dateModified: 2024-01-03
-description: "Projet partenaire : Combine information from across departments so that Canadians easily get the whole picture on what the Government of Canada requires when starting a business."
+description: "Projet partenaire : Combiner les renseignements provenant de l'ensemble des ministères afin que les Canadiens puissent obtenir facilement le portrait d'ensemble des éléments dont le gouvernement du Canada a besoin au moment de démarrer une entreprise."
 title: "Activités de démarrage d'entreprise"
 ---
 <p>Combiner les renseignements provenant de l'ensemble des ministères afin que les Canadiens puissent obtenir facilement le portrait d'ensemble des éléments dont le gouvernement du Canada a besoin au moment de démarrer une entreprise.</p>
 <h2>Ministère partenaire</h2>
 <ul>
-  <li>Services publics et Approvisionnement Canada (SPAC)</li>
+  <li>Agence du revenu du Canada</li>
   <li>Innovation, Sciences et Développement économique Canada (ISDEC)</li>
 </ul>
 <h2>Pourquoi ce travail est important</h2>
 <ul>
-  <li>Chaque année, il y a environ 40 000 nouvelles petites et moyennes entreprises qui démarrent</li>
+  <li>Chaque année, il y a environ 40&nbsp;000 nouvelles petites et moyennes entreprises qui démarrent</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
@@ -43,11 +43,11 @@ title: "Activités de démarrage d'entreprise"
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
   <li>Imaginez que vous allez démarrer une entreprise à domicile à Winnipeg, à temps partiel, à titre de consultant. Renseignez-vous sur les étapes juridiques essentielles de ce processus.
-Vous voulez nommer votre entreprise &laquo;&nbsp;SOMOS &nbsp;&raquo;. Vérifiez s'il est légal ou illégal pour vous de commencer à utiliser ce nom.
-Vous pensez gagner environ 1 000 $ par mois de votre nouvelle entreprise pendant les six premiers mois. Vérifiez si vous devez facturer la TPS à vos clients.
-Votre premier employé commence à travailler le mois prochain. Vérifiez si vous devez appliquer une mesure officielle avant ou peu après avoir émis son premier chèque de paye.
-Votre entreprise doit commencer à percevoir la TPS. Vérifier quelle est la première mesure officielle que vous devez appliquer.
-Vous avez décidé de constituer votre entreprise en société. Est-il possible de présenter le formulaire de demande en ligne et, le cas échéant, combien cela coûtera-t-il?</li>
+  <li>Vous voulez nommer votre entreprise &laquo;&nbsp;SOMOS &nbsp;&raquo;. Vérifiez s'il est légal ou illégal pour vous de commencer à utiliser ce nom.</li>
+  <li>Vous pensez gagner environ 1 000 $ par mois de votre nouvelle entreprise pendant les six premiers mois. Vérifiez si vous devez facturer la TPS à vos clients.</li>
+  <li>Votre premier employé commence à travailler le mois prochain. Vérifiez si vous devez appliquer une mesure officielle avant ou peu après avoir émis son premier chèque de paye.</li>
+  <li>Votre entreprise doit commencer à percevoir la TPS. Vérifier quelle est la première mesure officielle que vous devez appliquer.</li>
+  <li>Vous avez décidé de constituer votre entreprise en société. Est-il possible de présenter le formulaire de demande en ligne et, le cas échéant, combien cela coûtera-t-il?</li>
 </ul>
 <h2>Résumé de recherche</h2>
 <p><a href="https://blogue.canada.ca/2018/02/20/demarrer_une_entreprise.html">Activités de démarrage d'entreprise</a></p>
