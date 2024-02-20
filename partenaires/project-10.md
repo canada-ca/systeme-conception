@@ -42,7 +42,7 @@ title: "Activités de démarrage d'entreprise"
 </div>
 <h2>Scénarios de tâches testés et améliorés</h2>
 <ul class="lst-spcd">
-  <li>Imaginez que vous allez démarrer une entreprise à domicile à Winnipeg, à temps partiel, à titre de consultant. Renseignez-vous sur les étapes juridiques essentielles de ce processus.
+  <li>Imaginez que vous allez démarrer une entreprise à domicile à Winnipeg, à temps partiel, à titre de consultant. Renseignez-vous sur les étapes juridiques essentielles de ce processus.</li>
   <li>Vous voulez nommer votre entreprise &laquo;&nbsp;SOMOS &nbsp;&raquo;. Vérifiez s'il est légal ou illégal pour vous de commencer à utiliser ce nom.</li>
   <li>Vous pensez gagner environ 1&nbsp;000&nbsp;$ par mois de votre nouvelle entreprise pendant les six premiers mois. Vérifiez si vous devez facturer la TPS à vos clients.</li>
   <li>Votre premier employé commence à travailler le mois prochain. Vérifiez si vous devez appliquer une mesure officielle avant ou peu après avoir émis son premier chèque de paye.</li>
