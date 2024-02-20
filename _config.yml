@@ -557,6 +557,35 @@
     },
     {
       "scope": {
+        "path": "partenaires/*.md"
+      },
+      "values": {
+        "section-title": "Travailler avec des partenaires",
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
+          {
+            "title": "Travailler avec des partenaires",
+            "link": "https://conception.canada.ca/partenaires/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "partenaires/index.md"
+      },
+      "values": {
+        "section-title": "",
+        "breadcrumbs": [{
+          "title": "À propos de Canada.ca",
+          "link": "https://conception.canada.ca/a-propos/"
+        }]
+      }
+    },
+    {
+      "scope": {
         "path": "a-propos/bureau-transformation-numerique.md"
       },
       "values": {
