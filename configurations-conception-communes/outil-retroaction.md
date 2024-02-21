@@ -250,7 +250,7 @@ title: "Outil de rétroaction sur la page"
           <li><strong>Indigenous</strong> (Autochtones)</li>
           <li><strong>Jobs</strong> (Emplois)</li>
           <li><strong>Money</strong> (Argent)</li>
-          <li><strong>Policing</strong> (Politique)</li>
+          <li><strong>Policing</strong> (Police, justice et urgences)</li>
           <li><strong>PublicService</strong> (Service public)</li>
           <li><strong>Science</strong> (Science)</li>
           <li><strong>Taxes</strong> (Impôts)</li>
