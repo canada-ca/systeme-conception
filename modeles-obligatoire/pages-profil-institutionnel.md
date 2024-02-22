@@ -74,7 +74,6 @@ title: "Pages d'accueil institutionnelle - Modèle obligatoire de Canada.ca"
 
 
   <div class="clearfix"></div>
-</section>
 <section>
   <h3>Version stable de la page d'accueil institutionnelle</h3>
   <p>La version stable sera éventuellement remplacée par la version bêta.</p>
