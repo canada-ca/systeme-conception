@@ -49,10 +49,10 @@ title: "Pages d'accueil institutionnelle - Modèle obligatoire de Canada.ca"
   <h2 id="comment">Comment mettre en œuvre</h2>
 </section>
   <p>Vous pouvez utiliser la version <strong>bêta</strong>ou la version <strong>stable</strong>de ce modèle.</p>
-      <div id="code" class="alert alert-warning">
+  <h3>Version bêta de la page d'accueil institutionnelle</h3>
+  <div id="code" class="alert alert-warning">
     <p>Nous travaillons à la stabilisation de la page d’accueil institutionnelle. Cet exemple codé de la version beta disparaîtra prochainement. Un lien vers le code stabilisé sera fourni dès que ce code sera disponible sur GCWeb.</p>
   </div>
-  <h3>Version bêta de la page d'accueil institutionnelle</h3>
   <p>La version bêta est une amélioration par rapport à la version stable. Le code est toujours en révision. Il se peut que des modifications y soient apportées.</p>
   <p>La version bêta remplacera éventuellement la version stable.</p>
   <p>Vous devrez utiliser un CSS distinct pour mettre en œuvre la version bêta de ce modèle.</p>
