@@ -49,7 +49,7 @@ title: "Lien en vedette"
     </li>
     <li> Arrière-plan&nbsp;:
       <ul>
-        <li>Couleur par défaut&nbsp;: #31708F</li>
+        <li>Couleur par défaut&nbsp;: #355688</li>
         <li>Opacité&nbsp;: 0.9</li>
         <li>Marges intérieures <span lang="en"><i>(padding)</i></span>&nbsp;:
           <ul>
