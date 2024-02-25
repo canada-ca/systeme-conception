@@ -5,7 +5,7 @@ dateModified: "2023-08-23"
 description: Orientation sur la façon d’utiliser le modèle de page d’accueil institutionnelle et ses composants associés sur Canada.ca.
 title: Page d’accueil institutionnelle
 ---
-
+<mark>l'images n'est pas disponible tant que le modèle n'est pas terminé</mark>
 <p><strong>Dernière modification</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>
     Il s’agit du modèle de page d’accueil de chaque ministère, organisme et organisation du gouvernement du Canada qui a un titre d’usage dans le registre du
