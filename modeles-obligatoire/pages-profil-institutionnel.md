@@ -46,7 +46,7 @@ title: Page d’accueil institutionnelle
             <div class="panel panel-default">
                 <table class="table table-striped" id="ilp-01" aria-live="polite">
                     <caption class="wb-inv">
-                        Content and design patterns for Institutional Landing Page
+                        Contenu et configurations de conception pour la Page d'accueil institutionnelle
                     </caption>
                     <thead>
                         <tr>
@@ -72,7 +72,7 @@ title: Page d’accueil institutionnelle
                           <tr>
                             <td><a href="#">Lien en vedette</a></td>
                             <td>
-                                <p>XXXXXXX</p>
+                                <p>Le lien en vedette est un hyperlien court et descriptif que votre institution doit mettre en évidence.</p>
                             </td>
                             <td class="text-center">Facultatif</td>
                         </tr>
@@ -110,7 +110,7 @@ title: Page d’accueil institutionnelle
                             <td class="text-center">Facultatif</td>
                         </tr>
                         <tr>
-                            <td><a href="#">Espace flexible&nbsp;:</a>
+                            <td>Espace flexible&nbsp;:
                             <ul>
                                 <li><a href="">Dernières nouvelles</a></li>
                                 <li><a href="">Promotions contextuelles</a></li>
@@ -131,7 +131,7 @@ title: Page d’accueil institutionnelle
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Page d’accueil institutionnelle – grand écran</b></figcaption>
-            <img src="../images/ilp-large.png" class="img-responsive" alt="Institutional landing page for large screens. Text version below:" />
+            <img src="../images/ilp-large.png" class="img-responsive" alt="Page d’accueil institutionnelle pour grands écrans. Version texte ci-dessous :" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: page d’accueil institutionnelle - grand écran</summary>
                 <p>
@@ -178,7 +178,7 @@ title: Page d’accueil institutionnelle
                 <p>La configuration de conception des chaînes de médias sociaux commence par le titre « Sur les médias sociaux ». Sous le titre se trouve une liste verticale avec des icônes et des étiquettes associées&nbsp;:</p>
                 <ul>
                     <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
-                    <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
+                    <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
                     <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
                     <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
                     <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
@@ -214,7 +214,7 @@ title: Page d’accueil institutionnelle
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Page d’accueil institutionnelle – petit écran</b></figcaption>
-            <img src="../images/ilp-small.png" class="img-responsive" alt="Institutional landing page for small screens. Text version below:" />
+            <img src="../images/ilp-small.png" class="img-responsive" alt="Page d’accueil institutionnelle pour petits écrans. Version texte ci-dessous :" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: page d’accueil institutionnelle - petit écran</summary>
                 <p>
@@ -258,7 +258,7 @@ title: Page d’accueil institutionnelle
                 </p>
                 <ul>
                     <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
-                    <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
+                    <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
                     <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
                     <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
                     <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
@@ -302,7 +302,7 @@ title: Page d’accueil institutionnelle
     <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
     <p>La référence à l’implémentation explique la façon de configurer chaque élément de la page d’accueil institutionnelle.</p>
     <ul>
-        <li><a href="#">Modèle institutionnel – GCWeb</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-fr.html">Modèle institutionnel – GCWeb</a></li>
     </ul>
     <h3>Mises en œuvre</h3>
     <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
