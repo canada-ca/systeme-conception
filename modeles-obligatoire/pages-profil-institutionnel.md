@@ -102,12 +102,12 @@ title: Page d’accueil institutionnelle
                         <tr>
                             <td><a href="#">Chaînes de médias sociaux</a></td>
                             <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
-                            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
+                             <td class="text-center">Facultatif</td>
                         </tr>
                         <tr>
                             <td><a href="#">Ministre ou chef d’institution</a></td>
                             <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
-                            <td class="text-center">Facultatif</td>
+                            <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
                         <tr>
                             <td>Espace flexible&nbsp;:
