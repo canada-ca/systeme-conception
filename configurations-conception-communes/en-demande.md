@@ -5,21 +5,10 @@ dateModified: "2023-09-21"
 description: "Orientation sur l’utilisation du modèle en demande sur Canada.ca. Le modèle en demande fournit des liens vers les principales tâches sur les pages de navigation."
 title: "En demande"
 ---
-<<<<<<< refs/remotes/origin/master
-
-
-
-
-=======
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 <label class="label label-info">Facultatif</label>
 <p>Le modèle en demande comprend les principales tâches des pages d’accueil qui offrent de nombreux choix. Les principales tâches sont les choses principales que les utilisateurs essaient de faire dans un contexte donné. </p>
-<<<<<<< refs/remotes/origin/master
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/most-requested-en.png" class="img-responsive" alt="" /></div>
->>>>>>> Update en-demande.md
-=======
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/most-requested-fr.png" class="img-responsive" alt="" /></div>
->>>>>>> Update en-demande.md
 <section>
   <h2>Sur cette page</h2>
   <ul>
