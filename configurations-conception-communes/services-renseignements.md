@@ -123,7 +123,7 @@ title: Services et renseignements
   <p>Trouvez des exemples pratiques et de code pour mettre en œuvre la configuration de conception services et renseignements.</p>
   <h3>Référence pour la mise en œuvre des thèmes de GCWeb (BOEW)</h3>
   <ul>
-    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-servinfo/gc-srvinfo.html">Services et renseignements&nbsp;-&nbsp;Configuration de conception courante</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-servinfo/gc-srvinfo.html">Services et renseignements&nbsp;-&nbsp;Configuration de conception courante (en anglais seulement)</a></li>
   </ul>
   <h3>Mises en œuvre</h3>
   <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
