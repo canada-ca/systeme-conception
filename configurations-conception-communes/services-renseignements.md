@@ -7,7 +7,7 @@ title: Services et renseignements
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>La configuration services et renseignements présente des ensembles de liens accompagnés de descriptions (également appelés menus d’accueil thématique). Elle sert de feuille de route lorsqu’une page de renvoi comporte une série de pages auxquelles renvoyer. Chaque lien, accompagné de sa description, fournit un résumé concis de ce qu’une personne trouvera sur les pages de destination.</p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/services-info-generic-en.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/services-info-generic-fr.png" class="img-responsive" alt="" /></div>
 <section>
   <h2>Sur cette page</h2>
   <ul>
