@@ -6,7 +6,6 @@ description: "Orientation sur l’utilisation de la section À propos de l’ins
 title: À propos de l’institution
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
-<label class="label label-info">Obligatoire sur la page d’accueil institutionnelle</label>
 <p>La configuration de conception &laquo;&nbsp;À propos de l’institution&nbsp;&raquo; consiste en une section sur une page d’accueil institutionnelle qui fournit des liens vers des renseignements organisationnels et sur l’élaboration de programmes et de politiques.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/about-institution-mask-fr.png" class="img-responsive" alt="" /></div>
 <section>
