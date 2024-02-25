@@ -1,268 +1,190 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/services-information.html
-date: null
-dateModified: '2018-12-19'
-description: null
-title: Services et renseignements - Configuration de conception de Canada.ca
+date: "2018-12-19"
+dateModified: "2023-09-21"
+description: "Orientation sur l’utilisation de la configuration services et renseignements sur le site Canada.ca."
+title: Services et renseignements
 ---
+<<<<<<< refs/remotes/origin/master
 
 
 
 
+=======
+<p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
+<p>La configuration services et renseignements présente des ensembles de liens accompagnés de descriptions (également appelés menus d’accueil thématique). Elle sert de feuille de route lorsqu’une page de renvoi comporte une série de pages auxquelles renvoyer. Chaque lien, accompagné de sa description, fournit un résumé concis de ce qu’une personne trouvera sur les pages de destination.</p>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/services-info-generic-en.png" class="img-responsive" alt="" /></div>
+>>>>>>> Update services-renseignements.md
 <section>
- <p>
-  Services et renseignements est un motif pour présenter des ensembles de liens avec des descriptions connexes. Chaque lien accompagné de sa description fournit une description exacte et concise de ce que l’utilisateur trouvera dans la page de destination. De concert, ces ensembles de liens et descriptions fournissent des choix clairs et distincts pour les personnes qui essaient d’achever leur tâche.
- </p>
- <section>
-  <h2>
-   Quand utiliser cette configuration
-  </h2>
+  <h2>Sur cette page</h2>
   <ul>
-   <li>
-    Utilisez ce modèle pour fournir des liens aux sujets ou au contenu de destination liés à la page où il se trouve.
-   </li>
-   <li>
-    Utilisez-le lorsque l’objectif principal de la page est de fournir des choix clairs pour naviguer vers des tâches.
-   </li>
+    <li><a href="#utiliser">Quand l’utiliser</a></li>
+    <li><a href="#eviter">Quoi éviter</a></li>
+    <li><a href="#contenu">Contenu et conception</a></li>
+    <li><a href="#œuvre">Comment procéder à la mise en œuvre</a></li>
+    <li><a href="#recherche">Recherche et justification</a></li>
+    <li><a href="#changements">Derniers changements</a></li>
   </ul>
- </section>
- <section>
-  <h2>
-   Comment utiliser cette configuration
-  </h2>
-  <section>
-   <h3>
-    Exigences en matière de contenu
-   </h3>
-   <ul>
-    <li>
-     Le contenu pour chaque combinaison de lien et de description est rédigé pour un niveau scolarité secondaire (pointage de 100 et moins dans
-     <a href="http://www.scolarius.com/">
-      Scolarius
-     </a>
-     ).
-    </li>
-    <li>
-     Gardez la ponctuation simple.
-    </li>
-    <li>
-     Utilisez des mots clés populaires que le public cible connaîtra et utilisera probablement; fondez vos choix sur la recherche et des données probantes.
-    </li>
-    <li>
-     N’utilisez pas d’acronymes ou d’abréviations, à moins que la plupart des gens les connaissent mieux que l’équivalent en forme longue.
-    </li>
-    <li>
-     Consultez le
-     <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html">
-      Guide de rédaction du contenu du site Canada.ca
-     </a>
-     pour d’autres renseignements sur la rédaction de contenu pour ce modèle.
-    </li>
-   </ul>
-  </section>
-  <section>
-   <h3>
-    Exigences relatives aux liens
-   </h3>
-   <ul>
-    <li>
-     Le texte du lien doit être logique dans le contexte de la page.
-     <ul>
-      <li>
-       Il n’est pas obligé de correspondre exactement au titre de la page de destination.
-      </li>
-      <li>
-       Il n’est pas obligé d’être unique dans tout le site Canada.ca.
-      </li>
-      <li>
-       Il doit être descriptif, unique dans la page, et clairement distinct des autres liens sur la page.
-      </li>
-      <li>
-       Ne mettez pas de ponctuation la fin du texte du lien (par exemple, « Comment présenter une demande de financement? »)
-      </li>
-      <li>
-       Le texte du lien doit s’adresser à une personne (par exemple, « Présentez une demande de financement »)
-      </li>
-     </ul>
-    </li>
-    <li>
-     La limite de caractères optimale pour les liens est de 45 caractères (y compris les espaces) dans les deux langues officielles, mais elle peut aller jusqu’à 75 caractères (avec les espaces).
-    </li>
-    <li>
-     Utilisez les styles de lien normalisés comme définis dans la Boîte à outils de l’expérience Web (BOEW).
-    </li>
-   </ul>
-  </section>
-  <section>
-   <h3>
-    Descriptions des liens
-   </h3>
-   <ul>
-    <li>
-     La description du lien complète le lien qu’il accompagne pour fournir plus de détails et de précisions sur la portée du lien.
-     <ul>
-      <li>
-       Le style recommandé est d’énumérer les mots clés ou les expressions clés séparés par des virgules; les phrases complètes ne sont pas nécessaires.
-      </li>
-      <li>
-       N’utilisez pas de phrases d’introduction comme « Comprend… », « Renseignements sur… » ou « Apprenez-en plus au sujet de… ».
-      </li>
-      <li>
-       N’incluez pas de liens.
-      </li>
-      <li>
-       N’incluez pas de messages promotionnels.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Les descriptions de lien ne doivent pas dépasser 120 caractères (y compris les espaces) dans les deux langues officielles.
-    </li>
-    <li>
-     Les menus déroulants sont autorisés à la place d’une description de lien dans des circonstances particulières :
-     <ul>
-      <li>
-       s’ils permettent de fournir un accès à un grand nombre d’éléments au même niveau (par exemple, des listes de pays ou d’espèces);
-      </li>
-      <li>
-       si la page de destination comprend principalement une liste de liens, et que l’on peut entièrement la remplacer par le menu déroulant.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Utilisez seulement les styles de présentation normalisés définis dans la
-     <abbr title="Boîte à outils de l’expérience Web">
-      BOEW
-     </abbr>
-     .
-    </li>
-   </ul>
-  </section>
-  <section>
-   <h3>
-    Regrouper des ensembles de liens avec des descriptions connexes
-   </h3>
-   <p>
-    On peut utiliser les styles suivants :
-   </p>
-   <ul>
-    <li>
-     Fondé sur la demande
-     <ul>
-      <li>
-       La priorisation est fondée sur la demande (par exemple, en fonction de l’analytique Web), avec des liens à forte demande s’affichant avant ceux à faible demande.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Séquentiel
-     <ul>
-      <li>
-       Utilisez les menus d’accueil thématiques séquentiels et numérotés si les liens doivent être suivis dans un ordre étape par étape (par exemple, confirmer l’admissibilité, s’inscrire, puis imposer la TPS/TVH).
-      </li>
-      <li>
-       Utilisez ce style pour permettre aux personnes de sauter les étapes facultatives ou non applicables ou les étapes déjà effectuées.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Sous-titres
-     <ul>
-      <li>
-       Utilisez-les pour regrouper les liens et les descriptions qui sont très similaires, au cas où il ne serait pas logique de déplacer le groupe dans une page de sous-sujet.
-      </li>
-      <li>
-       Utilisez-les pour éviter la surcharge de renseignements; idéalement pas plus de neuf liens avec des descriptions par sous-titre.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Combinaison des styles précédents, le cas échéant; toutefois, limitez l’application pour éviter des ensembles trop complexes de liens et de descriptions.
-    </li>
-   </ul>
-   <p>
-    Dans tous les cas, le classement prioritaire est comme suit :
-   </p>
-   <ul>
-    <li>
-     Dans une présentation à colonne unique, le classement prioritaire est du haut en bas.
-    </li>
-    <li>
-     Dans une présentation à plusieurs colonnes, le classement prioritaire est de gauche à droite, puis de haut en bas.
-    </li>
-   </ul>
-  </section>
- </section>
- <section>
-  <h2>
-   Exemple concret
-  </h2>
-  <ul>
-   <li>
-    <a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-fr.html">
-     Page de sujet
-    </a>
-   </li>
-  </ul>
- </section>
- <section class="panel panel-primary">
-  <header class="panel-heading">
-   <h3 class="panel-title">
-    Exemples
-   </h3>
-  </header>
-  <div class="panel-body">
-   <div class="row">
-    <div class="col-sm-6">
-     <figure class="mrgn-bttm-sm">
-      <figcaption class="text-center">
-       <b>
-        Modèle de liens de menu d’accueil thématique dans un modèle à deux colonnes
-       </b>
-      </figcaption>
-      <img alt="Capture d’écran illustrant un ensemble de liens de menu d’accueil thématique en deux colonnes dans le site Canada.ca. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-2column-fra.jpg"/>
-     </figure>
-    </div>
-    <div class="col-sm-6">
-     <figure class="mrgn-bttm-sm">
-      <figcaption class="text-center">
-       <b>
-        Modèle de liens de menu d’accueil thématique dans un modèle à une colonne
-       </b>
-      </figcaption>
-      <img alt="Capture d’écran illustrant un ensemble de liens de menu d’accueil thématique dans une colonne dans le site Canada.ca. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-1column-fra.jpg"/>
-     </figure>
-    </div>
-   </div>
-   <div class="clearfix">
-   </div>
-   <div class="row mrgn-tp-sm">
-    <div class="col-sm-6">
-     <figure class="mrgn-bttm-sm">
-      <figcaption class="text-center">
-       <b>
-        Modèle de liens séquentiels de menu d’accueil thématique dans un modèle à une colonne
-       </b>
-      </figcaption>
-      <img alt="Capture d’écran illustrant un ensemble de liens séquentiels de menu d’accueil thématique dans une seule colonne. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-sequential-fra.jpg"/>
-     </figure>
-    </div>
-    <div class="col-sm-6">
-     <figure class="mrgn-bttm-sm">
-      <figcaption class="text-center">
-       <b>
-        Modèle de liens de menu d’accueil thématique dans un modèle de deux colonnes regroupées avec des en-têtes
-       </b>
-      </figcaption>
-      <img alt="Capture d’écran illustrant un ensemble de liens de menu d’accueil thématique dans un modèle de deux colonnes regroupées dans le site Canada.ca. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/services-and-information-headings-fra.jpg"/>
-     </figure>
-    </div>
-   </div>
-  </div>
- </section>
 </section>
-
-
-
-
-
+<section id="utiliser">
+  <h2>Quand l’utiliser</h2>
+  <p>Utilisez la configuration services et renseignements lorsque l’objectif principal de la page est de fournir des choix clairs pour naviguer vers des tâches. Mis ensemble, ces ensembles de liens et de descriptions offrent des choix clairs et distincts aux personnes qui tentent d’accomplir leur tâche.</p>
+</section>
+<section id="eviter">
+  <h2>Quoi éviter</h2>
+  <p>Ne répétez pas les liens qui se trouvent dans votre configuration en demande (si vous utilisez les deux configurations sur la même page).</p>
+  <p>N’utilisez pas d’icônes ou d’images décoratives dans la configuration, car elles peuvent gêner les gens dans leurs choix.</p>
+</section>
+<section id="contenu">
+  <h2>Contenu et conception</h2>
+  <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
+  <h3>Spécifications de contenu</h3>
+  <p>Le style est très important lors de la mise en œuvre de la configuration services et renseignements. Veuillez consulter le Guide de rédaction du contenu du site Canada.ca pour obtenir de plus amples renseignements sur la façon de rédiger du contenu pour cette configuration.</p>
+  <ul>
+    <li><a href="https://conception.canada.ca/guide-redaction/">Guide de rédaction du contenu du site Canada.ca</a></li>
+  </ul>
+  <p>Chaque menu d’accueil thématique se compose d’un titre et d’une description. Le titre est un lien.</p>
+  <h4>Menus d’accueil thématique</h4>
+  <ul>
+    <li>La limite de menus d’accueil thématique optimale par page est de 9.</li>
+    <li>Au besoin, vous pouvez utiliser des en-têtes de section pour regrouper des ensembles de menus d’accueil thématique.</li>
+  </ul>
+  <h4>Titres des hyperliens du menu d’accueil thématique</h4>
+  <ul>
+    <li>La limite de caractères optimale pour les liens est de 45 caractères (y compris les espaces) dans les deux langues officielles, mais elle peut aller jusqu’à 75 caractères (avec les espaces).</li>
+    <li>Ne mettez pas de ponctuation à la fin du titre du menu d’accueil thématique (par exemple, &laquo;&nbsp;Comment présenter une demande de financement?&nbsp;&raquo;).</li>
+  </ul>
+  <h4>Descriptions</h4>
+  <ul>
+    <li>La limite de caractères optimale pour la description est de 120 caractères (y compris les espaces) dans les deux langues officielles.</li>
+    <li>Le style recommandé consiste à énumérer les mots-clés ou les expressions clés en les séparant par des virgules; il n’est pas nécessaire de rédiger des phrases complètes.
+      <ul>
+        <li>N’utilisez pas de phrases d’introduction comme &laquo;&nbsp; Comprend… &nbsp;&raquo;, &laquo;&nbsp;Renseignements sur… &nbsp;&raquo; ou &laquo;&nbsp;Apprenez-en plus au sujet de… &nbsp;&raquo;.</li>
+        <li>N’incluez pas de liens dans les descriptions.</li>
+        <li>N’incluez pas de messages promotionnels.</li>
+        <li>N’ajoutez pas de mise en forme supplémentaire aux descriptions (gras, puces, etc.).</li>
+      </ul>
+    </li>
+  </ul>
+  <h3>Spécifications de conception</h3>
+  <ul>
+    <li>Mise en page&nbsp;:
+      <ul>
+        <li>Colonnes&nbsp;:
+          <ul>
+            <li>3 colonnes pour les grands écrans</li>
+            <li>2 colonnes pour les moyens écrans</li>
+            <li>1 colonne pour les petits écrans</li>
+          </ul>
+        </li>
+        <li>L’ordre des tabulations est de gauche à droite, puis de haut en bas.</li>
+      </ul>
+    </li>
+    <li>
+        Titres&nbsp;:
+        <ul>
+            <li>Couleur&nbsp;: <a href="https://design.canada.ca/styles/colours.html">Couleurs standard</a> pour les liens</li>
+            <li>Taille de la police&nbsp;: Canada.ca H3 (1em)</li>
+            <li>Famille de police&nbsp;: Lato Sans</li>
+        </ul>
+    </li>
+    <li>Descriptions&nbsp;:
+      <ul>
+        <li>Couleur&nbsp;: <a href="/styles/couleurs.html">Couleurs standard</a> pour le texte</li>
+        <li>Taille de la police&nbsp;:
+          <ul>
+            <li>17&nbsp;px (ordinateur de bureau)</li>
+            <li>19&nbsp;px (mobile)</li>
+          </ul>
+        </li>
+        <li>Famille de police&nbsp;: Noto Sans</li>
+      </ul>
+    </li>
+  </ul>
+  <h4>Accessibilité</h4>
+  <p>L’en-tête de section est généralement &laquo;&nbsp;Services et renseignements&nbsp;&raquo; en français et &laquo;&nbsp; Services and information&nbsp;&raquo; en anglais. Il est nécessaire pour le plan sémantique et les lecteurs d’écran, mais vous pouvez le rendre invisible.</p>
+  <h3>Exemples visuels</h3>
+  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+    <figure class="mrgn-tp-md mrgn-bttm-lg">
+      <figcaption><b>Services et renseignements - grand écran</b></figcaption>
+      <img src="/images/services-info-fr.png" class="img-responsive" alt="Services et renseignements pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <details>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: services et renseignements - grand écran</summary>
+        <p>Neuf menus d’accueil thématique distincts sont affichés sur trois colonnes et trois lignes. Le titre de chaque menu d’accueil thématique est un lien. En dessous du titre figurent des mots-clés qui décrivent ce que l’on trouvera en cliquant sur le titre du lien.</p>
+      </details>
+    </figure>
+  </div>
+  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+    <figure class="mrgn-tp-md mrgn-bttm-lg">
+      <figcaption><b>Services et renseignements - petit écran</b></figcaption>
+      <img src="/images/services-info-sm-fr.png" class="img-responsive" alt="Services et renseignements pour les petits écrans. Version texte ci-dessous&nbsp;:" />
+      <details>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: services et renseignements - petit écran</summary>
+        <p>Neuf menus d’accueil thématique distincts sont affichés sous forme de liste. Le titre de chaque menu d’accueil thématique est un lien. En dessous du titre figurent des mots-clés qui décrivent ce que l’on trouvera en cliquant sur le titre du lien.</p>
+      </details>
+    </figure>
+  </div>
+</section>
+<section id="œuvre">
+  <h2>Comment procéder à la mise en œuvre</h2>
+  <p>Trouvez des exemples pratiques et de code pour mettre en œuvre la configuration de conception services et renseignements.</p>
+  <h3>Référence pour la mise en œuvre des thèmes de GCWeb (BOEW)</h3>
+  <ul>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-servinfo/gc-srvinfo.html">Services et renseignements&nbsp;-&nbsp;Configuration de conception courante</a></li>
+  </ul>
+  <h3>Mises en œuvre</h3>
+  <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
+  <div class="row">
+    <div class="col-md-8">
+      <div class="wb-tabs mrgn-tp-lg">
+        <div class="tabpanels">
+          <details id="004" open="open">
+            <summary><strong>GC-AEM</strong></summary>
+            <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
+            <ul>
+              <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
+            </ul>
+          </details>
+          <details id="005">
+            <summary><strong>SGDC</strong></summary>
+            <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
+            <ul>
+              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
+            </ul>
+          </details>
+          <details id="006">
+            <summary><strong>Drupal WxT</strong></summary>
+            <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
+            <ul>
+              <li><a href="https://drupalwxt.github.io">Documentation de Drupal WxT (en anglais seulement)</a></li>
+            </ul>
+          </details>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="recherche">
+  <h2>Recherche et justification</h2>
+  <p>Consultez les conclusions de la recherche et la justification de la politique.</p>
+  <h3>Constatations découlant de la recherche</h3>
+  <p><a href="https://blogue.canada.ca/resumes-recherche/comptes-entreprises-resume-recherche.html">Résumé de recherche&nbsp;: Déclaration de revenus</a></p>
+  <p>Ce résumé de recherche explique comment le choix des bons mots-clés a aidé les utilisateurs à trouver les renseignements dont ils avaient besoin. Il explique également comment l’équipe a réduit et simplifié le texte en mettant les mots-clés au début des titres, des liens et des descriptions. De meilleures pistes d’information.</p>
+  <p><a href="https://blogue.canada.ca/2018/08/16/collab-impots.html">L’ARC et le SCT collaborent afin d’optimiser le contenu de la page Web consacrée à la TPS/TVH et aux retenues sur la paie</a></p>
+  <p>Ce billet de blogue explique comment les phrases comportant des mots-clés plus courts présentaient des avantages considérables par rapport aux phrases complètes sur les pages de navigation. Elles facilitaient la recherche des renseignements clés.</p>
+  <h3>Justification stratégique</h3>
+  <p>La configuration services et renseignements est requise pour les modèles obligatoires suivants&nbsp;:</p>
+  <ul>
+    <li><a href="/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="/modeles-obligatoire/theme-sujet.html">Page de thème et de sujet</a></li>
+  </ul>
+</section>
+<section id="changements">
+  <h2>Derniers changements</h2>
+  <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2023-09-21" class="link-muted">2023-09-21</time>
+    </dt>
+    <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
+  </dl>
+</section>
