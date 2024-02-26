@@ -97,7 +97,7 @@ title: "Ministre ou chef d’institution"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Ministre ou chef d’institution – grand écran</b></figcaption>
-      <img src="/images/ministers-block-en.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/ministers-block-fr.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp; Ministre(s)&nbsp;&raquo;.</p>
@@ -120,7 +120,7 @@ title: "Ministre ou chef d’institution"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Ministre ou chef d’institution – petit écran</b></figcaption>
-      <img src="/images/ministers-block-en.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les petits écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/ministers-block-sm-fr.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - petit écran</summary>
         <p>La configuration de conception s’affiche dans une colonne et deux éléments avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
