@@ -167,7 +167,7 @@ title: "Pied de page général&nbsp;: Bande principale"
         <summary><strong>Drupal WxT</strong></summary>
         <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
         <ul>
-          <li><a href="https://drupalwxt.github.io/en/">Documentation Drupal WxT (en anglais seulement)</a></li>
+          <li><a href="https://drupalwxt.github.io/">Documentation Drupal WxT (en anglais seulement)</a></li>
         </ul>
         <p class="mrgn-tp-lg">Mise à jour du pied de page de 2023&nbsp;:</p>
         <ul>
@@ -203,6 +203,6 @@ title: "Pied de page général&nbsp;: Bande principale"
   <ul>
     <li><a
 				href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Se joindre à la conversation dans Slack</a></li>
-    <li><a href="mailto:dto.btn@tbs-sct.gc.ca">Envoyer un courriel au Bureau de la transformation numérique</a></li>
+    <li><a href="mailto:{{ site.emails.dto }}">Envoyer un courriel au Bureau de la transformation numérique</a></li>
   </ul>
 </section>

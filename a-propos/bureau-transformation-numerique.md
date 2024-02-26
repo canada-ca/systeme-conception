@@ -7,7 +7,7 @@ layout: without-h1
 title: "Bureau de la transformation numérique"
 ---
 <h1 property="name headline" id="wb-cont" dir="ltr">Bureau de la transformation numérique</h1>
-<p>Le Bureau de la transformation numérique (BTN) fait partie des Communications stratégiques et affaires ministérielles du Secrétariat du Conseil du Trésor du Canada. En tant que professionnels des communications au BTN, nous avons une expertise en conception de contenu et d’interactions, en recherche sur les utilisateurs et en rédaction en langage clair.</p>
+<p>Le Bureau de la transformation numérique (BTN) fait partie de Emploi et Développement social Canada. En tant que professionnels des communications au BTN, nous avons une expertise en conception de contenu et d’interactions, en recherche sur les utilisateurs et en rédaction en langage clair.</p>
 <p>Nous travaillons avec les ministères pour&nbsp;:</p>
 <ul>
   <li>faire en sorte que la marque Canada.ca soit reconnue et que les Canadiens puissent s’y fier; </li>

@@ -1,5 +1,14 @@
 ---
 altLangPage: https://design.canada.ca/mandatory-templates/institutional-profile-pages.html
+breadcrumbs:
+- link: https://www.canada.ca/fr/gouvernement/a-propos.html
+  title: "À propos de Canada.ca"
+- link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
+  title: "Système de conception de Canada.ca"
+- link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
+  title: "Bibliothèque de modèles et de configurations de conception"
+- link: https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html
+  title: Page d'accueil institutionnelle
 date: null
 dateModified: '2020-07-23'
 description: null

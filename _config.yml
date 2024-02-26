@@ -11,7 +11,7 @@
     }
   },
   "author": {
-    "fr": "Secrétariat du Conseil du Trésor du Canada"
+    "fr": "Emploi et Développement social Canada"
   },
   "baseurl": "",
   "exclude": [
@@ -70,6 +70,10 @@
   "urldesign": "https://design.canada.ca",
   "urlcanadaca": "https://www.canada.ca",
   "urlblogue": "https://blogue.canada.ca",
+  "emails": {
+    "dto": "cds.dto-btn.snc@servicecanada.gc.ca",
+    "atip": "ATIP.AIPRP@tbs-sct.gc.ca"
+  },
   "webmaster_verifications": {
     "google": "Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM",
     "yandex": "4dda5b1b6e392d83"
@@ -164,7 +168,7 @@
             "link": "https://conception.canada.ca"
           },
           {
-            "link": "acceuil.html",
+            "link": "https://conception.canada.ca/communte/acceuil.html",
             "title": "Communauté"
           }
         ]
@@ -185,7 +189,7 @@
           },
           {
             "title": "Sondage sur la réussite des tâches",
-            "link": "sondage/index.html"
+            "link": "https://conception.canada.ca/sondage/index.html"
           }
         ]
       }
@@ -365,7 +369,7 @@
           },
           {
             "title": "Outil de rétroaction",
-            "link": "retroaction/index.html"
+            "link": "https://conception.canada.ca/retroaction/index.html"
           }
         ]
       }
@@ -500,6 +504,35 @@
           }
         ]
       }
+    },
+    {
+      "scope": {
+        "path": "resumes-recherche/*.md"
+      },
+      "values": {
+        "section-title": "Résumé de recherche",
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
+          {
+            "title": "Résumés de recherche",
+            "link": "https://conception.canada.ca/resumes-recherche/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "resumes-recherche/index.md"
+      },
+      "values": {
+        "section-title": "",
+        "breadcrumbs": [{
+          "title": "À propos de Canada.ca",
+          "link": "https://conception.canada.ca/a-propos/"
+        }]
+      }
     }, {
       "scope": {
         "path": "a-propos"
@@ -520,6 +553,35 @@
       },
       "values": {
         "breadcrumbs": true
+      }
+    },
+    {
+      "scope": {
+        "path": "partenaires/*.md"
+      },
+      "values": {
+        "section-title": "Travailler avec des partenaires",
+        "breadcrumbs": [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
+          {
+            "title": "Travailler avec des partenaires",
+            "link": "https://conception.canada.ca/partenaires/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "partenaires/index.md"
+      },
+      "values": {
+        "section-title": "",
+        "breadcrumbs": [{
+          "title": "À propos de Canada.ca",
+          "link": "https://conception.canada.ca/a-propos/"
+        }]
       }
     },
     {
