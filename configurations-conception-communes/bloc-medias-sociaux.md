@@ -8,14 +8,7 @@ title: "Bloc des réseaux de médias sociaux - Configuration de conception de\
 ---
 
 
-<p class="gc-byline">
- <strong>
-  De :
-  <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-   Secrétariat du Conseil du Trésor du Canada
-  </a>
- </strong>
-</p>
+
 
 <p>
  Le bloc des réseaux de médias sociaux (fenêtre « Suivez ») est une composante d’intérieur de page qui permet aux gens de suivre les comptes officiels de médias sociaux du gouvernement du Canada sur diverses plateformes de médias sociaux.

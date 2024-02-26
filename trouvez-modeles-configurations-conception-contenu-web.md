@@ -1,4 +1,4 @@
---- 
+---
 altLangPage: "https://design.canada.ca/find-right-template-design-pattern-web-content.html"
 date: 2019-11-06
 dateModified: 2019-11-06
@@ -8,10 +8,10 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
 <p>Répondez aux questions suivantes pour savoir si vous pourriez utiliser une configuration de modèle ou de conception pour concevoir du contenu centré sur les utilisateurs et les tâches.</p>
 <div class="wb-frmvld">
   <form method="get">
-    
+
     <!-- Q1 -->
     <div id="question-1" class="wb-fieldflow" data-wb-fieldflow="{
-							&quot;renderas&quot;:&quot;radio&quot;, 
+							&quot;renderas&quot;:&quot;radio&quot;,
 							&quot;noForm&quot;: true,
 							&quot;base&quot;: { &quot;live&quot;: true },
 											&quot;default&quot;: { &quot;action&quot;: &quot;addClass&quot;, &quot;source&quot;:&quot;#result1,#result2,#result3,#result4,#result5,#result6,#result7,#result8,#result9,#result10,#result11,#result12,#result13,#result14,#result15,#result16,#result17,#result18,#result19,#result20,#result21,#result22,#result23,#result24,#result25,#result26,#result27,#result28,#result29,#result30,#result31,#result32,#result33,#result34,#result35&quot;, &quot;class&quot;: &quot;hidden&quot; }
@@ -25,7 +25,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;append&quot;, &quot;source&quot;: &quot;#question-9&quot;}">Consultation auprès des Canadiens </li>
       </ul>
     </div>
-    
+
     <!-- Question 2 -->
     <div id="question-2" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Quel type d’information sur les programmes et les services?</p>
@@ -45,7 +45,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result9&quot;}">Rien de ce qui précède </li>
       </ul>
     </div>
-    
+
     <!-- Question 3 -->
     <div id="question-3" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Quel type de liste d’éléments?</p>
@@ -57,7 +57,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result8&quot;}">Liste de lignes directrices sur la loi </li>
       </ul>
     </div>
-    
+
     <!-- Question 4 -->
     <div id="question-4" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Voulez-vous donner de l’information sur une loi ou un règlement? </p>
@@ -66,7 +66,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result11&quot;}">Règlement</li>
       </ul>
     </div>
-    
+
     <!-- Question 5 -->
     <div id="question-5" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Quel type d’information sur votre organisation?</p>
@@ -79,7 +79,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result9&quot;}">Rien de ce qui précède </li>
       </ul>
     </div>
-    
+
     <!-- Question 6 -->
     <div id="question-6" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Êtes-vous une organisation gouvernementale, une institution ou  un partenariat/entente de collaboration?</p>
@@ -90,7 +90,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result14&quot;}">Je ne sais pas </li>
       </ul>
     </div>
-    
+
     <!-- Question 7 -->
     <div id="question-7" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Quel type de navigation?</p>
@@ -103,7 +103,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result9&quot;}">Rien de ce qui précède</li>
       </ul>
     </div>
-    
+
     <!-- Question 8 -->
     <div id="question-8" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Que voulez-vous promouvoir?</p>
@@ -113,7 +113,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result23&quot;}">Promouvoir un programme ou un service sur une page existante</li>
       </ul>
     </div>
-    
+
     <!-- Question 9 -->
     <div id="question-9" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Que voulez-vous faire en matière de consultations? </p>
@@ -123,7 +123,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result28&quot;}">Promouvoir une consultation ou les résultats d’une consultation</li>
       </ul>
     </div>
-    
+
     <!--Result-->
     <div id="result1" class="hidden">
       <section class="panel panel-primary">
@@ -143,7 +143,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         </header>
         <div class="panel-body">
           <p>Pour fournir des renseignements de base sur un programme, vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-description-programme.html">page de description de programme</a>.</p>
-          <p>Il n'existe pas de modèle spécifique pour publier un rapport sur un programme. Utilisez les configurations de conception appropriées de la <a href="/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de conceptions de configuration</a>.</p>
+          <p>Il n'existe pas de modèle spécifique pour publier un rapport sur un programme. Utilisez les configurations de conception appropriées de la <a href="{{ site.url }}/bibliotheque-modeles.html">Bibliothèque de modèles et de conceptions de configuration</a>.</p>
         </div>
       </section>
     </div>
@@ -204,9 +204,9 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Page de destination générique</h2>
         </header>
         <div class="panel-body">
-          <p>Il n'y a pas de modèle spécifique pour votre type de contenu. Assurez-vous de vous conformer aux <a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception de Canada.ca.</a></p>
+          <p>Il n'y a pas de modèle spécifique pour votre type de contenu. Assurez-vous de vous conformer aux <a href="{{ site.url }}/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception de Canada.ca.</a></p>
           <h3>Configurations de conception communes</h3>
-          <p>Créez vos pages à l’aide de la <a href="/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a>.</p>
+          <p>Créez vos pages à l’aide de la <a href="{{ site.url }}/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a>.</p>
         </div>
       </section>
     </div>
@@ -4378,7 +4378,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         </header>
         <div class="panel-body">
           <p>Utilisez la <a href="{{ site.url }}/modeles-obligatoire/page-sujet.html">page de sujet</a>.</p>
-          <p>Les pages de sujet doivent être utilisées pour les 2 premiers niveaux de l’<a href="/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#arborescence">arborescence thématique</a>. Elles peuvent également être utilisées dans les niveaux inférieurs, mais elles ne sont pas obligatoires. Elles sont de nature navigationnelles et ne devraient pas être utilisées lorsque plusieurs tâches doivent être regroupées ensemble. Consultez toujours votre responsable de thème avant de créer une nouvelle page de sujet.</p>
+          <p>Les pages de sujet doivent être utilisées pour les 2 premiers niveaux de l’<a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#arborescence">arborescence thématique</a>. Elles peuvent également être utilisées dans les niveaux inférieurs, mais elles ne sont pas obligatoires. Elles sont de nature navigationnelles et ne devraient pas être utilisées lorsque plusieurs tâches doivent être regroupées ensemble. Consultez toujours votre responsable de thème avant de créer une nouvelle page de sujet.</p>
         </div>
       </section>
     </div>
@@ -4477,7 +4477,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Consultations</h2>
         </header>
         <div class="panel-body">
-          <p>Il n'existe pas de modèle spécifique pour publier un rapport des résultats d’une consultation. Utilisez les configurations de conception appropriées de la <a href="/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de conceptions de configuration</a>.</p>
+          <p>Il n'existe pas de modèle spécifique pour publier un rapport des résultats d’une consultation. Utilisez les configurations de conception appropriées de la <a href="{{ site.url }}/bibliotheque-modeles.html">Bibliothèque de modèles et de conceptions de configuration</a>.</p>
         </div>
       </section>
     </div>
@@ -4582,7 +4582,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <p>Lorsque vous concevez du contenu, mettez toujours l’accent sur la tâche que l’utilisateur tente d’accomplir.</p>
         <p>Gardez à l'esprit que la mesure du succès dépasse le simple respect des lignes directrices. Il est tout aussi important d'aider les utilisateurs à mener à bien leurs tâches.</p>
         <p>Utilisez les modèles et les configuations qui aident les gens à accomplir la tâche, et n’hésitez pas à utiliser votre créativité.</p>
-        <p>Contactez-nous à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a> si vous voulez : </p>
+        <p>Contactez-nous à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a> si vous voulez : </p>
         <ul>
           <li>nous donner de la rétroaction sur cet assistant </li>
           <li>nous poser une question sur les modèles et les configurations </li>
