@@ -1,264 +1,127 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/social-media-channels.html
-date: "2018-12-19"
-dateModified: "2023-09-23"
-description: "La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada sur diverses plateformes de médias sociaux."
-title: "Chaînes de médias sociaux"
+date: null
+dateModified: '2018-12-19'
+description: null
+title: "Bloc des réseaux de médias sociaux - Configuration de conception de\
+  \ Canada.ca"
 ---
-<p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
-<p>La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada (GC).</p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/social-media-vertical-mask-fr.png" class="img-responsive" alt="" /></div>
+
+
+<p class="gc-byline">
+ <strong>
+  De :
+  <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
+   Secrétariat du Conseil du Trésor du Canada
+  </a>
+ </strong>
+</p>
+
+<p>
+ Le bloc des réseaux de médias sociaux (fenêtre « Suivez ») est une composante d’intérieur de page qui permet aux gens de suivre les comptes officiels de médias sociaux du gouvernement du Canada sur diverses plateformes de médias sociaux.
+</p>
+
 <section>
-  <h2>Sur cette page</h2>
-  <ul>
-    <li><a href="#utiliser">Quand l’utiliser</a></li>
-    <li><a href="#eviter">Quoi éviter</a></li>
-    <li><a href="#contenu">Contenu et conception</a></li>
-    <li><a href="#œuvre">Comment procéder à la mise en œuvre</a></li>
-    <li><a href="#recherche">Recherche et justification</a></li>
-    <li><a href="#changements">Derniers changements</a></li>
-  </ul>
+ <h2>
+  Quand utiliser cette configuration
+ </h2>
+ <ul>
+  <li>
+   Utilisez cette fenêtre lorsque les comptes de médias sociaux du GC sont pertinents dans le contexte actuel.
+  </li>
+  <li>
+   Ne pas utiliser cette composante lorsqu’une tâche accomplie par une personne ne doit pas être interrompue (par exemple pendant une transaction).
+  </li>
+  <li>
+   Ne pas reproduire le contenu d’autres composantes promotionnelles de la page.
+  </li>
+ </ul>
 </section>
-<section id="utiliser">
-  <h2>Quand l’utiliser</h2>
-  <p>Utilisez la configuration de conception des chaînes de médias sociaux sur les pages afin de promouvoir les comptes de médias sociaux officiels du gouvernement du Canada (GC) qui sont pertinents par rapport à la page.</p>
-  <p>Exemples&nbsp;:</p>
-  <ul>
-    <li>Page d’accueil institutionnelle</li>
-    <li>Blogue</li>
-    <li>Page de sujet</li>
-  </ul>
-</section>
-<section id="eviter">
-  <h2>Quoi éviter</h2>
-  <p>N’utilisez pas la configuration de conception des chaînes de médias sociaux lorsque le flux d’un utilisateur ne doit pas être interrompu, par exemple pendant un processus transactionnel.</p>
-</section>
-<section id="contenu">
-  <h2>Contenu et conception</h2>
-  <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
-  <h3>Spécifications de contenu</h3>
-  <p>La configuration de conception des chaînes de médias sociaux est composée du titre «&nbsp;Sur les médias sociaux&nbsp;» et d’icônes renvoyant aux comptes de médias sociaux officiels du gouvernement du Canada.</p>
-  <p>Les comptes mentionnés dans la configuration de conception doivent être entièrement conformes à la Directive sur la gestion des communications.</p>
-  <p>Afficher un maximum de sept (7) icônes alignées dans une colonne verticale ou une rangée horizontale&nbsp;:</p>
-  <ul>
-    <li>L’affichage vertical comprend une étiquette à côté de chaque icône.</li>
-    <li>L’affichage horizontal ne comprend que les icônes.</li>
-  </ul>
-  <p>S’il y a plus d’un compte pour une plateforme&nbsp;:</p>
-  <ul>
-    <li>Indiquez le nom de la plateforme à côté de son icône (affichage vertical seulement).</li>
-    <li>Utilisez une fenêtre contextuelle modale pour afficher le nom de chaque compte sur cette plateforme.
-      <ul>
-        <li>La fenêtre contextuelle modale peut avoir jusqu’à huit (8) liens de texte.</li>
-        <li>Utilisez les noms des comptes en tant qu’étiquettes.</li>
-      </ul>
+
+<section>
+ <h2>
+  Comment utiliser cette configuration
+ </h2>
+ <ul>
+  <li>
+   La fenêtre « Suivez : » des réseaux de médias sociaux comprend l’en-tête « Suivez : » et des icônes pointant vers les comptes officiels de médias sociaux du GC ou les fils RSS qui sont pertinents pour la page.
+  </li>
+  <li>
+   Les comptes indiqués dans la boîte Suivre doivent respecter la
+   <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">
+    Directive sur la Gestion des communications
+   </a>
+   dans son entièreté.
+  </li>
+  <li>
+   Aligner un maximum de sept icônes sur une même ligne horizontale en utilisant le jeu d’icônes standard sous le thème de la
+   <abbr title="Boîte à outils de l’expérience Web">
+    BOEW
+   </abbr>
+   de Canada.ca.
+  </li>
+  <li>
+   Utiliser une seule icône pour chaque plateforme de médias sociaux. S’il y a plus d’un compte pour une même plateforme :
+   <ul>
+    <li>
+     énumérez-les dans un menu déroulant cliquable;
     </li>
-  </ul>
-  <p>Placez les chaînes de médias sociaux après la tâche et le contenu de navigation.</p>
-  <h3>Spécifications de conception</h3>
-  <ul>
-    <li>Spécifications de conception de la fenêtre contextuelle modale
-      <ul>
-        <li>Couleur de fond de l’en-tête modal&nbsp;: #2e5274</li>
-        <li>Titre&nbsp;: H2, Lato, le style de la taille de police est de 1.15 em</li>
-      </ul>
+    <li>
+     prévoyez un maximum de huit liens de texte en utilisant les noms des comptes comme étiquettes;
     </li>
-    <li>Liens&nbsp;:
-      <ul>
-        <li>Police&nbsp;: Noto Sans, 16 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
-      </ul>
+    <li>
+     s’il faut plus de huit liens, prévoir un lien « Tout afficher » comme dernier élément de la liste. Ce lien doit pointer vers la rubrique pertinente de la galerie de médias sociaux de Canada.ca, où tous les comptes pertinents seront énumérés.
     </li>
-    <li>Le style du bouton est celui d’un bouton principal.</li>
-  </ul>
-  <p>Les classes de lien pour les médias sociaux et les icônes associés sont disponibles.</p>
-  <div class="row mrgn-tp-lg">
-    <div class="col-md-8">
-      <div class="panel panel-default">
-        <table class="table table-striped" id="social-media" aria-live="polite">
-          <caption class="wb-inv">
-          Classes des liens des médias sociaux et les icones associés
-          </caption>
-          <thead>
-            <tr>
-              <th class="col-md-4">Plateforme de médias sociaux</th>
-              <th class="col-md-4">Classe CSS</th>
-              <th class="col-md-4">Lien vers le fichier SVG (GitHub)</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Facebook</td>
-              <td><p>facebook</p></td>
-              <td class="text-center"><div class="provisional gc-followus">
-                  <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/facebook.svg" class="facebook"><span class="wb-inv">Facebook</span></a></li>
-                  </ul>
-                </div></td>
-            </tr>
-            <tr>
-              <td>Twitter</td>
-              <td><p>twitter</p></td>
-              <td class="text-center"><div class="provisional gc-followus">
-                  <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg" class="twitter"><span class="wb-inv">Twitter</span></a></li>
-                  </ul>
-                </div></td>
-            </tr>
-            <tr>
-              <td>YouTube</td>
-              <td><p>youtube</p></td>
-              <td class="text-center"><div class="provisional gc-followus">
-                  <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg" class="youtube"><span class="wb-inv">YouTube</span></a></li>
-                  </ul>
-                </div></td>
-            </tr>
-            <tr>
-              <td>Instagram</td>
-              <td>instagram</td>
-              <td class="text-center"><div class="provisional gc-followus">
-                  <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/instagram.svg" class="instagram"><span class="wb-inv">Instagram</span></a></li>
-                  </ul>
-                </div></td>
-            </tr>
-            <tr>
-              <td>LinkedIn</td>
-              <td><p>linkedin</p></td>
-              <td class="text-center"><div class="provisional gc-followus">
-                  <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/linkedin.svg" class="linkedin"><span class="wb-inv">LinkedIn</span></a></li>
-                  </ul>
-                </div></td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-  </div>
-  <p><a href="/contactez-nous/">Communiquez avec le Bureau de la transformation numérique (BTN)</a> si vous voulez inclure une plateforme qui n’est pas représentée ici.</p>
-  <h3>Exemples visuels</h3>
-  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
-    <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Chaînes de médias sociaux (affichage vertical avec étiquettes) — grand écran</b></figcaption>
-      <img src="/images/social-media-vertical-mask-fr.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
-      <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaîne de médias sociaux (affichage horizontal) - grand écran</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». On trouve sous le titre une liste verticale avec les icônes et les étiquettes associées&nbsp;:</p>
-        <ul>
-          <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
-          <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
-          <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
-          <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
-          <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
-        </ul>
-      </details>
-    </figure>
-  </div>
-  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
-    <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Chaînes de médias sociaux (affichage vertical avec étiquettes) — grand écran</b></figcaption>
-      <img src="/images/social-media-horizontal-mask-en.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
-      <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaîne de médias sociaux (affichage horizontal) - grand écran</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;».  On trouve sous le titre une liste horizontale avec les icônes associées, mais sans les étiquettes&nbsp;:</p>
-        <ul>
-          <li>Facebook</li>
-          <li>Twitter</li>
-          <li>Youtube</li>
-          <li>Instagram</li>
-          <li>LinkedIn</li>
-        </ul>
-      </details>
-    </figure>
-  </div>
-  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
-    <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Chaînes de médias sociaux (affichage vertical avec étiquettes) – petit écran</b></figcaption>
-      <img src="../images/social-media-vertical-en-sm.png" class="img-responsive" alt="Chaînes de médias sociaux (conception verticale avec étiquettes) pour les petits écrans. Version texte ci-dessous&nbsp;:" />
-      <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage vertical avec étiquettes) - petit écran</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
-        <ul>
-          <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
-          <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
-          <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
-          <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
-          <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
-        </ul>
-      </details>
-    </figure>
-  </div>
-  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
-    <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Fenêtre contextuelle modale de médias sociaux pour comptes multiples</b></figcaption>
-      <img src="../images/social-media-lightbox-fr.png" class="img-responsive" alt="Fenêtre contextuelle modale de médias sociaux pour comptes multiples. Version texte ci-dessous&nbsp;:" />
-      <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: fenêtre contextuelle modale de médias sociaux pour comptes multiples</summary>
-        <p>Une fenêtre contextuelle superposée pour afficher de multiples comptes Facebook. Un titre indique la plateforme de médias sociaux, tandis que deux liens intitulés [Titre du premier compte Facebook] et [Titre du deuxième compte Facebook] se trouvent en dessous. La fenêtre modale est dotée d’un bouton de fermeture et d’un X dans le coin pour fermer la composante modale.</p>
-      </details>
-    </figure>
-  </div>
+   </ul>
+  </li>
+  <li>
+   Positionner la fenêtre « Suivez : » de manière à ne pas masquer le contenu primaire de la page.
+  </li>
+  <li>
+   Accentuer la forme de la fenêtre de cette composante à l’aide d’une couleur d’arrière-plan plus sombre que l’arrière-plan environnant de la page.
+  </li>
+  <li>
+   Utiliser les catégories de présentation définies sous le thème de la
+   <abbr title="Boîte à outils de l’expérience Web">
+    BOEW
+   </abbr>
+   de Canada.ca.
+  </li>
+ </ul>
 </section>
-<section id="œuvre">
-  <h2>Comment procéder à la mise en œuvre</h2>
-  <p>Trouvez des exemples pratiques et de code pour mettre en œuvre la configuration de conception des chaînes de médias sociaux.</p>
-  <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
-  <p>La référence à l’implémentation comprend la façon de configurer chaque élément du système de conception.</p>
-  <ul>
-    <li><a href=""></a>Chaînes de médias sociaux de GCWeb (BOEW)</li>
-    <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
-  </ul>
-  <h3>Mises en œuvre</h3>
-  <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
-  <div class="row">
-    <div class="col-md-8">
-      <div class="wb-tabs mrgn-tp-lg">
-        <div class="tabpanels">
-          <details id="004" open="open">
-            <summary><strong>GC-AEM</strong></summary>
-            <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
-            <ul>
-              <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
-            </ul>
-          </details>
-          <details id="005">
-            <summary><strong>SGDC</strong></summary>
-            <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
-            <ul>
-              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
-            </ul>
-          </details>
-          <details id="006">
-            <summary><strong>Drupal WxT</strong></summary>
-            <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
-            <ul>
-              <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
-            </ul>
-          </details>
-        </div>
-      </div>
-    </div>
-  </div>
+
+<section>
+ <h2>
+  Exemple concret
+ </h2>
+ <ul>
+  <li>
+   <a href="https://wet-boew.github.io/GCWeb/templates/topic/topic-fr.html">
+    Page de sujet
+   </a>
+  </li>
+ </ul>
 </section>
-<section id="recherche">
-  <h2>Recherche et justification</h2>
-  <p>Consultez la justification stratégique.</p>
-  <h3>Justification stratégique</h3>
-  <p>Le contenu de la section des chaînes de médias sociaux doit suivre la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a>.</p>
-  <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
-  <ul>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html"></a>Page de thème et de sujet</li>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
-  </ul>
+
+<section class="panel panel-primary">
+ <header class="panel-heading">
+  <h3 class="panel-title">
+   Exemple
+  </h3>
+ </header>
+ <div class="panel-body">
+  <figure class="mrgn-bttm-sm">
+   <figcaption class="text-center">
+    <b>
+     Modèle de bloc des réseaux de médias sociaux (boîte « Suivre »)
+    </b>
+   </figcaption>
+   <img alt="Capture d’écran illustrant le modèle de bloc des réseaux de médias sociaux (boîte « Suivre ») dans le site Canada.ca. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/social-media-channels-block-fra.jpg"/>
+  </figure>
+ </div>
 </section>
-<section id="changements">
-  <h2>Derniers changements</h2>
-  <dl class="dl-horizontal">
-    <dt>
-      <time datetime="2023-09-13" class="link-muted">2023-09-20</time>
-    </dt>
-    <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
-  </dl>
-</section>
+
+
+
+
+
