@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/research-summaries/"
 date: 2024-01-17
-dateModified: 2024-01-17
+dateModified: 2024-02-27
 description: "Résumés des recherches menées par le Bureau de la transformation numérique (BTN) et par les ministères fédéraux."
 language: fr
 title: "Résumés de recherche"
