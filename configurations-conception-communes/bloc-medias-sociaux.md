@@ -105,11 +105,11 @@ title: "Chaînes de médias sociaux"
                 </div></td>
             </tr>
             <tr>
-              <td>Twitter</td>
+              <td>X</td>
               <td><p>twitter</p></td>
               <td class="text-center"><div class="provisional gc-followus">
                   <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg" class="twitter"><span class="wb-inv">Twitter</span></a></li>
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg" class="twitter"><span class="wb-inv">X</span></a></li>
                   </ul>
                 </div></td>
             </tr>
@@ -156,7 +156,7 @@ title: "Chaînes de médias sociaux"
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». On trouve sous le titre une liste verticale avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
-          <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
+          <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
           <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
           <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
           <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
@@ -173,7 +173,7 @@ title: "Chaînes de médias sociaux"
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;».  On trouve sous le titre une liste horizontale avec les icônes associées, mais sans les étiquettes&nbsp;:</p>
         <ul>
           <li>Facebook</li>
-          <li>Twitter</li>
+          <li>X</li>
           <li>Youtube</li>
           <li>Instagram</li>
           <li>LinkedIn</li>
@@ -190,7 +190,7 @@ title: "Chaînes de médias sociaux"
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
-          <li>Icône de Twitter suivie du texte de l’espace réservé @CompteTwitter</li>
+          <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
           <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
           <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
           <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
