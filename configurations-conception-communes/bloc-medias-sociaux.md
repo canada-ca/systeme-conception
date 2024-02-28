@@ -215,7 +215,7 @@ title: "Chaînes de médias sociaux"
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <p>La référence à l’implémentation comprend la façon de configurer chaque élément du système de conception.</p>
   <ul>
-    <li><a href=""></a>Chaînes de médias sociaux de GCWeb (BOEW)</li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-follow-us/gc-follow-us-fr.html">Chaînes de médias sociaux de GCWeb (BOEW)</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
   <h3>Mises en œuvre</h3>
