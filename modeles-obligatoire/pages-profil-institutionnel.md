@@ -5,10 +5,11 @@ dateModified: "2023-08-23"
 description: Orientation sur la façon d’utiliser le modèle de page d’accueil institutionnelle et ses composants associés sur Canada.ca.
 title: Page d’accueil institutionnelle
 ---
+<p><span class="label label-danger">Obligatoire</span></p>
 <mark>l'images n'est pas disponible tant que le modèle n'est pas terminé</mark>
 <p><strong>Dernière modification</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>
-    Il s’agit du modèle de page d’accueil de chaque ministère, organisme et organisation du gouvernement du Canada qui a un titre d’usage dans le registre du
+    Il s’agit du modèle de la page d’accueil principale de chaque ministère, organisme et organisation du gouvernement du Canada qui a un titre d’usage dans le registre du
     <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Programme fédéral de l’image de marque (PFIM)</a>.
 </p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/ilp-cropped-fr.png" class="img-responsive" alt="" /></div>
@@ -96,17 +97,17 @@ title: Page d’accueil institutionnelle
                         </tr>
                         <tr>
                             <td><a href="#">À propos de l’institution</a></td>
-                            <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
+                            <td>Suivez le modèle de la configuration de conception.</td>
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
                         <tr>
                             <td><a href="#">Chaînes de médias sociaux</a></td>
-                            <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
+                            <td>Suivez le modèle de la configuration de conception.</td>
                              <td class="text-center">Facultatif</td>
                         </tr>
                         <tr>
                             <td><a href="#">Ministre ou chef d’institution</a></td>
-                            <td>Aucune orientation particulière liée à la page d’accueil institutionnelle. Suivez le modèle de la configuration de conception.</td>
+                            <td>Suivez le modèle de la configuration de conception.</td>
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
                         <tr>
