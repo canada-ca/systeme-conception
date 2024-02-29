@@ -9,26 +9,6 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner su
 <p>Pour la population canadienne et pour les personnes qui espéraient visiter le Canada ou y immigrer au plus fort de la pandémie de la COVID-19, les restrictions de voyage étaient complexes et en constante évolution. Durant la pandémie, la recherche de réponses à propos des déplacements dans le contexte de la COVID-19 a été l'une des principales tâches que les utilisateur·rice·s ont cherché à accomplir en ligne. Bien que de nombreuses informations aient été disponibles sur Canada.ca, il était difficile pour les voyageur·se·s individuel·le·s de trouver la bonne information et de la synthétiser pour obtenir des réponses claires. Les questions relatives aux voyages, aux transports et à l'immigration sont gérées par plusieurs services, ce qui complique la recherche de toutes les informations relatives à la situation particulière de chacun·e et aux plans de voyage.</p>
 <p>Nous avons effectué des tests d'utilisabilité avec des voyageur·se·s potentiel·le·s et nous avons constaté que la synthèse d'informations complexes sur les voyages en un assistant interactif aidait les participant·e·s à accomplir des tâches clés. Un assistant interactif permet de guider les personnes vers la réponse dont elles ont besoin par le biais d'une série de questions. Les participant·e·s qui ont utilisé l'assistant ont obtenu la bonne réponse plus fréquemment, pour des questions concernant les restrictions de voyage, que les participant·e·s qui développaient leurs propres réponses à partir d'informations disponibles sur des pages gérées par différentes institutions.</p>
 <p>The following example shows how the first 2 interactive questions guide a person toward completing their key task.</p>
-<div class="row mrgn-tp-lg">
-  <div class="col-md-8">
-    <figure><img alt="Example of the wizard's first interactive question" class="img-responsive" id="travel-1" src="/resumes-recherche/images/travel-1.png" />
-      <figcaption class="well">
-        <p><strong>Example of the wizard's first interactive question</strong></p>
-        <p>A person can choose from "a Canadian citizen (including dual citizens), a permanent resident of Canada, a person registered under the Indian Act, or a protected person (refugee status)" and "a foreign national (including a United States citizen)".  The person has selected "a foreign national (including a United States citizen)"</p>
-      </figcaption>
-    </figure>
-  </div>
-</div>
-<div class="row mrgn-tp-lg mrgn-bttm-md">
-  <div class="col-md-8">
-    <figure><img alt="Example of the wizard's second interactive question" class="img-responsive" id="travel-2" src="/resumes-recherche/images/travel-2.png" />
-      <figcaption class="well">
-        <p><strong>Example of the wizard's second interactive question</strong></p>
-        <p>A person is asked, "Have you received at least 2 COVID-19 vaccine doses or a combination of at least 2 doses of:"?  The person can select their vaccine status from a list.</p>
-      </figcaption>
-    </figure>
-  </div>
-</div>
 <p>Essayez un des tout premiers prototypes de l'assistant pour découvrir comment il fonctionne.</p>
 <p><a href="https://test.canada.ca/covid-19-guidance-2021/travel-2.0/wizard-7-dec2021/wizard-start.html">Wizard prototype: Find out if you can travel to Canada</a> (en anglais seulement)</p>
 <h2>La conception de contenu en état de crise</h2>
