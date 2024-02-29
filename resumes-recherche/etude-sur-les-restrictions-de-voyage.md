@@ -46,7 +46,7 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner su
 <p>Nous avons également constaté que certain·e·s participant·e·s ignoraient le contenu juridique d'une page, même si ce contenu était pertinent pour leur situation. Les politiques gouvernementales sont souvent liées à des considérations juridiques, telles que les conséquences du non-respect de certaines lois. En fonction de la situation particulière de chacun·e, le fait de passer à côté d'informations juridiques essentielles parce qu'on est accablé·e et déboussolé·e par d'autres informations juridiques non applicables peut avoir des conséquences néfastes.</p>
 <div class="row mrgn-tp-lg mrgn-bttm-md">
   <div class="col-md-8">
-    <figure><img alt="Page d'accueil sur les voyages en septembre 2020" class="img-responsive" id="travel-3" src="/resumes-recherche/images/travel-fr-3.png" />
+    <figure><img alt="Page d'accueil sur les voyages en septembre 2020" class="img-responsive" id="travel-3" src="/resumes-recherche/images/travel-3-fr.png" />
       <figcaption class="well">
         <p><strong>Page d'accueil sur les voyages en septembre 2020</strong></p>
         <p>The link to the "emergency orders" under the <cite>Quarantine Act</cite> is buried in the content.</p>
@@ -57,7 +57,7 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner su
 <p>Nous pensions pouvoir atténuer ces difficultés en distillant l'information par le biais d'un assistant interactif. Dans le cadre d'ateliers interministériels avec nos partenaires et des expert·e·s en la matière, l'équipe a conçu l'assistant &laquo;&nbsp;Découvrez si vous pouvez entrer au Canada&nbsp;&raquo; ainsi qu'une série de pages en soutien. L'assistant propose à l'utilisateur·rice des questions concernant sa situation afin de lui fournir une réponse sur mesure. Si la personne préfère rechercher des détails pour une situation spécifique par elle-même, les pages de soutien lui permettent de trouver des réponses au sein d'un groupe consolidé de pages Web classées par thèmes, plutôt que sur plusieurs pages qui se chevauchent et qui ont été rédigées par plusieurs ministères et agences.</p>
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
-    <figure><img alt="Example of the wizard's first interactive question" class="img-responsive" id="travel-4" src="/resumes-recherche/images/travel-fr-4.png" />
+    <figure><img alt="Example of the wizard's first interactive question" class="img-responsive" id="travel-4" src="/resumes-recherche/images/travel-4-fr.png" />
       <figcaption class="well">
         <p><strong>Example of the wizard's first interactive question</strong></p>
         <p>A person can choose from "a Canadian citizen (including dual citizens), a permanent resident of Canada, a person registered under the Indian Act, or a protected person (refugee status)" and "a foreign national (including a United States citizen)".</p>
@@ -67,7 +67,7 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner su
 </div>
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
-    <figure><img alt="Example of integrated question" class="img-responsive" id="travel-5" src="/resumes-recherche/images/travel-fr-5.png" />
+    <figure><img alt="Example of integrated question" class="img-responsive" id="travel-5" src="/resumes-recherche/images/travel-5-fr.png" />
       <figcaption class="well">
         <p><strong>Example of a question as a person proceeds through the wizard</strong></p>
         <p>The wizard asks, "Was your second COVID-19 vaccine dose at least 14 days before the day you plan to enter Canada?"  A person can choose "Yes" or "No".</p>
@@ -146,7 +146,7 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner su
 <p>Ces résultats sont venus renforcer les constatations faites lors des premiers tests d'utilisabilité, qui nous ont amené·e·s à penser que le contenu présenté sous forme d'assistant serait plus efficace; lorsqu'ils ou elles essaient de comprendre des règles et des exigences, les utilisateur·rice·s ont besoin de réponses, et non d'informations. Les gens peuvent se sentir désorientés face à des contenus qui ne sont pas pertinents pour leur tâche. Les assistants réduisent la charge cognitive et aident les gens à se concentrer et à trouver des réponses personnalisées à leurs besoins.</p>
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
-    <figure><img alt="Example of a person's progess through the wizard" class="img-responsive" id="travel-fr-6" src="/resumes-recherche/images/travel-6.png" />
+    <figure><img alt="Example of a person's progess through the wizard" class="img-responsive" id="travel-fr-6" src="/resumes-recherche/images/travel-6-fr.png" />
       <figcaption class="well">
         <p><strong>Example of a person's progess through the wizard</strong></p>
         <p>An example of a person progress through the wizard.  "You indicated that you are:" is followed by a list of previous answers that preceded the current question.</p>
