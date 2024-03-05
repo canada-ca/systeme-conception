@@ -13,7 +13,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
 <div id="expand-collapse">
     <details open="open">
     <summary>19 février 2024</summary>
-    <p>Mise à jour du <a href="{{ site.url }}styles/typographie.html">style Typographie</a> pour inclure les spécifications de conception relatives au nouveau style du titre principal des pages (H1).</p>
+    <p>Mise à jour du <a href="{{ site.url }}/styles/typographie.html">style Typographie</a> pour inclure les spécifications de conception relatives au nouveau style du titre principal des pages (H1).</p>
   </details>
   <details>
     <summary>7 novembre 2023</summary>
