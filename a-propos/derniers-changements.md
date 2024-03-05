@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2023-11-07
+dateModified: 2024-03-05
 description: "Derniers changements apportés au système de conception de Canada.ca."
 layout: default
 title: "Derniers changements apportés au système de conception de Canada.ca"
