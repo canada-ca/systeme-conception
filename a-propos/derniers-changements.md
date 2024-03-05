@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2023-11-07
+dateModified: 2024-02-19
 description: "Derniers changements apportés au système de conception de Canada.ca."
 layout: default
 title: "Derniers changements apportés au système de conception de Canada.ca"
@@ -11,7 +11,11 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
 </div>
 <div id="expand-collapse">
-  <details open="open">
+    <details open="open">
+    <summary>19 février 2024</summary>
+    <p>Mise à jour du <a href="{{ site.url }}/styles/typographie.html">style Typographie</a> pour inclure les spécifications de conception relatives au nouveau style du titre principal des pages (H1).</p>
+  </details>
+  <details>
     <summary>7 novembre 2023</summary>
     <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/signaler-probleme.html">configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;</a> pour informer les utilisateurs de sa future mise hors service. Stabilisation de la <a href="{{ site.url }}/configurations-conception-communes/outil-retroaction.html">configuration de l’outil de rétroaction</a> sur la page, ajout de spécifications sur le contenu et mise à jour des instructions de mise en œuvre.</p>
   </details>
