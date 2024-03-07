@@ -2214,7 +2214,19 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <section id="wp7-3">
     <h3>7.3 Vérifier que les liens fonctionnent</h3>
-    <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
+    <p>Vérifiez que vos liens fonctionnent et qu’ils dirigent les gens vers les bonnes informations.  Les liens qui sont brisés ou obsolètes créent de la frustration.  Ils peuvent amener les gens à perdre confiance en votre contenu.</p>
+    <p>Il convient de vérifier vos liens et de les mettre à jour dans le cadre de votre routine de maintenance du contenu.</p>
+    <ul>
+      <li>Réparez les liens brisés (p. ex., ceux qui dirigent vers un message 404 &laquo;&nbsp;Page introuvable&nbsp;&raquo;).</li>
+      <li>Vérifiez que la destination des liens est la bonne et que l’information y est pertinente et à jour.</li>
+      <li>Passez en revue les redirections d’URL&nbsp;:
+        <ul>
+          <li>Vérifiez qu’elles sont à jour et qu’elles redirigent les personnes vers la bonne page.</li>
+          <li>Mettez à jour les liens dans votre site, de sorte qu’ils dirigent vers les liens actuels et non vers les URL redirigées.</li>
+        </ul>
+      </li>
+      <li>Vérifiez que les liens dirigent vers la bonne langue officielle.</li>
+    </ul>
     <h4>Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise</h4>
     <ul>
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-3">7.3 Make sure that links work</a></span></li>
