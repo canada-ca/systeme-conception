@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-02-14
+dateModified: 2024-03-07
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -42,7 +42,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>À compter de janvier 2024, <cite>Le guide du rédacteur</cite> et le <cite>Canadian Style</cite> ont été archivés. Leur contenu a été intégré à <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite><span lang="en">Writing Tips Plus</span></cite></a> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><i>Clés de la rédaction</i></a>. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:
       <ul>
         <li>Section <a href="/guide-redaction/#toc2">But du document</a>&nbsp;:&nbsp;Suppression des références à <i>Le guide du rédacteur</i> et remplacement par des références à <i>Clés de la rédaction.</i></li>
-        <li>Section <a href="/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italiques</a>&nbsp;:Remplacement de liens vers du contenu archivé par des liens vers des articles courants.</li>
+        <li>Section <a href="/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italiques</a>&nbsp;: Remplacement de liens vers du contenu archivé par des liens vers des articles courants.</li>
         <li>Mise à jour de la section <a href="/guide-redaction/#toc13">Ressources</a>.</li>
       </ul>
     </li>
@@ -50,16 +50,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       ajouté au contenu de la page pour faciliter la lecture.</li>
     <li>Dans la section <a href="/guide-redaction/#wp4-4">4.4 Abréviations, acronymes et référence</a>&nbsp;: Ajout de précisions et références clés sur l’emploi des abréviations, tel que&nbsp;:
       <ul>
-        <li>Ajout de précision pour indiquer que les abréviations doivent être accompagnées de leur signification écrite au long à la première mention sur une page</li>
+        <li>Ajout de précision pour indiquer que les abréviations doivent être accompagnées de leur signification écrite au long à la première mention sur une page.</li>
         <li>Nouvelle sous-section sur les formules épistolaires&nbsp;:
           <ul>
             <li>Comment abréger et ponctuer les titres lorsqu'il y a des abréviations liées aux grades universitaires, diplômes, doctorat, y compris l’emploi du titre docteur.</li>
-            <li>Comment utiliser les titres et formules épistolaires avec les prénoms et noms</li>
+            <li>Comment utiliser les titres et formules épistolaires avec les prénoms et noms.</li>
           </ul>
         </li>
       </ul>
     </li>
-    <li>Dans la section à la section <a href="/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a>&nbsp;: ajout d’une sous-section, &laquo;&nbsp;<a href="/guide-redaction/#wp7-2-2">Utiliser des parenthèses pour ajouter des informations contextuelles</a>,&nbsp;&raquo; afin de préciser quand et comment ajouter des informations supplémentaires à l’intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 &laquo;&nbsp;Liens vers des contenus non gouvernementaux&nbsp;&raquo;, qui n’est plus nécessaire.</li>
+    <li>Dans la section à la section <a href="/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a>&nbsp;: Ajout d’une sous-section, &laquo;&nbsp;<a href="/guide-redaction/#wp7-2-2">Utiliser des parenthèses pour ajouter des informations contextuelles</a>,&nbsp;&raquo; afin de préciser quand et comment ajouter des informations supplémentaires à l’intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 &laquo;&nbsp;Liens vers des contenus non gouvernementaux&nbsp;&raquo;, qui n’est plus nécessaire.</li>
   </ul>
   <p>L’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> contient toutes les modifications apportées au guide depuis le 25 mai 2023.</p>
 </section>
@@ -73,9 +73,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section id="toc3">
   <h2>Application</h2>
-  <p>Tous les ministères et les autres secteurs de l’administration publique fédérale qui sont assujettis à la Directive sur la gestion des communications doivent appliquer le Guide de rédaction du contenu du site Canada.ca. Ces organisations doivent respecter les normes décrites dans ce guide lorsqu’elles élaborent des sites Web ou des services numériques destinés au public, et ce, peu importe la technologie, le nom de domaine ou la plateforme qu’elles utilisent. Cette exigence est prévue à l’annexe D, Procédure obligatoire relative à l’utilisation des médias sociaux et aux communications sur le Web, de <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">la Directive sur la gestion des communications</a>.</p>
+  <p>Tous les ministères et les autres secteurs de l’administration publique fédérale qui sont assujettis à la <cite>Directive sur la gestion des communications</cite> doivent appliquer le Guide de rédaction du contenu du site Canada.ca. Ces organisations doivent respecter les normes décrites dans ce guide lorsqu’elles élaborent des sites Web ou des services numériques destinés au public, et ce, peu importe la technologie, le nom de domaine ou la plateforme qu’elles utilisent. Cette exigence est prévue à l’annexe D, Procédure obligatoire relative à l’utilisation des médias sociaux et aux communications sur le Web, de la <cite><a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite>.</p>
   <h3>Institutions non visées par le présent guide</h3>
-  <p>Les institutions qui ne sont pas visées par la Directive sur la gestion des communications n’ont pas à suivre le présent guide. Toutefois, elles sont encouragées à le faire pour leurs produits Web internes et externes. Le fait de respecter les règles et les conseils décrits dans ce guide permettra de rendre le contenu Web du gouvernement facile à trouver, à comprendre et à utiliser pour toute personne.</p>
+  <p>Les institutions qui ne sont pas visées par la <cite>Directive sur la gestion des communications</cite> n’ont pas à suivre le présent guide. Toutefois, elles sont encouragées à le faire pour leurs produits Web internes et externes. Le fait de respecter les règles et les conseils décrits dans ce guide permettra de rendre le contenu Web du gouvernement facile à trouver, à comprendre et à utiliser pour toute personne.</p>
 </section>
 <section id="toc4">
   <h2>Politiques, normes et procédures connexes</h2>
@@ -718,7 +718,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp4-4">4.4 Abréviations, acronymes et référence</a>
               <ul>
                 <li><a href="#wp4-4-1">Citer des exemples</a></li>
-                <li><a href="#wp4-4-2">Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</a></li>
+                <li><a href="#wp4-4-2">Formules épistolaires : Comment abréger et ponctuer les titres avec les prénoms et noms</a></li>
               </ul>
             </li>
             <li><a href="#wp4-5">4.5 Forme contractée</a></li>
@@ -1974,7 +1974,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>La figure 2 est un graphique à barres qui représente les données contenues dans le tableau de données. Vous pourriez donc utiliser le tableau comme description longue pour accompagner cette image.</p>
   <h4>Exemple&nbsp;: Description longue pour le graphique à barres illustrant le rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</h4>
   <figure class="mrgn-bttm-lg">
-    <figcaption class="text-center"> <strong>Figure 2: Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong> </figcaption>
+    <figcaption class="text-center"> <strong>Figure 2 : Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong> </figcaption>
     <img alt="Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010" class="img-responsive center-block" src="/guide-redaction/images/fig-02b-fra.jpg">
     <p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
       Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé non payé.</p>
@@ -2214,7 +2214,19 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <section id="wp7-3">
     <h3>7.3 Vérifier que les liens fonctionnent</h3>
-    <p>Vérifiez vos liens pour vous assurer qu'ils fonctionnent. Assurez-vous aussi qu'ils dirigent les gens vers la bonne page, soit celle qui contient des renseignements à jour, dans la langue officielle voulue. Des liens qui fonctionnent mal exaspèrent les gens et compromettent la crédibilité de votre contenu.</p>
+    <p>Vérifiez que vos liens fonctionnent et qu’ils dirigent les gens vers les bonnes informations.  Les liens qui sont brisés ou obsolètes créent de la frustration.  Ils peuvent amener les gens à perdre confiance en votre contenu.</p>
+    <p>Il convient de vérifier vos liens et de les mettre à jour dans le cadre de votre routine de maintenance du contenu.</p>
+    <ul>
+      <li>Réparez les liens brisés (p. ex., ceux qui dirigent vers un message 404 &laquo;&nbsp;Page introuvable&nbsp;&raquo;).</li>
+      <li>Vérifiez que la destination des liens est la bonne et que l’information y est pertinente et à jour.</li>
+      <li>Passez en revue les redirections d’URL&nbsp;:
+        <ul>
+          <li>Vérifiez qu’elles sont à jour et qu’elles redirigent les personnes vers la bonne page.</li>
+          <li>Mettez à jour les liens dans votre site, de sorte qu’ils dirigent vers les liens actuels et non vers les URL redirigées.</li>
+        </ul>
+      </li>
+      <li>Vérifiez que les liens dirigent vers la bonne langue officielle.</li>
+    </ul>
     <h4>Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise</h4>
     <ul>
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-3">7.3 Make sure that links work</a></span></li>
