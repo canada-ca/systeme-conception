@@ -3,7 +3,7 @@ altLangPage: "https://design.canada.ca/research-summaries/travel-restrictions-st
 date: 2024-03-01
 dateModified: 2024-03-01
 description: "tt"
-title: "Utilisation d’un assistant afin d’aider les gens à se renseigner sur les modifications aux conditions d’entrée durant la pandémie de la COVID-19"
+title: "Utilisation d’un assistant afin d’aider les gens à se renseigner durant la pandémie de la COVID-19"
 ---
 <p>Le 1 mars 2024</p>
 <p>Pour la population canadienne et pour les personnes qui espéraient visiter le Canada ou y immigrer au plus fort de la pandémie de la COVID-19, les restrictions de voyage étaient complexes et en constante évolution. Durant la pandémie, la recherche de réponses à propos des déplacements dans le contexte de la COVID-19 a été l'une des principales tâches que les utilisateur·rice·s ont cherché à accomplir en ligne. Bien que de nombreuses informations aient été disponibles sur Canada.ca, il était difficile pour les voyageur·se·s individuel·le·s de trouver la bonne information et de la synthétiser pour obtenir des réponses claires. Les questions relatives aux voyages, aux transports et à l'immigration sont gérées par plusieurs services, ce qui complique la recherche de toutes les informations relatives à la situation particulière de chacun·e et aux plans de voyage.</p>
