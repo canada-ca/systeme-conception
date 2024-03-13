@@ -29,7 +29,7 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner du
     <figure><img alt="Page d'accueil sur les voyages en septembre 2020" class="img-responsive" id="travel-3" src="/resumes-recherche/images/travel-3-fr.png" />
       <figcaption class="well">
         <p><strong>Page d'accueil sur les voyages en septembre 2020</strong></p>
-        <p>The link to the "emergency orders" under the <cite>Quarantine Act</cite> is buried in the content.</p>
+        <p>Ce n’est qu’en lisant l’intégralité du contenu sur les exemptions aux restrictions frontalières que les gens pouvaient savoir s’ils étaient admissibles à l’entrée au Canada.</p>
       </figcaption>
     </figure>
   </div>
@@ -50,7 +50,7 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner du
     <figure><img alt="Example of integrated question" class="img-responsive" id="travel-5" src="/resumes-recherche/images/travel-5-fr.png" />
       <figcaption class="well">
         <p><strong>Example of a question as a person proceeds through the wizard</strong></p>
-        <p>The wizard asks, "Was your second COVID-19 vaccine dose at least 14 days before the day you plan to enter Canada?"  A person can choose "Yes" or "No".</p>
+        <p>L’assistant demande : « Présentez-vous des signes et symptômes qui ressemblent à ceux de la COVID-19? » Une personne peut choisir « Oui, j’ai des symptômes de la COVID-19 » ou « Non, je n’ai pas de symptômes de la COVID-19 ».</p>
       </figcaption>
     </figure>
   </div>
