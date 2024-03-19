@@ -1,11 +1,11 @@
 ---
 altLangPage: "https://design.canada.ca/research-summaries/travel-restrictions-study.html"
-date: 2024-03-13
-dateModified: 2024-03-13
+date: 2024-03-19
+dateModified: 2024-03-19
 description: "Nous avons effectué des tests d'utilisabilité avec des voyageur·se·s potentiel·le·s et nous avons constaté que la synthèse d'informations complexes sur les voyages en un assistant interactif aidait les participant·e·s à accomplir des tâches clés."
 title: "Utilisation d’un assistant afin d’aider les gens à se renseigner durant la pandémie de la COVID-19"
 ---
-<p>Le 13 mars 2024</p>
+<p>Le 19 mars 2024</p>
 <p>Pour la population canadienne et pour les personnes qui espéraient visiter le Canada ou y immigrer au plus fort de la pandémie de la COVID-19, les restrictions de voyage étaient complexes et en constante évolution. Durant la pandémie, la recherche de réponses à propos des déplacements dans le contexte de la COVID-19 a été l'une des principales tâches que les utilisateur·rice·s ont cherché à accomplir en ligne. Bien que de nombreuses informations aient été disponibles sur Canada.ca, il était difficile pour les voyageur·se·s individuel·le·s de trouver la bonne information et de la synthétiser pour obtenir des réponses claires. Les questions relatives aux voyages, aux transports et à l'immigration sont gérées par plusieurs services, ce qui complique la recherche de toutes les informations relatives à la situation particulière de chacun·e et aux plans de voyage.</p>
 <p>Nous avons effectué des tests d'utilisabilité avec des voyageur·se·s potentiel·le·s et nous avons constaté que la synthèse d'informations complexes sur les voyages en un assistant interactif aidait les participant·e·s à accomplir des tâches clés. Un assistant interactif permet de guider les personnes vers la réponse dont elles ont besoin par le biais d'une série de questions. Les participant·e·s qui ont utilisé l'assistant ont obtenu la bonne réponse plus fréquemment, pour des questions concernant les restrictions de voyage, que les participant·e·s qui développaient leurs propres réponses à partir d'informations disponibles sur des pages gérées par différentes institutions.</p>
 <p>The following example shows how the first 2 interactive questions guide a person toward completing their key task.</p>
