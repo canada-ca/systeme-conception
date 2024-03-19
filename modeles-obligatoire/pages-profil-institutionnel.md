@@ -26,7 +26,7 @@ title: Page d’accueil institutionnelle
 </section>
 <section>
     <h2 id="use">Quand l’utiliser</h2>
-    <p>Cette page a pour but d’aider les gens à trouver des renseignements et des services en mettant l’accent sur les tâches principales.</p>
+    <p>La page d’accueil institutionnelle sert de page d’accueil du ministère ou de l’organisme. Cette page a pour but d’aider les gens à trouver des renseignements et des services en mettant l’accent sur les tâches principales.</p>
     <p>Elle devrait également permettre aux utilisateurs de trouver du contenu supplémentaire, notamment&nbsp;:</p>
     <ul>
         <li>le mandat et la structure organisationnelle</li>
