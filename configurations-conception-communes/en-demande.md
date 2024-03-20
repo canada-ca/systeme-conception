@@ -3,11 +3,11 @@ altLangPage: https://design.canada.ca/common-design-patterns/most-requested.html
 date: "2018-12-19"
 dateModified: "2023-09-21"
 description: "Orientation sur l’utilisation du modèle en demande sur Canada.ca. Le modèle en demande fournit des liens vers les principales tâches sur les pages de navigation."
-title: "En demande"
+title: "Bande en demande"
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 <label class="label label-info">Facultatif</label>
-<p>Le modèle en demande comprend les principales tâches des pages d’accueil qui offrent de nombreux choix. Les principales tâches sont les choses principales que les utilisateurs essaient de faire dans un contexte donné. </p>
+<p>La configuration en demande met en avant les tâches principales pour les pages d’accueil offrant une multitude de choix. Les tâches principales sont les actions que les utilisateur·rice·s cherchent le plus à effectuer dans un contexte particulier. La configuration en demande prend la forme d’une bande qui s’étend sur toute la largeur de la page sur laquelle elle apparaît.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/most-requested-fr.png" class="img-responsive" alt="" /></div>
 <section>
   <h2>Sur cette page</h2>
@@ -22,7 +22,7 @@ title: "En demande"
 </section>
 <section id="utiliser">
   <h2>Quand l’utiliser</h2>
-  <p>Utilisez ce modèle sur les pages de navigation où les utilisateurs essaient de trouver par où commencer leur tâche, comme une page de sujet ou une page d’accueil institutionnelle.</p>
+  <p>Utilisez ce modèle sur les pages d'accueil où les utilisateurs essaient de trouver par où commencer leur tâche, comme une page de sujet ou une page d’accueil institutionnelle.</p>
 </section>
 <section id="eviter">
   <h2>Quoi éviter</h2>
