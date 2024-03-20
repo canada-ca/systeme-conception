@@ -21,7 +21,7 @@ title: Services et renseignements
 </section>
 <section id="utiliser">
   <h2>Quand l’utiliser</h2>
-  <p>Utilisez la configuration services et renseignements lorsque l’objectif principal de la page est de fournir des choix clairs pour naviguer vers des tâches. Mis ensemble, ces ensembles de liens et de descriptions offrent des choix clairs et distincts aux personnes qui tentent d’accomplir leur tâche.</p>
+  <p>Utilisez la configuration services et renseignements lorsque l’objectif principal de la page est de fournir des choix clairs pour naviguer vers des tâches. Mis ensemble, ces groupes de liens et de descriptions offrent des choix clairs et distincts aux personnes qui tentent de trouver où accomplir leur tâche.</p>
 </section>
 <section id="eviter">
   <h2>Quoi éviter</h2>
