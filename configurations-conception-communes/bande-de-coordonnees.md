@@ -6,6 +6,7 @@ description: Orientation sur l’utilisation de la bande de coordonnées sur Can
 title: Bande de coordonnées
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
+<p>La bande de coordonnées fournit des informations de contact pertinentes. La bande s’étend sur toute la largeur de la page sur laquelle elle apparaît.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/contact-band-fr.png" class="img-responsive" alt="" /></div>
 <section>
   <h2>Sur cette page</h2>
@@ -20,7 +21,9 @@ title: Bande de coordonnées
 </section>
 <section id="utiliser">
   <h2>Quand l’utiliser</h2>
-  <p>Utilisez la bande de coordonnées sur les pages pour&nbsp;:</p>
+  <p>N’utilisez la bande de coordonnées que sur les pages pour lesquelles les coordonnées se rapportent à une tâche principale (c’est-à-dire sur une page d’accueil institutionnelle). Lorsque les coordonnées se rapportent à une tâche secondaire, envisagez d’utiliser plutôt un pied de page contextuel.</p> 
+
+<p>Utilisez la bande de coordonnées sur les pages pour&nbsp;:</p>
   <ul>
     <li>présenter les coordonnées de manière cohérente dans divers contextes;</li>
     <li>donner accès à plusieurs options de contact.</li>
