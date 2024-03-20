@@ -129,11 +129,17 @@ title: "Lien en vedette"
   <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
   <ul>
     <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li>Page d’accueil de Canada.ca</li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/page-accueil.html">Page d’accueil de Canada.ca</a></li>
   </ul>
 </section>
 <section id="changements">
   <h2>Derniers changements</h2>
+  <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2023-09-21" class="link-muted">2023-09-21</time>
+    </dt>
+    <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
+  </dl>
   <dl class="dl-horizontal">
     <dt>
       <time datetime="2023-09-21" class="link-muted">2023-09-21</time>
