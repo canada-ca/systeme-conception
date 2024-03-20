@@ -6,7 +6,7 @@ description: "Orientation sur l’utilisation de la configuration de conception 
 title: "Lien en vedette"
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
-<p>Le lien en vedette est un hyperlien court et descriptif que votre institution doit mettre en évidence.</p>
+<p>Le lien en vedette est un hyperlien court et descriptif que votre institution doit mettre en évidence sur une page d’accueil.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/featured-link-generic-fr.png" class="img-responsive" alt="" /></div>
 <section>
   <h2>Sur cette page</h2>
@@ -22,7 +22,7 @@ title: "Lien en vedette"
 <section id="utiliser">
   <h2>Quand l’utiliser</h2>
   <p>Utilisez la configuration de conception d’un lien en vedette afin de promouvoir des éléments importants de nature temporaire, tels qu’une déclaration sur le jour du Souvenir.</p>
-  <p>Utilisez cette configuration de conception uniquement sur les pages de navigation.</p>
+  <p>Utilisez cette configuration de conception uniquement sur les pages d'accueil.</p>
   <p>Vous pouvez gérer plusieurs liens dans l’emplacement du lien en vedette en les rendant aléatoires à chaque visite de la page.</p>
 </section>
 <section id="eviter">
