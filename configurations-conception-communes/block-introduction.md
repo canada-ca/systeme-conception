@@ -98,21 +98,21 @@ title: Bloc d’introduction
     <h3>Exemples visuels</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Bloc d’introduction – grand écran</b></figcaption>
-            <img src="../images/intro-block-fr.png" class="img-responsive" alt="Introduction block pattern for large screens. Text version below:" />
+            <figcaption><b>Bloc d’introduction comprenant des éléments obligatoires – grand écran</b></figcaption>
+            <img src="../images/intro-block-fr.png" class="img-responsive" alt="Bloc d’introduction. Version texte ci-dessous." />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bloc d’introduction - grand écran</summary>
-                <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution.</p>
+                <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution. Cet exemple visuel ne comprend pas l’image optionnelle, ni le bouton de super tâche.</p>
             </details>
         </figure>
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Bloc d’introduction – petit écran</b></figcaption>
-            <img src="../images/intro-block-sm-fr.png" class="img-responsive" alt="Introduction block pattern for small screens. Text version below:" />
+            <figcaption><b>Bloc d’introduction comprenant des éléments obligatoires – petit écran</b></figcaption>
+            <img src="../images/intro-block-sm-fr.png" class="img-responsive" alt="Bloc d’introduction. Version texte ci-dessous." />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bloc d’introduction - petit écran</summary>
-                <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution.</p>
+                <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution. Cet exemple visuel ne comprend pas l’image optionnelle, ni le bouton de super tâche.</p>
             </details>
         </figure>
     </div>
