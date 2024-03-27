@@ -6,7 +6,6 @@ description: Orientation sur la façon d’utiliser le modèle de page d’accue
 title: Page d’accueil institutionnelle
 ---
 <p><span class="label label-danger">Obligatoire</span></p>
-<mark>l'images n'est pas disponible tant que le modèle n'est pas terminé</mark>
 <p><strong>Dernière modification</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>
     Il s’agit du modèle de la page d’accueil principale de chaque ministère, organisme et organisation du gouvernement du Canada qui a un titre d’usage dans le registre du
