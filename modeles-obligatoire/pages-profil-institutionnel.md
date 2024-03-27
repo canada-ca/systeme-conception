@@ -12,7 +12,7 @@ title: Page d’accueil institutionnelle
     Il s’agit du modèle de la page d’accueil principale de chaque ministère, organisme et organisation du gouvernement du Canada qui a un titre d’usage dans le registre du
     <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Programme fédéral de l’image de marque (PFIM)</a>.
 </p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/ilp-cropped-fr.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/ilp-crop-fr.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>Sur cette page</h2>
     <ul>
@@ -132,7 +132,7 @@ title: Page d’accueil institutionnelle
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Page d’accueil institutionnelle – grand écran</b></figcaption>
-            <img src="../images/ilp-large.png" class="img-responsive" alt="Page d’accueil institutionnelle pour grands écrans. Version texte ci-dessous :" />
+            <img src="../images/ilp-large-fr.png" class="img-responsive" alt="Page d’accueil institutionnelle pour grands écrans. Version texte ci-dessous :" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: page d’accueil institutionnelle - grand écran</summary>
                 <p>
@@ -215,7 +215,7 @@ title: Page d’accueil institutionnelle
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Page d’accueil institutionnelle – petit écran</b></figcaption>
-            <img src="../images/ilp-small.png" class="img-responsive" alt="Page d’accueil institutionnelle pour petits écrans. Version texte ci-dessous :" />
+            <img src="../images/ilp-small-fr.png" class="img-responsive" alt="Page d’accueil institutionnelle pour petits écrans. Version texte ci-dessous :" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: page d’accueil institutionnelle - petit écran</summary>
                 <p>
