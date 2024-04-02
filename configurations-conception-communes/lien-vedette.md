@@ -82,7 +82,7 @@ title: "Lien en vedette"
   <p>Trouvez des exemples pratiques et de code pour mettre en œuvre le lien en vedette, y compris la fonctionnalité d’affichage aléatoire.</p>
   <h3>GCWeb</h3>
   <ul>
-    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-featured-link/gc-featured-link-fr.html">Lien en vedette - Canada.ca</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-featured-link/gc-featured-link-fr.html">Lien en vedette - GCWeb</a></li>
   </ul>
   <h3>Affichage aléatoire dans la BOEW</h3>
   <ul>
