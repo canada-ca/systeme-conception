@@ -62,8 +62,8 @@ title: À propos de l’institution
           </ul>
         </li>
       </ul>
-    <p>Organisez les liens dans une liste sans style</p>
-    <p>Le nombre maximum recommandé de liens est de 10</p>
+    <p>Organisez les liens dans une liste sans style.</p>
+    <p>Le nombre maximum recommandé de liens est de 10.</p>
   <h3>Spécifications de conception</h3>
   <ul>
     <li>Titre&nbsp;:
