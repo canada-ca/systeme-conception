@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/mandatory-templates/institutional-profile-pages.html
 date: "2020-07-23"
-dateModified: "2024-04-01"
+dateModified: "2024-04-03"
 description: Orientation sur la façon d’utiliser le modèle de page d’accueil institutionnelle et ses composants associés sur Canada.ca.
 title: Page d’accueil institutionnelle
 ---
@@ -393,10 +393,10 @@ title: Page d’accueil institutionnelle
         <dt>
             <time datetime="2020-03-05" class="link-muted">2020-03-05</time>
         </dt>
-        <dd>ajout d’une classe CSS facultative pour masquer l’image d’en-tête en mode tablette</dd>
+        <dd>Ajout d’une classe CSS facultative pour masquer l’image d’en-tête en mode tablette</dd>
         <dt>
             <time datetime="2019-11-28" class="link-muted">2019-11-28</time>
         </dt>
-        <dd>une nouvelle version bêta de ce modèle a été ajoutée</dd>
+        <dd>Une nouvelle version bêta de ce modèle a été ajoutée</dd>
     </dl>
 </section>
