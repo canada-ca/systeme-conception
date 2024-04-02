@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/most-requested.html
 date: "2018-12-19"
-dateModified: "2023-09-21"
+dateModified: "2024-04-03"
 description: "Orientation sur l’utilisation du modèle en demande sur Canada.ca. Le modèle en demande fournit des liens vers les principales tâches sur les pages de navigation."
 title: "Bande en demande"
 ---
@@ -95,8 +95,9 @@ title: "Bande en demande"
   <h2>Comment procéder à la mise en œuvre</h2>
   <p>Trouvez des exemples pratiques et de code pour mettre en œuvre la configuration de conception en demande.</p>
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
+  <p>La référence à l’implémentation explique la façon de configurer chaque élément de la bande en demande.</p>
   <ul>
-    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-most-requested/gc-most-requested-fr.html">En demande</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-most-requested/gc-most-requested-fr.html">En demande - GCWeb</a></li>
   </ul>
   <h3>Mises en œuvre</h3>
   <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
@@ -147,7 +148,7 @@ title: "Bande en demande"
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-09-21" class="link-muted">2023-09-21</time>
+      <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
     <dd>Orientation mise à jour pour refléter le style à bandes de la configuration de conception en demande</dd>
     <dt>
