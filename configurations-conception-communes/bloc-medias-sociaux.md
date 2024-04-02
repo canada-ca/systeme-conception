@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/social-media-channels.html
 date: "2018-12-19"
-dateModified: "2023-09-23"
+dateModified: "2024-04-03"
 description: "La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada sur diverses plateformes de médias sociaux."
 title: "Chaînes de médias sociaux"
 ---
@@ -47,7 +47,7 @@ title: "Chaînes de médias sociaux"
   <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
   <h3>Spécifications de contenu</h3>
   <p>La configuration de conception des chaînes de médias sociaux est composée du titre «&nbsp;Sur les médias sociaux&nbsp;» et d’icônes renvoyant aux comptes de médias sociaux officiels du gouvernement du Canada.</p>
-  <p>Les comptes mentionnés dans la configuration de conception doivent être entièrement conformes à la Directive sur la gestion des communications.</p>
+  <p>Les comptes mentionnés dans la configuration de conception doivent être entièrement conformes à la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications.</a></p>
   <p>Afficher un maximum de sept (7) icônes alignées dans une colonne verticale ou une rangée horizontale&nbsp;:</p>
   <ul>
     <li>L’affichage vertical comprend une étiquette à côté de chaque icône.</li>
@@ -266,7 +266,7 @@ title: "Chaînes de médias sociaux"
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-09-13" class="link-muted">2023-09-20</time>
+      <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
     <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
   </dl>
