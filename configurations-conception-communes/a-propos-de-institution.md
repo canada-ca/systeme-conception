@@ -39,7 +39,6 @@ title: À propos de l’institution
         <li>Transparence</li>
         <li>Accessibilité</li>
       </ul>
-    </li>
     <p>Liens facultatifs&nbsp;:</p>
       <ul>
         <li>Recommandés&nbsp;:
@@ -63,7 +62,6 @@ title: À propos de l’institution
           </ul>
         </li>
       </ul>
-    </li>
     <p>Organisez les liens dans une liste sans style</p>
     <p>Le nombre maximum recommandé de liens est de 10</p>
   <h3>Spécifications de conception</h3>
