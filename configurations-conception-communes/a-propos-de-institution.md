@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/about-institution.html
 date: "2023-09-23"
-dateModified: "2023-09-23"
+dateModified: "2024-04-03"
 description: "Orientation sur l’utilisation de la section À propos de l’institution sur les pages d’accueil institutionnelles. La configuration de conception À propos de l’institution fournit des liens vers le contenu d’une institution."
 title: À propos de l’institution
 ---
@@ -31,17 +31,16 @@ title: À propos de l’institution
   <h2>Contenu et conception</h2>
   <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
   <h3>Spécifications de contenu</h3>
-  <ul>
-    <li>Le titre est &laquo;&nbsp;À propos de&nbsp;&raquo; suivi du nom de l’institution.</li>
-    <li>Le titre apparaît au-dessus des liens, et ce, pour toutes les dimensions d’écran.</li>
-    <li>Liens obligatoires&nbsp;:
+    <p>Le titre est &laquo;&nbsp;À propos de&nbsp;&raquo; suivi du nom de l’institution.</p>
+    <p>Le titre apparaît au-dessus des liens, et ce, pour toutes les dimensions d’écran.</p>
+    <p>Liens obligatoires&nbsp;:</p>
       <ul>
         <li>Mandat</li>
         <li>Transparence</li>
         <li>Accessibilité</li>
       </ul>
     </li>
-    <li>Liens facultatifs&nbsp;:
+    <p>Liens facultatifs&nbsp;:</p>
       <ul>
         <li>Recommandés&nbsp;:
           <ul>
@@ -57,17 +56,16 @@ title: À propos de l’institution
             </li>
             <li>D’autres liens peuvent inclure tout contenu qui relève des types de contenu relatifs aux renseignements organisationnels ou à l’élaboration de politiques et de programmes.
               <ul>
-                <li>Renseignements organisationnels</li>
-                <li>Élaboration de programmes et de politiques</li>
+                <li><a href="https://conception.canada.ca/architecture/organiser-contenu.html#organisation">Renseignements organisationnels</a></li>
+                <li><a href="https://conception.canada.ca/architecture/organiser-contenu.html#programmes">Élaboration de programmes et de politiques</a></li>
               </ul>
             </li>
           </ul>
         </li>
       </ul>
     </li>
-    <li>Organisez les liens dans une liste sans style</li>
-    <li>Le nombre maximum recommandé de liens est de 10</li>
-  </ul>
+    <p>Organisez les liens dans une liste sans style</p>
+    <p>Le nombre maximum recommandé de liens est de 10</p>
   <h3>Spécifications de conception</h3>
   <ul>
     <li>Titre&nbsp;:
@@ -203,7 +201,7 @@ title: À propos de l’institution
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-09-23" class="link-muted">2023-09-23</time>
+      <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
     <dd>Ajout de l’orientation de la configuration de conception à propos de l’institution afin d’appuyer les mises à jour apportées au modèle de la page d’accueil institutionnelle.</dd>
   </dl>
