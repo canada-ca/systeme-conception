@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/ministers-block.html
 date: "2018-12-19"
-dateModified: "2023-09-25"
+dateModified: "2024-04-03"
 description: "La configuration de conception pour un ministre ou un chef d’institution fournit des liens vers le(s) ministre(s) d’une institution, y compris son ou ses ministre(s) associé(s), ou vers son chef d’institution."
 title: "Ministre ou chef d’institution"
 ---
@@ -199,7 +199,7 @@ title: "Ministre ou chef d’institution"
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-09-25" class="link-muted">2023-09-25</time>
+      <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
     <dd>Ajout d’une orientation à l’appui des mises à jour de la page d’accueil institutionnelle</dd>
   </dl>
