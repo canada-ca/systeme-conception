@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/latest-news.html
 date: "2019-11-28"
-dateModified: "2023-09-25"
+dateModified: "2024-04-03"
 description: "Orientation sur l’utilisation de la configuration de conception des dernières nouvelles sur Canada.ca."
 title: "Dernières nouvelles"
 ---
@@ -129,7 +129,7 @@ title: "Dernières nouvelles"
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-08-13" class="link-muted">2023-08-23</time>
+      <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
     <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
   </dl>
