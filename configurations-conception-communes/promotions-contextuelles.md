@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/contextual-features.html
 date: "2023-09-25"
-dateModified: "2023-09-25"
+dateModified: "2024-04-03"
 description: "Orientation sur l’utilisation de la configuration de conception des promotions contextuelles sur Canada.ca."
 title: "Promotions contextuelles"
 ---
@@ -200,7 +200,7 @@ title: "Promotions contextuelles"
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time datetime="2023-09-25" class="link-muted">2023-09-25</time>
+      <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
     <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre</dd>
   </dl>
