@@ -57,7 +57,7 @@ title: Page d’accueil institutionnelle
                     </thead>
                     <tbody>
                         <tr>
-                            <td><a href="./configurations-conception-communes/block-introduction.html">Bloc d’introduction</a></td>
+                            <td><a href="../configurations-conception-communes/block-introduction.html">Bloc d’introduction</a></td>
                             <td>
                                 <p>Utilisez le titre d’usage de l’institution (voir le <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Registre des titres d’usage</a>).</p>
                                 <p>La description doit être un très bref résumé de ce que fait l’institution.</p>
@@ -65,19 +65,19 @@ title: Page d’accueil institutionnelle
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
                           <tr>
-                            <td><a href="./configurations-conception-communes/boutons.html#action">Bouton de super-tâche</a></td>
+                            <td><a href="../configurations-conception-communes/boutons.html#action">Bouton de super-tâche</a></td>
                             <td><p>N’incluez un bouton de super-tâche que si une tâche particulière produit au moins un tiers des clics sur la page d’accueil de l’institution.</p></td>
                             <td class="text-center">Facultatif</td>
                         </tr>
                           <tr>
-                            <td><a href="./configurations-conception-communes/lien-vedette.html">Lien en vedette</a></td>
+                            <td><a href="../configurations-conception-communes/lien-vedette.html">Lien en vedette</a></td>
                             <td>
                                 <p>Le lien en vedette est un hyperlien court et descriptif que votre institution doit mettre en évidence.</p>
                             </td>
                             <td class="text-center">Facultatif</td>
                         </tr>
                         <tr>
-                            <td><a href="./configurations-conception-communes/en-demande.html">En demande</a></td>
+                            <td><a href="../configurations-conception-communes/en-demande.html">En demande</a></td>
                             <td>
                                 <p>Comprend les tâches principales propres à l’institution.</p>
                                 <p>Si l’une des tâches principales de l’institution est déjà incluse sous forme de lien direct sous services et renseignements, ne la reproduisez pas ici.</p>
@@ -85,35 +85,35 @@ title: Page d’accueil institutionnelle
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
                         <tr>
-                            <td><a href="./configurations-conception-communes/services-renseignements.html">Services et renseignements</a></td>
+                            <td><a href="../configurations-conception-communes/services-renseignements.html">Services et renseignements</a></td>
                             <td><p>Le modèle de services et de renseignements pointe vers les catégories de niveau supérieur de l’architecture d’information de votre organisation.</p></td>
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
                         <tr>
-                            <td><a href="./configurations-conception-communes/bande-de-coordonnees.html">Bande de coordonnées</a></td>
+                            <td><a href="../configurations-conception-communes/bande-de-coordonnees.html">Bande de coordonnées</a></td>
                             <td><p>Le premier lien doit être le contact principal de votre institution. Vous devez limiter la bande à trois liens de contact.</p></td>
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
                         <tr>
-                            <td><a href="./configurations-conception-communes/a-propos-de-institution.html">À propos de l’institution</a></td>
+                            <td><a href="../configurations-conception-communes/a-propos-de-institution.html">À propos de l’institution</a></td>
                             <td>Suivez le modèle de la configuration de conception.</td>
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
                         <tr>
-                            <td><a href="./configurations-conception-communes/bloc-medias-sociaux.html">Chaînes de médias sociaux</a></td>
+                            <td><a href="../configurations-conception-communes/bloc-medias-sociaux.html">Chaînes de médias sociaux</a></td>
                             <td>Suivez le modèle de la configuration de conception.</td>
                              <td class="text-center">Facultatif</td>
                         </tr>
                         <tr>
-                            <td><a href="./configurations-conception-communes/ministre.html">Ministre ou chef d’institution</a></td>
+                            <td><a href="../configurations-conception-communes/ministre.html">Ministre ou chef d’institution</a></td>
                             <td>Suivez le modèle de la configuration de conception.</td>
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
                         <tr>
                             <td>Espace flexible&nbsp;:
                             <ul>
-                                <li><a href="./configurations-conception-communes/nouveautes.html">Dernières nouvelles</a></li>
-                                <li><a href="./configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a></li>
+                                <li><a href="../configurations-conception-communes/nouveautes.html">Dernières nouvelles</a></li>
+                                <li><a href="../configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a></li>
                             </ul>
                             </td>
                             <td>
