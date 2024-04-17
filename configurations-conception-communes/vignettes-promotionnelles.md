@@ -5,15 +5,6 @@ dateModified: "2024-04-03"
 description: "Orientation sur l’utilisation de la configuration de conception des promotions contextuelles sur Canada.ca."
 title: "Promotions contextuelles"
 ---
-<style>
-  h1#wb-cont::after {
-    content: "";
-    display: n;
-    width: 0;
-    padding-bottom: 0px;
-    border-bottom: 0;
-}
-</style>
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>La configuration de conception des promotions contextuelles comprend une image ainsi qu’un lien et une description pour la promotion d’activités, d’initiatives, de programmes et de services gouvernementaux.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/contextual-features-fr.png" class="img-responsive" alt="" /></div>
