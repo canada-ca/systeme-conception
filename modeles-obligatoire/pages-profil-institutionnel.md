@@ -113,7 +113,7 @@ title: Page d’accueil institutionnelle
                             <td>Espace flexible&nbsp;:
                             <ul>
                                 <li><a href="./configurations-conception-communes/nouveautes.html">Dernières nouvelles</a></li>
-                                <li><a href="./configurations-conception-communes/promotions-contextuelles.html">Promotions contextuelles</a></li>
+                                <li><a href="./configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a></li>
                             </ul>
                             </td>
                             <td>
