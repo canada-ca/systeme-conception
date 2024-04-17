@@ -123,7 +123,7 @@ title: Bloc d’introduction
     <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
     <p>La référence à l’implémentation comprend la façon de configurer les éléments du système de conception.</p>
     <ul>
-        <li><a href="">Bloc d’introduction de GCWeb (BOEW)</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/design-patterns/gc-intro/gc-intro-image-fr.html">Bloc d’introduction de GCWeb (BOEW)</a></li>
         <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
     </ul>
     <h3>Mises en œuvre</h3>
