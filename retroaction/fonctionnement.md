@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/about-page-feedback.html
 date: null
-dateModified: 2024-01-08
+dateModified: 2024-04-17
 description: null
 title: Comment fonctionne l’outil de rétroaction sur la page
 ---
@@ -113,6 +113,9 @@ Des filtres sont en place pour supprimer ces types courants de renseignements pe
 * Gros mots
 
 Lorsque les renseignements personnels sont nettoyés automatiquement, ils sont remplacés par des dièses (###).
+
+Lorsque les mots profanes sont supprimés, ils sont remplacés par des astérisques (\*\*\*).
+
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
     <li class="next"><a href="quand.html" rel="next">Suivant&nbsp;: Quand utiliser l’outil de rétroaction</a></li>
