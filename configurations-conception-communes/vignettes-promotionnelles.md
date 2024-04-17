@@ -1,5 +1,5 @@
 ---
-altLangPage: https://design.canada.ca/common-design-patterns/contextual-features.html
+altLangPage: https://design.canada.ca/common-design-patterns/feature-tiles.html
 date: "2023-09-25"
 dateModified: "2024-04-03"
 description: "Orientation sur l’utilisation de la configuration de conception des promotions contextuelles sur Canada.ca."
