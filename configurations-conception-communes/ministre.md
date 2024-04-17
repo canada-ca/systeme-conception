@@ -5,15 +5,6 @@ dateModified: "2024-04-03"
 description: "La configuration de conception pour un ministre ou un chef d’institution fournit des liens vers le(s) ministre(s) d’une institution, y compris son ou ses ministre(s) associé(s), ou vers son chef d’institution."
 title: "Ministre ou chef d’institution"
 ---
-<style>
-  h1#wb-cont::after {
-    content: "";
-    display: n;
-    width: 0;
-    padding-bottom: 0px;
-    border-bottom: 0;
-}
-</style>
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>La configuration de conception d’un ministre ou d’un chef d’institution indique le(s) ministre(s) ou chef(s) d’institution concernés d’un ministère, d’un organisme ou d’une organisation. Elle fournit des liens vers la biographie officielle du ou des ministres, ministres associés ou chefs d’institution, et elle peut également inclure un portrait ou des liens vers des lettres de mandat et des documents d’information.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/ministers-block-fr.png" class="img-responsive" alt="" /></div>
