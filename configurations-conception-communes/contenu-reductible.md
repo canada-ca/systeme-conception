@@ -7,14 +7,7 @@ title: Afficher/masquer - Configuration de conception de Canada.ca
 ---
 
 
-<p class="gc-byline">
- <strong>
-  De :
-  <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-   Secrétariat du Conseil du Trésor du Canada
-  </a>
- </strong>
-</p>
+
 
 <p>
  Le modèle afficher/masquer (aussi appelé accordéon) permet de masquer le contenu jusqu'à ce qu'il soit demandé. Le modèle comprend un lien de déclenchement qui affiche ou masque le contenu.
@@ -311,8 +304,8 @@ title: Afficher/masquer - Configuration de conception de Canada.ca
    (blogue)
   </li>
   <li>
-   <a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">
-    Résumé de recherche : Communiquer avec l’ARC
+   <a href="{{ site.url }}/resumes-recherche/arc-contactez-nous-resume-recherche.html">
+    Résumé de recherche&nbsp;: Communiquer avec l’ARC
    </a>
   </li>
  </ul>

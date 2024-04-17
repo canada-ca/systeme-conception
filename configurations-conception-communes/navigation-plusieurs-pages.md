@@ -8,14 +8,7 @@ title: "Navigation dans plusieurs pages ordonnées - Configuration de conception
 ---
 
 
-<p class="gc-byline">
- <strong>
-  De :
-  <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">
-   Secrétariat du Conseil du Trésor du Canada
-  </a>
- </strong>
-</p>
+
 
 <section>
  <p>

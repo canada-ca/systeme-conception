@@ -5,7 +5,7 @@ dateModified: "2018-12-19"
 description: "Une page de description de programme fournit des informations sur une activité administrative interne qui offre un service."
 title: "Pages de description de programme - Modèle de Canada.ca"
 ---
-<p class="gc-byline"> <strong> De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html"> Secrétariat du Conseil du Trésor du Canada </a> </strong> </p>
+
 <p>Une page de description de programme fournit des informations sur une activité administrative interne qui offre un service. </p>
 <p>Les pages de description de programme : </p>
 <ul>

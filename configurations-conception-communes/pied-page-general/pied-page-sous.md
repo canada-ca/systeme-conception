@@ -153,7 +153,7 @@ title: "Pied de page général&nbsp;: Bande sous pied de page"
         <summary><strong>Drupal WxT</strong></summary>
         <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
         <ul>
-          <li><a href="https://drupalwxt.github.io/en/">Documentation Drupal WxT (en anglais seulement)</a></li>
+          <li><a href="https://drupalwxt.github.io/">Documentation Drupal WxT (en anglais seulement)</a></li>
         </ul>
         <p class="mrgn-tp-lg">Mise à jour du pied de page de 2023&nbsp;:</p>
         <ul>
@@ -169,7 +169,7 @@ title: "Pied de page général&nbsp;: Bande sous pied de page"
   <p>Nous avons mis à jour le pied de page général de Canada.ca pour le faire correspondre à une nouvelle stratégie de
     navigation générale issue du projet de recherche Orientation dans Canada.ca.</p>
   <ul>
-    <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca">Résumé de la recherche sur l’orientation dans Canada.ca</a><br>
+    <li><a href="{{ site.url }}/resumes-recherche/orientation-dans-canada-ca">Résumé de la recherche sur l’orientation dans Canada.ca</a><br>
       Ce résumé explique le contexte de la recherche et les constatations qui ont mené aux mises à jour de la conception.</li>
     <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a><br>
       Ce billet de blogue explique les changements proposés à la conception de Canada.ca et comment ils seront mis en œuvre.</li>
@@ -202,6 +202,6 @@ title: "Pied de page général&nbsp;: Bande sous pied de page"
   <ul>
     <li><a
 				href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">Se joindre à la conversation dans Slack</a></li>
-    <li><a href="mailto:dto.btn@tbs-sct.gc.ca">Envoyer un courriel au Bureau de la transformation numérique</a></li>
+    <li><a href="mailto:{{ site.emails.dto }}">Envoyer un courriel au Bureau de la transformation numérique</a></li>
   </ul>
 </section>
