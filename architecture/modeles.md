@@ -6,7 +6,7 @@ description: "Les Spécifications du contenu et de l'architecture de l'informati
 layout: default
 title: "Concevoir le contenu pour Canada.ca"
 ---
-<p class="gc-byline"><strong>De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html">Secrétariat du Conseil du Trésor du Canada</a></strong></p>
+
 <div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
   <div class="row mrgn-bttm-sm">
     <ul class="toc lst-spcd col-md-12">
@@ -103,5 +103,5 @@ title: "Concevoir le contenu pour Canada.ca"
 </div>
 <div>
   <h2 id="aider">Aidez à améliorer ce système de conception</h2>
-  <p>Lors de la conception de contenu pour Canada.ca, gardez à l'esprit que la mesure du succès dépasse le simple respect des lignes directrices. Il est tout aussi important d'aider les utilisateurs à mener à bien leurs tâches. L'amélioration des règles est encouragée. Partagez toujours vos idées pour améliorer les choses avec le Bureau de la transformation numérique à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca.</a></p>
+  <p>Lors de la conception de contenu pour Canada.ca, gardez à l'esprit que la mesure du succès dépasse le simple respect des lignes directrices. Il est tout aussi important d'aider les utilisateurs à mener à bien leurs tâches. L'amélioration des règles est encouragée. Partagez toujours vos idées pour améliorer les choses avec le Bureau de la transformation numérique à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}.</a></p>
 </div>

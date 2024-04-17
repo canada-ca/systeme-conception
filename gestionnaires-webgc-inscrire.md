@@ -110,7 +110,7 @@ title: "Abonnez-vous à la liste d\u2019envoi des Gestionnaires Web du GC"
 </style>
 
 <div id="mc_embed_signup">
- <form action="https://canada.us12.list-manage.com/subscribe/post?u=5700d338d6ab413ebca1099f4&amp;id=07e7a9ed24&amp;f_id=00f5bce0f0" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+ <form action="https://canada.us15.list-manage.com/subscribe?u=729a207773f7324e217a1d945&id=398e6d0f29" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
   <div id="mc_embed_signup_scroll">
    <div class="indicates-required">
     <span class="asterisk">
@@ -174,7 +174,7 @@ title: "Abonnez-vous à la liste d\u2019envoi des Gestionnaires Web du GC"
     <input name="b_5700d338d6ab413ebca1099f4_07e7a9ed24" tabindex="-1" type="text" value=""/>
    </div>
    <div class="clear">
-    <input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe"/>
+    <input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="S'inscrire"/>
    </div>
   </div>
  </form>

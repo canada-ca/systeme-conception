@@ -5,7 +5,7 @@ dateModified: '2018-12-19'
 description: "Les directives sur les lois fournissent des renseignements afin de faciliter la sensibilisation, la compréhension et la conformité en ce qui a trait aux exigences légales et réglementaire."
 title: " Pages de directives sur les lois - Modèle de Canada.ca"
 ---
-<p class="gc-byline"> <strong> De : <a href="https://www.canada.ca/fr/secretariat-conseil-tresor.html"> Secrétariat du Conseil du Trésor du Canada </a> </strong> </p>
+
 <p> Les directives sur les lois fournissent des renseignements afin de faciliter la sensibilisation, la compréhension et la conformité en ce qui a trait aux exigences légales et réglementaire. Elles peuvent aussi décrire leur administration. Elles n’établissent pas de nouvelles exigences et elles ne sont pas exécutoires. </p>
 <p> La page de recherche des directives : </p>
 <ul>

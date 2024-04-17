@@ -363,7 +363,7 @@ title: "En-tête général"
           <summary><strong>Drupal WxT</strong></summary>
           <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
           <ul>
-            <li><a href="https://drupalwxt.github.io/en/">Documentation de Drupal WxT (en anglais seulement)</a></li>
+            <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
           </ul>
         </details>
       </div>
@@ -382,11 +382,11 @@ title: "En-tête général"
     <li>au drapeau dans la signature du gouvernement du Canada quand il est rouge;</li>
     <li>à un fond blanc plus qu’à un mode sombre.</li>
   </ul>
-  <p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de la transformation numérique à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.</p>
+  <p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de la transformation numérique à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
   <h4>Projet Orientation dans Canada.ca</h4>
   <p>Nous avons mis à jour l’en-tête général de Canada.ca pour l’harmoniser à une nouvelle stratégie de navigation globale issue du projet de recherche Orientation.</p>
   <ul>
-    <li><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche&nbsp;: Orientation dans Canada.ca</a><br>
+    <li><a href="{{ site.url }}/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche&nbsp;: Orientation dans Canada.ca</a><br>
       Résumé qui explique le contexte de la recherche et les idées qui ont motivé les mises à jour de la conception</li>
     <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation.html">Le projet de recherche Orientation améliore notre approche de la navigation dans Canada.ca</a><br>
       Billet de blogue qui explique les changements apportés à la conception de Canada.ca et comment ils sont mis en œuvre</li>
