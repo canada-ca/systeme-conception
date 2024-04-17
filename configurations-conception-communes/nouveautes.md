@@ -5,15 +5,7 @@ dateModified: "2024-04-03"
 description: "Orientation sur l’utilisation de la configuration de conception des dernières nouvelles sur Canada.ca."
 title: "Dernières nouvelles"
 ---
-<style>
-  h1#wb-cont::after {
-    content: "";
-    display: n;
-    width: 0;
-    padding-bottom: 0px;
-    border-bottom: 0;
-}
-</style>
+
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>Les dernières nouvelles sont une configuration de conception visant à afficher les éléments les plus récents de la salle de presse du gouvernement du Canada qui sont directement associés au contenu de la page.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/latest-news-fr.png" class="img-responsive" alt="" /></div>
