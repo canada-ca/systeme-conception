@@ -1112,7 +1112,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/nouveautes.html\">Nouveautés</a>",
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/nouveautes.html\">Dernières nouvelles</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Utilisez pour afficher les nouvelles les plus récentes.",
       "WHENTOUSE": "Utilisez pour afficher les nouvelles les plus r&#233;centes",
