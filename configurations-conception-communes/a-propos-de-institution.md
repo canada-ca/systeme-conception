@@ -149,6 +149,7 @@ title: À propos de l’institution
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <p>La référence d’implémentation du modèle de page d’accueil institutionnelle indique comment configurer cette configuration de conception.</p>
   <ul>
+      <li><a href="https://wet-boew.github.io/GCWeb/design-patterns/gc-institution/gc-institution-fr.html">À propos de l'institution - GCWeb (BOEW)</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/templates/institutional-landing/institutional-landing-fr.html">Page d’accueil institutionnelle de GCWeb (BOEW)</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
