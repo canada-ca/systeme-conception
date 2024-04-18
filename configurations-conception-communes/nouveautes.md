@@ -1,312 +1,129 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/latest-news.html
-date: null
-dateModified: '2019-11-28'
-description: null
-title: "Nouveautés - Configuration de conception de Canada.ca"
+date: "2019-11-28"
+dateModified: "2024-04-03"
+description: "Orientation sur l’utilisation de la configuration de conception des dernières nouvelles sur Canada.ca."
+title: "Dernières nouvelles"
 ---
 
-
-
-
+<p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
+<p>Les dernières nouvelles sont une configuration de conception visant à afficher les éléments les plus récents de la salle de presse du gouvernement du Canada qui sont directement associés au contenu de la page.</p>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/latest-news-fr.png" class="img-responsive" alt="" /></div>
 <section>
- <p>
-  Le modèle « Nouveautés » comprend les éléments de nouvelles les plus récents affichés par l’institution, l’organisation ou l’entité.
- </p>
+  <h2>Sur cette page</h2>
+  <ul>
+    <li><a href="#utiliser">Quand l’utiliser</a></li>
+    <li><a href="#eviter">Quoi éviter</a></li>
+    <li><a href="#contenu">Contenu et conception</a></li>
+    <li><a href="#œuvre">Comment procéder à la mise en œuvre</a></li>
+    <li><a href="#recherche">Recherche et justification</a></li>
+    <li><a href="#changements">Derniers changements</a></li>
+  </ul>
 </section>
-
-<section>
- <h2>
-  Sur cette page
- </h2>
- <ul>
-  <li>
-   <a href="#quand">
-    Quand l'utiliser
-   </a>
-  </li>
-  <li>
-   <a href="#eviter">
-    Quoi éviter
-   </a>
-  </li>
-  <li>
-   <a href="#code">
-    Comment mettre en œuvre
-   </a>
-  </li>
-  <li>
-   <a href="#discussion">
-    Discussion
-   </a>
-  </li>
- </ul>
+<section id="utiliser">
+  <h2>Quand l’utiliser</h2>
+  <p>Utilisez la configuration de conception des dernières nouvelles pour offrir des éléments de nouvelles qui sont directement liés au contenu de votre page ou votre organisation.</p>
 </section>
-
-<section>
- <h2 id="quand">
-  Quand l'utiliser
- </h2>
- <p>
-  Utilisez ce modèle dans les gabarits suivants :
- </p>
- <ul>
-  <li>
-   <a href="../modeles-obligatoire/pages-profil-institutionnel.html">
-    Page d'accueil institutionnelle
-   </a>
-  </li>
-  <li>
-   <a href="../modeles-obligatoire/pages-profil-ministres.html">
-    Page de profil des ministres
-   </a>
-  </li>
- </ul>
+<section id="eviter">
+  <h2>Quoi éviter</h2>
+  <p>N’utilisez pas cette configuration de conception si votre organisation ne publie pas régulièrement de nouvelles.</p>
+  <p>N’utilisez pas cette configuration de conception pour afficher des nouvelles d’une autre organisation ou pour du contenu non lié.</p>
+  <p>N’utilisez pas cette configuration de conception pour afficher des promotions, qui sont un type de produit promotionnel et non des nouvelles.</p>
+  <p>N’utilisez pas cette configuration de conception sur les pages de navigation.</p>
+  <p>N’utilisez pas cette configuration de conception lorsque vous souhaitez que les gens restent sur la page et accomplissent leur tâche.</p>
 </section>
-
-<h2 id="eviter">
- Quoi éviter
-</h2>
-
-<p>
- Assurez-vous que ce modèle n'interfère pas avec le contenu de la tâche principale.
-</p>
-
-<section>
- <h2 id="code">
-  Comment mettre en œuvre
- </h2>
- <section>
-  <p>
-   Vous pouvez utiliser soit la version
-   <strong>
-    bêta
-   </strong>
-   ou la version
-   <strong>
-    stable
-   </strong>
-   de ce modèle.
-  </p>
-  <h3>
-   Nouveautés bêta
-  </h3>
-  <p>
-   La version bêta est utilisée à la page d'accueil institutionnelle. Le code est toujours en révision. Il se peut que des modifications mineures y soient apportées.
-  </p>
-  <p>
-   La version bêta remplacera à terme la version stable.
-  </p>
-  <div class="pattern-demo mrgn-bttm-md">
-   <div class="container">
-    <div class="row col-lg-12">
-     <section class="col-md-4">
-      <h2 class="h3">
-       Nouvelles
-      </h2>
-      <ul class="feeds-cont list-unstyled lst-spcd feed-active">
-       <li>
-        <a href="#">
-         [Titre de nouvelle]
-        </a>
-        <br/>
-        <small class="feeds-date">
-         AAAA-MM-JJ HH:MM
-        </small>
-       </li>
-       <li>
-        <a href="#">
-         [Titre de nouvelle]
-        </a>
-        <br/>
-        <small class="feeds-date">
-         AAAA-MM-JJ HH:MM
-        </small>
-       </li>
-       <li>
-        <a href="#">
-         [Titre de nouvelle]
-        </a>
-        <br/>
-        <small class="feeds-date">
-         AAAA-MM-JJ HH:MM
-        </small>
-       </li>
+<section id="contenu">
+  <h2>Contenu et conception</h2>
+  <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
+  <h3>Spécifications de contenu</h3>
+  <p>L’étiquette du titre est &laquo;&nbsp;News&nbsp;&raquo; en anglais et &laquo;&nbsp;Nouvelles&nbsp;&raquo; en français.</p>
+  <p>Incluez trois nouvelles, suivies du lien vers &laquo;&nbsp;En savoir plus&nbsp;&raquo;&nbsp;: il dirige les gens vers le fil complet de la salle de presse, par exemple &laquo;&nbsp;En savoir plus&nbsp;: Nouvelles de [Institution]&nbsp;&raquo;. Utilisez du texte de lien descriptif pour que l’utilisateur sache clairement où il ira s’il clique sur le lien.</p>
+  <p>Chaque nouvelle est mise en forme de la manière suivante&nbsp;:</p>
+  <p>[lien vers le communiqué]<br>
+    [AAAA-MM-JJ HH:MM]</p>
+  <h3>Spécifications de conception</h3>
+  <ul>
+    <li>Le texte utilise les styles standards de Canada.ca&nbsp;:
+      <ul>
+        <li><a href="/styles/typographie.html">Typographie</a></li>
+        <li><a href="/styles/couleurs.html">Couleurs</a></li>
+        <li>Le titre est codé comme H2, mais le style est H3.</li>
       </ul>
-      <p>
-       En savoir plus :
-       <a class="admin" href="#">
-        Nouvelles de [Institution]
-       </a>
-      </p>
-     </section>
-     <section class="col-md-8 gc-prtts">
-      <h2 class="h3">
-       En vedette
-      </h2>
-      <div class="row wb-eqht">
-       <div class="col-md-6 mrgn-bttm-md">
-        <a class="figcaption hght-inhrt" href="#">
-         <figure class="well well-sm brdr-rds-0 hght-inhrt">
-          <img alt="#" class="img-responsive full-width" src="https://via.placeholder.com/360x203/000000/FFFFFF.png"/>
-          <figcaption class="h5">
-           [Hyperlien de l'élément]
-          </figcaption>
-          <p>
-           Brève description de l'élément en vedette.
-          </p>
-         </figure>
-        </a>
-       </div>
-       <div class="col-md-6 mrgn-bttm-md">
-        <a class="figcaption hght-inhrt" href="https://www.canada.ca/en/revenue-agency/campaigns/my-benefits-credits.html">
-         <figure class="well well-sm brdr-rds-0 hght-inhrt">
-          <img alt="#" class="img-responsive full-width" src="https://via.placeholder.com/360x203/000000/FFFFFF.png"/>
-          <figcaption class="h5">
-           [Hyperlien de l'élément]
-          </figcaption>
-          <p>
-           Brève description de l'élément en vedette.
-          </p>
-         </figure>
-        </a>
-       </div>
+    </li>
+    <li>Mise en page&nbsp;:
+      <ul>
+        <li>Maximum de 3 éléments énumérés à la fois; utilisez le lien &laquo;&nbsp;En savoir plus&nbsp;&raquo; pour mener à d’autres nouvelles.</li>
+        <li>Le codage des nouvelles correspond à une liste sans style.</li>
+      </ul>
+    </li>
+  </ul>
+  <h3>Exemples visuels</h3>
+  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+    <figure class="mrgn-tp-md mrgn-bttm-lg">
+      <figcaption><b>Dernières nouvelles</b></figcaption>
+      <img src="/images/latest-news-fr.png" class="img-responsive" alt="Configuration de conception des dernières nouvelles. Version texte ci-dessous&nbsp;:" />
+      <details>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: dernières nouvelles</summary>
+        <p>Un en-tête de section, Nouvelles, est suivi de trois liens. Chaque titre de lien est [Titre de la nouvelle]. Sous chaque lien, on trouve un espace réservé pour la date et l’heure, présenté comme AAAA-MM-JJ HH:MM. En dessous de la liste de liens et de dates, on trouve une ligne indiquant En savoir plus&nbsp;: Nouvelles de [Institution].</p>
+      </details>
+    </figure>
+  </div>
+</section>
+<section id="œuvre">
+  <h2>Comment procéder à la mise en œuvre</h2>
+  <p>Trouvez des exemples pratiques et de code pour mettre en œuvre la configuration de conception des dernières nouvelles.</p>
+  <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
+  <ul>
+    <li><a href="https://wet-boew.github.io/gcweb-compiled-demos/wetboew-demos/feeds/feeds-fr.html">Exemple : Fils de syndication</a></li>
+    <li><a href="https://wet-boew.github.io/wet-boew/docs/ref/feeds/feeds-fr.html">Documentation : Fils de syndication</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
+  </ul>
+  <h3>Mises en œuvre</h3>
+  <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
+  <div class="row">
+    <div class="col-md-8">
+      <div class="wb-tabs mrgn-tp-lg">
+        <div class="tabpanels">
+          <details id="004" open="open">
+            <summary><strong>GC-AEM</strong></summary>
+            <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
+            <ul>
+              <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
+            </ul>
+          </details>
+          <details id="005">
+            <summary><strong>SGDC</strong></summary>
+            <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
+            <ul>
+              <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
+            </ul>
+          </details>
+          <details id="006">
+            <summary><strong>Drupal WxT</strong></summary>
+            <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
+            <ul>
+              <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT</a> (en anglais seulement)</li>
+            </ul>
+          </details>
+        </div>
       </div>
-     </section>
     </div>
-   </div>
-   <details>
-    <summary>
-     Code
-    </summary>
-    <pre class="prettyprint"><code>&lt;div class="row col-lg-12"&gt;
-	&lt;section class="col-md-4 wb-feeds limit-3 gc-nws"&gt;
-	 &lt;h2 class="h3"&gt;Nouvelles&lt;/h2&gt;
-	&lt;!-- demonstrate the look - use json feed where applicable --&gt;
-	&lt;ul class="feeds-cont list-unstyled lst-spcd feed-active"&gt;
-	 &lt;li&gt;&lt;a href="#"&gt;[Titre nouvelle]&lt;/a&gt;&lt;br&gt; &lt;small class="feeds-date"&gt;AAAA-MM-JJ HH:MM&lt;/small&gt;&lt;/li&gt;
-	 &lt;li&gt;&lt;a href="#"&gt;[Titre nouvelle]]&lt;/a&gt;&lt;br&gt; &lt;small class="feeds-date"&gt;AAAA-MM-JJ HH:MM&lt;/small&gt;&lt;/li&gt;
-	 &lt;li&gt;&lt;a href="#"&gt;[Titre nouvelle]]&lt;/a&gt;&lt;br&gt; &lt;small class="feeds-date"&gt;AAAA-MM-JJ HH:MM&lt;/small&gt;&lt;/li&gt;
-	&lt;/ul&gt;
-	&lt;!-- json feed for news example
-	&lt;ul class="feeds-cont list-unstyled lst-spcd"&gt;
-	 &lt;li&gt; &lt;a data-ajax="https://www.canada.ca/content/canadasite/api/nws/fds/en/web-feeds/revenue-agency.json" href="https://www.canada.ca/en/revenue-agency.atom.xml" rel="external"&gt;Salle de presse de l’ARC&lt;/a&gt; &lt;/li&gt;
-	 &lt;/ul&gt;
-	--&gt;
-	&lt;p&gt;En savoir plus : &lt;a href="#" class="admin"&gt;Nouvelles de [Institution]&lt;/a&gt;&lt;/p&gt;
-	&lt;/section&gt;
-	&lt;section class="col-md-8 gc-prtts"&gt;
-	 &lt;h2 class="h3"&gt;En vedette&lt;/h2&gt;
-	  &lt;div class="row wb-eqht"&gt;
-	   &lt;div class="col-md-6 mrgn-bttm-md"&gt;
-	    &lt;a class="figcaption hght-inhrt" href="#"&gt;
-	     &lt;figure class="well well-sm brdr-rds-0 hght-inhrt"&gt;&lt;img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png"&gt;
-	      &lt;figcaption class="h5"&gt;[Hyperlien de l'élément]&lt;/figcaption&gt;
-	        &lt;p&gt;Brève description de l'élément en vedette.&lt;/p&gt;
-	        &lt;/figure&gt;
-	       &lt;/a&gt;
-	      &lt;/div&gt;
-	    &lt;div class="col-md-6 mrgn-bttm-md"&gt;
-	     &lt;a class="figcaption hght-inhrt" href="https://www.canada.ca/en/revenue-agency/campaigns/my-benefits-credits.html"&gt;
-	     &lt;figure class="well well-sm brdr-rds-0 hght-inhrt"&gt;&lt;img class="img-responsive full-width" alt="#" src="https://wet-boew.github.io/themes-dist/GCWeb/img/360x203.png"&gt;
-	      &lt;figcaption class="h5"&gt;[Hyperlien de l'élément]&lt;/figcaption&gt;
-	      &lt;p&gt;Brève description de l'élément en vedette.&lt;/p&gt;
-	        &lt;/figure&gt;
-	     &lt;/a&gt;
-	     &lt;/div&gt;
-	    &lt;/div&gt;
-	  &lt;/section&gt;
-	 &lt;/div&gt;
-	&lt;/div&gt;</code></pre>
-   </details>
   </div>
-  <div class="clearfix">
-  </div>
-  <h3>
-   Nouveautés stable
-  </h3>
-  <p>
-   La version bêta remplacera à terme la version stable.
-  </p>
-  <details>
-   <summary>
-    Directives de la version stable pour les nouveautés
-   </summary>
-   <ul>
-    <li>
-     Elle présente les éléments de nouvelles les plus récents affichés par l’entité.
-    </li>
-    <li>
-     L’étiquette de l’en-tête est « Nouveautés ».
-    </li>
-    <li>
-     Deux des éléments de nouvelles doivent comprendre une image, un titre assorti d’un hyperlien, des renseignements supplémentaires et un texte descriptif :
-     <ul>
-      <li>
-       Peut comprendre du contenu promotionnel, et être priorisé à la discrétion de l’institution
-      </li>
-      <li>
-       Le texte de la description doit être court et concis.
-      </li>
-     </ul>
-    </li>
-    <li>
-     Les types de produits liés aux nouvelles affichés comme texte seulement se limitent à ceux affichés sur nouvelles.gc.ca :
-     <ul>
-      <li>
-       Avis aux médias
-      </li>
-      <li>
-       Documents d’information
-      </li>
-      <li>
-       Communiqués de presse
-      </li>
-      <li>
-       Discours
-      </li>
-      <li>
-       Déclarations
-      </li>
-     </ul>
-    </li>
-    <li>
-     Veuillez consulter la
-     <a href="http://wet-boew.github.io/themes-dist/GCWeb/index-fr.html">
-      page GitHub sur Canada.ca
-     </a>
-     pour obtenir des détails sur le redimensionnement d’image.
-    </li>
-   </ul>
-   <h2>
-    Exemple concret
-   </h2>
-   <ul>
-    <li>
-     <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-fr.html">
-      Page de profil institutionnel
-     </a>
-    </li>
-   </ul>
-   <section class="panel panel-primary">
-    <header class="panel-heading">
-     <h2 class="panel-title">
-      Exemples
-     </h2>
-    </header>
-    <div class="panel-body">
-     <div class="row">
-      <figure class="mrgn-bttm-sm">
-       <figcaption class="text-center">
-        <b>
-         Modèle des nouveautés avec deux images
-        </b>
-       </figcaption>
-       <img alt="Capture d’écran illustrant le modèle des dernières nouvelles avec deux images dans le site Canada.ca. Plus de détails au sujet de ce graphique se retrouvent dans le texte entourant l’image." class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/latest-news-pattern-fra.jpg"/>
-      </figure>
-     </div>
-    </div>
-   </section>
-  </details>
- </section>
+</section>
+<section id="recherche">
+  <h2>Recherche et justification</h2>
+  <p>La configuration de conception des dernières nouvelles est facultative pour les modèles obligatoires suivants :</p>
+  <ul>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
+  </ul>
+</section>
+<section id="changements">
+  <h2>Derniers changements</h2>
+  <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
+    </dt>
+    <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
+  </dl>
 </section>
