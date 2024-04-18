@@ -76,7 +76,7 @@ title: Services et renseignements
     <li>
         Titres&nbsp;:
         <ul>
-            <li>Couleur&nbsp;: <a href="https://design.canada.ca/styles/colours.html">Couleurs standard</a> pour les liens</li>
+            <li>Couleur&nbsp;: <a href="/styles/couleurs.html">Couleurs standard</a> pour les liens</li>
             <li>Taille de la police&nbsp;: Canada.ca H3 (1em)</li>
             <li>Famille de police&nbsp;: Lato Sans</li>
         </ul>
