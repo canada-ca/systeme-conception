@@ -714,11 +714,61 @@
     {
       "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html\">Pages d'accueil institutionnelle</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Utilisez ce modèle comme page d'accueil pour les nstitutions et organismes du gouvernement du Canada.",
+      "DESCRIPTION": "Utilisez ce modèle comme page d'accueil pour les institutions et organismes du gouvernement du Canada.",
       "WHENTOUSE": "Page d'accueil pour les institutions et organismes du gouvernement du Canada. - <strong>Mod&#232;le obligatoire</strong>",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Institutionnel, Navigation",
       "MANDATORY": "Obligatoire",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/bloc-introduction.html\">Bloc d'introduction</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Introduit le contenu d’une page de renvoi.",
+      "WHENTOUSE": "Introduit le contenu d’une page de renvoi.",
+      "CATEGORY": "Configuration &#224; l'&#233;chelle du site",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/lien-vedette.html\">Featured link</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Un hyperlien court et descriptif que votre institution doit mettre en évidence sur une page d’accueil.",
+      "WHENTOUSE": "Un hyperlien court et descriptif que votre institution doit mettre en évidence sur une page d’accueil.",
+      "CATEGORY": "Configuration &#224; l'&#233;chelle du site",
+      "TYPE": "Promotion",
+      "MANDATORY": "No",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/bande-de-coordonnees.html\">Bande de coordonnées</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Fournit des informations de contact pertinentes.",
+      "WHENTOUSE": "Fournit des informations de contact pertinentes.",
+      "CATEGORY": "Configuration &#224; l'&#233;chelle du site",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/ministre.html\">Ministre ou chef d’institution</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Indique le(s) ministre(s) ou chef(s) d’institution concernés d’un ministère, d’un organisme ou d’une organisation. Elle fournit des liens vers la biographie officielle du ou des ministres, ministres associés ou chefs d’institution, et elle peut également inclure un portrait ou des liens vers des lettres de mandat et des documents d’information.",
+      "WHENTOUSE": "Indique le(s) ministre(s) ou chef(s) d’institution concernés d’un ministère, d’un organisme ou d’une organisation. Elle fournit des liens vers la biographie officielle du ou des ministres, ministres associés ou chefs d’institution, et elle peut également inclure un portrait ou des liens vers des lettres de mandat et des documents d’information.",
+      "CATEGORY": "Configuration &#224; l'&#233;chelle du site",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "",
+      "TANDP": "1"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/a-propos-de-institution.html\">À propos de l’institution</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Une section sur une page d’accueil institutionnelle qui fournit des liens vers des renseignements organisationnels et sur l’élaboration de programmes et de politiques.",
+      "WHENTOUSE": "Une section sur une page d’accueil institutionnelle qui fournit des liens vers des renseignements organisationnels et sur l’élaboration de programmes et de politiques.",
+      "CATEGORY": "Configuration &#224; l'&#233;chelle du site",
+      "TYPE": "Institutionnel",
+      "MANDATORY": "",
       "TANDP": "1"
     },
     {
