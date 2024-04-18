@@ -143,7 +143,7 @@ title: "Ministre ou chef d’institution"
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <p>La référence à l’implémentation comprend la façon de configurer le thème de Canada.ca et ses divers composants.</p>
   <ul>
-    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-fr.html">Ministre ou chef d'institution
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-fr.html">Ministre ou chef d'institution - GCWeb
 </a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
