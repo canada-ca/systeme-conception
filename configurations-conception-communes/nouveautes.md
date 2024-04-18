@@ -74,8 +74,8 @@ title: "Dernières nouvelles"
   <p>Trouvez des exemples pratiques et de code pour mettre en œuvre la configuration de conception des dernières nouvelles.</p>
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <ul>
-    <li><a href="https://wet-boew.github.io/gcweb-compiled-demos/wetboew-demos/feeds/feeds-fr.html">Exemple : Fil de syndication</a></li>
-    <li><a href="https://wet-boew.github.io/wet-boew/docs/ref/feeds/feeds-fr.html">Documentation : Fil de syndication</a></li>
+    <li><a href="https://wet-boew.github.io/gcweb-compiled-demos/wetboew-demos/feeds/feeds-fr.html">Exemple : Fils de syndication</a></li>
+    <li><a href="https://wet-boew.github.io/wet-boew/docs/ref/feeds/feeds-fr.html">Documentation : Fils de syndication</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
   <h3>Mises en œuvre</h3>
