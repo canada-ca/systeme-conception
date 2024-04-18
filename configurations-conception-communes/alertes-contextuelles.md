@@ -371,8 +371,8 @@ title: Alertes contextuelles
    </a>
   </li>
   <li>
-   <a href="https://blogue.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html">
-    Résumé de recherche : Conseils aux voyageurs et avertissements
+   <a href="{{ site.url }}/resumes-recherche/conseils-voyageurs-resume-recherche.html">
+    Résumé de recherche&nbsp;: Conseils aux voyageurs et avertissements
    </a>
   </li>
   <li>

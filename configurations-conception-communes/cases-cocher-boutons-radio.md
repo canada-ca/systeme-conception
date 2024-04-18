@@ -945,7 +945,7 @@ title: "Cases à cocher et boutons radio"
   (blogue)
  </li>
  <li>
-  <a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">
+  <a href="{{ site.url }}/resumes-recherche/arc-contactez-nous-resume-recherche.html">
    Résumé de recherche : Communiquer avec l’ARC
   </a>
  </li>

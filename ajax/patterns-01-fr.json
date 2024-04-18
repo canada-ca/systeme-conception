@@ -2,43 +2,70 @@
 ---
 {
   "data": [{
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/trouver-emploi-resume-recherche.html\">Trouver un emploi</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/etude-sur-les-restrictions-de-voyage.html\">Utilisation d’un assistant afin d’aider les gens à se renseigner durant la pandémie de la COVID-19</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "En facilitant la tâche de trouver les emplois du gouvernement, nous avons appris à éliminer les pages redondantes, à orienter le contenu pour les utilisateurs et leurs principales tâches, à concevoir le contenu en fonction de réponses plutôt que des renseignements, à utiliser des titres d’emploi recherchés et à répondre aux attentes des utilisateurs à l’égard d’une seule plateforme de recherche d’emploi.",
+      "DESCRIPTION": "Ce résumé de recherche explique comment l’utilisation d’un assistant a aidé les gens à obtenir des réponses sur les restrictions de voyage pendant la COVID-19.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },{
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/allocation-canadienne-enfants.html\">Allocation canadienne pour enfants</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Ce résumé de recherche définit le contexte du projet de recherche dans le cadre duquel le modèle de navigation de style métro a été créé et décrit tous les points qui ont été pris en considération.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/orientation-dans-canada-ca.html\">Orientation dans Canada.ca</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/confiance.html\">Étude sur la confiance</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "L’examen de la façon dont les utilisateurs naviguent dans le site Canada.ca a mené à des changements visant à remplacer le menu thématique. Les modifications comprennent un nouveau pied de page, un bouton contextuel « se connecter » et une conception stratifiée pour les pages thématiques.",
+      "DESCRIPTION": "Cette étude menée sur la confiance aide à déterminer lesquels des éléments de communication graphiques inspirent le plus de confiance aux utilisateurs par rapport à la marque du gouvernement du Canada.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/rappels-securite-resume-recherche.html\">Optimisation de la recherche de rappels et d’avis de sécurité (deuxième série)</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/trouver-emploi-resume-recherche.html\">Trouver un emploi</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "Expérimenter avec une solution en source ouverte pour effectuer des recherches efficaces. Ce que nous avons appris : comprendre les cas d’utilisation de recherche, corriger les données à la source avec l’aide des bonnes personnes, et affecter des ressources à la surveillance du rendement et à la conservation des données.",
+      "DESCRIPTION": "En facilitant la tâche de trouver les emplois du gouvernement, nous avons appris à éliminer les pages redondantes, à orienter le contenu pour les utilisateurs et leurs principales tâches, à concevoir le contenu en fonction de réponses plutôt que des renseignements, à utiliser des titres d'emploi recherchés et à répondre aux attentes des utilisateurs à l'égard d'une seule plateforme de recherche d'emploi.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/rappels-resume-recherche.html\">Rappels et avis de sécurité</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/orientation-dans-canada-ca.html\">Orientation dans Canada.ca</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "L’optimisation du contenu pour les appareils mobiles peut améliorer la repérabilité et les taux de réussite globale des tâches. Fournir des réponses et non des renseignements, optimiser le flux des tâches, simplifier l’approche, personnaliser les algorithmes de recherche et utiliser du contenu clair, abrégé et lisible.",
+      "DESCRIPTION": "L'examen de la façon dont les utilisateurs naviguent dans le site Canada.ca a mené à des changements visant à remplacer le menu thématique. Les modifications comprennent un nouveau pied de page, un bouton contextuel « se connecter » et une conception stratifiée pour les pages thématiques.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/achats-electroniques-resume-recherche.html\">Portail de solution d’achats électroniques (SAE)</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/rappels-securite-resume-recherche.html\">Optimisation de la recherche de rappels et d'avis de sécurité (deuxième série)</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "Expérimenter avec une solution en source ouverte pour effectuer des recherches efficaces. Ce que nous avons appris : comprendre les cas d'utilisation de recherche, corriger les données à la source avec l'aide des bonnes personnes, et affecter des ressources à la surveillance du rendement et à la conservation des données.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/rappels-resume-recherche.html\">Rappels et avis de sécurité</a>",
+      "SOURCE": "Résumé de recherche",
+      "DESCRIPTION": "L'optimisation du contenu pour les appareils mobiles peut améliorer la repérabilité et les taux de réussite globale des tâches. Fournir des réponses et non des renseignements, optimiser le flux des tâches, simplifier l'approche, personnaliser les algorithmes de recherche et utiliser du contenu clair, abrégé et lisible.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/achats-electroniques-resume-recherche.html\">Portail de solution d'achats électroniques (SAE)</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Afin de privilégier les processus en ligne plutôt que les processus fondés sur le papier, il faut repenser la façon de présenter la documentation. Des techniques efficaces comprennent une recherche personnalisée et des assistants, du contenu HTML navigable plutôt que des documents en format PDF et un résumé de renseignements essentiels pour une meilleure lisibilité.",
       "WHENTOUSE": "",
@@ -47,25 +74,25 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/conseils-voyageurs-resume-recherche.html\">Conseils aux voyageurs et avertissements</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/conseils-voyageurs-resume-recherche.html\">Conseils aux voyageurs et avertissements</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "Pour concevoir du contenu qui communique clairement les risques, on doit accorder la priorité à la repérabilité  . Les techniques comprennent l’utilisation de rubriques claires et d’étiquettes pour une meilleure piste vers l’information, rendant le contenu facile à consulter et améliorant les relations entre les sujets parents et les sous-sujets.",
+      "DESCRIPTION": "Pour concevoir du contenu qui communique clairement les risques, on doit accorder la priorité à la repérabilité  . Les techniques comprennent l'utilisation de rubriques claires et d'étiquettes pour une meilleure piste vers l'information, rendant le contenu facile à consulter et améliorant les relations entre les sujets parents et les sous-sujets.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/arc-contactez-nous-resume-recherche.html\">Communiquer avec l’ARC</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/arc-contactez-nous-resume-recherche.html\">Communiquer avec l'ARC</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "L’amélioration des pages de contact peut réduire la correspondance et les appels, et permettre de rediriger certaines personnes vers des ressources en ligne. Aider les gens à choisir la bonne option avec du contenu rétractable, regrouper des renseignements pour améliorer les résultats de recherche, utiliser des assistants pour faciliter l'accès aux différentes options.",
+      "DESCRIPTION": "L'amélioration des pages de contact peut réduire la correspondance et les appels, et permettre de rediriger certaines personnes vers des ressources en ligne. Aider les gens à choisir la bonne option avec du contenu rétractable, regrouper des renseignements pour améliorer les résultats de recherche, utiliser des assistants pour faciliter l'accès aux différentes options.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/design-conversationnel.html\">Fournir des services gouvernementaux grâce au design conversationnel</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/design-conversationnel.html\">Fournir des services gouvernementaux grâce au design conversationnel</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Les agents conversationnels sont des outils puissants, mais il n'y a aucune magie. Ils nécessitent du temps et du personnel pour analyser continuellement les données et ajuster la façon dont les outils réagissent. Ce sont de nouvelles offres de services et elles doivent être dotées de ressources, conçues et gérées comme telles.",
       "WHENTOUSE": "",
@@ -74,52 +101,52 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/prets-etudiants-resume-recherche.html\">Optimisation des prêts et des bourses aux étudiants</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/prets-etudiants-resume-recherche.html\">Optimisation des prêts et des bourses aux étudiants</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "Lorsque les provinces et les territoires sont les fournisseurs de services, les pages du site Canada.ca doivent rediriger les gens. Supprimer des renseignements relatifs aux programmes qui ne fournissent pas les réponses recherchées, modifier les chemins de navigation pour se concentrer sur les tâches et utiliser des données probantes à l’égard de la langue de conception.",
+      "DESCRIPTION": "Lorsque les provinces et les territoires sont les fournisseurs de services, les pages du site Canada.ca doivent rediriger les gens. Supprimer des renseignements relatifs aux programmes qui ne fournissent pas les réponses recherchées, modifier les chemins de navigation pour se concentrer sur les tâches et utiliser des données probantes à l'égard de la langue de conception.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/examen-citoyennete-resume-recherche.html\">Projet d’optimisation de l’examen pour la citoyenneté</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/examen-citoyennete-resume-recherche.html\">Projet d'optimisation de l'examen pour la citoyenneté</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "Lorsque l’on transforme de longs documents en contenu Web, présenter les processus étape par étape en une séquence claire, inclure des fonctions de recherche et de navigation dans le document, éliminer les liens qui distraient, et utiliser un langage clair et simple pour que les étiquettes soient plus explicites.",
+      "DESCRIPTION": "Lorsque l'on transforme de longs documents en contenu Web, présenter les processus étape par étape en une séquence claire, inclure des fonctions de recherche et de navigation dans le document, éliminer les liens qui distraient, et utiliser un langage clair et simple pour que les étiquettes soient plus explicites.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/comptes-entreprises-resume-recherche.html\">Inscription des entreprises et tenue des comptes – ARC</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/comptes-entreprises-resume-recherche.html\">Inscription des entreprises et tenue des comptes - ARC</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "Réduire les volumes d’appels en répondant aux questions courantes sous forme de contenu Web. Mettre les mots-clés au début des titres, réorganiser le contenu en fonction des endroits où les gens cherchent des réponses et ajouter un simple assistant pour aider les gens à obtenir une réponse précise.",
+      "DESCRIPTION": "Réduire les volumes d'appels en répondant aux questions courantes sous forme de contenu Web. Mettre les mots-clés au début des titres, réorganiser le contenu en fonction des endroits où les gens cherchent des réponses et ajouter un simple assistant pour aider les gens à obtenir une réponse précise.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}//resumes-recherche/prochesaidants-resume-recherche.html\">Prestations d’assurance-emploi pour proches aidants</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/prochesaidants-resume-recherche.html\">Prestations d'assurance-emploi pour proches aidants</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "Réduire le nombre de demandes inadmissibles en aidant les gens à comprendre les règles d’admissibilité et la façon de présenter une demande. Offrir un simple aperçu visuel du processus entier, utiliser de manière stratégique des mots-clés, inclure des renseignements importants à l’emplacement attendu et simplifier le langage employé.",
+      "DESCRIPTION": "Réduire le nombre de demandes inadmissibles en aidant les gens à comprendre les règles d'admissibilité et la façon de présenter une demande. Offrir un simple aperçu visuel du processus entier, utiliser de manière stratégique des mots-clés, inclure des renseignements importants à l'emplacement attendu et simplifier le langage employé.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/impots-resume-recherche.html\">Déclaration de la TPS/TVH et de retenues sur la paie</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/impots-resume-recherche.html\">Déclaration de la TPS/TVH et de retenues sur la paie</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "Lorsque les gens peuvent trouver de l’information, mais ne la comprennent pas (haut taux de repérabilité, faible taux de réussite des tâches), il faut se servir de techniques pour améliorer la compréhension. Utiliser le langage de l’utilisateur, se servir d’une structure étape par étape et réduire la complexité en divisant les longues pages en de plus petits morceaux.",
+      "DESCRIPTION": "Lorsque les gens peuvent trouver de l'information, mais ne la comprennent pas (haut taux de repérabilité, faible taux de réussite des tâches), il faut se servir de techniques pour améliorer la compréhension. Utiliser le langage de l'utilisateur, se servir d'une structure étape par étape et réduire la complexité en divisant les longues pages en de plus petits morceaux.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/maladies-resume-recherche.html\">Maladies et vaccination</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/maladies-resume-recherche.html\">Maladies et vaccination</a>",
       "SOURCE": "Résumé de recherche",
       "DESCRIPTION": "Concevoir du contenu pour aider les gens à faire des choix éclairés concernant leur santé. Fournir des réponses et non des renseignements, concevoir en priorité pour des appareils mobiles, réduire le nombre de couches, et retirer le contenu des documents et des affiches en format PDF.",
       "WHENTOUSE": "",
@@ -128,9 +155,9 @@
       "MANDATORY": "",
       "TANDP": "0"
     }, {
-      "NAME": "<a href=\"{{ site.urlblogue }}/resumes-recherche/meteo-resume-recherche.html\">Renseignements météorologiques</a>",
+      "NAME": "<a href=\"{{ site.url }}/resumes-recherche/meteo-resume-recherche.html\">Renseignements météorologiques</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "La refonte du contenu pour un public qui le consulte principalement à partir d’un appareil mobile signifie l’optimisation de l'espace. Regrouper les tâches et les sous-tâches, raccourcir le fil d’Ariane, choisir le bon style d’alerte et abréger le contenu en s’assurant de fournir des réponses plutôt que des renseignements.",
+      "DESCRIPTION": "La refonte du contenu pour un public qui le consulte principalement à partir d'un appareil mobile signifie l'optimisation de l'espace. Regrouper les tâches et les sous-tâches, raccourcir le fil d'Ariane, choisir le bon style d'alerte et abréger le contenu en s'assurant de fournir des réponses plutôt que des renseignements.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -139,7 +166,7 @@
     }, {
       "NAME": "<a href=\"{{ site.urlblogue }}/2018/03/29/visiter-le-canada-optimisation.html\">Visiter le Canada : optimisation</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "Le contenu au sujet des règles peut être complexe. S’attarder à orienter les gens pour qu’ils obtiennent les réponses dont ils ont besoin dans leur situation. Simplifier la navigation pour réduire la charge cognitive, utiliser un assistant pour guider les gens qui effectuent la tâche et réduire le nombre de liens qui éloignent les gens de leur chemin d’accès idéal.",
+      "DESCRIPTION": "Le contenu au sujet des règles peut être complexe. S'attarder à orienter les gens pour qu'ils obtiennent les réponses dont ils ont besoin dans leur situation. Simplifier la navigation pour réduire la charge cognitive, utiliser un assistant pour guider les gens qui effectuent la tâche et réduire le nombre de liens qui éloignent les gens de leur chemin d'accès idéal.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -148,7 +175,7 @@
     }, {
       "NAME": "<a href=\"{{ site.urlblogue }}/2018/02/20/demarrer_une_entreprise.html\">Aider les Canadiens à lancer une entreprise</a>",
       "SOURCE": "Résumé de recherche",
-      "DESCRIPTION": "Pour améliorer l’expérience utilisateur dans le cadre de tâches comportant plusieurs étapes, indiquer les différentes actions et décisions exigées d’un utilisateur, mettre davantage en évidence les liens pour les principales tâches et réduire les liens qui éloignent les gens de leur chemin d’accès idéal.",
+      "DESCRIPTION": "Pour améliorer l'expérience utilisateur dans le cadre de tâches comportant plusieurs étapes, indiquer les différentes actions et décisions exigées d'un utilisateur, mettre davantage en évidence les liens pour les principales tâches et réduire les liens qui éloignent les gens de leur chemin d'accès idéal.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -156,10 +183,10 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.urlblogue }}/2022/03/23/reussite-des-taches.html\">Utiliser les données sur la réussite des tâches pour améliorer l’expérience des utilisateurs</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2022/03/23/reussite-des-taches.html\">Utiliser les données sur la réussite des tâches pour améliorer l'expérience des utilisateurs</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Utiliser les données sur la réussite des tâches pour améliorer l’expérience des utilisateurs : Les données tirées du Sondage sur la réussite des tâches du GC peuvent contribuer à favoriser un changement de culture positif au sein de votre organisation.",
-      "WHENTOUSE": "Comment utiliser le sondage sur la réussite des tâches pour améliorer l’efficacité du contenu des tâches principales.",
+      "DESCRIPTION": "Utiliser les données sur la réussite des tâches pour améliorer l'expérience des utilisateurs : Les données tirées du Sondage sur la réussite des tâches du GC peuvent contribuer à favoriser un changement de culture positif au sein de votre organisation.",
+      "WHENTOUSE": "Comment utiliser le sondage sur la réussite des tâches pour améliorer l'efficacité du contenu des tâches principales.",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
@@ -168,8 +195,8 @@
     {
       "NAME": "<a href=\"{{ site.urlblogue }}/2022/02/07/agent-conversationnel.html\">Vous songez à ajouter un agent conversationnel?</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Vous songez à ajouter un agent conversationnel? : Avant de décider de créer un agent conversationnel pour améliorer la prestation de vos services, il est important d’évaluer si cette solution est adaptée à votre clientèle ainsi qu’à l’équipe dont vous disposez pour la construire et la soutenir.",
-      "WHENTOUSE": "Que faut-il prendre en compte pour décider si un agent conversationnel est le meilleur moyen d’aider vos utilisateurs à trouver les réponses dont ils ont besoin?",
+      "DESCRIPTION": "Vous songez à ajouter un agent conversationnel? : Avant de décider de créer un agent conversationnel pour améliorer la prestation de vos services, il est important d'évaluer si cette solution est adaptée à votre clientèle ainsi qu'à l'équipe dont vous disposez pour la construire et la soutenir.",
+      "WHENTOUSE": "Que faut-il prendre en compte pour décider si un agent conversationnel est le meilleur moyen d'aider vos utilisateurs à trouver les réponses dont ils ont besoin?",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
@@ -178,8 +205,8 @@
     {
       "NAME": "<a href=\"{{ site.urlblogue }}/2021/12/07/concevoir-avec-humilite.html\">Concevoir avec humilité</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Concevoir avec humilité :  Lorsque vous concevez du contenu pour Canada.ca, vous concevez pour les gens. Mettez les gens au cœur de votre travail et prenez le temps de regarder comment ils utilisent votre conception. L’humilité est une force motrice incroyable qui vous aidera à concevoir de meilleurs services.",
-      "WHENTOUSE": "Placez les personnes au centre de votre travail, prenez le temps d’observer comment ils utilisent votre conception, soyez ouvert à de nouvelles idées et élaborez des produits qui répondent aux besoins des personnes.",
+      "DESCRIPTION": "Concevoir avec humilité :  Lorsque vous concevez du contenu pour Canada.ca, vous concevez pour les gens. Mettez les gens au cœur de votre travail et prenez le temps de regarder comment ils utilisent votre conception. L'humilité est une force motrice incroyable qui vous aidera à concevoir de meilleurs services.",
+      "WHENTOUSE": "Placez les personnes au centre de votre travail, prenez le temps d'observer comment ils utilisent votre conception, soyez ouvert à de nouvelles idées et élaborez des produits qui répondent aux besoins des personnes.",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
@@ -189,7 +216,7 @@
       "NAME": "<a href=\"\">Éviter les carrousels promotionnels, améliorer le contenu Web</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Éviter les carrousels promotionnels, améliorer le contenu Web :  Les carrousels utilisés à des fins promotionnelles sur Canada.ca ne sont pas aussi efficaces qu'on pourrait le croire. Examinons pourquoi il en est ainsi et comment vous pouvez concevoir un contenu qui réussit mieux à atteindre votre public.",
-      "WHENTOUSE": "Les pièges de l’utilisation des carrousels (diapositives rotatives qui affichent plusieurs éléments dans le même espace) et comment concevoir des promotions plus efficaces.",
+      "WHENTOUSE": "Les pièges de l'utilisation des carrousels (diapositives rotatives qui affichent plusieurs éléments dans le même espace) et comment concevoir des promotions plus efficaces.",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
@@ -209,7 +236,7 @@
       "NAME": "<a href=\"{{ site.urlblogue }}/2021/05/10/participation-approbateurs-conception.html\">Participation des approbateurs à la conception conjointe</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "L'élaboration d'un contenu digne de confiance et à jour sur Canada.ca, conçu en fonction des utilisateurs, exige collaboration et planification. Apprenez à naviguer parmi les approbations et à mettre le contenu en ligne sur Canada.ca rapidement, au moment où les gens en ont le plus besoin.",
-      "WHENTOUSE": "Comment la mise en place d’une culture de conception conjointe et le travail direct avec les approbateurs peuvent vous aider à mettre du contenu en ligne plus rapidement.",
+      "WHENTOUSE": "Comment la mise en place d'une culture de conception conjointe et le travail direct avec les approbateurs peuvent vous aider à mettre du contenu en ligne plus rapidement.",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
@@ -227,27 +254,27 @@
     }, {
       "NAME": "<a href=\"{{ site.urlblogue }}/2020/08/10/canadapointca-source-fiable\">Canada.ca est une source fiable</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Remplacer &laquo;&nbsp;Accueil&nbsp;&raquo; par &laquo;&nbsp;Canada.ca&nbsp;&raquo; dans le fil d’Ariane de Canada.ca pour améliorer la confiance et la sensibilisation",
-      "WHENTOUSE": "Remplacer &laquo;&nbsp;Accueil&nbsp;&raquo; par &laquo;&nbsp;Canada.ca&nbsp;&raquo; dans le fil d’Ariane de Canada.ca pour améliorer la confiance et la sensibilisation",
+      "DESCRIPTION": "Remplacer &laquo;&nbsp;Accueil&nbsp;&raquo; par &laquo;&nbsp;Canada.ca&nbsp;&raquo; dans le fil d'Ariane de Canada.ca pour améliorer la confiance et la sensibilisation",
+      "WHENTOUSE": "Remplacer &laquo;&nbsp;Accueil&nbsp;&raquo; par &laquo;&nbsp;Canada.ca&nbsp;&raquo; dans le fil d'Ariane de Canada.ca pour améliorer la confiance et la sensibilisation",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.urlblogue }}/2020/07/15/fatigue-dalerte.html\">La &laquo;&nbsp;fatigue d’alerte&nbsp;&raquo; pendant la COVID-19</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/07/15/fatigue-dalerte.html\">La &laquo;&nbsp;fatigue d'alerte&nbsp;&raquo; pendant la COVID-19</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Les alertes attirent l’attention sur une situation qui sort de l’ordinaire, mais nous devons gérer soigneusement leur cycle de vie pour nous assurer de leur efficacité.",
-      "WHENTOUSE": "Les alertes attirent l’attention sur les changements dans le contenu régulier. Apprendre comment faire en sorte qu’elles aient la plus grande incidence possible.",
+      "DESCRIPTION": "Les alertes attirent l'attention sur une situation qui sort de l'ordinaire, mais nous devons gérer soigneusement leur cycle de vie pour nous assurer de leur efficacité.",
+      "WHENTOUSE": "Les alertes attirent l'attention sur les changements dans le contenu régulier. Apprendre comment faire en sorte qu'elles aient la plus grande incidence possible.",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.urlblogue }}/2019/12/20/les-dix-lecons.html\">Les 10 leçons tirées en 2019 par l’équipe de conception du contenu de Canada.ca</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2019/12/20/les-dix-lecons.html\">Les 10 leçons tirées en 2019 par l'équipe de conception du contenu de Canada.ca</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site Canada.ca.",
+      "DESCRIPTION": "Les dix leçons tirées en 2019 par l'équipe de conception du contenu du site Canada.ca.",
       "WHENTOUSE": "Observer les gens, collaborer avec les autres, être ouvert au changement, guider les gens, utiliser les bons mots, tester le contenu, se concentrer sur les tâches principales, etc.",
       "CATEGORY": "",
       "TYPE": "",
@@ -255,17 +282,17 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.urlblogue }}/2019/11/01/conseils-voyageurs-contact.html\">Conseils de conception de contenu tirés de nos projets d’optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l’ARC&nbsp;&raquo;</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2019/11/01/conseils-voyageurs-contact.html\">Conseils de conception de contenu tirés de nos projets d'optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l'ARC&nbsp;&raquo;</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Fournir des réponses dans le contenu Web, aiguiller les utilisateurs vers l’information, aider les personnes à faire des choix, mettre à profit les expériences acquises par le passé, etc.",
-      "WHENTOUSE": "Conseils de conception de contenu tirés de nos projets d’optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l’ARC&nbsp;&raquo;",
+      "DESCRIPTION": "Fournir des réponses dans le contenu Web, aiguiller les utilisateurs vers l'information, aider les personnes à faire des choix, mettre à profit les expériences acquises par le passé, etc.",
+      "WHENTOUSE": "Conseils de conception de contenu tirés de nos projets d'optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l'ARC&nbsp;&raquo;",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.urlblogue }}/2019/08/26/conseils-conception-contentu.html\">Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2019/08/26/conseils-conception-contentu.html\">Six conseils en matière de conception de contenu tirées de nos projets d'optimisation sur les prêts étudiants et les prestations parentales</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Retirer des couches, regrouper le contenu en fonction des tâches, utiliser les données pour concevoir le vocabulaire, ne demandez pas aux gens de faire les calculs, utiliser les chiffres avec modération, mettre des réponses là où les gens les cherchent",
       "WHENTOUSE": "Retirer des couches, regrouper le contenu en fonction des tâches, utiliser les données pour concevoir le vocabulaire, ne demandez pas aux gens de faire les calculs, utiliser les chiffres avec modération, mettre des réponses là où les gens les cherchent",
@@ -287,7 +314,7 @@
     {
       "NAME": "<a href=\"{{ site.urlblogue }}/2022/09/23/presentation-bouton-contextuel-se-connecter.html\">Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Ajouter un bouton contextuel «&nbsp;Se connecter&nbsp;» à l’En-tête général Canada.ca sur les pages où les gens doivent se connecter à un compte",
+      "DESCRIPTION": "Ajouter un bouton contextuel «&nbsp;Se connecter&nbsp;» à l'En-tête général Canada.ca sur les pages où les gens doivent se connecter à un compte",
       "WHENTOUSE": "Le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; est un &eacute;l&eacute;ment facultatif de l'en-t&ecirc;te qui dirige les utilisateurs vers des comptes gouvernementaux n&eacute;cessitant une authentification.",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Interaction, Visuel",
@@ -295,19 +322,19 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/retroaction/index.html\">Outil de rétroaction sur la page</a>",
-      "SOURCE": "Amélioration continue",
-      "DESCRIPTION": "L'outil de rétroaction est un modèle facultatif pour découvrir les problèmes spécifiques au niveau de la page qui affectent la performance de la tâche.",
-      "WHENTOUSE": "L'outil de r&eacute;troaction est un mod&egrave;le facultatif pour d&eacute;couvrir les probl&egrave;mes sp&eacute;cifiques au niveau de la page qui affectent la performance de la t&acirc;che.",
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/outil-retroaction.html\">Outil de rétroaction sur la page</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "L'outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l'expérience sur une page. Il ne doit être utilisé que si la rétroaction sur une page va faire l'objet d'un suivi actif et être exploitée.",
+      "WHENTOUSE": "L'outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l'expérience sur une page. Il ne doit être utilisé que si la rétroaction sur une page va faire l'objet d'un suivi actif et être exploitée.",
       "CATEGORY": " Configuration de conception",
-      "TYPE": "Interaction",
+      "TYPE": "Configuration de conception, Interaction",
       "MANDATORY": "No",
       "TANDP": "1"
     },
     {
       "NAME": "<a href=\"{{ site.urlblogue }}/2021/04/08/utilisation-de-questions-interactives.html\">Les questions interactives pour aider les gens</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "La configuration est utilisée pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever.",
+      "DESCRIPTION": "La configuration est utilisée pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l'achever.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -325,9 +352,9 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.urlblogue }}/2021/03/01/collaborer-avec-centres-appels.html\">L’importance de collaborer avec les centres d’appels</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2021/03/01/collaborer-avec-centres-appels.html\">L'importance de collaborer avec les centres d'appels</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "L’utilisation des données des centres d'appel peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes.",
+      "DESCRIPTION": "L'utilisation des données des centres d'appel peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -345,7 +372,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.urlblogue }}/2022/07/28/communiques\">Utilisation d’alertes pour maintenir la synchronisation des communiqués de presse et du contenu Web</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2022/07/28/communiques\">Utilisation d'alertes pour maintenir la synchronisation des communiqués de presse et du contenu Web</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Utilisez une alerte temporaire pour synchroniser les communications lorsque vous ne pouvez pas mettre à jour le contenu Web dans les mêmes délais que ceux prévus pour la publication d'un communiqué de presse.",
       "WHENTOUSE": "",
@@ -355,9 +382,9 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.urlblogue }}/2020/12/18/lueurs-despoir-2020.html\">2020 : lueurs d’espoir</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/12/18/lueurs-despoir-2020.html\">2020 : lueurs d'espoir</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Dire que 2020 a été parsemée de défis et d’un grand nombre de changements relève presque de l’euphémisme.  Malgré les défis, de nombreux points positifs sont à noter cette année.",
+      "DESCRIPTION": "Dire que 2020 a été parsemée de défis et d'un grand nombre de changements relève presque de l'euphémisme.  Malgré les défis, de nombreux points positifs sont à noter cette année.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -365,7 +392,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.urlblogue }}/2020/11/12/listes-de-verification-interactives.html\">Utilisation de listes de vérification interactives pour simplifier les critères d’admissibilité</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/11/12/listes-de-verification-interactives.html\">Utilisation de listes de vérification interactives pour simplifier les critères d'admissibilité</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Utiliser des listes interactives peut aider les gens à ralentir et bien comprendre les critères d'admissibilité.",
       "WHENTOUSE": "",
@@ -377,7 +404,7 @@
     {
       "NAME": "<a href=\"{{ site.urlblogue }}/2020/12/17/choisir-des-boutons.html\">Choisir le bon bouton pour la réussite des tâches</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "La façon d’utiliser le bon style de bouton dans la bonne situation peut aider les gens à mieux réussir sur votre page Web.",
+      "DESCRIPTION": "La façon d'utiliser le bon style de bouton dans la bonne situation peut aider les gens à mieux réussir sur votre page Web.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -407,7 +434,7 @@
     {
       "NAME": "<a href=\"{{ site.urlblogue }}/2020/10/09/recueillir-la-retroaction.html\">Recueillir la rétroaction, trouver les problèmes</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "En mai 2020, quelques équipes ont collaboré au lancement de l’étude pilote d’un widget pour obtenir la rétroaction des gens sur les pages Canada.ca.",
+      "DESCRIPTION": "En mai 2020, quelques équipes ont collaboré au lancement de l'étude pilote d'un widget pour obtenir la rétroaction des gens sur les pages Canada.ca.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -457,7 +484,7 @@
     {
       "NAME": "<a href=\"{{ site.urlblogue }}/2018/05/30/tout-est-question-de-dates.html\">Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Dans une étude de convivialité récente, nous avons vu des gens qui n’ont pas tenu compte des résultats de recherche de Canada.ca qui semblaient trop vieux.",
+      "DESCRIPTION": "Dans une étude de convivialité récente, nous avons vu des gens qui n'ont pas tenu compte des résultats de recherche de Canada.ca qui semblaient trop vieux.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -467,7 +494,7 @@
     {
       "NAME": "<a href=\"{{ site.urlblogue }}/2020/01/28/optimisation-recherche-vocale.html\">Optimiser votre contenu pour la recherche vocale</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Nos apprentissages sur l’amélioration des services vocaux pour les Canadiens",
+      "DESCRIPTION": "Nos apprentissages sur l'amélioration des services vocaux pour les Canadiens",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -477,7 +504,7 @@
     {
       "NAME": "<a href=\"{{ site.urlblogue }}/2020/02/05/methode-pour-mesurer.html\">Trouver la bonne méthode pour mesurer la réussite des tâches en ligne</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs.",
+      "DESCRIPTION": "Ce que nous avons appris sur les sondages de fin de visite, les tests d'utilisabilité et les analyses des entonnoirs.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -505,9 +532,9 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.urlblogue }}/2020/06/05/concevoir-pour-laccessibilite.html\">Conception axée sur l’accessibilité pendant la pandémie de la COVID-19</a>",
+      "NAME": "<a href=\"{{ site.urlblogue }}/2020/06/05/concevoir-pour-laccessibilite.html\">Conception axée sur l'accessibilité pendant la pandémie de la COVID-19</a>",
       "SOURCE": "Blogue",
-      "DESCRIPTION": "Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin.",
+      "DESCRIPTION": "Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l'accessibilité pour assurer à chacun la possibilité d'obtenir rapidement et facilement les services dont il a besoin.",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -566,7 +593,7 @@
     },
     {
       "NAME": "<a href=\"{{ site.url }}/architecture/utilisation-concept-canadaca.html\">Qui doit utiliser ce système de conception</a>",
-      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Quelles institutions doivent utiliser le système de conception de Canada.ca pour leur présence sur le Web",
       "WHENTOUSE": "",
       "CATEGORY": "",
@@ -576,7 +603,7 @@
     },
     {
       "NAME": "<a href=\"{{ site.url }}/architecture/elements-obligatoires.html\">Éléments obligatoires</a>",
-      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Ce que chaque institution doit suivre : Couleurs, typographie, en-tête et pied de page, modèles obligatoires",
       "WHENTOUSE": "",
       "CATEGORY": "",
@@ -586,7 +613,7 @@
     },
     {
       "NAME": "<a href=\"{{ site.url }}/architecture/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
-      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
       "WHENTOUSE": "",
       "CATEGORY": "",
@@ -596,7 +623,7 @@
     },
     {
       "NAME": "<a href=\"{{ site.url }}/architecture/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
-      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
       "WHENTOUSE": "",
       "CATEGORY": "",
@@ -606,7 +633,7 @@
     },
     {
       "NAME": "<a href=\"{{ site.url }}/architecture/organiser-contenu.html#toc3\">Modèle d'URL</a>",
-      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Modèle d'URL Canada.ca",
       "WHENTOUSE": "",
       "CATEGORY": "",
@@ -616,7 +643,7 @@
     },
     {
       "NAME": "<a href=\"{{ site.url }}/architecture/modeles.html#principes\">Principes de conception de Canada.ca</a>",
-      "SOURCE": "Spécifications du contenu et de l’architecture de l'information",
+      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Principes de conception de Canada.ca",
       "WHENTOUSE": "",
       "CATEGORY": "",
@@ -677,8 +704,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/theme-sujet.html\">Page de thème et de sujet</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Les pages de thème et les pages de sujet fournissent un accès aux sujets et aux pages de destination qui appuient l’achèvement des tâches.",
-      "WHENTOUSE": "Permet aux personnes de d&#233;couvrir des services et des renseignements li&#233;s &#224; un th&#232;me ou un sujet pr&#233;cis dans l’ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
+      "DESCRIPTION": "Les pages de thème et les pages de sujet fournissent un accès aux sujets et aux pages de destination qui appuient l'achèvement des tâches.",
+      "WHENTOUSE": "Permet aux personnes de d&#233;couvrir des services et des renseignements li&#233;s &#224; un th&#232;me ou un sujet pr&#233;cis dans l'ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Mod&#232;le de th&#232;me, Navigation",
       "MANDATORY": "Obligatoire",
@@ -695,7 +722,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-lois-reglements.html#profil-loi\">Page de profil d’une loi</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-lois-reglements.html#profil-loi\">Page de profil d'une loi</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Donne une description de 1 ou 2 phrases pour décrire la loi, permet aux personnes de lire la loi, and relie la loi aux sujets, aux institutions, aux ministres et aux autres lois ",
       "WHENTOUSE": "Donne une description de 1 ou 2 phrases pour d&#233;crire la loi, permet aux personnes de lire la loi, and relie la loi aux sujets, aux institutions, aux ministres et aux autres lois",
@@ -717,8 +744,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/fil-ariane.html\">Fil d'Ariane</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Représente l’emplacement de la page actuelle dans le modèle de navigation de l’utilisateur du site ",
-      "WHENTOUSE": "Repr&#233;sente l’emplacement de la page actuelle dans le mod&#232le de navigation de l’utilisateur du site - <strong>Conception obligatoire</strong>",
+      "DESCRIPTION": "Représente l'emplacement de la page actuelle dans le modèle de navigation de l'utilisateur du site ",
+      "WHENTOUSE": "Repr&#233;sente l'emplacement de la page actuelle dans le mod&#232le de navigation de l'utilisateur du site - <strong>Conception obligatoire</strong>",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction, Navigation",
       "MANDATORY": "Obligatoire",
@@ -727,8 +754,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-campagnes.html\">Pages de campagne</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, thématiques ou à l’échelle du gouvernement du Canada qui durent pendant une période donnée ",
-      "WHENTOUSE": "Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, th&#233;matiques ou &#224; l’&#233;chelle du gouvernement du Canada qui durent pendant une p&#233;riode donn&#233;e. Ne l'utilisez pas pour le contenu essentiel &#224; une t&#226;che.",
+      "DESCRIPTION": "Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, thématiques ou à l'échelle du gouvernement du Canada qui durent pendant une période donnée ",
+      "WHENTOUSE": "Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, th&#233;matiques ou &#224; l'&#233;chelle du gouvernement du Canada qui durent pendant une p&#233;riode donn&#233;e. Ne l'utilisez pas pour le contenu essentiel &#224; une t&#226;che.",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Promotion",
       "MANDATORY": "Non",
@@ -895,10 +922,10 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-index.html#facettes\">Page d’index à facettes</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-index.html#facettes\">Page d'index à facettes</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Utilisez-le pour présenter une liste de plus de 100 liens connexes qui peuvent être filtrés - indique le nombre de résultats utilisant des facettes.",
-      "WHENTOUSE": "Utilisez pour pr&#233;senter une liste de plus de 100 liens connexes pouvant &#234;tre filtr&#233;s &#224; l’aide de m&#233;tadonn&#233;es. Affiche les r&#233;sultats &#224; l'aide de facettes.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter une liste de plus de 100 liens connexes pouvant &#234;tre filtr&#233;s &#224; l'aide de m&#233;tadonn&#233;es. Affiche les r&#233;sultats &#224; l'aide de facettes.",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Navigation",
       "MANDATORY": "Non",
@@ -908,7 +935,7 @@
       "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-index.html#filtre\">Page avec filtres</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Utilisez-le pour présenter une liste de plus de 100 liens connexes qui peuvent être filtrés.",
-      "WHENTOUSE": "Utilisez pour pr&#233;senter une liste de plus de 100 liens connexes pouvant &#234;tre filtr&#233;s &#224; l’aide de m&#233;tadonn&#233;es. Utilisez lorsqu’il faut permettre aux personnes de cr&#233;er des requ&#234;tes simples par rapport &#224; une grande quantit&#233; de r&#233;sultats.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter une liste de plus de 100 liens connexes pouvant &#234;tre filtr&#233;s &#224; l'aide de m&#233;tadonn&#233;es. Utilisez lorsqu'il faut permettre aux personnes de cr&#233;er des requ&#234;tes simples par rapport &#224; une grande quantit&#233; de r&#233;sultats.",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Navigation",
       "MANDATORY": "Non",
@@ -927,8 +954,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/signature.html\">Signature du gouvernement du Canada</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "La signature du gouvernement du Canada définie dans les instruments stratégiques du Programme de coordination de l’image de marque (PCIM) ",
-      "WHENTOUSE": "La signature du gouvernement du Canada d&#233;finie dans les instruments strat&#233;giques du Programme de coordination de l’image de marque (PCIM) est mise en &#233;vidence dans l’en-t&#234;te g&#233;n&#233;ral du site Web Canada.ca. - <strong>Conception obligatoire</strong>",
+      "DESCRIPTION": "La signature du gouvernement du Canada définie dans les instruments stratégiques du Programme de coordination de l'image de marque (PCIM) ",
+      "WHENTOUSE": "La signature du gouvernement du Canada d&#233;finie dans les instruments strat&#233;giques du Programme de coordination de l'image de marque (PCIM) est mise en &#233;vidence dans l'en-t&#234;te g&#233;n&#233;ral du site Web Canada.ca. - <strong>Conception obligatoire</strong>",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Configuration &#224; l'&#233;chelle du site, Visuel",
       "MANDATORY": "Obligatoire",
@@ -937,8 +964,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/pages-publics-cibles.html\">Page de public cible à l'échelle du gouvernement</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Donne accès aux renseignements et aux services pertinents pour le public cible de l’ensemble du gouvernement ",
-      "WHENTOUSE": "Donne acc&#232;s aux renseignements et aux services pertinents pour le public cible de l’ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
+      "DESCRIPTION": "Donne accès aux renseignements et aux services pertinents pour le public cible de l'ensemble du gouvernement ",
+      "WHENTOUSE": "Donne acc&#232;s aux renseignements et aux services pertinents pour le public cible de l'ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Mod&#232;le de th&#232;me",
       "MANDATORY": "Obligatoire",
@@ -955,7 +982,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/page-accueil.html\">Page d’accueil de Canada.ca</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/page-accueil.html\">Page d'accueil de Canada.ca</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Affiche les produits et services du gouvernement du Canada les plus vus et les plus importants ",
       "WHENTOUSE": "Affiche les produits et services du gouvernement du Canada les plus vus et les plus importants",
@@ -985,7 +1012,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/table-matiere-interieur.html\">Table des matières à l’intérieur de la page</a>",
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/table-matiere-interieur.html\">Table des matières à l'intérieur de la page</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Liste de liens dirigeant vers des sous-sections de la même page ",
       "WHENTOUSE": "Liste de liens dirigeant vers des sous-sections de la m&#234;me page",
@@ -997,8 +1024,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/institution-responsable.html\">Institution responsable</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Lien vers l’institution responsable du contenu ",
-      "WHENTOUSE": "Lien vers l’institution responsable du contenu",
+      "DESCRIPTION": "Lien vers l'institution responsable du contenu ",
+      "WHENTOUSE": "Lien vers l'institution responsable du contenu",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Institutionnel",
       "MANDATORY": "Non",
@@ -1017,8 +1044,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/questions-interactives.html\">Questions interactives</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Utilisez pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever.",
-      "WHENTOUSE": "Utilisez pour pr&#233;senter une s&#233;quence de questions simples qui m&#232;nent &#224; la r&#233;ponse dont les personnes ont besoin pour poursuivre leur t&#226;che ou l’achever",
+      "DESCRIPTION": "Utilisez pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l'achever.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter une s&#233;quence de questions simples qui m&#232;nent &#224; la r&#233;ponse dont les personnes ont besoin pour poursuivre leur t&#226;che ou l'achever",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Destination, Navigation",
       "MANDATORY": "Non",
@@ -1055,7 +1082,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-index.html#long\">Page d’index long</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-index.html#long\">Page d'index long</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Utiliser pour présenter une liste de plus de 50 liens connexes sans description.",
       "WHENTOUSE": "Utilisez pour pr&#233;senter une liste de plus de 50 liens connexes sans description",
@@ -1077,8 +1104,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/autres-renseignements.html\">Autres renseignements pour les</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Utilisez pour lier à une page connexe d’un public cible à l’échelle du gouvernement.",
-      "WHENTOUSE": "Utilisez pour lier &#224; une page connexe d’un public cible &#224; l’&#233;chelle du gouvernement",
+      "DESCRIPTION": "Utilisez pour lier à une page connexe d'un public cible à l'échelle du gouvernement.",
+      "WHENTOUSE": "Utilisez pour lier &#224; une page connexe d'un public cible &#224; l'&#233;chelle du gouvernement",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Navigation",
       "MANDATORY": "Non",
@@ -1105,7 +1132,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/pages-nouvelles.html#accueil\">Page d’accueil des nouvelles</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/pages-nouvelles.html#accueil\">Page d'accueil des nouvelles</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Donne accès aux produits de nouvelles du gouvernement du Canada ",
       "WHENTOUSE": "Donne acc&#232;s aux produits de nouvelles du gouvernement du Canada",
@@ -1155,7 +1182,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html\">Profil de partenariat ou d’entente de collaboration</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html\">Profil de partenariat ou d'entente de collaboration</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Donne un aperçu du mandat, des renseignements et des services du partenariat ou de l'entente de collaboration ",
       "WHENTOUSE": " Donne un aper&#231;u du mandat, des renseignements et des services du partenariat ou de l'entente de collaboration",
@@ -1185,7 +1212,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-lois-reglements.html#profil-reglement\">Page de profil d’un règlement</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-lois-reglements.html#profil-reglement\">Page de profil d'un règlement</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Donne une description de 1 ou 2 phrases pour décrire le règlement, permet aux personnes de lire le règlement, et relie le règlement aux sujets, aux institutions, aux ministres et aux autres lois.",
       "WHENTOUSE": "D&#233;crit une activit&#233; de consultation ou de mobilisation. Fournit l'&#233;tat et les r&#233;sultats de l'initiative, des documents g&#233;n&#233;raux, des donn&#233;es et des renseignements au sujet d'&#233;v&#233;nements pr&#233;vus ou achev&#233;s.",
@@ -1207,8 +1234,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/signaler-probleme.html\">Signaler un problème sur cette page</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Permet aux gens de fournir une rétroaction au moyen d’un formulaire pour tous les problèmes qu’ils ont pu rencontrer ",
-      "WHENTOUSE": "Permet aux gens de fournir une r&#233;troaction au moyen d’un formulaire pour tous les probl&#232;mes qu’ils ont pu rencontrer",
+      "DESCRIPTION": "Permet aux gens de fournir une rétroaction au moyen d'un formulaire pour tous les problèmes qu'ils ont pu rencontrer. Nous mettons la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; hors service. Nous vous déconseillons d'ajouter cette configuration à vos pages.",
+      "WHENTOUSE": "Permet aux gens de fournir une rétroaction au moyen d'un formulaire pour tous les problèmes qu'ils ont pu rencontrer. Nous mettons la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; hors service. Nous vous déconseillons d'ajouter cette configuration à vos pages.",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
       "MANDATORY": "Non",
@@ -1225,7 +1252,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-lancement-service.html\">Pages de lancement d’un service</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-lancement-service.html\">Pages de lancement d'un service</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Fournit aux personnes les renseignements dont elles ont besoin avant de commencer la tâche, en expliquant les critères d'admissibilité ou les étapes à suivre, par exemple ",
       "WHENTOUSE": "Fournit aux personnes les renseignements dont elles ont besoin avant de commencer la tâche, en expliquant les crit&#232;res d'admissibilit&#233; ou les &#233;tapes &#224; suivre, par exemple. Fournit un acc&#232;s facile aux normes de service, aux d&#233;lais de traitement, aux services connexes, aux guides et &#224; l'aide.",
@@ -1255,7 +1282,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-index.html#court\">Page d’index court</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-index.html#court\">Page d'index court</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Utilisez pour présenter une liste de 10 à 50 liens connexes sans description textuelle.",
       "WHENTOUSE": "Utilisez pour pr&#233;senter une liste de 10 &#224; 50 liens connexes sans description",
@@ -1277,8 +1304,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/champ-recherche.html\">Champ de recherche du site</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Permet d’effectuer une recherche dans tout le contenu du gouvernement du Canada",
-      "WHENTOUSE": "Permet d’effectuer une recherche dans tout le contenu du gouvernement du Canada - <strong>Conception obligatoire</strong>",
+      "DESCRIPTION": "Permet d'effectuer une recherche dans tout le contenu du gouvernement du Canada",
+      "WHENTOUSE": "Permet d'effectuer une recherche dans tout le contenu du gouvernement du Canada - <strong>Conception obligatoire</strong>",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
       "MANDATORY": "Obligatoire",
@@ -1307,8 +1334,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/interface-onglets.html\">Interface à onglets</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Répartit le contenu entre différentes fenêtres que l’on peut consulter une à la fois ",
-      "WHENTOUSE": "R&#233;partit le contenu entre diff&#233;rentes fen&#234;tres que l’on peut consulter une &#224; la fois ",
+      "DESCRIPTION": "Répartit le contenu entre différentes fenêtres que l'on peut consulter une à la fois ",
+      "WHENTOUSE": "R&#233;partit le contenu entre diff&#233;rentes fen&#234;tres que l'on peut consulter une &#224; la fois ",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Navigation",
       "MANDATORY": "Non",
@@ -1347,8 +1374,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/ce-que-nous-faisons.html\">Ce que nous faisons</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Utilisez pour présenter des liens vers du contenu qui fournit des renseignements généraux ou des explications des activités du gouvernement du Canada à l’appui de la création ou de l’amélioration des politiques publiques.",
-      "WHENTOUSE": "Utilisez pour pr&#233;senter des liens vers du contenu qui fournit des renseignements g&#233;n&#233;raux ou des explications des activit&#233;s du gouvernement du Canada &#224; l’appui de la cr&#233;ation ou de l’am&#233;lioration des politiques publiques",
+      "DESCRIPTION": "Utilisez pour présenter des liens vers du contenu qui fournit des renseignements généraux ou des explications des activités du gouvernement du Canada à l'appui de la création ou de l'amélioration des politiques publiques.",
+      "WHENTOUSE": "Utilisez pour pr&#233;senter des liens vers du contenu qui fournit des renseignements g&#233;n&#233;raux ou des explications des activit&#233;s du gouvernement du Canada &#224; l'appui de la cr&#233;ation ou de l'am&#233;lioration des politiques publiques",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Institutionnel",
       "MANDATORY": "Non",

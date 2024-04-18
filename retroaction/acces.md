@@ -33,7 +33,7 @@ On peut consulter et télécharger la rétroaction sous forme de fichiers CSV ou
 
 Le visualiseur de rétroaction est un environnement protégé par un mot de passe, accessible à tous les participants de la rétroaction sur les pages. Contactez le DTO pour accéder au site.
 
-Adresse courriel&nbsp;: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+Adresse courriel&nbsp;: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ### Filtres du visualiseur de rétroaction
 

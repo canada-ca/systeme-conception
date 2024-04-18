@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/about-page-feedback.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2024-04-17
 description: null
 title: Comment fonctionne l’outil de rétroaction sur la page
 ---
@@ -22,7 +22,6 @@ title: Comment fonctionne l’outil de rétroaction sur la page
 * [Conception de l’outil de rétroaction](#conception-de-loutil-de-rétroaction)
 * [Protéger les renseignements personnels](#protéger-les-renseignements-personnels)
 
-L’outil de rétroaction sur la page en est encore à la phase pilote. Cela signifie que vous pouvez utiliser l’outil, mais sachez que son apparence ou son codage pourrait changer ultérieurement.
 
 ## Pourquoi recueillir la rétroaction des utilisateurs
 
@@ -52,18 +51,55 @@ L’outil de rétroaction invite les visiteurs à&nbsp;:
 	</figure>
 </details>
 
-<details>
-	<summary>Image des options après avoir cliqué sur «&nbsp;Non&nbsp;»</summary>
-  <figure class="mrgn-tp-lg">
-    <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="images/description-fr.jpg" />
-    <figcaption>
-      <details>
-        <summary>Outil de rétroaction</summary>
-        <p>Il y a le texte «&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum 300 caractères&nbsp;», suivi d’un champ de texte pour fournir plus de détails.</p>
-      </details>
-    </figcaption>
-  </figure>
-</details>
+<div class="row">
+    <div class="col-md-8">
+      <div class="mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+          <figcaption>
+            <h4>1. Première vue de l'outil de rétroaction</h4>
+          </figcaption>
+          <img src="/images/page-feedback-fr.png" class="img-responsive" alt="1. Première vue de l'outil de rétroaction. Version texte ci-dessous&nbsp;:" />
+          <details>
+            <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Première vue de l'outil de rétroaction</summary>
+            <p class="mrgn-tp-md">Sur la page, la section consacrée à la rétroaction se trouve en bas de la page Web, juste au-dessus de la date de modification. Un petit encadré gris demande &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo; et affiche les boutons &laquo;&nbsp;Oui&nbsp;&raquo; et &laquo;&nbsp;Non&nbsp;&raquo;.</p>
+          </details>
+        </figure>
+      </div>
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption>
+          <h4>2a. Vue par défaut après avoir sélectionné &laquo;&nbsp;Non&nbsp;&raquo;</h4>
+        </figcaption>
+        <img src="/images/description-fr.jpg" class="img-responsive" alt="2a. Vue par défaut après avoir sélectionné Non. Version texte ci-dessous&nbsp;:" />
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;:  Vue par défaut après avoir sélectionné « Non »</summary>
+          <p class="mrgn-tp-md">Après l'interaction avec le bouton &laquo;&nbsp;Non&nbsp;&raquo;, la question est remplacée par un écran comportant un champ de texte. Celui-ci affiche le titre &laquo;&nbsp;Veuillez fournir plus de détails&nbsp;&raquo;, suivi des instructions de ne pas inclure de renseignements personnels&nbsp;: &laquo;&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères&nbsp;&raquo;. Un petit champ de texte est suivi d'un bouton &laquo;&nbsp;Soumettre&nbsp;&raquo;.</p>
+        </details>
+      </figure>
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption>
+          <h4>2b. Vue optionnelle après avoir sélectionné &laquo;&nbsp;Non&nbsp;&raquo; avec l'option de contact</h4>
+          <p>La configuration de style afficher/masquer &laquo;&nbsp;Besoin d'aide urgente pour résoudre un problème? Communiquez avec nous&nbsp;&raquo; sera réduite par défaut.</p>
+        </figcaption>
+        <img src="/images/urgent-help-fr.png" class="img-responsive" alt="2b. Vue optionnelle après avoir sélectionné Non avec l'option de contact. Version texte ci-dessous&nbsp;:" />
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Vue optionnelle après avoir sélectionné « Non » avec l'option de contact</summary>
+          <p class="mrgn-tp-md">Après l'interaction avec le bouton &laquo;&nbsp;Non&nbsp;&raquo;, la question est remplacée par un écran comportant un champ de texte.</p>
+          <p>Dans l'option de contact, une configuration de style afficher/masquer porte le titre &laquo;&nbsp;Besoin d'aide urgente pour résoudre un problème? Communiquez avec nous.&nbsp;&raquo; Lorsque la configuration afficher/masquer est ouverte, un lien personnalisable permettant de contacter le service s'affiche.</p>
+          <p>Après la configuration afficher/masquer vient le titre &laquo;&nbsp;Veuillez fournir plus de détails&nbsp;&raquo;, suivi des instructions de ne pas inclure de renseignements personnels&nbsp;: &laquo;&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères&nbsp;&raquo;. Un petit champ de texte est suivi d'un bouton &laquo;&nbsp;Soumettre&nbsp;&raquo;.</p>
+        </details>
+      </figure>
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption>
+          <h4>3. Vue après avoir sélectionné &laquo;&nbsp;Oui&nbsp;&raquo; ou après avoir soumis la rétroaction</h4>
+        </figcaption>
+        <img src="/images/thank-you-fr.jpg" class="img-responsive" alt="3. Vue après avoir sélectionné Oui ou après avoir soumis la rétroaction. Version texte ci-dessous&nbsp;:" />
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Vue après avoir sélectionné « Oui » ou après avoir soumis la rétroaction</summary>
+          <p class="mrgn-tp-md">Lorsqu'un utilisateur sélectionne &laquo;&nbsp;Oui&nbsp;&raquo; comme réponse à la première question ou lorsqu'il soumet sa rétroaction, un message de remerciement apparaît. Une icône coche verte apparaît, suivie du titre &laquo;&nbsp;Merci de vos commentaires&nbsp;&raquo;</p>
+        </details>
+      </figure>
+    </div>
+  </div>
 
 ## Protéger les renseignements personnels
 
@@ -77,6 +113,9 @@ Des filtres sont en place pour supprimer ces types courants de renseignements pe
 * Gros mots
 
 Lorsque les renseignements personnels sont nettoyés automatiquement, ils sont remplacés par des dièses (###).
+
+Lorsque les mots profanes sont supprimés, ils sont remplacés par des astérisques (\*\*\*).
+
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
     <li class="next"><a href="quand.html" rel="next">Suivant&nbsp;: Quand utiliser l’outil de rétroaction</a></li>
