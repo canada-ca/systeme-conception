@@ -139,7 +139,7 @@ title: "Promotions contextuelles"
   <p>Trouvez des exemples pratiques pour procéder à la mise en œuvre de la configuration de conception des promotions contextuelles.</p>
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <ul>
-    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-features/gc-features-doc-fr.html">Promotions contextuelles (Boîte à outils de l’expérience Web)</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-features/gc-features-fr.html">Promotions contextuelles - GCWeb</a></li>
   </ul>
   <h3>Mises en œuvre</h3>
   <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
