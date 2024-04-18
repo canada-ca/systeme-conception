@@ -57,7 +57,7 @@ title: Page d’accueil institutionnelle
                     </thead>
                     <tbody>
                         <tr>
-                            <td><a href="../configurations-conception-communes/block-introduction.html">Bloc d’introduction</a></td>
+                            <td><a href="../configurations-conception-communes/bloc-introduction.html">Bloc d’introduction</a></td>
                             <td>
                                 <p>Utilisez le titre d’usage de l’institution (voir le <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Registre des titres d’usage</a>).</p>
                                 <p>La description doit être un très bref résumé de ce que fait l’institution.</p>
@@ -302,7 +302,7 @@ title: Page d’accueil institutionnelle
     <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
     <p>La référence à l’implémentation explique la façon de configurer chaque élément de la page d’accueil institutionnelle.</p>
     <ul>
-        <li><a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-fr.html">Modèle institutionnel – GCWeb</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/templates/institutional-landing/institutional-landing-fr.html">Modèle institutionnel – GCWeb</a></li>
     </ul>
     <h3>Mises en œuvre</h3>
     <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
