@@ -19,10 +19,21 @@ title: Comment accéder aux résultats et aux rapports du sondage
 
 ## Sur cette page
 
-- [Téléchargement des données brutes du sondage](#téléchargement-des-données-brutes-du-sondage)
-- [Rapports annuels du sondage](#rapports-du-sondage)
 
-## Téléchargement des données brutes du sondage
+
+
+
+- [Données brutes du sondage](#données-brutes-du-sondage)
+- [Résultats du trimestre courant](#résultats-du-trimestre-courant)
+- [Résultats des sondages annuels et trimestriels antérieurs](#résultats-des-sondages-annuels-et-trimestriels-antérieurs)
+
+
+
+## Données brutes du sondage
+
+Il s’agit de la meilleure option si vous cherchez à télécharger des données assujetties à une période personnalisée.
+
+Les données brutes du sondage n’ont pas été traitées aux fins de continuité de la notation dans le cas où les tâches changeraient d’intitulé d’un trimestre à l’autre. Par exemple : en avril 2024, le SCT a mis à jour l’intitulé de la tâche « Lire une convention collective de la fonction publique » et l’a remplacé par « Trouver une convention collective ». Pour obtenir les résultats associés à cette tâche, vous devrez chercher à l’aide des deux intitulés de tâche.
 
 Téléchargez les réponses au sondage et les commentaires sous forme de fichiers CSV ou Excel à l’aide du visualiseur de commentaires.
 
@@ -34,7 +45,14 @@ Les instructions concernant le mot de passe se trouvent sur [GCPedia (accessible
 {: .alert .alert-info}
 
 
-## Rapports du sondage
+## Résultats du trimestre courant
+
+### Navigateur de résultats du sondage sur la réussite des tâches (SRT) du GC — Nouveauté — Mai 2024
+
+
+
+
+## Résultats des sondages annuels et trimestriels antérieurs
 
 Téléchargez les résultats et les rapports annuels et trimestriels du Sondage sur la réussite des tâches du GC
 
