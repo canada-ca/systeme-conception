@@ -64,7 +64,9 @@ Chaque grappe comprend :
 * Le nombre de commentaires compris dans la grappe
 * Cinq commentaires reflétant bien le thème général de la grappe
 
-  <img src="images/groupes.png" alt="Un groupe de commentaires contient un numéro de groupe, le pourcentage de commentaires que ce groupe représente et un échantillon de mots-clés." class="img-responsive mrgn-bttm-md" />
+  <img style="border:1px solid black;" src="images/groupes.png" alt="Exemple de regroupement avec des mots-clés descriptifs." class="img-responsive mrgn-bttm-md" />
+
+  <div class="well well-sm">Un groupe de commentaires contient un numéro de groupe, le pourcentage de commentaires que ce groupe représente et un échantillon de mots-clés.</div>
 
 <details>
 <summary>
