@@ -57,7 +57,7 @@ Contactez l’Éditeur principal pour les questions relatives à&nbsp;:
 
 Soumettez une demande au Bureau de service en utilisant les catégories suivantes dans les menus déroulants&nbsp;:
 
-<table class="table wb-tables table-striped">
+<table class="table table-striped">
 	<caption></caption>
 	<tbody>
 		<tr>
