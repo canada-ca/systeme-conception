@@ -49,7 +49,7 @@ Les instructions concernant le mot de passe se trouvent sur [GCPedia (accessible
 
 ### Navigateur de résultats du sondage sur la réussite des tâches (SRT) du GC — Nouveauté — Mai 2024
 
-À compter de mai 2024, vous pouvez parcourir les résultats trimestriels du sondage en ligne.
+À compter de juin 2024, vous pouvez parcourir les résultats trimestriels du sondage en ligne.
 
 <!--[Navigateur de résultats du SRT du GC](https://analytics-analytique.tbs.alpha.canada.ca/fr/) (accessible sur le réseau du GC seulement).-->
 
