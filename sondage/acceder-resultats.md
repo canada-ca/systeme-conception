@@ -47,13 +47,13 @@ Les instructions concernant le mot de passe se trouvent sur [GCPedia (accessible
 
 ## Résultats du trimestre courant
 
-### Navigateur de résultats du sondage sur la réussite des tâches (SRT) du GC — Nouveauté — Mai 2024
+<!--### Navigateur de résultats du sondage sur la réussite des tâches (SRT) du GC — Nouveauté — Mai 2024
 
-À compter de juin 2024, vous pouvez parcourir les résultats trimestriels du sondage en ligne.
+À compter de juin 2024, vous pouvez parcourir les résultats trimestriels du sondage en ligne.-->
 
 <!--[Navigateur de résultats du SRT du GC](https://analytics-analytique.tbs.alpha.canada.ca/fr/) (accessible sur le réseau du GC seulement).-->
 
-Vous pouvez les parcourir par thème ou par ministère, puis cibler les résultats de tâches précises.
+<!--Vous pouvez les parcourir par thème ou par ministère, puis cibler les résultats de tâches précises.
 
 Les données du navigateur ont été traitées aux fins de continuité de la notation dans le cas où les tâches changeraient d’intitulé d’un trimestre à l’autre. Par exemple : en avril 2024, le SCT a mis à jour l’intitulé de la tâche « Lire une convention collective de la fonction publique » et l’a remplacé par « Trouver une convention collective ».  
 
@@ -92,7 +92,7 @@ En savoir plus sur les méthodes de science des données utilisées pour le grou
 
 <p>Au fur et à mesure que la technologie évolue, nous continuerons à rechercher des méthodes d’analyse de la rétroaction qui pourraient nous rapprocher de l’obtention de résumés en langage clair des problèmes soulevés dans les commentaires.</p>
 
-</details>
+</details>-->
 
 
 
