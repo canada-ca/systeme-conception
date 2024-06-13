@@ -11,7 +11,11 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
 </div>
 <div id="expand-collapse">
-    <details open="open">
+  <details open="open">
+    <summary>3 avril 2024</summary>
+    <p>Modèle de <a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html#latest">page d'accueil institutionnelle</a> stabilisé avec documentation distincte pour chaque composant.</p>
+  </details>
+    <details>
     <summary>19 février 2024</summary>
     <p>Mise à jour du <a href="{{ site.url }}/styles/typographie.html">style Typographie</a> pour inclure les spécifications de conception relatives au nouveau style du titre principal des pages (H1).</p>
   </details>
