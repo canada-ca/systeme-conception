@@ -92,7 +92,7 @@ Il existe un certain nombre de mesures à court, moyen et long terme qui peuvent
 * Décider des tâches prioritaires qui doivent être améliorées ([en savoir plus sur le choix des tâches à améliorer](decider.html))
 * Utiliser les résultats du sondage et les commentaires des utilisateurs afin de justifier les améliorations plus importantes du service ou du contenu.
 * Collecter des mesures de base avant de modifier le contenu, les services ou les politiques.
-* Envisager l’ajout d’un [outil de rétroaction](https://conception.canada.ca/amelioration-continue/mesure/retroaction.html) sur les pages afin de mieux comprendre les points faibles des pages spécifiques.
+* Envisager l’ajout d’un [outil de rétroaction](https://conception.canada.ca/retroaction/index.html) sur les pages afin de mieux comprendre les points faibles des pages spécifiques.
 * Surveiller les modifications dans les résultats et les commentaires tout en apportant des améliorations.
 
 ## Études de cas
