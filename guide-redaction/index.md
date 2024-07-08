@@ -530,19 +530,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-remplacez-les-noms-par-des-verbes"><cite>Clés de la rédaction</cite>&nbsp;: Communication claire&nbsp;: remplacez les noms par des verbes
 </a></li>
     </ul>
-    <h4 id="wp2-4-5">Avoid noun strings</h4>
-    <p>Don’t use a group of 2 or more nouns to modify another noun.</p>
-    <p>These noun strings are hard to understand. They force people to do a lot of unpacking to get at what the phrase means.</p>
+    <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
-      <li><b>Write</b>: standards for post-mortem evaluation of food animal carcasses<br>
-      <b>Instead of</b>: Food Animal Carcass Post-mortem Evaluation Standards</li>
-    </ul>
-    <h4>See how this rule applies in French:</h4>
-    <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-4">2.4 Rédigez avec la voix active, directe, et affirmative</a></span></li>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-4">2.4 Write in the active and positive form</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " write in the active and positive form ", "title": "2.4 Write in the active and positive form ", "url": "https://design.canada.ca/style-guide/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  rédiger avec la voix active, directe, et affirmative ", "title": "2.4 Rédiger avec la voix active, directe, et affirmative", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
     </div>
   </section>
   <section id="wp2-5">
