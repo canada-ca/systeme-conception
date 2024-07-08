@@ -441,40 +441,30 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </div>
   </section>
   <section id="wp2-3">
-    <h3>2.3 Utiliser la voix active et la forme positive</h3>
-    <p>Lorsque c'est possible, utilisez la&nbsp;:</p>
+    <h3>2.3 Utiliser des termes familiers</h3>
+    <p>Choisissez des mots familiers que le grand public comprend et utilise.</p>
+    <p>Les mots courants peuvent inclure des mots techniques que votre public cible connaît bien. Quand vous devez inclure des termes techniques, expliquez-les à l’aide de mots courts, clairs et simples à comprendre. Vous pouvez aussi donner un exemple pour aider les non-spécialistes à comprendre.</p>
+    <h4>Exemples de mots familiers et communs</h4>
+    <p><strong>Écrivez</strong>&nbsp;: demander<br>
+      <strong>Au lieu de</strong>&nbsp;: faire une requête</p>
+    <p><strong>Écrivez</strong>&nbsp;: assez de<br>
+      <strong>Au lieu de</strong>&nbsp;: un nombre suffisant de</p>
+    <p><strong>Écrivez</strong>&nbsp;: si<br>
+      <strong>Au lieu de</strong>&nbsp;: dans la mesure où</p>
+    <p><strong>Écrivez</strong>&nbsp;: avant<br>
+      <strong>Au lieu de</strong>&nbsp;: préalablement</p>
+    <p><strong>Écrivez</strong>&nbsp;: tous les 2 ans<br>
+      <strong>Au lieu de</strong>&nbsp;: bisannuellement</p>
+    <h4>Exemple d’explication d’un terme technique</h4>
+    <p><b>Écrivez</b>&nbsp;: Encéphalopathie spongiforme bovine (ESB), également connue sous le nom de maladie de la vache folle</p>
+    <p><b>Au lieu de</b>&nbsp;: Encéphalopathie spongiforme bovine</p>
+    <p>Remplacez les mots longs et compliqués par des mots plus courts et simples que la plupart des gens comprennent et utilisent tous les jours. En général, les mots simples ont 2 syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
+    <h4>See how this rule applies in French:</h4>
     <ul>
-      <li>voix active plutôt que la voix passive;</li>
-      <li>forme positive plutôt que la forme négative.</li>
-    </ul>
-    <section id="wp2-3-1">
-      <h4>Voix active ou passive</h4>
-      <p>Dans une phrase à la voix active, le sujet fait l'action. La phrase est claire et directe.</p>
-      <p>Dans une phrase à la voix passive, il n'est pas toujours facile de savoir qui (ou quoi) fait l'action.</p>
-      <h5>Exemples de constructions active et passive</h5>
-      <p><strong>Construction active</strong>&nbsp;: Vous devrez peut-être fournir une preuve de citoyenneté.<br>
-        <strong>Construction passive</strong>&nbsp;: Une preuve de citoyenneté sera peut-être exigée. </p>
-    </section>
-    <section id="wp2-3-2">
-      <h4>Forme positive ou négative</h4>
-      <p>Lorsque c'est possible, dites ce que la personne peut ou doit faire plutôt que ce qu'elle ne peut ou ne doit pas faire. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
-      <h5>Exemples de formes positives et négatives</h5>
-      <p><strong>Forme positive</strong>&nbsp;: Vous pouvez déduire une partie du montant à la&nbsp;ligne 147 de votre déclaration de revenus.<br>
-        <strong>Forme négative</strong>&nbsp;: Vous ne pouvez déduire qu'une partie du montant de la&nbsp;ligne 147 de votre déclaration de revenus. </p>
-      <p><strong>Forme positive</strong>&nbsp;: La procédure sera efficace.<br>
-        <strong>Double négation</strong>&nbsp;: La procédure ne sera pas inefficace. </p>
-      <p><strong>Forme positive</strong>&nbsp;: Vous pouvez demander une déduction pour un enfant à charge né en 1972 ou avant si cet enfant a une déficience mentale ou physique.<br>
-        <strong>Double négation</strong>&nbsp;: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n'ait une déficience mentale ou physique. </p>
-      <p class="mrgn-tp-lg">Lorsqu'une action risque d'entraîner de graves conséquences, vous pouvez utiliser la forme négative pour expliquer que l'action est impossible ou doit être évitée.</p>
-      <h5>Exemples d'utilisation de la forme négative pour quelque chose pouvant avoir des conséquences graves</h5>
-      <p><strong>Écrivez&nbsp;: N</strong>'essayez <strong>pas</strong> de trouver la source de monoxyde de carbone. Sortez immédiatement pour respirer de l'air frais.</p>
-    </section>
-    <h4>Voyez comment la règle sur l'utilisation de la voix active et de la forme positive s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use active voice and positive form</a></span></li>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Éviter le jargon et les expressions familières ou imagées</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de la voix active et de la forme positive", "title": "2.3 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " use familiar words", "title": "2.3 Use familiar words", "url": "https://design.canada.ca/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
     </div>
   </section>
   <section id="wp2-4">
