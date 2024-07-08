@@ -21,7 +21,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#toc3">Application</a></li>
             <li><a href="#toc4">Politiques, normes et procédures connexes</a></li>
             <li><a href="#toc5">1.0 Principes de rédaction pour le contenu Web</a></li>
-            <li><a href="#toc6">2.0 Langage clair et simple</a></li>
+            <li><a href="#toc6">2.0 Communiquer avec clarté grâce au langage clair</a></li>
             <li><a href="#toc7">3.0 Ton</a></li>
             <li><a href="#toc8">4.0 Style de présentation</a></li>
             <li><a href="#toc9">5.0 Structure du contenu</a></li>
@@ -202,33 +202,45 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
 </section>
 <section id="toc6">
-  <h2>2.0 Langage clair et simple</h2>
+  <h2>2.0 Communiquer avec clarté grâce au langage clair</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
       <div class="panel panel-default">
         <div class="panel-body">
           <h3 class="mrgn-tp-sm">Dans cette section</h3>
+          <p><a href="#wp2-0">Exigences en matière de langage clair et simple</a></p>
           <ul>
-            <li><a href="#wp2-1">2.1 Commencer par les renseignements les plus importants</a></li>
-            <li><a href="#wp2-2">2.2 Utiliser des mots simples et courants</a></li>
-            <li><a href="#wp2-3">2.3 Utiliser la voix active et la forme positive </a>
+          <li><a href="#wp2-1">2.1 Introduction au langage clair&nbsp;: rédiger pour faciliter la lecture</a>
               <ul>
-                <li><a href="#wp2-3-1">Voix active ou passive </a></li>
-                <li><a href="#wp2-3-2">Forme positive ou négative</a></li>
+                <li><a href="#wp2-1-1">Style</a></li>
+                <li><a href="#wp2-1-2">Structure</a></li>
+                <li><a href="#wp2-1-3">Simplifier et réviser</a></li>
+                <li><a href="#wp2-1-4">Évitez les outils d’analyse de la lisibilité</a></li>
               </ul>
             </li>
-            <li><a href="#wp2-4">2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</a></li>
-            <li><a href="#wp2-5">2.5 Éviter le jargon et les expressions familières ou imagées</a></li>
-            <li><a href="#wp2-6">2.6 Utiliser des phrases simples</a></li>
-            <li><a href="#wp2-7">2.7 Utiliser des phrases et des paragraphes courts</a></li>
-            <li><a href="#wp2-8">2.8 Expliquer les références aux lois</a></li>
-            <li><a href="#wp2-9">2.9 Vérifier la lisibilité de votre contenu </a>
-              <ul>
-                <li><a href="#wp2-9-1">Utiliser un outil d'analyse de la lisibilité</a></li>
-                <li><a href="#wp2-9-2">Exigences de niveau de compétence en lecture</a></li>
-                <li><a href="#wp2-9-3">Vérifier si le contenu est facile à comprendre</a></li>
+           <li><a href="#wp2-2">2.2 Commencer par les renseignements les plus importants</a>
+             <ul>
+                <li><a href="#wp2-2-1">Pyramide inversée</a></li>
+                <li><a href="#wp2-2-2">Aller droit au but</a></li>
               </ul>
             </li>
+            <li><a href="#wp2-3">2.3 Utiliser des termes familiers</a></li>
+            <li><a href="#wp2-4">2.4 Rédiger avec la voix active, directe, et affirmative</a>
+             <ul>
+                <li><a href="#wp2-4-1">Écrire à la voix active</a></li>
+                <li><a href="#wp2-4-2">Éviter la voix passive</a></li>
+                <li><a href="#wp2-4-3">Utiliser la forme affirmative</a></li>
+                <li><a href="#wp2-4-4">Utiliser des verbes plutôt que des noms formés à partir de verbes</a></li>
+              </ul>
+            </li>
+             <li><a href="#wp2-5">2.5 Éviter le jargon et les expressions familières ou imagées</a>
+              <ul>
+                <li><a href="#wp2-5-1">Déterminer les mots-clés que votre public utilise pour trouver votre contenu</a></li>
+              </ul>
+            </li>
+            <li><a href="#wp2-6">2.6 Utiliser des phrases et paragraphes simples et concis</a></li>
+            <li><a href="#wp2-7">2.7 Éviter les références aux lois</a></li>
+            <li><a href="#wp2-8">2.8 Liens vers des ressources externes sur le langage clair</a></li>
           </ul>
         </div>
       </div>
