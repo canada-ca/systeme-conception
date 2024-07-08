@@ -385,25 +385,59 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </div>
   </section>
   <section id="wp2-2">
-    <h3>2.2 Utiliser des mots simples et courants</h3>
-    <p>Remplacez les mots longs par des mots courts, simples et de tous les jours que la plupart des gens comprennent et utilisent. Les mots simples ont 2 syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
-    <h4>Exemples d'utilisation de mots simples et courants</h4>
-    <p><strong>Écrivez</strong>&nbsp;: demander<br>
-      <strong>Au lieu de</strong>&nbsp;: faire une requête </p>
-    <p><strong>Écrivez</strong>&nbsp;: assez de<br>
-      <strong>Au lieu de</strong>&nbsp;: un nombre suffisant de </p>
-    <p><strong>Écrivez</strong>&nbsp;: si<br>
-      <strong>Au lieu de</strong>&nbsp;: dans la mesure où </p>
-    <p><strong>Écrivez</strong>&nbsp;: avant<br>
-      <strong>Au lieu de</strong>&nbsp;: préalablement </p>
-    <p><strong>Écrivez</strong>&nbsp;: tous les 2 ans<br>
-      <strong>Au lieu de</strong>&nbsp;: bisannuellement </p>
-    <h4>Voyez comment la règle sur l'utilisation des mots simples et courants s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.2 Use simple and common words</a></span></li>
-    </ul>
+    <h3>2.2 Commencer par les renseignements les plus importants</h3>
+    <p><b>Soyez direct</b>. Les gens survolent les pages Web sans lire chaque mot. Au fur et à mesure que leurs yeux se déplacent vers le bas de la page, ils font moins attention au contenu qui n’est pas pertinent à la réalisation de leur tâche. Assurez-vous de concevoir et rédiger votre texte afin d’aider vos lecteurs à trouver ce dont ils ont besoin facilement.</p>
+    <p><b>Structurez</b> votre page de manière à guider votre public vers les informations dont il a besoin pour accomplir sa tâche.</p>
+    <h4 id="wp2-2-1">Commencer avec la pyramide inversée</h4>
+    <p>Organisez votre contenu selon le modèle de <b>la pyramide inversée</b>&nbsp;:</p>
+    <div class="row mrgn-tp-lg mrgn-bttm-md">
+      <div class="col-md-8">
+        <figure><img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-en.png">
+          <figcaption>
+            <p><strong>Figure 1&nbsp;:</strong> pyramide inversée pour l’organisation du contenu</p>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+    <p>La pyramide inversée est composée de quatre étapes, de l’information la plus importante pour votre public dans le haut à l’information la moins pertinente dans le bas. La liste suivante vous aidera à planifier et organiser votre contenu&nbsp;:</p>
+    <ol>
+      <li><strong>Information la plus importante</strong>&nbsp;:
+        <ul>
+          <li>Commencez chaque page Web par l’idée, l’étape ou l’information la plus importante.</li>
+          <li>Concentrez-vous sur ce que les gens doivent savoir pour réaliser leur tâche principale.</li>
+        </ul>
+      </li>
+      <li><strong>Tâches priorisées</strong>&nbsp;:
+        <ul>
+          <li>Ajoutez les détails et les tâches par ordre d’importance.</li>
+          <li>Mettre tout le contenu lié à la tâche au centre de la page.</li>
+          <li>Utilisez des liens pour orienter les gens vers les renseignements et les tâches essentielles.</li>
+        </ul>
+      </li>
+      <li><strong>Plus d’information</strong>&nbsp;:
+        <ul>
+          <li>Seulement inclure des renseignements supplémentaires qui appuient l’information la plus importante. Ceux-ci peuvent inclure&nbsp;:
+          <ol>
+            <li>liens connexes qui peuvent aider certaines personnes (statistiques citées, initiatives connexes, publications pertinentes, etc.);</li>
+            <li>renseignements pour les gens qui souhaitent en savoir plus sur le sujet;</li>
+            <li>renseignements pour les gens qui ont plus de connaissances sur le sujet ou le service.</li>
+          </ol>
+          </li>
+        </ul>
+      </li>
+    </ol>
+      <h4 id="wp2-2-2">Aller droit au but</h4>
+      <p><b>Soyez direct</b>. Rédigez des énoncés directs qui aident votre public cible à accomplir sa tâche. Le contenu doit être facile à trouver, à lire et à comprendre.</p>
+      <p><b>Restez dans le sujet</b>. Évitez de distraire vos lecteurs avec du contenu inutile, comme des messages de bienvenue ou des renseignements généraux.</p>
+      <h5>Exemple d’énoncé direct</h5>
+      <p><strong>Écrivez</strong>&nbsp;: Présentez votre passeport à l’agent des services frontaliers.<br>
+        <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l’agent qui vous accueille à l’aéroport.</p>
+    <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
+      <ul>
+        <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.2 Start with the most important information</a></span></li>
+      </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation des mots simples et courants", "title": "2.2 Utiliser des mots simples et courants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  commencer par les renseignements les plus importants ", "title": "2.2 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
     </div>
   </section>
   <section id="wp2-3">
