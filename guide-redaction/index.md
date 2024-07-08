@@ -246,19 +246,86 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </div>
     </div>
   </div>
-  <section class="alert alert-warning">
-    <h3>Exigences en matière de langage clair et simple</h3>
-    <p>L'utilisation d'un langage clair et simple est une exigence de la <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite>.</p>
-  </section>
-  <p>Rédiger en langage clair et simple ne veut pas dire simplifier outre mesure ou omettre des renseignements essentiels. Le recours à un langage simple rend l'information essentielle lisible et accessible à tous.</p>
-  <p>Écrire en langage clair et simple&nbsp;:</p>
+  <section id="wp2-0">
+  <h3>Exigences en matière de langage clair et simple</h3>
+    <p>L’utilisation d’un langage clair et simple est une exigence de la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communicationss</a>.</p>
+    <p>Le langage clair désigne une communication dont le vocabulaire, la structure et la conception sont si clairs que le public visé peut facilement&nbsp;:</p>
+    <ul>
+      <li><b>trouver</b> ce dont il a besoin;</li>
+      <li><b>comprendre</b> ce qu’il trouve;</li>
+      <li><b>utiliser </b> les renseignements <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></li>
+    </ul>
+  <p>Rédiger en langage clair ne veut pas dire que vous devez laisser des informations essentielles de côté ou simplifier vos textes d’une façon extrême. Au contraire, une rédaction en langage clair rend les renseignements cruciaux plus accessibles et plus faciles à lire pour tous.</p>
+  <p>Un langage clair bénéficie à tout le monde, y compris aux personnes qui gèrent les situations suivantes&nbsp;:</p>
   <ul>
-    <li>augmente les chances que les gens trouvent, lisent et comprennent votre information sur n'importe quel appareil;</li>
-    <li>rend votre information plus accessible aux personnes handicapées;</li>
-    <li>permet à ceux qui se servent de petits écrans de voir l'information essentielle en premier;</li>
-    <li>maximise vos ressources à l'étape de la traduction et de la révision de votre texte;</li>
-    <li>facilite la réalisation des tâches en ligne et contribue à réduire les coûts, par exemple, en diminuant le nombre de demandes de renseignements.</li>
+    <li>le stress, une attention fractionnée, des contraintes de temps ou les tâches multiples;</li>
+    <li>de faibles capacités en lecture ou en écriture;</li>
+    <li>des handicaps liés à la cognition, à l’apprentissage ou à la motricité;</li>
+    <li>des sujets ou un vocabulaire peu familier.</li>
   </ul>
+    <p>Rédiger de manière simple et claire offre plusieurs avantages importants, tels que&nbsp;:</p>
+  <ul>
+    <li>fait preuve de notre respect pour le temps des gens en rendant le contenu facile à lire et à comprendre;</li>
+    <li>permet aux personnes qui lisent sur un téléphone ou un autre petit écran de trouver les informations essentielles en premier;</li>
+    <li>augmente les chances que les gens trouvent et comprennent facilement les informations dont ils ont besoin pour effectuer leur tâche.</li>
+  </ul>
+  </section>
+   <section id="wp2-1">
+    <h3>2.1 Introduction au langage clair&nbsp;: rédiger pour faciliter la lecture</h3>
+    <p>Un document facile à lire et à comprendre utilise le bon vocabulaire et partage les bonnes informations avec son public cible. Il est clair, concis, et le contenu est facile à suivre. Une bonne façon de commencer est d’écrire comme si vous discutiez avec votre lecteur.</p>
+    <p>Essayez ces techniques pour rendre votre texte aussi facile à lire et à comprendre que possible&nbsp;:</p>
+    <h4 id="wp2-1-1">Style</h4>
+    <ul>
+      <li><b>Écrire comme on parle</b>&nbsp;:écrivez comme si vous vous adressiez directement à votre lecteur. Utilisez les pronoms de la première ou de la deuxième personne (je, nous, vous) plutôt que ceux de la troisième personne (il, elle, ils).
+        <ul>
+          <li>(voir <a href="#toc7">section 3, ton</a>)</li>
+        </ul>
+      </li>
+      <li><b>Utiliser la voix active</b>&nbsp;: employez la voix active et la forme positive.</li>
+      <li><b>Supprimer le jargon</b>&nbsp;: remplacez le jargon technique et le langage complexe par des termes que votre public comprendra facilement.
+        <ul>
+          <li>(voir <a href="#wp2-5">section 2.5, éviter le jargon et les expressions familières ou imagées</a>)</li>
+        </ul>
+      </li>
+    </ul>
+    <h4 id="wp2-1-2">Structure</h4>
+    <ul>
+      <li><b>Identifier les besoins de votre public cible</b>&nbsp;: organisez, rédigez et présentez votre document en fonction des besoins de votre public cible.</li>
+      <li><b>Utiliser des titres et sous-titres clairs</b>&nbsp;: divisez votre contenu avec des sections claires qui aident à rendre les informations clés faciles à trouver.</li>
+      <li><b>Utiliser des listes</b>&nbsp;:  organisez les tâches principales à l’aide de listes à puces ou de listes numérotées.
+        <ul>
+          <li>(voir la section <a href="#wp5-2">5.2 Utiliser des listes d’éléments pour aider les gens à survoler le texte</a>)</li>
+        </ul>
+      </li>
+      <li><b>Supprimer les obstacles visuels et cognitifs</b>&nbsp;: supprimez tout ce qui peut empêcher les lecteurs de voir, de comprendre ou d’utiliser facilement les informations dont ils ont besoin.</li>
+      <li><b>Déplacer ou supprimer les détails inutiles</b>&nbsp;: éliminez les détails dont les gens n’ont pas besoin pour accomplir leur tâche.</li>
+        </ul>
+        <h4 id="wp2-1-3">Simplifier et réviser</h4>
+        <ul>
+          <li><b>Réduire la longueur du contenu</b>&nbsp;: raccourcissez les mots, les phrases et les paragraphes.</li>
+          <li><b>Simplifier</b>&nbsp;: remplacez le nom d’un programme déjà cité par un terme court comme « le programme » au lieu d’utiliser son nom au long ou son abréviation.</li>
+          <li><b>Faire réviser le contenu par des pairs</b>&nbsp;: demandez à des collègues qui ne connaissent pas le sujet de revoir le texte pour voir si le message est clair et logique.</li>
+          <li><b>Lire à voix haute</b>&nbsp;: lisez le texte à voix haute ou utilisez un lecteur d’écran pour identifier ce qui peut être clarifié ou condensé.</li>
+          <li><b>Mener des tests d’utilisabilité</b>&nbsp;: travaillez avec votre équipe Web pour mettre en place des tests d’utilisabilité pour votre contenu.</li>
+        </ul>
+        <h4 id="wp2-1-4">Évitez les outils d’analyse de la lisibilité</h4>
+        <p>Les outils de lisibilité sont basés sur des algorithmes qui mesurent des éléments tels que la longueur des mots. Ces outils ne peuvent pas vous dire si votre lecteur trouvera votre contenu facile à comprendre et à utiliser.</p>
+        <p>Ces outils peuvent être utiles pour identifier certains points à améliorer, tels que&nbsp;:</p>
+        <ul>
+          <li>les phrases trop longues;</li>
+          <li>la voix passive;</li>
+          <li>les mots non essentiels;</li>
+          <li>les acronymes.</li>
+        </ul>
+        <p>Ils peuvent également suggérer des formulations plus simples et vous donner une idée approximative de la complexité d’un texte. Par contre, évitez d’utiliser ces outils pour évaluer la lisibilité avec précision. Ils peuvent toutefois vous aider à justifier le raccourcissement ou la simplification d’un texte.</p>
+        <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
+        <ul>
+          <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-1">2.1 Getting started with plain language: writing for readability</a></span></li>
+        </ul>
+        <div class="mrgn-tp-lg">
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "rédiger pour faciliter la lecture", "title": "2.1 Introduction au langage clair : rédiger pour faciliter la lecture", "url": "https://conception.canada.ca/guide-redaction//#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+      </div>
+  </section>
   <section id="wp2-1">
     <h3>2.1 Commencer par les renseignements les plus importants</h3>
     <p>Introduisez les renseignements les plus importants au début de votre texte et allez droit au but. Lorsqu'ils survolent les pages Web, les gens ont tendance à débuter dans le coin supérieur gauche en déplaçant leur regard vers la droite. À mesure qu'ils font défiler la page vers le bas, ils survolent de moins en moins le texte à droite.</p>
