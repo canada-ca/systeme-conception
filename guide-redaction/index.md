@@ -3201,3 +3201,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the Web</a> (en anglais seulement), Nielsen Norman Group</li>
   </ul>
 </section>
+<aside class="wb-fnote wb-init wb-fnote-inited" role="note" id="wb-auto-4">
+	<h3 id="fn">Footnotes</h3>
+	<dl>
+		<dt id="fn1-dt">Footnote 1</dt>
+		<dd id="fn1" tabindex="-1">
+			<p>1 International Plain Language Federation: <a href="​​https://www.iplfederation.org/plain-language/">​https://www.iplfederation.org/plain-language/</a></p>
+			<p class="fn-rtn small"><a href="#fn1-0-rf" data-wb-fnote="true"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
+		</dd>
+	</dl>
+</aside>
