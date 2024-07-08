@@ -459,31 +459,90 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p><b>Écrivez</b>&nbsp;: Encéphalopathie spongiforme bovine (ESB), également connue sous le nom de maladie de la vache folle</p>
     <p><b>Au lieu de</b>&nbsp;: Encéphalopathie spongiforme bovine</p>
     <p>Remplacez les mots longs et compliqués par des mots plus courts et simples que la plupart des gens comprennent et utilisent tous les jours. En général, les mots simples ont 2 syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
-    <h4>See how this rule applies in French:</h4>
+    <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
-      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-3">2.3 Éviter le jargon et les expressions familières ou imagées</a></span></li>
+      <li><span lang="en"><a href="{{ site.urldesign }}/guide-redaction/#wp2-3">2.3 Use familiar words</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " use familiar words", "title": "2.3 Use familiar words", "url": "https://design.canada.ca/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  utiliser des termes familiers", "title": "2.3 Utiliser des termes familiers", "url": "https://design.canada.ca/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
     </div>
   </section>
   <section id="wp2-4">
-    <h3>2.4 Utiliser des verbes plutôt que des noms formés à partir de verbes</h3>
-    <p>Privilégiez le verbe (forme verbale) plutôt que le nom formé à partir du verbe (forme nominale) pour exprimer clairement une action.</p>
-    <h4>Exemples d'énoncés qui contiennent des verbes plutôt que des noms</h4>
-    <p><strong>Écrivez</strong>&nbsp;: recommander une mesure<br>
-      <strong>Au lieu de</strong>&nbsp;: formuler une recommandation d'une mesure </p>
-    <p><strong>Écrivez</strong>&nbsp;: distribuer le courrier<br>
-      <strong>Au lieu de</strong>&nbsp;: faire la distribution du courrier </p>
-    <p><strong>Écrivez&nbsp;</strong>: modifier la page<br>
-      <strong>Au lieu de</strong>&nbsp;: apporter une modification à la page </p>
-    <p>Utilisez le verbe dans sa forme la plus simple. Si possible, utilisez le présent.</p>
-    <h4>Voyez comment la règle sur l'utilisation de la forme verbale s'applique à un contenu de langue anglaise</h4>
+    <h3>2.3 Rédiger avec la voix active, directe, et affirmative</h3>
+    <p>Rédigez à la voix active et à la forme positive. Dirigez vos lecteurs vers ce qu’ils ont besoin de savoir. Utilisez des verbes d’action pour les guider vers les prochaines étapes.</p>
+    <section>
+      <h4 id="wp2-4-1">Écrire à la voix active</h4>
+      <p>Dans la plupart des cas, la voix active aidera votre public à comprendre ce qu’il lit. Les phrases à la voix active sont directes, claires et plus faciles à comprendre. Leur structure est logique et facile à suivre, car le sujet est l’auteur de l’action&nbsp;:</p>
+      <ul>
+        <li>Sujet (celui qui agit) + verbe (l’action) + objet (qui/quoi l’action concerne)</li>
+      </ul>
+      <h4 id="wp2-4-2">Éviter la voix passive</h4>
+      <p>Dans une phrase passive, il n’est pas toujours évident de savoir qui ou quoi fait l’action. Cela rend la phrase plus difficile à comprendre. La structure d’une phrase passive est la suivante&nbsp;:</p>
+      <ul>
+        <li>Objet + verbe + sujet</li>
+      </ul>
+      <h4>Exemples à la voix active et passive&nbsp;:</h4>
+      <ul>
+        <li><b>Écrire</b>&nbsp;: Vous devrez peut-être fournir une preuve de citoyenneté. (actif)<br>
+            <b>Au lieu de</b>&nbsp;: On peut vous demander de fournir une preuve de votre citoyenneté. (passif)</li>
+        <li><b>Écrire</b>&nbsp;: Vous devez déposer vos déclarations par voie électronique. (actif)<br>
+            <b>Au lieu de</b>&nbsp;: Vos déclarations doivent être déposées en ligne. (passif)</li>
+      </ul>
+      <p>Chaque fois que vous le pouvez, prenez le temps de réécrire les phrases passives. Pour en savoir plus sur à sujet, consultez l’article suivant&nbsp;:</p>
+      <ul>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/cles-de-la-redaction/communication-claire-privilegiez-la-voix-active"><cite>Clés de la rédaction</cite> &nbsp;: Communication claire&nbsp;: privilégiez la voix active</a></li>
+      </ul>
+      <h4 id="wp2-4-3">Exemples de formes positives et négatives</h4>
+      <p>Dans la mesure du possible, dites aux gens ce qu’ils peuvent ou doivent faire plutôt que ce qu’ils ne peuvent ou ne doivent pas faire pour effectuer leur tâche. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
+      <h4>Examples of positive and negative sentences</h4>
+      <ul>
+        <li><b>Positif</b>&nbsp;: Vous recevrez votre avis de cotisation une fois que vous aurez fait votre déclaration de revenus.<br>
+            <b>Négatif</b>&nbsp;: Vous ne pouvez pas recevoir votre avis de cotisation si vous n’avez pas effectué votre déclaration de revenus.</li>
+        <li><b>Positif</b>&nbsp;: Vous pouvez déduire une partie du montant à la ligne 147 de votre déclaration de revenus.<br>
+            <b>Négatif</b>&nbsp;: Vous ne pouvez déduire qu’une partie du montant de la ligne 147 de votre déclaration de revenus.</li>
+        <li><b>Positif</b>&nbsp;: La procédure sera efficace.<br>
+            <b>Double négation</b>&nbsp;: La procédure ne sera pas inefficace.</li>
+        <li><b>Positif</b>&nbsp;:  Vous pouvez demander une déduction pour un enfant à charge né en 1972 ou avant si cet enfant a une déficience mentale ou physique.<br>
+            <b>Double négation</b>&nbsp;: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n’ait une déficience mentale ou physique.</li>
+      </ul>
+      <h5>Exception&nbsp;: Utilisation acceptable de la forme négative</h5>
+      <p>Vous pouvez utiliser la forme négative lorsque quelque chose a des conséquences graves ou fatales. La forme négative est utile pour exprimer ce qui n’est pas possible ou doit être évité.</p>
+      <h5>Exemples d’utilisation de la forme négative pour quelque chose pouvant avoir des conséquences graves</h5>
+      <ul>
+        <li>N’essayez pas de trouver la source de monoxyde de carbone. Sortez immédiatement pour respirer de l’air frais.</li>
+        <li>N’essayez pas de le faire vous-même, car cela peut avoir des conséquences graves, voire mortelles.</li>
+      </ul>
+      <h4 id="wp2-4-4">Utiliser des verbes plutôt que des noms formés à partir de verbes</h4>
+      <p>Utilisez le verbe (forme verbale) plutôt que le nom formé à partir du verbe (forme nominale) pour exprimer clairement une action. Utilisez le verbe dans sa forme la plus simple. Si possible, utilisez le présent.</p>
+      <h5>Exemples d’énoncés qui contiennent des verbes plutôt que des noms</h5>
+      <ul>
+        <li><b>Écrivez</b>&nbsp;: recommander<br>
+            <b>Au lieu de</b>&nbsp;: formuler une recommandation</li>
+        <li><b>Écrivez</b>&nbsp;: distribuer<br>
+            <b>IAu lieu de</b>&nbsp;: faire la distribution</li>
+        <li><b>Écrivez</b>&nbsp;: modifier<br>
+            <b>Au lieu de</b>&nbsp;: apporter une modification</li>
+        <!-- <li><b>Écrivez</b>&nbsp;: needs<br>
+            <b>Au lieu de</b>&nbsp;: is in need of</li> -->
+      </ul>
+    <p>Pour en savoir plus à ce sujet, consultez l’article suivant&nbsp;:</p>
     <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-4">2.4 Use verbs instead of nouns formed from verbs</a></span></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-remplacez-les-noms-par-des-verbes"><cite>Clés de la rédaction</cite>&nbsp;: Communication claire&nbsp;: remplacez les noms par des verbes
+</a></li>
+    </ul>
+    <h4 id="wp2-4-5">Avoid noun strings</h4>
+    <p>Don’t use a group of 2 or more nouns to modify another noun.</p>
+    <p>These noun strings are hard to understand. They force people to do a lot of unpacking to get at what the phrase means.</p>
+    <ul>
+      <li><b>Write</b>: standards for post-mortem evaluation of food animal carcasses<br>
+      <b>Instead of</b>: Food Animal Carcass Post-mortem Evaluation Standards</li>
+    </ul>
+    <h4>See how this rule applies in French:</h4>
+    <ul>
+      <li><span lang="fr"><a href="{{ site.urlconception }}/guide-redaction/#wp2-4">2.4 Rédigez avec la voix active, directe, et affirmative</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la r&#232;gle sur l&#8217;utilisation de la forme verbale qui s&#8217;applique &#224; un contenu", "title": "2.4 Utiliser la voix active et la forme positive", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " write in the active and positive form ", "title": "2.4 Write in the active and positive form ", "url": "https://design.canada.ca/style-guide/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
     </div>
   </section>
   <section id="wp2-5">
