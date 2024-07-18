@@ -65,9 +65,7 @@ title: Partagez cette page
 				allez à
   <a href="{{ site.url }}/architecture/elements-obligatoires.html#entete-piedpage">
    Éléments
-					obligatoires du système de conception
-  </a>
-  .
+					obligatoires du système de conception</a>.
  </p>
 </section>
 

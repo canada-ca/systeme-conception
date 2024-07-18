@@ -61,9 +61,7 @@ title: 'Pied de page de la zone du contenu '
 <p>
  Consultez les conseils relatifs au
  <a href="pied-page.html">
-  pied de page général
- </a>
- pour savoir comment mettre en œuvre la bande contextuelle, la
+  pied de page général</a> pour savoir comment mettre en œuvre la bande contextuelle, la
     bande principale et la bande sous pied de page.
 </p>
 
@@ -78,20 +76,17 @@ title: 'Pied de page de la zone du contenu '
 <ul>
  <li>
    <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">
-  Outil de rétroaction sur la page
- </a>
+  Outil de rétroaction sur la page</a>
   (facultatif)
  </li>
  <li>
   <a href="partagez-page.html">
-   Partager cette page
-  </a>
+   Partager cette page</a>
   (facultatif)
  </li>
  <li>
   <a href="date-modification.html">
-   Date de modification
-  </a>
+   Date de modification</a>
   (obligatoire, mais peut être un numéro de version lorsqu'il est utilisé pour une application)
  </li>
 </ul>
