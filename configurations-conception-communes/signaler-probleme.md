@@ -106,20 +106,17 @@ title: "Signaler un problème sur cette page"
   Comment mettre en œuvre
  </h2>
  <p>
-  Le bouton, l’étiquette, le placement et l’énoncé de protection des renseignements personnels sont obligatoires
-				:
+  Le bouton, l’étiquette, le placement et l’énoncé de protection des renseignements personnels sont obligatoires&nbsp;:
  </p>
  <ul>
   <li>
    le modèle est présenté comme un bouton qui utilise la configuration
    <a href="./boutons.html">
     boutons pour
-						les actions secondaires
-   </a>
-   , qui, lorsqu’on clique dessus, ouvre un formulaire de rétroaction;
+						les actions secondaires</a>, qui, lorsqu’on clique dessus, ouvre un formulaire de rétroaction;
   </li>
   <li>
-   l’étiquette indique : « Signaler un problème sur cette page » ;
+   l’étiquette indique : « Signaler un problème sur cette page »&nbsp;;
   </li>
   <li>
    placement : placée directement sous la zone de contenu principale, alignée à gauche;

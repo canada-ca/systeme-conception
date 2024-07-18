@@ -77,9 +77,7 @@ title: Date de modification
 				par une numéro de version. Pour en savoir plus, allez à
   <a href="{{ site.url }}/architecture/elements-obligatoires.html#entete-piedpage">
    Éléments
-					obligatoires du système de conception
-  </a>
-  .
+					obligatoires du système de conception</a>.
  </p>
 </section>
 
