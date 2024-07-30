@@ -231,9 +231,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>L’utilisation d’un langage clair et simple est une exigence de la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a>.</p>
     <p>Le langage clair désigne une communication dont le vocabulaire, la structure et la conception sont si clairs que le public visé peut facilement&nbsp;:</p>
     <ul>
-      <li><b>trouver</b> ce dont il a besoin;</li>
-      <li><b>comprendre</b> ce qu’il trouve;</li>
-      <li><b>utiliser </b> les renseignements <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></li>
+      <li><strong>trouver</strong> ce dont il a besoin;</li>
+      <li><strong>comprendre</strong> ce qu’il trouve;</li>
+      <li><strong>utiliser </strong> les renseignements <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></li>
     </ul>
   <p>Rédiger en langage clair ne veut pas dire que vous devez laisser des informations essentielles de côté ou simplifier vos textes d’une façon extrême. Au contraire, une rédaction en langage clair rend les renseignements cruciaux plus accessibles et plus faciles à lire pour tous.</p>
   <p>Un langage clair bénéficie à tout le monde, y compris aux personnes qui gèrent les situations suivantes&nbsp;:</p>
@@ -256,13 +256,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Essayez ces techniques pour rendre votre texte aussi facile à lire et à comprendre que possible&nbsp;:</p>
     <h4 id="wp2-1-1">Style</h4>
     <ul>
-      <li><b>Écrire comme on parle</b>&nbsp;:écrivez comme si vous vous adressiez directement à votre lecteur. Utilisez les pronoms de la première ou de la deuxième personne (je, nous, vous) plutôt que ceux de la troisième personne (il, elle, ils).
+      <li><strong>Écrire comme on parle</strong>&nbsp;:écrivez comme si vous vous adressiez directement à votre lecteur. Utilisez les pronoms de la première ou de la deuxième personne (je, nous, vous) plutôt que ceux de la troisième personne (il, elle, ils).
         <ul>
           <li>(voir <a href="#toc7">section 3, ton</a>)</li>
         </ul>
       </li>
-      <li><b>Utiliser la voix active</b>&nbsp;: employez la voix active et la forme positive.</li>
-      <li><b>Supprimer le jargon</b>&nbsp;: remplacez le jargon technique et le langage complexe par des termes que votre public comprendra facilement.
+      <li><strong>Utiliser la voix active</strong>&nbsp;: employez la voix active et la forme positive.</li>
+      <li><strong>Supprimer le jargon</strong>&nbsp;: remplacez le jargon technique et le langage complexe par des termes que votre public comprendra facilement.
         <ul>
           <li>(voir <a href="#wp2-5">section 2.5, éviter le jargon et les expressions familières ou imagées</a>)</li>
         </ul>
@@ -270,23 +270,23 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h4 id="wp2-1-2">Structure</h4>
     <ul>
-      <li><b>Identifier les besoins de votre public cible</b>&nbsp;: organisez, rédigez et présentez votre document en fonction des besoins de votre public cible.</li>
-      <li><b>Utiliser des titres et sous-titres clairs</b>&nbsp;: divisez votre contenu avec des sections claires qui aident à rendre les informations clés faciles à trouver.</li>
-      <li><b>Utiliser des listes</b>&nbsp;:  organisez les tâches principales à l’aide de listes à puces ou de listes numérotées.
+      <li><strong>Identifier les besoins de votre public cible</strong>&nbsp;: organisez, rédigez et présentez votre document en fonction des besoins de votre public cible.</li>
+      <li><strong>Utiliser des titres et sous-titres clairs</strong>&nbsp;: divisez votre contenu avec des sections claires qui aident à rendre les informations clés faciles à trouver.</li>
+      <li><strong>Utiliser des listes</strong>&nbsp;:  organisez les tâches principales à l’aide de listes à puces ou de listes numérotées.
         <ul>
           <li>(voir la section <a href="#wp5-2">5.2 Utiliser des listes d’éléments pour aider les gens à survoler le texte</a>)</li>
         </ul>
       </li>
-      <li><b>Supprimer les obstacles visuels et cognitifs</b>&nbsp;: supprimez tout ce qui peut empêcher les lecteurs de voir, de comprendre ou d’utiliser facilement les informations dont ils ont besoin.</li>
-      <li><b>Déplacer ou supprimer les détails inutiles</b>&nbsp;: éliminez les détails dont les gens n’ont pas besoin pour accomplir leur tâche.</li>
+      <li><strong>Supprimer les obstacles visuels et cognitifs</strong>&nbsp;: supprimez tout ce qui peut empêcher les lecteurs de voir, de comprendre ou d’utiliser facilement les informations dont ils ont besoin.</li>
+      <li><strong>Déplacer ou supprimer les détails inutiles</strong>&nbsp;: éliminez les détails dont les gens n’ont pas besoin pour accomplir leur tâche.</li>
         </ul>
         <h4 id="wp2-1-3">Simplifier et réviser</h4>
         <ul>
-          <li><b>Réduire la longueur du contenu</b>&nbsp;: raccourcissez les mots, les phrases et les paragraphes.</li>
-          <li><b>Simplifier</b>&nbsp;: remplacez le nom d’un programme déjà cité par un terme court comme « le programme » au lieu d’utiliser son nom au long ou son abréviation.</li>
-          <li><b>Faire réviser le contenu par des pairs</b>&nbsp;: demandez à des collègues qui ne connaissent pas le sujet de revoir le texte pour voir si le message est clair et logique.</li>
-          <li><b>Lire à voix haute</b>&nbsp;: lisez le texte à voix haute ou utilisez un lecteur d’écran pour identifier ce qui peut être clarifié ou condensé.</li>
-          <li><b>Mener des tests d’utilisabilité</b>&nbsp;: travaillez avec votre équipe Web pour mettre en place des tests d’utilisabilité pour votre contenu.</li>
+          <li><strong>Réduire la longueur du contenu</strong>&nbsp;: raccourcissez les mots, les phrases et les paragraphes.</li>
+          <li><strong>Simplifier</strong>&nbsp;: remplacez le nom d’un programme déjà cité par un terme court comme « le programme » au lieu d’utiliser son nom au long ou son abréviation.</li>
+          <li><strong>Faire réviser le contenu par des pairs</strong>&nbsp;: demandez à des collègues qui ne connaissent pas le sujet de revoir le texte pour voir si le message est clair et logique.</li>
+          <li><strong>Lire à voix haute</strong>&nbsp;: lisez le texte à voix haute ou utilisez un lecteur d’écran pour identifier ce qui peut être clarifié ou condensé.</li>
+          <li><strong>Mener des tests d’utilisabilité</strong>&nbsp;: travaillez avec votre équipe Web pour mettre en place des tests d’utilisabilité pour votre contenu.</li>
         </ul>
         <h4 id="wp2-1-4">Évitez les outils d’analyse de la lisibilité</h4>
         <p>Les outils de lisibilité sont basés sur des algorithmes qui mesurent des éléments tels que la longueur des mots. Ces outils ne peuvent pas vous dire si votre lecteur trouvera votre contenu facile à comprendre et à utiliser.</p>
@@ -306,75 +306,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <div class="wb-share btn btn-default" data-wb-share='{"custType": " rédiger pour faciliter la lecture", "title": "2.1 Introduction au langage clair : rédiger pour faciliter la lecture", "url": "https://conception.canada.ca/guide-redaction//#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
       </div>
   </section>
-  <section id="wp2-1">
-    <h3>2.1 Commencer par les renseignements les plus importants</h3>
-    <p>Introduisez les renseignements les plus importants au début de votre texte et allez droit au but. Lorsqu'ils survolent les pages Web, les gens ont tendance à débuter dans le coin supérieur gauche en déplaçant leur regard vers la droite. À mesure qu'ils font défiler la page vers le bas, ils survolent de moins en moins le texte à droite.</p>
-    <p>Organisez votre contenu selon le modèle de la pyramide inversée afin&nbsp;:</p>
-    <ul>
-      <li>d'orienter la personne vers les renseignements dont elle a besoin pour accomplir une tâche;</li>
-      <li>de placer les renseignements complémentaires à la fin du texte.</li>
-    </ul>
-    <div class="row mrgn-tp-lg mrgn-bttm-md">
+  <section id="wp2-2">
+    <h3>2.2 Commencer par les renseignements les plus importants</h3>
+    <p><strong>Soyez direct</strong>. Les gens survolent les pages Web sans lire chaque mot. Au fur et à mesure que leurs yeux se déplacent vers le bas de la page, ils font moins attention au contenu qui n’est pas pertinent à la réalisation de leur tâche. Assurez-vous de concevoir et rédiger votre texte afin d’aider vos lecteurs à trouver ce dont ils ont besoin facilement.</p>
+    <p><strong>Structurez</strong> votre page de manière à guider votre public vers les informations dont il a besoin pour accomplir sa tâche.</p>
+    <h4 id="wp2-2-1">Commencer avec la pyramide inversée</h4>
+    <p>Organisez votre contenu selon le modèle de <b>la pyramide inversée</b>&nbsp;:</p>
+   <div class="row mrgn-tp-lg mrgn-bttm-md">
       <div class="col-md-8">
         <figure><img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive" id="fig1" src="/guide-redaction/images/pyramide-fr.png" />
           <figcaption>
             <p><strong>Figure 1</strong>&nbsp;: pyramide inversée pour l’organisation du contenu</p>
-          </figcaption>
-        </figure>
-      </div>
-    </div>
-    <p>La pyramide inversée est divisée en quatre parties. Le contenu le plus important pour la réalisation des tâches se trouve au sommet, la plus grosse partie de la pyramide. La pyramide inversée représente le degré décroissant de pertinence du contenu pour la réalisation des tâches au fur et à mesure que l’on se rapproche du sommet (au bas).</p>
-    <ol>
-      <li><strong>Information la plus importante</strong>&nbsp;:
-        <ul>
-          <li>commencer chaque page Web par l'idée, l'étape ou l'information la plus importante.</li>
-        </ul>
-      </li>
-      <li><strong>Tâches priorisées</strong>&nbsp;:
-        <ul>
-          <li>ajouter les détails et les tâches par ordre d'importance;</li>
-          <li>mettre tout le contenu lié à la tâche au centre de la page;</li>
-          <li>utiliser des liens pour orienter les gens vers les renseignements et les tâches essentielles.</li>
-        </ul>
-      </li>
-      <li><strong>Plus d'information</strong>&nbsp;:
-        <ul>
-          <li>inclure des renseignements pertinents à l'intention des publics cibles qui désirent en apprendre davantage ou qui ont une connaissance approfondie du sujet ou du service.</li>
-        </ul>
-      </li>
-      <li><strong>Liens connexes</strong>&nbsp;:
-        <ul>
-          <li>ajouter des liens seulement s'ils concernent le contenu et appuient la tâche (par exemple, des lois ou des publications).</li>
-        </ul>
-      </li>
-    </ol>
-    <section id="wp2-1-1">
-      <h4>Aller droit au but</h4>
-      <p>Évitez les renseignements généraux et les messages d'accueil (par exemple, &laquo;&nbsp;bienvenue sur notre site&nbsp;&raquo;). Ces messages relèguent au second plan le contenu dont la personne a besoin pour accomplir sa tâche.</p>
-      <p>Écrivez des énoncés directs.</p>
-      <h5>Exemple d'énoncé direct</h5>
-      <p><strong>Écrivez</strong>&nbsp;<strong></strong>: Présentez votre passeport à l'agent à l'aéroport. <br>
-        <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l'agent qui vous accueille à l'aéroport. </p>
-    </section>
-    <h4>Voyez comment la règle sur la pyramide inversée s'applique à un contenu de langue anglaise</h4>
-    <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-1">2.1 Start with the most important information</a></span></li>
-    </ul>
-    <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la pyramide inversée", "title": "2.1 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
-    </div>
-  </section>
-  <section id="wp2-2">
-    <h3>2.2 Commencer par les renseignements les plus importants</h3>
-    <p><b>Soyez direct</b>. Les gens survolent les pages Web sans lire chaque mot. Au fur et à mesure que leurs yeux se déplacent vers le bas de la page, ils font moins attention au contenu qui n’est pas pertinent à la réalisation de leur tâche. Assurez-vous de concevoir et rédiger votre texte afin d’aider vos lecteurs à trouver ce dont ils ont besoin facilement.</p>
-    <p><b>Structurez</b> votre page de manière à guider votre public vers les informations dont il a besoin pour accomplir sa tâche.</p>
-    <h4 id="wp2-2-1">Commencer avec la pyramide inversée</h4>
-    <p>Organisez votre contenu selon le modèle de <b>la pyramide inversée</b>&nbsp;:</p>
-    <div class="row mrgn-tp-lg mrgn-bttm-md">
-      <div class="col-md-8">
-        <figure><img alt="Pyramide inversée illustrant comment créer une page Web en indiquant tout d'abord les renseignements clés." class="img-responsive" id="fig1" src="/style-guide/images/pyramid-en.png">
-          <figcaption>
-            <p><strong>Figure 1&nbsp;:</strong> pyramide inversée pour l’organisation du contenu</p>
           </figcaption>
         </figure>
       </div>
