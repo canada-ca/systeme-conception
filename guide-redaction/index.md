@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-07-04
+dateModified: 2024-07-30
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
@@ -39,27 +39,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>Mises à jour récentes</h2>
   <p>Nous avons apporté les modifications suivantes à cette version du guide&nbsp;:</p>
   <ul class="mrgn-tp-lg">
-    <li>À compter de janvier 2024, <cite>Le guide du rédacteur</cite> et le <cite>Canadian Style</cite> ont été archivés. Leur contenu a été intégré à <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite><span lang="en">Writing Tips Plus</span></cite></a> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><i>Clés de la rédaction</i></a>. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:
-      <ul>
-        <li>Section <a href="/guide-redaction/#toc2">But du document</a>&nbsp;:&nbsp;Suppression des références à <i>Le guide du rédacteur</i> et remplacement par des références à <i>Clés de la rédaction.</i></li>
-        <li>Section <a href="/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italiques</a>&nbsp;: Remplacement de liens vers du contenu archivé par des liens vers des articles courants.</li>
-        <li>Mise à jour de la section <a href="/guide-redaction/#toc13">Ressources</a>.</li>
-      </ul>
-    </li>
-    <li>Dans la section 2.1 Commencer par les renseignements les plus importants&nbsp;: Mise à jour de l’image de la <a href="/guide-redaction/#wp2-1">pyramide inversée</a>. Nous avons retiré la majorité du texte de l'image et l'avons
-      ajouté au contenu de la page pour faciliter la lecture.</li>
-    <li>Dans la section <a href="/guide-redaction/#wp4-4">4.4 Abréviations, acronymes et référence</a>&nbsp;: Ajout de précisions et références clés sur l’emploi des abréviations, tel que&nbsp;:
-      <ul>
-        <li>Ajout de précision pour indiquer que les abréviations doivent être accompagnées de leur signification écrite au long à la première mention sur une page.</li>
-        <li>Nouvelle sous-section sur les formules épistolaires&nbsp;:
-          <ul>
-            <li>Comment abréger et ponctuer les titres lorsqu'il y a des abréviations liées aux grades universitaires, diplômes, doctorat, y compris l’emploi du titre docteur.</li>
-            <li>Comment utiliser les titres et formules épistolaires avec les prénoms et noms.</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>Dans la section à la section <a href="/guide-redaction/#wp7-2">7.2 Rédiger des liens descriptifs</a>&nbsp;: Ajout d’une sous-section, &laquo;&nbsp;<a href="/guide-redaction/#wp7-2-2">Utiliser des parenthèses pour ajouter des informations contextuelles</a>,&nbsp;&raquo; afin de préciser quand et comment ajouter des informations supplémentaires à l’intérieur des hyperlien. Cette section intègre l’ancienne section 7.4 &laquo;&nbsp;Liens vers des contenus non gouvernementaux&nbsp;&raquo;, qui n’est plus nécessaire.</li>
+    <li>Nous avons mis à jour la section 2.0 Langage clair et simple pour qu’elle corresponde davantage à la norme sur le langage clair et simple développée par l’Organisation internationale de normalisation (ISO). Les modifications apportées ont été faites en collaboration avec des spécialistes du langage clair et de la communication de l’ensemble du gouvernement du Canada.</li>
   </ul>
   <p>L’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> contient toutes les modifications apportées au guide depuis le 25 mai 2023.</p>
 </section>
@@ -1304,7 +1284,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>conserve son sens, même hors contexte;</li>
       <li>est suivi d'un texte et non d'un autre titre de section, sauf s'il introduit une liste des sections de la page;</li>
       <li>ne se termine pas par un signe de ponctuation;</li>
-      <li>n'inclut pas d'abréviation;</li>
       <li>n'inclut pas de message promotionnel (comme une affirmation subjective) puisqu'il pourrait être déroutant pour les gens et faire en sorte qu'ils cessent de naviguer jusqu'à la page.</li>
     </ul>
     <section id="wp5-1-1">
