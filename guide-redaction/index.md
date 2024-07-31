@@ -435,16 +435,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4 id="wp2-4-4">Utiliser des verbes plutôt que des noms formés à partir de verbes</h4>
       <p>Utilisez le verbe (forme verbale) plutôt que le nom formé à partir du verbe (forme nominale) pour exprimer clairement une action. Utilisez le verbe dans sa forme la plus simple. Si possible, utilisez le présent.</p>
       <h5>Exemples d’énoncés qui contiennent des verbes plutôt que des noms</h5>
-      <ul>
-        <li><b>Écrivez</b>&nbsp;: recommander<br>
-            <b>Au lieu de</b>&nbsp;: formuler une recommandation</li>
-        <li><b>Écrivez</b>&nbsp;: distribuer<br>
-            <b>IAu lieu de</b>&nbsp;: faire la distribution</li>
-        <li><b>Écrivez</b>&nbsp;: modifier<br>
-            <b>Au lieu de</b>&nbsp;: apporter une modification</li>
-        <!-- <li><b>Écrivez</b>&nbsp;: needs<br>
-            <b>Au lieu de</b>&nbsp;: is in need of</li> -->
-      </ul>
+        <p><strong>Écrivez</strong>&nbsp;: recommander<br>
+            <strong>Au lieu de</strong>&nbsp;: formuler une recommandation</p>
+        <p><strong>Écrivez</strong>&nbsp;: distribuer<br>
+            <strong>Au lieu de</strong>&nbsp;: faire la distribution</p>
+        <p><strong>Écrivez</strong>&nbsp;: modifier<br>
+            <strong>Au lieu de</strong>&nbsp;: apporter une modification</p>
     <p>Pour en savoir plus à ce sujet, consultez l’article suivant&nbsp;:</p>
     <ul>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-remplacez-les-noms-par-des-verbes"><cite>Clés de la rédaction</cite>&nbsp;: Communication claire&nbsp;: remplacez les noms par des verbes
@@ -486,7 +482,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li><a href="https://ahrefs.com/fr/free-seo-tools">Ahrefs, Outils de référencement gratuits</a></li>
       <!-- <li><a href="http://www.bing.com/toolbox/keywords">Bing Keyword Research (need Microsoft account to access)</a></li> -->
-      <li><a href="https://trends.google.fr/trends/">Tendances de recherche (Google Trends) (no login required)</a></li>
+      <li><a href="https://trends.google.fr/trends/">Tendances de recherche (Google Trends)</a>(aucun compte requis)</li>
       <li><a href="http://adwords.google.com/keywordplanner">Google Keyword Planner (need Google AdWords to access)</a></li>
       <li><a href="https://www.thehoth.com/google-keyword-planner?">Hoth Free Google Keyword Planner</a> (en anglais seulement; aucun compte requis)</li>
       <li><a href="https://moz.com/explorer">Moz Keyword Explorer</a> (en anglais seulement)</li>
