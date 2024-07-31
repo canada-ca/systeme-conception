@@ -414,21 +414,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <ul>
         <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/cles-de-la-redaction/communication-claire-privilegiez-la-voix-active"><cite>Clés de la rédaction</cite> &nbsp;: Communication claire&nbsp;: privilégiez la voix active</a></li>
       </ul>
-      <h5>Utiliser la forme affirmative</h5>
+      <h4>Utiliser la forme affirmative</h4>
       <p>Dans la mesure du possible, dites aux gens ce qu’ils peuvent ou doivent faire plutôt que ce qu’ils ne peuvent ou ne doivent pas faire pour effectuer leur tâche. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
       <h5 id="wp2-4-3">Exemples de formes positives et négatives</h5>
-      <p>Dans la mesure du possible, dites aux gens ce qu’ils peuvent ou doivent faire plutôt que ce qu’ils ne peuvent ou ne doivent pas faire pour effectuer leur tâche. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
-      <h4>Examples of positive and negative sentences</h4>
-      <ul>
-        <li><b>Positif</b>&nbsp;: Vous recevrez votre avis de cotisation une fois que vous aurez fait votre déclaration de revenus.<br>
-            <b>Négatif</b>&nbsp;: Vous ne pouvez pas recevoir votre avis de cotisation si vous n’avez pas effectué votre déclaration de revenus.</li>
-        <li><b>Positif</b>&nbsp;: Vous pouvez déduire une partie du montant à la ligne 147 de votre déclaration de revenus.<br>
-            <b>Négatif</b>&nbsp;: Vous ne pouvez déduire qu’une partie du montant de la ligne 147 de votre déclaration de revenus.</li>
-        <li><b>Positif</b>&nbsp;: La procédure sera efficace.<br>
-            <b>Double négation</b>&nbsp;: La procédure ne sera pas inefficace.</li>
-        <li><b>Positif</b>&nbsp;:  Vous pouvez demander une déduction pour un enfant à charge né en 1972 ou avant si cet enfant a une déficience mentale ou physique.<br>
-            <b>Double négation</b>&nbsp;: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n’ait une déficience mentale ou physique.</li>
-      </ul>
+      <p><strong>Positif</strong>&nbsp;: Vous recevrez votre avis de cotisation une fois que vous aurez fait votre déclaration de revenus.<br>
+            <strong>Négatif</strong>&nbsp;: Vous ne pouvez pas recevoir votre avis de cotisation si vous n’avez pas effectué votre déclaration de revenus.</p>
+        <p><strong>Positif</strong>&nbsp;: Vous pouvez déduire une partie du montant à la ligne 147 de votre déclaration de revenus.<br>
+            <strong>Négatif</strong>&nbsp;: Vous ne pouvez déduire qu’une partie du montant de la ligne 147 de votre déclaration de revenus.</p>
+        <p><strong>Positif</strong>&nbsp;: La procédure sera efficace.<br>
+            <strong>Double négation</strong>&nbsp;: La procédure ne sera pas inefficace.</p>
+        <p><strong>Positif</strong>&nbsp;:  Vous pouvez demander une déduction pour un enfant à charge né en 1972 ou avant si cet enfant a une déficience mentale ou physique.<br>
+            <strong>Double négation</strong>&nbsp;: Vous ne pouvez pas demander une déduction pour un enfant à charge né en 1972 ou avant, à moins que cet enfant n’ait une déficience mentale ou physique.</p>
       <h5>Exception&nbsp;: Utilisation acceptable de la forme négative</h5>
       <p>Vous pouvez utiliser la forme négative lorsque quelque chose a des conséquences graves ou fatales. La forme négative est utile pour exprimer ce qui n’est pas possible ou doit être évité.</p>
       <h5>Exemples d’utilisation de la forme négative pour quelque chose pouvant avoir des conséquences graves</h5>
