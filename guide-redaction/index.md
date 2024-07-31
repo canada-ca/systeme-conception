@@ -514,22 +514,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>utilisez des listes verticales pour présenter une série de plus de 2 idées ou de mots;</li>
     </ul>
     <h4>Exemples de phrases raccourcies</h4>
-    <ul>
-      <li><b>Écrivez</b>&nbsp;: Nous avons reçu et approuvé votre demande de financement.<br>
-          <b>Au lieu de </b>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</li>
-      <li><b>Écrivez</b>&nbsp;: Nous examinerons tout type d’investissement.<br>
-          <b>Au lieu de</b>&nbsp;: Tout type d’investissement fera l’objet d’un examen de notre part.</li>
-    </ul>
+      <p><strong>Écrivez</strong>&nbsp;: Nous avons reçu et approuvé votre demande de financement.<br>
+          <strong>Au lieu de </strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
+      <p><strong>Écrivez</strong>&nbsp;: Nous examinerons tout type d’investissement.<br>
+          <strong>Au lieu de</strong>&nbsp;: Tout type d’investissement fera l’objet d’un examen de notre part.</p>
     <h4>Exemple de phrases simples</h4>
-     <ul>
-      <li><b>Écrivez</b>&nbsp;: Renseignez-vous au sujet du réseau de transport du Canada. Trouvez des renseignements au sujet des routes, les pistes cyclables, les ports et les aéroports partout au pays.<br>
-          <b>Au lieu de</b>&nbsp;: Le réseau de transport du Canada, avec ses routes, ses pistes cyclables, ses ports et ses aéroports, est vaste, et ce site vous fournira une foule d’informations au sujet du réseau d’un bout à l’autre du pays.</li>
-    </ul>
+      <p><strong>Écrivez</strong>&nbsp;: Renseignez-vous au sujet du réseau de transport du Canada. Trouvez des renseignements au sujet des routes, les pistes cyclables, les ports et les aéroports partout au pays.<br>
+          <strong>Au lieu de</strong>&nbsp;: Le réseau de transport du Canada, avec ses routes, ses pistes cyclables, ses ports et ses aéroports, est vaste, et ce site vous fournira une foule d’informations au sujet du réseau d’un bout à l’autre du pays.</p>
     <h4>Exemple d’énoncé direct</h4>
-      <ul>
-      <li><b>Écrivez</b>&nbsp;: Vous avez jusqu’au 30 avril pour soumettre votre déclaration de revenus.<br>
-          <b>Au lieu de</b>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30 avril.</li>
-    </ul>
+      <p><strong>Écrivez</strong>&nbsp;: Vous avez jusqu’au 30 avril pour soumettre votre déclaration de revenus.<br>
+          <strong>Au lieu de</strong>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30 avril.</p>
     <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-5">2.6 Use short sentences and paragraphs</a></span></li>
@@ -542,11 +536,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Lorsque vous expliquez une exigence qui découle d’un article de loi ou d’un règlement, évitez de spécifier le nom de la loi ou du règlement. Donnez simplement les renseignements dont les gens ont besoin pour accomplir la tâche.</p>
     <p>Si vous <b>devez</b> inclure le nom de la loi ou du règlement, fournissez-en toujours une description en langage clair. Expliquez d’abord ce que votre public cible a besoin de savoir et pourquoi il doit en savoir plus sur cette loi ou ce règlement. Puis, vous pouvez ajouter la référence à la loi ou au règlement.</p>
     <h4>Exemple de phrase faisant référence à une loi</h4>
-    <ul>
-      <li><b>Écrivez</b>&nbsp;: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.<br>
+      <p><strong>Écrivez</strong>&nbsp;: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.<br>
           Lien connexe<br>
           <a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html">Loi sur la citoyenneté, article 5.1</a><br>
-          <b>Au lieu de</b>&nbsp;: Après l’arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l’enfant en vertu de l’article 5.1 de la <cite>Loi sur la citoyenneté</cite>.</li>
+          <strong>Au lieu de</strong>&nbsp;: Après l’arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l’enfant en vertu de l’article 5.1 de la <cite>Loi sur la citoyenneté</cite>.</p>
     </ul>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
