@@ -349,8 +349,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </li>
     </ol>
       <h4 id="wp2-2-2">Aller droit au but</h4>
-      <p><b>Soyez direct</b>. Rédigez des énoncés directs qui aident votre public cible à accomplir sa tâche. Le contenu doit être facile à trouver, à lire et à comprendre.</p>
-      <p><b>Restez dans le sujet</b>. Évitez de distraire vos lecteurs avec du contenu inutile, comme des messages de bienvenue ou des renseignements généraux.</p>
+      <p><strong>Soyez direct</strong>. Rédigez des énoncés directs qui aident votre public cible à accomplir sa tâche. Le contenu doit être facile à trouver, à lire et à comprendre.</p>
+      <p><strong>Restez dans le sujet</strong>. Évitez de distraire vos lecteurs avec du contenu inutile, comme des messages de bienvenue ou des renseignements généraux.</p>
       <h5>Exemple d’énoncé direct</h5>
       <p><strong>Écrivez</strong>&nbsp;: Présentez votre passeport à l’agent des services frontaliers.<br>
         <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l’agent qui vous accueille à l’aéroport.</p>
@@ -390,7 +390,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </div>
   </section>
   <section id="wp2-4">
-    <h3>2.3 Rédiger avec la voix active, directe, et affirmative</h3>
+    <h3>2.4 Rédiger avec la voix active, directe, et affirmative</h3>
     <p>Rédigez à la voix active et à la forme positive. Dirigez vos lecteurs vers ce qu’ils ont besoin de savoir. Utilisez des verbes d’action pour les guider vers les prochaines étapes.</p>
     <section>
       <h4 id="wp2-4-1">Écrire à la voix active</h4>
@@ -414,7 +414,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <ul>
         <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/cles-de-la-redaction/communication-claire-privilegiez-la-voix-active"><cite>Clés de la rédaction</cite> &nbsp;: Communication claire&nbsp;: privilégiez la voix active</a></li>
       </ul>
-      <h4 id="wp2-4-3">Exemples de formes positives et négatives</h4>
+      <h5>Utiliser la forme affirmative</h5>
+      <p>Dans la mesure du possible, dites aux gens ce qu’ils peuvent ou doivent faire plutôt que ce qu’ils ne peuvent ou ne doivent pas faire pour effectuer leur tâche. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
+      <h5 id="wp2-4-3">Exemples de formes positives et négatives</h5>
       <p>Dans la mesure du possible, dites aux gens ce qu’ils peuvent ou doivent faire plutôt que ce qu’ils ne peuvent ou ne doivent pas faire pour effectuer leur tâche. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
       <h4>Examples of positive and negative sentences</h4>
       <ul>
