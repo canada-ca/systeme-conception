@@ -535,8 +535,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Lorsque vous expliquez une exigence qui découle d’un article de loi ou d’un règlement, évitez de spécifier le nom de la loi ou du règlement. Donnez simplement les renseignements dont les gens ont besoin pour accomplir la tâche.</p>
     <p>Si vous <b>devez</b> inclure le nom de la loi ou du règlement, fournissez-en toujours une description en langage clair. Expliquez d’abord ce que votre public cible a besoin de savoir et pourquoi il doit en savoir plus sur cette loi ou ce règlement. Puis, vous pouvez ajouter la référence à la loi ou au règlement.</p>
     <h4>Exemple de phrase faisant référence à une loi</h4>
-      <p><strong>Écrivez</strong>&nbsp;: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.<br>
-          Lien connexe<br>
+      <p><strong>Écrivez</strong>&nbsp;: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.</p>
+          <p>Lien connexe
           <a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html"><cite>Loi sur la citoyenneté</cite>, article 5.1</a></p>
           <p><strong>Au lieu de</strong>&nbsp;: Après l’arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l’enfant en vertu de l’article 5.1 de la <cite>Loi sur la citoyenneté</cite>.</p>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
