@@ -478,7 +478,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4 id="wp2-5-1">Déterminer les mots-clés que votre public utilise pour trouver votre contenu</h4>
     <p>Les mots-clés sont des mots dont votre public cible se sert pour trouver votre contenu. Il s’agit des mots les plus courants pour discuter d’un sujet donné ou d’en faire la recherche.</p>
     <p>Si vous avez accès à des sources primaires (entrevues, recherche sur l’utilisabilité, tickets de soutien, courriels, transcriptions d’appels, etc.), utilisez-les pour déterminer vos mots-clés.</p>
-    <p>utilisez-les pour déterminer vos mots-clés. Vous pouvez également utiliser des outils de recherche de mots-clés en ligne. Voici quelques exemples d’outils qui permettent de déterminer des mots-clés populaires&nbsp;:</p>
+    <p>Vous pouvez également utiliser des outils de recherche de mots-clés en ligne. Voici quelques exemples d’outils qui permettent de déterminer des mots-clés populaires&nbsp;:</p>
     <ul>
       <li><a href="https://ahrefs.com/fr/free-seo-tools">Ahrefs, Outils de référencement gratuits</a></li>
       <!-- <li><a href="http://www.bing.com/toolbox/keywords">Bing Keyword Research (need Microsoft account to access)</a></li> -->
