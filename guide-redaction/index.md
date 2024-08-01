@@ -570,7 +570,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h4>Articles pertinents sur la communication claire dans les <cite>Clés de la rédaction</cite>&nbsp;:</h4>
     <ul>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-choisissez-des-mots-clairsl">choisissez des mots clairs</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-choisissez-des-mots-clairs">choisissez des mots clairs</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-clarifiez-vos-phrases">clarifiez vos phrases</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-courriels-pertinents-et-efficaces">courriels pertinents et efficaces</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-eliminez-les-ambiguites">éliminez les ambiguïtés</a></li>
