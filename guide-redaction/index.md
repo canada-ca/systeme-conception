@@ -553,7 +553,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li>Gouvernement du Québec&nbsp;:
         <ul>
-        <li><a href="https://design.quebec.ca/contenu/principes-redaction/langage-clair-simple#c119239">Langage clair et simple</a></li>
+        <li><a href="https://design.quebec.ca/contenu/principes-redaction/langage-clair-simple">Langage clair et simple</a></li>
         <li><a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/25029/banque-de-depannage-linguistique/la-redaction-et-la-communication/redaction-pour-le-web/conseils-pour-simplifier-un-texte-destine-au-web">Conseils pour simplifier un texte destiné au Web</a></li>
         <li><a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/25035/banque-de-depannage-linguistique/la-redaction-et-la-communication/redaction-pour-le-web/principes-de-redaction-pour-le-web">Principes de rédaction pour le Web</a></li>
         </ul>
