@@ -537,7 +537,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Exemple de phrase faisant référence à une loi</h4>
       <p><strong>Écrivez</strong>&nbsp;: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.<br>
           Lien connexe<br>
-          <a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html">Loi sur la citoyenneté, article 5.1</a></p>
+          <a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html"><cite>Loi sur la citoyenneté</cite>, article 5.1</a></p>
           <p><strong>Au lieu de</strong>&nbsp;: Après l’arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l’enfant en vertu de l’article 5.1 de la <cite>Loi sur la citoyenneté</cite>.</p>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
