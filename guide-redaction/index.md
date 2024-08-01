@@ -339,11 +339,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><strong>Plus d’information</strong>&nbsp;:
         <ul>
           <li>Seulement inclure des renseignements supplémentaires qui appuient l’information la plus importante. Ceux-ci peuvent inclure&nbsp;:
-          <ol>
+          <ul>
             <li>liens connexes qui peuvent aider certaines personnes (statistiques citées, initiatives connexes, publications pertinentes, etc.);</li>
             <li>renseignements pour les gens qui souhaitent en savoir plus sur le sujet;</li>
             <li>renseignements pour les gens qui ont plus de connaissances sur le sujet ou le service.</li>
-          </ol>
+          </ul>
           </li>
         </ul>
       </li>
