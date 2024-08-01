@@ -480,12 +480,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Si vous avez accès à des sources primaires (entrevues, recherche sur l’utilisabilité, tickets de soutien, courriels, transcriptions d’appels, etc.), utilisez-les pour déterminer vos mots-clés.</p>
     <p>Vous pouvez également utiliser des outils de recherche de mots-clés en ligne. Voici quelques exemples d’outils qui permettent de déterminer des mots-clés populaires&nbsp;:</p>
     <ul>
-      <li><a href="https://ahrefs.com/fr/free-seo-tools">Ahrefs, Outils de référencement gratuits</a></li>
-      <!-- <li><a href="http://www.bing.com/toolbox/keywords">Bing Keyword Research (need Microsoft account to access)</a></li> -->
-      <li><a href="https://trends.google.fr/trends/">Tendances de recherche (Google Trends)</a>(aucun compte requis)</li>
-      <li><a href="http://adwords.google.com/keywordplanner">Google Keyword Planner (need Google AdWords to access)</a></li>
-      <li><a href="https://www.thehoth.com/google-keyword-planner?">Hoth Free Google Keyword Planner</a> (en anglais seulement; aucun compte requis)</li>
-      <li><a href="https://moz.com/explorer">Moz Keyword Explorer</a> (en anglais seulement)</li>
+      <li><a href="https://ahrefs.com/fr/free-seo-tools">Ahrefs, Outils de référencement gratuits (aucun compte requis)</a></li>
+      <li><a href="https://trends.google.fr/trends/">Tendances de recherche Google Trends; aucun compte requis)</a></li>
+      <li><a href="http://adwords.google.com/keywordplanner">Google Keyword Planner (compte GoogleAdWords requis)</a></li>
+      <li><a href="https://www.thehoth.com/google-keyword-planner?">Hoth Free Google Keyword Planner (en anglais seulement; aucun compte requis)</a></li>
+      <li><a href="https://moz.com/explorer">Moz Keyword Explorer (en anglais seulement)</a></li>
     </ul>
     <p>Certains de ces outils ne sont offerts qu’en anglais, et d’autres sont offerts en français si votre navigateur est configuré en français.</p>
     <p>Consultez vos données d’analyse Web pour savoir quels termes votre public utilise pour chercher du contenu connexe.</p>
