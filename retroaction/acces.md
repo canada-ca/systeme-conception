@@ -37,6 +37,20 @@ Le visualiseur de rétroaction est un environnement protégé par un mot de pass
 
 Adresse courriel&nbsp;: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
+### Filtres du visualiseur de rétroaction
+
+Le visualiseur de rétroaction comprend des filtres qui vous permettent d’accéder à une rétroaction en particulier et de la télécharger, notamment&nbsp;:
+* Plage de dates
+* Institution, thème et section de contenu
+* URL
+* Langue
+* Recherche dans les champs de rétroaction
+
+<details>
+  <summary>Image du visualiseur de rétroaction</summary>
+  <p><img src="images/feedback-viewer.png" alt="Image du visualiseur de rétroaction" class="img-responsive"/></p>
+</details>
+
 ## Durée de conservation de la rétroaction
 
 Le visionneur de rétroaction ne conserve les commentaires provenant de l’outil de rétroaction sur la page que pour six mois.
@@ -77,20 +91,6 @@ Les commentaires sont supprimés au cours de la première semaine de chaque trim
 		</tr>
 	</tbody>
 </table>
-
-### Filtres du visualiseur de rétroaction
-
-Le visualiseur de rétroaction comprend des filtres qui vous permettent d’accéder à une rétroaction en particulier et de la télécharger, notamment&nbsp;:
-* Plage de dates
-* Institution, thème et section de contenu
-* URL
-* Langue
-* Recherche dans les champs de rétroaction
-
-<details>
-  <summary>Image du visualiseur de rétroaction</summary>
-  <p><img src="images/feedback-viewer.png" alt="Image du visualiseur de rétroaction" class="img-responsive"/></p>
-</details>
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
