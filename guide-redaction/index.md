@@ -481,7 +481,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vous pouvez également utiliser des outils de recherche de mots-clés en ligne. Voici quelques exemples d’outils qui permettent de déterminer des mots-clés populaires&nbsp;:</p>
     <ul>
       <li><a href="https://ahrefs.com/fr/free-seo-tools">Ahrefs, Outils de référencement gratuits (aucun compte requis)</a></li>
-      <li><a href="https://trends.google.fr/trends/">Tendances de recherche Google Trends; aucun compte requis)</a></li>
+      <li><a href="https://trends.google.fr/trends/">Tendances de recherche Google Trends (aucun compte requis)</a></li>
       <li><a href="http://adwords.google.com/keywordplanner">Google Keyword Planner (compte GoogleAdWords requis)</a></li>
       <li><a href="https://www.thehoth.com/google-keyword-planner?">Hoth Free Google Keyword Planner (en anglais seulement; aucun compte requis)</a></li>
       <li><a href="https://moz.com/explorer">Moz Keyword Explorer (en anglais seulement)</a></li>
