@@ -8,7 +8,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 ---
 <h2>le 6 août 2024</h2>
 <ul>
-<li>Nous avons mis à jour la section 2.0 Langage clair et simple pour qu’elle corresponde davantage à la norme sur le langage clair et simple développée par l’Organisation internationale de normalisation (ISO). Les modifications apportées ont été faites en collaboration avec des spécialistes du langage clair et de la communication de l’ensemble du gouvernement du Canada.</li>
+<li>Nous avons mis à jour la section <a href="/guide-redaction/#toc6">2.0 Langage clair et simple</a> pour qu’elle corresponde davantage à la norme sur le langage clair et simple développée par l’Organisation internationale de normalisation (ISO). Les modifications apportées ont été faites en collaboration avec des spécialistes du langage clair et de la communication de l’ensemble du gouvernement du Canada.</li>
 </ul>
 <h2>le 9 février 2024</h2>
 <ul class="mrgn-tp-lg">
