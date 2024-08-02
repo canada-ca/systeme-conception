@@ -664,7 +664,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Au lieu de</strong>&nbsp;: Comment dois-je renouveler mon passeport?</p>
       <h5>Exception</h5>
       <p>Vous pouvez utiliser &laquo;&nbsp;mon&nbsp;&raquo;, &laquo;&nbsp;ma&nbsp;&raquo;, &laquo;&nbsp;mes&nbsp;&raquo;&nbsp;dans le contenu, les titres de page et les liens lorsqu'il s'agit de <strong>noms&nbsp;propres </strong>(par exemple, Mon dossier Service Canada).</p>
-      <h4>Voyez comment la règle sur la manière de s'adresser directement à la personne s'applique à un contenu de langue anglaise</h4>
+      <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
       <ul>
         <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-1">3.1 Write directly to the person</a></span></li>
       </ul>
@@ -709,7 +709,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
         <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis. </p>
     </section>
-    <h4>Voyez comment la règle sur la manière de désigner le gouvernement du Canada s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-2">3.2 Use "we" to refer to the Government of Canada</a></span></li>
     </ul>
@@ -732,7 +732,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4>Exprimer une recommandation </h4>
       <p>Lorsque vous dites aux gens qu'une chose est permise sans être obligatoire, utilisez un vocabulaire qui dénote la permission ou la possibilité, tel que &laquo;&nbsp;pourriez&nbsp;&raquo; ou &laquo;&nbsp;pouvez&nbsp;&raquo;.</p>
     </section>
-    <h4>Voyez comment la règle sur la manière d'exprimer une obligation ou une recommandation s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-3">3.3 Expressing an obligation or a recommendation</a></span></li>
     </ul>
@@ -859,7 +859,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>d'autres représentants.</li>
       </ul>
     </section>
-    <h4>Voyez comment la règle sur les majuscules et la ponctuation s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-1">4.1 Capitalization and punctuation</a></span></li>
     </ul>
@@ -895,7 +895,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/titres-de-lois-reglements-accords-chartes-decrets">titres de lois (règlements, accords, chartes, décrets, etc.)</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique#e">titres de lois et autres textes juridiques de l’article &laquo;&nbsp;noms propres (italique)&nbsp;&raquo;</a></li>
     </ul>
-    <h4>Voyez comment la règle sur les caractères gras, l'italique et le soulignement s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-2">4.2 Underlining, bold and italics</a></span></li>
     </ul>
@@ -918,7 +918,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li>100 $ par mois</li>
     </ul>
-    <h4>Voyez comment la règle sur les symboles s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-3">4.3 Symbols</a></span></li>
     </ul>
@@ -967,7 +967,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li><a href="https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html">Formules épistolaires</a>&nbsp;: comment s’adresser à des personnes spécifiques de façon appropriée et respectueuse.</li>
       </ul>
     </section>
-    <h4>Voyez comment la règle sur les abréviations et les acronymes s'applique à un contenu de langue anglaise.</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-4">4.4 Abbreviations and acronyms</a></span></li>
     </ul>
@@ -978,7 +978,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <section id="wp4-5">
     <h3>4.5 Forme contractée</h3>
     <p>Cette règle s’applique en anglais plutôt qu’en français. La forme contractée en français s’applique par défaut. En anglais, elle est facultative, mais elle est recommandée pour simplifier la lecture.</p>
-    <h4>Voyez comment la règle de Forme contractée s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-5">4.5 Contractions</a></span></li>
     </ul>
@@ -1015,7 +1015,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Les enfants âgés de 0 à 10 ans (et non &laquo;&nbsp;0–10 ans&nbsp;&raquo;)</li>
       <li>Les participants ont entre 0 et 10 ans</li>
     </ul>
-    <h4>Voyez comment la règle sur le style de présentation des nombres s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-6">4.6 Numbers</a></span></li>
     </ul>
@@ -1057,7 +1057,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </ul>
       </li>
     </ul>
-    <h4>Voyez comment la règle sur style de présentation des dates s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-7">4.7 Dates</a></span></li>
     </ul>
@@ -1071,7 +1071,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>16 h 30</li>
       <li>De 9 h à 17 h</li>
     </ul>
-    <h4>Voyez comment la règle sur le style de présentation des heures s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-8">4.8 Times</a></span></li>
     </ul>
@@ -1087,7 +1087,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>vous pouvez nous joindre au 819-123-4567</li>
       <li>613-999-9900 poste 123</li>
     </ul>
-    <h4>Voyez comment la règle sur le style de présentation des numéros de téléphone s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-9">4.9 Phone numbers</a></span></li>
     </ul>
@@ -1129,7 +1129,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Au lieu de</strong>&nbsp;: <a href="mailto:abcxyz@canada.ca">Contactez-nous par courriel</a> pour soumettre votre demande.</p>
     </section>
   </section>
-  <h4>Voyez comment la règle sur le style de présentation des Adresses s'applique à un contenu de langue anglaise</h4>
+  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-10">4.10 Addresses</a></span></li>
   </ul>
@@ -1282,7 +1282,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Métabalise Description</strong>&nbsp;: La métabalise Description est le contenu que vous voyez sous le texte en hyperlien bleu dans la liste des résultats de recherche. <strong>Évitez d'énumérer seulement des mots-clés,</strong> car les moteurs de recherche tendent à ne pas les prendre en considération. Écrivez une (1) ou 2 phrases courtes qui décrivent le contenu de la page. Assurez-vous d'inclure les mots-clés que vos publics cibles utilisent lorsqu'ils cherchent votre contenu (par exemple, des abréviations qu'ils connaissent bien).</p>
       <p>Reportez-vous à la <a href="#toc6">section sur le langage clair et simple</a> pour des conseils sur l'utilisation de mots-clés simples et courants.</p>
     </section>
-    <h4>Voyez comment la règle sur la rédaction de titres de pages et de sous-titres descriptifs s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-1">5.1 Write useful page titles and headings</a></span></li>
     </ul>
@@ -1365,7 +1365,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Cependant, il peut être approprié de présenter des éléments par ordre alphabétique, comme une liste de noms.</p>
       <p>Si vous présentez du contenu français par ordre alphabétique, présentez aussi le contenu traduit en anglais par ordre alphabétique pour offrir la même expérience intuitive.</p>
     </section>
-    <h4>Voyez comment la règle sur l'utilisation de listes d'éléments s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-2">5.2 Use lists to help people scan</a></span></li>
     </ul>
@@ -1664,7 +1664,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
     </section>
   </section>
-  <h4>Voyez comment la règle sur l'utilisation de tableaux s'applique à un contenu de langue anglaise</h4>
+  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-3">5.3 Use tables to organize data</a></span></li>
   </ul>
@@ -1943,7 +1943,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Référez-vous aux <a href="https://wet-boew.github.io/GCWeb/index-fr.html">types de pages de Canada.ca sur GitHub</a></li>
     </ul>
   </section>
-  <h4>Voyez comment la règle sur l'utilisation d'images s'applique à un contenu de langue anglaise</h4>
+  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-1">6.1 Understand the purpose of images online</a></span></li>
   </ul>
@@ -1964,7 +1964,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>ne décrivez pas une image ou un graphique par le même mot (par exemple, &laquo;&nbsp;image du...&nbsp;&raquo; ou &laquo;&nbsp;graphique des...&nbsp;&raquo;), car les lecteurs d'écran le font déjà.</li>
   </ul>
   <p>Les <a href="#wp6-1-2">images décoratives</a> n'exigent pas de renseignements supplémentaires pour les rendre accessibles ou visibles aux moteurs de recherche. Utilisez l'indicateur vide (alt="") en guise de texte alternatif.</p>
-  <h4>Voyez comment la règle sur l'ajout de texte alternatif s'applique à un contenu de langue anglaise</h4>
+  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-2">6.2 Include alternative text for images</a></span></li>
   </ul>
@@ -2072,7 +2072,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </table>
   </figure>
   <p>Collaborez avec votre équipe Web pour déterminer la meilleure façon d'insérer la description longue. Elle vous conseillera sur la façon de s'assurer que l'information contenue dans l'image est accessible aux personnes qui utilisent les technologies d'aide. Votre équipe Web s'assurera également que l'image respecte les <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-fra.asp">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite>.</p>
-  <h4>Voyez comment la règle sur l'ajout d'une description longue s'applique à un contenu de langue anglaise</h4>
+  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-3">6.3 Include long descriptions for complex images</a></span></li>
   </ul>
@@ -2095,7 +2095,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>les sons importants (comme une explosion);</li>
     <li>une action ou un élément visuel important (par exemple, une personne qui s'enfuit, qui porte un costume).</li>
   </ul>
-  <h4>Voyez comment la règle sur l'ajout d'une transcription aux fichiers audio et vidéo s'applique à un contenu de langue anglaise</h4>
+  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-4">6.4 Include transcripts to describe audio and video files</a></span></li>
   </ul>
@@ -2152,7 +2152,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Ajouter des liens vers d'autres pages Web pertinentes peut aider les gens à trouver rapidement des renseignements utiles. Les liens qui mènent à vos pages à partir d'autres pages Web peuvent aussi améliorer le classement de vos pages dans la liste des résultats générée par les moteurs de recherche.</p>
       <p>Choisissez avec soin les liens connexes. Trop de liens dans une page Web pourraient inciter les gens à quitter la page sans avoir lu l'information importante ou les dissuader d'exécuter une tâche.</p>
     </section>
-    <h4>Voyez comment la règle sur l'utilisation stratégique des liens s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-1">7.1 Use links strategically</a></span></li>
     </ul>
@@ -2246,7 +2246,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </li>
       </ul>
     </section>
-    <h4>Voyez comment la règle sur la rédaction de liens descriptifs s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
     </ul>
@@ -2269,7 +2269,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </li>
       <li>Vérifiez que les liens dirigent vers la bonne langue officielle.</li>
     </ul>
-    <h4>Voyez comment la règle sur la vérification des liens s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-3">7.3 Make sure that links work</a></span></li>
     </ul>
@@ -2281,7 +2281,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h3>7.4 Créer des liens vers du contenu interne</h3>
     <p>En général, le contenu destiné au public ne devrait pas contenir de liens renvoyant vers du contenu accessible seulement sur les serveurs internes du gouvernement. Il arrive cependant qu'un contenu accessible au public s'adresse essentiellement aux employés de la fonction publique.</p>
     <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</p>
-    <h4>Voyez comment la règle sur le contenu interne s'applique à un contenu de langue anglaise</h4>
+    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-4">7.4 Linking to internal-to-government content</a></span></li>
     </ul>
