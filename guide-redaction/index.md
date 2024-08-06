@@ -3111,7 +3111,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 	<h3 id="fn">Notes de bas de page</h3>
 	<dl>
 		<dt>Footnote 1</dt>
-		<dd id="fn1" tabindex="-1">
+		<dd id="fn1">
 			<p>International Plain Language Federation:<br><a href="https://www.iplfederation.org/plain-language">​https://www.iplfederation.org/plain-language</a></p>
 			<p class="fn-rtn small"><a href="#fn1-rf"><span class="wb-inv">Retour à la note de bas de page </span>1</a></p>
 		</dd>
