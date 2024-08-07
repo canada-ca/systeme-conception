@@ -1233,7 +1233,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4>Utiliser le titre et les sous-titres de la page pour mettre sa structure en évidence</h4>
       <p>Le titre de page, les titres de sections et les sous-titres de votre contenu Web aident les gens à trouver facilement des renseignements à l'écran. Utilisez des titres pour diviser le texte en sections logiques à environ tous les 200 mots.</p>
       <p>Structurer les titres clairement aide à établir l'autorité d'un titre par rapport à un autre.</p>
-      <p>Pour le <strong>titre</strong> de page:</p>
+      <p>Pour le <strong>titre</strong> de page :</p>
       <ul>
         <li>utilisez ce style de présentation&nbsp;: Titre 1</li>
         <li>une seule fois dans une page</li>
