@@ -1712,7 +1712,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <section id="wp6-1">
   <h3>6.1 Comprendre le but des images sur le Web</h3>
   <p>Les images peuvent distraire les gens. Elles peuvent aussi augmenter la durée de chargement de la page. Assurez-vous que vos images <strong>ajoutent une valeur réelle</strong> à votre contenu.</p>
-  <p>Il y a 2 principales catégories d'images:</p>
+  <p>Il y a 2 principales catégories d'images :</p>
   <ul>
     <li>fonctionnelles</li>
     <li>décoratives</li>
