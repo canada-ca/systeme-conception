@@ -2028,7 +2028,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vous pourriez écrire la description longue suivante&nbsp;:</p>
     <table class="table table-bordered table-condensed">
       <caption>
-      <strong>Figure 2: Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong>
+      <strong>Figure 2 : Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong>
       </caption>
       <thead>
         <tr class="active">
@@ -2296,7 +2296,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h3>Étude de cas A&nbsp;: simplifier le langage et améliorer la structure du contenu </h3>
   <h4>Avant</h4>
   <p>L'assurance-emploi est un programme qui offre un soutien de revenu temporaire aux Canadiens et aux personnes légalement autorisées à travailler au Canada qui ont un numéro d'assurance sociale valide et qui demeurent au Canada pendant la durée de leurs prestations. Le programme offre entre autres des prestations régulières aux personnes qui ont perdu leur emploi sans en être responsables (par exemple, à la suite d'un manque de travail ou parce qu'elles occupaient un emploi saisonnier) et qui sont prêtes et disposées à travailler et capables de le faire en tout temps, sans pouvoir trouver du travail.</p>
-  <p>Niveau de lecture Scolarius&nbsp;: 312 (initié)</p>
   <h4>Après</h4>
   <p>L'assurance-emploi peut offrir une aide financière si vous n'avez plus de travail. Vous pourriez recevoir de l'argent régulièrement, pendant un certain temps, pour vous permettre de vous concentrer sur vos recherches d'emploi.</p>
   <p>Pour y avoir droit, vous devez&nbsp;:</p>
@@ -2307,7 +2306,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>être prêt à travailler et capable de le faire en tout temps;</li>
     <li>demeurer au Canada pendant que vous recevez des prestations.</li>
   </ul>
-  <p>Niveau de lecture Scolarius&nbsp;: 71 (primaire)</p>
   <h4>Ce que nous avons fait</h4>
   <p>Pour améliorer le contenu, nous avons&nbsp;:</p>
   <ul>
