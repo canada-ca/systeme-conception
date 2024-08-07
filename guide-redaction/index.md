@@ -228,12 +228,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
   <section id="wp2-0">
   <h3>Exigences en matière de langage clair et simple</h3>
-    <p>L’utilisation d’un langage clair et simple est une exigence de la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a>.</p>
+    <p>L’utilisation d’un langage clair et simple est une exigence de la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682"><cite>Directive sur la gestion des communications</cite></a>.</p>
     <p>Le langage clair désigne une communication dont le vocabulaire, la structure et la conception sont si clairs que le public visé peut facilement&nbsp;:</p>
     <ul>
       <li><strong>trouver</strong> ce dont il a besoin;</li>
       <li><strong>comprendre</strong> ce qu’il trouve;</li>
-      <li><strong>utiliser </strong> les renseignements <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></li>
+      <li><strong>utiliser </strong> les renseignements. <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></li>
     </ul>
   <p>Rédiger en langage clair ne veut pas dire que vous devez laisser des informations essentielles de côté ou simplifier vos textes d’une façon extrême. Au contraire, une rédaction en langage clair rend les renseignements cruciaux plus accessibles et plus faciles à lire pour tous.</p>
   <p>Un langage clair bénéficie à tout le monde, y compris aux personnes qui gèrent les situations suivantes&nbsp;:</p>
@@ -256,7 +256,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Essayez ces techniques pour rendre votre texte aussi facile à lire et à comprendre que possible&nbsp;:</p>
     <h4 id="wp2-1-1">Style</h4>
     <ul>
-      <li><strong>Écrire comme on parle</strong>&nbsp;:écrivez comme si vous vous adressiez directement à votre lecteur. Utilisez les pronoms de la première ou de la deuxième personne (je, nous, vous) plutôt que ceux de la troisième personne (il, elle, ils).
+      <li><strong>Écrire comme on parle</strong>&nbsp;: écrivez comme si vous vous adressiez directement à votre lecteur. Utilisez les pronoms de la première ou de la deuxième personne (je, nous, vous) plutôt que ceux de la troisième personne (il, elle, ils).
         <ul>
           <li>(voir <a href="#toc7">section 3, ton</a>)</li>
         </ul>
@@ -321,7 +321,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </figure>
       </div>
     </div>
-    <p>La pyramide inversée est composée de quatre étapes, de l’information la plus importante pour votre public dans le haut à l’information la moins pertinente dans le bas. La liste suivante vous aidera à planifier et organiser votre contenu&nbsp;:</p>
+    <p>La pyramide inversée est composée de 3 étapes, de l’information la plus importante pour votre public dans le haut à l’information la moins pertinente dans le bas. La liste suivante vous aidera à planifier et organiser votre contenu&nbsp;:</p>
     <ol>
       <li><strong>Information la plus importante</strong>&nbsp;:
         <ul>
@@ -960,7 +960,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Vous pouvez utiliser ces abréviations quand l'espace est restreint (par exemple, dans un tableau ou dans un schéma).</p>
     </section>
     <section id="wp4-4-2">
-      <h4>Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</h4>
+      <h4>Formules épistolaires&nbsp;: Comment abréger et ponctuer les titres avec les prénoms et noms</h4>
       <p>Suivez les consignes des <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite></a>&nbsp;:</p>
       <ul>
         <li>Comment <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/docteur.html">employer le titre &laquo;&nbsp;docteur&nbsp;&raquo; ou &laquo;&nbsp;docteure&nbsp;&raquo; et son abréviation</a>.</li>
