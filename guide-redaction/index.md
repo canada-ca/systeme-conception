@@ -1243,12 +1243,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>utilisez ce style de présentation&nbsp;: Sous-titre 2</li>
         <li>plusieurs fois dans une page</li>
       </ul>
-      <p>Pour une <strong>sous-section</strong>:</p>
+      <p>Pour une <strong>sous-section</strong> :</p>
       <ul>
         <li>utilisez ce style de présentation&nbsp;: Sous-titre 3</li>
         <li>plusieurs fois et dans maintes sections principales</li>
       </ul>
-      <p>Pour une <strong>sous-sous-section</strong>:</p>
+      <p>Pour une <strong>sous-sous-section</strong> :</p>
       <ul>
         <li>utilisez ce style de présentation&nbsp;: Sous-titre 4 (et ainsi de suite)</li>
         <li>plusieurs fois et dans maintes sous-sections</li>
