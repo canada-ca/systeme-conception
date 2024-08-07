@@ -412,7 +412,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <p>Chaque fois que vous le pouvez, prenez le temps de réécrire les phrases passives. Pour en savoir plus sur à sujet, consultez l’article suivant&nbsp;:</p>
       <ul>
-        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/cles-de-la-redaction/communication-claire-privilegiez-la-voix-active"><cite>Clés de la rédaction</cite> &nbsp;: Communication claire&nbsp;: privilégiez la voix active</a></li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/cles-de-la-redaction/communication-claire-privilegiez-la-voix-active"><cite>Clés de la rédaction</cite>&nbsp;: Communication claire&nbsp;: privilégiez la voix active</a></li>
       </ul>
       <h4>Utiliser la forme affirmative</h4>
       <p>Dans la mesure du possible, dites aux gens ce qu’ils peuvent ou doivent faire plutôt que ce qu’ils ne peuvent ou ne doivent pas faire pour effectuer leur tâche. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
