@@ -679,7 +679,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Nous fournissons généralement des renseignements du point de vue de l'ensemble du gouvernement plutôt que de celui d'une institution en particulier.</p>
     <p>Utilisez la première personne du pluriel (nous, notre et nos) lorsque vous rédigez au nom du gouvernement du Canada.</p>
     <h4>Exemples d'énoncé formulé avec &laquo;&nbsp;nous&nbsp;&raquo; ou &laquo;&nbsp;notre&nbsp;&raquo; pour faire référence au gouvernement du Canada</h4>
-    <p><strong>Écrivez</strong>: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, nous renouvellerons automatiquement votre demande existante.<br>
+    <p><strong>Écrivez</strong>&nbsp;: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, nous renouvellerons automatiquement votre demande existante.<br>
       <strong>Au lieu de</strong>&nbsp;: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, Service Canada renouvellera automatiquement votre demande existante. </p>
     <p class="mrgn-tp-lg">Utilisez &laquo;&nbsp;gouvernement du Canada&nbsp;&raquo; pour&nbsp;:</p>
     <ul>
