@@ -228,12 +228,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
   <section id="wp2-0">
   <h3>Exigences en matière de langage clair et simple</h3>
-    <p>L’utilisation d’un langage clair et simple est une exigence de la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a>.</p>
+    <p>L’utilisation d’un langage clair et simple est une exigence de la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682"><cite>Directive sur la gestion des communications</cite></a>.</p>
     <p>Le langage clair désigne une communication dont le vocabulaire, la structure et la conception sont si clairs que le public visé peut facilement&nbsp;:</p>
     <ul>
       <li><strong>trouver</strong> ce dont il a besoin;</li>
       <li><strong>comprendre</strong> ce qu’il trouve;</li>
-      <li><strong>utiliser </strong> les renseignements <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></li>
+      <li><strong>utiliser </strong> les renseignements. <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></li>
     </ul>
   <p>Rédiger en langage clair ne veut pas dire que vous devez laisser des informations essentielles de côté ou simplifier vos textes d’une façon extrême. Au contraire, une rédaction en langage clair rend les renseignements cruciaux plus accessibles et plus faciles à lire pour tous.</p>
   <p>Un langage clair bénéficie à tout le monde, y compris aux personnes qui gèrent les situations suivantes&nbsp;:</p>
@@ -256,7 +256,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Essayez ces techniques pour rendre votre texte aussi facile à lire et à comprendre que possible&nbsp;:</p>
     <h4 id="wp2-1-1">Style</h4>
     <ul>
-      <li><strong>Écrire comme on parle</strong>&nbsp;:écrivez comme si vous vous adressiez directement à votre lecteur. Utilisez les pronoms de la première ou de la deuxième personne (je, nous, vous) plutôt que ceux de la troisième personne (il, elle, ils).
+      <li><strong>Écrire comme on parle</strong>&nbsp;: écrivez comme si vous vous adressiez directement à votre lecteur. Utilisez les pronoms de la première ou de la deuxième personne (je, nous, vous) plutôt que ceux de la troisième personne (il, elle, ils).
         <ul>
           <li>(voir <a href="#toc7">section 3, ton</a>)</li>
         </ul>
@@ -321,7 +321,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </figure>
       </div>
     </div>
-    <p>La pyramide inversée est composée de quatre étapes, de l’information la plus importante pour votre public dans le haut à l’information la moins pertinente dans le bas. La liste suivante vous aidera à planifier et organiser votre contenu&nbsp;:</p>
+    <p>La pyramide inversée est composée de 3 étapes, de l’information la plus importante pour votre public dans le haut à l’information la moins pertinente dans le bas. La liste suivante vous aidera à planifier et organiser votre contenu&nbsp;:</p>
     <ol>
       <li><strong>Information la plus importante</strong>&nbsp;:
         <ul>
@@ -412,7 +412,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <p>Chaque fois que vous le pouvez, prenez le temps de réécrire les phrases passives. Pour en savoir plus sur à sujet, consultez l’article suivant&nbsp;:</p>
       <ul>
-        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/cles-de-la-redaction/communication-claire-privilegiez-la-voix-active"><cite>Clés de la rédaction</cite> &nbsp;: Communication claire&nbsp;: privilégiez la voix active</a></li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/cles-de-la-redaction/communication-claire-privilegiez-la-voix-active"><cite>Clés de la rédaction</cite>&nbsp;: Communication claire&nbsp;: privilégiez la voix active</a></li>
       </ul>
       <h4>Utiliser la forme affirmative</h4>
       <p>Dans la mesure du possible, dites aux gens ce qu’ils peuvent ou doivent faire plutôt que ce qu’ils ne peuvent ou ne doivent pas faire pour effectuer leur tâche. Évitez la forme négative, les doubles négations et les exceptions aux exceptions.</p>
@@ -515,7 +515,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h4>Exemples de phrases raccourcies</h4>
       <p><strong>Écrivez</strong>&nbsp;: Nous avons reçu et approuvé votre demande de financement.<br>
-          <strong>Au lieu de </strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
+          <strong>Au lieu de</strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
       <p><strong>Écrivez</strong>&nbsp;: Nous examinerons tout type d’investissement.<br>
           <strong>Au lieu de</strong>&nbsp;: Tout type d’investissement fera l’objet d’un examen de notre part.</p>
     <h4>Exemple de phrases simples</h4>
@@ -679,7 +679,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Nous fournissons généralement des renseignements du point de vue de l'ensemble du gouvernement plutôt que de celui d'une institution en particulier.</p>
     <p>Utilisez la première personne du pluriel (nous, notre et nos) lorsque vous rédigez au nom du gouvernement du Canada.</p>
     <h4>Exemples d'énoncé formulé avec &laquo;&nbsp;nous&nbsp;&raquo; ou &laquo;&nbsp;notre&nbsp;&raquo; pour faire référence au gouvernement du Canada</h4>
-    <p><strong>Écrivez</strong>: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, nous renouvellerons automatiquement votre demande existante.<br>
+    <p><strong>Écrivez</strong>&nbsp;: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, nous renouvellerons automatiquement votre demande existante.<br>
       <strong>Au lieu de</strong>&nbsp;: Si vous avez déposé une nouvelle demande de prestations au cours des 52 dernières semaines et qu'il y a des semaines payables restantes sur cette demande, Service Canada renouvellera automatiquement votre demande existante. </p>
     <p class="mrgn-tp-lg">Utilisez &laquo;&nbsp;gouvernement du Canada&nbsp;&raquo; pour&nbsp;:</p>
     <ul>
@@ -875,7 +875,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Soulignement</h4>
     <p>Utilisez le soulignement seulement pour les liens.</p>
     <h4>Caractères gras</h4>
-    <p>Utilisez les caractères gras pour mettre du texte en évidence, <strong>mais</strong> utilisez-les avec modération: plus vous faites usage de cette mise en forme, moins elle est efficace.</p>
+    <p>Utilisez les caractères gras pour mettre du texte en évidence, <strong>mais</strong> utilisez-les avec modération : plus vous faites usage de cette mise en forme, moins elle est efficace.</p>
     <h4>Italique</h4>
     <p>Les personnes qui ont une dyslexie ou d'autres troubles de lecture pourraient avoir de la difficulté à lire un texte en italique.</p>
     <p>N'utilisez pas l'italique&nbsp;:</p>
@@ -960,7 +960,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Vous pouvez utiliser ces abréviations quand l'espace est restreint (par exemple, dans un tableau ou dans un schéma).</p>
     </section>
     <section id="wp4-4-2">
-      <h4>Formules épistolaires: Comment abréger et ponctuer les titres avec les prénoms et noms</h4>
+      <h4>Formules épistolaires&nbsp;: Comment abréger et ponctuer les titres avec les prénoms et noms</h4>
       <p>Suivez les consignes des <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite></a>&nbsp;:</p>
       <ul>
         <li>Comment <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/docteur.html">employer le titre &laquo;&nbsp;docteur&nbsp;&raquo; ou &laquo;&nbsp;docteure&nbsp;&raquo; et son abréviation</a>.</li>
@@ -1219,7 +1219,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <section id="wp5-1-2">
       <h4>Donner un titre unique à votre page</h4>
-      <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon:</p>
+      <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon :</p>
       <ul>
         <li>le titre de page;</li>
         <li>les titres de sections;</li>
@@ -1233,7 +1233,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4>Utiliser le titre et les sous-titres de la page pour mettre sa structure en évidence</h4>
       <p>Le titre de page, les titres de sections et les sous-titres de votre contenu Web aident les gens à trouver facilement des renseignements à l'écran. Utilisez des titres pour diviser le texte en sections logiques à environ tous les 200 mots.</p>
       <p>Structurer les titres clairement aide à établir l'autorité d'un titre par rapport à un autre.</p>
-      <p>Pour le <strong>titre</strong> de page:</p>
+      <p>Pour le <strong>titre</strong> de page :</p>
       <ul>
         <li>utilisez ce style de présentation&nbsp;: Titre 1</li>
         <li>une seule fois dans une page</li>
@@ -1243,12 +1243,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>utilisez ce style de présentation&nbsp;: Sous-titre 2</li>
         <li>plusieurs fois dans une page</li>
       </ul>
-      <p>Pour une <strong>sous-section</strong>:</p>
+      <p>Pour une <strong>sous-section</strong> :</p>
       <ul>
         <li>utilisez ce style de présentation&nbsp;: Sous-titre 3</li>
         <li>plusieurs fois et dans maintes sections principales</li>
       </ul>
-      <p>Pour une <strong>sous-sous-section</strong>:</p>
+      <p>Pour une <strong>sous-sous-section</strong> :</p>
       <ul>
         <li>utilisez ce style de présentation&nbsp;: Sous-titre 4 (et ainsi de suite)</li>
         <li>plusieurs fois et dans maintes sous-sections</li>
@@ -1627,7 +1627,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </tbody>
       </table>
       <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
-      <h6>Exemple: conversion de tableaux en texte </h6>
+      <h6>Exemple : conversion de tableaux en texte </h6>
       <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
       <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
       <ul>
@@ -1712,7 +1712,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <section id="wp6-1">
   <h3>6.1 Comprendre le but des images sur le Web</h3>
   <p>Les images peuvent distraire les gens. Elles peuvent aussi augmenter la durée de chargement de la page. Assurez-vous que vos images <strong>ajoutent une valeur réelle</strong> à votre contenu.</p>
-  <p>Il y a 2 principales catégories d'images:</p>
+  <p>Il y a 2 principales catégories d'images :</p>
   <ul>
     <li>fonctionnelles</li>
     <li>décoratives</li>
@@ -2028,7 +2028,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vous pourriez écrire la description longue suivante&nbsp;:</p>
     <table class="table table-bordered table-condensed">
       <caption>
-      <strong>Figure 2: Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong>
+      <strong>Figure 2 : Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong>
       </caption>
       <thead>
         <tr class="active">
@@ -2296,7 +2296,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h3>Étude de cas A&nbsp;: simplifier le langage et améliorer la structure du contenu </h3>
   <h4>Avant</h4>
   <p>L'assurance-emploi est un programme qui offre un soutien de revenu temporaire aux Canadiens et aux personnes légalement autorisées à travailler au Canada qui ont un numéro d'assurance sociale valide et qui demeurent au Canada pendant la durée de leurs prestations. Le programme offre entre autres des prestations régulières aux personnes qui ont perdu leur emploi sans en être responsables (par exemple, à la suite d'un manque de travail ou parce qu'elles occupaient un emploi saisonnier) et qui sont prêtes et disposées à travailler et capables de le faire en tout temps, sans pouvoir trouver du travail.</p>
-  <p>Niveau de lecture Scolarius&nbsp;: 312 (initié)</p>
   <h4>Après</h4>
   <p>L'assurance-emploi peut offrir une aide financière si vous n'avez plus de travail. Vous pourriez recevoir de l'argent régulièrement, pendant un certain temps, pour vous permettre de vous concentrer sur vos recherches d'emploi.</p>
   <p>Pour y avoir droit, vous devez&nbsp;:</p>
@@ -2307,7 +2306,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>être prêt à travailler et capable de le faire en tout temps;</li>
     <li>demeurer au Canada pendant que vous recevez des prestations.</li>
   </ul>
-  <p>Niveau de lecture Scolarius&nbsp;: 71 (primaire)</p>
   <h4>Ce que nous avons fait</h4>
   <p>Pour améliorer le contenu, nous avons&nbsp;:</p>
   <ul>
