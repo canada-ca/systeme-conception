@@ -1219,7 +1219,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <section id="wp5-1-2">
       <h4>Donner un titre unique à votre page</h4>
-      <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon:</p>
+      <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon :</p>
       <ul>
         <li>le titre de page;</li>
         <li>les titres de sections;</li>
