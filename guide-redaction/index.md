@@ -515,7 +515,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h4>Exemples de phrases raccourcies</h4>
       <p><strong>Écrivez</strong>&nbsp;: Nous avons reçu et approuvé votre demande de financement.<br>
-          <strong>Au lieu de </strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
+          <strong>Au lieu de</strong>&nbsp;: Nous avons reçu votre demande de financement, que nous avons soigneusement examinée et approuvée en temps opportun.</p>
       <p><strong>Écrivez</strong>&nbsp;: Nous examinerons tout type d’investissement.<br>
           <strong>Au lieu de</strong>&nbsp;: Tout type d’investissement fera l’objet d’un examen de notre part.</p>
     <h4>Exemple de phrases simples</h4>
