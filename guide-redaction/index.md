@@ -1627,7 +1627,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </tbody>
       </table>
       <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
-      <h6>Exemple: conversion de tableaux en texte </h6>
+      <h6>Exemple : conversion de tableaux en texte </h6>
       <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
       <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
       <ul>
