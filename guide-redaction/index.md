@@ -875,7 +875,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Soulignement</h4>
     <p>Utilisez le soulignement seulement pour les liens.</p>
     <h4>Caractères gras</h4>
-    <p>Utilisez les caractères gras pour mettre du texte en évidence, <strong>mais</strong> utilisez-les avec modération: plus vous faites usage de cette mise en forme, moins elle est efficace.</p>
+    <p>Utilisez les caractères gras pour mettre du texte en évidence, <strong>mais</strong> utilisez-les avec modération : plus vous faites usage de cette mise en forme, moins elle est efficace.</p>
     <h4>Italique</h4>
     <p>Les personnes qui ont une dyslexie ou d'autres troubles de lecture pourraient avoir de la difficulté à lire un texte en italique.</p>
     <p>N'utilisez pas l'italique&nbsp;:</p>
