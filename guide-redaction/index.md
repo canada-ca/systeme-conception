@@ -383,7 +383,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Remplacez les mots longs et compliqués par des mots plus courts et simples que la plupart des gens comprennent et utilisent tous les jours. En général, les mots simples ont 2 syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
     <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/guide-redaction/#wp2-3">2.3 Use familiar words</a></span></li>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use familiar words</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
       <div class="wb-share btn btn-default" data-wb-share='{"custType": "  utiliser des termes familiers", "title": "2.3 Utiliser des termes familiers", "url": "https://design.canada.ca/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
@@ -526,7 +526,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <strong>Au lieu de</strong>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30 avril.</p>
     <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-5">2.6 Use short sentences and paragraphs</a></span></li>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-6">2.6 Use short sentences and paragraphs</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
       <div class="wb-share btn btn-default" data-wb-share='{"custType": "  utiliser des phrases et paragraphes simples et concis", "title": "2.6 Utiliser des phrases et paragraphes simples et concis", "url": "https://conception.canada.ca/guide-redaction/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
