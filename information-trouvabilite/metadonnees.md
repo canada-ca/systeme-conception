@@ -233,7 +233,7 @@ title: "Améliorer les titres et les métadonnées à des fins de trouvabilité"
 <section id="m3">
     <h2>Rédaction de métadonnées de description efficaces</h2>
     <p>Dans l’en-tête de la page, l’élément &lt;description&gt; ressemble à ceci&nbsp;:</p>
-    <div class="row">
+    <mark><div class="row">
         <div class="col-md-8">
             <pre><code>
    &lt;meta name="description" content="Apply to travel, study, work or immigrate to Canada. Seek citizenship, permanent residency, or refugee protection."&gt;
@@ -249,7 +249,7 @@ title: "Améliorer les titres et les métadonnées à des fins de trouvabilité"
 
 </code></pre>
         </div>
-    </div>
+    </div></mark>
     <p>Si vous utilisez ces deux options, le contenu devrait être le même. En utilisant les deux options, vous vous assurez que votre page est optimisée pour la visibilité sur les moteurs de recherche tout en respectant les normes établies en matière de métadonnées.</p>
     <p>
         La métadonnée de description doit résumer avec exactitude le contenu de votre page et indiquer aux utilisateurs et utilisatrices les renseignements qu’ils et elles y trouveront ou les actions qu’ils et elles pourront y effectuer. Une bonne description a plus de chances d’être affichée sur une page de résultats des moteurs de recherche, où elle pourra aider les utilisateurs et utilisatrices à déterminer si le contenu est pertinent. Comme pour la balise &lt;title&gt;, si Google ou d’autres moteurs de recherche déterminent que du contenu sur la page correspond mieux à l’objectif de l’utilisateur ou utilisatrice, ils afficheront ce contenu. 
