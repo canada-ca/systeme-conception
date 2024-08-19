@@ -67,7 +67,7 @@ title: "Améliorer les titres et les métadonnées à des fins de trouvabilité"
     <h3>La balise &lt;title&gt;</h3>
     <p>La balise &lt;title&gt; est obligatoire sur toutes les pages. Son objectif premier est de définir le titre de la page s’affichant dans l’onglet du navigateur.</p>
     <p>
-        La balise &lt;title&gt; est le champ le plus important pour le classement des résultats de recherche. Les moteurs de recherche peuvent afficher le contenu de la balise <title> sous la forme d’un lien bleu cliquable sur la page de résultats des moteurs de recherche. Selon la façon dont ils interprètent l’objectif de l’utilisateur, Google et les autres moteurs de recherche peuvent inclure, dans le texte du lien affiché dans la page de résultats, d’autres éléments de contenu de la page. Le moteur de recherche de Canada.ca obtiendra toujours le lien à partir de la balise &lt;title&gt;.
+        La balise &lt;title&gt; est le champ le plus important pour le classement des résultats de recherche. Les moteurs de recherche peuvent afficher le contenu de la balise &lt;title&gt; sous la forme d’un lien bleu cliquable sur la page de résultats des moteurs de recherche. Selon la façon dont ils interprètent l’objectif de l’utilisateur, Google et les autres moteurs de recherche peuvent inclure, dans le texte du lien affiché dans la page de résultats, d’autres éléments de contenu de la page. Le moteur de recherche de Canada.ca obtiendra toujours le lien à partir de la balise &lt;title&gt;.
     </p>
     <p>Le contenu des balises &lt;title&gt; est également utilisé dans les publications de médias sociaux, les onglets de navigateur et les signets.
 </p>
