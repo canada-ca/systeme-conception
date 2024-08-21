@@ -30,36 +30,36 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="../architecture/organizing-content.html">
-        Organizing content
+       <a href="../architecture/organiser-contenu.html">
+        Organiser le contenu
        </a>
       </h3>
       <p>
-       Themes and institutional navigation, URLs, sub-domains, content types and content states
+       Navigation institutionnelle et thématique, adresses URL, sous-domaines, types de contenu et état du contenu
       </p>
      </section>
     </div>
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="../information-findability/metadata.html">
-        Metadata guidance
+       <a href="../information-trouvabilite/metadonnees.html">
+        Lignes directrices sur les métadonnées
        </a>
       </h3>
       <p>
-       Write effective metadata descriptions, add keywords, prioritize search optimization efforts
+       Rédiger des descriptions de métadonnées efficaces, ajouter des mots-clés, prioriser les travaux d’optimisation de la recherche
       </p>
      </section>
     </div>
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="../guidance/structured-data.html">
-        Adding structured data on Canada.ca pages
+       <a href="../directives/donnees-structurees.html">
+        Ajouter des données structurées aux pages de Canada.ca
        </a>
       </h3>
       <p>
-       How to add structured data, measure the impact, schema code and examples
+       Comment ajouter des données structurées, mesurer les retombées, code et exemples de schémas
       </p>
      </section>
   </div>
