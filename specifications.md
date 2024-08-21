@@ -1,81 +1,121 @@
 ---
 altLangPage: https://design.canada.ca/continuous-improvement.html
 date: null
-dateModified: '2021-07-25'
+dateModified: '2024-08-21'
 description: null
+section-title: "Concevoir pour Canada.ca"
 title: "Amélioration continue du contenu Web"
+breadcrumbs: [
+            {
+            "link": "https://conception.canada.ca/",
+            "title": "Concevoir pour Canada.ca"
+          }
+        ]
 ---
 
 
 <p>
- L'amélioration continue du contenu Web est essentielle pour s'assurer que les gens obtiennent ce dont ils ont besoin de leur gouvernement.
+ La conception de Canada.ca contribue à offrir une expérience Web harmonisée et digne de confiance aux personnes accédant aux services numériques fédéraux.
+</p>
  <section>
   <div class="row">
    <h2 class="wb-inv">
-    Services et renseignements
+    Services and information
    </h2>
    <section class="wb-eqht gc-drmt">
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./amelioration-continue/choisir.html">
-        Choisir quoi améliorer
+       <a href="./architecture/utilisation-concept-canadaca.html">
+        Qui doit utiliser la conception de Canada.ca
        </a>
       </h3>
       <p>
-       Utiliser une approche basée sur les tâches, tâches principales, améliorer la bonne chose
+       Champ d’application de la conception de Canada.ca
       </p>
      </section>
     </div>
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./amelioration-continue/equipe.html">
-        Organiser et préparer votre équipe
+       <a href="./architecture/elements-obligatoires.html">
+        Éléments obligatoires
        </a>
       </h3>
       <p>
-       Constituer votre équipe, mettre en place votre structure de gouvernance, planifier des approbations efficaces
+       Couleurs, typographie, en-tête et pied de page, modèles obligatoires
       </p>
      </section>
     </div>
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./amelioration-continue/recherche.html">
-        Recherche et prototypage
+       <a href="./architecture/modeles.html">
+        Principes de conception
        </a>
       </h3>
       <p>
-       Processus, initiation, découverte, tests, prototypage, test de comparaison
+       Concevoir des expériences axées sur les personnes et leurs tâches à l’aide de données probantes
       </p>
      </section>
     </div>
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./amelioration-continue/concevoir-contenu.html">
-        Concevoir le contenu
+       <a href="./specifications/information-trouvabilite.html">
+        Architecture de l’information et trouvabilité
        </a>
       </h3>
       <p>
-       Se concentrer sur la réussite de la tâche, inspirer la confiance, intégrer l'accessibilité et l'inclusion, aider les gens à trouver, comprendre et utiliser le contenu
+       Organiser le contenu, lignes directrices sur les métadonnées, ajouter des données structurées
       </p>
      </section>
     </div>
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./amelioration-continue/mesure.html">
-        Suivi et mesure du succès
+       <a href="./architecture/templates.html">
+        Designing content for Canada.ca
        </a>
       </h3>
       <p>
-       Mettre en place des indicateurs de performance, sondage sur la réussite des tâches du GC, amélioration continue
+       Using evidence to design people-first and task-centred experiences.
       </p>
      </section>
     </div>
-   </section>
-  </div>
- </section>
-</p>
+   <div class="col-md-4">
+     <section>
+      <h3 class="h5">
+       <a href="./bibliotheque-modeles.html">
+        Modèles et configurations
+       </a>
+      </h3>
+      <p>
+       Modèles, mises en page, configurations de conception, directives et exemples de code, tous testés par les utilisatrices et utilisateurs
+      </p>
+     </section>
+    </div>
+   <div class="col-md-4">
+     <section>
+      <h3 class="h5">
+       <a href="./a-propos/derniers-changements.html">
+        Derniers changements apportés à la conception de Canada.ca
+       </a>
+      </h3>
+      <p>
+       Derniers changements apportés à la conception
+      </p>
+     </section>
+    </div>
+</section>
+</div>
+<div class="clearfix"></div>
+<section>
+	<div class="row">
+    		<div class="col-md-8">
+    <h2>Travaux en cours</h2>
+			<h3 class="h5"><a href="https://systeme-design.alpha.canada.ca/fr/"><span class="label label-info">ALPHA</span> Système de design GC</a></h3>
+			<p>Il s’agit d’une nouvelle version du système de conception. Vous pouvez l’utiliser comme point de départ pour un site Web ou une application.</p>
+		</div>
+    </div>
+</section>
