@@ -1,5 +1,5 @@
 ---
-altLangPage: https://design.canada.ca/continuous-improvement.html
+altLangPage: https://design.canada.ca/specifications/information-findability.html
 date: null
 dateModified: '2024-08-21'
 description: null
@@ -19,7 +19,8 @@ breadcrumbs: [
 
 
 <p>
- L'amélioration continue du contenu Web est essentielle pour s'assurer que les gens obtiennent ce dont ils ont besoin de leur gouvernement.
+ Organiser et structurer les pages Web pour faciliter la recherche et la réussite des tâches dans Canada.ca.
+</p>
  <section>
   <div class="row">
    <h2 class="wb-inv">
@@ -29,64 +30,37 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./amelioration-continue/choisir.html">
-        Choisir quoi améliorer
+       <a href="../architecture/organizing-content.html">
+        Organizing content
        </a>
       </h3>
       <p>
-       Utiliser une approche basée sur les tâches, tâches principales, améliorer la bonne chose
+       Themes and institutional navigation, URLs, sub-domains, content types and content states
       </p>
      </section>
     </div>
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./amelioration-continue/equipe.html">
-        Organiser et préparer votre équipe
+       <a href="../information-findability/metadata.html">
+        Metadata guidance
        </a>
       </h3>
       <p>
-       Constituer votre équipe, mettre en place votre structure de gouvernance, planifier des approbations efficaces
+       Write effective metadata descriptions, add keywords, prioritize search optimization efforts
       </p>
      </section>
     </div>
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./amelioration-continue/recherche.html">
-        Recherche et prototypage
+       <a href="../guidance/structured-data.html">
+        Adding structured data on Canada.ca pages
        </a>
       </h3>
       <p>
-       Processus, initiation, découverte, tests, prototypage, test de comparaison
+       How to add structured data, measure the impact, schema code and examples
       </p>
      </section>
-    </div>
-    <div class="col-md-4">
-     <section>
-      <h3 class="h5">
-       <a href="./amelioration-continue/concevoir-contenu.html">
-        Concevoir le contenu
-       </a>
-      </h3>
-      <p>
-       Se concentrer sur la réussite de la tâche, inspirer la confiance, intégrer l'accessibilité et l'inclusion, aider les gens à trouver, comprendre et utiliser le contenu
-      </p>
-     </section>
-    </div>
-    <div class="col-md-4">
-     <section>
-      <h3 class="h5">
-       <a href="./amelioration-continue/mesure.html">
-        Suivi et mesure du succès
-       </a>
-      </h3>
-      <p>
-       Mettre en place des indicateurs de performance, sondage sur la réussite des tâches du GC, amélioration continue
-      </p>
-     </section>
-    </div>
-   </section>
   </div>
  </section>
-</p>
