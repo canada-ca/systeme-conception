@@ -119,7 +119,7 @@ title: "Promotions contextuelles"
       <img src="/images/contextual-features-fr.png" class="img-responsive" alt="Promotions contextuelles pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: promotions contextuelles - grand écran</summary>
-        <p>Un en-tête de section intitulé &laquo;&nbsp;En vedette&nbsp;&raquo; est suivi de deux espaces réservés aux éléments en vedette dans une rangée horizontale. Chacun d’eux comporte un espace réservé à l’image, entouré d’un fond gris clair. L’espace réservé à l’image contient les dimensions prévues de l’image&nbsp;: 360 sur 203 pixels. Sous chaque espace réservé à l’image, sur fond gris, se trouve un espace réservé à un hyperlien qui se lit comme suit&nbsp;: [Hyperlien de l’élément en vedette]. On trouve en dessous le texte de l’espace réservé suivant&nbsp;: Brève description de l’élément en vedette.</p>
+        <p>Un en-tête de section intitulé &laquo;&nbsp;En vedette&nbsp;&raquo; est suivi de deux espaces réservés aux éléments en vedette dans une rangée horizontale. Chacun d’eux comporte un espace réservé à l’image, entouré d’un fond gris clair. L’espace réservé à l’image contient les dimensions prévues de l’image&nbsp;: 360 sur 203 pixels. Sous chaque espace réservé à l’image, sur fond gris, se trouve un espace réservé à un hyperlien qui se lit comme suit&nbsp;: [Lien vers l’élément en vedette en vedette]. On trouve en dessous le texte de l’espace réservé suivant&nbsp;: Brève description de l’élément en vedette.</p>
       </details>
     </figure>
   </div>
@@ -129,7 +129,7 @@ title: "Promotions contextuelles"
       <img src="/images/contextual-features-sm-fr.png" class="img-responsive" alt="Promotions contextuelles pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: promotions contextuelles - petit écran</summary>
-        <p>Un en-tête de section intitulé &laquo;&nbsp;En vedette&nbsp;&raquo; est suivi de deux espaces réservés aux éléments en vedette dans une rangée verticale. Chacun d’eux comporte un espace réservé à l’image, entouré d’un fond gris clair. L’espace réservé à l’image contient les dimensions prévues de l’image&nbsp;: 360 sur 203 pixels. Sous chaque espace réservé à l’image, sur fond gris, se trouve un espace réservé à un hyperlien qui se lit comme suit&nbsp;: [Hyperlien de l’élément en vedette]. On trouve en dessous le texte de l’espace réservé suivant&nbsp;: Brève description de l’élément en vedette.</p>
+        <p>Un en-tête de section intitulé &laquo;&nbsp;En vedette&nbsp;&raquo; est suivi de deux espaces réservés aux éléments en vedette dans une rangée verticale. Chacun d’eux comporte un espace réservé à l’image, entouré d’un fond gris clair. L’espace réservé à l’image contient les dimensions prévues de l’image&nbsp;: 360 sur 203 pixels. Sous chaque espace réservé à l’image, sur fond gris, se trouve un espace réservé à un hyperlien qui se lit comme suit&nbsp;: [Lien vers l’élément en vedette en vedette]. On trouve en dessous le texte de l’espace réservé suivant&nbsp;: Brève description de l’élément en vedette.</p>
       </details>
     </figure>
   </div>
