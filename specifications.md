@@ -1,5 +1,5 @@
 ---
-altLangPage: https://design.canada.ca/continuous-improvement.html
+altLangPage: https://design.canada.ca/specifications.html
 date: null
 dateModified: '2024-08-21'
 description: null
