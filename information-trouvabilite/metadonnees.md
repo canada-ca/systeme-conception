@@ -1,11 +1,21 @@
 ---
-altLangPage: "https://design.canada.ca/"
+altLangPage: "https://design.canada.ca/information-findability.html"
 date: 2024-02-23
 dateModified: 2024-07-02
 description: "Instructions relatives aux métadonnées visant à améliorer la trouvabilité d’informations sur les pages Web Canada.ca"
 keywords: "métadonnées, que sont les métadonnées, mots-clés, recherche de mots-clés, trouvabilité"
 section-title: "Architecture de l’information et trouvabilité"
 title: "Améliorer les titres et les métadonnées à des fins de trouvabilité"
+breadcrumbs: [
+            {
+            "link": "https://conception.canada.ca/",
+            "title": "Concevoir pour Canada.ca"
+          },
+          {
+            "link": "https://conception.canada.ca/specifications.html",
+            "title": "Spécifications de Canada.ca"
+          }
+        ]
 ---
 <style>
   pre {
