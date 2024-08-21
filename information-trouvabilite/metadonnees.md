@@ -72,7 +72,7 @@ title: "Améliorer les titres et les métadonnées à des fins de trouvabilité"
     <p>Le contenu des balises &lt;title&gt; est également utilisé dans les publications de médias sociaux, les onglets de navigateur et les signets.
 </p>
     <p>
-        <strong>Remarque&nbsp;</strong> Lorsque vous créez une page dans AEM, la mention « - Canada.ca » est automatiquement ajoutée à la fin de votre balise de titre. Cela aide les gens à déterminer rapidement d’où vient le contenu lorsqu’une page leur est transmise. Si votre contenu n’est pas dans AEM, vous pouvez ajouter manuellement cette balise à votre champ de titre.
+        <strong>Remarque&nbsp;:</strong> Lorsque vous créez une page dans AEM, la mention « - Canada.ca » est automatiquement ajoutée à la fin de votre balise de titre. Cela aide les gens à déterminer rapidement d’où vient le contenu lorsqu’une page leur est transmise. Si votre contenu n’est pas dans AEM, vous pouvez ajouter manuellement cette balise à votre champ de titre.
     </p>
     <div class="row">
         <div class="col-md-8">
