@@ -104,11 +104,11 @@ breadcrumbs: [
     <div class="row">
         <div class="col-md-8">
             <pre><code>&lt;head&gt;
-   &lt;title&gt;Technologies gouvernementales : Possibilités de commercialisation et de délivrance de licences&lt;/title&gt;
+   &lt;title&gt;Parrainez un proche pour qu'il immigre au Canada&lt;/title&gt;
 &lt;/head&gt;
   
   &lt;body&gt;
-  &lt;h1&gt;Possibilités de commercialisation et de délivrance de licences&lt;/h1&gt;
+  &lt;h1&gt;Parrainer un membre de votre famille&lt;/h1&gt;
 </code></pre>
         </div>
     </div>
