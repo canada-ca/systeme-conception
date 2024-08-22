@@ -125,7 +125,7 @@ breadcrumbs: [
         <li>N’incluez des acronymes que s’ils sont répandus et définissez-les.</li>
         <li>Prévisualisez vos titres.
           <ul>
-          <li>Utilisez un outil en ligne comme le <a href="https://moz.com/learn/seo/title-tag">testeur de balise de titre</a> de Moz (en anglais seulement), qui est gratuit. Cela vous donnera une idée de l’apparence de vos balises de titre au sein de résultats de recherche.</li>
+          <li>Utilisez un outil en ligne comme le <a href="https://moz.com/learn/seo/title-tag">testeur de balise de titre de Moz (en anglais seulement)</a>, qui est gratuit. Cela vous donnera une idée de l’apparence de vos balises de titre au sein de résultats de recherche.</li>
           </ul>
         </li>
         <li>Évitez les doublons de titres.</li>
@@ -281,7 +281,7 @@ breadcrumbs: [
     <p>Pour en savoir plus&nbsp;:</p>
     <ul>
         <li>
-            <a href="https://www.digitalprofession.gov.au/content-strategy/search-engine-optimisation/on-page-seo">Improve on-page SEO | Australian Government</a> (en anglais)&nbsp;: Un guide pratique de techniques de référencement éprouvées, expliquant notamment comment écrire de bonnes métadescriptions. 
+            <a href="https://www.digitalprofession.gov.au/content-strategy/search-engine-optimisation/on-page-seo">Improve on-page SEO | Australian Government (en anglais)</a>&nbsp;: Un guide pratique de techniques de référencement éprouvées. 
         </li>
     </ul>
 </section>
