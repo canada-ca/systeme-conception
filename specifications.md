@@ -50,12 +50,12 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./architecture/modeles.html">
-        Principes de conception
+       <a href="./guide-redaction/index.html">
+        Guide de rédaction du contenu du site Canada.ca
        </a>
       </h3>
       <p>
-       Concevoir des expériences axées sur les personnes et leurs tâches à l’aide de données probantes
+       Principes et techniques de rédaction pour rendre le contenu clair et accessible
       </p>
      </section>
     </div>
