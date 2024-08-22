@@ -4,7 +4,7 @@ date: null
 dateModified: '2024-08-21'
 description: null
 section-title: "Concevoir pour Canada.ca"
-title: "Amélioration continue du contenu Web"
+title: "Spécifications de Canada.ca"
 breadcrumbs: [
             {
             "link": "https://conception.canada.ca/",
@@ -74,12 +74,12 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./architecture/templates.html">
-        Designing content for Canada.ca
+       <a href="./architecture/modeles.html">
+        Concevoir le contenu pour Canada.ca
        </a>
       </h3>
       <p>
-       Using evidence to design people-first and task-centred experiences.
+       Concevoir des expériences axées sur les personnes et leurs tâches à l’aide de données probantes
       </p>
      </section>
     </div>
