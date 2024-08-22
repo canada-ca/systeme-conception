@@ -281,7 +281,7 @@ breadcrumbs: [
     <p>Pour en savoir plus&nbsp;:</p>
     <ul>
         <li>
-            <a href="https://www.digitalprofession.gov.au/content-strategy/search-engine-optimisation/on-page-seo">Improve on-page SEO | Australian Government (en anglais)</a>&nbsp;: Un guide pratique de techniques de référencement éprouvées. 
+            <a href="https://www.digitalprofession.gov.au/content-strategy/search-engine-optimisation/on-page-seo">Improve on-page SEO | Australian Government (en anglais seulement)</a>&nbsp;: Un guide pratique de techniques de référencement éprouvées. 
         </li>
     </ul>
 </section>
