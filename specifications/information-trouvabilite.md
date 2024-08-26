@@ -9,7 +9,7 @@ breadcrumbs: [
           {
             "link": "https://conception.canada.ca/",
             "title": "Conception de Canada.ca"
-          {
+          },{
             "link": "https://conception.canada.ca/specifications.html",
             "title": "Spécifications de Canada.ca"
           }
