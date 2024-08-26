@@ -11,7 +11,7 @@ breadcrumbs: [
             "title": "Conception de Canada.ca"
           },{
             "link": "https://conception.canada.ca/specifications.html",
-            "title": "Spécifications de Canada.ca"
+            "title": "Spécifications"
           }
         ]
 ---
@@ -41,7 +41,7 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="../information-trouvabilite/metadonnees.html">
+       <a href="../specifications/information-trouvabilite/metadonnees.html">
         Lignes directrices sur les métadonnées
        </a>
       </h3>
