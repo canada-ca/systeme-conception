@@ -45,7 +45,7 @@ breadcrumbs: [
 <p>Tous les sites Web publics du gouvernement du Canada doivent utiliser le domaine Canada.ca, à une exception près : ceux qui sont spécifiquement destinés au personnel actuel ou ancien du gouvernement du Canada peuvent utiliser le domaine .gc.ca. Pour des questions d’uniformité et de confiance, tous les autres sites destinés au public, notamment ceux où une connexion est requise, doivent utiliser le domaine Canada.ca.</p>
 <p>Le domaine Canada.ca peut être utilisé de deux façons&nbsp;:</p>
 <ul>
-    <li>Sans sous-domaine, par exemple&nbsp; <a href=" https://www.canada.ca/fr/services/emplois.html"> https://www.canada.ca/fr/services/emplois.html</a></li>
+    <li>Sans sous-domaine, par exemple&nbsp;: <a href=" https://www.canada.ca/fr/services/emplois.html"> https://www.canada.ca/fr/services/emplois.html</a></li>
     <li>Avec un sous-domaine, par exemple&nbsp;: <a href="https://agriculture.canada.ca/fr/science">https://agriculture.canada.ca/fr/science</a></li>
 </ul>
 <p>Les noms de domaines et de sous-domaines doivent tous être approuvés par Service Canada, et leur résolution doit être possible sans le préfixe «&nbsp;www.&nbsp;».</p>
