@@ -6,7 +6,10 @@ description: "Instructions relatives aux métadonnées visant à améliorer la t
 keywords: "métadonnées, que sont les métadonnées, mots-clés, recherche de mots-clés, trouvabilité"
 section-title: "Conception de Canada.ca"
 title: "Améliorer les titres et les métadonnées à des fins de trouvabilité"
-breadcrumbs: [
+breadcrumbs: [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
             {
             "link": "https://conception.canada.ca/",
             "title": "Conception de Canada.ca"

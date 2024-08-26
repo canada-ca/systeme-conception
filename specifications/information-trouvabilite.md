@@ -5,7 +5,10 @@ dateModified: '2024-08-21'
 description: null
 section-title: "Conception de Canada.ca"
 title: "Architecture de l’information et trouvabilité"
-breadcrumbs: [
+breadcrumbs: [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
           {
             "link": "https://conception.canada.ca/",
             "title": "Conception de Canada.ca"

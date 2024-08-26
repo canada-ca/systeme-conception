@@ -5,7 +5,10 @@ dateModified: '2024-08-23'
 description: null
 title: Domaines et adresses URL du gouvernement du Canada
 section-title: "Conception de Canada.ca"
-breadcrumbs: [
+breadcrumbs: [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
             {
             "link": "https://conception.canada.ca/",
             "title": "Conception de Canada.ca"

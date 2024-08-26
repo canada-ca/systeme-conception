@@ -5,7 +5,10 @@ dateModified: 2024-08-26
 description: "Les exigences énumérées dans ce document s’appliquent aux ministères et aux autres parties de l’administration publique établie comme l’établissent les annexes I, I.1 et II de la Loi sur la gestion finances. Par conséquent, les institutions de la portée doivent appliquer les exigences en matière de conception de Canada.ca pour tous les sites Web ou toutes les services numériques."
 layout: default
 title: "Qui doit utiliser la conception de Canada.ca"
-breadcrumbs: [
+breadcrumbs: [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
             {
             "link": "https://conception.canada.ca/",
             "title": "Conception de Canada.ca"

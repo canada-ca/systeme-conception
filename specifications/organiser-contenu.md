@@ -5,7 +5,10 @@ dateModified: 2024-08-26
 description: "Les Spécifications du contenu et de l’architecture de l’information pour Canada.ca s’agit d’un manuel de conception qui fournit des modèles testés par l’utilisateur, des modèles de navigation d’architecture de l’information pour présenter et organiser le contenu pour le site Canada.ca."
 layout: default
 title: "Organiser le contenu dans Canada.ca"
-breadcrumbs: [
+breadcrumbs: [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
             {
             "link": "https://conception.canada.ca/",
             "title": "Conception de Canada.ca"
