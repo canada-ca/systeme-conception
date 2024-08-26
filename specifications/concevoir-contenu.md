@@ -1,23 +1,22 @@
 ---
-altLangPage: "https://design.canada.ca/architecture/templates.html"
+altLangPage: "https://design.canada.ca/specifications/design-content.html"
 date: 2017-10-05
-dateModified: 2023-03-28
+dateModified: 2024-08-26
 description: "Les Spécifications du contenu et de l'architecture de l'information pour Canada.ca s’agit d’un manuel de conception qui fournit des modèles testés par l’utilisateur, des modèles de navigation d’architecture de l’information pour présenter et organiser le contenu pour le site Canada.ca."
 layout: default
 title: "Concevoir le contenu pour Canada.ca"
+breadcrumbs: [
+            {
+            "link": "https://conception.canada.ca/",
+            "title": "Conception de Canada.ca"
+          },
+           {
+            "link": "https://conception.canada.ca/specifications.html",
+            "title": "Spécifications"
+          }
+        ]
 ---
 
-<div class="mrgn-tp-md mrgn-bttm-sm brdr-bttm">
-  <div class="row mrgn-bttm-sm">
-    <ul class="toc lst-spcd col-md-12">
-      <li class="col-md-4"><a href="utilisation-concept-canadaca.html" class="list-group-item">Qui doit utiliser ce système</a> </li>
-      <li class="col-md-4"><a href="elements-obligatoires.html" class="list-group-item">Éléments obligatoires</a> </li>
-      <li class="col-md-4"><a href="organiser-contenu.html" class="list-group-item">Organiser le contenu</a> </li>
-      <li class="col-md-4"><a href="modeles.html" class="list-group-item cust-active active">Concevoir le contenu</a> </li>
-    </ul>
-  </div>
-</div>
-<div>
   <section>
     <p>Les modèles, les mises en page et les configurations de conception de Canada.ca ont été élaborés pour appuyer les ministères lors de la conception du contenu Web qui aide les gens à mener à bien leurs tâches.</p>
     <h2>Sur cette page</h2>
