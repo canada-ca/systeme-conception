@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://design.canada.ca/information-findability.html"
+altLangPage: "https://design.canada.ca/specifications/information-findability.html"
 date: 2024-02-23
 dateModified: 2024-07-02
 description: "Instructions relatives aux métadonnées visant à améliorer la trouvabilité d’informations sur les pages Web Canada.ca"
@@ -13,6 +13,11 @@ breadcrumbs: [
           },
           {
             "link": "https://conception.canada.ca/specifications.html",
+            "title": "Spécifications"
+          },
+          {
+            "link": "https://conception.canada.ca/specifications/information-trouvabilite.html",
+            "title": "AI et trouvabilité"
           }
         ]
 ---
