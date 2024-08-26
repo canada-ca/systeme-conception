@@ -5,6 +5,16 @@ dateModified: 2024-08-26
 description: "Les Spécifications du contenu et de l’architecture de l’information pour Canada.ca s’agit d’un manuel de conception qui fournit des modèles testés par l’utilisateur, des modèles de navigation d’architecture de l’information pour présenter et organiser le contenu pour le site Canada.ca."
 layout: default
 title: "Éléments obligatoires de la conception de Canada.ca"
+breadcrumbs: [
+            {
+            "link": "https://conception.canada.ca/",
+            "title": "Conception de Canada.ca"
+          },
+           {
+            "link": "https://conception.canada.ca/specifications.html",
+            "title": "Spécifications"
+          }
+        ]
 ---
 
 <p>Les pages Web du gouvernement du Canada doivent être facilement identifiables comme faisant partie de Canada.ca. Chaque page doit véhiculer l’image de marque globale de Canada.ca et offrir une expérience uniforme aux visiteurs du site.</p>

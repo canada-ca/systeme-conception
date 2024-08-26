@@ -5,6 +5,16 @@ dateModified: 2024-08-26
 description: "Les exigences énumérées dans ce document s’appliquent aux ministères et aux autres parties de l’administration publique établie comme l’établissent les annexes I, I.1 et II de la Loi sur la gestion finances. Par conséquent, les institutions de la portée doivent appliquer les exigences en matière de conception de Canada.ca pour tous les sites Web ou toutes les services numériques."
 layout: default
 title: "Qui doit utiliser la conception de Canada.ca"
+breadcrumbs: [
+            {
+            "link": "https://conception.canada.ca/",
+            "title": "Conception de Canada.ca"
+          },
+           {
+            "link": "https://conception.canada.ca/specifications.html",
+            "title": "Spécifications"
+          }
+        ]
 ---
 
 <p> Les spécifications de Canada.ca sont mentionnées à l’« Annexe D : Procédure obligatoire relative à l’utilisation des médias sociaux et aux communications sur le Web » de la&nbsp;<a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682"><cite>Directive sur la gestion des communications</cite></a>. Ses exigences s’appliquent aux ministères et aux autres parties de l’administration publique qui se trouvent aux annexes&nbsp;<a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-19.html">I</a>,&nbsp;<a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-20.html">I.1</a>&nbsp;et&nbsp;<a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-21.html">II</a>&nbsp;de la <cite>Loi sur la gestion des finances publiques</cite>.</p>
