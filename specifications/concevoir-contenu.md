@@ -33,7 +33,6 @@ breadcrumbs: [
       <li><strong>utiliser le contenu pour mener à bien leur tâche :</strong> les configurations de conception choisies aident-elles la personne à réussir</li>
     </ul>
   </section>
-</div>
 <div class="row">
   <section class="wb-eqht gc-drmt">
     <div class="col-md-4">
