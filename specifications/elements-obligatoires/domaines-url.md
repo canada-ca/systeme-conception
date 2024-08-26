@@ -48,7 +48,7 @@ breadcrumbs: [
     <li>Sans sous-domaine, par exemple&nbsp; <a href=" https://www.canada.ca/fr/services/emplois.html"> https://www.canada.ca/fr/services/emplois.html</a></li>
     <li>Avec un sous-domaine, par exemple&nbsp;: <a href="https://agriculture.canada.ca/fr/science">https://agriculture.canada.ca/fr/science</a></li>
 </ul>
-<p>Les noms de domaines et de sous-domaines doivent tous être approuvés par Service Canada, et leur résolution doit être possible sans le préfixe «&nbsp;www.&nbsp;»</p>
+<p>Les noms de domaines et de sous-domaines doivent tous être approuvés par Service Canada, et leur résolution doit être possible sans le préfixe «&nbsp;www.&nbsp;».</p>
 <h3 id="du1a">Quoi éviter</h3>
 <p>Il ne faut pas utiliser le domaine Canada.ca pour les sites collaboratifs où le gouvernement du Canada n’est pas le partenaire principal. Ce type de site comprend les sites Web réalisés conjointement avec des partenaires autres que le GC, par exemple d’autres ordres de gouvernement ou des organismes non gouvernementaux, et pour lesquels le GC n’est pas l’organisation responsable.</p> 
 <h3 id="du1b">Sous-domaines</h3>
