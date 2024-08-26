@@ -17,7 +17,7 @@ breadcrumbs: [
           },
           {
             "link": "https://conception.canada.ca/specifications/information-trouvabilite.html",
-            "title": "AI et trouvabilité"
+            "title": "IA et trouvabilité"
           }
         ]
 ---
