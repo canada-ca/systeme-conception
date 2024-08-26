@@ -3,12 +3,12 @@ altLangPage: https://design.canada.ca/specifications.html
 date: null
 dateModified: '2024-08-21'
 description: null
-section-title: "Concevoir pour Canada.ca"
+section-title: "Conception de Canada.ca"
 title: "Spécifications de Canada.ca"
 breadcrumbs: [
             {
             "link": "https://conception.canada.ca/",
-            "title": "Concevoir pour Canada.ca"
+            "title": "Conception de Canada.ca"
           }
         ]
 ---

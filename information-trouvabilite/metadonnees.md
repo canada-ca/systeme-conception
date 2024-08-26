@@ -9,7 +9,7 @@ title: "Améliorer les titres et les métadonnées à des fins de trouvabilité"
 breadcrumbs: [
             {
             "link": "https://conception.canada.ca/",
-            "title": "Concevoir pour Canada.ca"
+            "title": "Conception de Canada.ca"
           },
           {
             "link": "https://conception.canada.ca/specifications.html",
@@ -22,7 +22,7 @@ breadcrumbs: [
     white-space: pre-wrap;       /* Since CSS 2.1 */
     white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
     white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */      
+    white-space: -o-pre-wrap;    /* Opera 7 */
     word-break: keep-all;  /* Internet Explorer 5.5+ */
 
 }
@@ -39,7 +39,7 @@ breadcrumbs: [
 <section id="m1">
     <h2>Métadonnées et trouvabilité pour Canada.ca</h2>
     <p>
-        Les <strong>métadonnées</strong> sont des données décrivant les données. Ce sont des renseignements sur le contenu de votre page. On peut comparer cela à la fiche d’un livre dans le catalogue d’une bibliothèque, qui fournirait les données clés sur l’ouvrage, comme le nom de l’auteur, le titre, la description ou encore la date de publication. Les métadonnées permettent de décrire chaque page Web de manière unique, mais selon une méthode uniforme. 
+        Les <strong>métadonnées</strong> sont des données décrivant les données. Ce sont des renseignements sur le contenu de votre page. On peut comparer cela à la fiche d’un livre dans le catalogue d’une bibliothèque, qui fournirait les données clés sur l’ouvrage, comme le nom de l’auteur, le titre, la description ou encore la date de publication. Les métadonnées permettent de décrire chaque page Web de manière unique, mais selon une méthode uniforme.
     </p>
     <p>Tous les éléments compris dans la balise d’en-tête d’un document HTML sont des métadonnées et sont invisibles sur la page Web elle-même. Seul le contenu de la balise &lt;body&gt; du document s’affiche dans un navigateur.</p>
     <p>
@@ -49,7 +49,7 @@ breadcrumbs: [
         La <strong>trouvabilité</strong> est la facilité avec laquelle une personne peut trouver ce qu’elle cherche en ligne. C’est la qualité d’un élément d’être localisable ou navigable; la facilité à trouver une ressource (une page Web) et la façon dont un système (un site Web) prend en charge la navigation et la recherche.
     </p>
     <p>
-        Il est nécessaire de bien comprendre les objectifs des utilisateurs et utilisatrices pour optimiser le contenu et les métadonnées en vue de leur trouvabilité. Cela inclut de savoir quels termes les gens utilisent pour trouver votre contenu. Vous devriez intégrer ces mots-clés au contenu et aux métadonnées de la page. Si vous avez accès à des sources primaires (entrevues, études sur l’utilisabilité, tickets de soutien, courriels, transcriptions de centres d’appels, etc.), utilisez ces sources pour déterminer vos mots-clés. Vous pouvez également utiliser des outils de recherche de mots-clés en ligne. 
+        Il est nécessaire de bien comprendre les objectifs des utilisateurs et utilisatrices pour optimiser le contenu et les métadonnées en vue de leur trouvabilité. Cela inclut de savoir quels termes les gens utilisent pour trouver votre contenu. Vous devriez intégrer ces mots-clés au contenu et aux métadonnées de la page. Si vous avez accès à des sources primaires (entrevues, études sur l’utilisabilité, tickets de soutien, courriels, transcriptions de centres d’appels, etc.), utilisez ces sources pour déterminer vos mots-clés. Vous pouvez également utiliser des outils de recherche de mots-clés en ligne.
     </p>
     <p>Les instructions de cette page vous aideront à comprendre comment utiliser au mieux vos mots-clés dans les métadonnées.</p>
 </section>
@@ -106,7 +106,7 @@ breadcrumbs: [
             <pre><code>&lt;head&gt;
    &lt;title&gt;Parrainez un proche pour qu'il immigre au Canada&lt;/title&gt;
 &lt;/head&gt;
-  
+
   &lt;body&gt;
   &lt;h1&gt;Parrainer un membre de votre famille&lt;/h1&gt;
 </code></pre>
@@ -262,7 +262,7 @@ breadcrumbs: [
     </div>
     <p>Si vous utilisez ces deux options, le contenu devrait être le même. En utilisant les deux options, vous vous assurez que votre page est optimisée pour la visibilité sur les moteurs de recherche tout en respectant les normes établies en matière de métadonnées.</p>
     <p>
-        La métadonnée de description doit résumer avec exactitude le contenu de votre page et indiquer aux utilisateurs et utilisatrices les renseignements qu’ils et elles y trouveront ou les actions qu’ils et elles pourront y effectuer. Une bonne description a plus de chances d’être affichée sur une page de résultats des moteurs de recherche, où elle pourra aider les utilisateurs et utilisatrices à déterminer si le contenu est pertinent. Comme pour la balise &lt;title&gt;, si Google ou d’autres moteurs de recherche déterminent que du contenu sur la page correspond mieux à l’objectif de l’utilisateur ou utilisatrice, ils afficheront ce contenu. 
+        La métadonnée de description doit résumer avec exactitude le contenu de votre page et indiquer aux utilisateurs et utilisatrices les renseignements qu’ils et elles y trouveront ou les actions qu’ils et elles pourront y effectuer. Une bonne description a plus de chances d’être affichée sur une page de résultats des moteurs de recherche, où elle pourra aider les utilisateurs et utilisatrices à déterminer si le contenu est pertinent. Comme pour la balise &lt;title&gt;, si Google ou d’autres moteurs de recherche déterminent que du contenu sur la page correspond mieux à l’objectif de l’utilisateur ou utilisatrice, ils afficheront ce contenu.
     </p>
     <h3>Instructions pour la rédaction des métadonnées de description</h3>
     <p>La métadonnée de description DOIT&nbsp;:</p>
@@ -281,7 +281,7 @@ breadcrumbs: [
     <p>Pour en savoir plus&nbsp;:</p>
     <ul>
         <li>
-            <a href="https://www.digitalprofession.gov.au/content-strategy/search-engine-optimisation/on-page-seo">Improve on-page SEO | Australian Government (en anglais seulement)</a>&nbsp;: Un guide pratique de techniques de référencement éprouvées. 
+            <a href="https://www.digitalprofession.gov.au/content-strategy/search-engine-optimisation/on-page-seo">Improve on-page SEO | Australian Government (en anglais seulement)</a>&nbsp;: Un guide pratique de techniques de référencement éprouvées.
         </li>
     </ul>
 </section>

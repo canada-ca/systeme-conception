@@ -3,13 +3,12 @@ altLangPage: https://design.canada.ca/specifications/information-findability.htm
 date: null
 dateModified: '2024-08-21'
 description: null
-section-title: "Concevoir pour Canada.ca"
+section-title: "Conception de Canada.ca"
 title: "Architecture de l’information et trouvabilité"
 breadcrumbs: [
           {
             "link": "https://conception.canada.ca/",
-            "title": "Concevoir pour Canada.ca"
-          },
+            "title": "Conception de Canada.ca"
           {
             "link": "https://conception.canada.ca/specifications.html",
             "title": "Spécifications de Canada.ca"
