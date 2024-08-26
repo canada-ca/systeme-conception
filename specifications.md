@@ -26,7 +26,7 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./architecture/utilisation-concept-canadaca.html">
+       <a href="./specifications/utilisation-concept-canadaca.html">
         Qui doit utiliser la conception de Canada.ca
        </a>
       </h3>
@@ -38,7 +38,7 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./architecture/elements-obligatoires.html">
+       <a href="./specifications/elements-obligatoires.html">
         Éléments obligatoires
        </a>
       </h3>
@@ -74,7 +74,7 @@ breadcrumbs: [
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./architecture/modeles.html">
+       <a href="./specifications/concevoir-contenu.html">
         Concevoir le contenu pour Canada.ca
        </a>
       </h3>

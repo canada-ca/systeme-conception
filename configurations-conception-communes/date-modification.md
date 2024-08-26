@@ -75,7 +75,7 @@ title: Date de modification
  <p>
   La date de modification est obligatoire sur toutes les pages. Dans les applications, elle peut être remplacée
 				par une numéro de version. Pour en savoir plus, allez à
-  <a href="{{ site.url }}/architecture/elements-obligatoires.html#entete-piedpage">
+  <a href="{{ site.url }}/specifications/elements-obligatoires.html#entete-piedpage">
    Éléments
 					obligatoires du système de conception</a>.
  </p>

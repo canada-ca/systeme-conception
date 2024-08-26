@@ -36,7 +36,7 @@ title: "Spécifications du contenu et de l’architecture de l'information pour 
     </div>
     <div class="col-md-4">
       <section>
-        <h3 class="h5"><a href="modeles.html">Concevoir le contenu</a></h3>
+        <h3 class="h5"><a href="concevoir-contenu.html">Concevoir le contenu</a></h3>
         <p>Bibliothèque de modèles et principes de conception</p>
       </section>
     </div>

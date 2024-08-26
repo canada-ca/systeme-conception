@@ -36,7 +36,7 @@ title: "Page de thème et de sujet"
 <ul>
  <li>
   supportent la navigation par thème plutôt que par institution pour accéder au contenu à l’échelle du gouvernement (voir
-  <a href="{{ site.url }}/architecture/organiser-contenu.html#toc1">
+  <a href="{{ site.url }}/specifications/organiser-contenu.html#toc1">
    Comment les gens trouvent leurs tâches : navigation par thèmes et navigation institutionnelle
   </a>
   );

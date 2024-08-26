@@ -592,7 +592,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/utilisation-concept-canadaca.html\">Qui doit utiliser ce système de conception</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/utilisation-concept-canadaca.html\">Qui doit utiliser ce système de conception</a>",
       "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Quelles institutions doivent utiliser le système de conception de Canada.ca pour leur présence sur le Web",
       "WHENTOUSE": "",
@@ -602,7 +602,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/elements-obligatoires.html\">Éléments obligatoires</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/elements-obligatoires.html\">Éléments obligatoires</a>",
       "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Ce que chaque institution doit suivre : Couleurs, typographie, en-tête et pied de page, modèles obligatoires",
       "WHENTOUSE": "",
@@ -612,7 +612,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
       "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
       "WHENTOUSE": "",
@@ -622,7 +622,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
       "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
       "WHENTOUSE": "",
@@ -632,7 +632,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/organiser-contenu.html#toc3\">Modèle d'URL</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/organiser-contenu.html#toc3\">Modèle d'URL</a>",
       "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Modèle d'URL Canada.ca",
       "WHENTOUSE": "",
@@ -642,7 +642,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/modeles.html#principes\">Principes de conception de Canada.ca</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/concevoir-contentu.html#principes\">Principes de conception de Canada.ca</a>",
       "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Principes de conception de Canada.ca",
       "WHENTOUSE": "",

@@ -29,7 +29,7 @@ title: Ce que nous faisons - Configuration de conception de Canada.ca
  <ul>
   <li>
    Fournit des liens au contenu relatif à
-   <a href="{{ site.url }}/architecture/organiser-contenu.html#programmes">
+   <a href="{{ site.url }}/specifications/organiser-contenu.html#programmes">
     l’élaboration de politiques et programmes
    </a>
    qui est le plus pertinent au sujet.

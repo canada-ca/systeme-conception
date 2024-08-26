@@ -63,7 +63,7 @@ title: Partagez cette page
  <p>
   La configuration « Partagez cette page » est facultative sur toutes les pages. Pour en savoir plus,
 				allez à
-  <a href="{{ site.url }}/architecture/elements-obligatoires.html#entete-piedpage">
+  <a href="{{ site.url }}/specifications/elements-obligatoires.html#entete-piedpage">
    Éléments
 					obligatoires du système de conception</a>.
  </p>

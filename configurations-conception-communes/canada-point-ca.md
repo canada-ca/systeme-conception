@@ -89,7 +89,7 @@ title: 'Domaine Canada.ca - Configuration de conception de Canada.ca '
  </h2>
  <p>
   Pour les détails sur la rédaction des URLs pour Canada, allez à
-  <a href="{{ site.url }}/architecture/organiser-contenu.html#toc3">
+  <a href="{{ site.url }}/specifications/organiser-contenu.html#toc3">
    Modèle d'URL
   </a>
   .

@@ -123,13 +123,13 @@ title: "Pages de campagne - Modèle de Canada.ca"
      BOEW
     </abbr>
     dans la mesure du possible pour assurer l’accessibilité. Assurez-vous de vous conformer aux
-    <a href="{{ site.url }}/architecture/elements-obligatoires.html">
+    <a href="{{ site.url }}/specifications/elements-obligatoires.html">
      Éléments obligatoires du système de conception de Canada.ca.
     </a>
    </li>
    <li>
     Vous pouvez utiliser une version simplifiée de
-    <a href="{{ site.url }}/architecture/elements-obligatoires.html#entete-piedpage">
+    <a href="{{ site.url }}/specifications/elements-obligatoires.html#entete-piedpage">
      l'en-tête et du pied de page
     </a>
     lorsqu’il ne faut pas utiliser la navigation générale du site.
