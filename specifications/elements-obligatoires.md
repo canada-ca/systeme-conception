@@ -22,7 +22,7 @@ title: "Éléments obligatoires de la conception de Canada.ca"
 <h2 id="domaine">Le domaine Canada.ca</h2>
 <p>Utilisez le domaine Canada.ca pour toutes les pages Web du gouvernement du Canada:</p>
 <ul>
-  <li><a href="https://conception.canada.ca/configurations-conception-communes/canada-point-ca.html">Domaines et adresses URL du gouvernement du Canada</a></li>
+  <li><a href="./elements-obligatoires/domaines-url.html">Domaines et adresses URL du gouvernement du Canada</a></li>
 </ul>
 <h2 id="styles">Styles</h2>
 <p>Utilisez les éléments de style suivants :</p>
