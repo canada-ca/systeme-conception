@@ -69,8 +69,7 @@ breadcrumbs: [
         </ul>
     </li>
 </ul>
-<p><b>Remarque</b>&nbsp;: Les demandes de sous-domaine sont examinées par Service Canada. Votre gestionnaire de compte Web peut soumettre des demandes de nouveaux sous-domaines Canada.ca et de modification à l’Éditeur principal à l’aide du <a href="http://requestform.portal.gc.ca/billets.html">formulaire de demande pour Canada.ca (interne au gouvernement) 
-</a>.</p>
+<p><b>Remarque</b>&nbsp;: Les demandes de sous-domaine sont examinées par Service Canada. Votre gestionnaire de compte Web peut soumettre des demandes de nouveaux sous-domaines Canada.ca et de modification à l’Éditeur principal à l’aide du <a href="http://requestform.portal.gc.ca/billets.html">formulaire de demande pour Canada.ca (interne au gouvernement)</a>.</p>
 </section>
 <section id="du2">
 <h2>Traiter les deux langues officielles de manière égale</h2>
