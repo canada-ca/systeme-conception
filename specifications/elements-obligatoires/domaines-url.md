@@ -61,13 +61,15 @@ breadcrumbs: [
     <li>Suivez les directives de la section <a href="#du3a">Comment écrire une adresse URL</a>.
         <ul>
         <li><b>Exemples</b>&nbsp;:
+          <ul>
             <li>accessible.canada.ca</li>
             <li>inspection.canada.ca</li>
-        </li>
+          </ul>
+          </li>
         </ul>
     </li>
 </ul>
-<p><b>Remarque</b>&nbsp;: Les demandes de sous-domaine sont examinées par Service Canada. Votre gestionnaire de compte Web peut soumettre des demandes de nouveaux sous-domaines Canada.ca et de modification à l’Éditeur principal à l’aide du <a href="http://requestform.portal.gc.ca/billets.html">formulaire de demande pour Canada.ca. 
+<p><b>Remarque</b>&nbsp;: Les demandes de sous-domaine sont examinées par Service Canada. Votre gestionnaire de compte Web peut soumettre des demandes de nouveaux sous-domaines Canada.ca et de modification à l’Éditeur principal à l’aide du <a href="http://requestform.portal.gc.ca/billets.html">formulaire de demande pour Canada.ca (interne au gouvernement). 
 </a>.</p>
 </section>
 <section id="du2">
@@ -112,9 +114,9 @@ breadcrumbs: [
         <li>URL personnalisée pour les imprimés : canada.ca/assurance-emploi-maternite</li>
         <li>URL personnalisée pour la télévision ou la radio : canada.ca/assuranceemploimaternite (prononcée «&nbsp;canada point c a barre oblique assurance emploi maternité&nbsp;») </li>
     </ul>
-<p><b>Remarque</b>&nbsp;: Votre gestionnaire de compte Web peut soumettre des demandes de nouvelle URL personnalisée et de modification à l’Éditeur principal à l’aide du <a href="http://requestform.portal.gc.ca/billets.html">formulaire de demande pour Canada.ca</a>.</p>
+<p><b>Remarque</b>&nbsp;: Votre gestionnaire de compte Web peut soumettre des demandes de nouvelle URL personnalisée et de modification à l’Éditeur principal à l’aide du <a href="http://requestform.portal.gc.ca/billets.html">formulaire de demande pour Canada.ca (interne au gouvernement)</a>.</p>
 <p>Pour en savoir plus sur les URL personnalisées, consultez&nbsp;:</p>
     <ul>
-        <li><a href="https://www.gcpedia.gc.ca/wiki/Adresses_URL_personnalisées_pour_Canada.ca">Adresses URL personnalisées pour Canada.ca — GCpédia</a> (interne au gouvernement)</li>
+        <li><a href="https://www.gcpedia.gc.ca/wiki/Adresses_URL_personnalisées_pour_Canada.ca">Adresses URL personnalisées pour Canada.ca — GCpédia (interne au gouvernement)</a></li>
     </ul>
 </section>
