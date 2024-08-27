@@ -16,10 +16,6 @@ title: "Concevoir pour Canada.ca"
         <p>Qui doit utiliser la conception de Canada.ca, éléments obligatoires, principes de conception, architecture de l’information et trouvabilité, modèles et configurations</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/guide-redaction/">Guide de rédaction du contenu du site Canada.ca</a></h3>
-        <p>Principes et techniques de rédaction pour rendre le contenu clair et accessible</p>
-      </div>
-      <div class="col-md-4">
         <h3 class="h5"><a href="{{ site.url }}/amelioration-continue.html">Amélioration continue du contenu Web</a></h3>
         <p>Choisir quoi améliorer, organiser et préparer son équipe, recherche et prototypage, concevoir le contenu, suivi et mesure du succès</p>
       </div>
