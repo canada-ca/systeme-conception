@@ -4,7 +4,7 @@ date: 2024-02-23
 dateModified: 2024-07-02
 description: "Instructions relatives aux métadonnées visant à améliorer la trouvabilité d’informations sur les pages Web Canada.ca"
 keywords: "métadonnées, que sont les métadonnées, mots-clés, recherche de mots-clés, trouvabilité"
-section-title: "Conception de Canada.ca"
+section-title: "IA et trouvabilité"
 title: "Améliorer les titres et les métadonnées à des fins de trouvabilité"
 breadcrumbs: [{
             "title": "À propos de Canada.ca",
