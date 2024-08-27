@@ -205,56 +205,10 @@ breadcrumbs: [{
         </ul>
       </section>
       <h2 id="toc3">Modèle d’URL</h2>
-      <p>Chaque page Web a une adresse URL principale, affichée dans la barre d’adresse du navigateur. Toutes les autres adresses URL faisant référence à la page Web sont résolues à l’adresse URL principale. Ceci s’applique aux URL personnalisées, aux URL redirigées et à toute autre URL non principale.</p>
-      <section>
-        <h3>Comment écrire des URL</h3>
-        <p>Ceci s’applique à toutes les URL, y compris les URL personnalisées et les sous-domaines&nbsp;:</p>
-        <ul>
-          <li>Utilisez des mots-clés dans un langage clair et simple.</li>
-          <li>Évitez des mots superflus comme &laquo;&nbsp;à/aux&nbsp;&raquo;, &laquo;&nbsp;le/la/les&nbsp;&raquo;, &laquo;&nbsp;un/une&nbsp;&raquo; et &laquo;&nbsp;par&nbsp;&raquo; (par exemple &laquo;&nbsp;/demander-prêt-étudiant&nbsp;&raquo; au lieu de &laquo;&nbsp;/comment-demander-un-prêt-étudiant-canadien&nbsp;&raquo;).</li>
-          <li>Séparez les mots clés et les segments de chemin d’accès par des traits d’union.</li>
-          <li>Utilisez des lettres minuscules.</li>
-          <li>Il est fortement recommandé d’utiliser des mots clés unilingues, dans la langue de la page.</li>
-          <li>Utilisez uniquement des caractères US-ASSCII (version 7-bit de ASCII) (par exemple, &laquo;&nbsp;meteo&nbsp;&raquo; au lieu de &laquo;&nbsp;météo&nbsp;&raquo;).</li>
-          <li>Évitez les mots clés doubles et les apostrophes.</li>
-          <li>Évitez les acronymes et les abréviations, sauf s’ils sont mieux compris que la version longue ou qu’ils fonctionnent mieux dans les moteurs de recherche.</li>
-        </ul>
-      </section>
-      <section>
-        <h3>Écrire des URL pour des produits de communication</h3>
-        <p>Quand vous écrivez des URL pour des produits de communication, vous pouvez utiliser l’URL principale ou une URL personnalisée.</p>
-        <p>Les URL personnalisées doivent&nbsp;:</p>
-        <ul>
-          <li>être faciles à taper et à communiquer</li>
-          <li>comprendre seulement un (1) segment de chemin d’accès (une seule barre oblique)</li>
-          <li>cacher l’extension du fichier pour les pages HTML (par exemple, &laquo;&nbsp;canada.ca/passeport&nbsp;&raquo;, &laquo;&nbsp;canada.ca/meteo&nbsp;&raquo;)</li>
-        </ul>
-        <p>Si l’adresse URL est communiquée verbalement (par exemple, dans des publicités radiodiffusées ou télévisées), vous pouvez aussi mettre en place une URL supplémentaire sans trait d’union. Cela la rendra plus facile à lire à haute voix.</p>
-        <p>Exemple – Publicité télévisée&nbsp;:</p>
-        <ul>
-          <li>URL personnalisée pour les médias écrits&nbsp;: canada.ca/assurance-emploi-maternite</li>
-          <li>URL personnalisée pour la radio et la télévision&nbsp;: canada.ca/assuranceemploimaternite (à l’oral&nbsp;: &laquo;&nbsp;canada point c a barre oblique assurance emploi maternite&nbsp;&raquo;)</li>
-        </ul>
-        <p><strong>Remarque&nbsp;:</strong> votre gestionnaire de compte peut faire une demande pour une nouvelle adresses URL personnalisées et des demandes de changements à l’Éditeur principal en utilisant le <a href="http://requestform.portal.gc.ca/billets.html">Formulaire de demande pour Canada.ca</a>.</p>
-      </section>
-      <h3>Sous-domaines</h3>
-      <p>Utilisez des sous-domaines uniquement pour le contenu ou les services hébergés à l’extérieur du Service Web géré.</p>
-      <p>Quand vous choisissez un sous-domaine&nbsp;:</p>
+      <p>Pour en savoir plus sur le modèle d’URL, les exigences en matière de domaine et les sous-domaines, consultez&nbsp;:</p>
       <ul>
-        <li>Utilisez des mots-clés dans un langage clair et simple qui ont du sens pour l’utilisateur.</li>
-        <li>Un maximum de deux mots clés est recommandé.</li>
-        <li>Il est fortement recommandé d’utiliser des mots clés unilingues, dans la langue de la page.</li>
-        <li>Les sous-sites et les services numériques connexes doivent être groupés sous le même sous-domaine, lorsque c’est possible.</li>
-        <p class="mrgn-tp-md"><strong>Exemples&nbsp;:</strong></p>
-        <ul>
-          <li>Demande de prestations d’assurance-emploi en ligne<span class="glyphicon glyphicon-arrow-right"></span><span class="wb-inv">flèche pointant vers la droite</span><code>assurance-emploi.canada.ca/prestations/demande</code></li>
-          <li>Service de production de rapports d’assurance-emploi par Internet<span class="glyphicon glyphicon-arrow-right"></span><span class="wb-inv">flèche pointant vers la droite</span><code>assurance-emploi.canada.ca/declaration</code></li>
-        </ul>
+        <li><a href="../elements-obligatoires/domaines-url.html">Domaines et adresses URL du gouvernement du Canada</a></li>
       </ul>
-      <p><strong>Remarque&nbsp;:</strong> votre gestionnaire de compte peut faire une demande pour un nouveau sous-domaine de Canada.ca ou une demande de changement à l’Éditeur principal en utilisant le <a href="http://requestform.portal.gc.ca/billets.html">Formulaire de demande pour Canada.ca</a>. Les demandes de sous-domaines sont révisées par Emploi et Développement social Canada.</p>
-    </section>
-  </section>
-</section>
 <h2 id="types">Types de contenu et état du contenu</h2>
 <h3>Types de contenu</h3>
 <p>Un type de contenu est un élément unique qui décrit la nature du contenu de la page.</p>
