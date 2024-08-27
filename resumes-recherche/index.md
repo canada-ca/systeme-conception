@@ -31,5 +31,5 @@ title: "Résumés de recherche"
 <h2>Projets antérieurs avec nos partenaires</h2>
 <p>Découvrez les travaux que nous avons réalisés avec d’autres ministères et organismes dans le but d’améliorer la réussite des tâches sur Canada.ca&nbsp;:</p>
 <ul>
-  <li><a href="https://conception.canada.ca/partenaires/">Travailler en partenariat</a></li>
+  <li><a href="../partenaires/">Travailler en partenariat</a></li>
 </ul>
