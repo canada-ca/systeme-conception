@@ -6,7 +6,7 @@ description: "Le conception de Canada.ca contient des styles, des modèles et de
 layout: "without-h1"
 title: "Concevoir pour Canada.ca"
 ---
-<h1 property="name" id="wb-cont" dir="ltr">Système de conception de Canada.ca</h1>
+<h1 property="name" id="wb-cont" dir="ltr">Concevoir pour Canada.ca</h1>
 <p>Éléments obligatoires de Canada.ca, principes de rédaction, comment organiser le contenu pour le rendre facile à trouver, comment optimiser le contenu Web, données probantes sur les choix de conception.</p>
 <section>
   <div class="row">
