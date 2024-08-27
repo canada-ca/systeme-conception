@@ -612,7 +612,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/specifications/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/information-trouvabilite/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
       "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
       "WHENTOUSE": "",
@@ -622,7 +622,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/specifications/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/information-trouvabilite/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
       "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
       "WHENTOUSE": "",
@@ -632,7 +632,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/specifications/organiser-contenu.html#toc3\">Modèle d'URL</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/information-trouvabilite/organiser-contenu.html#toc3\">Modèle d'URL</a>",
       "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
       "DESCRIPTION": "Modèle d'URL Canada.ca",
       "WHENTOUSE": "",
