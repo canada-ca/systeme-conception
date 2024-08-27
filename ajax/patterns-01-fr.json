@@ -592,9 +592,9 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/specifications/utilisation-concept-canadaca.html\">Qui doit utiliser ce système de conception</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/utilisation-concept-canadaca.html\">Qui doit utiliser la conception de Canada.ca</a>",
       "SOURCE": "Spécifications de Canada.ca",
-      "DESCRIPTION": "Quelles institutions doivent utiliser le système de conception de Canada.ca pour leur présence sur le Web",
+      "DESCRIPTION": "Quelles institutions doivent utiliser la conception de Canada.ca pour leur présence sur le Web",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
