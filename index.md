@@ -58,8 +58,8 @@ title: "Concevoir pour Canada.ca"
                   </li>
                   <li class="checkbox">
                     <label for="dt_source3">
-                      <input type="checkbox" id="dt_source3" name="dt_source" data-column="1" value="Spécifications du contenu et de l’architecture de l'information">
-                      Spécifications du contenu et de l’architecture de l'information</label>
+                      <input type="checkbox" id="dt_source3" name="dt_source" data-column="1" value="Spécifications de Canada.ca">
+                      Spécifications de Canada.ca</label>
                   </li>
                   <li class="checkbox">
                     <label for="dt_source4">
