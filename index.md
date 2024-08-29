@@ -24,11 +24,11 @@ title: "Concevoir pour Canada.ca"
         <p>Données probantes et observations relatives à l’amélioration de l’information et des services dans Canada.ca</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/resumes-recherche.html">Résumés de recherche</a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/resumes-recherche/">Résumés de recherche</a></h3>
         <p>Études menées dans le but de faciliter la recherche et la compréhension des informations et services du gouvernement du Canada</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/about/index.html">À propos de Canada.ca</a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/about/index/">À propos de Canada.ca</a></h3>
         <p>En demande, analytique de Canada.ca, coordonnées du gouvernement du Canada</p>
       </div>
     </section>
