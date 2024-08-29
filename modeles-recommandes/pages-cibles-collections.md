@@ -15,7 +15,7 @@ title: "Pages d\u2019accueil des collections - Modèle de Canada.ca"
  <ul>
   <li>
    Les collections de Canada.ca fournissent à une personne un seul et même endroit pour consulter une agrégation de types de contenu connexe (voir la section sur les
-   <a href="{{ site.url }}/architecture/types-contenus.html">
+   <a href="{{ site.url }}/specifications/types-contenus.html">
     types de contenu de Canada.ca
    </a>
    )

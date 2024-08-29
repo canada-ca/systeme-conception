@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/research-summaries/"
 date: 2024-01-17
-dateModified: 2024-03-01
+dateModified: 2024-08-26
 description: "Résumés des recherches menées par le Bureau de la transformation numérique (BTN) et par les ministères fédéraux."
 title: "Résumés de recherche"
 ---
@@ -27,4 +27,9 @@ title: "Résumés de recherche"
   <li><a href="/resumes-recherche/impots-resume-recherche.html">Déclaration de la TPS/TVH et de retenues sur la paie</a></li>
   <li><a href="/resumes-recherche/meteo-resume-recherche.html">Renseignements météorologiques</a></li>
   <li><a href="/resumes-recherche/maladies-resume-recherche.html">Renseignements sur les maladies et la vaccination</a></li>
+</ul>
+<h2>Projets antérieurs avec nos partenaires</h2>
+<p>Découvrez les travaux que nous avons réalisés avec d’autres ministères et organismes dans le but d’améliorer la réussite des tâches sur Canada.ca&nbsp;:</p>
+<ul>
+  <li><a href="../partenaires/">Travailler en partenariat</a></li>
 </ul>

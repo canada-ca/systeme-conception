@@ -69,7 +69,7 @@ title: " Page de contenu de base - Modèle recommandé de Canada.ca"
   </p>
   <ul>
    <li>
-    <a href="{{ site.url }}/architecture/elements-obligatoires.html">
+    <a href="{{ site.url }}/specifications/elements-obligatoires.html">
      Éléments obligatoires du système de conception
     </a>
    </li>

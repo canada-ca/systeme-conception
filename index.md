@@ -1,39 +1,35 @@
 ---
 altLangPage: https://design.canada.ca
 date: 2020-12-17
-dateModified: 2023-08-19
-description: "Le système de conception de Canada.ca contient des styles, des modèles et des configurations réutilisables qui rendent les services numériques du gouvernement du Canada plus conviviaux, plus cohérents et plus fiables."
+dateModified: 2024-08-26
+description: "Le conception de Canada.ca contient des styles, des modèles et des configurations réutilisables qui rendent les services numériques du gouvernement du Canada plus conviviaux, plus cohérents et plus fiables."
 layout: "without-h1"
-title: "Système de conception de Canada.ca"
+title: "Concevoir pour Canada.ca"
 ---
-<h1 property="name" id="wb-cont" dir="ltr">Système de conception de Canada.ca</h1>
-<p>Utilisez ce système de conception pour offrir aux personnes qui accèdent aux services numériques du gouvernement du Canada une expérience en ligne plus conviviale, cohérente et fiable.</p>
+<h1 property="name" id="wb-cont" dir="ltr">Concevoir pour Canada.ca</h1>
+<p>Éléments obligatoires de Canada.ca, principes de rédaction, comment organiser le contenu pour le rendre facile à trouver, comment optimiser le contenu Web, données probantes sur les choix de conception.</p>
 <section>
   <div class="row">
     <section class="wb-eqht gc-drmt">
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/bibliotheque-modeles.html">Bibliothèque de modèles et configurations de conception</a></h3>
-        <p>Modèles, mises en page, configurations de conception, directives et exemples de code, testés par les utilisateurs.</p>
-      </div>
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/guide-redaction/">Guide de rédaction du contenu du site Canada.ca</a></h3>
-        <p>Techniques d’écriture et principes qui aident à rendre le contenu clair et adapté aux besoins de tous.</p>
-      </div>
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></h3>
-        <p>Qui doit utiliser le système de conception de Canada.ca, éléments obligatoires, comment organiser et concevoir du contenu.</p>
+        <h3 class="h5"><a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a></h3>
+        <p>Qui doit utiliser la conception de Canada.ca, éléments obligatoires, principes de conception, architecture de l’information et trouvabilité, modèles et configurations</p>
       </div>
       <div class="col-md-4">
         <h3 class="h5"><a href="{{ site.url }}/amelioration-continue.html">Amélioration continue du contenu Web</a></h3>
-        <p>Choisir quoi améliorer, organiser et préparer votre équipe, recherche et prototypage, concevoir le contenu, suivi et mesure du succès.</p>
+        <p>Choisir quoi améliorer, organiser et préparer son équipe, recherche et prototypage, concevoir le contenu, suivi et mesure du succès</p>
       </div>
       <div class="col-md-4">
         <h3 class="h5"><a href="{{ site.urlblogue }}">Blogue Canada.ca</a></h3>
-        <p>Données probantes et observations sur l’amélioration des renseignements et des services sur Canada.ca.</p>
+        <p>Données probantes et observations relatives à l’amélioration de l’information et des services dans Canada.ca</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/a-propos/derniers-changements.html">Derniers changements apportés au système de conception de Canada.ca</a></h3>
-        <p>Derniers changements apportés au système de conception, aux modèles et conceptions de configuration, au guide de rédaction et aux autres outils.</p>
+        <h3 class="h5"><a href="{{ site.url }}/resumes-recherche.html">Résumés de recherche</a></h3>
+        <p>Études menées dans le but de faciliter la recherche et la compréhension des informations et services du gouvernement du Canada</p>
+      </div>
+      <div class="col-md-4">
+        <h3 class="h5"><a href="{{ site.url }}/about/index.html">À propos de Canada.ca</a></h3>
+        <p>En demande, analytique de Canada.ca, coordonnées du gouvernement du Canada</p>
       </div>
     </section>
   </div>
@@ -62,8 +58,8 @@ title: "Système de conception de Canada.ca"
                   </li>
                   <li class="checkbox">
                     <label for="dt_source3">
-                      <input type="checkbox" id="dt_source3" name="dt_source" data-column="1" value="Spécifications du contenu et de l’architecture de l'information">
-                      Spécifications du contenu et de l’architecture de l'information</label>
+                      <input type="checkbox" id="dt_source3" name="dt_source" data-column="1" value="Spécifications de Canada.ca">
+                      Spécifications de Canada.ca</label>
                   </li>
                   <li class="checkbox">
                     <label for="dt_source4">

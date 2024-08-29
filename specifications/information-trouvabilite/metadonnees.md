@@ -1,19 +1,26 @@
 ---
-altLangPage: "https://design.canada.ca/information-findability.html"
+altLangPage: "https://design.canada.ca/specifications/information-findability/metadata.html"
 date: 2024-02-23
 dateModified: 2024-07-02
 description: "Instructions relatives aux métadonnées visant à améliorer la trouvabilité d’informations sur les pages Web Canada.ca"
 keywords: "métadonnées, que sont les métadonnées, mots-clés, recherche de mots-clés, trouvabilité"
-section-title: "Architecture de l’information et trouvabilité"
+section-title: "AI et trouvabilité"
 title: "Améliorer les titres et les métadonnées à des fins de trouvabilité"
-breadcrumbs: [
+breadcrumbs: [{
+            "title": "À propos de Canada.ca",
+            "link": "https://conception.canada.ca/a-propos/"
+          },
             {
             "link": "https://conception.canada.ca/",
-            "title": "Concevoir pour Canada.ca"
+            "title": "Conception"
           },
           {
             "link": "https://conception.canada.ca/specifications.html",
-            "title": "Spécifications de Canada.ca"
+            "title": "Spécifications"
+          },
+          {
+            "link": "https://conception.canada.ca/specifications/information-trouvabilite.html",
+            "title": "AI et trouvabilité"
           }
         ]
 ---
@@ -22,7 +29,7 @@ breadcrumbs: [
     white-space: pre-wrap;       /* Since CSS 2.1 */
     white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
     white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */      
+    white-space: -o-pre-wrap;    /* Opera 7 */
     word-break: keep-all;  /* Internet Explorer 5.5+ */
 
 }
@@ -106,7 +113,6 @@ breadcrumbs: [
             <pre><code>&lt;head&gt;
    &lt;title&gt;Parrainez un proche pour qu'il immigre au Canada&lt;/title&gt;
 &lt;/head&gt;
-  
   &lt;body&gt;
   &lt;h1&gt;Parrainer un membre de votre famille&lt;/h1&gt;
 </code></pre>

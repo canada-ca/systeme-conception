@@ -592,9 +592,9 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/utilisation-concept-canadaca.html\">Qui doit utiliser ce système de conception</a>",
-      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
-      "DESCRIPTION": "Quelles institutions doivent utiliser le système de conception de Canada.ca pour leur présence sur le Web",
+      "NAME": "<a href=\"{{ site.url }}/specifications/utilisation-concept-canadaca.html\">Qui doit utiliser la conception de Canada.ca</a>",
+      "SOURCE": "Spécifications de Canada.ca",
+      "DESCRIPTION": "Quelles institutions doivent utiliser la conception de Canada.ca pour leur présence sur le Web",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -602,8 +602,8 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/elements-obligatoires.html\">Éléments obligatoires</a>",
-      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
+      "NAME": "<a href=\"{{ site.url }}/specifications/elements-obligatoires.html\">Éléments obligatoires</a>",
+      "SOURCE": "Spécifications de Canada.ca",
       "DESCRIPTION": "Ce que chaque institution doit suivre : Couleurs, typographie, en-tête et pied de page, modèles obligatoires",
       "WHENTOUSE": "",
       "CATEGORY": "",
@@ -612,8 +612,8 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
-      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
+      "NAME": "<a href=\"{{ site.url }}/specifications/information-trouvabilite/organiser-contenu.html#toc1\">Navigation des utilisateurs</a>",
+      "SOURCE": "Spécifications de Canada.ca",
       "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
       "WHENTOUSE": "",
       "CATEGORY": "",
@@ -622,19 +622,28 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
-      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
+      "NAME": "<a href=\"{{ site.url }}/specifications/information-trouvabilite/organiser-contenu.html#utilisateur\">Catégories d'utilisateurs pour le contenu de destination</a>",
+      "SOURCE": "Spécifications de Canada.ca",
       "DESCRIPTION": "Comment les gens trouvent des tâches sur Canada.ca",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
+    },{
+      "NAME": "<a href=\"{{ site.url }}/specifications/information-trouvabilite/metadonnees.html\">Améliorer les titres et les métadonnées à des fins de trouvabilité</a>",
+      "SOURCE": "Architecture de l’information et trouvabilité",
+      "DESCRIPTION": "Utilisez ces instructions pour écrire des titres et métadonnées efficaces.",
+      "WHENTOUSE": "Utilisez ces instructions pour écrire des titres et métadonnées efficaces.",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/organiser-contenu.html#toc3\">Modèle d'URL</a>",
-      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
-      "DESCRIPTION": "Modèle d'URL Canada.ca",
+      "NAME": "<a href=\"{{ site.url }}/specifications/elements-obligatoires/domaines-url\">Domaines et adresses URL</a>",
+      "SOURCE": "Éléments obligatoires",
+      "DESCRIPTION": "Domaines et adresses URL du gouvernement du Canada",
       "WHENTOUSE": "",
       "CATEGORY": "",
       "TYPE": "",
@@ -642,8 +651,8 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/architecture/modeles.html#principes\">Principes de conception de Canada.ca</a>",
-      "SOURCE": "Spécifications du contenu et de l'architecture de l'information",
+      "NAME": "<a href=\"{{ site.url }}/specifications/concevoir-contentu.html#principes\">Principes de conception de Canada.ca</a>",
+      "SOURCE": "Spécifications de Canada.ca",
       "DESCRIPTION": "Principes de conception de Canada.ca",
       "WHENTOUSE": "",
       "CATEGORY": "",

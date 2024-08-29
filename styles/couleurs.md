@@ -19,7 +19,7 @@ title: Couleurs - Style de Canada.ca
   Les directives concernant les couleurs sont obligatoires pour toutes les pages.
  </p>
  <p>
-  <a href="{{ site.url }}/architecture/elements-obligatoires.html">
+  <a href="{{ site.url }}/specifications/elements-obligatoires.html">
    Éléments obligatoires du système de conception
   </a>
  </p>

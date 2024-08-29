@@ -130,7 +130,7 @@ title: Concevoir du contenu pour Canada.ca
  </p>
  <ul>
   <li>
-   <a href="{{ site.url }}/architecture/elements-obligatoires.html">
+   <a href="{{ site.url }}/specifications/elements-obligatoires.html">
     Éléments obligatoires du système de conception de Canada.ca
    </a>
   </li>
@@ -166,12 +166,12 @@ title: Concevoir du contenu pour Canada.ca
  </p>
  <ul>
   <li>
-   <a href="{{ site.url }}/architecture/organiser-contenu.html#toc1">
+   <a href="{{ site.url }}/specifications/information-trouvabilite/organiser-contenu.html#toc1">
     Navigation des utilisateurs dans Canada.ca
    </a>
   </li>
   <li>
-   <a href="{{ site.url }}/architecture/organiser-contenu.html#utilisateur">
+   <a href="{{ site.url }}/specifications/information-trouvabilite/organiser-contenu.html#utilisateur">
     Catégories de besoins des utilisateurs pour le contenu de destination
    </a>
   </li>

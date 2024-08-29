@@ -7,7 +7,7 @@ title: Typographie - Style de Canada.ca
 ---
 <p><span class="label label-danger">Obligatoire</span></p>
 <p>Les directives concernant la typographie sont obligatoires pour toutes les pages.</p>
-<p><a href="{{ site.url }}/architecture/elements-obligatoires.html">Éléments obligatoires du système de conception</a></p>
+<p><a href="{{ site.url }}/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></p>
 <p>Les polices doivent être harmonisées dans tout le site Canada.ca, et elles doivent être facilement lisibles sur tous les appareils. Utilisez une combinaison de Lato pour les en-têtes et de Noto sans pour le corps du texte.</p>
 <h2>Ordinateurs de bureau et tablettes</h2>
 <ul>
