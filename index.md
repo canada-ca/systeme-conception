@@ -28,7 +28,7 @@ title: "Concevoir pour Canada.ca"
         <p>Études menées dans le but de faciliter la recherche et la compréhension des informations et services du gouvernement du Canada</p>
       </div>
       <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/about/index/">À propos de Canada.ca</a></h3>
+        <h3 class="h5"><a href="{{ site.url }}/a-propos/">À propos de Canada.ca</a></h3>
         <p>En demande, analytique de Canada.ca, coordonnées du gouvernement du Canada</p>
       </div>
     </section>
