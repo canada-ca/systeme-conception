@@ -8,7 +8,7 @@ title: 'Domaine Canada.ca - Configuration de conception de Canada.ca '
 
 
 <section class="alert alert-info">
-  <p>Cette configuration est en cours de suppression. Elle a été remplacée par les lignes directrices relatives aux domaines et adresses URL fournies dans la section « Éléments obligatoires » des spécifications de Canada.ca. Reportez-vous aux&nbsp;: <a href="./specifications/elements-obligatoires/domaines-url.html"> Lignes directrices relatives aux domaines et adresses URL du gouvernement du Canada</a>.</p>
+  <p>Cette configuration est en cours de suppression. Elle a été remplacée par les lignes directrices relatives aux domaines et adresses URL fournies dans la section « Éléments obligatoires » des spécifications de Canada.ca. Reportez-vous aux&nbsp;: <a href="../specifications/elements-obligatoires/domaines-url.html"> Lignes directrices relatives aux domaines et adresses URL du gouvernement du Canada</a>.</p>
 </section>
 
 
