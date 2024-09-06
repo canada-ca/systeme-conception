@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2024-02-19
+dateModified: 2024-09-06
 description: "Derniers changements apportés au système de conception de Canada.ca."
 layout: default
 title: "Derniers changements apportés au système de conception de Canada.ca"
@@ -11,7 +11,20 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
 </div>
 <div id="expand-collapse">
-  <details open="open">
+ <details open="open">
+    <summary>28 août 2024</summary>
+    <p>Lancement d’une nouvelle architecture de l’information et de nouveau contenu pour conception.canada.ca. Nous avons notamment&nbsp;:</p>
+    <ul>
+      <li>Renommé les Spécifications du contenu et de l’architecture de l’information, maintenant appelées les <a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a>.</li> 
+      <li>Mis à jour les spécifications de Canada.ca pour y incorporer le Guide de rédaction du contenu du site Canada.ca et les lignes directrices relatives à l’architecture de l’information et à la trouvabilité ainsi qu’un lien vers Système de design GC&nbsp;: <a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a>.</li>
+      <li>Créé des lignes directrices pour la rédaction de métadonnées pour les pages Canada.ca&nbsp;:<a href="{{ site.url }}/specifications/information-trouvabilite/metadonnees.html">Améliorer les titres et les métadonnées à des fins de trouvabilité</a>.</li>
+      <li>Regroupé les lignes directrices sur les domaines et les adresses URL sur une même page&nbsp;: <a href="{{ site.url }}/specifications/mandatory-elements/domains-urls.html">Domaines et adresses URL du gouvernement du Canada</a>.</li>
+      <li>Supprimé les mentions du système de conception de Canada.ca en les remplaçant par des mentions de la conception de Canada.ca. L’objectif est de clarifier que les ministères doivent se conformer aux éléments obligatoires de la conception de Canada.ca, mais qu’ils sont libres d’utiliser le système de design qui leur convient le mieux.</li>
+      <li>Mis à jour la page À propos de Canada.ca pour mieux refléter les recherches des utilisateurs et utilisatrices&nbsp;: <a href="{{ site.url }}/a-propos"> À propos de Canada.ca</a>.</li>
+      <li>Ajouté une nouvelle page pour les résumés de recherche relatifs à la conception et à l’expérience utilisateur de Canada.ca&nbsp;: <a href="./resumes-recherche/">Résumés de recherche</a>.</li>
+    </ul>
+  </details>
+  <details>
     <summary>3 avril 2024</summary>
     <p>Modèle de <a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html#latest">page d'accueil institutionnelle</a> stabilisé avec documentation distincte pour chaque composant.</p>
   </details>
