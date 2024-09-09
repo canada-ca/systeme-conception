@@ -1,12 +1,15 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/canada-dot-ca.html
 date: null
-dateModified: '2020-10-16'
+dateModified: '2024-09-06'
 description: null
 title: 'Domaine Canada.ca - Configuration de conception de Canada.ca '
 ---
 
 
+<section class="alert alert-info">
+  <p>Cette configuration est en cours de suppression. Elle a été remplacée par les lignes directrices relatives aux domaines et adresses URL fournies dans la section « Éléments obligatoires » des spécifications de Canada.ca. Reportez-vous aux&nbsp;: <a href="../specifications/elements-obligatoires/domaines-url.html"> Lignes directrices relatives aux domaines et adresses URL du gouvernement du Canada</a>.</p>
+</section>
 
 
 <section>
