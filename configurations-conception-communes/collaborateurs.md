@@ -53,7 +53,7 @@ title: Collaborateurs
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Configuration collaborateurs</b></figcaption>
-            <img src="../images/contributors-fr.png" class="img-responsive" alt="Configuration collaborateurs Version texte ci-dessous." />
+            <img src="../images/contributors-fr.png" class="img-responsive" alt="Configuration collaborateurs. Version texte ci-dessous." />
             <details>
                 <summary>Description de l’image&nbsp;: collaborateurs</summary>
                 <p>
