@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/common-design-patterns/more-information.ht
 date: null
 dateModified: '2018-12-19'
 description: null
-title: Autres renseignements pour les - Configuration de conception de Canada.ca
+title: Autres renseignements pour les
 ---
 
 
