@@ -7,7 +7,9 @@ title: Autres renseignements pour les - Configuration de conception de Canada.ca
 ---
 
 
-
+<section class="alert alert-info">
+  <p>Nous mettons hors service la configuration <b>Autres renseignements pour les</b>. Nous vous déconseillons d’ajouter cette configuration à vos pages.</p>
+</section>
 
 <section>
  <section>

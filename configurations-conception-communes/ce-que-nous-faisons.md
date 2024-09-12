@@ -13,6 +13,9 @@ description: null
 title: Ce que nous faisons - Configuration de conception de Canada.ca
 ---
 
+<section class="alert alert-info">
+  <p>Nous mettons hors service la configuration <b>Ce que nous faisons</b>. Nous vous déconseillons d’ajouter cette configuration à vos pages.</p>
+</section>
 
 
 

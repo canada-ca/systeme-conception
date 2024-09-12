@@ -7,7 +7,10 @@ title: Institution responsable - Configuration de conception de Canada.ca de Can
 ---
 
 
-
+<section class="alert alert-info">
+  <p>
+Nous mettons hors service la configuration <b>Institution responsable</b>. Nous vous déconseillons d’ajouter cette configuration à vos pages. Si vous souhaitez fournir des liens vers les institutions ou les organismes qui contribuent au contenu de la page, utilisez la configuration <a href="collaborateurs.html">Collaborateurs</a>.</p>
+</section>
 
 <section>
  <p>
