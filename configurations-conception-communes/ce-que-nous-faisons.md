@@ -4,7 +4,7 @@ breadcrumbs:
 - link: https://www.canada.ca/fr/gouvernement/a-propos.html
   title: "À propos de Canada.ca"
 - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-  title: "Système de conception de Canada.ca"
+  title: "Conception de Canada.ca"
 - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
   title: "Bibliothèque de modèles et de configurations de conception"
 date: null
