@@ -106,9 +106,6 @@ title: "Page de thème"
 </section>
 
 <section>
-    <h3>
-        Page de thème
-    </h3>
 <h3>
     Page de thème
 </h3>
