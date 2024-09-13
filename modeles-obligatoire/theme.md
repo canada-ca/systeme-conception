@@ -540,63 +540,6 @@ title: "Page de thème"
   </details>
 </section>
 
-
-
- <h2 id="navigation">
-  Navigation de l’utilisateur
- </h2>
- <p>
-  Chacun des 15 thèmes consiste en un certain nombre de sujets qui traitent de toute la gamme de renseignements et de services ayant trait à ce thème qui sont offerts à l’échelle du gouvernement.
- </p>
- <p>
-  Une page de sujet comprend :
- </p>
- <ul>
-  <li>
-   des liens menant aux renseignements et services les plus demandés ainsi que vers les politiques, les lois et règlements, les publications, les formulaires, les nouvelles, les consultations et les initiatives les plus pertinents;
-  </li>
-  <li>
-   des liens d’entrée menant aux sujets secondaires connexes ainsi que des renvois croisés vers d’autres thèmes;
-  </li>
-  <li>
-   des liens menant aux pages destinées aux publics cibles, le cas échéant.
-  </li>
- </ul>
- <p>
-  Le modèle pour les pages de sujet inclut un certain nombre de composantes obligatoires et facultatives afin de pouvoir s’adapter à la multitude de domaines possibles liés aux sujets se rapportant au
-  <abbr title="Gouvernement du Canada">
-   GC
-  </abbr>
-  .
- </p>
-
- <figure class="mrgn-bttm-lg">
-  <figcaption class="text-center">
-   <b>
-    Diagramme de la façon de naviguer
-   </b>
-  </figcaption>
-  <img alt="Diagramme de la façon de naviguer vers les pages de sujets dans le site Canada.ca. La version textuelle se trouve ci-dessous :" class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/topic-pages-ia-fra.png"/>
-    <details>
-      <summary class="wb-toggle" data-toggle='{"print":"on"}'>
-        Version textuelle
-      </summary>
-      <p>
-        Navigation vers une page de sujets suit un des deux chemins :
-      </p>
-      <ul>
-        <li>
-        De la page d’accueil à une page thématique à une page de sujets
-        </li>
-        <li>
-        De la page d’accueil à la page des ministères et organismes, à un profil institutionnel, à une page de sujets.
-        </li>
-      </ul>
-      </details>
-    </figure>
-  </details>
-</section>
-
 <section>
  <h2 id="changements">
   Derniers changements
