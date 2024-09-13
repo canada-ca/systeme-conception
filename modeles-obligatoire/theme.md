@@ -7,8 +7,6 @@ breadcrumbs:
   title: "Conception"
 - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
   title: "Bibliothèque de modèles et de configurations de conception"
-- link: https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html
-  title: Page d'accueil institutionnelle
 date: null
 dateModified: '2024-09-13'
 description: null
