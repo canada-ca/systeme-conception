@@ -515,7 +515,6 @@ title: "Page de thème"
             </section>
         </div>
     </div>
-</details>
   <h2 id="navigation">
    Navigation de l’utilisateur
   </h2>
@@ -573,6 +572,7 @@ title: "Page de thème"
   </abbr>
   .
  </p>
+
  <figure class="mrgn-bttm-lg">
   <figcaption class="text-center">
    <b>
@@ -580,25 +580,25 @@ title: "Page de thème"
    </b>
   </figcaption>
   <img alt="Diagramme de la façon de naviguer vers les pages de sujets dans le site Canada.ca. La version textuelle se trouve ci-dessous :" class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/topic-pages-ia-fra.png"/>
-  <details>
-   <summary class="wb-toggle" data-toggle='{"print":"on"}'>
-    Version textuelle
-   </summary>
-   <p>
-    Navigation vers une page de sujets suit un des deux chemins :
-   </p>
-   <ul>
-    <li>
-     De la page d’accueil à une page thématique à une page de sujets
-    </li>
-    <li>
-     De la page d’accueil à la page des ministères et organismes, à un profil institutionnel, à une page de sujets.
-    </li>
-   </ul>
+    <details>
+      <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+        Version textuelle
+      </summary>
+      <p>
+        Navigation vers une page de sujets suit un des deux chemins :
+      </p>
+      <ul>
+        <li>
+        De la page d’accueil à une page thématique à une page de sujets
+        </li>
+        <li>
+        De la page d’accueil à la page des ministères et organismes, à un profil institutionnel, à une page de sujets.
+        </li>
+      </ul>
+      </details>
+    </figure>
   </details>
- </figure>
-</details>
-
+</section>
 
 <section>
  <h2 id="changements">
