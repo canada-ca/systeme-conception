@@ -14,9 +14,9 @@ dateModified: '2024-09-13'
 description: null
 title: "Page de thème"
 ---
-
-
-
+<section class="alert alert-info">
+<p>Nous avons déplacé les directives portant sur la page de sujet. Vous pouvez les trouver ici : <a href="sujet.html">Page de sujet</a>.</p>
+</section>
 
 
 <p>
