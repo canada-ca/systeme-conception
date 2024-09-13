@@ -26,16 +26,16 @@ title: "Page de thème"
 </p>
 
 <p>
- Les pages de thème et les pages de sujet fournissent un accès aux sujets et aux pages de destination qui appuient l’achèvement des tâches.
+ Les pages de thème fournissent un accès aux sujets et aux pages de destination qui appuient l’achèvement des tâches.
 </p>
 
 <p>
- Les pages de thème et les pages de sujet :
+ Les pages de thème&nbsp;:
 </p>
 
 <ul>
  <li>
-  supportent la navigation par thème plutôt que par institution pour accéder au contenu à l’échelle du gouvernement (voir
+  soutiennent la navigation par thème plutôt que par institution pour accéder au contenu à l’échelle du gouvernement (voir
   <a href="{{ site.url }}/specifications/information-trouvabilite/organiser-contenu.html#toc1">
    Comment les gens trouvent leurs tâches : navigation par thèmes et navigation institutionnelle
   </a>
@@ -68,11 +68,6 @@ title: "Page de thème"
   </a>
  </li>
  <li>
-  <a href="#recherche">
-   Recherche
-  </a>
- </li>
- <li>
   <a href="#changements">
    Derniers changements
   </a>
@@ -90,14 +85,7 @@ title: "Page de thème"
   Quand l'utiliser
  </h2>
  <p>
-  Ce modèle doit être utilisé pour la page de thème et les 2 premiers niveaux de sujets de l'
-  <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#arborescence">
-   arborescence thématique de Canada.ca
-  </a>
-  .
- </p>
- <p>
-  Il est facultatif pour les sujets de niveau inférieur.
+  Ce modèle doit être utilisé pour la page de thème. 
  </p>
 </section>
 
@@ -109,7 +97,7 @@ title: "Page de thème"
   Les pages où les personnes peuvent lancer une tâche devraient être considérées comme du contenu de destination et ne devraient pas utiliser le modèle de page de thème et de sujet.
  </p>
  <p>
-  Le modèle de la page de sujet ne doit pas être utilisé pour faire de la promotion; utilisez plutôt consulter les
+  Le modèle de la page de thème ne doit pas être utilisé pour faire de la promotion; utilisez plutôt les
   <a href="../modeles-recommandes/pages-evenements-promotionnels.html">
    pages d’événements promotionnels
   </a>
@@ -125,407 +113,6 @@ title: "Page de thème"
  <h2 id="comment">
   Comment mettre en œuvre
  </h2>
-</section>
-
-<section>
- <p>
-  Vous pouvez utiliser la version
-  <strong>
-   bêta
-  </strong>
-  ou la version
-  <strong>
-   stable
-  </strong>
-  de ce modèle.
- </p>
- <h3>
-  Version bêta de la page de thème et de sujet
- </h3>
- <p>
-  La version bêta est une amélioration par rapport à la version stable. Le code est toujours en révision. Il se peut que des modifications y soient apportées.
- </p>
- <p>
-  La version bêta remplacera éventuellement la version stable.
- </p>
- <p>
-  Vous devrez utiliser un CSS distinct pour mettre en œuvre la version bêta de ce modèle.
- </p>
- <div class="row mrgn-tp-lg mrgn-bttm-lg">
-  <div class="col-xs-10 col-md-8 col-lg-8">
-   <div class="gc-dwnld">
-    <div class="row">
-     <div class="col-xs-10 col-sm-3 col-lg-2">
-      <p>
-       <a class="gc-dwnld-lnk" href="../mise-en-page/theme-sujet_directives.html">
-        <img alt="" class="thumbnail gc-dwnld-img" height="142" src="../images/theme-topic-img-fr-cropped.jpg" width="110"/>
-        <span class="wb-inv">
-         Modèle avec directives
-        </span>
-       </a>
-      </p>
-     </div>
-     <div class="col-xs-12 col-sm-9 col-lg-10">
-      <p class="mrgn-tp-md lead">
-       Version bêta de la page de thème et de sujet
-      </p>
-      <p>
-       <a class="btn btn-call-to-action" href="../mise-en-page/theme-sujet_directives.html">
-        Modèle bêta avec directives
-       </a>
-      </p>
-     </div>
-    </div>
-   </div>
-  </div>
- </div>
- <details>
-  <summary>
-   Code
-  </summary>
-  <span id="code">
-  </span>
-  <div class="wb-tabs">
-   <div class="tabpanels">
-    <details id="details-panel1">
-     <summary>
-      HTML
-     </summary>
-     <pre>
-                      <code>
-&lt;div class="container"&gt;
-&lt;div class="row"&gt;
-  &lt;div class="col-md-6"&gt;
-    &lt;h1 property="name" id="wb-cont"&gt;[Titre du thème ou du sujet]&lt;/h1&gt;
-    &lt;p&gt;1 ou 2 phrases d’introduction qui définissent les sous-sujets et les tâches principales qui peuvent être consultés sur cette page.&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class="col-md-6 mrgn-tp-sm hidden-sm hidden-xs provisional gc-topic-bg"&gt;
-    &lt;div data-bgimg="img/825x200.jpg"&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;section class="well well-sm provisional gc-most-requested"&gt;
-&lt;div class="container"&gt;
-  &lt;div class="row"&gt;
-    &lt;div class="col-md-2"&gt;
-      &lt;h2&gt;En demande&lt;/h2&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-10"&gt;
-      &lt;ul class="colcount-md-2"&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien à une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien à une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien à une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien à une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien à une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien à une tâche principale]&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="#"&gt;[Lien à une tâche principale]&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/section&gt;
-&lt;div class="container"&gt;
-&lt;section class="gc-srvinfo"&gt;
-  &lt;h2 class="wb-inv"&gt;Services et renseignements&lt;/h2&gt;
-  &lt;div class="row wb-eqht-grd"&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet avec action]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Choisissez une option dans le menu déroulant suivant afin de naviguer vers une autre page.&lt;/p&gt;
-      &lt;div class="wb-fieldflow" data-wb-fieldflow='{"inline": true, "defaultselectedlabel": false, "i18n": { "btn": "Go"} }'&gt;
-        &lt;p&gt;[Naviguer vers une autre page]&lt;/p&gt;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href="../service-fr.html"&gt;Page de service&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href="../institutional/institution-fr.html"&gt;Page institutionnelle&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href="../content-fr.html"&gt;Page de contenu&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class="col-md-4"&gt;
-      &lt;h3&gt;&lt;a href="#"&gt;[Lien à un sous-sujet]&lt;/a&gt;&lt;/h3&gt;
-      &lt;p&gt;Résumé des renseignements disponibles ou des tâches pouvant être accomplies sur la page. Supprimez les longs libellés et les messages promotionnels. Utilisez une formulation basée sur l'action.&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;div class="row mrgn-tp-xl"&gt;
-  &lt;div class="col-md-8"&gt;
-    &lt;section class="gc-features"&gt;
-      &lt;h2 class="wb-inv"&gt;En vedette&lt;/h2&gt;
-      &lt;div class="row"&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;img class="img-responsive thumbnail mrgn-bttm-sm" src="../../components/gc-features/img/feature-360x203.png" alt=""/&gt;
-        &lt;/div&gt;
-        &lt;div class="col-md-6"&gt;
-          &lt;h3 class="h5"&gt;&lt;a class="stretched-link" href="#"&gt;[Lien à l’élément en vedette]&lt;/a&gt;&lt;/h3&gt;
-          &lt;p&gt;Brève description de l’élément en vedette.&lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/section&gt;
-  &lt;/div&gt;
-  &lt;div class="col-md-4"&gt;
-    &lt;section class="provisional gc-followus"&gt;
-&lt;h2&gt;Dans les médias sociaux&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;a href="#facebook" class="facebook wb-lbx"&gt;&lt;span class="wb-inv"&gt;Facebook : &lt;/span&gt;NomPageFacebook&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="#" rel="external" class="twitter"&gt;&lt;span class="wb-inv"&gt;Twitter : &lt;/span&gt;@CompteTwitter&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="#" rel="external" class="youtube"&gt;&lt;span class="wb-inv"&gt;Youtube : &lt;/span&gt;NomYouTube&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="#" rel="external" class="instagram"&gt;&lt;span class="wb-inv"&gt;Instagram : &lt;/span&gt;NomInstagram&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="#" rel="external" class="linkedin"&gt;&lt;span class="wb-inv"&gt;LinkedIn : &lt;/span&gt;NomLinkedIn&lt;/a&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/section&gt;
-&lt;section id="facebook" class="modal-dialog modal-content overlay-def mfp-hide"&gt;
-&lt;header class="modal-header"&gt;
-  &lt;h2 class="modal-title" id="lbx-title"&gt;Facebook&lt;/h2&gt;
-&lt;/header&gt;
-&lt;div class="modal-body"&gt;
-  &lt;ul class="list-unstyled lst-spcd"&gt;
-    &lt;li&gt;
-      &lt;a href="#" rel="external"&gt;[Titre du premier compte Facebook]&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;a href="#" rel="external"&gt;[Titre du deuxième compte Facebook]&lt;/a&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="modal-footer"&gt;
-  &lt;button type="button" class="btn btn-sm btn-primary pull-left popup-modal-dismiss"&gt;Fermer&lt;span class="wb-inv"&gt;Fermer la fenêtre superposée&lt;/span&gt;&lt;/button&gt;
-&lt;/div&gt;
-&lt;/section&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;section class="provisional gc-contributors"&gt;
-  &lt;h2&gt;De :&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href="#"&gt;[Ministère ou agence]&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="#"&gt;[Ministère ou agence]&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/section&gt;
-&lt;/div&gt;
-</code>
-</pre>
-    </details>
-    <details id="details-panel2">
-     <summary>
-      CSS
-     </summary>
-     <pre>
-<code>
-.provisional.gc-topic-bg div {
-	background: no-repeat;
-	margin-left: -15px;
-	min-height: 200px;
-	overflow: hidden;
-	width: calc(50vw - 15px);
-}
-
-.provisional.gc-most-requested {
-  border: none;
-}
-
-.provisional.gc-most-requested h2 {
-  font-size: 1.1em;
-  margin-top: 15px;
-}
-
-.provisional.gc-most-requested ul {
-  margin-bottom: 15px;
-  margin-top: 15px;
-}
-
-.provisional.gc-most-requested ul li {
-  font-family: Lato,sans-serif;
-  font-size: 87%;
-  font-weight: 700;
-  line-height: 1.5em;
-}
-
-.provisional.gc-followus .facebook::before,.provisional.gc-followus .instagram::before,.provisional.gc-followus .linkedin::before,.provisional.gc-followus .twitter::before,.provisional.gc-followus .youtube::before {
-  background-repeat: no-repeat;
-  background-size: cover;
-  content: "";
-  height: 38px;
-  margin-right: 10px;
-  min-width: 38px
-}
-
-.provisional.gc-followus h2 {
-  font-size: 1.1em
-}
-
-.provisional.gc-followus ul {
-  display: block;
-  font-size: 87%;
-  font-weight: 700;
-  list-style: none;
-  -webkit-margin-before: 1em;
-  margin-block-start:1em;-webkit-padding-start: calc(1em + 6px);
-  padding-inline-start:calc(1em + 6px)}
-
-.provisional.gc-followus ul li {
-  margin-bottom: 21px
-}
-
-.provisional.gc-followus ul li:last-child {
-  margin-bottom: 15px
-}
-
-.provisional.gc-followus ul li a {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  line-height: 1.54;
-  max-width: -webkit-max-content;
-  max-width: -moz-max-content;
-  max-width: max-content;
-  text-decoration: none
-}
-
-.provisional.gc-followus ul li a::before {
-  margin-right: 10px;
-  margin-top: -6px
-}
-
-.provisional.gc-followus ul li a:active,.provisional.gc-followus ul li a:focus,.provisional.gc-followus ul li a:hover {
-  text-decoration: underline
-}
-
-.provisional.gc-followus ul.list-inline {
-  -webkit-padding-start: 0;
-  padding-inline-start:0}
-
-.provisional.gc-followus ul.list-inline li {
-  display: inline-block;
-  padding-right: 0
-}
-
-.provisional.gc-followus ul.list-inline li a {
-  height: 38px;
-  overflow: hidden;
-  width: 38px
-}
-
-.provisional.gc-followus ul.list-inline li a::before {
-  margin-top: 0
-}
-
-.provisional.gc-followus ul.list-inline li a:active,.provisional.gc-followus ul.list-inline li a:focus,.provisional.gc-followus ul.list-inline li a:hover {
-  outline: solid 2px #0535d2
-}
-
-.provisional.gc-followus .facebook::before {
-  background-image: url(../assets/gc-follow-us/facebook.svg)
-}
-
-.provisional.gc-followus .twitter::before {
-  background-image: url(../assets/gc-follow-us/twitter.svg)
-}
-
-.provisional.gc-followus .youtube::before {
-  background-image: url(../assets/gc-follow-us/youtube.svg)
-}
-
-.provisional.gc-followus .instagram::before {
-  background-image: url(../assets/gc-follow-us/instagram.svg)
-}
-
-.provisional.gc-followus .linkedin::before {
-  background-image: url(../assets/gc-follow-us/linkedin.svg)
-}
-
-.provisional.gc-contributors {
-  margin-top: 38px
-}
-
-.provisional.gc-contributors h2,.provisional.gc-contributors ul {
-  display: inline;
-  font-size: 87%;
-  margin-top: 0
-}
-
-.provisional.gc-contributors ul {
-  -webkit-padding-start: 0;
-  padding-inline-start:0}
-
-.provisional.gc-contributors ul li {
-  display: inline-block;
-  font-weight: 700;
-  margin-right: .7em
-}
-
-@media screen and (max-width: 991px)
-.provisional.gc-contributors ul {
-  -webkit-padding-start: 20px;
-  padding-inline-start: 20px;
-}
-
-@media screen and (max-width: 991px)
-.provisional.gc-contributors h2, .provisional.gc-contributors ul {
-  display: block;
-}
-
-@media screen and (max-width: 991px)
-.provisional.gc-contributors ul li {
-  display: list-item;
-  margin-right: 0;
-}
-</code>
-</pre>
-    </details>
-   </div>
-  </div>
- </details>
- <div class="clearfix">
- </div>
 </section>
 
 <section>
