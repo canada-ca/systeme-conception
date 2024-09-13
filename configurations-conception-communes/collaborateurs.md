@@ -12,14 +12,14 @@ title: Collaborateurs
 <section>
     <h2>Sur cette page&nbsp;:</h2>
     <ul>
-        <li><a href="#use">Quand utiliser cette configuration</a></li>
+        <li><a href="#use">Quand l'utiliser</a></li>
         <li><a href="#design">Contenu et conception</a></li>
         <li><a href="#implement">Comment procéder à la mise en œuvre</a></li>
     </ul>
 </section>
 <section>
     <h2 id="use">
-        Quand utiliser cette configuration
+        Quand l'utiliser
     </h2>
     <p>
         Utilisez la configuration Collaborateurs pour fournir des liens vers les institutions, les organismes ou les entités similaires qui sont chargés du contenu de la page ou qui y contribuent. Vous pouvez lister un ou plusieurs collaborateurs.
@@ -46,8 +46,9 @@ title: Collaborateurs
     <p>La configuration Collaborateurs doit être placée en dessous de tout le contenu de la page, mais au-dessus du champ «&nbsp;Date de modification &nbsp;».</p>
     <p>N’alignez pas ce bloc avec d’autres blocs de texte ou d’autres éléments de mise en page; il doit être seul.</p>
     <p>Justifiez à gauche le titre et les liens.</p>
-    <p>Utilisez les styles standard de paragraphe, de titre et de lien.</p>
+    <p>Utilisez les <a href="https://conception.canada.ca/styles/couleurs.html">couleurs standard</a> de paragraphe, de titre et de lien.</p>
     <p>Le titre est un titre H2 dont la taille de police est : 87 % (ou 17 px).</p>
+    <p>Les éléments de la liste sont en gras et ont une taille de police de 87 % (ou 17 px).</p>
     <p>Les liens se trouvent à droite du titre H2 et sont codés dans une liste horizontale. Le premier élément de la liste n’est pas stylisé (pas de puce).</p>
     <h3>Exemple visuel</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
