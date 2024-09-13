@@ -97,13 +97,10 @@ title: "Page de thème"
  <p>
   Le modèle de la page de thème ne doit pas être utilisé pour faire de la promotion; utilisez plutôt les
   <a href="../modeles-recommandes/pages-evenements-promotionnels.html">
-   pages d’événements promotionnels
-  </a>
+   pages d’événements promotionnels</a>
   ou les
   <a href="../modeles-recommandes/pages-campagnes.html">
-   pages de campagnes
-  </a>
-  .
+   pages de campagnes</a>.
  </p>
 </section>
 
