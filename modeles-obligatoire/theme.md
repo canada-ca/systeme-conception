@@ -512,32 +512,32 @@ title: "Page de thème"
             </section>
         </div>
     </div>
-  <h2 id="navigation">
-   Navigation de l’utilisateur
-  </h2>
-  <p>
-   Le site Canada.ca s’articule autour de 15 thèmes fondés sur une analyse des tâches principales (renseignements et services les plus demandés) à l’échelle du gouvernement du Canada.
-  </p>
-  <p>
-   S’ils mettent l’accent sur les tâches principales liées aux renseignements et à la prestation des services, les thèmes donnent également un aperçu des activités du gouvernement du Canada menées à bien pour contribuer à la prestation des programmes et services (par exemple, recherches, consultations, élaboration de politiques).
-  </p>
-  <figure class="mrgn-bttm-lg">
-   <figcaption class="text-center">
-    <b>
-     Diagramme de la façon de naviguer
-    </b>
-   </figcaption>
-   <img alt="Diagramme de la façon de naviguer vers les pages de thème dans le site Canada.ca. La version textuelle se trouve ci-dessous :" class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/theme-pages-ia-fra.png"/>
-   <details>
-    <summary class="wb-toggle" data-toggle='{"print":"on"}'>
-     Version textuelle
-    </summary>
+    <h2 id="navigation">
+    Navigation de l’utilisateur
+    </h2>
     <p>
-     On peut accéder aux pages de thème à partir de la page d’accueil du site Canada.ca.
+    Le site Canada.ca s’articule autour de 15 thèmes fondés sur une analyse des tâches principales (renseignements et services les plus demandés) à l’échelle du gouvernement du Canada.
     </p>
-   </details>
-  </figure>
- </details>
+    <p>
+    S’ils mettent l’accent sur les tâches principales liées aux renseignements et à la prestation des services, les thèmes donnent également un aperçu des activités du gouvernement du Canada menées à bien pour contribuer à la prestation des programmes et services (par exemple, recherches, consultations, élaboration de politiques).
+    </p>
+    <figure class="mrgn-bttm-lg">
+    <figcaption class="text-center">
+      <b>
+      Diagramme de la façon de naviguer
+      </b>
+    </figcaption>
+    <img alt="Diagramme de la façon de naviguer vers les pages de thème dans le site Canada.ca. La version textuelle se trouve ci-dessous :" class="img-responsive center-block" src="https://www.canada.ca/content/dam/tbs-sct/images/government-communications/canada-content-style-guide/theme-pages-ia-fra.png"/>
+    <details>
+      <summary class="wb-toggle" data-toggle='{"print":"on"}'>
+      Version textuelle
+      </summary>
+      <p>
+      On peut accéder aux pages de thème à partir de la page d’accueil du site Canada.ca.
+      </p>
+    </details>
+    </figure>
+  </details>
 </section>
 
 
