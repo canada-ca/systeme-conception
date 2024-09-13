@@ -117,11 +117,8 @@ title: "Page de thème"
 
 <section>
  <h3>
-  Version stable de la page de thème et de la page de sujet
+  Page de thème
  </h3>
- <p>
-  La version stable sera éventuellement remplacée par la version bêta.
- </p>
  <details>
   <summary>
    Directives pour la version stable de la page de thème
