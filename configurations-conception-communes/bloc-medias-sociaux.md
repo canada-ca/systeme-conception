@@ -184,10 +184,10 @@ title: "Chaînes de médias sociaux"
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Chaînes de médias sociaux (affichage vertical avec étiquettes) – petit écran</b></figcaption>
+      <figcaption><b>Chaînes de médias sociaux (affichage vertical avec étiquettes et lien « D’autres moyens de rester en contact ») – petit écran</b></figcaption>
       <img src="../images/social-media-vertical-fr-sm.png" class="img-responsive" alt="Chaînes de médias sociaux (conception verticale avec étiquettes) pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage vertical avec étiquettes) - petit écran</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage vertical avec étiquettes et lien « D’autres moyens de rester en contact ») - petit écran</summary>
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
@@ -196,6 +196,7 @@ title: "Chaînes de médias sociaux"
           <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
           <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
         </ul>
+        <p>Sous les icônes se trouve un lien intitulé : D’autres moyens de rester en contact</p>
       </details>
     </figure>
   </div>
