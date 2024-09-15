@@ -79,6 +79,7 @@ title: "Chaînes de médias sociaux"
             <li>Aligné à gauche</li>
             <li>Placé sous la liste des icônes</li>
         </ul>
+      </li>
   </ul>
   <p>Les classes de lien pour les médias sociaux et les icônes associés sont disponibles.</p>
   <div class="row mrgn-tp-lg">
