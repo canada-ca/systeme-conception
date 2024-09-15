@@ -46,7 +46,7 @@ title: "Chaînes de médias sociaux"
     <li>L’affichage horizontal ne comprend que les icônes.</li>
   </ul>
   <h4>Lien optionnel</h4>
-  <p>Vous pouvez ajouter un lien intitulé « D’autres moyens de rester en contact » si vous souhaitez créer un lien vers d’autres comptes de médias sociaux ou d’autres plateformes de communication ministérielles (p. ex., balados, magazines externes, etc.). Le lien doit mener vers une page qui répertorie tous vos comptes de médias sociaux et les autres moyens de communiquer avec le ministère ou de le suivre.</p>
+  <p>Vous pouvez ajouter un lien intitulé «&nbsp;D’autres moyens de rester en contact&nbsp;» si vous souhaitez créer un lien vers d’autres comptes de médias sociaux ou d’autres plateformes de communication ministérielles (p. ex., balados, magazines externes, etc.). Le lien doit mener vers une page qui répertorie tous vos comptes de médias sociaux et les autres moyens de communiquer avec le ministère ou de le suivre.</p>
 
   <p>S’il y a plus d’un compte pour une plateforme&nbsp;:</p>
   <ul>
@@ -73,7 +73,7 @@ title: "Chaînes de médias sociaux"
         <li>Police&nbsp;: Noto Sans, 16 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
       </ul>
     </li>
-     <li>Lien « D’autres moyens de rester en contact »&nbsp;:
+     <li>Lien «&nbsp;D’autres moyens de rester en contact&nbsp;»&nbsp;:
         <ul>
             <li>Police&nbsp;: Noto Sans, 17 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
             <li>Aligné à gauche</li>
@@ -184,10 +184,10 @@ title: "Chaînes de médias sociaux"
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Chaînes de médias sociaux (affichage verticale avec étiquettes et lien « D’autres moyens de rester en contact ») – petit écran</b></figcaption>
-      <img src="../images/social-media-vertical-fr-sm.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage verticale avec étiquettes et lien « D’autres moyens de rester en contact ») pour les petits écrans. Version texte ci-dessous&nbsp;:" />
+      <figcaption><b>Chaînes de médias sociaux (affichage verticale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») – petit écran</b></figcaption>
+      <img src="../images/social-media-vertical-fr-sm.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage verticale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage verticale avec étiquettes et lien « D’autres moyens de rester en contact ») - petit écran</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage verticale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») - petit écran</summary>
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
@@ -202,10 +202,10 @@ title: "Chaînes de médias sociaux"
   </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Chaînes de médias sociaux (affichage horizontale avec étiquettes et lien « D’autres moyens de rester en contact ») – petit écran</b></figcaption>
-      <img src="../images/social-media-horizontal-fr-sm.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage horizontale avec étiquettes et lien « D’autres moyens de rester en contact ») pour les petits écrans. Version texte ci-dessous&nbsp;:" />
+      <figcaption><b>Chaînes de médias sociaux (affichage horizontale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») – petit écran</b></figcaption>
+      <img src="../images/social-media-horizontal-fr-sm.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage horizontale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
-        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage horizontale avec étiquettes et lien « D’autres moyens de rester en contact ») - petit écran</summary>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage horizontale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») - petit écran</summary>
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
@@ -288,7 +288,7 @@ title: "Chaînes de médias sociaux"
      <dt>
       <time datetime="2024-04-03" class="link-muted">2024-09-13</time>
       </dt>
-      <dd>Mise à jour de la configuration pour y ajouter le lien optionnel « D’autres moyens de rester en contact ».</dd>
+      <dd>Mise à jour de la configuration pour y ajouter le lien optionnel «&nbsp;D’autres moyens de rester en contact&nbsp;».</dd>
     <dt>
       <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
