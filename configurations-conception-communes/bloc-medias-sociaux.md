@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/social-media-channels.html
 date: "2018-12-19"
-dateModified: "2024-04-03"
+dateModified: "2024-09-13"
 description: "La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada sur diverses plateformes de médias sociaux."
 title: "Chaînes de médias sociaux"
 ---
@@ -45,6 +45,9 @@ title: "Chaînes de médias sociaux"
     <li>L’affichage vertical comprend une étiquette à côté de chaque icône.</li>
     <li>L’affichage horizontal ne comprend que les icônes.</li>
   </ul>
+  <h4>Lien optionnel</h4>
+  <p>Vous pouvez ajouter un lien intitulé « D’autres moyens de rester en contact » si vous souhaitez créer un lien vers d’autres comptes de médias sociaux ou d’autres plateformes de communication ministérielles (p. ex., balados, magazines externes, etc.). Le lien doit mener vers une page qui répertorie tous vos comptes de médias sociaux et les autres moyens de communiquer avec le ministère ou de le suivre.</p>
+
   <p>S’il y a plus d’un compte pour une plateforme&nbsp;:</p>
   <ul>
     <li>Indiquez le nom de la plateforme à côté de son icône (affichage vertical seulement).</li>
@@ -70,6 +73,12 @@ title: "Chaînes de médias sociaux"
       </ul>
     </li>
     <li>Le style du bouton est celui d’un bouton principal.</li>
+     <li>Lien « D’autres moyens de rester en contact »&nbsp;:
+        <ul>
+            <li>Police&nbsp;: Noto Sans, 17 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
+            <li>Aligné à gauche</li>
+            <li>Placé sous la liste des icônes</li>
+        </ul>
   </ul>
   <p>Les classes de lien pour les médias sociaux et les icônes associés sont disponibles.</p>
   <div class="row mrgn-tp-lg">
@@ -137,7 +146,6 @@ title: "Chaînes de médias sociaux"
       </div>
     </div>
   </div>
-  <p><a href="/contactez-nous/">Communiquez avec le Bureau de la transformation numérique (BTN)</a> si vous voulez inclure une plateforme qui n’est pas représentée ici.</p>
   <h3>Exemples visuels</h3>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
@@ -145,7 +153,7 @@ title: "Chaînes de médias sociaux"
       <img src="/images/social-media-vertical-mask-fr.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaîne de médias sociaux (affichage horizontal) - grand écran</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». On trouve sous le titre une liste verticale avec les icônes et les étiquettes associées&nbsp;:</p>
+        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». On trouve sous le titre une liste horizontale avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
           <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
@@ -250,13 +258,18 @@ title: "Chaînes de médias sociaux"
   <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
   <ul>
     <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html">Page de thème et de suje</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html">Page de thème et de sujet</a></li>
     <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
   </ul>
 </section>
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
+     <dt>
+      <time datetime="2024-04-03" class="link-muted">2024-09-13</time>
+      </dt>
+      <dd>Mise à jour de la configuration pour y ajouter le lien optionnel « D’autres moyens de rester en contact ».</dd>
+    </dl>
     <dt>
       <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
