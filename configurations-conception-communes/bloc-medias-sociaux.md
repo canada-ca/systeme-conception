@@ -289,7 +289,6 @@ title: "Chaînes de médias sociaux"
       <time datetime="2024-04-03" class="link-muted">2024-09-13</time>
       </dt>
       <dd>Mise à jour de la configuration pour y ajouter le lien optionnel « D’autres moyens de rester en contact ».</dd>
-    </dl>
     <dt>
       <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
