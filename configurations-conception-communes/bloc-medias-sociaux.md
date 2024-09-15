@@ -65,6 +65,7 @@ title: "Chaînes de médias sociaux"
       <ul>
         <li>Couleur de fond de l’en-tête modal&nbsp;: #2e5274</li>
         <li>Titre&nbsp;: H2, Lato, le style de la taille de police est de 1.15 em</li>
+        <li>Le style du bouton est celui d’un bouton principal.</li>
       </ul>
     </li>
     <li>Liens&nbsp;:
@@ -72,7 +73,6 @@ title: "Chaînes de médias sociaux"
         <li>Police&nbsp;: Noto Sans, 16 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
       </ul>
     </li>
-    <li>Le style du bouton est celui d’un bouton principal.</li>
      <li>Lien « D’autres moyens de rester en contact »&nbsp;:
         <ul>
             <li>Police&nbsp;: Noto Sans, 17 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
