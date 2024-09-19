@@ -218,7 +218,7 @@ title: "Page de thème"
                                         <li>
                                             Cette composante figure sous le titre du thème.
                                         </li>
-                                        <li>Elle se trouve à la gauche <mark>du carrousel du</mark> thème.</li>
+                                        <li>Elle se trouve à la gauche de l'image.</li>
                                     </ul>
                                 </details>
                             </li>
