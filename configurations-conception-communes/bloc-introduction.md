@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/intro-block.html"
 date: 2023-08-20
-dateModified: 2024-04-03
+dateModified: 2024-09-13
 description: Orientation sur l’utilisation de la configuration de conception du bloc d’introduction sur Canada.ca.
 title: Bloc d’introduction
 ---
@@ -77,13 +77,25 @@ title: Bloc d’introduction
                 <li>Utilisez les <a href="https://conception.canada.ca/styles/typographie.html">styles typographiques standards</a>.</li>
             </ul>
         </li>
-        <li>
-            Image
+         <li>
+           Image d’arrière-plan pleine largeur
             <ul>
                 <li>1200&nbsp;px sur 726&nbsp;px</li>
                 <li>Rapport de l’image : 1,65:1</li>
                 <li>Visible sur les grands écrans, mais caché sur les moyens et les petits écrans</li>
-                <li>Traité comme une image d’arrière-plan et positionné à droite</li>
+                <li>Traité comme une image d’arrière-plan
+                <ul>
+                    <li>L’image est placée à droite, et un dégradé estompe 50 % de l’image</li>
+                </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            Image demi-largeur
+            <ul>
+                <li>520&nbsp;px sur 200&nbsp;px</li>
+                <li>Visible sur les grands écrans, mais caché sur les moyens et les petits écrans</li>
+                <li>Placée à droite</li>
             </ul>
         </li>
         <li>
@@ -100,21 +112,31 @@ title: Bloc d’introduction
     <h3>Exemples visuels</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Bloc d’introduction comprenant des éléments obligatoires – grand écran</b></figcaption>
-            <img src="../images/intro-block-fr.png" class="img-responsive" alt="Bloc d’introduction. Version texte ci-dessous." />
+            <figcaption><b>Bloc d’introduction – grand écran</b></figcaption>
+            <img src="../images/intro-block-fr.png" class="img-responsive" alt="Bloc d’introduction pour grand écran. Version texte ci-dessous&nbsp;:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bloc d’introduction - grand écran</summary>
-                <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution. Cet exemple visuel ne comprend pas l’image optionnelle, ni le bouton de super tâche.</p>
+                <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution.</p>
             </details>
         </figure>
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Bloc d’introduction comprenant des éléments obligatoires – petit écran</b></figcaption>
-            <img src="../images/intro-block-sm-fr.png" class="img-responsive" alt="Bloc d’introduction. Version texte ci-dessous." />
+            <figcaption><b>Bloc d’introduction – petit écran</b></figcaption>
+            <img src="../images/intro-block-sm-fr.png" class="img-responsive" alt="IBloc d’introduction pour petit écran. Version texte ci-dessous&nbsp;:" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bloc d’introduction - petit écran</summary>
-                <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution. Cet exemple visuel ne comprend pas l’image optionnelle, ni le bouton de super tâche.</p>
+                <p>Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre h1 pour le nom de l’institution et d’une description courte du mandat de l’institution.</p>
+            </details>
+        </figure>
+    </div>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Bloc d’introduction avec image demi-largeur – grand écran</b></figcaption>
+            <img src="../images/intro-block-topic-fr.png" class="img-responsive" alt="Bloc d’introduction avec image demi-largeur. Version texte ci-dessous&nbsp;:" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: bloc d’introduction avec image demi-largeur – grand écran</summary>
+                <p> Le bloc d’introduction apparaît sous l’en-tête général et le fil d’Ariane de Canada.ca. Il se compose d’un titre H1 portant sur le sujet et d’une brève description des sujets et tâches principales accessibles sur la page. Il comprend également une image demi-largeur de 520 px sur 200 px qui est placée à droite du titre H1 et de la description.</p>
             </details>
         </figure>
     </div>
@@ -180,7 +202,11 @@ title: Bloc d’introduction
     <h2 id="latest">Derniers changements</h2>
     <dl class="dl-horizontal">
         <dt>
-            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
+         <time datetime="2024-09-13" class="link-muted">2024-09-13</time>
+        </dt>
+        <dd>Ajout de lignes directrices portant sur l’image demi-largeur.Updated the guidance to include the half-width image.</dd>
+        <dt>
+            <time datetime="2023-08-20" class="link-muted">2023-08-20</time>
         </dt>
         <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
     </dl>
