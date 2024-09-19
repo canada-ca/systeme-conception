@@ -7,7 +7,7 @@ title: Collaborateurs
 ---
 
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/contributors-fr.png" class="img-responsive" alt="" /></div>
-<p>Utilisez la configuration Collaborateurs pour mettre en évidence les institutions ou organismes ayant contribué au contenu d’une page Web.</p>
+<p>Utilisez la configuration collaborateurs pour mettre en évidence les institutions ou organismes ayant contribué au contenu d’une page Web.</p>
 
 <section>
     <h2>Sur cette page&nbsp;:</h2>
