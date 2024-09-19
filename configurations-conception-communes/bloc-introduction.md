@@ -26,6 +26,8 @@ title: Bloc d’introduction
 <section>
     <h2 id="avoid">Quoi éviter</h2>
     <p>Ne l’utilisez pas sur les pages de destination lorsque les gens tentent d’accomplir une tâche.</p>
+<p>N’utilisez pas une image pleine largeur sur les pages de sujet; utilisez plutôt une image demi-largeur.</p>
+
 </section>
 <section>
     <h2 id="design">Contenu et conception</h2>
