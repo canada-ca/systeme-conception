@@ -111,7 +111,7 @@ title: "Chaînes de médias sociaux"
               <td><p>twitter</p></td>
               <td class="text-center"><div class="provisional gc-followus">
                   <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/twitter.svg" class="twitter"><span class="wb-inv">X</span></a></li>
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/x.svg" class="twitter"><span class="wb-inv">X</span></a></li>
                   </ul>
                 </div></td>
             </tr>
