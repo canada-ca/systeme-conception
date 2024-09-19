@@ -234,7 +234,7 @@ title: "Page de thème"
                             </span>
                         </p>
                         <p>
-                            Présente les tâches principales et les renseignements pertinents propres au thème en temps opportun
+                            L’image est facultative. Utilisez uniquement des images décoratives.
                         </p>
                         <ul class="list-unstyled">
                             <li id="element6">
@@ -246,10 +246,10 @@ title: "Page de thème"
                                     </summary>
                                     <ul>
                                         <li>
-                                            Le carrousel du thème figure en haut de la page.
+                                            L'image figure en haut de la page.
                                         </li>
                                         <li>
-                                            Il se trouve à droite du paragraphe d’introduction du thème.
+                                            Elle se trouve à droite du paragraphe d’introduction du thème.
                                         </li>
                                     </ul>
                                 </details>
