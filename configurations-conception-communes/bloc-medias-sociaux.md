@@ -208,11 +208,11 @@ title: "Chaînes de médias sociaux"
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage horizontale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») - petit écran</summary>
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
-          <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
-          <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
-          <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
-          <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
-          <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
+          <li>Icône de Facebook</li>
+          <li>Icône de X</li>
+          <li>Icône de YouTube</li>
+          <li>Icône d’Instagram</li>
+          <li>Icône de LinkedIn</li>
         </ul>
         <p>Sous les icônes se trouve un lien intitulé&nbsp;: D’autres moyens de rester en contact</p>
       </details>
