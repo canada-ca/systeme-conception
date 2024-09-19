@@ -61,6 +61,7 @@ title: Page d’accueil institutionnelle
                             <td>
                                 <p>Utilisez le titre d’usage de l’institution (voir le <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Registre des titres d’usage</a>).</p>
                                 <p>La description doit être un très bref résumé de ce que fait l’institution.</p>
+                                <p>L’image est facultative. Si vous incluez une image, utilisez une image pleine largeur.</p>
                             </td>
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
