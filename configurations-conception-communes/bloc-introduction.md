@@ -94,7 +94,7 @@ title: Bloc d’introduction
             Image demi-largeur
             <ul>
                 <li>520&nbsp;px sur 200&nbsp;px</li>
-                <li>Visible sur les grands écrans, mais caché sur les moyens et les petits écrans</li>
+                <li>Visible sur les grands écrans, mais masquée sur les écrans moyens et petits</li>
                 <li>Placée à droite</li>
             </ul>
         </li>
