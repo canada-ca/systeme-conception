@@ -22,7 +22,7 @@ title: Collaborateurs
         Quand l'utiliser
     </h2>
     <p>
-        Utilisez la configuration Collaborateurs pour fournir des liens vers les institutions, les organismes ou les entités similaires qui sont chargés du contenu de la page ou qui y contribuent. Vous pouvez lister un ou plusieurs collaborateurs.
+        Utilisez la configuration collaborateurs pour fournir des liens vers les institutions, les organismes ou les entités similaires qui sont chargés du contenu de la page ou qui y contribuent. Vous pouvez lister un ou plusieurs collaborateurs.
     </p>
 </section>
 <section>
@@ -69,6 +69,6 @@ title: Collaborateurs
     <p>Trouvez des exemples pratiques et du code pour mettre en œuvre la configuration de conception du bloc d’introduction.</p>
     <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
     <ul>
-        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-contributors/gc-contributors-fr.html">Collaborateurs - GCWeb</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/gc-contributors/gc-contributors-doc-fr.html">Collaborateurs - GCWeb</a></li>
     </ul>
 </section>
