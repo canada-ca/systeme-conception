@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/intro-block.html"
 date: 2023-08-20
-dateModified: 2024-09-13
+dateModified: 2024-09-19
 description: Orientation sur l’utilisation de la configuration de conception du bloc d’introduction sur Canada.ca.
 title: Bloc d’introduction
 ---
@@ -202,9 +202,9 @@ title: Bloc d’introduction
     <h2 id="latest">Derniers changements</h2>
     <dl class="dl-horizontal">
         <dt>
-         <time datetime="2024-09-13" class="link-muted">2024-09-13</time>
+         <time datetime="2024-09-19" class="link-muted">2024-09-13</time>
         </dt>
-        <dd>Ajout de lignes directrices portant sur l’image demi-largeur.Updated the guidance to include the half-width image.</dd>
+        <dd>Ajout de lignes directrices portant sur l’image demi-largeur.</dd>
         <dt>
             <time datetime="2023-08-20" class="link-muted">2023-08-20</time>
         </dt>
