@@ -43,7 +43,7 @@ title: Collaborateurs
     </ul>
     <p>Le texte de l’hyperlien doit correspondre au nom apparaissant sur la page liée.</p>
     <h3>Spécifications de conception</h3>
-    <p>La configuration Collaborateurs doit être placée en dessous de tout le contenu de la page, mais au-dessus du champ «&nbsp;Date de modification &nbsp;».</p>
+    <p>La configuration collaborateurs doit être placée en dessous de tout le contenu de la page, mais au-dessus du champ «&nbsp;Date de modification &nbsp;».</p>
     <p>N’alignez pas ce bloc avec d’autres blocs de texte ou d’autres éléments de mise en page; il doit être seul.</p>
     <p>Justifiez à gauche le titre et les liens.</p>
     <p>Utilisez les <a href="https://conception.canada.ca/styles/couleurs.html">couleurs standard</a> de paragraphe, de titre et de lien.</p>
