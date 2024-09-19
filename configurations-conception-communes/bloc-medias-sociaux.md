@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/social-media-channels.html
 date: "2018-12-19"
-dateModified: "2024-09-13"
+dateModified: "2024-09-19"
 description: "La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada sur diverses plateformes de médias sociaux."
 title: "Chaînes de médias sociaux"
 ---
@@ -278,7 +278,7 @@ title: "Chaînes de médias sociaux"
   <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
   <ul>
     <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html">Page de thème et de sujet</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/sujet.html">Page de sujet</a></li>
     <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
   </ul>
 </section>
