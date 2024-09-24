@@ -53,7 +53,7 @@ title: "Page de sujet"
                 <div class="panel panel-default">
                     <table class="table table-striped" id="ilp-01" aria-live="polite">
                         <caption class="wb-inv">
-                            Contenu et modèles de conception de la page sujet
+                            Contenu et configurations de conception de la page sujet
                         </caption>
                         <thead>
                             <tr>
@@ -115,7 +115,7 @@ title: "Page de sujet"
                 <img src="../images/topic-page-large-fr.png" class="img-responsive" alt="Page de sujet pour grands écrans. Version texte ci-dessous&nbsp;:" />
                 <details>
                     <summary>Description de l’image&nbsp;: Page de sujet — grand écran</summary>
-                    <p>La page de sujet commence par un bloc d’introduction. Le [titre du sujet] est affiché dans le style standard H1 de Canada.ca. Après cela, 1 à 2 phrases décrivent les sujets et les principales tâches accessibles sur la page. À droite se trouve une image avec des dimensions de 520 px sur 200 px..</p>
+                    <p>La page de sujet commence par un bloc d’introduction. Le [titre du sujet] est affiché dans le style standard H1 de Canada.ca. Après cela, 1 à 2 phrases décrivent les sujets et les principales tâches accessibles sur la page. À droite se trouve une image avec des dimensions de 520 px sur 200 px.</p>
                     <p>Sous le bloc d’introduction se trouve une bande En demande avec deux colonnes de liens (trois dans chaque rangée). Les liens mènent aux tâches principales.</p>
                     <p>En dessous de la bande En demande se trouve la configuration Services et renseignements. Il s’agit de trois colonnes, avec trois sujets dans chaque colonne. Le sujet commence par un titre sous forme d’hyperlien, suivi d’une description. Les instructions pour la description sont les suivantes&nbsp;: utilisez des verbes d’action ou énumérez simplement des mots-clés pour résumer les informations ou les tâches qui peuvent être accomplies sur la page à laquelle le lien renvoie.</p>
                     <p>Une promotion contextuelle se trouve sous la configuration Services et renseignements. Elle comprend une image positionnée à gauche, dont les dimensions sont de 360 px sur 203 px. À droite de l’image se trouve un titre en hyperlien pour l’élément vedette, suivi d’une brève description de celui-ci.</p>
@@ -192,7 +192,7 @@ title: "Page de sujet"
      </ul>
 </section>
 <section>
- <h2 id="changements">
+ <h2 id="changes">
   Derniers changements
  </h2>
  <p>
