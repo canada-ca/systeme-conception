@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/contributors.html
 date: null
-dateModified: '2024-09-11'
+dateModified: '2024-09-24'
 description: null
 title: Collaborateurs
 ---
