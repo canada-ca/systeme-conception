@@ -12,6 +12,7 @@ dateModified: '2024-09-24'
 description: null
 title: "Page de sujet"
 ---
+<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 
 <p>
  <span class="label label-danger">
