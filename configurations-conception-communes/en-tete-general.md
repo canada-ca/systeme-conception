@@ -394,7 +394,7 @@ title: "En-tête général"
   <h3>Justification stratégique</h3>
   <p>Ce modèle est un élément obligatoire des <cite>spécifications du contenu et de l’architecture de l’information pour Canada.ca</cite>.</p>
   <ul>
-    <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html#header-footer">Éléments obligatoires du système de conception</a></li>
+    <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html#header-footer">Éléments obligatoires du système de conception</a></li>
   </ul>
   <h2 id="changements">Derniers changements</h2>
   <dl class="dl-horizontal">

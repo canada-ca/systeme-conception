@@ -233,7 +233,7 @@ title: "Fil d'Ariane"
 <p>Les spécifications relatives aux espaces dans les liens du fils d’Ariane sont conçues de façon à ce que les cibles tactiles respectent les règles AAA pour l’accessibilité des contenus Web.</p>
 <p>Le fil d’Ariane fait partie de l’en-tête général et est un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information</cite>.</p>
 <ul>
-  <li><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
+  <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
 </ul>
 
 <h2 id="changements">Derniers changements</h2>

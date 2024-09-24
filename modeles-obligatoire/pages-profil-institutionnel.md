@@ -353,7 +353,7 @@ title: Page d’accueil institutionnelle
     <p>Ce modèle est un élément obligatoire des spécifications du contenu et de l’architecture de l’information pour Canada.ca.</p>
     <ul>
         <li>
-            <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">
+            <a href="https://conception.canada.ca/specifications/elements-obligatoires.html">
                 Éléments obligatoires du système de conception
             </a>
         </li>
