@@ -8,7 +8,7 @@ breadcrumbs:
 - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
   title: "Bibliothèque de modèles et de configurations de conception"
 date: null
-dateModified: '2024-09-19'
+dateModified: '2024-09-24'
 description: null
 title: "Page de thème"
 ---
@@ -552,7 +552,7 @@ title: "Page de thème"
     </h2>
     <p>
         <strong>
-            2024-09-19 :
+            2024-09-24 :
         </strong>
     </p>
     <ul>
