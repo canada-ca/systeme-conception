@@ -155,7 +155,7 @@ title: "Page de sujet"
                 <div class="wb-tabs mrgn-tp-lg">
                     <div class="tabpanels">
                         <details id="004" open="open">
-                            <summary><strong>GC-AEM</strong></summary>
+                            <summary><strong>AEM-GC</strong></summary>
                             <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada&nbsp;:</p>
                             <ul>
                                 <li>
