@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/social-media-channels.html
 date: "2018-12-19"
-dateModified: "2024-09-19"
+dateModified: "2024-09-24"
 description: "La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada sur diverses plateformes de médias sociaux."
 title: "Chaînes de médias sociaux"
 ---
@@ -70,7 +70,7 @@ title: "Chaînes de médias sociaux"
     </li>
     <li>Liens&nbsp;:
       <ul>
-        <li>Police&nbsp;: Noto Sans, 16 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
+        <li>Police&nbsp;: Noto Sans, 17 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
       </ul>
     </li>
      <li>Lien «&nbsp;D’autres moyens de rester en contact&nbsp;»&nbsp;:
@@ -286,7 +286,7 @@ title: "Chaînes de médias sociaux"
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
      <dt>
-      <time datetime="2024-09-19" class="link-muted">2024-09-19</time>
+      <time datetime="2024-09-24" class="link-muted">2024-09-19</time>
       </dt>
       <dd>Mise à jour de la configuration pour y ajouter le lien optionnel «&nbsp;D’autres moyens de rester en contact&nbsp;».</dd>
     <dt>
