@@ -42,7 +42,7 @@ title: "Page de sujet"
 <section>
      <h2 id="avoid">Quoi éviter</h2>
      <p>Les pages où les utilisateurs et utilisatrices peuvent amorcer une tâche doivent être considérées comme du contenu de destination et ne doivent pas recourir au modèle de page de sujet.</p>
-     <p>Le modèle de page de sujet ne doit pas être utilisé pour la promotion; utilisez plutôt les <a href="https://conception.canada.ca/modeles-recommandes/pages-campagnes.html">pages de campagne</a>.</p>
+     <p>Le modèle de page de sujet ne doit pas être utilisé pour la promotion; utilisez plutôt les <a href="../modeles-recommandes/pages-campagnes.html">pages de campagne</a>.</p>
 </section>
 <section>
      <h2 id="design">Contenu et conception</h2>
@@ -64,7 +64,7 @@ title: "Page de sujet"
                         </thead>
                         <tbody>
                             <tr>
-                                <td><a href="https://conception.canada.ca/configurations-conception-communes/bloc-introduction.html">Bloc d’introduction</a></td>
+                                <td><a href="../configurations-conception-communes/bloc-introduction.html">Bloc d’introduction</a></td>
                                 <td>
                                     <p>Suivez les instructions de la configuration.</p>
                                     <p>L’image est facultative. Si vous incluez une image, utilisez les dimensions de l’image demi-largeur.</p>
@@ -72,7 +72,7 @@ title: "Page de sujet"
                                 <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                             </tr>
                             <tr>
-                                <td><a href="https://conception.canada.ca/configurations-conception-communes/en-demande.html">Bande en demande</a></td>
+                                <td><a href="../configurations-conception-communes/en-demande.html">Bande en demande</a></td>
                                 <td>
                                     <p>Met en évidence les tâches principales.</p>
                                     <p>Ce composant fournit des raccourcis vers les tâches principales du sujet. Toutefois, si toutes les tâches principales relatives au sujet sont déjà incluses sous forme de liens directs dans la partie Services et renseignements, ne les dupliquez pas ici. Dans un tel cas, vous pouvez choisir de ne pas inclure ce composant.</p>
@@ -80,7 +80,7 @@ title: "Page de sujet"
                                <td class="text-center">Facultatif</td>
                             </tr>
                             <tr>
-                                <td><a href="https://conception.canada.ca/configurations-conception-communes/services-renseignements.html">Services et renseignements</a></td>
+                                <td><a href="../configurations-conception-communes/services-renseignements.html">Services et renseignements</a></td>
                                 <td>
                                 <p>Organise le contenu et la navigation en présentant les informations et services les plus visités en premier.</p>
                                 <p>Le titre « Services et renseignements » de cette section doit utiliser la classe wb-inv pour ne pas être visible, tout en restant présent pour la structure sémantique et les lecteurs d’écran.</p>
@@ -91,9 +91,9 @@ title: "Page de sujet"
                                 <td>
                                     Espace flexible&nbsp;:<br />
                                     <ul>
-                                        <li><a href="https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a></li>
-                                        <li><a href="https://conception.canada.ca/configurations-conception-communes/bloc-medias-sociaux.html">Médias sociaux</a></li>
-                                        <li><a href="https://conception.canada.ca/configurations-conception-communes/collaborateurs.html">Collaborateurs</a></li>
+                                        <li><a href="../configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a></li>
+                                        <li><a href="../configurations-conception-communes/bloc-medias-sociaux.html">Médias sociaux</a></li>
+                                        <li><a href="../configurations-conception-communes/collaborateurs.html">Collaborateurs</a></li>
                                     </ul>
                                 </td>
                                 <td>
