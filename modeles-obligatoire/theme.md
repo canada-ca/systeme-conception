@@ -21,6 +21,7 @@ title: "Page de thème"
         Obligatoire
     </span>
 </p>
+<p><strong>Dernière modification</strong>&nbsp;: {{ page.dateModified }}</p>
 
 <p>
     Les pages de thème fournissent un accès aux sujets et aux pages de destination qui appuient l’achèvement des tâches.

@@ -6,6 +6,7 @@ description: null
 title: Collaborateurs
 ---
 
+<p><strong>Dernière modification</strong>&nbsp;: {{ page.dateModified }}</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/contributors-fr.png" class="img-responsive" alt="" /></div>
 <p>Utilisez la configuration collaborateurs pour mettre en évidence les institutions ou organismes ayant contribué au contenu d’une page Web.</p>
 

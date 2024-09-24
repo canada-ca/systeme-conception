@@ -12,14 +12,12 @@ dateModified: '2024-09-24'
 description: null
 title: "Page de sujet"
 ---
-<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
-
 <p>
  <span class="label label-danger">
   Obligatoire
  </span>
 </p>
-
+<p><strong>Dernière modification</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>Les pages de sujet permettent d’accéder aux sujets et aux pages de destination qui permettent l’achèvement des tâches.</p>
 
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/topic-page-crop-fr.png" class="img-responsive" alt="" /></div>
