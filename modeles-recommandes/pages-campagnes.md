@@ -1,11 +1,13 @@
 ---
 altLangPage: https://design.canada.ca/recommended-templates/campaign-pages.html
 date: null
-dateModified: '2018-12-19'
+dateModified: '2024-09-24'
 description: null
-title: "Pages de campagne - Modèle de Canada.ca"
+title: "Pages de campagne"
 ---
-
+<section class="alert alert-info">
+  <p>Nous mettons actuellement à jour ces lignes directrices. Veuillez collaborer avec votre équipe Web / équipe de l’expérience utilisateur pour obtenir des conseils en conception visuelle pour les pages de campagne.</p>
+</section>
 
 <div>
 
