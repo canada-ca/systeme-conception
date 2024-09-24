@@ -61,6 +61,7 @@ title: Page d’accueil institutionnelle
                             <td>
                                 <p>Utilisez le titre d’usage de l’institution (voir le <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Registre des titres d’usage</a>).</p>
                                 <p>La description doit être un très bref résumé de ce que fait l’institution.</p>
+                                <p>L’image est facultative. Si vous incluez une image, utilisez une image pleine largeur.</p>
                             </td>
                             <td class="text-center"><span class="far fa-check-circle text-success"></span><span class="wb-inv"> Obligatoire</span></td>
                         </tr>
@@ -352,7 +353,7 @@ title: Page d’accueil institutionnelle
     <p>Ce modèle est un élément obligatoire des spécifications du contenu et de l’architecture de l’information pour Canada.ca.</p>
     <ul>
         <li>
-            <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">
+            <a href="https://conception.canada.ca/specifications/elements-obligatoires.html">
                 Éléments obligatoires du système de conception
             </a>
         </li>

@@ -3,11 +3,14 @@ altLangPage: https://design.canada.ca/common-design-patterns/institutional-bylin
 date: null
 dateModified: '2018-12-19'
 description: null
-title: Institution responsable - Configuration de conception de Canada.ca de Canada.ca
+title: Institution responsable
 ---
 
 
-
+<section class="alert alert-info">
+  <p>
+Nous mettons hors service la configuration <b>Institution responsable</b>. Nous vous déconseillons d’ajouter cette configuration à vos pages. Si vous souhaitez fournir des liens vers les institutions ou les organismes qui contribuent au contenu de la page, utilisez la configuration <a href="collaborateurs.html">Collaborateurs</a>.</p>
+</section>
 
 <section>
  <p>
