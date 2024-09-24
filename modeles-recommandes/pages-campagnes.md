@@ -5,7 +5,7 @@ dateModified: '2024-09-24'
 description: null
 title: "Pages de campagne"
 ---
-<section class="alert alert-info">
+<section class="alert alert-info mrgn-tp-lg">
   <p>Nous mettons actuellement à jour ces lignes directrices. Veuillez collaborer avec votre équipe Web / équipe de l’expérience utilisateur pour obtenir des conseils en conception visuelle pour les pages de campagne.</p>
 </section>
 
