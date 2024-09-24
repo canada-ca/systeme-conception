@@ -1,5 +1,5 @@
 ---
-altLangPage: https://design.canada.ca/mandatory-templates/theme-topic.html
+altLangPage: https://design.canada.ca/mandatory-templates/topic.html
 breadcrumbs:
 - link: https://www.canada.ca/fr/gouvernement/a-propos.html
   title: "À propos de Canada.ca"
