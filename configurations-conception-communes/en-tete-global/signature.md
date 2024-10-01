@@ -57,7 +57,7 @@ title: "Signature du gouvernement du Canada"
 <ul>
   <li>Type&nbsp;: image</li>
   <li>Position&nbsp;: en haut à gauche</li>
-  <li>Couleur du symbole du drapeau&nbsp;: rouge du PFIM (#eb4837)</li>
+  <li>Couleur du symbole du drapeau&nbsp;: rouge du PFIM (#eb2d37)</li>
   <li>Couleur du texte&nbsp;: noir (#000000)</li>
   <li>Texte de remplacement&nbsp;: Gouvernement du Canada</li>
 </ul>
