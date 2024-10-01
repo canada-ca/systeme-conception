@@ -140,7 +140,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   </details>
   <details>
     <summary>30 juin 2020</summary>
-    <p>Nous avons ajouté une nouvelle version bêta du <a href="{{ site.url }}/modeles-obligatoire/theme.html">modèle de page de thème et de sujet</a>. </p>
+    <p>Nous avons ajouté une nouvelle version bêta du <a href="{{ site.url }}/modeles-obligatoire/theme.html">modèle de page de thème</a> et de page  <a href="{{ site.url }}/modeles-obligatoire/sujet.html">de sujet</a>.</p>
   </details>
   <details>
     <summary>25 juin 2020</summary>
