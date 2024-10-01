@@ -141,7 +141,8 @@ title: "Bande en demande"
   <p>La configuration de conception en demande est requise dans les modèles obligatoires suivants&nbsp;:</p>
   <ul>
     <li><a href="/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li><a href="/modeles-obligatoire/theme-sujet.html">Page de thème et de sujet</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/theme.html">Modèle de page de thème</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/sujet.html">Modèle de page de sujet</a></li>
   </ul>
 </section>
 <section id="changements">

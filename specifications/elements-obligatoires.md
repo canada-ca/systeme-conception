@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/specifications/mandatory-elements.html"
 date: 2017-10-05
 dateModified: 2024-08-26
-description: "Les Spécifications du contenu et de l’architecture de l’information pour Canada.ca s’agit d’un manuel de conception qui fournit des modèles testés par l’utilisateur, des modèles de navigation d’architecture de l’information pour présenter et organiser le contenu pour le site Canada.ca."
+description: "Les Spécifications de Canada.ca s’agit d’un manuel de conception qui fournit des modèles testés par l’utilisateur, des modèles de navigation d’architecture de l’information pour présenter et organiser le contenu pour le site Canada.ca."
 layout: default
 section-title: "Spécifications de Canada.ca"
 title: "Éléments obligatoires de la conception de Canada.ca"
@@ -60,8 +60,8 @@ breadcrumbs: [{
 <h2 id="obligatoires">Autres modèles de page obligatoires</h2>
 <p>Certains types de pages de Canada.ca utilisent des modèles obligatoires. La cohérence dans ces types de pages aide les gens à trouver et à accomplir des tâches.</p>
 <ul>
-  <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html">Page de thème</a> : la page principale pour chaque thème de Canada.ca, uniquement pour les institutions responsables des thèmes</li>
-  <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html">Page de sujet</a> : obligatoire pour les 2 premiers niveaux de sujets de l’arborescence thématique de Canada.ca, facultative pour les sujets de niveau inférieur</li>
+  <li><a href="https://conception.canada.ca/modeles-obligatoire/theme.html">Page de thème</a> : la page principale pour chaque thème de Canada.ca, uniquement pour les institutions responsables des thèmes</li>
+  <li><a href="https://conception.canada.ca/modeles-obligatoire/sujet.html">Page de sujet</a> : obligatoire pour les 2 premiers niveaux de sujets de l’arborescence thématique de Canada.ca, facultative pour les sujets de niveau inférieur</li>
   <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-publics-cibles.html">Page des publics cibles à l’échelle du gouvernement</a> : uniquement pour les institutions qui gèrent les publics cibles à l’échelle du gouvernement</li>
   <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Profil de ministre</a> : doit être utilisé pour les ministres, les chefs d’une institution quasi judiciaire sans lien de dépendance et les secrétaires parlementaires</li>
   <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#produit">Page de nouvelle</a> : gabarit commun pour les produits de nouvelles comme les communiqués de presse, les documents d’information, les avis aux médias et les discours</li>

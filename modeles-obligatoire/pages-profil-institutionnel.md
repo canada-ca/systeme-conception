@@ -350,7 +350,7 @@ title: Page d’accueil institutionnelle
         d’une institution tout en permettant aux utilisateurs d’accéder aux renseignements d’entreprise sur l’organisme.
     </p>
     <h3>Justification stratégique</h3>
-    <p>Ce modèle est un élément obligatoire des spécifications du contenu et de l’architecture de l’information pour Canada.ca.</p>
+    <p>Ce modèle est un élément obligatoire des Spécifications de Canada.ca.</p>
     <ul>
         <li>
             <a href="https://conception.canada.ca/specifications/elements-obligatoires.html">
