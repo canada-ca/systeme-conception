@@ -169,7 +169,8 @@ title: Services et renseignements
   <p>La configuration services et renseignements est requise pour les modèles obligatoires suivants&nbsp;:</p>
   <ul>
     <li><a href="/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li><a href="/modeles-obligatoire/theme-sujet.html">Page de thème et de sujet</a></li>
+    <li><a href="/modeles-obligatoire/theme.html">Page de thème</a></li>
+    <li><a href="/modeles-obligatoire/sujet.html">Page de sujet</a></li>
   </ul>
 </section>
 <section id="changements">

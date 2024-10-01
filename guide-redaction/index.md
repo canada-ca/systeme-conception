@@ -497,7 +497,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <div class="wb-share btn btn-default" data-wb-share='{"custType": "  éviter le jargon et les expressions familières ou imagées", "title": "2.5 Éviter le jargon et les expressions familières ou imagées", "url": "https://conception.canada.ca/guide-redaction/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
     </div>
   </section>
-  
+
   <section id="wp2-6">
     <h3>2.6 Utiliser des phrases et paragraphes simples et concis</h3>
     <p>Écrivez clairement avec des phrases et des paragraphes courts. Évitez toute complexité.</p>
@@ -1940,7 +1940,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Taille et placement des images</h4>
     <p>Apprenez où placer les images et vidéos sur les pages Canada.ca et quelle taille leur donner&nbsp;:</p>
     <ul>
-      <li>Utilisez les modèles contenus dans les <a href="https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html">spécifications du contenu et de l’architecture de l’information pour Canada.ca</a></li>
+      <li>Utilisez les modèles contenus dans les <a href="https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html">Spécifications de Canada.ca</a></li>
       <li>Référez-vous aux <a href="https://wet-boew.github.io/GCWeb/index-fr.html">types de pages de Canada.ca sur GitHub</a></li>
     </ul>
   </section>

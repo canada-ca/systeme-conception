@@ -195,7 +195,8 @@ title: Bloc d’introduction
     <p>La configuration de conception du bloc d’introduction est requise dans les modèles obligatoires suivants&nbsp;:</p>
     <ul>
         <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Modèle de page d’accueil institutionnelle</a></li>
-        <li><a href="https://conception.canada.ca/modeles-obligatoire/theme-sujet.html">Modèle de page de thème et de sujet</a></li>
+        <li><a href="https://conception.canada.ca/modeles-obligatoire/theme.html">Modèle de page de thème</a></li>
+        <li><a href="https://conception.canada.ca/modeles-obligatoire/sujet.html">Modèle de page de sujet</a></li>
     </ul>
 </section>
 <section>

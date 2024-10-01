@@ -15,7 +15,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
     <summary>28 août 2024</summary>
     <p>Lancement d’une nouvelle architecture de l’information et de nouveau contenu pour conception.canada.ca. Nous avons notamment&nbsp;:</p>
     <ul>
-      <li>Renommé les Spécifications du contenu et de l’architecture de l’information, maintenant appelées les <a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a>.</li> 
+      <li>Renommé les Spécifications du contenu et de l’architecture de l’information, maintenant appelées les <a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a>.</li>
       <li>Mis à jour les spécifications de Canada.ca pour y incorporer le Guide de rédaction du contenu du site Canada.ca et les lignes directrices relatives à l’architecture de l’information et à la trouvabilité ainsi qu’un lien vers Système de design GC&nbsp;: <a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a>.</li>
       <li>Créé des lignes directrices pour la rédaction de métadonnées pour les pages Canada.ca&nbsp;: <a href="{{ site.url }}/specifications/information-trouvabilite/metadonnees.html">Améliorer les titres et les métadonnées à des fins de trouvabilité</a>.</li>
       <li>Regroupé les lignes directrices sur les domaines et les adresses URL sur une même page&nbsp;: <a href="{{ site.url }}/specifications/elements-obligatoires/domaines-url.html">Domaines et adresses URL du gouvernement du Canada</a>.</li>
@@ -140,7 +140,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   </details>
   <details>
     <summary>30 juin 2020</summary>
-    <p>Nous avons ajouté une nouvelle version bêta du <a href="{{ site.url }}/modeles-obligatoire/theme-sujet.html">modèle de page de thème et de sujet</a>. </p>
+    <p>Nous avons ajouté une nouvelle version bêta du modèle de <a href="{{ site.url }}/modeles-obligatoire/theme.html">page de thème</a> et de <a href="{{ site.url }}/modeles-obligatoire/sujet.html">page de sujet</a>.</p>
   </details>
   <details>
     <summary>25 juin 2020</summary>
@@ -205,7 +205,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
       <li>La <a href="/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a> contient tous les renseignements détaillés sur les modèles et les configurations de conception spécifiques.</li>
       <li>Un nouveau <a href="/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles/trouvez-modeles-configurations-conception-contenu-web.html">sélecteur interactif</a> facilite la recherche du bon modèle ou de la bonne configuration de conception.</li>
       <li>La section <a href="/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html">Organiser le contenu</a> simplifie les renseignements sur l'architecture de l'information, les catégories de besoins des utilisateurs et le modèle d'URL.</li>
-      <li>Le modèle de <a href="{{ site.url }}/modeles-obligatoire/page-sujet.html">page de sujet</a> est maintenant obligatoire seulement pour les 2 premiers niveaux de sujet, bien qu'il puisse être utilisé pour les niveaux inférieurs lorsqu'approprié.</li>
+      <li>Le modèle de <a href="{{ site.url }}/modeles-obligatoire/sujet.html">page de sujet</a> est maintenant obligatoire seulement pour les 2 premiers niveaux de sujet, bien qu'il puisse être utilisé pour les niveaux inférieurs lorsqu'approprié.</li>
       <li>Le modèle de page d'accueil a été mis à jour pour refléter les modifications apportées au site en direct.</li>
     </ul>
     <p>Dans l'ensemble, cette mise à jour marque un changement de philosophie. Nous avons raccourci la liste des éléments obligatoires et mis l’accent sur la réussite des tâches pour les utilisateurs. Des modifications et des améliorations étayées par des preuves seront apportées régulièrement aux modèles et aux configurations de conception. Toutes les modifications seront documentées sur cette page.</p>
