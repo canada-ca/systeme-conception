@@ -540,7 +540,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <p>Lien connexe
           <a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html"><cite>Loi sur la citoyenneté</cite>, article 5.1</a></p>
           <p><strong>Au lieu de</strong>&nbsp;: Après l’arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l’enfant en vertu de l’article 5.1 de la <cite>Loi sur la citoyenneté</cite>.</p>
-          <p>Si vous devez à nouveau mentionner la loi ou le règlement, vous pouvez utiliser les termes «&nbsp;la<cite>Loi</cite>&nbsp;» ou «&nbsp;le <cite>Règlement</cite>&nbsp;». Vous pouvez également inclure le sigle de la loi entre parenthèses après la première mention. Pour d’autres conseils et exemples, consultez&nbsp;:</p>
+          <p>Si vous devez à nouveau mentionner la loi ou le règlement, vous pouvez utiliser les termes «&nbsp;la <cite>Loi</cite>&nbsp;» ou «&nbsp;le <cite>Règlement</cite>&nbsp;». Vous pouvez également inclure le sigle de la loi entre parenthèses après la première mention. Pour d’autres conseils et exemples, consultez&nbsp;:</p>
           <ul>
           <li><a href="https://conception.canada.ca/guide-redaction/#wp4-4">Section 4.4 Abréviations, acronymes et référence</a></li>
           </ul>
