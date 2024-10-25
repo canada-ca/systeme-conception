@@ -204,7 +204,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
                 <li><a href="#wp2-2-2">Aller droit au but</a></li>
               </ul>
             </li>
-            <li><a href="#wp2-3">2.3 Utiliser des termes familiers</a></li>
+            <li><a href="#wp2-3">2.3 Utiliser des termes courants</a></li>
             <li><a href="#wp2-4">2.4 Rédiger avec la voix active, directe, et affirmative</a>
              <ul>
                 <li><a href="#wp2-4-1">Écrire à la voix active</a></li>
@@ -363,10 +363,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </div>
   </section>
   <section id="wp2-3">
-    <h3>2.3 Utiliser des termes familiers</h3>
-    <p>Choisissez des mots familiers que le grand public comprend et utilise.</p>
+    <h3>2.3 Utiliser des termes courants</h3>
+    <p>Choisissez des mots courants que le grand public comprend et utilise.</p>
     <p>Les mots courants peuvent inclure des mots techniques que votre public cible connaît bien. Quand vous devez inclure des termes techniques, expliquez-les à l’aide de mots courts, clairs et simples à comprendre. Vous pouvez aussi donner un exemple pour aider les non-spécialistes à comprendre.</p>
-    <h4>Exemples de mots familiers et communs</h4>
+    <h4>Exemples de mots courants et communs</h4>
     <p><strong>Écrivez</strong>&nbsp;: demander<br>
       <strong>Au lieu de</strong>&nbsp;: faire une requête</p>
     <p><strong>Écrivez</strong>&nbsp;: assez de<br>
@@ -386,7 +386,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use familiar words</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  utiliser des termes familiers", "title": "2.3 Utiliser des termes familiers", "url": "https://design.canada.ca/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  utiliser des termes courants", "title": "2.3 Utiliser des termes courants", "url": "https://design.canada.ca/style-guide/#wp2-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-3"}'></div>
     </div>
   </section>
   <section id="wp2-4">
