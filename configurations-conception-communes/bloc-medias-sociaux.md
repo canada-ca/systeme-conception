@@ -38,7 +38,7 @@ title: "Chaînes de médias sociaux"
   <h2>Contenu et conception</h2>
   <p>Trouvez des spécifications de contenu et de conception et des exemples visuels.</p>
   <h3>Spécifications de contenu</h3>
-  <p>La configuration de conception des chaînes de médias sociaux est composée du titre «&nbsp;Sur les médias sociaux&nbsp;» et d’icônes renvoyant aux comptes de médias sociaux officiels du gouvernement du Canada.</p>
+  <p>La configuration de conception des chaînes de médias sociaux est composée du titre «&nbsp;Dans les médias sociaux &nbsp;» et d’icônes renvoyant aux comptes de médias sociaux officiels du gouvernement du Canada.</p>
   <p>Les comptes mentionnés dans la configuration de conception doivent être entièrement conformes à la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications.</a></p>
   <p>Afficher un maximum de sept (7) icônes alignées dans une colonne verticale ou une rangée horizontale&nbsp;:</p>
   <ul>
@@ -154,7 +154,7 @@ title: "Chaînes de médias sociaux"
       <img src="/images/social-media-vertical-mask-fr.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaîne de médias sociaux (affichage horizontal) - grand écran</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». On trouve sous le titre une liste horizontale avec les icônes et les étiquettes associées&nbsp;:</p>
+        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Dans les médias sociaux &nbsp;». On trouve sous le titre une liste horizontale avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
           <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
@@ -171,7 +171,7 @@ title: "Chaînes de médias sociaux"
       <img src="/images/social-media-horizontal-mask-fr.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaîne de médias sociaux (affichage horizontal) - grand écran</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;».  On trouve sous le titre une liste horizontale avec les icônes associées, mais sans les étiquettes&nbsp;:</p>
+        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Dans les médias sociaux &nbsp;».  On trouve sous le titre une liste horizontale avec les icônes associées, mais sans les étiquettes&nbsp;:</p>
         <ul>
           <li>Facebook</li>
           <li>X</li>
@@ -188,7 +188,7 @@ title: "Chaînes de médias sociaux"
       <img src="../images/social-media-vertical-fr-sm.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage verticale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage verticale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») - petit écran</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
+        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Dans les médias sociaux &nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
           <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
@@ -206,7 +206,7 @@ title: "Chaînes de médias sociaux"
       <img src="../images/social-media-horizontal-fr-sm.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage horizontale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») pour les petits écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaînes de médias sociaux (affichage horizontale avec étiquettes et lien «&nbsp;D’autres moyens de rester en contact&nbsp;») - petit écran</summary>
-        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Sur les médias sociaux&nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
+        <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Dans les médias sociaux &nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook</li>
           <li>Icône de X</li>
