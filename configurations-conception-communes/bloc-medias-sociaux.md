@@ -40,7 +40,7 @@ title: "Chaînes de médias sociaux"
   <h3>Spécifications de contenu</h3>
   <p>La configuration de conception des chaînes de médias sociaux est composée du titre «&nbsp;Dans les médias sociaux &nbsp;» et d’icônes renvoyant aux comptes de médias sociaux officiels du gouvernement du Canada.</p>
   <p>Les comptes mentionnés dans la configuration de conception doivent être entièrement conformes à la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications.</a></p>
-  <p>Afficher un maximum de sept (7) icônes alignées dans une colonne verticale ou une rangée horizontale&nbsp;:</p>
+  <p>Afficher un maximum de cinq (5) icônes alignées dans une colonne verticale ou une rangée horizontale&nbsp;:</p>
   <ul>
     <li>L’affichage vertical comprend une étiquette à côté de chaque icône.</li>
     <li>L’affichage horizontal ne comprend que les icônes.</li>
