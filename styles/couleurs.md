@@ -47,7 +47,7 @@ title: Couleurs - Style de Canada.ca
  </p>
  <ul>
   <li>
-   lien par défaut : # 2b4380
+   lien par défaut : # 284162
   </li>
   <li>
    lien sélectionné (au moyen du survol ou d'une focalisation) : # 0535d2
