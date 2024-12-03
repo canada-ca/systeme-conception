@@ -1,5 +1,5 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite.html
+altLangPage: https://design.canada.ca/recommended-templates/accessibility.html
 date: null
 dateModified: '2024-12-05'
 description: null
@@ -11,7 +11,7 @@ section-title: ""
 
 <p>All Government of Canada entities, including departments and agencies, must provide public-facing information about their accessibility plans, progress reports, and a feedback mechanism.</p>
 
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/accessibility-page-crop.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/accessibility-page-crop-fr.png" class="img-responsive" alt="" /></div>
 
 <section>
     <h2>On this page</h2>
