@@ -32,7 +32,7 @@ breadcrumbs: [{
                 <p>Résultats de nos activités visant à améliorer la contribution de notre organisation à l'objectif d'un Canada accessible et sans entraves</p>
             </div>
             <div class="col-lg-4 col-md-6">
-                <h3><a href="processus-retroaction.html">Feedback process</a></h3>
+                <h3><a href="processus-retroaction.html">Processus de rétroaction</a></h3>
                 <p>Différentes façons de fournir une rétroaction, comment demander des formats substituts, ce que nous faisons de votre rétroaction et comment garder votre rétroaction anonyme</p>
             </div>
         </div>
