@@ -1,31 +1,27 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/rapport-etape.html
+altLangPage: https://design.canada.ca/recommended-templates/accessibility/progress-report.html
 date: null
 dateModified: '2024-12-05'
 description: null
-title: Accessibility reporting template
+title: Rapport d'étape sur l'accessibilité 2024 pour [Nom de l'institution]
 section-title: ""
 breadcrumbs: [{
             "link": "",
-            "title": "[Institution name]"
+            "title": "[nom de l’institution]"
           },
           {
             "link": "",
-            "title": "Accessibility at [Institution name]"
+            "title": "Accessibilité à [nom de l’institution]"
           }
         ]
 ---
 
 <ul>
-  <li>Insert content for the progress report in this section</li>
-  <li>Follow <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/progress-reports/preparing.html">Guidance on preparing accessibility progress reports</a></li>
+  <li>Insérer le contenu du rapport dans cette section</li>
+  <li>Suivre les <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/rapports-etape/preparez.html">conseils pour la préparation des rapports d'étape sur l'accessibilité</a></li>
 </ul>
-
-<h2 id="give-feedback-on-this-progress-report">Give feedback on this progress report</h2>
-
-<p><a href="feedback-form.html">Provide feedback</a></p>
-
-<h2 id="accessibility-progress-reports-developed-by-other-institutions">Accessibility progress reports developed by other institutions</h2>
-
-<p><a href="https://search.open.canada.ca/opendata/?collection=accessibiliy_plans&amp;page=1&amp;sort=metadata_modified+desc">List of accessibility progress reports developed by other institutions</a></p>
+<h2>Rétroaction sur ce rapport</h2>
+<p><a href="formulaire-retroaction.html">Fournir une rétroaction sur ce rapport</a></p>
+<h2>Rapports d'étape élaborés par d’autres institutions</h2>
+<p><a href="https://rechercher.ouvert.canada.ca/donneesouvertes/?collection=accessibiliy_plans&amp;page=1&amp;sort=metadata_modified+desc">Liste des rapports d'étape sur l’accessibilité élaborés par d’autres institutions</a></p>
 

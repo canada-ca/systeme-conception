@@ -1,17 +1,17 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/accueil-rapports-etape.html
+altLangPage: https://design.canada.ca/recommended-templates/accessibility/progress-reports-landing.html
 date: null
 dateModified: '2024-12-05'
 description: null
-title: Accessibility progress reports at [Institution name]
+title: Rapports d'étape sur l'accessibilité 2024 pour [Nom de l'institution]
 section-title: ""
 breadcrumbs: [{
             "link": "",
-            "title": "[Institution name]"
+            "title": "[nom de l’institution]"
           },
           {
             "link": "",
-            "title": "Accessibility at [Institution name]"
+            "title": "Accessibilité à [nom de l’institution]"
           }
         ]
 ---

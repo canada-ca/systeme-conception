@@ -1,76 +1,73 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/processus-retroaction.html
+altLangPage: https://design.canada.ca/recommended-templates/accessibility/feedback-process.html
 date: null
 dateModified: '2024-12-05'
 description: null
-title: Accessibility feedback process at [Institution name]
+title: Processus de rétroaction sur l’accessibilité à [nom de l’institution]
 section-title: ""
 breadcrumbs: [{
             "link": "",
-            "title": "[Institution name]"
+            "title": " [nom de l’institution]"
           },
           {
             "link": "",
-            "title": "Accessibility at [Institution name]"
+            "title": "Accessibilité à [nom de l’institution]"
           }
         ]
 ---
 
 <p>
-    Your feedback will help [Institution name] identify and break down accessibility barriers. Provide feedback on our accessibility plan, our progress reports, your experience of our accessibility, or any other matter related to
-    accessibility. Find out how we'll use your feedback.
+   Votre rétroaction aidera [nom de l’institution] à cerner et à éliminer les obstacles à l’accessibilité. Fournissez une rétroaction sur notre plan sur l’accessibilité, nos rapports d'étape, votre expérience de notre accessibilité ou toute autre question liée à l’accessibilité. Découvrez comment nous utiliserons votre rétroaction.
 </p>
-<h2>On this page</h2>
+<p>Votre rétroaction aidera [nom de l’institution] à cerner et à éliminer les obstacles à l’accessibilité. Fournissez une rétroaction sur notre plan sur l’accessibilité, nos rapports d'étape, votre expérience de notre accessibilité ou toute autre question liée à l’accessibilité. Découvrez comment nous utiliserons votre rétroaction.</p>
+<h2>Sur cette page</h2>
 <ul>
-    <li><a href="#how">How to provide feedback</a></li>
-    <li><a href="#submit">Submit anonymous feedback</a></li>
-    <li><a href="#response">If you want a response</a></li>
-    <li><a href="#what">What we do with your feedback</a></li>
-    <li><a href="#alternate">Request an alternate format</a></li>
+  <li><a href="#comment">Comment fournir une rétroaction</a></li>
+  <li><a href="#soumettre">Soumettre une rétroaction anonyme</a></li>
+  <li><a href="#response">Si vous souhaitez une réponse</a></li>
+  <li><a href="#retroaction">Ce que nous faisons de votre rétroaction</a></li>
+  <li><a href="#format">Demander un format substitut</a></li>
 </ul>
-<h2 id="how">How to provide feedback</h2>
+<h2 id="comment">Comment fournir une rétroaction</h2>
 <ul class="mrgn-tp-lg">
-    <li><a href="feedback-form.html">Accessibility feedback form</a></li>
-    <li>Video Relay Services (American Sign Language or Langue des signes québécoise)</li>
-    <li>TTY at: <a href="tel:[insert TTY number]">[insert TTY number]</a></li>
+  <li><a href="formulaire-retroaction.html">Formulaire de rétroaction sur l’accessibilité</a></li>
+  <li>Services de relais vidéo (American Sign Language ou langue des signes québécoise)</li>
+  <li>ATS au&nbsp;: [insérer le numéro d’ATS]</li>
 </ul>
-<p>You can also contact our Accessibility Office:</p>
+<p>Vous pouvez également communiquer avec notre Bureau de l’accessibilité :</p>
 <ul>
-    <li>Email: <a href="maito:[insert email address]">[insert email address]</a></li>
-    <li>Phone: <a href="tel:[insert phone number]">[insert phone number]</a></li>
-    <li>Mail: [Street address, City, (Province) A1A 1A1]</li>
+  <li>Courriel&nbsp;: [insérer l'adresse de courriel]</li>
+  <li>Téléphone&nbsp;: [insérer le numéro de téléphone]</li>
+  <li>Courrier&nbsp;: [adresse municipale, ville (province)  A1A 1A1]</li>
 </ul>
-<h2 id="submit">Submit anonymous feedback</h2>
-<p>If you want to provide anonymous feedback:</p>
+<h2 id="soumettre">Soumettre une rétroaction anonyme</h2>
+<p>Si vous souhaitez fournir une rétroaction anonyme :</p>
 <ul>
-    <li>do not state your name or provide any other identifying information (for example, your email address or phone number)</li>
-    <li>do not include your return address on the envelope if you send feedback by mail</li>
+  <li>n’indiquez pas votre nom et ne fournissez aucun autre renseignement sur votre identité (par exemple, votre adresse de courriel ou votre numéro de téléphone);</li>
+  <li>n’incluez pas votre adresse de retour sur l’enveloppe si vous envoyez une rétroaction par la poste.</li>
 </ul>
-<h2 id="response">If you want a response</h2>
-<p>If you’ve asked for a response, we will respond in the same way that you communicated with us.</p>
-<p>Finding answers to more complex issues might take time. If that’s the case for your feedback, we’ll still follow up to let you know what we’re doing.</p>
-<h3>Online form or email feedback</h3>
-<p>We will respond by email within [5 business days].</p>
-<h3>Phone feedback</h3>
-<p>We will respond by phone within [5 business days].</p>
-<h3>Mail-in feedback</h3>
-<p>We will respond by mail within [5 business days plus mailing time].</p>
-<h3>Feedback received through [other means]</h3>
-<p>We will respond by [other means] within [5 business days].</p>
-<h2 id="what">What we do with your feedback</h2>
-<p>We analyze feedback for trends and patterns. We don’t identify individuals in our reports.</p>
-<p>The only time your feedback will be connected to you is when you request a personal response from our [Accessibility Office].</p>
-<p>We publish annual progress reports in the years between accessibility plans. In these progress reports, we report on the feedback we receive and how we are taking it into consideration.</p>
-<h2 id="alternate">Request an alternate format</h2>
-<p>
-    You can request an alternate version of our feedback process, accessibility plans or progress reports by email at <a href="mailto:[insert email address]">[insert email address]</a> or telephone at
-    <a href="tel:[insert phone number]">[insert phone number]</a> or <a href="tel:[insert phone number]">[insert phone number]</a>.
-</p>
-<p>Formats available:</p>
+<h2 id="response">Si vous souhaitez une réponse</h2>
+<p>Si vous avez demandé une réponse, nous répondrons de la même manière que vous avez communiqué avec nous.</p>
+<p>Trouver des réponses à des questions plus complexes peut prendre du temps. Si tel est le cas pour votre rétroaction, nous continuerons à vous informer de ce que nous faisons.</p>
+<h3>Formulaire en ligne ou rétroaction par courriel</h3>
+<p>Nous vous répondrons par courriel dans les [cinq jours ouvrables].</p>
+<h3>Rétroaction par téléphone</h3>
+<p>Nous vous répondrons par téléphone dans les [cinq jours ouvrables].</p>
+<h3>Rétroaction par courrier</h3>
+<p>Nous vous répondrons par courrier dans les [cinq jours ouvrables plus le délai d’envoi].</p>
+<h3>Rétroaction reçue par [autres moyens]</h3>
+<p>Nous vous répondrons par [autres moyens] dans les [cinq jours ouvrables].</p>
+<h2 id="retroaction">Ce que nous faisons de votre rétroaction</h2>
+<p>Nous analysons les rétroactions pour les tendances et les modèles. Nous n’identifions pas les personnes dans nos rapports.</p>
+<p>La seule fois où votre rétroaction sera reliée à vous, c’est lorsque vous demanderez une réponse personnelle à notre [Bureau de l’accessibilité].</p>
+<p>Nous publions des rapports d’étape annuels dans les années entre les plans sur l’accessibilité. Dans ces rapports d’étape, nous rendons compte des rétroactions que nous recevons et de la manière dont nous les prenons en considération.</p>
+<h2 id="format">Demander un format substitut</h2>
+<p>Vous pouvez demander une autre version de notre processus de rétroaction, des plans sur l’accessibilité ou des rapports d’étape par courriel à l’adresse [insérer l’adresse de courriel] ou par téléphone au [insérer le numéro de téléphone] ou [insérer le numéro sans frais].</p>
+<p>Formats disponibles&nbsp;:</p>
 <ul>
-    <li>print</li>
-    <li>large print (larger and clearer font)</li>
-    <li>braille (a system of raised dots that people who are blind or who have low vision can read with their fingers)</li>
-    <li>audio (a recording of someone reading the text out loud)</li>
-    <li>electronic formats that are compatible with adaptive technology</li>
+  <li>impression</li>
+  <li>impression en gros caractères (police plus grande et plus claire)</li>
+  <li>braille (système de points en relief que les personnes aveugles ou malvoyantes peuvent lire avec leurs doigts)</li>
+  <li>format audio (enregistrement de quelqu’un lisant le texte à voix haute)</li>
+  <li>formats électroniques compatibles avec la technologie adaptée</li>
 </ul>
