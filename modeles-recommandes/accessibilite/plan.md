@@ -1,28 +1,26 @@
 ---
-altLangPage: https://conception.canada.ca/modeles-recommandes/accessibilite/accueil-rapports-progres.html
+altLangPage: https://design.canada.ca/recommended-templates/accessibility/plan.html
 date: null
-dateModified: '2024-12-04'
+dateModified: '2024-12-05'
 description: null
-title: Accessibility plan at [Institution name]
+title: Plan sur l’accessibilité à [nom de l’institution]
 section-title: ""
 breadcrumbs: [{
             "link": "",
-            "title": "[Institution name]"
+            "title": "[nom de l’institution]"
           },
           {
             "link": "",
-            "title": "Accessibility at [Institution name]"
+            "title": "Accessibilité à [nom de l’institution]"
           }
         ]
 ---
 
 <ul>
-  <li>Insert content for the plan in this section</li>
-  <li>Use <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/accessibility-plans/template.html">Sample Accessibility Plan Template</a></li>
+  <li>Insérer le contenu du plan dans cette section</li>
+  <li>Utiliser <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite/plans-accessibilite/exemple.html">le modèle de plan d’accessibilité</a></li>
 </ul>
-
-<h2>Give feedback on this plan</h2>
-<p><a href="feedback-form">Provide feedback</a></p>
-
-<h2>Accessibility plans developed by other institutions</h2>
-<p><a href="https://open.canada.ca/en">List of Accessibility plans developed by other institutions</a></p>
+<h2>Rétroaction sur ce plan</h2>
+<p><a href="formulaire-retroaction.html">Fournir une rétroaction sur ce plan</a></p>
+<h2>Plans sur l’accessibilité élaborés par d’autres institutions</h2>
+<p><a href="https://open.canada.ca/fr">Liste des plans sur l’accessibilité élaborés par d’autres institutions</a></p>
