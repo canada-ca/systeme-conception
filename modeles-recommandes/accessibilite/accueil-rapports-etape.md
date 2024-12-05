@@ -21,6 +21,6 @@ breadcrumbs: [{
 <p>Nos rapports d’étape décrivent nos progrès par rapport aux engagements définis dans notre plan sur l’accessibilité.</p>
 
 <ul>
-    <li><a href="progress-report.html">Rapports d’étape sur l’accessibilité 2024 pour [Nom de l’institution]</a></li>
-    <li><a href="progress-report.html">Rapports d’étape sur l’accessibilité 2024 pour [Nom de l’institution]</a></li>
+    <li><a href="rapport-etape.html">Rapports d’étape sur l’accessibilité 2024 pour [Nom de l’institution]</a></li>
+    <li><a href="rapport-etape.html">Rapports d’étape sur l’accessibilité 2023 pour [Nom de l’institution]</a></li>
 <ul>
