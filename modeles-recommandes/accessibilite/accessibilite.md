@@ -28,7 +28,7 @@ breadcrumbs: [{
                 <p>Politiques, programmes, pratiques et services qui aident notre organisation à contribuer à l’objectif d’un Canada accessible et sans obstacles</p>
             </div>
             <div class="col-lg-4 col-md-6">
-                <h3><a href="processus-retroaction.html">Rapport d'étape de [l'année]</a><br>|&nbsp;ou&nbsp;|<br><a href="accueil-rapports-etape.html">Rapports d'étape</a></h3>
+                <h3><a href="accueil-rapports-etape.html">Rapports d'étape</a></h3>
                 <p>Résultats de nos activités visant à améliorer la contribution de notre organisation à l'objectif d'un Canada accessible et sans entraves</p>
             </div>
             <div class="col-lg-4 col-md-6">
