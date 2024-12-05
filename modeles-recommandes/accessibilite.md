@@ -19,7 +19,7 @@ title: Modèle de rapport sur l’accessibilité
         <li><a href="#contenu">Contenu et conception</a></li>
         <li><a href="#mise">Comment procéder à la mise en œuvre</a></li>
         <li><a href="#justification">Justification stratégique</a></li>
-        <li><a href="#changements">Derniers changements</a></li>
+        <!-- <li><a href="#changements">Derniers changements</a></li> -->
     </ul>
 </section>
 <section>
