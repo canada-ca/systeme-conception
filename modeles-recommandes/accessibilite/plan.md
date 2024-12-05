@@ -6,11 +6,11 @@ description: null
 title: Plan sur l’accessibilité à [nom de l’institution]
 section-title: ""
 breadcrumbs: [{
-            "link": "",
+            "link": "#",
             "title": "[nom de l’institution]"
           },
           {
-            "link": "",
+            "link": "accessibilite.html",
             "title": "Accessibilité à [nom de l’institution]"
           }
         ]

@@ -6,7 +6,7 @@ description: null
 title: Accessibilité à [nom de l’institution]
 section-title: ""
 breadcrumbs: [{
-            "link": "",
+            "link": "#",
             "title": "[nom de l’institution]"
           }
         ]

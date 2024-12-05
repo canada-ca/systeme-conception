@@ -6,11 +6,11 @@ description: null
 title: Rapports d’étape sur l’accessibilité pour [Nom de l’institution]
 section-title: ""
 breadcrumbs: [{
-            "link": "",
+            "link": "#",
             "title": "[nom de l’institution]"
           },
           {
-            "link": "",
+            "link": "accessibilite.html",
             "title": "Accessibilité à [nom de l’institution]"
           }
         ]
