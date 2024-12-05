@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/recommended-templates/accessibility/progre
 date: null
 dateModified: '2024-12-05'
 description: null
-title: Rapport d'étape sur l'accessibilité 2024 pour [Nom de l'institution]
+title: Rapport d'étape sur l'accessibilité [année] pour [Nom de l'institution]
 section-title: ""
 breadcrumbs: [{
             "link": "",
