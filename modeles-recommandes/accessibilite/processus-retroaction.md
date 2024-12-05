@@ -10,7 +10,7 @@ breadcrumbs: [{
             "title": " [nom de l’institution]"
           },
           {
-            "link": "https://conception.canada.ca/modeles-recommandes/accessibilite.html",
+            "link": "https://conception.canada.ca/modeles-recommandes/accessibilite/accessibilite/.html",
             "title": "Accessibilité à [nom de l’institution]"
           }
         ]
