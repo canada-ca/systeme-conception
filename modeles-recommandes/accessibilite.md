@@ -3,128 +3,128 @@ altLangPage: https://design.canada.ca/recommended-templates/accessibility.html
 date: null
 dateModified: '2024-12-05'
 description: null
-title: Accessibility reporting template
+title: Modèle de rapport sur l’accessibilité
 ---
 
 <p><strong>Last updated</strong>: {{ page.dateModified }}</p>
 
-<p>All Government of Canada entities, including departments and agencies, must provide public-facing information about their accessibility plans, progress reports, and a feedback mechanism.</p>
+<p>Toutes les entités du gouvernement du Canada, y compris les ministères et les organismes, doivent fournir des renseignements publics concernant leurs plans sur l’accessibilité, leurs rapports d’étape et leur mécanisme de rétroaction.</p>
 
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/accessibility-page-crop-fr.png" class="img-responsive" alt="" /></div>
 
 <section>
     <h2>On this page</h2>
     <ul>
-        <li><a href="#use">When to use</a></li>
-        <li><a href="#design">Content and design</a></li>
-        <li><a href="#implement">How to implement</a></li>
-        <li><a href="#research">Policy rationale</a></li>
-        <li><a href="#changes">Latest changes</a></li>
+        <li><a href="#quand">Quand utiliser cette configuration</a></li>
+        <li><a href="#contenu">Contenu et conception</a></li>
+        <li><a href="#mise">Comment procéder à la mise en œuvre</a></li>
+        <li><a href="#justification">Justification stratégique</a></li>
+        <li><a href="#changements">Derniers changements</a></li>
     </ul>
 </section>
 <section>
-    <h2 id="use">When to use</h2>
-    <p>This is a recommended template to help comply with planning and reporting requirements set by the <cite>Accessible Canada Regulations</cite>.</p>
+    <h2 id="quand">Quand utiliser cette configuration</h2>
+    <p>Il s’agit d’un modèle recommandé pour soutenir la conformité aux exigences en matière de planification et de rapports établies par le  <cite>Règlement canadien sur l’accessibilité</cite>.</p>
     <p>
-        Guidance on the Accessible Canada Regulations can be found here:
+        Les lignes directrices sur le Règlement canadien sur l’accessibilité se trouvent ici&nbsp;:
     </p>
     <ul>
-        <li><a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations - Canada.ca</a></li>
+        <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html"> Lignes directrices sur le Règlement canadien sur l’accessibilité — Canada.ca</a></li>
     </ul>
 </section>
 <section>
-    <h2 id="design">Content and design</h2>
-    <p>Find content and design specifications.</p>
-    <h3>Accessibility landing page</h3>
-    <p>Accessibility landing pages are outside the theme/topic structure, however they use a similar layout to topic pages. The page consists of:</p>
+    <h2 id="design">Contenu et conception</h2>
+    <p>Vous trouverez ici des spécifications sur le contenu et la conception.</p>
+    <h3>Page d’accueil en matière d’accessibilité</h3>
+    <p>Les pages d’accueil en matière d’accessibilité échappent à la structure thème/sujet. Toutefois, elles utilisent un affichage similaire à celui des pages de sujet. La page comprend les éléments suivants&nbsp;:</p>
     <ul>
-        <li>An H1</li>
-        <li>Introduction block</li>
-        <li>Supertask button linking to your feedback process</li>
+        <li>Titre H1</li>
+        <li>Bloc d’introduction</li>
+        <li>Bouton de super-tâche conduisant à votre processus de rétroaction</li>
         <li>
-            The following doormats:
+            Menus d’accueil thématiques suivants&nbsp;:
             <ul>
-                <li>Accessibility plan</li>
-                <li>Progress reports</li>
-                <li>Feedback process</li>
+                <li>Plan sur l’accessibilité</li>
+                <li>Rapports d’étape</li>
+                <li>Processus de rétroaction</li>
             </ul>
         </li>
     </ul>
-    <p>Suggested text for each of these elements can be found in the template here:</p>
+    <p>Vous trouverez dans le modèle suivant le texte suggéré pour chacun de ces éléments&nbsp;:</p>
     <ul>
-        <li><a href="./accessibility/accessibility.html">Accessibility at [institution name] - Canada.ca</a></li>
+        <li><a href="./accessibilite/accessibilite.html">Accessibilité à [nom de l’institution] — Canada.ca</a></li>
     </ul>
-    <p>The accessibility plan, progress reports and feedback process all use the:</p>
+    <p>Le plan sur l’accessibilité, les rapports d’étape et le processus de rétroaction utilisent tous ce modèle&nbsp;:</p>
     <ul>
-        <li><a href="./generic-destination.html">Basic content page layout</a></li>
+        <li><a href="./generique.html">Page de contenu de base</a></li>
     </ul>
-    <h3>Accessibility plan</h3>
-    <p>Follow the content outline found here:</p>
+    <h3>Plan sur l’accessibilité</h3>
+    <p>Suivez le plan de contenu suivant&nbsp;:</p>
     <ul>
-        <li><a href="./accessibility/plan.html">Accessibility plan at [Institution name] - Canada.ca</a></li>
+        <li><a href="./accessibilite/plan.html">Plan sur l’accessibilité à [nom de l’institution] — Canada.ca</a></li>
     </ul>
-    <h3>Progress reports</h3>
-    <p>For the landing page, follow the content outline found here:</p>
+    <h3>Rapports d’étape</h3>
+    <p>Pour la page d’accueil, suivez le plan de contenu suivant&nbsp;:</p>
     <ul>
-        <li><a href="./accessibility/progress-reports-landing.html">Accessibility progress reports at [Institution name]</a></li>
+        <li><a href="./accessibilite/accueil-rapports-etape.html">Rapports d’étape sur l’accessibilité pour [Nom de l’institution]</a></li>
     </ul>
-    <p>For the progress report, follow the content outline and associated guidance found here:</p>
+    <p>Pour le rapport d’étape, suivez le plan de contenu et les lignes directrices connexes que vous trouverez ici&nbsp;:</p>
     <ul>
-        <li><a href="./accessibility/progress-report.html">Accessibility progress report at [Institution name]</a></li>
+        <li><a href="./accessibilite/rapport-etape.html">Rapport d’étape sur l’accessibilité pour [Nom de l’institution] — Canada.ca</a></li>
     </ul>
-    <h3>Feedback process</h3>
-    <p>Follow the content outline found here:</p>
+    <h3>Processus de rétroaction</h3>
+    <p>Suivez le plan de contenu suivant&nbsp;:</p>
     <ul>
-        <li><a href="./accessibility/feedback-process.html">Accessibility feedback process at [Institution name] - Canada.ca</a></li>
+        <li><a href="./accessibilite/processus-retroaction.html">Processus de rétroaction sur l’accessibilité à [nom de l’institution] — Canada.ca</a></li>
     </ul>
-    <h3>Accessibility feedback form</h3>
-    <p>Follow the content outline found here:</p>
+    <h3>Formulaire de rétroaction sur l’accessibilité</h3>
+    <p>Suivez le plan de contenu suivant&nbsp;:</p>
     <ul>
-        <li><a href="./accessibility/feedback-form.html">[Institution name]’s accessibility feedback form - Canada.ca</a></li>
+        <li><a href="./accessibilite/formulaire-retroaction.html">Formulaire de rétroaction sur l’accessibilité à [nom de l’institution] — Canada.ca</a></li>
     </ul>
-    <p>The accessibility feedback form uses the:</p>
+    <p>Le formulaire de rétroaction sur l’accessibilité utilise le composant suivant&nbsp;:</p>
     <ul>
-        <li><a href="https://wet-boew.github.io/GCWeb/components/wb-fieldflow/alternative-en.html">Advanced field flow component</a> from GCWeb</li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/wb-fieldflow/alternative-fr.html">Alternatives pour le déroulement de champs</a> de GCWeb</li>
     </ul>
 </section>
 <section>
-    <h2 id="implement">How to implement</h2>
-    <p>Find working examples and code for implementing the accessibility template.</p>
-    <h3>GCweb (WET) theme implementation reference</h3>
-    <p>GCWeb implementation references for:</p>
+    <h2 id="mise">Comment procéder à la mise en œuvre</h2>
+    <p>Trouvez ici des exemples pratiques et du code pour mettre en œuvre le [].</p>
+    <h3>Référence de mise en œuvre du thème GCWeb (BOEW)</h3>
+    <p>Références de mise en œuvre de GCWeb pour&nbsp;:</p>
     <ul>
-        <li><a href="https://wet-boew.github.io/GCWeb/components/wb-fieldflow/alternative-en.html">Fieldflow documentation - GCWeb</a></li>
-        <li><a href="https://wet-boew.github.io/GCWeb/templates/content-page/content-en.html">Basic content page</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/components/wb-fieldflow/alternative-fr.html">Déroulement de champs - Documentation - GCWeb</a></li>
+        <li><a href="https://wet-boew.github.io/GCWeb/templates/content-page/content-fr.html">Page de contenu basique</a></li>
     </ul>
     <h3>Implementations</h3>
-    <p>Determine what best suits the type of page you're creating.</p>
-    <div class="row">
+    <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
+  <div class="row">
         <div class="col-md-8">
             <div class="wb-tabs mrgn-tp-lg">
                 <div class="tabpanels">
                     <details id="004" open="open">
-                        <summary><strong>GC-AEM</strong></summary>
-                        <p class="mrgn-tp-lg">For the Government of Canada Adobe Experience Manager (AEM):</p>
+                        <summary><strong>AEM-GC</strong></summary>
+                        <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada&nbsp;:</p>
                         <ul>
                             <li>
-                                <a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5">
-                                    AEM/Managed Web Service documentation (GCPedia link - only available on the Government of Canada network)
+                                <a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">
+                                    Documentation d’AEM et des services Web gérés (lien GCPédia - accessible uniquement sur le réseau du gouvernement du Canada)
                                 </a>
                             </li>
                         </ul>
                     </details>
                     <details id="005">
-                        <summary><strong>CDTS</strong></summary>
-                        <p class="mrgn-tp-lg">For the Centrally Deployed Templates Solution (CDTS):</p>
+                        <summary><strong>SGDC</strong></summary>
+                        <p class="mrgn-tp-lg">Pour la solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
                         <ul>
-                            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-en.html">CDTS documentation</a></li>
+                            <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
                         </ul>
                     </details>
                     <details id="006">
                         <summary><strong>Drupal WxT</strong></summary>
-                        <p class="mrgn-tp-lg">For Drupal WxT:</p>
+                        <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
                         <ul>
-                            <li><a href="https://drupalwxt.github.io/">Drupal WxT documentation</a></li>
+                            <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
                         </ul>
                     </details>
                 </div>
@@ -133,22 +133,22 @@ title: Accessibility reporting template
     </div>
 </section>
 <section>
-    <h2 id="research">Policy rationale</h2>
-    <p>This template supports the planning and reporting requirements set by the:</p>
+    <h2 id="justification">Justification stratégique</h2>
+    <p>Ce modèle prend en charge les exigences en matière de planification et de rapport établies par le&nbsp;:</p>
     <ul>
         <li>
-            <a href="https://laws.justice.gc.ca/eng/regulations/SOR-2021-241/"><cite>Accessible Canada Regulations</cite></a>
+            <a href="https://laws.justice.gc.ca/fra/reglements/DORS-2021-241/"><cite>Règlement canadien sur l’accessibilité</cite></a>
         </li>
     </ul>
-    <p>For additional guidance on these requirements visit:</p>
+    <p>Pour plus de lignes directrices concernant ces exigences, visitez&nbsp;:</p>
     <ul>
         <li>
-            <a href="https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance.html">Guidance on the Accessible Canada Regulations</a>
+            <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html">Lignes directrices sur le Règlement canadien sur l’accessibilité</a>
         </li>
     </ul>
 </section>
-<section>
-    <h2 id="changes">Latest changes</h2>
+<!-- <section>
+    <h2 id="changements">Derniers changements</h2>
     <dl class="dl-horizontal">
         <dt>
             <time datetime="2024-12-05" class="link-muted">2024-12-05</time>
@@ -159,4 +159,4 @@ title: Accessibility reporting template
             </ul>
         </dd>
     </dl>
-</section>
+</section> -->
