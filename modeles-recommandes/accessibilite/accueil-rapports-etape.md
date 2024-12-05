@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/recommended-templates/accessibility/progre
 date: null
 dateModified: '2024-12-05'
 description: null
-title: Rapports d'étape sur l'accessibilité 2024 pour [Nom de l'institution]
+title: Rapports d’étape sur l’accessibilité pour [Nom de l’institution]
 section-title: ""
 breadcrumbs: [{
             "link": "",
@@ -16,11 +16,11 @@ breadcrumbs: [{
         ]
 ---
 
-<p>Our accessibility plan reflects our organization’s policies, programs, practices and services in relation to identifying and removing accessibility barriers and preventing new barriers in these areas.</p>
+<p>Notre plan sur l’accessibilité reflète les politiques, programmes, pratiques et services de notre organisme concernant l’identification et la suppression des obstacles en matière d’accessibilité et la prévention de l’apparition de nouveaux obstacles dans ces domaines.</p>
 
-<p>Our progress reports describe our progress against our commitments in the accessibility plan.</p>
+<p>Nos rapports d’étape décrivent nos progrès par rapport aux engagements définis dans notre plan sur l’accessibilité.</p>
 
 <ul>
-    <li><a href="progress-report.html">2024 Accessibility progress report for [Institution name]</a></li>
-    <li><a href="progress-report.html">2023 Accessibility progress report for [Institution name]</a></li>
+    <li><a href="progress-report.html">Rapports d’étape sur l’accessibilité 2024 pour [Nom de l’institution]</a></li>
+    <li><a href="progress-report.html">Rapports d’étape sur l’accessibilité 2024 pour [Nom de l’institution]</a></li>
 <ul>
