@@ -6,7 +6,7 @@ description: null
 title: Plan sur l’accessibilité à [nom de l’institution]
 section-title: ""
 breadcrumbs: [{
-            "link": "https://conception.canada.ca/modeles-recommandes/accessibilite/plan.html",
+            "link": "https://conception.canada.ca/modeles-recommandes/accessibilite/plan.html#",
             "title": "[nom de l’institution]"
           },
           {
