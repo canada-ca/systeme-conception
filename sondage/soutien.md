@@ -64,9 +64,3 @@ Soumettez une demande au Bureau de service en utilisant les catégories suivante
 		</tr>
 	</tbody>
 </table>
-
-## Groupe de travail
-
-Les membres du Groupe de travail du Sondage sur la réussite de tâches du gouvernement du Canada founiront des avis et développeront des stratégies pour la voie à suivre avec le Sondage
-
-[Ordres du jour des réunions des groupes de travail et présentations](https://www.gcpedia.gc.ca/wiki/Sondage_sur_la_r%C3%A9ussite_de_t%C3%A2ches_du_gouvernement_du_Canada/Groupe_de_travail) (accessible seulement sur le réseau du GC sur GCPédia).
