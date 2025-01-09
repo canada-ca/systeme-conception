@@ -43,7 +43,7 @@ Lorsque les internautes arrivent sur une page Web, une fenêtre contextuelle les
 
 2.  **Premièrement, choisissez la catégorie qui décrit le mieux la principale raison de votre visite aujourd’hui.**
 
-    Pour voir la liste des tâches, consultez la page GCÉchange [Sondage sur la réussite des tâches du Gouvernement du Canada](https://gcxgce.sharepoint.com/:u:/r/teams/10001402/SitePages/fr/Government-of-Canada-Task-Success-Survey---Current-and-past-task-lists.aspx?csf=1&web=1&share=EVKQQs1AustJll7DFiubfSMBp35RdI2f5I_2u4nXzSc5sg&e=0jJ7J4). (Accès interne seulement)
+    Pour voir la liste des tâches, consultez la page GCÉchange [Sondage sur la réussite des tâches du Gouvernement du Canada (accessible seulement sur le réseau du GC)](https://gcxgce.sharepoint.com/:u:/r/teams/10001402/SitePages/fr/Government-of-Canada-Task-Success-Survey---Current-and-past-task-lists.aspx?csf=1&web=1&share=EVKQQs1AustJll7DFiubfSMBp35RdI2f5I_2u4nXzSc5sg&e=0jJ7J4). 
 
 3.  **Dans quelle mesure avez-vous été satisfait de votre expérience sur le site?**
 
