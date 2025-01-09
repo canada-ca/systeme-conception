@@ -32,7 +32,7 @@ Les modifications seront examinées par les responsables des thèmes, le Bureau 
 
 ## Listes de tâches actuelles et anciennes
 
-[Télécharger des listes de tâches](https://www.gcpedia.gc.ca/wiki/Sondage_sur_la_r%C3%A9ussite_des_t%C3%A2ches_du_gouvernement_du_Canada_-_Liste_de_t%C3%A2ches_actuelles_et_anciennes) (accessible seulement sur GCPédia)
+[Télécharger des listes de tâches](https://gcxgce.sharepoint.com/:u:/r/teams/10001402/SitePages/fr/Government-of-Canada-Task-Success-Survey---Current-and-past-task-lists.aspx?csf=1&web=1&share=EVKQQs1AustJll7DFiubfSMBp35RdI2f5I_2u4nXzSc5sg&e=0jJ7J4) (accessible seulement sur GCÉchange)
 
 ## Normes de service
 
