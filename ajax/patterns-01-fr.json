@@ -1690,7 +1690,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/accessibilite/formulaire-retroaction.htmll\">Formulaire de rétroaction sur l’accessibilité</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/accessibilite/formulaire-retroaction.html\">Formulaire de rétroaction sur l’accessibilité</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Fournissez une rétroaction sur le plan d’accessibilité de [nom de l’institution], les obstacles que vous avez rencontrés ou toute question liée à l’accessibilité.",
       "WHENTOUSE": "Fournissez une rétroaction sur le plan d’accessibilité de [nom de l’institution], les obstacles que vous avez rencontrés ou toute question liée à l’accessibilité.",
