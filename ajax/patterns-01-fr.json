@@ -1648,6 +1648,66 @@
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/accessibilite/accessibilite.html\">Accessibilité à [nom de l’institution]</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Faites-nous part de votre rétroaction pour nous aider à créer un Canada accessible et sans obstacles.",
+      "WHENTOUSE": "Faites-nous part de votre rétroaction pour nous aider à créer un Canada accessible et sans obstacles.",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/accessibilite/plan.html\">Plan sur l’accessibilité à [nom de l’institution]</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Politiques, programmes, pratiques et services qui aident notre organisation à contribuer à l’objectif d’un Canada accessible et sans obstacles",
+      "WHENTOUSE": "Politiques, programmes, pratiques et services qui aident notre organisation à contribuer à l’objectif d’un Canada accessible et sans obstacles",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/accessibilite/accueil-rapports-etape.html\">Rapports d’étape sur l’accessibilité pour [Nom de l’institution]</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Résultats de nos activités visant à améliorer la contribution de notre organisation à l'objectif d'un Canada accessible et sans entraves",
+      "WHENTOUSE": "Résultats de nos activités visant à améliorer la contribution de notre organisation à l'objectif d'un Canada accessible et sans entraves",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/accessibilite/processus-retroaction.html\">Processus de rétroaction sur l’accessibilité à [nom de l’institution]</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Différentes façons de fournir une rétroaction, comment demander des formats substituts, ce que nous faisons de votre rétroaction et comment garder votre rétroaction anonyme",
+      "WHENTOUSE": "Différentes façons de fournir une rétroaction, comment demander des formats substituts, ce que nous faisons de votre rétroaction et comment garder votre rétroaction anonyme",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/accessibilite/formulaire-retroaction.html\">Formulaire de rétroaction sur l’accessibilité</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Fournissez une rétroaction sur le plan d’accessibilité de [nom de l’institution], les obstacles que vous avez rencontrés ou toute question liée à l’accessibilité.",
+      "WHENTOUSE": "Fournissez une rétroaction sur le plan d’accessibilité de [nom de l’institution], les obstacles que vous avez rencontrés ou toute question liée à l’accessibilité.",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/accessibilite/rapport-etape.html\">Rapport d'étape sur l'accessibilité [année] pour [Nom de l'institution]</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
     }
   ]
 }
