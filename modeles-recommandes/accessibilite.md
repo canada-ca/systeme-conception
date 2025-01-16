@@ -29,7 +29,7 @@ title: Modèle de rapport sur l’accessibilité
         Les lignes directrices sur le Règlement canadien sur l’accessibilité se trouvent ici&nbsp;:
     </p>
     <ul>
-        <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html"> Lignes directrices sur le Règlement canadien sur l’accessibilité - Canada.ca</a></li>
+        <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/directives-reglements-canadien-accessibilite.html"> Lignes directrices sur le Règlement canadien sur l’accessibilité</a></li>
     </ul>
 </section>
 <section>
@@ -52,7 +52,7 @@ title: Modèle de rapport sur l’accessibilité
     </ul>
     <p>Vous trouverez dans le modèle suivant le texte suggéré pour chacun de ces éléments&nbsp;:</p>
     <ul>
-        <li><a href="./accessibilite/accessibilite.html">Accessibilité à [nom de l’institution] - Canada.ca</a></li>
+        <li><a href="./accessibilite/accessibilite.html">Accessibilité à [nom de l’institution]</a></li>
     </ul>
     <p>Le plan sur l’accessibilité, les rapports d’étape et le processus de rétroaction utilisent tous ce modèle&nbsp;:</p>
     <ul>
@@ -61,7 +61,7 @@ title: Modèle de rapport sur l’accessibilité
     <h3>Plan sur l’accessibilité</h3>
     <p>Suivez le plan de contenu suivant&nbsp;:</p>
     <ul>
-        <li><a href="./accessibilite/plan.html">Plan sur l’accessibilité à [nom de l’institution] - Canada.ca</a></li>
+        <li><a href="./accessibilite/plan.html">Plan sur l’accessibilité à [nom de l’institution]</a></li>
     </ul>
     <h3>Rapports d’étape</h3>
     <p>Pour la page d’accueil, suivez le plan de contenu suivant&nbsp;:</p>
@@ -70,17 +70,17 @@ title: Modèle de rapport sur l’accessibilité
     </ul>
     <p>Pour le rapport d’étape, suivez le plan de contenu et les lignes directrices connexes que vous trouverez ici&nbsp;:</p>
     <ul>
-        <li><a href="./accessibilite/rapport-etape.html">Rapport d’étape sur l’accessibilité pour [Nom de l’institution] - Canada.ca</a></li>
+        <li><a href="./accessibilite/rapport-etape.html">Rapport d’étape sur l’accessibilité pour [Nom de l’institution]</a></li>
     </ul>
     <h3>Processus de rétroaction</h3>
     <p>Suivez le plan de contenu suivant&nbsp;:</p>
     <ul>
-        <li><a href="./accessibilite/processus-retroaction.html">Processus de rétroaction sur l’accessibilité à [nom de l’institution] - Canada.ca</a></li>
+        <li><a href="./accessibilite/processus-retroaction.html">Processus de rétroaction sur l’accessibilité à [nom de l’institution]</a></li>
     </ul>
     <h3>Formulaire de rétroaction sur l’accessibilité</h3>
     <p>Suivez le plan de contenu suivant&nbsp;:</p>
     <ul>
-        <li><a href="./accessibilite/formulaire-retroaction.html">Formulaire de rétroaction sur l’accessibilité à [nom de l’institution] - Canada.ca</a></li>
+        <li><a href="./accessibilite/formulaire-retroaction.html">Formulaire de rétroaction sur l’accessibilité à [nom de l’institution]</a></li>
     </ul>
     <p>Le formulaire de rétroaction sur l’accessibilité utilise le composant suivant&nbsp;:</p>
     <ul>
