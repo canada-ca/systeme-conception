@@ -6,14 +6,14 @@ description: null
 title: Modèle de rapport sur l’accessibilité
 ---
 
-<p><strong>Last updated</strong>: {{ page.dateModified }}</p>
+<p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 
 <p>Toutes les entités du gouvernement du Canada, y compris les ministères et les organismes, doivent fournir des renseignements publics concernant leurs plans sur l’accessibilité, leurs rapports d’étape et leur mécanisme de rétroaction.</p>
 
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/accessibility-page-crop-fr.png" class="img-responsive" alt="" /></div>
 
 <section>
-    <h2>On this page</h2>
+    <h2>Sur cette page</h2>
     <ul>
         <li><a href="#quand">Quand utiliser cette configuration</a></li>
         <li><a href="#contenu">Contenu et conception</a></li>
