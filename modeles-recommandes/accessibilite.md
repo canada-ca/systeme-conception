@@ -33,7 +33,7 @@ title: Modèle de rapport sur l’accessibilité
     </ul>
 </section>
 <section>
-    <h2 id="design">Contenu et conception</h2>
+    <h2 id="contentu">Contenu et conception</h2>
     <p>Vous trouverez ici des spécifications sur le contenu et la conception.</p>
     <h3>Page d’accueil en matière d’accessibilité</h3>
     <p>Les pages d’accueil en matière d’accessibilité échappent à la structure thème/sujet. Toutefois, elles utilisent un affichage similaire à celui des pages de sujet. La page comprend les éléments suivants&nbsp;:</p>
