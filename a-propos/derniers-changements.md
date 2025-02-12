@@ -11,7 +11,19 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
 </div>
 <div id="expand-collapse">
- <details open="open">
+  <details open="open">
+    <summary>25 septembre 2024</summary>
+    <p>Stabilisation du modèle de page de sujet.</p>
+<p>Dans le cadre de cette mise à jour, nous avons apporté des modifications à plusieurs modèles.</p>
+<p>Changements</p>
+    <ul> 
+<li><a href="{{ site.url }}/configurations-conception-communes/bloc-introduction.html">Bloc d’introduction</a> : ajout d’une option d’image demi-largeur</li>
+<li><a href="{{ site.url }}/configurations-conception-communes/services-renseignements.html">Services et information</a> : ajout de la possibilité de rendre invisible l’en-tête « Services et information »</li>
+<li><a href="{{ site.url }}/configurations-conception-communes/bloc-medias-sociaux.html">Réseaux sociaux</a> : ajout d’une option permettant d’inclure un lien « D’autres moyens de rester en contact »</li>
+<li><a href="https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcanada.us15.list-manage.com%2Ftrack%2Fclick%3Fu%3D729a207773f7324e217a1d945%26id%3Ddde3e5789b%26e%3D297cedb71e&data=05%7C02%7Cchelsey.donohue%40servicecanada.gc.ca%7Cf8961aae20f748272d3808dcdda01f73%7C9ed558468a814246acd8b1a01abfc0d1%7C0%7C0%7C638628927011648841%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=aKyvVTL7p5XYiYPuffK3AagSa5XL3eMIS9Fg6IBzvsU%3D&reserved=0">Contributeurs</a> : changement du design, lequel remplace la <a href="https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcanada.us15.list-manage.com%2Ftrack%2Fclick%3Fu%3D729a207773f7324e217a1d945%26id%3D389adeaf6e%26e%3D297cedb71e&data=05%7C02%7Cchelsey.donohue%40servicecanada.gc.ca%7Cf8961aae20f748272d3808dcdda01f73%7C9ed558468a814246acd8b1a01abfc0d1%7C0%7C0%7C638628927011636826%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=AyZwwbLHJtCSes%2Feln%2B765U%2BQf6R6SZ%2B88cgTR410sg%3D&reserved=0">configuration d’institution responsable</a></li>
+    </ul>
+  </details>  
+ <details>
     <summary>28 août 2024</summary>
     <p>Lancement d’une nouvelle architecture de l’information et de nouveau contenu pour conception.canada.ca. Nous avons notamment&nbsp;:</p>
     <ul>
@@ -26,7 +38,8 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   </details>
   <details>
     <summary>3 avril 2024</summary>
-    <p>Modèle de <a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html#latest">page d'accueil institutionnelle</a> stabilisé avec documentation distincte pour chaque composant.</p>
+    <p>Modèle de <a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html#latest">page d'accueil institutionnelle</a> stabilisé avec documentation distincte pour chaque composant.</p>
+    <p>Mise à jour du guide de référence pour tenir compte du style à bandes pour la <a href="{{ site.url }}/configurations-conception-communes/en-demande.html">configuration la plus demandée</a></p>
   </details>
     <details>
     <summary>19 février 2024</summary>
