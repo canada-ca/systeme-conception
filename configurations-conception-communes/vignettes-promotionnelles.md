@@ -135,29 +135,21 @@ title: "Promotions contextuelles"
   </div>
         <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Context-specific features - single feature - large screen</b></figcaption>
-            <img src="../images/contextual-features-single-fr.png" class="img-responsive" alt="Single context-specific feature for large screens. Text version below:" />
+            <figcaption><b>Promotions contextuelles - fonctionnalité unique - écran large</b></figcaption>
+            <img src="../images/contextual-features-single-fr.png" class="img-responsive" alt="Promotion contextuelle unique pour les écrans larges Version texte ci-dessous:" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: single context-specific feature - large screen</summary>
-                <p>
-                    A heading titled “Featured” is followed by one feature placeholder. The image placeholder is on the left side and is surrounded by a light grey background. Within the image placeholder are the prescribed image
-                    dimensions: 360px x 203px. To the right of the image placeholder is a placeholder hyperlink that reads [Feature hyperlink text]. Underneath is the following placeholder text: Brief description of the
-                    feature being promoted.
-                </p>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image : promotion contextuelle unique - écran large</summary>
+                <p>Un en-tête intitulé « En vedette » précède un espace réservé pour la promotion. L’espace réservé pour l’image est situé à gauche et est entouré d’un arrière-plan gris clair. Dans l’espace réservé pour l’image, on retrouve les dimensions prescrites pour l’image. 360 px x 203 px. À la droite de l’espace réservé pour l’image, on retrouve un espace réservé pour l’hyperlien [Lien vers l’élément en vedette]. Sous ce dernier, on retrouve l’espace réservé pour le texte : brève description de l’élément en vedette.</p>
             </details>
         </figure>
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
-            <figcaption><b>Context-specific features - single feature - small screen</b></figcaption>
-            <img src="../images/contextual-features-single-sm-fr.png" class="img-responsive" alt="Single context-specific feature for small screens. Text version below:" />
+            <figcaption><b>Promotions contextuelles - fonctionnalité unique - petit écran</b></figcaption>
+            <img src="../images/contextual-features-single-sm-fr.png" class="img-responsive" alt="Promotion contextuelle unique pour les petits écrans. Version texte ci-dessous :" />
             <details>
-                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Image description: single context-specific features - small screen</summary>
-                <p>
-                    A heading titled “Featured” is followed by one feature placeholder. The image placeholder is above the text and is surrounded by a light grey background. Within the image placeholder are the prescribed image
-                    dimensions: 360px x 203px. Below the image placeholder is a placeholder hyperlink that reads [Feature hyperlink text]. Underneath is the following placeholder text: Brief description of the
-                    feature being promoted.
-                </p>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image : promotion contextuelle unique - petit écran</summary>
+                <p>Un en-tête intitulé « En vedette » précède un espace réservé pour la promotion. L’espace réservé pour l’image est situé en haut du texte et est entouré d’un arrière-plan gris clair. Dans l’espace réservé pour l’image, on retrouve les dimensions prescrites pour l’image. 360 px x 203 px. Sous l’espace réservé pour l’image, on retrouve l’espace réservé pour l’hyperlien [Lien vers l’élément en vedette]. Sous ce dernier, on retrouve l’espace réservé pour le texte : brève description de l’élément en vedette.</p>
             </details>
         </figure>
     </div>
