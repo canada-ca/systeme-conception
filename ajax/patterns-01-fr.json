@@ -750,7 +750,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/lien-vedette.html\">Featured link</a>",
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/lien-vedette.html\">Lien en vedette</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Un hyperlien court et descriptif que votre institution doit mettre en évidence sur une page d’accueil.",
       "WHENTOUSE": "Un hyperlien court et descriptif que votre institution doit mettre en évidence sur une page d’accueil.",
