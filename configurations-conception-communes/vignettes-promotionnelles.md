@@ -149,7 +149,7 @@ title: "Promotions contextuelles"
             <img src="../images/contextual-features-single-sm-fr.png" class="img-responsive" alt="Promotion contextuelle unique pour les petits écrans. Version texte ci-dessous :" />
             <details>
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image : promotion contextuelle unique - petit écran</summary>
-                <p>Un en-tête intitulé « En vedette » précède un espace réservé pour la promotion. L’espace réservé pour l’image est situé en haut du texte et est entouré d’un arrière-plan gris clair. Dans l’espace réservé pour l’image, on retrouve les dimensions prescrites pour l’image. 360 px x 203 px. Sous l’espace réservé pour l’image, on retrouve l’espace réservé pour l’hyperlien [Lien vers l’élément en vedette]. Sous ce dernier, on retrouve l’espace réservé pour le texte : brève description de l’élément en vedette.</p>
+                <p>Un en-tête intitulé « En vedette » précède un espace réservé pour la promotion. L’espace réservé pour l’image est situé en haut du texte et est entouré d’un arrière-plan gris clair. Dans l’espace réservé pour l’image, on retrouve les dimensions prescrites pour l’image 360 px x 203 px. Sous l’espace réservé pour l’image, on retrouve l’espace réservé pour l’hyperlien [Lien vers l’élément en vedette]. Sous ce dernier, on retrouve l’espace réservé pour le texte : brève description de l’élément en vedette.</p>
             </details>
         </figure>
     </div>
