@@ -32,14 +32,14 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
       <li>Créé des lignes directrices pour la rédaction de métadonnées pour les pages Canada.ca&nbsp;: <a href="{{ site.url }}/specifications/information-trouvabilite/metadonnees.html">Améliorer les titres et les métadonnées à des fins de trouvabilité</a>.</li>
       <li>Regroupé les lignes directrices sur les domaines et les adresses URL sur une même page&nbsp;: <a href="{{ site.url }}/specifications/elements-obligatoires/domaines-url.html">Domaines et adresses URL du gouvernement du Canada</a>.</li>
       <li>Supprimé les mentions du système de conception de Canada.ca en les remplaçant par des mentions de la conception de Canada.ca. L’objectif est de clarifier que les ministères doivent se conformer aux éléments obligatoires de la conception de Canada.ca, mais qu’ils sont libres d’utiliser le système de design qui leur convient le mieux.</li>
-      <li>Mis à jour la page À propos de Canada.ca pour mieux refléter les recherches des utilisateurs et utilisatrices&nbsp;: <a href="{{ site.url }}/a-propos"> À propos de Canada.ca</a>.</li>
+      <li>Mis à jour la page « À propos de Canada.ca » pour mieux refléter les recherches des utilisateurs et utilisatrices&nbsp;: <a href="{{ site.url }}/a-propos"> À propos de Canada.ca</a>.</li>
       <li>Ajouté une nouvelle page pour les résumés de recherche relatifs à la conception et à l’expérience utilisateur de Canada.ca&nbsp;: <a href="{{ site.url }}/resumes-recherche/">Résumés de recherche</a>.</li>
     </ul>
   </details>
   <details>
     <summary>3 avril 2024</summary>
     <p>Modèle de <a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html#latest">page d'accueil institutionnelle</a> stabilisé avec documentation distincte pour chaque composant.</p>
-    <p>Mise à jour du guide de référence pour tenir compte du style à bandes pour la <a href="{{ site.url }}/configurations-conception-communes/en-demande.html">configuration la plus demandée</a></p>
+    <p>Mise à jour du guide de référence pour tenir compte du style à bandes pour la <a href="{{ site.url }}/configurations-conception-communes/en-demande.html">configuration la plus demandée</a>.</p>
   </details>
     <details>
     <summary>19 février 2024</summary>
