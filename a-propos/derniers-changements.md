@@ -18,7 +18,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
 <p>Changements</p>
     <ul> 
 <li><a href="{{ site.url }}/configurations-conception-communes/bloc-introduction.html">Bloc d’introduction</a> : ajout d’une option d’image demi-largeur</li>
-<li><a href="{{ site.url }}/configurations-conception-communes/services-renseignements.html">Services et information</a> : ajout de la possibilité de rendre invisible l’en-tête « Services et information »</li>
+<li><a href="{{ site.url }}/configurations-conception-communes/services-renseignements.html">Services et renseignements</a> : ajout de la possibilité de rendre invisible l’en-tête « Services et renseignements »</li>
 <li><a href="{{ site.url }}/configurations-conception-communes/bloc-medias-sociaux.html">Réseaux sociaux</a> : ajout d’une option permettant d’inclure un lien « D’autres moyens de rester en contact »</li>
 <li><a href="{{ site.url }}/common-design-patterns/contributors.html">Contributeurs</a> : changement du design, lequel remplace la <a href="{{ site.url }}/common-design-patterns/institutional-byline.html">configuration d’institution responsable</a></li>
     </ul>
