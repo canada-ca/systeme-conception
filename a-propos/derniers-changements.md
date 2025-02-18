@@ -13,7 +13,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
 <div id="expand-collapse">
   <details open="open">
     <summary>25 septembre 2024</summary>
-    <p>Stabilisation du modèle de page de sujet.</p>
+    <p>Stabilisation du modèle de <a href="{{ site.url }}/modeles-obligatoire/sujet.html">page de sujet</a>.</p>
 <p>Dans le cadre de cette mise à jour, nous avons apporté des modifications à plusieurs modèles.</p>
 <p>Changements</p>
     <ul> 
