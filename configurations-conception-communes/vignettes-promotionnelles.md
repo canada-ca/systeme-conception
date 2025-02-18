@@ -133,6 +133,26 @@ title: "Promotions contextuelles"
       </details>
     </figure>
   </div>
+        <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Promotions contextuelles - fonctionnalité unique - grand écran</b></figcaption>
+            <img src="../images/contextual-features-single-fr.png" class="img-responsive" alt="Promotion contextuelle unique pour les écrans larges Version texte ci-dessous:" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image : promotion contextuelle unique - grand écran</summary>
+                <p>Un en-tête intitulé « En vedette » précède un espace réservé pour la promotion. L’espace réservé pour l’image est situé à gauche et est entouré d’un arrière-plan gris clair. Dans l’espace réservé pour l’image, on retrouve les dimensions prescrites pour l’image 360 px x 203 px. À la droite de l’espace réservé pour l’image, on retrouve un espace réservé pour l’hyperlien [Lien vers l’élément en vedette]. Sous ce dernier, on retrouve l’espace réservé pour le texte : brève description de l’élément en vedette.</p>
+            </details>
+        </figure>
+    </div>
+    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+        <figure class="mrgn-tp-md mrgn-bttm-lg">
+            <figcaption><b>Promotions contextuelles - fonctionnalité unique - petit écran</b></figcaption>
+            <img src="../images/contextual-features-single-sm-fr.png" class="img-responsive" alt="Promotion contextuelle unique pour les petits écrans. Version texte ci-dessous :" />
+            <details>
+                <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image : promotion contextuelle unique - petit écran</summary>
+                <p>Un en-tête intitulé « En vedette » précède un espace réservé pour la promotion. L’espace réservé pour l’image est situé en haut du texte et est entouré d’un arrière-plan gris clair. Dans l’espace réservé pour l’image, on retrouve les dimensions prescrites pour l’image 360 px x 203 px. Sous l’espace réservé pour l’image, on retrouve l’espace réservé pour l’hyperlien [Lien vers l’élément en vedette]. Sous ce dernier, on retrouve l’espace réservé pour le texte : brève description de l’élément en vedette.</p>
+            </details>
+        </figure>
+    </div>
 </section>
 <section id="œuvre">
   <h2>Comment procéder à la mise en œuvre</h2>
