@@ -299,11 +299,6 @@ title: Concevoir le contenu
    Aide-mémoire pour la conception du contenu des communications de crise
   </a>
  </li>
- <li>
-  <a href="https://readability-lisibilite.tbs.alpha.canada.ca/?&amp;lang=fr">
-   Score de lisibilité Web - Expérimental
-  </a>
- </li>
 </ul>
 
 <h2 id="utiliser">
@@ -389,14 +384,6 @@ title: Concevoir le contenu
  <li>
   <a href="https://a11y.canada.ca/fr/">
    Boîte à outils d'accessibilité numérique
-  </a>
- </li>
- <li>
-  <a href="https://numerique.canada.ca/a11y/">
-   Guide d’accessibilité du
-   <abbr title="Service numérique canadien">
-    SNC
-   </abbr>
   </a>
  </li>
  <li>
