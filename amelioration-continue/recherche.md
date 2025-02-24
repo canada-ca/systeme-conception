@@ -70,7 +70,7 @@ Pour créer des questions de recherche, vous devez comprendre les lacunes et les
 #### Recherche qualitative
 
 * Rétroaction des utilisateurs
-* [Entrevues avec des utilisateurs](https://numerique.canada.ca/outils-et-ressources/guide-entrevue/)
+* Entrevues avec des utilisateurs
 * Tests de convivialité antérieures
 * Tests de convivialité&nbsp;: tests de premier clic, tri de cartes, tests d'arborescence
 * Sondages ou autres rapports d'analyse comportementale
