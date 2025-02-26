@@ -76,7 +76,7 @@ title: 'Pied de page de la zone du contenu '
 <ul>
  <li>
    <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">
-  Outil de rétroaction sur la page</a>
+  Rétroaction GC</a>
   (facultatif)
  </li>
  <li>

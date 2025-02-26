@@ -9,7 +9,7 @@ title: "Signaler un problème sur cette page"
 
  <section class="alert alert-warning">
   <p>Nous mettons hors service la configuration «&nbsp;Signaler un problème sur cette page&nbsp;». Nous ne vous conseillons pas d’ajouter cette configuration à vos pages.</p>
-<p>Si vous souhaitez recueillir de la rétroaction pour des pages Web en particulier, vous pouvez utiliser la configuration <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">«&nbsp;Outil de rétroaction sur la page (ORP)&nbsp;»</a>. N’ajoutez l’ORP qu’aux pages pour lesquelles vous prévoyez d’assurer un suivi actif et d’exploiter la rétroaction reçue.</p>
+<p>Si vous souhaitez recueillir de la rétroaction pour des pages Web en particulier, vous pouvez utiliser la configuration <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">«&nbsp;Rétroaction GC (ORP)&nbsp;»</a>. N’ajoutez l’ORP qu’aux pages pour lesquelles vous prévoyez d’assurer un suivi actif et d’exploiter la rétroaction reçue.</p>
 </section>
 
 

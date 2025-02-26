@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/common-design-patterns/page-feedback.html
 date: "2023-10-19"
 dateModified: "2023-10-19"
 description: "L’outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l’expérience sur une page."
-title: "Outil de rétroaction sur la page"
+title: "Rétroaction GC"
 ---
 <p class="small">Dernière mise à jour&nbsp;: 2023-10-06</p>
 <p>L'outil de rétroaction est une configuration <strong>facultative</strong> pour recueillir la rétroaction de l'expérience sur une page. Lorsqu'il est utilisé, il apparaît en bas de la page, juste avant la date de modification.</p>
@@ -49,7 +49,7 @@ title: "Outil de rétroaction sur la page"
     <li>le message de remerciement.</li>
   </ul>
   <p>Une documentation détaillée est également disponible pour l'utilisation de cette configuration et pour l'analyse de la rétroaction.</p>
-  <p><a href="/retroaction/">Outil de rétroaction sur la page (Analyses, sondage et commentaires)</a></p>
+  <p><a href="/retroaction/">Rétroaction GC (Analyses, sondage et commentaires)</a></p>
   <h3>Spécifications de contenu</h3>
   <p>Lorsque vous ajoutez pour la première fois l'outil de rétroaction à votre page, utilisez l'option par défaut, sans le lien de contact.</p>
   <p><strong>Envisagez uniquement d'ajouter un lien de contact si</strong> vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateurs utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
@@ -175,7 +175,7 @@ title: "Outil de rétroaction sur la page"
         <p>Insérez le code de l'outil de rétroaction à l'endroit où se trouve la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; dans le code HTML de votre page.</p>
         <ul>
           <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Configuration de l'outil de rétroaction sur la page (par défaut)</a></li>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Outil de rétroaction sur la page avec lien de contact</a></li>
+          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Rétroaction GC avec lien de contact</a></li>
         </ul>
         <h4>Ajout des valeurs masquées obligatoires</h4>
         <p>Mise à jour des données pour les acronymes institutionnels. Il s'agit d'une valeur unilingue. Entrez la valeur en anglais, tant pour vos pages en anglais que celles en français.</p>
