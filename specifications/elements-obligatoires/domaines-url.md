@@ -119,6 +119,6 @@ breadcrumbs: [{
 <p><b>Remarque</b>&nbsp;: Votre gestionnaire de compte Web peut soumettre des demandes de nouvelle URL personnalisée et de modification à l’Éditeur principal à l’aide du <a href="http://requestform.portal.gc.ca/billets.html">formulaire de demande pour Canada.ca (interne au gouvernement)</a>.</p>
 <p>Pour en savoir plus sur les URL personnalisées, consultez&nbsp;:</p>
     <ul>
-        <li><a href="https://www.gcpedia.gc.ca/wiki/Adresses_URL_personnalisées_pour_Canada.ca">Adresses URL personnalisées pour Canada.ca — GCpédia (interne au gouvernement)</a></li>
+        <li><a href="https://gcxgce.sharepoint.com/teams/10001402/SitePages/fr/Vanity-URLs.aspx">Adresses URL personnalisées pour Canada.ca — GCéchange (interne au gouvernement)</a></li>
     </ul>
 </section>
