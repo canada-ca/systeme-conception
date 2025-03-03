@@ -20,7 +20,7 @@ title: "Rétroaction GC"
 </ul>
 <section id="utiliser">
   <h2>Quand l'utiliser</h2>
-  <p>Envisagez d'utiliser l'outil de rétroaction sur la page pour&nbsp;:</p>
+  <p>Envisagez d'utiliser Rétroaction GC pour&nbsp;:</p>
   <ul>
     <li>Découvrir des problèmes propres à la page qui modifient votre note sur le sondage sur la réussite des tâches du gouvernement du Canada (GC).</li>
     <li>Rechercher des problèmes sur des pages que vous prévoyez traiter ultérieurement.</li>
@@ -31,17 +31,17 @@ title: "Rétroaction GC"
 </section>
 <section id="quoi-eviter">
   <h2>Quoi éviter</h2>
-  <p>Évitez d'utiliser l'outil de rétroaction sur la page, dans des pages pour lesquelles vous ne prévoyez pas de surveiller les commentaires et prendre des mesures. Nous vous déconseillons également d'utiliser l'outil dans des environnements sécurisés ou sur des pages contenant des renseignements thématiques sensibles.</p>
+  <p>Évitez d'utiliser Rétroaction GC, dans des pages pour lesquelles vous ne prévoyez pas de surveiller les commentaires et prendre des mesures. Nous vous déconseillons également d'utiliser l'outil dans des environnements sécurisés ou sur des pages contenant des renseignements thématiques sensibles.</p>
   <p><a href="/retroaction/quand.html#comment-ne-pas-utiliser-loutil-de-r%C3%A9troaction">Autres comportements à éviter en analysant une rétroaction</a></p>
 </section>
 <section id="contenu-et-conception">
   <h2>Contenu et conception</h2>
-  <p>L'outil de rétroaction sur la page invite les visiteurs à effectuer les actions suivantes&nbsp;:</p>
+  <p>Rétroaction GC invite les visiteurs à effectuer les actions suivantes&nbsp;:</p>
   <ul>
     <li>indiquer s'ils ont trouvé ce qu'ils cherchaient (oui ou non);</li>
     <li>fournir leur rétroaction en décrivant le problème.</li>
   </ul>
-  <p>Placez l'outil en bas de la page, juste avant la date de modification. Alignez-le à gauche de la page, avant l'élément &laquo;&nbsp;Partagez cette page&nbsp;&raquo;. Vous pouvez choisir d'utiliser l'outil de rétroaction sur la page au lieu de la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;. Il n'est pas obligatoire d'ajouter l'outil de rétroaction sur la page lors du retrait de la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;.</p>
+  <p>Placez l'outil en bas de la page, juste avant la date de modification. Alignez-le à gauche de la page, avant l'élément &laquo;&nbsp;Partagez cette page&nbsp;&raquo;. Vous pouvez choisir d'utiliser Rétroaction GC au lieu de la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;. Il n'est pas obligatoire d'ajouter Rétroaction GC lors du retrait de la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;.</p>
   <p>La configuration de rétroaction comporte trois états&nbsp;:</p>
   <ul>
     <li>la question &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo; accompagnée des boutons &laquo;&nbsp;Oui&nbsp;&raquo; et &laquo;&nbsp;Non&nbsp;&raquo;;</li>
@@ -71,7 +71,7 @@ title: "Rétroaction GC"
   <p>L'utilisateur utilise le bouton &laquo;&nbsp;Soumettre&nbsp;&raquo; pour envoyer sa rétroaction. Une fois que l'utilisateur a sélectionné &laquo;&nbsp;Soumettre&nbsp;&raquo;, un message de remerciement accompagné d'une coche verte s'affiche pour indiquer que la rétroaction a bien été envoyée.</p>
   <p><strong>Si un utilisateur sélectionne &laquo;&nbsp;Oui&nbsp;&raquo;</strong>, seul un message de remerciement s'affiche.</p>
   <h3>Spécifications de conception</h3>
-  <p>Lorsqu'il est utilisé, l'outil de rétroaction sur la page remplace la configuration &laquo;&nbsp;Signaler un problème sur la page&nbsp;&raquo;.</p>
+  <p>Lorsqu'il est utilisé, Rétroaction GC remplace la configuration &laquo;&nbsp;Signaler un problème sur la page&nbsp;&raquo;.</p>
   <h4>Encadré gris</h4>
   <ul>
     <li>Classe de l'encadré&nbsp;: well mrgn-bttm-0</li>
@@ -174,7 +174,7 @@ title: "Rétroaction GC"
         <h4>Ajout de l'outil de rétroaction</h4>
         <p>Insérez le code de l'outil de rétroaction à l'endroit où se trouve la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; dans le code HTML de votre page.</p>
         <ul>
-          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Configuration de l'outil de rétroaction sur la page (par défaut)</a></li>
+          <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Configuration de Rétroaction GC (par défaut)</a></li>
           <li><a href="https://wet-boew.github.io/GCWeb/sites/feedback/feedback-docs-fr.html">Rétroaction GC avec lien de contact</a></li>
         </ul>
         <h4>Ajout des valeurs masquées obligatoires</h4>
@@ -276,7 +276,7 @@ title: "Rétroaction GC"
     <p>Il est possible d'afficher une rétroaction et de la télécharger en format CSV ou Excel, à tout moment, au moyen du site Web de la visionneuse de rétroactions.</p>
     <p>La visionneuse de rétroactions est un environnement protégé par un mot de passe disponible pour tous ceux et toutes celles qui participent à la rétroaction sur la page. Communiquez avec le BTN afin d'accéder au site.</p>
     <p>Adresse courriel&nbsp;: <a href="maito:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
-    <p><a href="/retroaction/">Document d'orientation complet sur l'utilisation de l'outil de rétroaction sur la page et l'analyse connexe</a></p>
+    <p><a href="/retroaction/">Document d'orientation complet sur l'utilisation de Rétroaction GC et l'analyse connexe</a></p>
   </section>
 </section>
 <section id="recherche-et-justification">
@@ -284,5 +284,5 @@ title: "Rétroaction GC"
   <h3>Constatations découlant de la recherche</h3>
   <p><a href="https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html">Billet de blogue&nbsp;: Recueillir la rétroaction, trouver les problèmes</a></p>
   <h3>Justification stratégique</h3>
-  <p>La Ligne directrice sur les services et le numérique exige que la <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ligne-directrice-services-numerique.html#ToC2_2">rétroaction des clients</a> fasse partie intégrante de la conception des services et des produits. Celle-ci peut prendre plusieurs formes, y compris au moyen de l'outil de rétroaction sur la page.</p>
+  <p>La Ligne directrice sur les services et le numérique exige que la <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ligne-directrice-services-numerique.html#ToC2_2">rétroaction des clients</a> fasse partie intégrante de la conception des services et des produits. Celle-ci peut prendre plusieurs formes, y compris au moyen de Rétroaction GC.</p>
 </section>

@@ -31,7 +31,7 @@ Nous recommandons d’utiliser l’outil de rétroaction lorsqu’il y a un enga
 * par rapport à des pages spécifiques;
 * pendant une période définie
 
-## Cas d'utilisation de l'outil de rétroaction sur la page
+## Cas d'utilisation de Rétroaction GC
 
 Envisagez d’utiliser l’outil de rétroaction sur la page pour&nbsp;:
 
