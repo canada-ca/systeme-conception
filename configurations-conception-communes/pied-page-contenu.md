@@ -112,7 +112,7 @@ title: 'Pied de page de la zone du contenu '
    <summary class="wb-toggle" data-toggle='{"print":"on"}'>
     Description de l'image : Pied de page de la zone du contenu
    </summary>
-   <p>Sur le côté gauche se trouve la vue initiale de l’outil de rétroaction sur la page. Un petit encadré gris demande «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» et affiche les boutons «&nbsp;Oui&nbsp;» et «&nbsp;Non&nbsp;».</p>
+   <p>Sur le côté gauche se trouve la vue initiale de Rétroaction GC. Un petit encadré gris demande «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» et affiche les boutons «&nbsp;Oui&nbsp;» et «&nbsp;Non&nbsp;».</p>
     <p>Sur la droite se trouve un encadré gris comportant un symbole de partage ainsi que le texte «&nbsp;Partagez cette page&nbsp;».</p>
     <p>Sous l’outil apparaît le texte : «&nbsp;Date de modification : 2023-08-01&nbsp;».</p>
   </details>

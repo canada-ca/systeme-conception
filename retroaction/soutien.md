@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/feedback/support.html
 date: null
 dateModified: 2023-02-28
 description: null
-title: Contacts pour l’outil de rétroaction sur la page
+title: Contacts pour Rétroaction GC
 ---
 
 ## Sur cette page
@@ -22,6 +22,6 @@ Adresse courriel&nbsp;: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Groupe de travail
 
-Le groupe de travail sur l’outil de rétroaction sur la page guide l’orientation de l’outil. Les membres du groupe de travail apportent leur contribution et définissent la stratégie à suivre pour l’outil.
+Le groupe de travail sur Rétroaction GC guide l’orientation de l’outil. Les membres du groupe de travail apportent leur contribution et définissent la stratégie à suivre pour l’outil.
 
 Adresse courriel&nbsp;: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})

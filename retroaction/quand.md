@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/feedback/when.html
 date: null
 dateModified: 2023-11-07
 description: null
-title: Quand utiliser l’outil de rétroaction sur la page
+title: Quand utiliser Rétroaction GC
 ---
 
 <div class="gc-stp-stp">
@@ -18,13 +18,13 @@ title: Quand utiliser l’outil de rétroaction sur la page
 
 ## Sur cette page
 
-* [Quand utiliser l’outil de rétroaction sur la page](#quand-utiliser-loutil-de-rétroaction-sur-la-page)
-* [Cas d’utilisation de l’outil de rétroaction sur la page](#cas-dutilisation-de-loutil-de-rétroaction-sur-la-page)
+* [Quand utiliser Rétroaction GC](#quand-utiliser-loutil-de-rétroaction-sur-la-page)
+* [Cas d’utilisation de Rétroaction GC](#cas-dutilisation-de-loutil-de-rétroaction-sur-la-page)
 * [Attentes et engagement](#attentes-et-engagement)
 * [Comment ne pas utiliser l’outil de rétroaction](#comment-ne-pas-utiliser-loutil-de-rétroaction)
 
 
-## Quand utiliser l’outil de rétroaction sur la page
+## Quand utiliser Rétroaction GC
 
 Nous recommandons d’utiliser l’outil de rétroaction lorsqu’il y a un engagement à lire la rétroaction et à prendre des mesures en fonction de celle-ci&nbsp;:
 
@@ -33,7 +33,7 @@ Nous recommandons d’utiliser l’outil de rétroaction lorsqu’il y a un enga
 
 ## Cas d'utilisation de Rétroaction GC
 
-Envisagez d’utiliser l’outil de rétroaction sur la page pour&nbsp;:
+Envisagez d’utiliser Rétroaction GC pour&nbsp;:
 
 * découvrir des problèmes propres à la page qui modifient votre note sur le sondage sur la réussite des tâches du GC
 * comprendre les problèmes de contenu des pages sur lesquelles vous travaillerez à l’avenir
@@ -50,7 +50,7 @@ Il est important de s’engager à lire et à examiner la rétroaction soumise e
 Dans certains cas, les gens donneront leur avis sur un certain programme ou une certaine politique. Le traitement d’une question de politique dépasse le champ d’action des équipes Web. Il est donc important de communiquer cette rétroaction à des collègues responsables des programmes et des politiques.
 
 ### Reconnaître et gérer les menaces
-Avant de mettre en œuvre l’outil de rétroaction sur la page, veillez à ce que votre organisme dispose d’un processus en place pour gérer les rétroactions menaçantes. Il est possible qu’un processus similaire soit déjà documenté pour les menaces reçues par courriel, ou par le biais des médias sociaux ou des centres d’appel.
+Avant de mettre en œuvre Rétroaction GC, veillez à ce que votre organisme dispose d’un processus en place pour gérer les rétroactions menaçantes. Il est possible qu’un processus similaire soit déjà documenté pour les menaces reçues par courriel, ou par le biais des médias sociaux ou des centres d’appel.
 
 Bien que les menaces soient rares, l’utilisation de boîtes de texte libres présente tout de même un risque. Il est donc important de s’y préparer.
 

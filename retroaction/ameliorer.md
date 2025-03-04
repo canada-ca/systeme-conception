@@ -95,6 +95,6 @@ Comprendre la perception publique d’un programme, d’une initiative politique
     </div>
 
     <h3><a class='stretched-link' href="etude-cas-ingredients.html">Déterminer un manque de contenu</a></h3>
-    <p>Utilisation de l’outil de rétroaction sur la page pour découvrir un manque d’information sur les vaccins.</p>
+    <p>Utilisation de Rétroaction GC pour découvrir un manque d’information sur les vaccins.</p>
 	</div>
 </div>
