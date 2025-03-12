@@ -348,10 +348,7 @@ title: Concevoir le contenu
 
 <p>
  Veillez à ce que votre création soit accessible
- <strong>
-  au fur et à mesure de son développement
- </strong>
- , et non pas après coup.
+ <strong>au fur et à mesure de son développement</strong>, et non pas après coup.
 </p>
 
 <p>
