@@ -8,10 +8,10 @@ breadcrumbs:
 date: null
 dateModified: 2023-11-07
 description: null
-title: Instructions sur l’outil de rétroaction sur la page
+title: Instructions sur Rétroaction GC
 ---
 
-L’outil de rétroaction sur la page est un <strong>outil de recherche</strong> qui peut vous aider à mieux comprendre les problèmes qui empêchent de réussir les tâches sur la page.
+Rétroaction GC est un <strong>outil de recherche</strong> qui peut vous aider à mieux comprendre les problèmes qui empêchent de réussir les tâches sur la page.
 
 <section>
 
@@ -27,7 +27,7 @@ L’outil de rétroaction sur la page est un <strong>outil de recherche</strong>
       </div>
       <div class="col-md-4">
         <section>
-          <h3><a href="quand.html">Quand utiliser l’outil de rétroaction sur la page</a></h3>
+          <h3><a href="quand.html">Quand utiliser Rétroaction GC</a></h3>
           <p>Quand utiliser l’outil, comment ne pas utiliser la rétroaction</p>
         </section>
       </div>
@@ -40,8 +40,8 @@ L’outil de rétroaction sur la page est un <strong>outil de recherche</strong>
     </section>
   </div>
 
-  <h2>Mise en œuvre de l’outil de rétroaction sur la page</h2>
-  <p>Code et conseils de mise en œuvre pour l’utilisation de l’outil de rétroaction sur la page.</p>
+  <h2>Mise en œuvre de Rétroaction GC</h2>
+  <p>Code et conseils de mise en œuvre pour l’utilisation de Rétroaction GC.</p>
   <div class="row">
     <section class="wb-eqht gc-drmt">
       <div class="col-md-4">
@@ -91,7 +91,7 @@ L’outil de rétroaction sur la page est un <strong>outil de recherche</strong>
       <div class="col-md-4">
         <section>
           <h3><a href="soutien.html">Contact</a></h3>
-          <p>Communiquez avec nous pour obtenir de l’aide sur l’outil de rétroaction sur la page ou joignez-vous au groupe de travail</p>
+          <p>Communiquez avec nous pour obtenir de l’aide sur Rétroaction GC ou joignez-vous au groupe de travail</p>
         </section>
       </div>
     </section>
