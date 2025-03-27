@@ -136,7 +136,7 @@ title: "Fil d'Ariane"
 </div>
 
 <h5>Campagnes et promotions</h5>
-<p>Le fil d’Ariane n’est pas exigé pour les campagnes de promotion. Si vous en ajoutez un, il peut renvoyer à l’arborescence thématique, au profil institutionnel ou organisationnel ou encore à la page d’accueil du site Canada.ca.</p>
+<p>Le fil d’Ariane peut renvoyer à l’arborescence thématique, au profil institutionnel ou organisationnel ou encore à la page d’accueil du site Canada.ca.</p>
 
 <h5 class="mrgn-tp-lg">Nouvelles</h5>
 <div class="container">
