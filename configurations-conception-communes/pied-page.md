@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/site-footer.html"
 date: 2019-01-08
-dateModified: 2023-04-06
+dateModified: 2025-03-27
 description: "Le pied de page général (à l’échelle du site) qui se trouve au bas de chaque page. Il comprend la bande principale, une bande contextuelle et une bande sous pied de page. Il s’agit d’un modèle obligatoire avec des éléments facultatifs."
 title: "Pied de page général"
 ---
@@ -269,6 +269,13 @@ title: "Pied de page général"
           <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d'AEM / Service Web Géré (disponible uniquement sur le réseau du gouvernement du Canada)</a></li>
         </ul>
       </details>
+      <details id="0041" open="open">
+        <summary><strong>Système de design GC</strong></summary>
+        <p class="mrgn-tp-lg">Pour le Système de design GC :</p>
+        <ul>
+          <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/pied-de-page/">Conseils pour le composant de pied de page</a></li>
+        </ul>
+      </details>
       <details id="005">
         <summary><strong>SGDC</strong></summary>
         <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC) :</p>
@@ -278,10 +285,11 @@ title: "Pied de page général"
         </ul>
       </details>
       <details id="006">
-        <summary><strong>Drupal WxT</strong></summary>
-        <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
+        <summary><strong>Drupal</strong></summary>
+        <p class="mrgn-tp-lg">Pour Drupal :</p>
         <ul>
-          <li><a href="https://drupalwxt.github.io/">Documentation Drupal WxT (en anglais seulement)</a></li>
+          <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
+          <li><a href="https://www.drupal.org/project/gcds">Drupal : Système de design GC (en anglais seulement)</a></li>
         </ul>
         <p class="mrgn-tp-lg">Mise à jour du pied de page de 2023&nbsp;:</p>
         <ul>
