@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/global-header.html"
 date: 2017-10-05
-dateModified: 2023-06-26
+dateModified: 2025-03-27
 description: "Orientation sur l’utilisation de l’en-tête général sur les pages Canada.ca. L’en-tête général se trouve dans la partie supérieure de chaque page Web du gouvernement du Canada."
 title: "En-tête général"
 ---
@@ -352,6 +352,13 @@ title: "En-tête général"
             <li><a href="https://www.gcpedia.gc.ca/wiki/AEM_GC-specific_Documentation_6.5?setlang=fr&uselang=fr">Documentation d’AEM et des services Web gérés (lien GCpédia – uniquement accessible sur le réseau du gouvernement du Canada)</a></li>
           </ul>
         </details>
+        <details id="0041" open="open">
+          <summary><strong>Système de design GC</strong></summary>
+          <p class="mrgn-tp-lg">Pour le Système de design GC&nbsp;:</p>
+          <ul>
+            <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/en-tete/">Conseils pour le composant d’en-tête</a></li>
+          </ul>
+        </details>
         <details id="005">
           <summary><strong>SGDC</strong></summary>
           <p class="mrgn-tp-lg">Pour la solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
@@ -360,10 +367,11 @@ title: "En-tête général"
           </ul>
         </details>
         <details id="006">
-          <summary><strong>Drupal WxT</strong></summary>
-          <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
+          <summary><strong>Drupal</strong></summary>
+          <p class="mrgn-tp-lg">Pour Drupal&nbsp;:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
+            <li><a href="https://www.drupal.org/project/gcds">Drupal : Système de design GC (en anglais seulement)</a></li>
           </ul>
         </details>
       </div>
