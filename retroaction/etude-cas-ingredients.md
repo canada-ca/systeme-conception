@@ -12,7 +12,7 @@ breadcrumbs:
 date: null
 dateModified: 2023-02-28
 description: null
-title: Étude de cas - déterminer un manque de contenu au moyen de l’outil de rétroaction sur la page
+title: Étude de cas - déterminer un manque de contenu au moyen de Rétroaction GC
 ---
 
 En décembre 2020, lorsque Santé Canada a approuvé le premier vaccin contre la COVID-19, elle a ajouté l’outil de rétroaction au bas des pages de contenu sur les vaccins. La rétroaction a mis en évidence un manque de contenu que les analyses seules n’auraient pas pu déterminer.

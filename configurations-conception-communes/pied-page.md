@@ -15,7 +15,7 @@ title: "Pied de page général"
 </ul>
 <p><strong>Mise à jour de conception en 2022</strong>&nbsp;: Nous avons récemment mis à jour ce modèle dans le cadre d’une nouvelle stratégie de navigation issue du projet de recherche Orientation dans Canada.ca. Pour en savoir plus, consultez la section <a href="#recherches">Recherches et justification</a> de cette page.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/footer-fr-crop.png" class="img-responsive" alt=""> </div>
-<p><a href="pied-page-contenu.html">Consulter le modèle Pied de page de la zone du contenu</a> pour obtenir des conseils sur la manière d'appliquer les composantes Date de modification, Partager cette page, et Signaler un problème ou l'outil de rétroaction sur la page.</p>
+<p><a href="pied-page-contenu.html">Consulter le modèle Pied de page de la zone du contenu</a> pour obtenir des conseils sur la manière d'appliquer les composantes Date de modification, Partager cette page, et Signaler un problème ou Rétroaction GC.</p>
 <section>
   <h2>Sur cette page</h2>
   <ul>
