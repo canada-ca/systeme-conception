@@ -128,7 +128,7 @@ title: Date de modification
           <summary><strong>Système de design GC</strong></summary>
           <p class="mrgn-tp-lg">Pour le Système de design GC&nbsp;:</p>
           <ul>
-            <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/date-de-modification/">Conseils pour le composant de date de modification</a></li>
+            <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/date-de-modification/">Documentation de Système de design GC</a></li>
           </ul>
         </details>
         <details id="005">
@@ -143,7 +143,6 @@ title: Date de modification
           <p class="mrgn-tp-lg">Pour Drupal&nbsp;:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
-            <li><a href="https://www.drupal.org/project/gcds">Drupal : Système de design GC (en anglais seulement)</a></li>
           </ul>
         </details>
       </div>
