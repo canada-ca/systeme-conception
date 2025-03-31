@@ -159,6 +159,7 @@ title: "Fil d'Ariane"
     </details>
   </figure>
 </div>
+<p></p>
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>En-tête général avec fil d’Ariane – petit écran</b></figcaption>
