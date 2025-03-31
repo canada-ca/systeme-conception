@@ -273,7 +273,7 @@ title: "Pied de page général"
         <summary><strong>Système de design GC</strong></summary>
         <p class="mrgn-tp-lg">Pour le Système de design GC :</p>
         <ul>
-          <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/pied-de-page/">Conseils pour le composant de pied de page</a></li>
+          <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/pied-de-page/">Documentation de Système de design GC</a></li>
         </ul>
       </details>
       <details id="005">
@@ -281,7 +281,7 @@ title: "Pied de page général"
         <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC) :</p>
         <ul>
           <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_47/cdts/samples/footer-fr.html">Pied de page complet (les bandes contextuelle, principale, et sous pied de page)</a></li>
-          <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation SGDC documentation</a></li>
+          <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
         </ul>
       </details>
       <details id="006">
@@ -289,7 +289,6 @@ title: "Pied de page général"
         <p class="mrgn-tp-lg">Pour Drupal :</p>
         <ul>
           <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
-          <li><a href="https://www.drupal.org/project/gcds">Drupal : Système de design GC (en anglais seulement)</a></li>
         </ul>
         <p class="mrgn-tp-lg">Mise à jour du pied de page de 2023&nbsp;:</p>
         <ul>
