@@ -154,7 +154,7 @@ title: "Fil d'Ariane"
     <figcaption><b>En-tête général avec fil d’Ariane – grand écran</b></figcaption>
     <img src="../images/01-breadcrumbs-main-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
-      <summary class="wb-toggle small wb-init wb-toggle-inited" data-toggle="{&quot;print&quot;:&quot;on&quot;}" id="wb-auto-4" aria-controls="wb-auto-4">Description de l’image&nbsp;: en-tête général avec fil d’Ariane – grand écran</summary>
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: en-tête général avec fil d’Ariane – grand écran</summary>
       <p class="mrgn-tp-lg">Le fil d’Ariane apparaît sous le bouton de menu sur une ligne horizontale.</p>
     </details>
   </figure>
@@ -164,7 +164,7 @@ title: "Fil d'Ariane"
     <figcaption><b>En-tête général avec fil d’Ariane – petit écran</b></figcaption>
     <img src="../images/01-breadcrumbs-sm-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
-      <summary class="wb-toggle small wb-init wb-toggle-inited" data-toggle="{&quot;print&quot;:&quot;on&quot;}" id="wb-auto-5" aria-controls="wb-auto-5">Description de l’image&nbsp;: en-tête général avec fil d’Ariane – petit écran</summary>
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: en-tête général avec fil d’Ariane – petit écran</summary>
       <p class="mrgn-tp-lg">Le fil d’Ariane apparaît sous le bouton de menu.</p>
     </details>
   </figure>
