@@ -198,7 +198,7 @@ title: "Fil d'Ariane"
           <summary><strong>Système de design GC</strong></summary>
           <p class="mrgn-tp-lg">Pour le Système de design GC :</p>
           <ul>
-            <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/chemin-de-navigation/">Conseils pour le composant de chemin de navigation</a></li>
+            <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/chemin-de-navigation/">Documentation de Système de design GC</a></li>
           </ul>
         </details>
         <details id="005">
@@ -214,7 +214,6 @@ title: "Fil d'Ariane"
           <p class="mrgn-tp-lg">Pour Drupal:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
-            <li><a href="https://www.drupal.org/project/gcds">Drupal : Système de design GC (en anglais seulement)</a></li>
           </ul>
         </details>
       </div>
