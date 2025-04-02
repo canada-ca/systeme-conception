@@ -77,9 +77,9 @@ Si vous recevez un message concernant une menace particulière ou une crise pers
 
 L’outil de rétroaction ne doit pas être utilisé aux fins suivantes&nbsp;:
 
-## Collecte de rétroaction sur les pages Contactez-nous
+### Collecte de rétroaction sur les pages Contactez-nous
 
-### Évitez d’utiliser l’outil de rétroaction GC sur les pages Contactez-nous
+#### Évitez d’utiliser l’outil de rétroaction GC sur les pages Contactez-nous
 
 Les visiteurs peuvent être tentés d'inclure des renseignements personnels identifiables dans l'outil de rétroaction GC lorsqu’il apparaît sur une page Contactez-nous.
 
