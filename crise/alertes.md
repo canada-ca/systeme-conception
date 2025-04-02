@@ -89,7 +89,7 @@ Le chemin d’accès à cette page centrale doit mener à la page principale d�
 
 <h2 id="examples">Exemples et code</h2>
 
-<img class="" src="" alt="">
+<img class="img-responsive" src="../images/travel-to-canada-covid-19-fr.png" alt="">
 
 <h2>Derniers changements</h2>
 
@@ -116,4 +116,3 @@ Le chemin d’accès à cette page centrale doit mener à la page principale d�
    </dd>
   </dl>
 </section>
-
