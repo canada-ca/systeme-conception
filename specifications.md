@@ -16,7 +16,6 @@ breadcrumbs: [{
         ]
 ---
 
-
 <p>
  La conception de Canada.ca contribue à offrir une expérience Web harmonisée et digne de confiance aux personnes accédant aux services numériques fédéraux.
 </p>
@@ -98,27 +97,29 @@ breadcrumbs: [{
       </p>
      </section>
     </div>
-   <div class="col-md-4">
-     <section>
-      <h3 class="h5">
-       <a href="./a-propos/derniers-changements.html">
-        Derniers changements apportés à la conception de Canada.ca
-       </a>
-      </h3>
-      <p>
-       Derniers changements apportés à la conception
-      </p>
-     </section>
+    <div class="col-md-4">
+      <section>
+        <h3 class="h5">
+        <a href="./a-propos/derniers-changements.html">
+          Derniers changements apportés à la conception de Canada.ca
+        </a>
+        </h3>
+        <p>
+        Derniers changements apportés à la conception
+        </p>
+      </section>
+    </div>
+    <div class="col-md-4">
+      <section>
+        <h3 class="h5">
+        <a href="https://systeme-design.alpha.canada.ca/fr/"><span class="label label-info">ALPHA</span> Système de design GC</a>
+        </h3>
+        <p>
+        Il s’agit d’une nouvelle version du système de conception. Vous pouvez l’utiliser comme point de départ pour un site Web ou une application.
+        </p>
+      </section>
     </div>
 </section>
 </div>
-<div class="clearfix"></div>
-<section>
-	<div class="row">
-    		<div class="col-md-8">
-    <h2>Travaux en cours</h2>
-			<h3 class="h5"><a href="https://systeme-design.alpha.canada.ca/fr/"><span class="label label-info">ALPHA</span> Système de design GC</a></h3>
-			<p>Il s’agit d’une nouvelle version du système de conception. Vous pouvez l’utiliser comme point de départ pour un site Web ou une application.</p>
-		</div>
-    </div>
 </section>
+<div class="clearfix"></div>
