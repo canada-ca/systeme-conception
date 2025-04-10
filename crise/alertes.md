@@ -47,6 +47,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <h3>Quoi inclure dans les alertes</h3>
 
 <p>Le contenu de l’alerte doit :</p>
+
 <ul>
 <li>être facile à comprendre</li>  
 <li>être court (les alertes longues poussent le contenu vers le bas pour les utilisateurs mobiles)</li>  
@@ -55,6 +56,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <li>utiliser le temps de verbe approprié pour refléter le moment où le changement a lieu</li>  
 <li>ne faire appel à des liens que s’il est nécessaire — un seul, le cas échéant</li>
 </ul>
+
 <h3>Limiter l’utilisation des alertes</h3>
 
 <p>Sachez que la fatigue liée aux alertes réduit leur efficacité avec le temps. Plus les gens voient des alertes et des messages d’avertissement, moins ils y sont réceptifs. Pour éviter cela, suivez les directives suivantes :</p>
@@ -65,12 +67,14 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <li>éviter d’utiliser des alertes pour la mise en page du contenu habituel (pour souligner ou mettre en évidence)</li>  
 <li>supprimer les alertes dès que le contenu du programme ou du service a été mis à jour pour refléter ce qui a été annoncé</li>
 </ul>
+
 <h3>Quelle alerte utiliser</h3>
 
 <p>Suivez les instructions de mise en œuvre des alertes contextuelles pour choisir le type d’alerte approprié à votre contenu :</p> 
 <ul>
-<li><a href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html#how">Alertes contextuelles — Canada.ca</li>
+<li><a href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html#how">Alertes contextuelles — Canada.ca</a></li>
 </ul>
+
 <h2 id="#alertes-répétées">Alertes répétées sur plusieurs pages</h2>
 
 <p>Si vous devez ajouter la même alerte sur de nombreuses pages différentes, il peut être utile de créer une page unique à laquelle toutes ces alertes peuvent renvoyer.</p>
