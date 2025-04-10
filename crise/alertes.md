@@ -137,7 +137,6 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 </figure>
 </div>
 </div>
-</section>
 
 <h2>Derniers changements</h2>
 
