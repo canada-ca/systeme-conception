@@ -10,12 +10,13 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 
 <h2>Sur cette page</h2>
 <ul>
-<li><a href="#synchronisation">Assurer la synchronisation des produits de nouvelles et du contenu Web</a>
-<li><a href="#alertes-normalisées">Alertes normalisées pour le contenu des nouvelles</a>   
-<li><a href="#alerts">Comment ajouter des alertes temporaires sur les pages de contenu concernées</a>  
-<li><a href="#alertes-répétées">Alertes répétées sur plusieurs pages</a>  
-<li><a href="#examples">Exemples et code</a>
+<li><a href="#synchronisation">Assurer la synchronisation des produits de nouvelles et du contenu Web</a></li>
+<li><a href="#alertes-normalisees">Alertes normalisées pour le contenu des nouvelles</a></li>
+<li><a href="#alerts">Comment ajouter des alertes temporaires sur les pages de contenu concernées</a></li>  
+<li><a href="#alertes-repetees">Alertes répétées sur plusieurs pages</a></li>  
+<li><a href="#examples">Exemples et code</a></li>
 </ul>
+
 <h2 id="#synchronisation">Assurer la synchronisation des produits de nouvelles et du contenu Web</h2>
 
 <p>Idéalement, les produits de nouvelles et les mises à jour de contenu Web connexes sont publiés <strong>en même temps</strong>. Malheureusement, ce n’est pas toujours réaliste ni possible. Parfois, les nouvelles doivent être publiées avant d’autres mises à jour du contenu Web, ce qui peut causer des problèmes pour les personnes accédant à nos pages.</p>
