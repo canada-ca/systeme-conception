@@ -75,7 +75,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <li><a href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html#how">Alertes contextuelles — Canada.ca</a></li>
 </ul>
 
-<h2 id="#alertes-répétées">Alertes répétées sur plusieurs pages</h2>
+<h2 id="#alertes-repetees">Alertes répétées sur plusieurs pages</h2>
 
 <p>Si vous devez ajouter la même alerte sur de nombreuses pages différentes, il peut être utile de créer une page unique à laquelle toutes ces alertes peuvent renvoyer.</p>
 
