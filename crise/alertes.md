@@ -14,14 +14,14 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <li><a href="#alertes-normalisees">Alertes normalisées pour le contenu des nouvelles</a></li>
 <li><a href="#alerts">Comment ajouter des alertes temporaires sur les pages de contenu concernées</a></li>  
 <li><a href="#alertes-repetees">Alertes répétées sur plusieurs pages</a></li>  
-<li><a href="#examples">Exemples et code</a></li>
+<li><a href="#examples">Exemples</a></li>
 </ul>
 
-<h2 id="#synchronisation">Assurer la synchronisation des produits de nouvelles et du contenu Web</h2>
+<h2 id="synchronisation">Assurer la synchronisation des produits de nouvelles et du contenu Web</h2>
 
 <p>Idéalement, les produits de nouvelles et les mises à jour de contenu Web connexes sont publiés <strong>en même temps</strong>. Malheureusement, ce n’est pas toujours réaliste ni possible. Parfois, les nouvelles doivent être publiées avant d’autres mises à jour du contenu Web, ce qui peut causer des problèmes pour les personnes accédant à nos pages.</p>
 
-<h2 id="#alertes-normalisées">Alertes normalisées pour le contenu des nouvelles</h2>
+<h2 id="alertes-normalisées">Alertes normalisées pour le contenu des nouvelles</h2>
 
 <p>Dans une situation évolutive, il est possible d’ajouter des alertes à un produit de nouvelles pour informer le lectorat que le contenu pourrait ne plus refléter l’information la plus récente. Ces alertes doivent inclure un lien vers une page centrale présentant les dernières informations.</p>
 
@@ -75,7 +75,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <li><a href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html#how">Alertes contextuelles — Canada.ca</a></li>
 </ul>
 
-<h2 id="#alertes-repetees">Alertes répétées sur plusieurs pages</h2>
+<h2 id="alertes-repetees">Alertes répétées sur plusieurs pages</h2>
 
 <p>Si vous devez ajouter la même alerte sur de nombreuses pages différentes, il peut être utile de créer une page unique à laquelle toutes ces alertes peuvent renvoyer.</p>
 
@@ -96,7 +96,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <li>encourage une approche coordonnée au sein de chaque ministère et dans l’ensemble du gouvernement du Canada</li>  
 <li>réduit le travail requis pour maintenir diverses alertes et mises à jour connexes</li>
 </ul>
-<h2 id="examples">Exemples et code</h2>
+<h2 id="examples">Exemples</h2>
 
 <div class="row">
     <div class="mrgn-tp-lg col-md-8">
@@ -110,17 +110,6 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
     <p><b>À compter du 1er avril 2022</b>, les tests préalables à l’entrée ne seront plus exigés pour les voyageurs entièrement vaccinés qui entrent au Canada par voie terrestre, aérienne ou maritime. Entre-temps, veuillez respecter les exigences relatives aux tests de dépistage avant l’entrée. Vous devez continuer d’utiliser ArriveCAN avant et après le 1er avril. </p>
     <p>Communiqué de presse</p>
     </details></figcaption>
-</figure>
-</div>
-
-<div class="mrgn-tp-lg col-md-8">
-<figure class="gc-complex-img" role="group">
-	<img class="img-responsive" alt="Une longue description peut être trouvée après l'image." src="../images/alerte-img2.png" />
-	<figcaption><details>
-			<summary>À faire : date claire, temps de verbe exact, répété dans le contexte de la page</summary>
-			<p>Alerte répétée dans la section pertinente de la page avec une date d'entrée en vigueur claire :</p>
-    <p><b>À compter du 1er avril 2022</b>, les tests préalables à l’entrée ne seront plus exigés pour les voyageurs entièrement vaccinés qui entrent au Canada par voie terrestre, aérienne ou maritime. Entre-temps, veuillez respecter les exigences relatives aux tests de dépistage avant l’éntrée. Vous devez continuer d’utiliser ArriveCAN avant et après le 1er avril.</p>
-		</details></figcaption>
 </figure>
 </div>
 
