@@ -71,8 +71,8 @@ title: "Lien pour changer de langue"
 <ul>
   <li>Type&nbsp;: lien</li>
   <li>Position&nbsp;: coin supérieur droit</li>
-  <li>Police&nbsp;: Lato</li>
-  <li>Taille&nbsp;: 1,2 em</li>
+  <li>Police&nbsp;: Noto Sans</li>
+  <li>Taille&nbsp;: 16 px (ordinateur de bureau), 18 px (mobile)</li>
   <li>Couleur du texte&nbsp;:
     <ul>
       <li>lien par défaut&nbsp;: #284162</li>
