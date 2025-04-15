@@ -72,7 +72,7 @@ title: "Ministre ou chef d’institution"
     <li> Titre du chef d’institution
       <ul>
         <li><a href="/styles/couleurs.html">Couleurs standards des liens de Canada.ca</a></li>
-        <li><a href="https://conception.canada.ca/styles/typographie.html">Famille et taille de police standards de Canada.ca</a>. La classe est petite et constitue 87 % de la taille de la police (celle du corps du texte est de 20 px)</li>
+        <li><a href="https://conception.canada.ca/styles/typographie.html">Famille et taille de police standards de Canada.ca</a>. La classe est petite et constitue 87 % de la taille du corps de texte</li>
       </ul>
     </li>
     <li>Liens facultatifs
