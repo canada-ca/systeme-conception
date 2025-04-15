@@ -64,7 +64,7 @@ title: "Chaînes de médias sociaux"
     <li>Spécifications de conception de la fenêtre contextuelle modale
       <ul>
         <li>Couleur de fond de l’en-tête modal&nbsp;: #2e5274</li>
-        <li>Titre&nbsp;: H2, Lato, le style de la taille de police est de 1.15 em</li>
+        <li>Titre&nbsp;: Lato, H2, 27px (H2 stylisé en taille H4)</li>
         <li>Le style du bouton est celui d’un bouton principal.</li>
       </ul>
     </li>
