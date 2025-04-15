@@ -77,7 +77,7 @@ title: Services et renseignements
         Titres&nbsp;:
         <ul>
             <li>Couleur&nbsp;: <a href="/styles/couleurs.html">Couleurs standard</a> pour les liens</li>
-            <li>Taille de la police&nbsp;: Canada.ca H3 (1em)</li>
+            <li>Taille de la police&nbsp;: 24 px (H3 stylisé en taille H5)</li>
             <li>Famille de police&nbsp;: Lato Sans</li>
         </ul>
     </li>
@@ -86,8 +86,7 @@ title: Services et renseignements
         <li>Couleur&nbsp;: <a href="/styles/couleurs.html">Couleurs standard</a> pour le texte</li>
         <li>Taille de la police&nbsp;:
           <ul>
-            <li>17&nbsp;px (ordinateur de bureau)</li>
-            <li>19&nbsp;px (mobile)</li>
+            <li>18 px (ordinateur de bureau et mobile)</li>
           </ul>
         </li>
         <li>Famille de police&nbsp;: Noto Sans</li>
