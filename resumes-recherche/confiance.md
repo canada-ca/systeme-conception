@@ -94,7 +94,7 @@ title: "Éléments de conception de Canada.ca"
       <dl>
         <dt>Note de bas de page 1</dt>
         <dd id="fn1">
-          <p><a href="https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/mois-prevention-fraude-2023-pertes-liees-a-fraude-atteignent-nouveau-record">Mois de la prévention de la fraude 2023 : Les pertes liées à la fraude atteignent un nouveau record historique au Canada | Gendarmerie royale du Canada (rcmp-grc.gc.ca)</a></p>
+          <p><a href="https://grc.ca/fr/nouvelles/2023/02/mois-prevention-fraude-2023-pertes-liees-fraude-atteignent-nouveau-record-historique-au-canada">Mois de la prévention de la fraude 2023 : Les pertes liées à la fraude atteignent un nouveau record historique au Canada | Gendarmerie royale du Canada (rcmp-grc.gc.ca)</a></p>
           <p class="fn-rtn"><a href="#fn1"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
         </dd>
       </dl>
