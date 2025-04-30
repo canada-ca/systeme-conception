@@ -7,7 +7,6 @@ section-title: "Système de conception de Canada.ca"
 title: "Cases à cocher et boutons radio"
 ---
 
-
 <div class="row">
  <div class="col-md-12 pull-left">
   <ul class="list-inline small mrgn-bttm-sm" id="list-inline-desktop-only" style="line-height:1.65em">
@@ -436,21 +435,18 @@ title: "Cases à cocher et boutons radio"
        Courriel
       </label>
       <input class="form-control" id="exampleInputEmail2" placeholder="Entrez votre courriel" type="email">
-      </input>
      </div>
      <div class="form-group">
       <label class="wb-inv" for="exampleInputPassword2">
        Mot de passe
       </label>
       <input class="form-control" id="exampleInputPassword2" placeholder="Mot de passe" type="password">
-      </input>
      </div>
      <div class="checkbox provisional gc-chckbxrdio">
       <input id="remember2" type="checkbox">
        <label for="remember2">
         Se souvenir de moi
        </label>
-      </input>
      </div>
      <button class="btn btn-default" type="submit">
       Se connecter

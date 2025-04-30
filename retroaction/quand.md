@@ -23,7 +23,6 @@ title: Quand utiliser Rétroaction GC
 * [Attentes et engagement](#attentes-et-engagement)
 * [Comment ne pas utiliser l’outil de rétroaction](#comment-ne-pas-utiliser-loutil-de-rétroaction)
 
-
 ## Quand utiliser Rétroaction GC
 
 Nous recommandons d’utiliser l’outil de rétroaction lorsqu’il y a un engagement à lire la rétroaction et à prendre des mesures en fonction de celle-ci&nbsp;:
@@ -40,8 +39,6 @@ Envisagez d’utiliser Rétroaction GC pour&nbsp;:
 * déterminer si les nouvelles pages ou existantes répondent aux besoins des utilisateurs
 * déterminer les problèmes émergents
 * assurer le suivi des améliorations de la page après leur mise en ligne
-
-
 
 ## Attentes et engagement
 
@@ -80,6 +77,14 @@ Si vous recevez un message concernant une menace particulière ou une crise pers
 
 L’outil de rétroaction ne doit pas être utilisé aux fins suivantes&nbsp;:
 
+### Collecte de rétroaction sur les pages Contactez-nous
+
+#### Évitez d’utiliser l’outil de rétroaction GC sur les pages Contactez-nous
+
+Les visiteurs peuvent être tentés d'inclure des renseignements personnels identifiables dans l'outil de rétroaction GC lorsqu’il apparaît sur une page Contactez-nous.
+
+Les pages Contactez-nous sont destinées à la communication directe, et le formulaire de rétroaction peut donner une fausse impression qu’ils recevront un service.
+
 ### Évaluer le succès de la page en fonction des boutons oui/non
 
 L’outil de rétroaction tend surtout à recueillir des réponses «&nbsp;non&nbsp;» pour plusieurs raisons&nbsp;:
@@ -104,15 +109,12 @@ La surveillance des tendances d’une semaine à l’autre est une activité int
 
 Nous ne recommandons pas de garder l’outil de rétroaction sur une page continuellement. Cette approche vient réitérer que l’outil est destiné à la recherche (plutôt qu’à la surveillance) et pour assurer la meilleure utilisation de votre temps.
 
-
 ### Espaces sécurisés
 
 Nous ne recommandons pas l'utilisation de l'outil dans les espaces sécurisés. Dans ces espaces, il est préférable de s'assurer que les utilisateurs ont un accès clair aux canaux d'assistance directe.
 
 ### Contenu sensibles
 Si vous utilisez l’outil pour des pages traitant de sujets sensibles (comme le suicide), veillez à assurer fréquemment un suivi de la rétroaction et à agir lorsque nécessaire. L’outil devrait être ajouté pour de courts intervalles et retiré lorsque des modifications sont en cours.
-
-
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">

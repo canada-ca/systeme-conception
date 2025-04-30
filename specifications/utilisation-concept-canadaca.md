@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/specifications/usage-canadaca-design.html"
 date: 2017-10-05
-dateModified: 2024-08-26
+dateModified: 2025-04-22
 description: "Les exigences énumérées dans ce document s’appliquent aux ministères et aux autres parties de l’administration publique établie comme l’établissent les annexes I, I.1 et II de la Loi sur la gestion finances. Par conséquent, les institutions de la portée doivent appliquer les exigences en matière de conception de Canada.ca pour tous les sites Web ou toutes les services numériques."
 layout: default
 section-title: "Spécifications de Canada.ca"
@@ -21,8 +21,8 @@ breadcrumbs: [{
         ]
 ---
 
-<p> Les spécifications de Canada.ca sont mentionnées à l’« Annexe D : Procédure obligatoire relative à l’utilisation des médias sociaux et aux communications sur le Web » de la&nbsp;<a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682"><cite>Directive sur la gestion des communications</cite></a>. Ses exigences s’appliquent aux ministères et aux autres parties de l’administration publique qui se trouvent aux annexes&nbsp;<a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-19.html">I</a>,&nbsp;<a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-20.html">I.1</a>&nbsp;et&nbsp;<a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-21.html">II</a>&nbsp;de la <cite>Loi sur la gestion des finances publiques</cite>.</p>
-<p><a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/liste-institutions.html">Ces institutions</a> doivent mettre en œuvre les exigences en matière de conception de Canada.ca pour tous leurs sites Web ou tous les services numériques accessibles au public, sans égards à  la technologie, au nom de domaine (à la fois canada.ca et gc.ca) ou à la plateforme de publication utilisée pour les publier.</p>
+<p>Les spécifications de Canada.ca sont mentionnées à l’«&nbsp;Annexe D : Norme sur les sites Web externes et les applications mobiles&nbsp;» de la <span style="font-style: italic;"><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications et de l’image de marque</a></span>. Ses exigences s’appliquent aux ministères et aux autres parties de l’administration publique qui se trouvent aux annexes <a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-19.html">I</a>, <a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-20.html">I.1</a> et <a href="https://laws-lois.justice.gc.ca/fra/lois/f-11/page-21.html">II</a> de la Loi sur la gestion des finances publiques.</p>
+<p><a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/liste-institutions.html">Ces institutions</a> doivent mettre en œuvre les exigences en matière de conception de Canada.ca pour tous leurs sites Web ou tous les services numériques accessibles au public, sans égards à la technologie, au nom de domaine (à la fois canada.ca et gc.ca) ou à la plateforme de publication utilisée pour les publier.</p>
 <h2>Ce qui ne fait pas partie de Canada.ca</h2>
 <p> L’en-tête et le pied de page de Canada.ca ne peuvent pas être utilisés ou reproduits dans les situations suivantes&nbsp;:</p>
 <ul>

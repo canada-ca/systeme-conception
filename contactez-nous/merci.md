@@ -19,5 +19,3 @@ Nous avons bien reçu votre message. Si vous avez fourni une adresse courriel, u
 Nous vous remercions de nous avoir transmis vos commentaires et vos questions.
 
 Retourner à la [ page que vous visionniez précédemment ]( / ){: #backToReferrer}
-
-[Inscrivez-vous à la liste d'envoi du Bureau de la transformation numérique](https://blogue.canada.ca/pages/inscrire.html)
