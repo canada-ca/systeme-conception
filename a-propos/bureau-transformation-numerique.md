@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/digital-transformation-office.html"
 date: 2018-08-03
-dateModified:  22023-05-25
+dateModified:  2025-04-30
 description: "Des informations sur l’équipe qui gère le système de conception de Canada.ca et en supervise le contenu."
 layout: without-h1
 title: "Bureau de la transformation numérique"
