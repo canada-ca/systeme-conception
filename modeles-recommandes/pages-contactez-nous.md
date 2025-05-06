@@ -1370,15 +1370,11 @@ title: "Pages de\_coordonnées - Modèle de Canada.ca"
   </h2>
   <ul>
    <li>
-    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-fr.html">
-     Exemple concret en français
-    </a>
+    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-fr.html">Exemple concret en français</a>
     (sur GitHub)
    </li>
    <li>
-    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-en.html">
-     Exemple concret en anglais
-    </a>
+    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-en.html">Exemple concret en anglais</a>
     (sur GitHub)
    </li>
   </ul>
