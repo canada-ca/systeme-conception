@@ -6,9 +6,7 @@ description: null
 title: "Pages de\_coordonnées - Modèle de Canada.ca"
 ---
 
-
 <div>
-
  <p>
   Il existe de nombreuses façons de communiquer avec le gouvernement du Canada. Voici les scénarios typiques :
  </p>
@@ -1372,13 +1370,13 @@ title: "Pages de\_coordonnées - Modèle de Canada.ca"
   </h2>
   <ul>
    <li>
-    <a href="http://wet-boew.github.io/themes-dist/GCWeb/institution-contact-fr.html">
+    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-fr.html">
      Exemple concret en français
     </a>
     (sur GitHub)
    </li>
    <li>
-    <a href="http://wet-boew.github.io/themes-dist/GCWeb/institution-contact-en.html">
+    <a href="https://wet-boew.github.io/GCWeb/templates/institutional/institution-contact-en.html">
      Exemple concret en anglais
     </a>
     (sur GitHub)
@@ -1498,5 +1496,3 @@ title: "Pages de\_coordonnées - Modèle de Canada.ca"
   </ul>
  </section>
 </div>
-
-
