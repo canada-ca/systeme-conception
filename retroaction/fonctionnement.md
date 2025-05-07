@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/feedback/about-page-feedback.html
 date: null
 dateModified: 2024-04-17
 description: null
-title: Comment fonctionne l’outil de rétroaction sur la page
+title: Comment fonctionne Rétroaction GC
 ---
 
 <div class="gc-stp-stp">
