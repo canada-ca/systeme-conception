@@ -34,9 +34,9 @@ title: Typographie - Style de Canada.ca
 <p>Spécifications de la barre rouge (auparavant connue sous le nom de gc-thickline)&nbsp;:</p>
 <ul>
   <li>alignement&nbsp;: gauche</li>
-  <li>couleur&nbsp;: #AF3C43</li>
-  <li>positionnement&nbsp;: 8 px ou 0,4 em sous l'en-tête H1</li>
-  <li>taille&nbsp;: 71 px par 3,6 px ou 3,55 em par 0,18 em</li>
+  <li>couleur&nbsp;: #A62A1</li>
+  <li>positionnement&nbsp;: .2em (7.6&nbsp;px) sous l'en-tête H1</li>
+  <li>taille&nbsp;: 72&nbsp;px de large 6&nbsp;px d'épaisseur</li>
 </ul>
 <h2>Longueur de la ligne</h2>
 <p>Limitez la longueur des lignes de texte à 65 caractères. Cela garantit qu'aucune ligne ne dépasse une longueur de lecture confortable.</p>
