@@ -102,7 +102,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
     <div class="mrgn-tp-lg col-md-8">
 
 <figure class="gc-complex-img" role="group">
-    <img class="img-responsive" alt="Une longue description peut être trouvée après l'image." src="../images/alerte-img1.png" />
+    <img class="img-responsive" alt="Une longue description peut être trouvée après l'image." src="../images/alerte-img1.png" >
     <figcaption>
     <details>
             <summary>À faire : date claire, temps de verbe exact, répété dans le contexte de la page</summary>
@@ -115,7 +115,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 
 <div class="mrgn-tp-lg col-md-8">
 <figure class="gc-complex-img" role="group">
-	<img class="img-responsive" alt="Une longue description peut être trouvée après l'image." src="../images/alerte-img3.png" />
+	<img class="img-responsive" alt="Une longue description peut être trouvée après l'image." src="../images/alerte-img3.png" >
 	<figcaption><details>
 			<summary>À ne pas faire : La date critique était manquante et les verbes sont au présent, il a donc semblé que les règles étaient déjà en vigueur (publiées le 15 février, les règles n’ont pas changé avant le 28 février)</summary>
 			<p>Exemple de texte d'alerte trop vague qui a provoqué un malentendu en utilisant le mauvais temps de verbe :</p>
