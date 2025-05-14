@@ -21,7 +21,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 
 <p>Idéalement, les produits de nouvelles et les mises à jour de contenu Web connexes sont publiés <strong>en même temps</strong>. Malheureusement, ce n’est pas toujours réaliste ni possible. Parfois, les nouvelles doivent être publiées avant d’autres mises à jour du contenu Web, ce qui peut causer des problèmes pour les personnes accédant à nos pages.</p>
 
-<h2 id="alertes-normalisées">Alertes normalisées pour le contenu des nouvelles</h2>
+<h2 id="alertes-normalisees">Alertes normalisées pour le contenu des nouvelles</h2>
 
 <p>Dans une situation évolutive, il est possible d’ajouter des alertes à un produit de nouvelles pour informer le lectorat que le contenu pourrait ne plus refléter l’information la plus récente. Ces alertes doivent inclure un lien vers une page centrale présentant les dernières informations.</p>
 
