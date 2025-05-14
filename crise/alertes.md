@@ -40,7 +40,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 
 <p>Il s’agit d’une mesure temporaire qui peut vous donner un peu de temps pour effectuer des mises à jour détaillées sur la page de contenu. Vous devriez tout de même prévoir d’incorporer les nouveaux renseignements à la page de contenu dès que possible, puis de supprimer l’alerte.</p>
 
-<h3>Placer les alertes en contexte, pas seulement en haut de la page.</h3>
+<h3>Placer les alertes en contexte, pas seulement en haut de la page</h3>
 
 <p>Les lecteurs plus rapides risquent de manquer une alerte placée en haut de la page. Placer une alerte dans la sous-section pertinente d’une page, le cas échéant, permet d’attirer l’attention sur un changement important au moment où il est le plus logique pour le lecteur. Cela maximise l’incidence de l’alerte.</p>
 
