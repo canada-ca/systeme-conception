@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/language-toggle.html"
 date: 2017-10-05
-dateModified: 2025-03-28
+dateModified: 2025-05-15
 description: "Orientation sur l’utilisation de la fonction de changement de langue sur le site Canada.ca Le contenu du gouvernement du Canada est offert dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’en-tête général du site, donne à la personne accès à la page correspondante dans l’autre langue officielle."
 title: "Lien pour changer de langue"
 ---
@@ -71,8 +71,8 @@ title: "Lien pour changer de langue"
 <ul>
   <li>Type&nbsp;: lien</li>
   <li>Position&nbsp;: coin supérieur droit</li>
-  <li>Police&nbsp;: Lato</li>
-  <li>Taille&nbsp;: 1,2 em</li>
+  <li>Police&nbsp;: Noto Sans</li>
+  <li>Taille&nbsp;: 16&nbsp;px (ordinateur de bureau), 18&nbsp;px (mobile)</li>
   <li>Couleur du texte&nbsp;:
     <ul>
       <li>lien par défaut&nbsp;: #284162</li>

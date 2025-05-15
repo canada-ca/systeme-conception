@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/styles/typography.html
 date: 2019-10-01
-dateModified: 2024-02-19
+dateModified: 2025-05-15
 description: null
 title: Typographie - Style de Canada.ca
 ---
@@ -11,32 +11,32 @@ title: Typographie - Style de Canada.ca
 <p>Les polices doivent être harmonisées dans tout le site Canada.ca, et elles doivent être facilement lisibles sur tous les appareils. Utilisez une combinaison de Lato pour les en-têtes et de Noto sans pour le corps du texte.</p>
 <h2>Ordinateurs de bureau et tablettes</h2>
 <ul>
-  <li>H1&nbsp;: Lato, 38px, caractère gras</li>
-  <li>H2&nbsp;: Lato, 36px, caractère gras</li>
-  <li>H3&nbsp;: Lato, 24px, caractère gras</li>
-  <li>H4&nbsp;: Lato, 22px, caractère gras</li>
-  <li>H5&nbsp;: Lato, 20px, caractère gras</li>
-  <li>H6&nbsp;: Lato, 19px, texte régulier</li>
+  <li>H1&nbsp;: Lato, 41px, caractère gras</li>
+  <li>H2&nbsp;: Lato, 39px, caractère gras</li>
+  <li>H3&nbsp;: Lato, 29px, caractère gras</li>
+  <li>H4&nbsp;: Lato, 27px, caractère gras</li>
+  <li>H5&nbsp;: Lato, 24px, caractère gras</li>
+  <li>H6&nbsp;: Lato, 22px, caractère gras</li>
   <li>Corps du texte&nbsp;: Noto sans, 20px, texte régulier</li>
 </ul>
 <h2>Petits appareils</h2>
 <ul>
-  <li>H1&nbsp;: Lato, 34px, caractère gras</li>
-  <li>H2&nbsp;: Lato, 32px, caractère gras</li>
-  <li>H3&nbsp;: Lato, 24px, caractère gras</li>
+  <li>H1&nbsp;: Lato, 37px, caractère gras</li>
+  <li>H2&nbsp;: Lato, 35px, caractère gras</li>
+  <li>H3&nbsp;: Lato, 26px, caractère gras</li>
   <li>H4&nbsp;: Lato, 22px, caractère gras</li>
   <li>H5&nbsp;: Lato, 20px, caractère gras</li>
-  <li>H6&nbsp;: Lato, 19px, texte régulier</li>
-  <li>Corps du texte&nbsp;: Noto sans, 20px, texte régulier</li>
+  <li>H6&nbsp;: Lato, 18px, caractère gras</li>
+  <li>Corps du texte&nbsp;: Noto sans, 18px, texte régulier</li>
 </ul>
 <h2>Titre principal de la page</h2>
 <p>Lorsque l'en-tête H1 est le titre principal d'une page, il est souligné d'une barre rouge conformément à l'image de marque de Canada.ca.</p>
 <p>Spécifications de la barre rouge (auparavant connue sous le nom de gc-thickline)&nbsp;:</p>
 <ul>
   <li>alignement&nbsp;: gauche</li>
-  <li>couleur&nbsp;: #AF3C43</li>
-  <li>positionnement&nbsp;: 8 px ou 0,4 em sous l'en-tête H1 (le corps du texte est réglé à 20 px)</li>
-  <li>taille&nbsp;: 71 px par 3,6 px ou 3,55 em par 0,18 em (le corps du texte est réglé à 20 px)</li>
+  <li>couleur&nbsp;: #A62A1</li>
+  <li>positionnement&nbsp;: .2em (7.6&nbsp;px) sous l'en-tête H1</li>
+  <li>taille&nbsp;: 72&nbsp;px de large 6&nbsp;px d'épaisseur</li>
 </ul>
 <h2>Longueur de la ligne</h2>
 <p>Limitez la longueur des lignes de texte à 65 caractères. Cela garantit qu'aucune ligne ne dépasse une longueur de lecture confortable.</p>
