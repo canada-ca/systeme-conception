@@ -65,7 +65,7 @@ title: "Bande en demande"
         <li>Épaisseur de la police&nbsp;: gras</li>
         <li>Titre: H2, Lato&nbsp;: 24&nbsp;px (ordinateur de bureau), 22&nbsp;px (mobile)</li>
         <li>Hauteur de ligne&nbsp;: 1.8&nbsp;em</li>
-        <li>Taille du texte&nbsp;: 18&nbsp;px (ordinateur de bureau), 16&nbsp;px (mobile)</li>
+        <li>Taille du texte&nbsp;: 18&nbsp;px (ordinateur de bureau et mobile)</li>
       </ul>
     </li>
   </ul>
