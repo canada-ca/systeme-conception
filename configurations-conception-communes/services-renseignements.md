@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/services-information.html
 date: "2018-12-19"
-dateModified: "2024-04-03"
+dateModified: "2025-05-15"
 description: "Orientation sur l’utilisation de la configuration services et renseignements sur le site Canada.ca."
 title: Services et renseignements
 ---

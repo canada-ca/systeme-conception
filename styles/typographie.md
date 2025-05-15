@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/styles/typography.html
 date: 2019-10-01
-dateModified: 2024-02-19
+dateModified: 2025-05-15
 description: null
 title: Typographie - Style de Canada.ca
 ---

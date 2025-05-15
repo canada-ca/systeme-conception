@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/most-requested.html
 date: "2018-12-19"
-dateModified: "2024-04-03"
+dateModified: "2025-05-15"
 description: "Orientation sur l’utilisation du modèle en demande sur Canada.ca. Le modèle en demande fournit des liens vers les principales tâches sur les pages de navigation."
 title: "Bande en demande"
 ---
