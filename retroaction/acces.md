@@ -17,7 +17,7 @@ title: Comment accéder à la rétroaction sur la page
   </div>
 </div>
 
-L’outil de rétroaction sur la page en est encore à la phase pilote. Cela signifie que vous pouvez utiliser l’outil, mais sachez que son apparence ou son codage pourrait changer ultérieurement.
+Rétroaction GC en est encore à la phase pilote. Cela signifie que vous pouvez utiliser l’outil, mais sachez que son apparence ou son codage pourrait changer ultérieurement.
 
 ## Sur cette page
 * [Où la rétroaction est stockée](#où-la-rétroaction-est-stockée)
@@ -53,7 +53,7 @@ Le visualiseur de rétroaction comprend des filtres qui vous permettent d’acc�
 
 ## Durée de conservation de la rétroaction
 
-Le visionneur de rétroaction ne conserve les commentaires provenant de l’outil de rétroaction sur la page que pour six mois.
+Le visionneur de rétroaction ne conserve les commentaires provenant de Rétroaction GC que pour six mois.
 
 Les commentaires sont supprimés au cours de la première semaine de chaque trimestre.
 
