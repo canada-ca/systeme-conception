@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/crisis/alerts.html
 date: null
-dateModified: '2020-07-13'
+dateModified: '2025-05-20'
 description: null
 title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 ---
@@ -132,8 +132,8 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
  <section>
   <dl class="dl-horizontal">
    <dt>
-    <time class="link-muted" datetime="2025-03-31">
-     2025-03-31
+    <time class="link-muted" datetime="2025-05-20">
+     2025-05-20
     </time>
    </dt>
    <dd>
