@@ -145,7 +145,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
     </time>
    </dt>
    <dd>
-    Révision des titres pour remplacer«&nbsp;interruption de service&nbsp;» par«&nbsp;crise&nbsp;».
+    Révision des titres pour remplacer «&nbsp;interruption de service&nbsp;» par «&nbsp;crise&nbsp;».
     <br/>
     <br/>
     Ajout d’une recommandation d’inclure des dates dans l’alerte et d’utiliser le bon temps de verbe.
