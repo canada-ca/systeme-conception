@@ -101,7 +101,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <div class="row">
     <div class="mrgn-tp-lg col-md-8">
 
-<figure class="gc-complex-img" role="group">
+<figure class="gc-complex-img">
     <img class="img-responsive" alt="Une longue description peut être trouvée après l'image." src="../images/alerte-img1.png" >
     <figcaption>
     <details>
