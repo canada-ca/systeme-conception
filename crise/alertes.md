@@ -1,278 +1,154 @@
 ---
 altLangPage: https://design.canada.ca/crisis/alerts.html
 date: null
-dateModified: '2020-07-13'
+dateModified: '2025-05-19'
 description: null
-title: Alertes et perturbations de service sur Canada.ca
+title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 ---
 
+<p>Cette directive cherche à appuyer la cohérence des efforts de communication de chaque ministère. Suivez ces recommandations lorsque vous communiquez au sujet d’interruptions de service ou de situations urgentes et évolutives sur Canada.ca.</p>
 
+<h2>Sur cette page</h2>
+<ul>
+  <li><a href="#synchronisation">Assurer la synchronisation des produits de nouvelles et du contenu Web</a></li>
+  <li><a href="#alertes-normalisees">Alertes normalisées pour le contenu des nouvelles</a></li>
+  <li><a href="#alerts">Comment ajouter des alertes temporaires sur les pages de contenu concernées</a></li>  
+  <li><a href="#alertes-repetees">Alertes répétées sur plusieurs pages</a></li>  
+  <li><a href="#examples">Exemples</a></li>
+</ul>
 
+<h2 id="synchronisation">Assurer la synchronisation des produits de nouvelles et du contenu Web</h2>
 
-<p>
- Ces recommandations contribueront à uniformiser les communications de chaque ministère sur les interruptions de service en cas de crise.
-</p>
+<p>Idéalement, les produits de nouvelles et les mises à jour de contenu Web connexes sont publiés <strong>en même temps</strong>. Malheureusement, ce n’est pas toujours réaliste ni possible. Parfois, les nouvelles doivent être publiées avant d’autres mises à jour du contenu Web, ce qui peut causer des problèmes pour les personnes accédant à nos pages.</p>
 
-<section>
- <h2>
-  Sur cette page
- </h2>
- <ul>
-  <li>
-   <a href="#alertes">
-    Comment utiliser les alertes en temps de crise
-   </a>
-  </li>
-  <li>
-   <a href="#exemples">
-    Exemples et code
-   </a>
-  </li>
-  <li>
-   <a href="#multiple">
-    Alertes répétées sur plusieurs pages
-   </a>
-  </li>
- </ul>
-</section>
+<h2 id="alertes-normalisees">Alertes normalisées pour le contenu des nouvelles</h2>
 
-<section>
- <h2 id="alertes">
-  Comment utiliser les alertes en temps de crise
- </h2>
- <p>
-  Les alertes sont destinées à attirer l'attention sur les changements au contenu régulier de 2 façons :
- </p>
- <ol>
-  <li>
-   une modification du contenu de la page sur laquelle le signalement apparaît : dans ce cas, placez le signalement à côté du contenu mis à jour
-  </li>
-  <li>
-   un changement qui a été effectué ailleurs, comme la publication de nouveaux renseignements : dans ce cas, un lien vers les nouveaux renseignements placé dans l’alerte elle-même
-  </li>
- </ol>
- <h3>
-  Quoi inclure dans les alertes
- </h3>
- <p>
-  Le contenu des alertes devrait :
- </p>
- <ul>
-  <li>
-   être court et simple
-  </li>
-  <li>
-   décrire les conséquences pour l'utilisateur
-  </li>
-  <li>
-   être adapté à la page sur laquelle il figure
-  </li>
-  <li>
-   inclure les dates (si elles sont connues) auxquelles la perturbation aura lieu
-  </li>
-  <li>
-   utiliser le temps de verbe approprié pour refléter le moment où le changement est effectué
-  </li>
-  <li>
-   limiter le nombre de liens - si un lien est nécessaire, en inclure un seul
-  </li>
- </ul>
- <h3>
-  Limiter l'utilisation des alertes
- </h3>
- <p>
-  Gardez à l'esprit que la fatigue d'alerte réduit l'efficacité de l'alerte au fil du temps. Plus les gens voient les alertes et les messages d'avertissement, moins ils y sont réceptifs.
-		Pour éviter cela, suivez ces lignes directrices :
- </p>
- <ul>
-  <li>
-   utiliser les alertes de façon temporaire uniquement (le temps d'intégrer l'information ou de résoudre la situation)
-  </li>
-  <li>
-   limiter le nombre d'alertes sur chaque page
-  </li>
-  <li>
-   limiter le nombre d'alertes utilisées d'une page à l'autre
-  </li>
-  <ul>
-   <li>
-    utiliser les alertes aux points de prestation des services concernés, tels que les pages de lancement de service, les pages de contact, etc.
-   </li>
-   <li>
-    éviter d'aller au-delà des points de prestation de services ou d'information - sur les pages thématiques et les pages de sujets, envisager plutôt d'utiliser un nouveau sujet
-   </li>
-  </ul>
-  <li>
-   conserver les alertes pour les situations importantes qui touchent la plupart des utilisateurs :
-  </li>
-  <ul>
-   <li>
-    sur la page d'accueil de Canada.ca, n'utiliser que lorsque plus de 50 % de la population est touchée
-   </li>
-   <li>
-    sur les pages d'accueil des institutions, à n'utiliser que lorsque plus de 40 % des utilisateurs sont concernés
-   </li>
-  </ul>
-  <li>
-   éviter d'utiliser des alertes uniquement pour styliser du contenu régulier (pour mettre en valeur ou souligner)
-  </li>
- </ul>
- <p>
-  Consultez notre billet de blogue sur
-  <a href="https://blogue.canada.ca/2020/07/15/fatigue-d'alerte.html">
-   la fatigue d'alerte pendant la COVID-19
-  </a>
-  .
- </p>
- <section>
-  <h3>
-   Quelle alerte utiliser
-  </h3>
-  <dl class="dl-horizontal">
-   <dt>
-    Alerte de danger (rouge)
-   </dt>
-   <dd>
-    À n'utiliser que si le service est annulé ou si l'exécution d'une activité présente un risque pour la santé ou la sécurité des Canadiens.
-   </dd>
-   <dt>
-    Alerte d'avertissement (jaune)
-   </dt>
-   <dd>
-    Utiliser pour les retards, les fermetures à certains endroits et d'autres types d'interruptions de service.
-   </dd>
-   <dt>
-    Alerte d'information (bleu)
-   </dt>
-   <dd>
-    Utiliser pour la durée d'une méthode de demande, les changements de temps d'attente sur une ligne téléphonique, les messages indiquant qu'il n'y a pas d'interruption de service pour un service particulier si celui-ci génère des demandes de renseignements.
-   </dd>
-   <dt>
-    Alerte de succès (vert)
-   </dt>
-   <dd>
-    Utiliser lorsqu'une interruption de service est résolue.
-   </dd>
-  </dl>
- </section>
- <h2 id="exemples">
-  Exemples et code
- </h2>
- <div class="well">
-  <section class="alert alert-warning">
-   <h3>
-    Perturbation de service
-   </h3>
-   <p>
-    Ce service est touché par l'épidémie de coronavirus (COVID-19).
-   </p>
-   <a href="#">
-    Consulter les mises à jour de l'état du service
-   </a>
-  </section>
- </div>
- <details>
-  <summary>
-   HTML pour coder une alerte
-  </summary>
-  <p>
-   Code:
-  </p>
-  <pre class="prettyprint"><code>&lt;section class="alert alert-warning"&gt;
- &lt;h3&gt;Perturbation de service&lt;/h3&gt;
- &lt;p&gt;Ce service est touché par l'épidémie de coronavirus (COVID-19).&lt;/p&gt;
- &lt;a href="#"&gt;Consulter les mises à jour de l'état du service&lt;/a&gt;&lt;/p&gt;
-&lt;/section&gt;</code></pre>
-  <p>
-   Changer la classe "alert-warning" pour la classe "alert-info", "alert-danger" ou "alert-success", en fonction du type d'alerte.
-  </p>
- </details>
- <p>
-  Utilisez le
-  <a href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html">
-   modèle d'alertes contextuelles
-  </a>
- </p>
- <h3>
-  Exemples supplémentaires
- </h3>
- <p>
-  Exemples d'alertes sur des types de page spécifiques :
- </p>
- <ul>
-  <li>
-   <a href="https://conception.canada.ca/alertes/alertes-lds.html">
-    Page de lancement de service
-   </a>
-  </li>
-  <li>
-   <a href="https://conception.canada.ca/alertes/alertes-contact.html">
-    Page de contact
-   </a>
-  </li>
-  <li>
-   <a href="https://conception.canada.ca/alertes/alertes-pai.html">
-    Page d'accueil institutionnelle bêta
-   </a>
-  </li>
-  <li>
-   <a href="https://conception.canada.ca/alertes/alertes-profil-inst-stable.html">
-    Page de profil institutionnel
-   </a>
-  </li>
- </ul>
- <section>
-  <h2 id="multiple">
-   Alertes répétées sur plusieurs pages
-  </h2>
-  <p>
-   Si vous devez ajouter la même alerte sur plusieurs pages différentes, il peut être judicieux de créer une seule page vers laquelle toutes ces alertes peuvent être liées.
-  </p>
-  <p>
-   La page centrale devrait :
-  </p>
-  <ul>
-   <li>
-    résumer les services concernés dans un langage simple
-   </li>
-   <li>
-    expliquez les conséquenes sur les utilisateurs des services concernés
-   </li>
-   <li>
-    être mis à jour dès que de nouvelles informations sont disponibles
-   </li>
-  </ul>
-  <p>
-   Le fil d'Ariane de cette page centrale devrait mener vers la page de la réponse globable du gouvernement du Canada à la crise.
-  </p>
-  <h3>
-   Comment cela peut-il aider
-  </h3>
-  <ul>
-   <li>
-    éviter les pages éparpillées sur les crises et les pertubations de service
-   </li>
-   <li>
-    encourager une approche coordonnée au sein de chaque ministère et dans l'ensemble du gouvernement du Canada
-   </li>
-   <li>
-    réduire le travail nécessaire pour maintenir les différentes alertes et les mises à jour correspondantes
-   </li>
-  </ul>
- </section>
- <h2 id="derniers">
-  Derniers changements
- </h2>
+<p>Dans une situation évolutive, il est possible d’ajouter des alertes à un produit de nouvelles pour informer le lectorat que le contenu pourrait ne plus refléter l’information la plus récente. Ces alertes doivent inclure un lien vers une page centrale présentant les dernières informations.</p>
+
+<p>Les alertes sont généralement ajoutées lorsqu’un produit de nouvelles est jugé obsolète, soit remplacé par un communiqué plus récent, soit contenant des informations obsolètes. Les équipes doivent coordonner le meilleur moment d’ajouter des alertes aux différents produits de nouvelles avec leurs collègues des communications stratégiques.</p> 
+
+<h2 id="alerts">Comment ajouter des alertes temporaires sur les pages de contenu concernées</h2>
+
+<p>Les alertes visent à attirer l’attention sur les changements au contenu habituel de deux façons&nbsp;:</p>
+
+<ul>
+  <li>Une modification du contenu de la page sur laquelle apparaît l’alerte.</li>
+  <li>Un changement qui a été fait ailleurs, comme la publication de nouvelles informations.</li>
+</ul>
+
+<p>Si vous ne pouvez pas mettre à jour le contenu Web en même temps qu’un produit de nouvelles, ajoutez une alerte temporaire qui renvoie au communiqué. Cela vous permet d’intercepter les gens sur une page de contenu où ils recherchent naturellement les informations les plus récentes. Vous pouvez ensuite les diriger vers du contenu qui fait la une.</p> 
+
+<p>Il s’agit d’une mesure temporaire qui peut vous donner un peu de temps pour effectuer des mises à jour détaillées sur la page de contenu. Vous devriez tout de même prévoir d’incorporer les nouveaux renseignements à la page de contenu dès que possible, puis de supprimer l’alerte.</p>
+
+<h3>Placer les alertes en contexte, pas seulement en haut de la page</h3>
+
+<p>Les lecteurs plus rapides risquent de manquer une alerte placée en haut de la page. Placer une alerte dans la sous-section pertinente d’une page, le cas échéant, permet d’attirer l’attention sur un changement important au moment où il est le plus logique pour le lecteur. Cela maximise l’incidence de l’alerte.</p>
+
+<h3>Quoi inclure dans les alertes</h3>
+
+<p>Le contenu de l’alerte doit&nbsp;:</p>
+
+<ul>
+  <li>être facile à comprendre;</li>  
+  <li>être court (les alertes longues poussent le contenu vers le bas pour les utilisateurs mobiles);</li>  
+  <li>décrire l’incidence sur l’utilisateur;</li>  
+  <li>indiquer les dates auxquelles les changements auront lieu (si elles sont connues);</li>  
+  <li>utiliser le temps de verbe approprié pour refléter le moment où le changement a lieu;</li>  
+  <li>ne faire appel à des liens que s’il est nécessaire — un seul, le cas échéant.</li>
+</ul>
+
+<h3>Limiter l’utilisation des alertes</h3>
+
+<p>Sachez que la fatigue liée aux alertes réduit leur efficacité avec le temps. Plus les gens voient des alertes et des messages d’avertissement, moins ils y sont réceptifs. Pour éviter cela, suivez les directives suivantes&nbsp;:</p>
+<ul>
+  <li>N’utiliser les alertes que de manière temporaire (le temps d’intégrer des informations ou de résoudre la situation).</li>  
+  <li>Placer les alertes en contexte, pas seulement en haut de la page.</li>
+  <li>Limiter le nombre d’alertes sur chaque page.</li>  
+  <li>Éviter d’utiliser des alertes pour la mise en page du contenu habituel (pour souligner ou mettre en évidence).</li>  
+  <li>Supprimer les alertes dès que le contenu du programme ou du service a été mis à jour pour refléter ce qui a été annoncé.</li>
+</ul>
+
+<h3>Quelle alerte utiliser</h3>
+
+<p>Suivez les instructions de mise en œuvre des alertes contextuelles pour choisir le type d’alerte approprié à votre contenu&nbsp;:</p> 
+<ul>
+  <li><a href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html#how">Alertes contextuelles — Canada.ca</a></li>
+</ul>
+
+<h2 id="alertes-repetees">Alertes répétées sur plusieurs pages</h2>
+
+<p>Si vous devez ajouter la même alerte sur de nombreuses pages différentes, il peut être utile de créer une page unique à laquelle toutes ces alertes peuvent renvoyer.</p>
+
+<p>Cette page centrale&nbsp;:</p>
+
+<ul>
+  <li>résume le changement en langage clair;</li>  
+  <li>explique l’incidence sur les utilisateurs des services touchés;</li>  
+  <li>est mise à jour dès que de nouvelles informations sont diffusées.</li>
+</ul>
+
+<p>Le chemin d’accès à cette page centrale doit mener à la page principale d’intervention du gouvernement du Canada face à la crise en question.</p>
+
+<h3>Comment cela aide</h3>
+
+<ul>
+  <li>Prévient contre la dispersion des pages consacrées aux crises et aux interruptions de service.</li>  
+  <li>Encourage une approche coordonnée au sein de chaque ministère et dans l’ensemble du gouvernement du Canada.</li>  
+  <li>Réduit le travail requis pour maintenir diverses alertes et mises à jour connexes.</li>
+</ul>
+<h2 id="examples">Exemples</h2>
+
+<div class="row">
+    <div class="mrgn-tp-lg col-md-8">
+
+<figure class="gc-complex-img">
+    <img class="img-responsive" alt="Une longue description peut être trouvée après l'image." src="../images/alerte-img1.png" >
+    <figcaption>
+    <details>
+            <summary>À faire&nbsp;: date claire, temps de verbe exact, répété dans le contexte de la page</summary>
+            <p>Texte d'alerte placé en haut de la page avec une date d'entrée en vigueur claire&nbsp;:</p>
+    <p><b>À compter du 1er avril 2022</b>, les tests préalables à l’entrée ne seront plus exigés pour les voyageurs entièrement vaccinés qui entrent au Canada par voie terrestre, aérienne ou maritime. Entre-temps, veuillez respecter les exigences relatives aux tests de dépistage avant l’entrée. Vous devez continuer d’utiliser ArriveCAN avant et après le 1er avril. </p>
+    <p>Communiqué de presse</p>
+    </details></figcaption>
+</figure>
+</div>
+
+<div class="mrgn-tp-lg col-md-8">
+<figure class="gc-complex-img">
+	<img class="img-responsive" alt="Une longue description peut être trouvée après l'image." src="../images/alerte-img3.png" >
+	<figcaption><details>
+			<summary>À ne pas faire&nbsp;: La date critique était manquante et les verbes sont au présent, il a donc semblé que les règles étaient déjà en vigueur (publiées le 15 février, les règles n’ont pas changé avant le 28 février)</summary>
+			<p>Exemple de texte d'alerte trop vague qui a provoqué un malentendu en utilisant le mauvais temps de verbe&nbsp;:</p>
+    <p><b>Adjustements des mesures frontalières</b></p>
+    <p>Le gouvernement du Canada allège les mesures frontalières dans le cadre de la transition de la réponse à la pandémie</p>
+    <p>Communiqué de presse</p>
+		</details></figcaption>
+</figure>
+</div>
+</div>
+
+<h2>Derniers changements</h2>
+
  <section>
   <dl class="dl-horizontal">
+   <dt>
+    <time class="link-muted" datetime="2025-05-19">
+     2025-05-19
+    </time>
+   </dt>
+   <dd>
+    Révision afin d’inclure des instructions et des exemples pour la synchronisation des pages de contenu avec les communiqués de presse.
+   </dd>
    <dt>
     <time class="link-muted" datetime="2022-05-10">
      2022-05-10
     </time>
    </dt>
    <dd>
-    Ajout d'une recommandation visant à inclure des dates dans l'alerte et à utiliser le bon temps de verbe.
+    Révision des titres pour remplacer «&nbsp;interruption de service&nbsp;» par «&nbsp;crise&nbsp;».
+    <br/>
+    <br/>
+    Ajout d’une recommandation d’inclure des dates dans l’alerte et d’utiliser le bon temps de verbe.
    </dd>
   </dl>
- </section>
 </section>
