@@ -32,8 +32,8 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <p>Les alertes visent à attirer l’attention sur les changements au contenu habituel de deux façons&nbsp;:</p>
 
 <ul>
-  <li>une modification du contenu de la page sur laquelle apparaît l’alerte</li>
-  <li>un changement qui a été fait ailleurs, comme la publication de nouvelles informations</li>
+  <li>Une modification du contenu de la page sur laquelle apparaît l’alerte.</li>
+  <li>Un changement qui a été fait ailleurs, comme la publication de nouvelles informations.</li>
 </ul>
 
 <p>Si vous ne pouvez pas mettre à jour le contenu Web en même temps qu’un produit de nouvelles, ajoutez une alerte temporaire qui renvoie au communiqué. Cela vous permet d’intercepter les gens sur une page de contenu où ils recherchent naturellement les informations les plus récentes. Vous pouvez ensuite les diriger vers du contenu qui fait la une.</p> 
@@ -49,23 +49,23 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <p>Le contenu de l’alerte doit&nbsp;:</p>
 
 <ul>
-  <li>être facile à comprendre</li>  
-  <li>être court (les alertes longues poussent le contenu vers le bas pour les utilisateurs mobiles)</li>  
-  <li>décrire l’incidence sur l’utilisateur</li>  
-  <li>indiquer les dates auxquelles les changements auront lieu (si elles sont connues)</li>  
-  <li>utiliser le temps de verbe approprié pour refléter le moment où le changement a lieu</li>  
-  <li>ne faire appel à des liens que s’il est nécessaire — un seul, le cas échéant</li>
+  <li>être facile à comprendre;</li>  
+  <li>être court (les alertes longues poussent le contenu vers le bas pour les utilisateurs mobiles);</li>  
+  <li>décrire l’incidence sur l’utilisateur;</li>  
+  <li>indiquer les dates auxquelles les changements auront lieu (si elles sont connues);</li>  
+  <li>utiliser le temps de verbe approprié pour refléter le moment où le changement a lieu;</li>  
+  <li>ne faire appel à des liens que s’il est nécessaire — un seul, le cas échéant;</li>
 </ul>
 
 <h3>Limiter l’utilisation des alertes</h3>
 
 <p>Sachez que la fatigue liée aux alertes réduit leur efficacité avec le temps. Plus les gens voient des alertes et des messages d’avertissement, moins ils y sont réceptifs. Pour éviter cela, suivez les directives suivantes&nbsp;:</p>
 <ul>
-  <li>n’utiliser les alertes que de manière temporaire (le temps d’intégrer des informations ou de résoudre la situation)</li>  
-  <li>placer les alertes en contexte, pas seulement en haut de la page</li>
-  <li>limiter le nombre d’alertes sur chaque page</li>  
-  <li>éviter d’utiliser des alertes pour la mise en page du contenu habituel (pour souligner ou mettre en évidence)</li>  
-  <li>supprimer les alertes dès que le contenu du programme ou du service a été mis à jour pour refléter ce qui a été annoncé</li>
+  <li>N’utiliser les alertes que de manière temporaire (le temps d’intégrer des informations ou de résoudre la situation).</li>  
+  <li>Placer les alertes en contexte, pas seulement en haut de la page.</li>
+  <li>Limiter le nombre d’alertes sur chaque page.</li>  
+  <li>Éviter d’utiliser des alertes pour la mise en page du contenu habituel (pour souligner ou mettre en évidence).</li>  
+  <li>Supprimer les alertes dès que le contenu du programme ou du service a été mis à jour pour refléter ce qui a été annoncé.</li>
 </ul>
 
 <h3>Quelle alerte utiliser</h3>
@@ -82,9 +82,9 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <p>Cette page centrale&nbsp;:</p>
 
 <ul>
-  <li>résume le changement en langage clair</li>  
-  <li>explique l’incidence sur les utilisateurs des services touchés</li>  
-  <li>est mise à jour dès que de nouvelles informations sont diffusées</li>
+  <li>résume le changement en langage clair;</li>  
+  <li>explique l’incidence sur les utilisateurs des services touchés;</li>  
+  <li>est mise à jour dès que de nouvelles informations sont diffusées.</li>
 </ul>
 
 <p>Le chemin d’accès à cette page centrale doit mener à la page principale d’intervention du gouvernement du Canada face à la crise en question.</p>
@@ -92,9 +92,9 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 <h3>Comment cela aide</h3>
 
 <ul>
-  <li>prévient contre la dispersion des pages consacrées aux crises et aux interruptions de service</li>  
-  <li>encourage une approche coordonnée au sein de chaque ministère et dans l’ensemble du gouvernement du Canada</li>  
-  <li>réduit le travail requis pour maintenir diverses alertes et mises à jour connexes</li>
+  <li>Prévient contre la dispersion des pages consacrées aux crises et aux interruptions de service.</li>  
+  <li>Encourage une approche coordonnée au sein de chaque ministère et dans l’ensemble du gouvernement du Canada.</li>  
+  <li>Réduit le travail requis pour maintenir diverses alertes et mises à jour connexes.</li>
 </ul>
 <h2 id="examples">Exemples</h2>
 
