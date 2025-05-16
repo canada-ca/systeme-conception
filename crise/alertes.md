@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/crisis/alerts.html
 date: null
-dateModified: '2025-05-20'
+dateModified: '2025-05-19'
 description: null
 title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 ---
@@ -114,7 +114,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 </div>
 
 <div class="mrgn-tp-lg col-md-8">
-<figure class="gc-complex-img" role="group">
+<figure class="gc-complex-img">
 	<img class="img-responsive" alt="Une longue description peut être trouvée après l'image." src="../images/alerte-img3.png" >
 	<figcaption><details>
 			<summary>À ne pas faire&nbsp;: La date critique était manquante et les verbes sont au présent, il a donc semblé que les règles étaient déjà en vigueur (publiées le 15 février, les règles n’ont pas changé avant le 28 février)</summary>
@@ -132,8 +132,8 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
  <section>
   <dl class="dl-horizontal">
    <dt>
-    <time class="link-muted" datetime="2025-05-20">
-     2025-05-20
+    <time class="link-muted" datetime="2025-05-19">
+     2025-05-19
     </time>
    </dt>
    <dd>
