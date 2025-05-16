@@ -54,7 +54,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
   <li>décrire l’incidence sur l’utilisateur;</li>  
   <li>indiquer les dates auxquelles les changements auront lieu (si elles sont connues);</li>  
   <li>utiliser le temps de verbe approprié pour refléter le moment où le changement a lieu;</li>  
-  <li>ne faire appel à des liens que s’il est nécessaire — un seul, le cas échéant;</li>
+  <li>ne faire appel à des liens que s’il est nécessaire — un seul, le cas échéant.</li>
 </ul>
 
 <h3>Limiter l’utilisation des alertes</h3>
