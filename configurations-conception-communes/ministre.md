@@ -1,12 +1,12 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/ministers-block.html
 date: "2018-12-19"
-dateModified: "2025-05-15"
+dateModified: "2025-06-04"
 description: "La configuration de conception pour un ministre ou un chef d’institution fournit des liens vers le(s) ministre(s) d’une institution, y compris son ou ses ministre(s) associé(s), ou vers son chef d’institution."
 title: "Ministre ou chef d’institution"
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
-<p>La configuration de conception d’un ministre ou d’un chef d’institution indique le(s) ministre(s) ou chef(s) d’institution concernés d’un ministère, d’un organisme ou d’une organisation. Elle fournit des liens vers la biographie officielle du ou des ministres, ministres associés ou chefs d’institution, et elle peut également inclure un portrait ou des liens vers des lettres de mandat et des documents d’information.</p>
+<p>La configuration de conception d’un ministre ou d’un chef d’institution indique le(s) ministre(s) ou chef(s) d’institution concernés d’un ministère, d’un organisme ou d’une organisation. Elle fournit des liens vers la biographie officielle du ou des ministres, secrétaire(s) d'État, ministres associés ou chefs d’institution, et elle peut également inclure un portrait ou des liens vers des lettres de mandat et des documents d’information.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/ministers-block-fr.png" class="img-responsive" alt="" /></div>
 <section>
   <h2>Sur cette page</h2>
@@ -34,6 +34,7 @@ title: "Ministre ou chef d’institution"
   <p>Utiliser le titre approprié pour la section, par exemple&nbsp;:</p>
   <ul>
     <li>Ministre</li>
+    <li>Secrétaire d'État</li>
     <li>Présidente</li>
     <li>Secrétaire parlementaire</li>
     <li>Ministre associé</li>
@@ -42,7 +43,7 @@ title: "Ministre ou chef d’institution"
   </ul>
   <p>Les éléments suivants sont obligatoires pour chaque chef d’institution&nbsp;:</p>
   <ul>
-    <li>Le titre honorifique (&laquo;&nbsp;L’honorable&nbsp;&raquo;), le prénom et le nom de famille du ministre ou du chef d’institution
+    <li>Le titre honorifique (&laquo;&nbsp;L’honorable&nbsp;&raquo;), le prénom et le nom de famille du ministre, secrétaire d'État, ou du chef d’institution
       <ul>
         <li>On y trouvera un lien vers une page de profil des ministres (voir <a href="/modeles-obligatoire/pages-profil-ministres.html">Pages de profil des ministres</a>)</li>
       </ul>
@@ -97,7 +98,7 @@ title: "Ministre ou chef d’institution"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Ministre ou chef d’institution – grand écran</b></figcaption>
-      <img src="/images/ministers-block-fr.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/secretaire-d-etat.jpg" class="img-responsive" alt="Configuration de conception pour un ministre, secrétaire d'État, ou chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp; Ministre(s)&nbsp;&raquo;.</p>
@@ -111,6 +112,32 @@ title: "Ministre ou chef d’institution"
         <p>La deuxième colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200&nbsp;x&nbsp;250 pixels. Les renseignements inclus à droite comprennent les suivants :</p>
         <ul>
           <li>L’honorable [nom du ou de la ministre] (lien)</li>
+          <li>[Titre officiel] (texte)</li>
+          <li>Élément de liste&nbsp;: Lettre de mandat [facultatif – un seul élément] (lien)</li>
+        </ul>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <ul>
+
+      </details>
+    </figure>
+  </div>
+  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+    <figure class="mrgn-tp-md mrgn-bttm-lg">
+      <figcaption><b>Ministre et/ou secrértaire d'État et/ou parlementaire - grand écran</b></figcaption>
+      <img class="img-responsive" src="/images/secretaire-d-etat.jpg" alt="Configuration de conception pour un ministre, secrétaire d'État, ou chef d'institution pour les grands écrans. Version texte ci-dessous&nbsp;:">
+      <details>
+        <summary class="wb-toggle" data-toggle="{'print':'on'}">Description de l'image&nbsp;: ministre et/ou secrértaire d'État et/ou parlementaire - grand écran</summary>
+        <p>La configuration de conception du ministre s'affiche dans deux colonnes avec l'en-tête &laquo;&nbsp; Ministre(s)&nbsp;&raquo;.</p>
+        <p>La première colonne présente un espace réservé à l'image d'un chef d'institution, à gauche. Les dimensions de l'image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <ul>
+          <li>L'honorable [nom du ou de la ministre] (lien)</li>
+          <li>[Titre officiel] (texte)</li>
+          <li>Élément de liste&nbsp;: Lettre de mandat [facultatif] (lien)</li>
+          <li>Élément de liste&nbsp;: Dossier d'information [facultatif] (lien)</li>
+        </ul>
+        <p>La deuxième colonne présente un espace réservé à l'image d'un chef d'institution, à gauche. Les dimensions de l'image sont de 200&nbsp;x&nbsp;250 pixels. Les renseignements inclus à droite comprennent les suivants :</p>
+        <ul>
+          <li>L'honorable [nom du ou de la ministre] (lien)</li>
           <li>[Titre officiel] (texte)</li>
           <li>Élément de liste&nbsp;: Lettre de mandat [facultatif – un seul élément] (lien)</li>
         </ul>
@@ -191,6 +218,10 @@ title: "Ministre ou chef d’institution"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2025-06-04" class="link-muted">2025-06-04</time>
+    </dt>
+    <dd>Mise à jour de la configuration de conception pour un secrétaire d'État</dd>
     <dt>
       <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
