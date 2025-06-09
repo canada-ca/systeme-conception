@@ -1,15 +1,25 @@
-{%- if site.analytics.providers.google %}
-  {%- include providers/google.html %}
+{% comment %}
+   This file loads the appropriate analytics provider script.
+   The configuration structure in _config.yml is:
+   analytics:
+     provider:
+       adobe: {...}
+       google: {...}
+{% endcomment %}
+
+<!-- Using nested provider configuration -->
+{%- if site.analytics.provider.adobe %}
+	{% include /providers/adobehead.html %}
 {%- endif -%}
-{%- if site.analytics.providers.google_universal %}
-  {%- include providers/google-universal.html %}
+{%- if site.analytics.provider.google %}
+	{% include /providers/google.html %}
 {%- endif -%}
-{%- if site.analytics.providers.google_gtag %}
-  {%- include providers/google-gtag.html %}
+{%- if site.analytics.provider.google-universal %}
+	{% include /providers/google-universal.html %}
 {%- endif -%}
-{%- if site.analytics.providers.adobe %}
-  {%- include providers/adobehead.html %}
+{%- if site.analytics.provider.google-gtag %}
+	{% include /providers/google-gtag.html %}
 {%- endif -%}
-{%- if site.analytics.providers.custom %}
-  {%- include providers/custom.html %}
+{%- if site.analytics.provider.custom %}
+	{% include /providers/custom.html %}
 {%- endif -%}

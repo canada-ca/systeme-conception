@@ -1,5 +1,5 @@
 analytics:
-  providers:
+  provider:
     adobe:
       service: TBS-DTO-TEST_BTN-SCT-TEST
 url: "localhost:4000"
