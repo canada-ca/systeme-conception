@@ -1,12 +1,12 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/ministers-block.html
 date: "2018-12-19"
-dateModified: "2025-05-15"
+dateModified: "2025-06-11"
 description: "La configuration de conception pour un ministre ou un chef d’institution fournit des liens vers le(s) ministre(s) d’une institution, y compris son ou ses ministre(s) associé(s), ou vers son chef d’institution."
 title: "Ministre ou chef d’institution"
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
-<p>La configuration de conception d’un ministre ou d’un chef d’institution indique le(s) ministre(s) ou chef(s) d’institution concernés d’un ministère, d’un organisme ou d’une organisation. Elle fournit des liens vers la biographie officielle du ou des ministres, ministres associés ou chefs d’institution, et elle peut également inclure un portrait ou des liens vers des lettres de mandat et des documents d’information.</p>
+<p>La configuration de conception d’un ministre ou d’un chef d’institution indique le(s) ministre(s) ou chef(s) d’institution concernés d’un ministère, d’un organisme ou d’une organisation. Elle fournit des liens vers la biographie officielle du ou des ministres, secrétaire(s) d'État, ministres associés ou chefs d’institution, et elle peut également inclure un portrait ou des liens vers des lettres de mandat et des documents d’information.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/ministers-block-fr.png" class="img-responsive" alt="" /></div>
 <section>
   <h2>Sur cette page</h2>
@@ -34,6 +34,7 @@ title: "Ministre ou chef d’institution"
   <p>Utiliser le titre approprié pour la section, par exemple&nbsp;:</p>
   <ul>
     <li>Ministre</li>
+    <li>Secrétaire d'État</li>
     <li>Présidente</li>
     <li>Secrétaire parlementaire</li>
     <li>Ministre associé</li>
@@ -42,7 +43,7 @@ title: "Ministre ou chef d’institution"
   </ul>
   <p>Les éléments suivants sont obligatoires pour chaque chef d’institution&nbsp;:</p>
   <ul>
-    <li>Le titre honorifique (&laquo;&nbsp;L’honorable&nbsp;&raquo;), le prénom et le nom de famille du ministre ou du chef d’institution
+    <li>Le titre honorifique (&laquo;&nbsp;L’honorable&nbsp;&raquo;), le prénom et le nom de famille du ministre, secrétaire d'État, ou du chef d’institution
       <ul>
         <li>On y trouvera un lien vers une page de profil des ministres (voir <a href="/modeles-obligatoire/pages-profil-ministres.html">Pages de profil des ministres</a>)</li>
       </ul>
@@ -108,7 +109,7 @@ title: "Ministre ou chef d’institution"
           <li>Élément de liste&nbsp;: Lettre de mandat [facultatif] (lien)</li>
           <li>Élément de liste&nbsp;: Dossier d’information [facultatif] (lien) </li>
         </ul>
-        <p>La deuxième colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200&nbsp;x&nbsp;250 pixels. Les renseignements inclus à droite comprennent les suivants :</p>
+        <p>La deuxième colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200&nbsp;x&nbsp;250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>L’honorable [nom du ou de la ministre] (lien)</li>
           <li>[Titre officiel] (texte)</li>
@@ -124,7 +125,7 @@ title: "Ministre ou chef d’institution"
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - petit écran</summary>
         <p>La configuration de conception s’affiche dans une colonne et deux éléments avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
-        <p>Le premier élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ou de la ministre] » suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le texte [Titre officiel]. Il est suivi d’une liste à puces avec les deux éléments avec lien suivants&nbsp;:</p>
+        <p>Le premier élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ou de la ministre]&nbsp;&raquo; suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le texte [Titre officiel]. Il est suivi d’une liste à puces avec les deux éléments avec lien suivants&nbsp;:</p>
         <ul>
           <li>Lettre de mandat [facultatif]</li>
           <li>Dossier d’information [facultatif]</li>
@@ -132,6 +133,54 @@ title: "Ministre ou chef d’institution"
         <p>Le deuxième élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ministre]&nbsp;&raquo; suivi d’un espace réservé pour l’image aux dimensions prescrites de 200&nbsp;x&nbsp;250 pixels. Sous l’image se trouve le texte [Titre officiel]. Il est suivi de l’élément avec lien suivant&nbsp;:</p>
         <ul>
           <li>Lettre de mandat [facultatif – élément unique]</li>
+        </ul>
+      </details>
+    </figure>
+  </div>
+  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
+    <figure class="mrgn-tp-md mrgn-bttm-lg">
+      <figcaption><b>Ministre et/ou secrétaire d’État et/ou secrétaire parlementaire - grand écran</b></figcaption>
+      <img src="/images/secretaire-d-etat.png" class="img-responsive" alt="Configuration de conception pour un ministre et/ou secrétaire d’État et/ou secrétaire parlementaire pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <details>
+        <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre et/ou secrétaire d’État et/ou secrétaire parlementaire - grand écran</summary>
+        <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
+        <p>La première colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <ul>
+          <li>L’honorable [nom du ou de la ministre] (lien)</li>
+          <li>[Titre officiel] (texte)</li>
+          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
+          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
+        </ul>
+        <p>La deuxième colonne est vide. Si plus d’un ministre fait partie d’un ministère, vous présenteriez les autres ministres ici, en suivant le format de la première colonne.</p>
+        <p>La rangée &laquo;&nbsp;Ministres&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo;. À la suite de ce titre, il y a deux colonnes.</p>
+        <p>La première colonne présente un espace réservé à l’image d’un ou d’une secrétaire d’État, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <ul>
+          <li>L’honorable [nom du ou de la secrétaire d’État] (lien)</li>
+          <li>[Titre officiel] (texte)</li>
+          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
+          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
+        </ul>
+        <p>La deuxième colonne présente un espace réservé à l’image d’un secrétaire d’État, à gauche. Les. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <ul>
+          <li>L’honorable [nom du ou de la secrétaire d’État] (lien)</li>
+          <li>[Titre officiel] (texte)</li>
+          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
+          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
+        </ul>
+        <p>La rangée &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) parlementaire(s)&nbsp;&raquo;. À la suite de ce titre, il y a deux colonnes.</p>
+        <p>La première colonne présente un espace réservé à l’image d’un ou d’une secrétaire parlementaire, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <ul>
+          <li>[Nom du ou de la secrétaire parlementaire] (lien)</li>
+          <li>[Titre officiel] (texte)</li>
+          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
+          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
+        </ul>
+        <p>La deuxième colonne présente un espace réservé à l’image d’un secrétaire(s) parlementaire, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <ul>
+          <li>[Nom du ou de la secrétaire parlementaire] (lien)</li>
+          <li>[Titre officiel] (texte)</li>
+          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
+          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
         </ul>
       </details>
     </figure>
