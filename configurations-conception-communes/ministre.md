@@ -140,7 +140,7 @@ title: "Ministre ou chef d’institution"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Ministre et/ou secrétaire d’État et/ou secrétaire parlementaire - grand écran</b></figcaption>
-      <img src="/images/secretaire-d-etat.png" class="img-responsive" alt="Configuration de conception pour un ministre et/ou secrétaire d’État et/ou secrétaire parlementaire pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/secretaires-d-etat.jpg" class="img-responsive" alt="Configuration de conception pour un ministre et/ou secrétaire d’État et/ou secrétaire parlementaire pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre et/ou secrétaire d’État et/ou secrétaire parlementaire - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
@@ -240,6 +240,10 @@ title: "Ministre ou chef d’institution"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
+    <dt>
+      <time datetime="2025-06-11" class="link-muted">2025-06-11</time>
+    </dt>
+    <dd>[...]</dd>
     <dt>
       <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>

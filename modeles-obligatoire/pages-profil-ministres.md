@@ -43,7 +43,7 @@ title: Pages de profil des ministres
  <h2 id="quand">Quand utiliser cette configuration</h2>
  <p>Utilisez le modèle de page de profil ministériel pour fournir une présentation cohérente des renseignements au sujet des personnes suivantes&nbsp;:</p>
  <ul>
-  <li>les ministres du gouvernment du Canada;</li>
+  <li>les ministres du gouvernement du Canada;</li>
   <li>les secrétaires d'État inclus dans l’onglet &laquo;&nbsp;Secrétaires d'État&nbsp;&raquo; du <a href="https://www.canada.ca/fr/gouvernement/ministres.html">répertoire des ministres</a>;</li>
   <li>les secrétaires parlementaires inclus dans l’onglet &laquo;&nbsp;Secrétaires parlementaires&nbsp;&raquo; du <a href="https://www.canada.ca/fr/gouvernement/ministres.html">répertoire des ministres</a>; et</li>
   <li>les chefs d’institutions quasi judiciaires sans lien de dépendance.</li>
@@ -82,6 +82,13 @@ title: Pages de profil des ministres
 <section>
  <h2 id="#derniers">Derniers changements</h2>
  <dl class="dl-horizontal">
+  <dt>
+   <time class="link-muted" datetime="2025-06-11">2025-06-11</time>
+  </dt>
+  <dd>
+   <ul>
+    <li>[...]</li>
+   </ul>
   <dt>
    <time class="link-muted" datetime="2021-09-27">2021-09-27</time>
   </dt>
