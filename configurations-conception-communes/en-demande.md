@@ -148,13 +148,11 @@ title: "Bande en demande"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
-    <dt>
-      <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
-    </dt>
-    <dd>Orientation mise à jour pour refléter le style à bandes de la configuration de conception en demande</dd>
-    <dt>
-      <time datetime="2018-12-19" class="link-muted">2018-12-19</time>
-    </dt>
-    <dd>Documenté le modèle en demande</dd>
+    <dt><time>2025-05-15</time></dt>
+    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de conception du GC.</dd>
+    <dt><time>2024-04-03</time></dt>
+    <dd>Orientation mise à jour pour refléter le style à bandes de la configuration de conception en demande.</dd>
+    <dt><time>2018-12-19</time></dt>
+    <dd>Documenté le modèle en demande.</dd>
   </dl>
 </section>
