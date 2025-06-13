@@ -243,7 +243,7 @@ title: "Ministre ou chef d’institution"
     <dt>
       <time datetime="2025-06-11" class="link-muted">2025-06-11</time>
     </dt>
-    <dd>[...]</dd>
+    <dd>Ajout d’une variante d’image supplémentaire pour inclure le nouveau rôle de secrétaire d’État.</dd>
     <dt>
       <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
     </dt>
