@@ -87,7 +87,7 @@ title: Pages de profil des ministres
   </dt>
   <dd>
    <ul>
-    <li>[...]</li>
+    <li>Ajouté le nouveau rôle de secrétaire d’État.</li>
    </ul>
   <dt>
    <time class="link-muted" datetime="2021-09-27">2021-09-27</time>
