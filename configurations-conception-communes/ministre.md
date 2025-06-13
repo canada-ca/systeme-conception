@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/ministers-block.html
 date: "2018-12-19"
-dateModified: "2025-06-11"
+dateModified: "2025-06-13"
 description: "La configuration de conception pour un ministre ou un chef d’institution fournit des liens vers le(s) ministre(s) d’une institution, y compris son ou ses ministre(s) associé(s), ou vers son chef d’institution."
 title: "Ministre ou chef d’institution"
 ---
@@ -240,13 +240,11 @@ title: "Ministre ou chef d’institution"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
-    <dt>
-      <time datetime="2025-06-11" class="link-muted">2025-06-11</time>
-    </dt>
+    <dt><time>2025-06-13</time></dt>
     <dd>Ajout d’une variante d’image supplémentaire pour inclure le nouveau rôle de secrétaire d’État.</dd>
-    <dt>
-      <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
-    </dt>
+    <dt><time>2025-05-15</time></dt>
+    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de conception du GC.</dd>
+    <dt><time>2024-04-03</time></dt>
     <dd>Ajout d’une orientation à l’appui des mises à jour de la page d’accueil institutionnelle</dd>
   </dl>
 </section>

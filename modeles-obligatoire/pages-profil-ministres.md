@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html
 date: null
-dateModified: '2025-06-11'
+dateModified: '2025-06-13'
 description: null
 section-title: "Système de conception de Canada.ca"
 title: Pages de profil des ministres
@@ -82,16 +82,13 @@ title: Pages de profil des ministres
 <section>
  <h2 id="#derniers">Derniers changements</h2>
  <dl class="dl-horizontal">
-  <dt>
-   <time class="link-muted" datetime="2025-06-11">2025-06-11</time>
-  </dt>
+  <dt><time>2025-06-13</time></dt>
   <dd>
    <ul>
-    <li>Ajouté le nouveau rôle de secrétaire d’État.</li>
+    <li>ajouté le nouveau rôle de secrétaire d’État.</li>
    </ul>
-  <dt>
-   <time class="link-muted" datetime="2021-09-27">2021-09-27</time>
-  </dt>
+  </dd>
+  <dt><time>2021-09-27</time></dt>
   <dd>
    <ul>
     <li>remplacement des sections Nouveautés, Activités récentes et Galerie par une section En vedette flexible</li>
