@@ -13,7 +13,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
 <div id="expand-collapse">
   <details open="open">
     <summary>15 mai 2025</summary>
-    <p>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de conception du GC. Ces caractéristiques ont été mises à jour selon les modèles suivants :</p>
+    <p>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC. Ces caractéristiques ont été mises à jour selon les modèles suivants :</p>
     <ul>
       <li><a href="{{ site.url }}/styles/typographie.html">Style de typographie</a></li>
       <li><a href="{{ site.url }}/configurations-conception-communes/changer-langue.html">Lien pour changer de langue</a></li>
