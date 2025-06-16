@@ -186,7 +186,7 @@ title: "Lien pour changer de langue"
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
   <dt><time>2025-05-15</time></dt>
-  <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de conception du GC.</dd>
+  <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC.</dd>
   <dt><time>2023-06-26</time></dt>
   <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, et les justifications stratégiques</dd>
 </dl>
