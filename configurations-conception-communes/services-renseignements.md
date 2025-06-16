@@ -176,7 +176,7 @@ title: Services et renseignements
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt><time>2025-05-15</time></dt>
-    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de conception du GC.</dd>
+    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC.</dd>
     <dt><time>2024-04-03</time></dt>
     <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
   </dl>
