@@ -47,7 +47,7 @@ title: "Pied de page général&nbsp;: Bande sous pied de page"
   <ul>
     <li>Couleur d’arrière-plan&nbsp;: gris sous pied de page (#F8F8F8)</li>
     <li>Couleur du texte&nbsp;: <a href="../styles/couleurs.html">couleurs standards des liens</a></li>
-    <li>Taille du texte&nbsp;: 14 px ou 0,875 em</li>
+    <li>Taille du texte&nbsp;: 16 px</li>
     <li>Police&nbsp;: Noto Sans</li>
     <li>Position du mot-symbole Canada&nbsp;: placé à droite</li>
     <li>Taille du mot-symbole Canada&nbsp;: 40 px de hauteur</li>
