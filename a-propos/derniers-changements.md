@@ -12,17 +12,29 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary>15 mai 2025</summary>
+    <p>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC. Ces caractéristiques ont été mises à jour selon les modèles suivants :</p>
+    <ul>
+      <li><a href="{{ site.url }}/styles/typographie.html">Style de typographie</a></li>
+      <li><a href="{{ site.url }}/configurations-conception-communes/changer-langue.html">Lien pour changer de langue</a></li>
+      <li><a href="{{ site.url }}/configurations-conception-communes/ministre.html">Ministre ou chef d’institution</a></li>
+      <li><a href="{{ site.url }}/configurations-conception-communes/en-demande.html">Bande en demande</a></li>
+      <li><a href="{{ site.url }}/configurations-conception-communes/services-renseignements.html">Services et renseignements</a></li>
+      <li><a href="{{ site.url }}/configurations-conception-communes/bloc-medias-sociaux.html">Chaînes de médias sociaux</a></li>
+    </ul>
+  </details>
+  <details>
     <summary>25 septembre 2024</summary>
     <p>Stabilisation du modèle de <a href="{{ site.url }}/modeles-obligatoire/sujet.html">page de sujet</a>.</p>
 <p>Dans le cadre de cette mise à jour, nous avons apporté des modifications à plusieurs modèles.</p>
 <p>Changements</p>
-    <ul> 
+    <ul>
 <li><a href="{{ site.url }}/configurations-conception-communes/bloc-introduction.html">Bloc d’introduction</a> : ajout d’une option d’image demi-largeur</li>
 <li><a href="{{ site.url }}/configurations-conception-communes/services-renseignements.html">Services et renseignements</a> : ajout de la possibilité de rendre invisible l’en-tête « Services et renseignements »</li>
 <li><a href="{{ site.url }}/configurations-conception-communes/bloc-medias-sociaux.html">Réseaux sociaux</a> : ajout d’une option permettant d’inclure un lien « D’autres moyens de rester en contact »</li>
 <li><a href="{{ site.url }}/configurations-conception-communes/collaborateurs.html">Collaborateurs</a> : changement du design, lequel remplace la <a href="{{ site.url }}/configurations-conception-communes/institution-responsable.html">configuration d’institution responsable</a></li>
     </ul>
-  </details>  
+  </details>
  <details>
     <summary>28 août 2024</summary>
     <p>Lancement d’une nouvelle architecture de l’information et de nouveau contenu pour conception.canada.ca. Nous avons notamment&nbsp;:</p>
