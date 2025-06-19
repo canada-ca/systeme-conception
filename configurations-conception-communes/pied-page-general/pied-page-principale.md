@@ -78,10 +78,10 @@ title: "Pied de page général&nbsp;: Bande principale"
         <li>liens&nbsp;: Noto Sans</li>
       </ul>
     </li>
-    <li>Taille du texte (la taille de base du pied de page est 16px) :
+    <li>Taille du texte :
       <ul>
-        <li>titre&nbsp;: 26px</li>
-        <li>liens&nbsp;: 16px</li>
+        <li>titre&nbsp;: 26 px</li>
+        <li>liens&nbsp;: 16 px</li>
       </ul>
     </li>
     <li>Épaisseur de la police&nbsp;:
