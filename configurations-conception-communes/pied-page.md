@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/site-footer.html"
 date: 2019-01-08
-dateModified: 2025-03-27
+dateModified: 2025-06-19
 description: "Le pied de page général (à l’échelle du site) qui se trouve au bas de chaque page. Il comprend la bande principale, une bande contextuelle et une bande sous pied de page. Il s’agit d’un modèle obligatoire avec des éléments facultatifs."
 title: "Pied de page général"
 ---
@@ -313,6 +313,10 @@ title: "Pied de page général"
 <section>
   <h2 id="modifications">Dernières modifications</h2>
   <dl class="dl-horizontal">
+   <dt>
+      <time datetime="2025-05-15" class="link-muted">2025-05-15</time>
+    </dt>
+    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le le Système de design GC</dd>
     <dt>
       <time datetime="2023-02-08" class="link-muted">2023-02-08</time>
     </dt>
