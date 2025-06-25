@@ -145,7 +145,7 @@ title: "Bande en demande"
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt><time>{{ page.dateModified }}</time></dt>
-    <dd> </dd>
+    <dd>Retiré l’étiquette facultative car la configuration est obligatoire sur certains modèles.</dd>
     <dt><time>2025-05-15</time></dt>
     <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC.</dd>
     <dt><time>2024-04-03</time></dt>
