@@ -98,8 +98,38 @@ L’outil de rétroaction invite les visiteurs à&nbsp;:
           <p class="mrgn-tp-md">Lorsqu'un utilisateur sélectionne &laquo;&nbsp;Oui&nbsp;&raquo; comme réponse à la première question ou lorsqu'il soumet sa rétroaction, un message de remerciement apparaît. Une icône coche verte apparaît, suivie du titre &laquo;&nbsp;Merci de vos commentaires&nbsp;&raquo;</p>
         </details>
       </figure>
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption>
+          <h4>4. Message contextuel quand des renseignements personnels sont détectés</h4>
+          <p class="mrgn-tp-md">Lorsqu'un commentaire contenant des renseignements personnels est soumis, un message contextuel apparaît.</p>
+          <p>Toute donnée personnelle détectée sera affichée sous la forme ### dans l’aperçu. On peut soit modifier le commentaire original, soit continuer et soumettre le commentaire automatiquement censuré.</p>
+          <p>Le bloc réutilisable afficher/masquer intitulé &laquo;&nbsp;Qu’est-ce qui est considéré comme un renseignement personnel?&nbsp;&raquo; sera fermé par défaut.</p>
+        </figcaption>
+        <img src="/images/message-contextuel.png" class="img-responsive" alt="4. Message contextuel quand des renseignements personnels sont détectés. Version texte ci-dessous&nbsp;:" />
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Ce qui apparaît lorsque des renseignements personnels sont détectés dans un commentaire</summary>
+          <p>On rappelle à l'utilisatrice ou à l'utilisateur qu'aucune réponse n'est envoyée lors de la soumission de commentaires&nbsp;: &laquo;&nbsp;Les commentaires ne sont utilisés que pour améliorer notre site Web. Vous ne recevrez aucune réponse.&nbsp;&raquo;</p>
+          <p>Un aperçu du commentaire est affiché et tout renseignement personnel est remplacé par des croisillons, &laquo;&nbsp;Par souci de confidentialité, votre commentaire sera soumis comme suit :&nbsp;&raquo;</p>
+          <p>Il y a un bloc réutilisable afficher/masquer intitulé &laquo;&nbsp;Qu'est-ce qui est considéré comme un renseignement personnel&nbsp;&raquo;. Quand le bloc réutilisable afficher/masquer est ouvert, il y a une liste des types de renseignements personnels qui ne peuvent être inclus dans le formulaire de rétroaction.</p>
+          <ul>
+            <li>Adresse courriel</li>
+            <li>Numéro de téléphone</li>
+            <li>Code postal</li>
+            <li>Numéro de passeport</li>
+            <li>Numéro d'entreprise</li>
+            <li>Numéro d'assurance sociale (NAS)</li>
+          </ul>
+          <p>Il y a deux boutons au bas de la fenêtre contextuelle.</p>
+        </details>
+      </figure>
     </div>
   </div>
+
+Lorsqu'on soumet un commentaire contenant des renseignements personnels, un message contextuel apparaît.
+
+Toute donnée personnelle détectée sera affichée sous la forme ### dans l'aperçu. On peut soit modifier le commentaire original, soit continuer et soumettre le commentaire automatiquement censuré.
+
+Le bloc réutilisable afficher/masquer intitulé « Qu'est-ce qui est considéré comme un renseignement personnel? » sera fermé par défaut.
 
 ## Protéger les renseignements personnels
 
