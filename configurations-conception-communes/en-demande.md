@@ -6,7 +6,6 @@ description: "Orientation sur l’utilisation du modèle en demande sur Canada.c
 title: "Bande en demande"
 ---
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
-<label class="label label-info">Facultatif</label>
 <p>La configuration en demande met en avant les tâches principales pour les pages d’accueil offrant une multitude de choix. Les tâches principales sont les actions que les utilisateur·rice·s cherchent le plus à effectuer dans un contexte particulier. La configuration en demande prend la forme d’une bande qui s’étend sur toute la largeur de la page sur laquelle elle apparaît.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/most-requested-fr.png" class="img-responsive" alt="" /></div>
 <section>
@@ -16,13 +15,18 @@ title: "Bande en demande"
     <li><a href="#eviter">Quoi éviter</a></li>
     <li><a href="#contenu">Contenu et conception</a></li>
     <li><a href="#œuvre">Comment procéder à la mise en œuvre</a></li>
-    <li><a href="#recherche">Recherche et justification</a></li>
+    <li><a href="#recherche">Recherche</a></li>
     <li><a href="#changements">Derniers changements</a></li>
   </ul>
 </section>
 <section id="utiliser">
   <h2>Quand l’utiliser</h2>
   <p>Utilisez ce modèle sur les pages d'accueil où les utilisateurs essaient de trouver par où commencer leur tâche, comme une page de sujet ou une page d’accueil institutionnelle.</p>
+   <p>La configuration de conception en demande est requise dans les modèles obligatoires suivants&nbsp;:</p>
+  <ul>
+    <li><a href="/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://conception.canada.ca/modeles-obligatoire/theme.html">Modèle de page de thème</a></li>
+  </ul>
 </section>
 <section id="eviter">
   <h2>Quoi éviter</h2>
@@ -132,18 +136,10 @@ title: "Bande en demande"
   </div>
 </section>
 <section id="recherche">
-  <h2>Recherche et justification</h2>
-  <h3>Constatations découlant de la recherche</h3>
+  <h2>Recherche</h2>
   <p>L’approche par bandes de la configuration de conception en demande a été testée avec succès sur la page d’accueil de Canada.ca en 2018.</p>
   <p>Dans le cadre du projet Communiquez avec l’Agence du revenu du Canada (ARC) en 2019, l’approche par bandes a été testée avec succès sur un prototype de la page d’accueil institutionnelle de l’ARC.</p>
   <p>L’utilité des liens en demande pour les pages de navigation a été reconfirmée dans le cadre du projet Orientation en 2022.</p>
-  <h3>Justification stratégique</h3>
-  <p>La configuration de conception en demande est requise dans les modèles obligatoires suivants&nbsp;:</p>
-  <ul>
-    <li><a href="/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/theme.html">Modèle de page de thème</a></li>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/sujet.html">Modèle de page de sujet</a></li>
-  </ul>
 </section>
 <section id="changements">
   <h2>Derniers changements</h2>
