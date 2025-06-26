@@ -54,26 +54,10 @@ Avant de mettre en œuvre l’outil de rétroaction sur la page, veillez à ce q
 
 Bien que les menaces soient rares, l’utilisation de boîtes de texte libres présente tout de même un risque. Il est donc important de s’y préparer.
 
-En fonction de la nature de la menace, différentes étapes s’imposent.
 
-### Menace particulière ou crise personnelle
-* La personne émettant ce type de message définit une cible (adresse, nom de bureau, personne) ou indique son identité.
 
 #### Mesures à prendre
 
-Si vous recevez un message concernant une menace particulière ou une crise personnelle par le biais de l’outil de rétroaction, vous devez le signaler.
-* Conservez une copie du commentaire ainsi que la date et l’heure de sa soumission.
-* Contactez immédiatement la police locale ou la GRC et fournissez une copie du commentaire.
-* Contactez également les services de sécurité de votre ministère.
-
-### Menace générale
-* La personne émettant ce type de menace ne définit pas de cible particulière (« vous autres », « ces gens-là », « le gouvernement »).
-
-* La menace est hypothétique (« Si je vais au bureau, je vais blesser quelqu’un. »)
-
-#### Mesures à prendre
-
-* Conservez une copie du commentaire ainsi que la date et l’heure de sa soumission.
 * Suivez les mêmes procédures que celles mises en place par votre organisme pour les menaces reçues par courriel ou par le biais des médias sociaux.
 
 ## Comment ne pas utiliser l’outil de rétroaction
