@@ -42,24 +42,31 @@ title: "Rétroaction GC"
     <li>fournir leur rétroaction en décrivant le problème.</li>
   </ul>
   <p>Placez l'outil en bas de la page, juste avant la date de modification. Alignez-le à gauche de la page, avant l'élément &laquo;&nbsp;Partagez cette page&nbsp;&raquo;. Vous pouvez choisir d'utiliser Rétroaction GC au lieu de la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;. Il n'est pas obligatoire d'ajouter Rétroaction GC lors du retrait de la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;.</p>
-  <p>La configuration de rétroaction comporte trois états&nbsp;:</p>
+  <p>Le bloc réutilisable de rétroaction comporte 4 états&nbsp;:</p>
   <ul>
     <li>la question &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo; accompagnée des boutons &laquo;&nbsp;Oui&nbsp;&raquo; et &laquo;&nbsp;Non&nbsp;&raquo;;</li>
     <li>le champ de texte destiné à la rétroaction (avec la possibilité d'ajouter un lien de contact personnalisable);</li>
+    <li>Une fenêtre contextuelle lorsque des renseignements personnels sont détectés dans un commentaire;</li>
     <li>le message de remerciement.</li>
   </ul>
   <p>Une documentation détaillée est également disponible pour l'utilisation de cette configuration et pour l'analyse de la rétroaction.</p>
   <p><a href="/retroaction/">Rétroaction GC (Analyses, sondage et commentaires)</a></p>
+
   <h3>Spécifications de contenu</h3>
   <p>Lorsque vous ajoutez pour la première fois l'outil de rétroaction à votre page, utilisez l'option par défaut, sans le lien de contact.</p>
+
   <p><strong>Envisagez uniquement d'ajouter un lien de contact si</strong> vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateurs utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
+
   <p>Le lien peut mener vers une page HTML ou vers une adresse courriel.</p>
+
   <p>Veillez à ce que le texte du lien soit court. Nous recommandons la formulation &laquo;&nbsp;Contacter [nom du service]&nbsp;&raquo;.</p>
+
   <h3>Interactions</h3>
-  <p>La configuration de rétroaction comporte trois états&nbsp;:</p>
+  <p>La configuration de rétroaction comporte 4 états&nbsp;:</p>
   <ul>
     <li>une question &laquo;&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;&raquo;;</li>
     <li>un champ de texte où saisir la rétroaction;</li>
+    <li>Détection de renseignements personnels</li>
     <li>un message de remerciement.</li>
   </ul>
   <p>Pour tous ces états, l'utilisateur reste sur la même page HTML en interagissant avec la configuration de rétroaction.</p>
@@ -68,8 +75,24 @@ title: "Rétroaction GC"
   <p>Cela commence par un titre indiquant &laquo;&nbsp;Veuillez fournir plus de détails&nbsp;&raquo;, suivi du texte &laquo;&nbsp;Vous ne recevrez aucune réponse. N'incluez pas de renseignements personnels (téléphone, courriel, NAS, renseignements financiers, médicaux ou professionnels). Maximum de 300 caractères&nbsp;&raquo;. Une fois que l'utilisateur a sélectionné &laquo;&nbsp;Soumettre&nbsp;&raquo;, un message de remerciement s'affiche.</p>
   <p>Vient ensuite un champ de texte ouvert permettant de recueillir la rétroaction.</p>
   <p>Si l'option de contact est utilisée, un lien permettant de contacter le service apparaît dans une configuration de style afficher/masquer intitulée &laquo;&nbsp;Besoin d'aide urgente pour résoudre un problème? Communiquez avec nous&nbsp;&raquo; située juste avant le titre et le champ de texte ouvert.</p>
-  <p>L'utilisateur utilise le bouton &laquo;&nbsp;Soumettre&nbsp;&raquo; pour envoyer sa rétroaction. Une fois que l'utilisateur a sélectionné &laquo;&nbsp;Soumettre&nbsp;&raquo;, un message de remerciement accompagné d'une coche verte s'affiche pour indiquer que la rétroaction a bien été envoyée.</p>
-  <p><strong>Si un utilisateur sélectionne &laquo;&nbsp;Oui&nbsp;&raquo;</strong>, seul un message de remerciement s'affiche.</p>
+  <p>Après avoir sélectionné &laquo;&nbsp;Soumettre&nbsp;&raquo;, l'utilisatrice ou l'utilisateur reçoit un message de remerciement avec une coche verte indiquant que son commentaire a été envoyé avec succès ou, si des renseignements personnels ont été détectés dans le commentaire, un message contextuel s'affiche.</p>
+  <p><strong>Lorsqu'un commentaire contenant des renseignements personnels est soumis</strong>, un message contextuel remplace l'invite.</p>
+  <p>La fenêtre contextuelle est intitulée &laquo;&nbsp;Les renseignements personnels dans votre commentaire ont été supprimés&nbsp;&raquo;.</p>
+  <p>On rappelle à l'utilisatrice ou à l'utilisateur qu'aucune réponse n'est envoyée lors de la soumission de commentaires&nbsp;: &laquo;&nbsp;Les commentaires ne sont utilisés que pour améliorer notre site Web. Vous ne recevrez aucune réponse.&nbsp;&raquo;</p>
+  <p>Un aperçu du commentaire est affiché et tout renseignement personnel est remplacé par des croisillons&nbsp;: &laquo;&nbsp;Par souci de confidentialité, votre commentaire sera soumis comme suit&nbsp;:&nbsp;&raquo;.</p>
+  <p>Il y a un bloc réutilisable afficher/masquer intitulé &laquo;&nbsp;Qu'est-ce qui est considéré comme un renseignement personnel&nbsp;&raquo;. Quand le bloc réutilisable afficher/masquer est ouvert, il y a une liste des types de renseignements personnels qui ne peuvent être inclus dans le formulaire de rétroaction.</p>
+  <ul>
+    <li>Adresse courriel</li>
+    <li>Numéro de téléphone</li>
+    <li>Code postal</li>
+    <li>Numéro de passeport</li>
+    <li>Numéro d'entreprise</li>
+    <li>Numéro d'assurance sociale (NAS)</li>
+  </ul>
+  <p>Il y a deux boutons au bas de la fenêtre contextuelle.</p>
+  <p>Un bouton permettant de &laquo;&nbsp;Retourner en arrière et modifier le commentaire&nbsp;&raquo; et un autre permettant de &laquo;&nbsp;Soumettre le commentaire&nbsp;&raquo;</p>
+  <p>Si on choisit &laquo;&nbsp;Retourner en arrière et modifier le commentaire&nbsp;&raquo;, l'utilisatrice ou l'utilisateur est réacheminé au champ de texte du commentaire initial.</p>
+  <p>Si on choisit &laquo;&nbsp;Soumettre le commentaire&nbsp;&raquo;, le commentaire est soumis et automatiquement censuré, et un message de remerciement apparaît.</p>
   <h3>Spécifications de conception</h3>
   <p>Lorsqu'il est utilisé, Rétroaction GC remplace la configuration &laquo;&nbsp;Signaler un problème sur la page&nbsp;&raquo;.</p>
   <h4>Encadré gris</h4>
@@ -134,10 +157,20 @@ title: "Rétroaction GC"
         <figcaption>
           <h4>3. Vue après avoir sélectionné &laquo;&nbsp;Oui&nbsp;&raquo; ou après avoir soumis la rétroaction</h4>
         </figcaption>
-        <img src="/images/thank-you-fr.jpg" class="img-responsive" alt="3. Vue après avoir sélectionné Oui ou après avoir soumis la rétroaction. Version texte ci-dessous&nbsp;:" />
+        <img src="/images/thank-you-fr.jpg" class="img-responsive" alt="4. Vue après avoir sélectionné Oui ou après avoir soumis la rétroaction. Version texte ci-dessous&nbsp;:" />
         <details>
           <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Vue après avoir sélectionné « Oui » ou après avoir soumis la rétroaction</summary>
           <p class="mrgn-tp-md">Lorsqu'un utilisateur sélectionne &laquo;&nbsp;Oui&nbsp;&raquo; comme réponse à la première question ou lorsqu'il soumet sa rétroaction, un message de remerciement apparaît. Une icône coche verte apparaît, suivie du titre &laquo;&nbsp;Merci de vos commentaires&nbsp;&raquo;</p>
+        </details>
+      </figure>
+      <figure class="mrgn-tp-md mrgn-bttm-lg">
+        <figcaption>
+          <h4>4. Affichage facultatif lorsque des renseignements personnels sont détectés dans le commentaire</h4>
+        </figcaption>
+        <img src="/images/message-contextuel.png" class="img-responsive" alt="3. Affichage facultatif lorsque des renseignements personnels sont détectés dans le commentaire. Version texte ci-dessous&nbsp;:" />
+        <details>
+          <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Affichage facultatif lorsque des renseignements personnels sont détectés dans le commentaire</summary>
+          <p>Le modèle de développement/réduction intitulé &laquo;&nbsp;Qu'est-ce qui est considéré comme un renseignement personnel?&nbsp;&raquo; sera fermé par défaut. Si vous cliquez sur le bouton &laquo;&nbsp;Retourner en arrière et modifier le commentaire&nbsp;&raquo;, la vue se fermera automatiquement et affichera la vue 2a. Dans le cas contraire, si l'on clique sur le bouton &laquo;&nbsp;Soumettre le commentaire&nbsp;&raquo;, la vue devient la vue 3.</p>
         </details>
       </figure>
     </div>
