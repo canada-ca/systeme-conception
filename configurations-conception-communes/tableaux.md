@@ -163,7 +163,7 @@ title: Tableaux
     </tbody>
     </table>
     <h3>Ressources supplémentaires</h3>
-    <p>Pour en savoir plus sur les tableaux adaptatifs, consultez la <a href="https://wet-boew.github.io/v4.0-ci/demos/tables/tables-fr.html">documentation des tableaux adaptatifs</a>. Le code source est disponible sur <a href="https://github.com/wet-boew/wet-boew">GitHub</a>.</p>
+    <p>Pour en savoir plus sur les tableaux adaptatifs, consultez la documentation <a href="https://wet-boew.github.io/GCWeb/components/gc-table/gc-table-fr.html">GCWeb&nbsp;: Tableaux GC</a>. Le code source est disponible sur <a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-table/gc-table-fr.html">GitHub: gc-table-fr.html</a>.</p>
   </details>
   <details>
     <summary>Tableaux de données stables</summary>
