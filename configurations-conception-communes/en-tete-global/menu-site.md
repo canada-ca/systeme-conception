@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/site-menu.html"
 date: 2017-10-05
-dateModified: 2023-06-26
+dateModified: 2025-07-08
 description: "Orientation sur l’utilisation du menu thématique sur Canada.ca. Le menu thématique donne accès aux principales tâches de tous les sites Web du gouvernement du Canada regroupés sous les principaux thèmes de Canada.ca."
 title: "Menu thématique"
 ---
@@ -71,7 +71,7 @@ title: "Menu thématique"
       <li>Ce bouton est assorti de l’étiquette &laquo;&nbsp;<span class="text-uppercase">Menu</span>&nbsp;&raquo;, avec un chevron vers le bas.</li>
     </ul>
   </li>
-  <li class="mrgn-tp-lg">Liste des thèmes, qui comprend les 15 thèmes principaux de Canada.ca dans l’ordre suivant&nbsp;:
+  <li class="mrgn-tp-lg">Liste des thèmes, qui comprend les 16 thèmes principaux de Canada.ca dans l’ordre suivant&nbsp;:
     <ul>
       <li>Emplois et milieu de travail</li>
       <li>Immigration et citoyenneté</li>
@@ -88,10 +88,11 @@ title: "Menu thématique"
       <li>Canada et le monde</li>
       <li>Argent et finances</li>
       <li>Science et innovation</li>
+      <li>Gérer les événements de la vie</li>
     </ul>
   </li>
   <li class="mrgn-tp-lg">Menu déroulant&nbsp;:
-    <p>Survoler ou cliquer sur l’un des 15 thèmes révèle un menu déroulant contenant&nbsp;:</p>
+    <p>Survoler ou cliquer sur l’un des 16 thèmes révèle un menu déroulant contenant&nbsp;:</p>
     <ul>
       <li>un lien vers la page d’accueil du thème lui-même;</li>
       <li>les sujets de premier niveau dans ce thème;</li>
@@ -106,7 +107,7 @@ title: "Menu thématique"
 <h5>Grands écrans</h5>
 <ul>
   <li>Cliquer sur le bouton de menu développe l’élément de la liste de thèmes avec le menu déroulant des travaux ouverts.</li>
-  <li>Une fois ouvert, survoler ou cliquer sur l’un des 15 thèmes révèle un menu déroulant pour ce thème.</li>
+  <li>Une fois ouvert, survoler ou cliquer sur l’un des 16 thèmes révèle un menu déroulant pour ce thème.</li>
   <li>Il faut cliquer une deuxième fois sur le menu pour le fermer.</li>
 </ul>
 
@@ -158,7 +159,7 @@ title: "Menu thématique"
     <img src="../../images/01-theme-menu-flyout-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Version grand écran du menu thématique avec menu déroulant ouvert</summary>
-      <p class="mrgn-tp-lg">Le menu thématique se compose d’un bouton avec le mot &laquo;&nbsp;Menu&nbsp;&raquo; et d’un chevron orienté vers le bas. Lorsque vous cliquez dessus, il se développe en un menu qui expose les titres des 15 thèmes. Lorsque vous cliquez sur le titre d’un thème, un menu déroulant s’affiche sur le côté droit du menu thématique. Le titre du thème est mis en évidence en haut du menu déroulant tandis que les principaux sujets sont répertoriés sous le titre sur le côté gauche. Sur le côté droit du menu déroulant, il y a un en-tête &laquo;&nbsp;En demande&nbsp;&raquo; suivi d’une liste des tâches les plus sollicitées.</p>
+      <p class="mrgn-tp-lg">Le menu thématique se compose d’un bouton avec le mot &laquo;&nbsp;Menu&nbsp;&raquo; et d’un chevron orienté vers le bas. Lorsque vous cliquez dessus, il se développe en un menu qui expose les titres des 16 thèmes. Lorsque vous cliquez sur le titre d’un thème, un menu déroulant s’affiche sur le côté droit du menu thématique. Le titre du thème est mis en évidence en haut du menu déroulant tandis que les principaux sujets sont répertoriés sous le titre sur le côté gauche. Sur le côté droit du menu déroulant, il y a un en-tête &laquo;&nbsp;En demande&nbsp;&raquo; suivi d’une liste des tâches les plus sollicitées.</p>
     </details>
   </figure>
 </div>
@@ -168,7 +169,7 @@ title: "Menu thématique"
     <img src="../../images/01-menu-mobile-closed-fr.png" class="img-responsive" alt=" ">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Version petit écran du menu thématique</summary>
-      <p class="mrgn-tp-lg">Le menu thématique se compose d’un bouton avec le mot &laquo;&nbsp;Menu&nbsp;&raquo; et d’un chevron orienté vers le bas. Lorsque vous cliquez dessus, il se développe en un menu qui expose les titres des 15 thèmes. Lorsque vous cliquez sur le titre d’un thème, un menu déroulant s’affiche sur le côté droit du menu thématique. Le titre du thème est mis en évidence en haut du menu déroulant tandis que les principaux sujets sont répertoriés sous le titre sur le côté gauche. Sur le côté droit du menu déroulant, il y a un en-tête &laquo;&nbsp;En demande&nbsp;&raquo; suivi d’une liste des tâches les plus sollicitées.</p>
+      <p class="mrgn-tp-lg">Le menu thématique se compose d’un bouton avec le mot &laquo;&nbsp;Menu&nbsp;&raquo; et d’un chevron orienté vers le bas. Lorsque vous cliquez dessus, il se développe en un menu qui expose les titres des 16 thèmes. Lorsque vous cliquez sur le titre d’un thème, un menu déroulant s’affiche sur le côté droit du menu thématique. Le titre du thème est mis en évidence en haut du menu déroulant tandis que les principaux sujets sont répertoriés sous le titre sur le côté gauche. Sur le côté droit du menu déroulant, il y a un en-tête &laquo;&nbsp;En demande&nbsp;&raquo; suivi d’une liste des tâches les plus sollicitées.</p>
     </details>
   </figure>
 </div>
@@ -249,6 +250,10 @@ title: "Menu thématique"
 
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
+<dt>
+    <time datetime="2025-07-08" class="link-muted">2025-07-08</time>
+  </dt>
+  <dd>Mise à jour pour inclure le thème de la « Gérer les événements de la vie »</dd>
   <dt>
     <time>2023-06-26</time>
   </dt>
