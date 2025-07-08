@@ -251,7 +251,7 @@ title: "Menu thématique"
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
 <dt>
-    <time datetime="2025-07-08" class="link-muted">2025-07-08</time>
+    <time>2025-07-08</time>
   </dt>
   <dd>Mise à jour pour inclure le thème de la « Gérer les événements de la vie »</dd>
   <dt>
