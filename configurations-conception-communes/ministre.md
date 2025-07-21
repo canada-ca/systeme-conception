@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/ministers-block.html
 date: "2018-12-19"
-dateModified: "2025-06-13"
+dateModified: "2025-07-22"
 description: "La configuration de conception pour un ministre ou un chef d’institution fournit des liens vers le(s) ministre(s) d’une institution, y compris son ou ses ministre(s) associé(s), ou vers son chef d’institution."
 title: "Ministre ou chef d’institution"
 ---
@@ -70,7 +70,7 @@ title: "Ministre ou chef d’institution"
         <li><a href="/styles/typographie.html">Famille et taille de police standards pour le corps de texte de Canada.ca</a></li>
       </ul>
     </li>
-    <li> Titre du chef d’institution
+    <li>Titre du chef d’institution
       <ul>
         <li><a href="/styles/couleurs.html">Couleurs standards des liens de Canada.ca</a></li>
         <li><a href="https://conception.canada.ca/styles/typographie.html">Famille et taille de police standards de Canada.ca</a>. La classe est petite et constitue 87 % de la taille du corps de texte.</li>
@@ -91,7 +91,7 @@ title: "Ministre ou chef d’institution"
         </li>
       </ul>
     </li>
-    <li>Images&nbsp;: 200&nbsp;px par 250&nbsp;px</li>
+    <li>Images&nbsp;: 200&nbsp;px par 200&nbsp;px</li>
     <li>Mise en page&nbsp;: Deux colonnes avec image à gauche et puces à droite sur les grands et les moyens écrans, ou une seule colonne sur les petits écrans</li>
   </ul>
   <h3>Exemples visuels</h3>
@@ -102,7 +102,7 @@ title: "Ministre ou chef d’institution"
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp; Ministre(s)&nbsp;&raquo;.</p>
-        <p>La première colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>La première colonne présente un espace réservé à l'image d'un chef d'institution, à gauche. Les dimensions de l'image sont de 200 x 200 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>L’honorable [nom du ou de la ministre] (lien)</li>
           <li>[Titre officiel] (texte)</li>
@@ -140,7 +140,7 @@ title: "Ministre ou chef d’institution"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Ministre et/ou secrétaire d’État et/ou secrétaire parlementaire - grand écran</b></figcaption>
-      <img src="/images/secretaires-d-etat.jpg" class="img-responsive" alt="Configuration de conception pour un ministre et/ou secrétaire d’État et/ou secrétaire parlementaire pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/secretaires-d-etat.png" class="img-responsive" alt="Configuration de conception pour un ministre et/ou secrétaire d’État et/ou secrétaire parlementaire pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre et/ou secrétaire d’État et/ou secrétaire parlementaire - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
@@ -240,6 +240,12 @@ title: "Ministre ou chef d’institution"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
+    <dt><time>{{ page.dateModified }}</time></dt>
+    <dd>
+      <ul>
+        <li>Mise à jour des directives pour inclure les spécifications d'image carrée, des exemples visuels et des directives de mise en œuvre</li>
+      </ul>
+    </dd>
     <dt><time>2025-06-13</time></dt>
     <dd>Ajout d’une variante d’image supplémentaire pour inclure le nouveau rôle de secrétaire d’État.</dd>
     <dt><time>2025-05-15</time></dt>

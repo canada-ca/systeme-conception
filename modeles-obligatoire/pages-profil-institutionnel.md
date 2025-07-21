@@ -1,16 +1,13 @@
 ---
 altLangPage: https://design.canada.ca/mandatory-templates/institutional-profile-pages.html
 date: "2020-07-23"
-dateModified: "2024-04-03"
+dateModified: "2025-07-22"
 description: Orientation sur la façon d’utiliser le modèle de page d’accueil institutionnelle et ses composants associés sur Canada.ca.
 title: Page d’accueil institutionnelle
 ---
 <p><span class="label label-danger">Obligatoire</span></p>
 <p><strong>Dernière modification</strong>&nbsp;: {{ page.dateModified }}</p>
-<p>
-    Il s’agit du modèle de la page d’accueil principale de chaque ministère, organisme et organisation du gouvernement du Canada qui a un titre d’usage dans le registre du
-    <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Programme fédéral de l’image de marque (PFIM)</a>.
-</p>
+<p>Il s’agit du modèle de la page d’accueil principale de chaque ministère, organisme et organisation du gouvernement du Canada qui a un titre d’usage dans le registre du <a href="https://www.tbs-sct.canada.ca/ap/fip-pcim/reg-fra.asp">Programme fédéral de l’image de marque (PFIM)</a>.</p>
 <div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/ilp-crop-fr.png" class="img-responsive" alt="" /></div>
 <section>
     <h2>Sur cette page</h2>
@@ -185,14 +182,14 @@ title: Page d’accueil institutionnelle
                     <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
                 </ul>
                 <p>L’élément suivant qui s’affiche sur la page est la configuration de conception d’un ministre ou d’un chef d’institution. La configuration de conception s’affiche en 2 colonnes avec l’en-tête «&nbsp;Ministre(s)&nbsp;».</p>
-                <p>La première colonne présente un espace réservé pour l’image d’un chef d’institution à gauche. Les dimensions de l’image sont 200 x 250 pixels. Les renseignements à droite comprennent&nbsp;:</p>
+                <p>La première colonne présente un espace réservé pour l’image d’un chef d’institution à gauche. Les dimensions de l’image sont 200 x 200 pixels. Les renseignements à droite comprennent&nbsp;:</p>
                 <ul>
                     <li>L’honorable [nom du ou de la ministre] (lien)</li>
                     <li>[Titre officiel] (texte)</li>
                     <li>Élément de liste&nbsp;: Lettre de mandat [facultatif] (lien)</li>
                     <li>Élément de liste&nbsp;: Dossier d’information [facultatif] (lien)</li>
                 </ul>
-                <p>La deuxième colonne présente un espace réservé pour l’image d’un chef d’institution à gauche. Les dimensions de l’image sont 200 x 250 pixels. Les renseignements à droite comprennent&nbsp;:</p>
+                <p>La deuxième colonne présente un espace réservé pour l’image d’un chef d’institution à gauche. Les dimensions de l’image sont 200 x 200 pixels. Les renseignements à droite comprennent&nbsp;:</p>
                 <ul>
                     <li>L’honorable [nom du ou de la ministre] (lien)</li>
                     <li>[Titre officiel] (texte)</li>
@@ -269,7 +266,7 @@ title: Page d’accueil institutionnelle
                     éléments.
                 </p>
                 <p>
-                    Le premier élément commence par un titre avec lien «&nbsp;L’honorable [nom du ou de la ministre]&nbsp;» suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le
+                    Le premier élément commence par un titre avec lien «&nbsp;L’honorable [nom du ou de la ministre]&nbsp;» suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 200 pixels. Sous l’image se trouve le
                     texte [Titre officiel]. Il est suivi d’une liste à puces avec les deux éléments avec lien suivants&nbsp;:
                 </p>
                 <ul>
@@ -277,7 +274,7 @@ title: Page d’accueil institutionnelle
                     <li>Dossier d’information [facultatif]</li>
                 </ul>
                 <p>
-                    Le deuxième élément commence par un titre avec lien « L’honorable [nom du ou de la ministre] » suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le texte [Titre
+                    Le deuxième élément commence par un titre avec lien « L’honorable [nom du ou de la ministre] » suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 200 pixels. Sous l’image se trouve le texte [Titre
                     officiel]. Il est suivi de l’élément avec lien suivant&nbsp;:
                 </p>
                 <ul>
@@ -363,7 +360,15 @@ title: Page d’accueil institutionnelle
     <h2 id="latest">Derniers changements</h2>
     <dl class="dl-horizontal">
         <dt>
-            <time datetime="2024-04-03" class="link-muted">2024-04-03</time>
+            <time>{{ page.dateModified }}</time>
+        </dt>
+        <dd>
+            <ul>
+                <li>Mise à jour des directives pour inclure les spécifications d'une image carrée, des exemples visuels et des directives de mise en œuvre.</li>
+            </ul>
+        </dd>
+        <dt>
+            <time>2024-04-03</time>
         </dt>
         <dd>
             <ul>
@@ -372,7 +377,7 @@ title: Page d’accueil institutionnelle
             </ul>
         </dd>
         <dt>
-            <time datetime="2020-07-23" class="link-muted">2020-07-23</time>
+            <time>2020-07-23</time>
         </dt>
         <dd>
             <ul>
