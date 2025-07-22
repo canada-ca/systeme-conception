@@ -325,4 +325,3 @@ title: "Tâches principales pour Canada.ca"
     </tr>
 </tbody>
 </table>
-</details>
