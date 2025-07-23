@@ -98,7 +98,7 @@ title: "Ministre ou chef d’institution"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Ministre ou chef d’institution – grand écran</b></figcaption>
-      <img src="/images/ministers-block-fr.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/ministers-block-lg-fr.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp; Ministre(s)&nbsp;&raquo;.</p>
@@ -106,14 +106,11 @@ title: "Ministre ou chef d’institution"
         <ul>
           <li>L’honorable [nom du ou de la ministre] (lien)</li>
           <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: Lettre de mandat [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: Dossier d’information [facultatif] (lien) </li>
         </ul>
-        <p>La deuxième colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200&nbsp;x&nbsp;250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>La deuxième colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200&nbsp;x&nbsp;200 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>L’honorable [nom du ou de la ministre] (lien)</li>
           <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: Lettre de mandat [facultatif – un seul élément] (lien)</li>
         </ul>
       </details>
     </figure>
@@ -125,62 +122,35 @@ title: "Ministre ou chef d’institution"
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - petit écran</summary>
         <p>La configuration de conception s’affiche dans une colonne et deux éléments avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
-        <p>Le premier élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ou de la ministre]&nbsp;&raquo; suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le texte [Titre officiel]. Il est suivi d’une liste à puces avec les deux éléments avec lien suivants&nbsp;:</p>
-        <ul>
-          <li>Lettre de mandat [facultatif]</li>
-          <li>Dossier d’information [facultatif]</li>
-        </ul>
-        <p>Le deuxième élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ministre]&nbsp;&raquo; suivi d’un espace réservé pour l’image aux dimensions prescrites de 200&nbsp;x&nbsp;250 pixels. Sous l’image se trouve le texte [Titre officiel]. Il est suivi de l’élément avec lien suivant&nbsp;:</p>
-        <ul>
-          <li>Lettre de mandat [facultatif – élément unique]</li>
-        </ul>
+        <p>Le premier élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ou de la ministre]&nbsp;&raquo; suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 200 pixels. Sous l’image se trouve le texte [Titre officiel].</p>
+        <p>Le deuxième élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ministre]&nbsp;&raquo; suivi d’un espace réservé pour l’image aux dimensions prescrites de 200&nbsp;x&nbsp;200 pixels. Sous l’image se trouve le texte [Titre officiel].</p>
       </details>
     </figure>
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Ministre et/ou secrétaire d’État et/ou secrétaire parlementaire - grand écran</b></figcaption>
-      <img src="/images/secretaires-d-etat.png" class="img-responsive" alt="Configuration de conception pour un ministre et/ou secrétaire d’État et/ou secrétaire parlementaire pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <figcaption><b>Ministre et/ou secrétaire d’État et/ou secrétaire parlementaire (petite variation d'image) - grand écran</b></figcaption>
+      <img src="/images/images-sm-variant-fr.png" class="img-responsive" alt="Configuration de conception pour un ministre et/ou secrétaire d’État et/ou secrétaire parlementaire pour les grands écrans (petite variation d'image). Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre et/ou secrétaire d’État et/ou secrétaire parlementaire - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
-        <p>La première colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>La première colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200 x 200 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>L’honorable [nom du ou de la ministre] (lien)</li>
           <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
         </ul>
         <p>La deuxième colonne est vide. Si plus d’un ministre fait partie d’un ministère, vous présenteriez les autres ministres ici, en suivant le format de la première colonne.</p>
-        <p>La rangée &laquo;&nbsp;Ministres&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo;. À la suite de ce titre, il y a deux colonnes.</p>
-        <p>La première colonne présente un espace réservé à l’image d’un ou d’une secrétaire d’État, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>La rangée &laquo;&nbsp;Ministres&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo;. À la suite de ce titre, il y a trois colonnes.</p>
+        <p>Chacune des trois colonnes présente un espace réservé à l’image d’un ou d’une secrétaire d’État, à gauche. Les dimensions de l’image sont de 200 x 200 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>L’honorable [nom du ou de la secrétaire d’État] (lien)</li>
           <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-        </ul>
-        <p>La deuxième colonne présente un espace réservé à l’image d’un secrétaire d’État, à gauche. Les. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
-        <ul>
-          <li>L’honorable [nom du ou de la secrétaire d’État] (lien)</li>
-          <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
         </ul>
         <p>La rangée &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) parlementaire(s)&nbsp;&raquo;. À la suite de ce titre, il y a deux colonnes.</p>
-        <p>La première colonne présente un espace réservé à l’image d’un ou d’une secrétaire parlementaire, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>Chacune des trois colonnes présente un espace réservé à l’image d’un ou d’une secrétaire parlementaire, à gauche. Les dimensions de l’image sont de 200 x 200 pixels, mais elle apparaît plus petite sur un grand écran. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>[Nom du ou de la secrétaire parlementaire] (lien)</li>
           <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-        </ul>
-        <p>La deuxième colonne présente un espace réservé à l’image d’un secrétaire(s) parlementaire, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
-        <ul>
-          <li>[Nom du ou de la secrétaire parlementaire] (lien)</li>
-          <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
         </ul>
       </details>
     </figure>
