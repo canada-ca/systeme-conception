@@ -146,7 +146,7 @@ title: "Ministre ou chef d’institution"
           <li>L’honorable [nom du ou de la secrétaire d’État] (lien)</li>
           <li>[Titre officiel] (texte)</li>
         </ul>
-        <p>La rangée &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) parlementaire(s)&nbsp;&raquo;. À la suite de ce titre, il y a deux colonnes.</p>
+        <p>La rangée &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) parlementaire(s)&nbsp;&raquo;. À la suite de ce titre, il y a trois colonnes.</p>
         <p>Chacune des trois colonnes présente un espace réservé à l’image d’un ou d’une secrétaire parlementaire, à gauche. Les dimensions de l’image sont de 200 x 200 pixels, mais elle apparaît plus petite sur un grand écran. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>[Nom du ou de la secrétaire parlementaire] (lien)</li>
