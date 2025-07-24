@@ -369,7 +369,7 @@ title: Page d’accueil institutionnelle
         <dd>
             <ul>
                 <li>Déplacement du modèle de l’état bêta à stable</li>
-                <li>Mise à jour des orientations visant à inclure des spécifications en matière de contenu et de conception, des exemples visuels et des orientations sur la mise en œuvre.</li>
+                <li>Mise à jour des orientations visant à inclure des spécifications en matière de contenu et de conception, des exemples visuels et des orientations sur la mise en œuvre</li>
             </ul>
         </dd>
         <dt>
