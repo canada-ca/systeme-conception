@@ -362,11 +362,7 @@ title: Page d’accueil institutionnelle
         <dt>
             <time>{{ page.dateModified }}</time>
         </dt>
-        <dd>
-            <ul>
-                <li>Mise à jour des directives pour inclure les spécifications d'une image carrée, des exemples visuels et des directives de mise en œuvre.</li>
-            </ul>
-        </dd>
+        <dd>>Mise à jour des directives pour inclure les spécifications d'une image carrée, des exemples visuels et des directives de mise en œuvre.</dd>
         <dt>
             <time>2024-04-03</time>
         </dt>
