@@ -213,7 +213,7 @@ title: "Ministre ou chef d’institution"
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt><time>{{ page.dateModified }}</time></dt>
-    <dd>>Mise à jour des directives pour inclure les spécifications d'image carrée, des exemples visuels et des directives de mise en œuvre</dd>
+    <dd>Mise à jour des directives pour inclure les spécifications d'image carrée, des exemples visuels et des directives de mise en œuvre</dd>
     <dt><time>2025-06-13</time></dt>
     <dd>Ajout d’une variante d’image supplémentaire pour inclure le nouveau rôle de secrétaire d’État</dd>
     <dt><time>2025-05-15</time></dt>
