@@ -141,7 +141,7 @@ title: "Ministre ou chef d’institution"
         </ul>
         <p>La deuxième colonne est vide. Si plus d’un ministre fait partie d’un ministère, vous présenteriez les autres ministres ici, en suivant le format de la première colonne.</p>
         <p>La rangée &laquo;&nbsp;Ministres&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo;. À la suite de ce titre, il y a trois colonnes.</p>
-        <p>Chacune des trois colonnes présente un espace réservé à l’image d’un ou d’une secrétaire d’État, à gauche. Les dimensions de l’image sont de 200 x 200 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>Chacune des trois colonnes présente un espace réservé à l’image d’un ou d’une secrétaire d’État, à gauche. Les dimensions de l’image sont de 200 x 200 pixels, mais elle apparaît plus petite sur un grand écran. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>L’honorable [nom du ou de la secrétaire d’État] (lien)</li>
           <li>[Titre officiel] (texte)</li>
@@ -164,6 +164,8 @@ title: "Ministre ou chef d’institution"
   <ul>
     <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-fr.html">Ministre ou chef d'institution - GCWeb
 </a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-two-ministers-fr.html">Ministre ou chef d'institution - exemple avec deux ministres - GCWeb</a></li>
+     <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-multiple-fr.html">Ministre ou chef d'institution - exemple de plusieurs ministres - GCWeb</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
   <h3>Mises en œuvre</h3>
@@ -211,15 +213,11 @@ title: "Ministre ou chef d’institution"
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt><time>{{ page.dateModified }}</time></dt>
-    <dd>
-      <ul>
-        <li>Mise à jour des directives pour inclure les spécifications d'image carrée, des exemples visuels et des directives de mise en œuvre</li>
-      </ul>
-    </dd>
+    <dd>>Mise à jour des directives pour inclure les spécifications d'image carrée, des exemples visuels et des directives de mise en œuvre</dd>
     <dt><time>2025-06-13</time></dt>
-    <dd>Ajout d’une variante d’image supplémentaire pour inclure le nouveau rôle de secrétaire d’État.</dd>
+    <dd>Ajout d’une variante d’image supplémentaire pour inclure le nouveau rôle de secrétaire d’État</dd>
     <dt><time>2025-05-15</time></dt>
-    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de conception du GC.</dd>
+    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de conception du GC</dd>
     <dt><time>2024-04-03</time></dt>
     <dd>Ajout d’une orientation à l’appui des mises à jour de la page d’accueil institutionnelle</dd>
   </dl>
