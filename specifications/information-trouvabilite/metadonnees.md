@@ -46,7 +46,7 @@ breadcrumbs: [{
 <section id="m1">
     <h2>Métadonnées et trouvabilité pour Canada.ca</h2>
     <p>
-        Les <strong>métadonnées</strong> sont des données décrivant les données. Ce sont des renseignements sur le contenu de votre page. On peut comparer cela à la fiche d’un livre dans le catalogue d’une bibliothèque, qui fournirait les données clés sur l’ouvrage, comme le nom de l’auteur, le titre, la description ou encore la date de publication. Les métadonnées permettent de décrire chaque page Web de manière unique, mais selon une méthode uniforme. 
+        Les <strong>métadonnées</strong> sont des données décrivant les données. Ce sont des renseignements sur le contenu de votre page. On peut comparer cela à la fiche d’un livre dans le catalogue d’une bibliothèque, qui fournirait les données clés sur l’ouvrage, comme le nom de l’auteur, le titre, la description ou encore la date de publication. Les métadonnées permettent de décrire chaque page Web de manière unique, mais selon une méthode uniforme.
     </p>
     <p>Tous les éléments compris dans la balise d’en-tête d’un document HTML sont des métadonnées et sont invisibles sur la page Web elle-même. Seul le contenu de la balise &lt;body&gt; du document s’affiche dans un navigateur.</p>
     <p>
@@ -56,7 +56,7 @@ breadcrumbs: [{
         La <strong>trouvabilité</strong> est la facilité avec laquelle une personne peut trouver ce qu’elle cherche en ligne. C’est la qualité d’un élément d’être localisable ou navigable; la facilité à trouver une ressource (une page Web) et la façon dont un système (un site Web) prend en charge la navigation et la recherche.
     </p>
     <p>
-        Il est nécessaire de bien comprendre les objectifs des utilisateurs et utilisatrices pour optimiser le contenu et les métadonnées en vue de leur trouvabilité. Cela inclut de savoir quels termes les gens utilisent pour trouver votre contenu. Vous devriez intégrer ces mots-clés au contenu et aux métadonnées de la page. Si vous avez accès à des sources primaires (entrevues, études sur l’utilisabilité, tickets de soutien, courriels, transcriptions de centres d’appels, etc.), utilisez ces sources pour déterminer vos mots-clés. Vous pouvez également utiliser des outils de recherche de mots-clés en ligne. 
+        Il est nécessaire de bien comprendre les objectifs des utilisateurs et utilisatrices pour optimiser le contenu et les métadonnées en vue de leur trouvabilité. Cela inclut de savoir quels termes les gens utilisent pour trouver votre contenu. Vous devriez intégrer ces mots-clés au contenu et aux métadonnées de la page. Si vous avez accès à des sources primaires (entrevues, études sur l’utilisabilité, tickets de soutien, courriels, transcriptions de centres d’appels, etc.), utilisez ces sources pour déterminer vos mots-clés. Vous pouvez également utiliser des outils de recherche de mots-clés en ligne.
     </p>
     <p>Les instructions de cette page vous aideront à comprendre comment utiliser au mieux vos mots-clés dans les métadonnées.</p>
 </section>
@@ -81,7 +81,8 @@ breadcrumbs: [{
         </div>
     </div>
     <p>Si vous utilisez ces deux options, le contenu devrait être le même. En utilisant les deux options, vous vous assurez que votre page est optimisée pour la visibilité sur les moteurs de recherche tout en respectant les normes établies en matière de métadonnées.</p>
-    <h3>La balise &lt;title&gt;</h3>
+
+    <h3 id="m2-0">La balise &lt;title&gt;</h3>
     <p>La balise &lt;title&gt; est obligatoire sur toutes les pages. Son objectif premier est de définir le titre de la page s’affichant dans l’onglet du navigateur.</p>
     <p>
         La balise &lt;title&gt; est le champ le plus important pour le classement des résultats de recherche. Les moteurs de recherche peuvent afficher le contenu de la balise &lt;title&gt; sous la forme d’un lien bleu cliquable sur la page de résultats des moteurs de recherche. Selon la façon dont ils interprètent l’objectif de l’utilisateur, Google et les autres moteurs de recherche peuvent inclure, dans le texte du lien affiché dans la page de résultats, d’autres éléments de contenu de la page. Le moteur de recherche de Canada.ca obtiendra toujours le lien à partir de la balise &lt;title&gt;.
@@ -99,11 +100,11 @@ breadcrumbs: [{
 </code></pre>
         </div>
     </div>
-    <h3>Le titre dcterms</h3>
+    <h3 id="m2-1">Le titre dcterms</h3>
     <p>
         Le titre dcterms est optionnel. Ce champ de métadonnées fait partie de la Dublin Core Metadata Initiative (projet de métadonnées du Dublin Core). Il permet de fournir des métadonnées supplémentaires pouvant être utilisées par certains systèmes pour cataloguer et indexer votre page. Si vous utilisez ce champ, son contenu doit être identique à votre champ &lt;title&gt;.
     </p>
-    <h3>Coordination du contenu des balises &lt;title&gt; et &lt;h1&gt;</h3>
+    <h3 id="m2-2">Coordination du contenu des balises &lt;title&gt; et &lt;h1&gt;</h3>
     <p>
         Les pages Web exigent à la fois une métadonnée &lt;title&gt; et un titre visible, généralement un titre &lt;h1&gt;. Il est utile de penser à ces deux titres dès le début du processus de création. Ils sont souvent identiques, mais n’ont pas nécessairement à l’être. Dans certains cas, il est important que le texte de ces deux titres soit différent.
     </p>
@@ -118,7 +119,7 @@ breadcrumbs: [{
 </code></pre>
         </div>
     </div>
-    <h3>Conseils pour des titres efficaces</h3>
+    <h3 id="m2-3">Conseils pour des titres efficaces</h3>
     <ul>
         <li>Créez le contenu de vos balises &lt;title&gt; content et &lt;h1&gt; au même moment.</li>
         <li>Décrivez le contenu de la page de manière aussi succincte que possible.</li>
@@ -136,7 +137,7 @@ breadcrumbs: [{
         </li>
         <li>Évitez les doublons de titres.</li>
     </ul>
-    <h3>Évitement des doublons de titres dans les résultats de recherche</h3>
+    <h3 id="m2-4">Évitement des doublons de titres dans les résultats de recherche</h3>
     <ul>
         <li>
             Il existe de nombreux doublons de balises &lt;title&gt; dans le contenu Canada.ca. Le contenu de la balise &lt;title&gt; peut s’afficher comme un lien cliquable sur une page de résultats de recherche. Les doublons de titre peuvent donc rendre difficile la distinction entre différentes pages pour les utilisateurs et utilisatrices.
@@ -268,7 +269,7 @@ breadcrumbs: [{
     </div>
     <p>Si vous utilisez ces deux options, le contenu devrait être le même. En utilisant les deux options, vous vous assurez que votre page est optimisée pour la visibilité sur les moteurs de recherche tout en respectant les normes établies en matière de métadonnées.</p>
     <p>
-        La métadonnée de description doit résumer avec exactitude le contenu de votre page et indiquer aux utilisateurs et utilisatrices les renseignements qu’ils et elles y trouveront ou les actions qu’ils et elles pourront y effectuer. Une bonne description a plus de chances d’être affichée sur une page de résultats des moteurs de recherche, où elle pourra aider les utilisateurs et utilisatrices à déterminer si le contenu est pertinent. Comme pour la balise &lt;title&gt;, si Google ou d’autres moteurs de recherche déterminent que du contenu sur la page correspond mieux à l’objectif de l’utilisateur ou utilisatrice, ils afficheront ce contenu. 
+        La métadonnée de description doit résumer avec exactitude le contenu de votre page et indiquer aux utilisateurs et utilisatrices les renseignements qu’ils et elles y trouveront ou les actions qu’ils et elles pourront y effectuer. Une bonne description a plus de chances d’être affichée sur une page de résultats des moteurs de recherche, où elle pourra aider les utilisateurs et utilisatrices à déterminer si le contenu est pertinent. Comme pour la balise &lt;title&gt;, si Google ou d’autres moteurs de recherche déterminent que du contenu sur la page correspond mieux à l’objectif de l’utilisateur ou utilisatrice, ils afficheront ce contenu.
     </p>
     <h3>Instructions pour la rédaction des métadonnées de description</h3>
     <p>La métadonnée de description DOIT&nbsp;:</p>
@@ -287,7 +288,7 @@ breadcrumbs: [{
     <p>Pour en savoir plus&nbsp;:</p>
     <ul>
         <li>
-            <a href="https://www.digitalprofession.gov.au/content-strategy/search-engine-optimisation/on-page-seo">Improve on-page SEO | Australian Government (en anglais seulement)</a>&nbsp;: Un guide pratique de techniques de référencement éprouvées. 
+            <a href="https://www.digitalprofession.gov.au/content-strategy/search-engine-optimisation/on-page-seo">Improve on-page SEO | Australian Government (en anglais seulement)</a>&nbsp;: Un guide pratique de techniques de référencement éprouvées.
         </li>
     </ul>
 </section>
