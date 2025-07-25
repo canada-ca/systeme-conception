@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/ministers-block.html
 date: "2018-12-19"
-dateModified: "2025-06-13"
+dateModified: "2025-07-22"
 description: "La configuration de conception pour un ministre ou un chef d’institution fournit des liens vers le(s) ministre(s) d’une institution, y compris son ou ses ministre(s) associé(s), ou vers son chef d’institution."
 title: "Ministre ou chef d’institution"
 ---
@@ -70,7 +70,7 @@ title: "Ministre ou chef d’institution"
         <li><a href="/styles/typographie.html">Famille et taille de police standards pour le corps de texte de Canada.ca</a></li>
       </ul>
     </li>
-    <li> Titre du chef d’institution
+    <li>Titre du chef d’institution
       <ul>
         <li><a href="/styles/couleurs.html">Couleurs standards des liens de Canada.ca</a></li>
         <li><a href="https://conception.canada.ca/styles/typographie.html">Famille et taille de police standards de Canada.ca</a>. La classe est petite et constitue 87 % de la taille du corps de texte.</li>
@@ -91,29 +91,26 @@ title: "Ministre ou chef d’institution"
         </li>
       </ul>
     </li>
-    <li>Images&nbsp;: 200&nbsp;px par 250&nbsp;px</li>
+    <li>Images&nbsp;: 200&nbsp;px par 200&nbsp;px</li>
     <li>Mise en page&nbsp;: Deux colonnes avec image à gauche et puces à droite sur les grands et les moyens écrans, ou une seule colonne sur les petits écrans</li>
   </ul>
   <h3>Exemples visuels</h3>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Ministre ou chef d’institution – grand écran</b></figcaption>
-      <img src="/images/ministers-block-fr.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="/images/ministers-block-lg-fr.png" class="img-responsive" alt="Configuration de conception pour un ministre ou chef d’institution pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp; Ministre(s)&nbsp;&raquo;.</p>
-        <p>La première colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>La première colonne présente un espace réservé à l'image d'un chef d'institution, à gauche. Les dimensions de l'image sont de 200 x 200 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>L’honorable [nom du ou de la ministre] (lien)</li>
           <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: Lettre de mandat [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: Dossier d’information [facultatif] (lien) </li>
         </ul>
-        <p>La deuxième colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200&nbsp;x&nbsp;250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>La deuxième colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200&nbsp;x&nbsp;200 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>L’honorable [nom du ou de la ministre] (lien)</li>
           <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: Lettre de mandat [facultatif – un seul élément] (lien)</li>
         </ul>
       </details>
     </figure>
@@ -125,62 +122,35 @@ title: "Ministre ou chef d’institution"
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre ou chef d’institution - petit écran</summary>
         <p>La configuration de conception s’affiche dans une colonne et deux éléments avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
-        <p>Le premier élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ou de la ministre]&nbsp;&raquo; suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 250 pixels. Sous l’image se trouve le texte [Titre officiel]. Il est suivi d’une liste à puces avec les deux éléments avec lien suivants&nbsp;:</p>
-        <ul>
-          <li>Lettre de mandat [facultatif]</li>
-          <li>Dossier d’information [facultatif]</li>
-        </ul>
-        <p>Le deuxième élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ministre]&nbsp;&raquo; suivi d’un espace réservé pour l’image aux dimensions prescrites de 200&nbsp;x&nbsp;250 pixels. Sous l’image se trouve le texte [Titre officiel]. Il est suivi de l’élément avec lien suivant&nbsp;:</p>
-        <ul>
-          <li>Lettre de mandat [facultatif – élément unique]</li>
-        </ul>
+        <p>Le premier élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ou de la ministre]&nbsp;&raquo; suivi d’un espace réservé pour l’image aux dimensions prescrites de 200 x 200 pixels. Sous l’image se trouve le texte [Titre officiel].</p>
+        <p>Le deuxième élément commence par un titre avec lien &laquo;&nbsp;L’honorable [nom du ministre]&nbsp;&raquo; suivi d’un espace réservé pour l’image aux dimensions prescrites de 200&nbsp;x&nbsp;200 pixels. Sous l’image se trouve le texte [Titre officiel].</p>
       </details>
     </figure>
   </div>
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
-      <figcaption><b>Ministre et/ou secrétaire d’État et/ou secrétaire parlementaire - grand écran</b></figcaption>
-      <img src="/images/secretaires-d-etat.jpg" class="img-responsive" alt="Configuration de conception pour un ministre et/ou secrétaire d’État et/ou secrétaire parlementaire pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <figcaption><b>Ministre et/ou secrétaire d’État et/ou secrétaire parlementaire (petite variation d'image) - grand écran</b></figcaption>
+      <img src="/images/images-sm-variant-fr.png" class="img-responsive" alt="Configuration de conception pour un ministre et/ou secrétaire d’État et/ou secrétaire parlementaire pour les grands écrans (petite variation d'image). Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: ministre et/ou secrétaire d’État et/ou secrétaire parlementaire - grand écran</summary>
         <p>La configuration de conception du ministre s’affiche dans deux colonnes avec l’en-tête &laquo;&nbsp;Ministre(s)&nbsp;&raquo;.</p>
-        <p>La première colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>La première colonne présente un espace réservé à l’image d’un chef d’institution, à gauche. Les dimensions de l’image sont de 200 x 200 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>L’honorable [nom du ou de la ministre] (lien)</li>
           <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
         </ul>
         <p>La deuxième colonne est vide. Si plus d’un ministre fait partie d’un ministère, vous présenteriez les autres ministres ici, en suivant le format de la première colonne.</p>
-        <p>La rangée &laquo;&nbsp;Ministres&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo;. À la suite de ce titre, il y a deux colonnes.</p>
-        <p>La première colonne présente un espace réservé à l’image d’un ou d’une secrétaire d’État, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>La rangée &laquo;&nbsp;Ministres&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo;. À la suite de ce titre, il y a trois colonnes.</p>
+        <p>Chacune des trois colonnes présente un espace réservé à l’image d’un ou d’une secrétaire d’État, à gauche. Les dimensions de l’image sont de 200 x 200 pixels, mais elle apparaît plus petite sur un grand écran. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>L’honorable [nom du ou de la secrétaire d’État] (lien)</li>
           <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
         </ul>
-        <p>La deuxième colonne présente un espace réservé à l’image d’un secrétaire d’État, à gauche. Les. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
-        <ul>
-          <li>L’honorable [nom du ou de la secrétaire d’État] (lien)</li>
-          <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-        </ul>
-        <p>La rangée &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) parlementaire(s)&nbsp;&raquo;. À la suite de ce titre, il y a deux colonnes.</p>
-        <p>La première colonne présente un espace réservé à l’image d’un ou d’une secrétaire parlementaire, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
+        <p>La rangée &laquo;&nbsp;Secrétaire(s) d’État&nbsp;&raquo; est suivie du titre &laquo;&nbsp;Secrétaire(s) parlementaire(s)&nbsp;&raquo;. À la suite de ce titre, il y a trois colonnes.</p>
+        <p>Chacune des trois colonnes présente un espace réservé à l’image d’un ou d’une secrétaire parlementaire, à gauche. Les dimensions de l’image sont de 200 x 200 pixels, mais elle apparaît plus petite sur un grand écran. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
         <ul>
           <li>[Nom du ou de la secrétaire parlementaire] (lien)</li>
           <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-        </ul>
-        <p>La deuxième colonne présente un espace réservé à l’image d’un secrétaire(s) parlementaire, à gauche. Les dimensions de l’image sont de 200 x 250 pixels. Les renseignements inclus à droite comprennent les suivants&nbsp;:</p>
-        <ul>
-          <li>[Nom du ou de la secrétaire parlementaire] (lien)</li>
-          <li>[Titre officiel] (texte)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
-          <li>Élément de liste&nbsp;: [facultatif] (lien)</li>
         </ul>
       </details>
     </figure>
@@ -192,8 +162,9 @@ title: "Ministre ou chef d’institution"
   <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <p>La référence à l’implémentation comprend la façon de configurer le thème de Canada.ca et ses divers composants.</p>
   <ul>
-    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-fr.html">Ministre ou chef d'institution - GCWeb
-</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-fr.html">Ministre ou chef d'institution - exemple d’un seul ministre - GCWeb</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-two-ministers-fr.html">Ministre ou chef d'institution - exemple avec deux ministres - GCWeb</a></li>
+     <li><a href="https://wet-boew.github.io/GCWeb/components/gc-minister/gc-minister-multiple-fr.html">Ministre ou chef d'institution - exemple de plusieurs ministres - GCWeb</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
   <h3>Mises en œuvre</h3>
@@ -240,10 +211,12 @@ title: "Ministre ou chef d’institution"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
+    <dt><time>{{ page.dateModified }}</time></dt>
+    <dd>Mise à jour des directives pour inclure les spécifications d'image carrée, des exemples visuels et des directives de mise en œuvre</dd>
     <dt><time>2025-06-13</time></dt>
-    <dd>Ajout d’une variante d’image supplémentaire pour inclure le nouveau rôle de secrétaire d’État.</dd>
+    <dd>Ajout d’une variante d’image supplémentaire pour inclure le nouveau rôle de secrétaire d’État</dd>
     <dt><time>2025-05-15</time></dt>
-    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de conception du GC.</dd>
+    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de conception du GC</dd>
     <dt><time>2024-04-03</time></dt>
     <dd>Ajout d’une orientation à l’appui des mises à jour de la page d’accueil institutionnelle</dd>
   </dl>
