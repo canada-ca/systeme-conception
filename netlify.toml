@@ -1,16 +1,13 @@
 [context.deploy-preview]
-    # Replace DEPLOY_PRIME_URL placeholder with actual Netlify preview URL
-	command = "sed -i.bak 's|DEPLOY_PRIME_URL|'${DEPLOY_PRIME_URL}'|g' _config.staging.yml && bundle exec jekyll build --config _config.yml,_config.staging.yml
+  # Replace DEPLOY_PRIME_URL placeholder with actual Netlify preview URL
+  command = "sed -i.bak 's|DEPLOY_PRIME_URL|'${DEPLOY_PRIME_URL}'|g' _config.staging.yml && bundle exec jekyll build --config _config.yml,_config.staging.yml"
 
-# The following rule is for caching pages based on Adobe Analytics cookies.
 [[headers]]
   for = "/*"
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
     Vary = "Cookie"
 
-# The configuration below is based on Netlify's documentation for caching based on cookies.
-# It tells Netlify which cookies to consider for caching.
 [caching]
   included_cookies = [
     "AMCVS_A90F2A0D55423F537F000101%40AdobeOrg",

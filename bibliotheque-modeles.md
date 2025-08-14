@@ -1,4 +1,4 @@
---- 
+---
 altLangPage: "https://design.canada.ca/pattern-library.html"
 date: 2021-05-03
 dateModified: 2023-08-19
@@ -13,7 +13,7 @@ title: "Bibliothèque de modèles et de configurations de conception"
     <div class="col-md-3 small">
       <details open="open">
         <summary class="bg-primary text-center">Options de filtrage</summary>
-        <form class="wb-tables-filter mrgn-lft-md mrgn-rght-md" data-bind-to="design">
+        <form class="wb-tables-filter mrgn-lft-md mrgn-rght-md" data-bind-to="design" data-gc-analytics-formname="ESDC|EDSC:Filter options" data-gc-analytics-collect='[{"value":"select","emptyField": "n/a"}]'>
           <div class="row mrgn-tp-lg mrgn-bttm-lg">
             <div class="form-group">
               <label for="dt_cat">Configurations, modèles ou styles</label>
@@ -50,7 +50,7 @@ title: "Bibliothèque de modèles et de configurations de conception"
             <div class="col-md-12 mrgn-tp-lg">
               <button type="submit" class="btn btn-primary full-width" aria-controls="dataset-filter"><span class="fas fa-filter mrgn-rght-sm"></span> Filtre</button>
             </div>
-            <div class="col-md-12 mrgn-tp-md"><a href="bibliotheque-modeles.html" class="btn btn-default full-width">Réinitialiser aux valeurs par défaut</a></div>
+            <div class="col-md-12 mrgn-tp-md"><button type="reset" class="btn btn-default full-width">Réinitialiser aux valeurs par défaut</button></div>
           </div>
         </form>
       </details>
@@ -73,14 +73,14 @@ title: "Bibliothèque de modèles et de configurations de conception"
             { &quot;data&quot;: &quot;TYPE&quot;, &quot;className&quot;: &quot;&quot; },
             { &quot;data&quot;: &quot;MANDATORY&quot;,  &quot;visible&quot;: false },
             { &quot;data&quot;: &quot;TANDP&quot;,  &quot;visible&quot;: false, &quot;Search&quot;: &quot;1&quot; }
-            ], 
+            ],
             &quot;searchCols&quot;: [
             null,
             null,
             null,
             null,
             null,
-            null, 
+            null,
             null,
             { &quot;sSearch&quot;: &quot;1&quot; }]
             }">
