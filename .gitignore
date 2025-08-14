@@ -7,11 +7,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-.obsidian/
-*.py
 log*.md
-.hintrc
-*.code-workspace
 
 # Icon must end with two \r
 Icon

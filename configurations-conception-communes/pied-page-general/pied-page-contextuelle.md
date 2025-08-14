@@ -70,10 +70,10 @@ title: "Pied de page général&nbsp;: Bande contextuelle"
         <li>liens&nbsp;: Noto Sans</li>
       </ul>
     </li>
-    <li>Taille du texte (la taille de base du pied de page est 16px) :
+    <li>Taille du texte :
       <ul>
-        <li>titre&nbsp;: 19px ou 1.2em</li>
-        <li>liens&nbsp;: 14px ou 0.875em</li>
+        <li>titre&nbsp;: 26 px</li>
+        <li>liens&nbsp;: 16 px</li>
       </ul>
     </li>
     <li>Épaisseur de la police :

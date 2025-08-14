@@ -43,3 +43,8 @@ title: Typographie - Style de Canada.ca
 <p>Les mises en page peuvent comporter plus de 65 caractères. Cette restriction de longueur de ligne s'applique uniquement aux lignes de texte.</p>
 <h2>Liens</h2>
 <p>Soulignez les liens en utilisant un style de soulignement qui ignore les descendeurs.</p>
+<h2>Derniers changements</h2>
+<dl class="dl-horizontal">
+  <dt><time>2025-05-15</time></dt>
+  <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC.</dd>
+</dl>
