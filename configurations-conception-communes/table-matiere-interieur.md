@@ -7,16 +7,14 @@ title: "Table des matières à l'intérieur de la page - Configuration de concep
 ---
 
 <p>La configuration relative à la table des matières à l’intérieur de la page consiste en une liste de liens dirigeant vers des sous-sections de la même page.</p>
-<section>
-  <h2>Sur cette page</h2>
-  <ul>
-    <li><a href="#quand-utiliser">Quand utiliser</a></li>
-    <li><a href="#quoi-eviter">Quoi éviter</a></li>
-    <li><a href="#contenu-et-conception">Contenu et conception</a></li>
-    <li><a href="#comment-mettre-en-oeuvre">Comment mettre en œuvre</a></li>
-    <li><a href="#dernieres-modifications">Dernières modifications</a></li>
-  </ul>
-</section>
+<p><b>Sur cette page</b></p>
+<ul>
+  <li><a href="#quand-utiliser">Quand utiliser</a></li>
+  <li><a href="#quoi-eviter">Quoi éviter</a></li>
+  <li><a href="#contenu-et-conception">Contenu et conception</a></li>
+  <li><a href="#comment-mettre-en-oeuvre">Comment mettre en œuvre</a></li>
+  <li><a href="#dernieres-modifications">Dernières modifications</a></li>
+</ul>
 <section>
   <h2>Quand utiliser</h2>
   <p>Utilisez la configuration de la table des matières sur la page même aux fins suivantes&nbsp;:</p>
@@ -30,7 +28,7 @@ title: "Table des matières à l'intérieur de la page - Configuration de concep
     <li>la page est divisée en sous-sections ayant chacune sa propre en-tête.</li>
   </ul>
 </section>
-<scetion>
+<section>
   <h2>Quoi éviter</h2>
   <p>N’utilisez pas cette configuration lorsque le document est réparti sur plusieurs pages Web. Servez-vous plutôt de la configuration de la table des matières sur plusieurs pages.</p>
 </section>
