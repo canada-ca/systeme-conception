@@ -93,7 +93,7 @@ DEPENDENCIES
   csv
   jekyll-remote-theme!
   logger
-  rake
+  rake (>= 0.a)
 
 BUNDLED WITH
    2.4.8

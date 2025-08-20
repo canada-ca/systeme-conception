@@ -95,10 +95,10 @@
         "lang": "fr",
         "layout": "default",
         "pageclass": "cnt-wdth-lmtd",
-        "script": {
+        "script": [
           "/js/gc-pg-hlpfl.js",
           "/js/url-swap.js"
-        },
+        ],
         "share": true
       }
     },
