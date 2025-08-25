@@ -3,11 +3,11 @@ altLangPage: https://design.canada.ca/common-design-patterns/in-page-toc.html
 date: null
 dateModified: '2025-08-20'
 description: null
-title: "Table des matières à l'intérieur de la page - Configuration de conception de Canada.ca"
+title: "Table des matières à l'intérieur de la page"
 ---
 
 <p>La configuration relative à la table des matières à l’intérieur de la page consiste en une liste de liens dirigeant vers des sous-sections de la même page.</p>
-<p><b>Sur cette page</b></p>
+<h2>Sur cette page</h2>
 <ul>
   <li><a href="#quand-utiliser">Quand utiliser</a></li>
   <li><a href="#quoi-eviter">Quoi éviter</a></li>
@@ -16,7 +16,7 @@ title: "Table des matières à l'intérieur de la page - Configuration de concep
   <li><a href="#dernieres-modifications">Dernières modifications</a></li>
 </ul>
 <section>
-  <h2>Quand utiliser</h2>
+  <h2 id="quand-utiliser">Quand utiliser</h2>
   <p>Utilisez la configuration de la table des matières sur la page même aux fins suivantes&nbsp;:</p>
   <ul>
     <li>donner un aperçu du contenu d’une page comprenant plusieurs sous-sections;</li>
@@ -29,11 +29,11 @@ title: "Table des matières à l'intérieur de la page - Configuration de concep
   </ul>
 </section>
 <section>
-  <h2>Quoi éviter</h2>
+  <h2 id="quoi-eviter">Quoi éviter</h2>
   <p>N’utilisez pas cette configuration lorsque le document est réparti sur plusieurs pages Web. Servez-vous plutôt de la configuration de la table des matières sur plusieurs pages.</p>
 </section>
 <section>
-  <h2>Contenu et conception</h2>
+  <h2 id="contenu-et-conception">Contenu et conception</h2>
   <ul>
     <li>Toujours positionner le modèle de la table des matières à l’intérieur d’une page au haut de la page, tout juste sous l’en-tête1 et le texte d’introduction, avant le début du contenu principal.</li>
     <li>Étiquetez cette configuration &laquo;&nbsp;Sur cette page&nbsp;&raquo; pour la distinguer du reste du contenu sur la page et faire preuve d’uniformité sur tout le site.</li>
@@ -57,15 +57,15 @@ title: "Table des matières à l'intérieur de la page - Configuration de concep
   </figure>
 </section>
 <section>
-  <h2>Comment mettre en œuvre</h2>
+  <h2 id="comment-mettre-en-oeuvre">Comment mettre en œuvre</h2>
   <h3>Référence de mise en œuvre du thème GCWeb (WET)</h3>
   <ul>
     <li><a href="https://wet-boew.github.io/GCWeb/components/gc-toc/toc-fr.html">Table des matières à l’intérieur de la page (GCWeb)</a></li>
   </ul>
 </section>
 <section>
-  <h2>Dernières modifications</h2>
-  <dl>
+  <h2 id="dernieres-modifications">Dernières modifications</h2>
+  <dl class="dl-horizontal">
     <dt>2025-08-20</dt>
     <dd>Révision des exemples visuels et des titres sur la page pour les aligner plus étroitement avec nos nouvelles pièces de directives. Ajout de liens vers la mise en œuvre de GCWeb pour un accès plus facile.</dd>
   </dl>
