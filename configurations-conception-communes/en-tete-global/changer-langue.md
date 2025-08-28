@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/language-toggle.html"
 date: 2017-10-05
-dateModified: 2023-06-26
+dateModified: 2025-05-15
 description: "Orientation sur l’utilisation de la fonction de changement de langue sur le site Canada.ca Le contenu du gouvernement du Canada est offert dans les deux langues officielles. Un lien permettant de changer de langue, situé dans l’en-tête général du site, donne à la personne accès à la page correspondante dans l’autre langue officielle."
 title: "Lien pour changer de langue"
 ---
@@ -71,8 +71,8 @@ title: "Lien pour changer de langue"
 <ul>
   <li>Type&nbsp;: lien</li>
   <li>Position&nbsp;: coin supérieur droit</li>
-  <li>Police&nbsp;: Lato</li>
-  <li>Taille&nbsp;: 1,2 em</li>
+  <li>Police&nbsp;: Noto Sans</li>
+  <li>Taille&nbsp;: 16&nbsp;px (ordinateur de bureau), 18&nbsp;px (mobile)</li>
   <li>Couleur du texte&nbsp;:
     <ul>
       <li>lien par défaut&nbsp;: #284162</li>
@@ -100,7 +100,7 @@ title: "Lien pour changer de langue"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Changer la langue (Page française) – grand écran </b></figcaption>
-    <img src="../../images/01-lang-toggle-fr.png" class="img-responsive" alt="">
+    <img src="../images/01-lang-toggle-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Changer la langue (Page française) – grand écran</summary>
       <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en français avec mise en surbrillance du mot lié English dans le coin supérieur droit.</p>
@@ -110,7 +110,7 @@ title: "Lien pour changer de langue"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Changer la langue (Page anglaise) – petit écran</b></figcaption>
-    <img src="../../images/01-lang-toggle-sm-en.png" class="img-responsive" alt="">
+    <img src="../images/01-lang-toggle-sm-en.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Changer la langue (Page anglaise) – petit écran</summary>
       <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en anglais avec mise en surbrillance de l’abréviation liée FR dans le coin supérieur droit.</p>
@@ -120,7 +120,7 @@ title: "Lien pour changer de langue"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Changer la langue (Page française) – petit écran</b></figcaption>
-    <img src="../../images/01-lang-toggle-sm-fr.png" class="img-responsive" alt="">
+    <img src="../images/01-lang-toggle-sm-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Changer la langue (Page française) – petit écran</summary>
       <p class="mrgn-tp-lg">En-tête standard d’une page Canada.ca en français avec mise en surbrillance de l’abréviation liée EN dans le coin supérieur droit.</p>
@@ -147,6 +147,13 @@ title: "Lien pour changer de langue"
             <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – uniquement accessible sur le réseau du gouvernement du Canada)</a></li>
           </ul>
         </details>
+        <details id="0041" open="open">
+          <summary><strong>Système de design GC</strong></summary>
+          <p class="mrgn-tp-lg">Pour le Système de design GC&nbsp;:</p>
+          <ul>
+            <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/bascule-de-langue/">Documentation de Système de design GC</a></li>
+          </ul>
+        </details>
         <details id="005">
           <summary><strong>SGDC</strong></summary>
           <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
@@ -155,8 +162,8 @@ title: "Lien pour changer de langue"
           </ul>
         </details>
         <details id="006">
-          <summary><strong>Drupal WxT</strong></summary>
-          <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
+          <summary><strong>Drupal</strong></summary>
+          <p class="mrgn-tp-lg">Pour Drupal&nbsp;:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
           </ul>
@@ -178,8 +185,8 @@ title: "Lien pour changer de langue"
 </ul>
 <h2 id="changements">Derniers changements</h2>
 <dl class="dl-horizontal">
-  <dt>
-    <time datetime="2023-06-26" class="link-muted">2023-06-26</time>
-  </dt>
+  <dt><time>2025-05-15</time></dt>
+  <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC.</dd>
+  <dt><time>2023-06-26</time></dt>
   <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur la mise en œuvre, et les justifications stratégiques</dd>
 </dl>

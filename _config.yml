@@ -46,7 +46,7 @@
   "include": [
     "_redirects"
   ],
-  "institutionopt": "tbs",
+  "institutionopt": "edsc",
   "global": {
     "contextualFooter": {
       "title": {
