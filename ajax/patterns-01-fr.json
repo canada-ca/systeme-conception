@@ -592,6 +592,16 @@
       "TANDP": "0"
     },
     {
+      "NAME": "<a href=\"{{ site.url }}/directives/campagnes.html\">Contenu Web pour appuyer les campagnes publicitaires ou de marketing</a>",
+      "SOURCE": "Concevoir le contenu",
+      "DESCRIPTION": "Recommandations sur la façon de concevoir du contenu Web qui appuie les campagnes promotionnelles",
+      "WHENTOUSE": "Utilisez ces recommandations pour concevoir du contenu Web qui appuie les campagnes promotionnelles",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "1"
+    },
+    {
       "NAME": "<a href=\"{{ site.url }}/specifications/utilisation-concept-canadaca.html\">Qui doit utiliser la conception de Canada.ca</a>",
       "SOURCE": "Spécifications de Canada.ca",
       "DESCRIPTION": "Quelles institutions doivent utiliser la conception de Canada.ca pour leur présence sur le Web",
