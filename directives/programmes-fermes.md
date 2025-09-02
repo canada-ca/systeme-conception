@@ -5,7 +5,6 @@ dateModified: 2025-08-27
 description: Lignes directrices sur la manière de mettre à jour du contenu Web lorsqu’un programme ou un service du gouvernement du Canada prend fin.
 title: Mise à jour du contenu pour les programmes ou services fermés
 ---
-`<span class="wb-prettify all-pre">`
 Suivez ces conseils pour mettre à jour le contenu lorsqu’un programme ou un service du gouvernement du Canada prend fin.
 
 ## Sur cette page
