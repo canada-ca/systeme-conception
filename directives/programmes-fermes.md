@@ -31,7 +31,7 @@ Sur la page du programme ou du service, ajoutez un composant d’étiquette d’
       <figcaption><b>Étiquette d'avertissement sous le titre d'une page</b></figcaption>
       <img src="./images/programmes-fermes-image1.png" class="img-responsive" alt="Étiquette d'avertissement sous le titre d'une page. Version texte ci-dessous :" />
       <details>
-        <summary class="wb-toggle" data-toggle="{"print":"on"}">Description de l'image : Étiquette d'avertissement sous le titre d'une page</summary>
+        Description de l'image : Étiquette d'avertissement sous le titre d'une page
         <p>Cette étiquette d'avertissement a été ajoutée directement sous le titre de la page d'un programme. L'étiquette indique :</p>
         <p>Statut&nbsp;: Bientôt fermé</p>
       </details>
