@@ -45,8 +45,6 @@ Ajoutez un composant d’étiquette d’avertissement accompagnée du texte &laq
 * En demande
 * Les menus d’accueil thématiques sur toutes les pages utilisant le modèle de services et d’informations
 
-Remarque&nbsp;: ~~To keep the label shorter to fit the more limited space, you can leave out “Status” in the label.~~
-
 <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
   <figure class="mrgn-tp-md mrgn-bttm-lg">
     <figcaption><b>Étiquette d'avertissement dans un menu d'accueil thématique</b></figcaption>
