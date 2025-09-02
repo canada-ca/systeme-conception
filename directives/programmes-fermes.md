@@ -31,7 +31,7 @@ Sur la page du programme ou du service, ajoutez un composant d’étiquette d’
       <figcaption><b>Étiquette d'avertissement sous le titre d'une page</b></figcaption>
       <img src="./images/programmes-fermes-image1.png" class="img-responsive" alt="Étiquette d'avertissement sous le titre d'une page. Version texte ci-dessous :" />
       <details>
-        Description de l'image : Étiquette d'avertissement sous le titre d'une page
+        <summary class="wb-toggle" data-toggle="{ &quot;print&quot;: &quot;on&quot; }">Description de l'image : Étiquette d'avertissement sous le titre d'une page</summary>
         <p>Cette étiquette d'avertissement a été ajoutée directement sous le titre de la page d'un programme. L'étiquette indique :</p>
         <p>Statut&nbsp;: Bientôt fermé</p>
       </details>
@@ -50,7 +50,7 @@ Ajoutez un composant d’étiquette d’avertissement accompagnée du texte &laq
     <figcaption><b>Étiquette d'avertissement dans un menu d'accueil thématique</b></figcaption>
     <img src="./images/programmes-fermes-image2.png" class="img-responsive" alt="Étiquette d'avertissement dans un menu d'accueil thématique. Version texte ci-dessous :" />
     <details>
-      <summary class="wb-toggle" data-toggle="{"print":"on"}">Description de l'image : Étiquette d'avertissement dans un menu d'accueil thématique</summary>
+      <summary class="wb-toggle" data-toggle="{ &quot;print&quot;: &quot;on&quot; }">Description de l'image : Étiquette d'avertissement dans un menu d'accueil thématique</summary>
       <p>Trois menus d'accueil thématiques sont présentés sur trois colonnes dans la section « services et informations » d'une page. Une étiquette d'avertissement indiquant « Bientôt fermé » apparaît sous le titre de l'un des menus d'accueil thématiques sur les prestations.</p>
     </details>
   </figure>
@@ -65,7 +65,7 @@ Envisagez l’ajout d’une alerte en haut de la page du programme ou du service
     <figcaption><b>Alerte d'avertissement en haut de la page</b></figcaption>
     <img src="./images/programmes-fermes-image3.png" class="img-responsive" alt="Alerte d'avertissement en haut de la page. Version texte ci-dessous :" />
     <details>
-      <summary class="wb-toggle" data-toggle="{"print":"on"}">Description de l'image : Alerte d'avertissement en haut de la page</summary>
+      <summary class="wb-toggle" data-toggle="{ &quot;print&quot;: &quot;on&quot; }">Description de l'image : Alerte d'avertissement en haut de la page</summary>
       <p>Cet avertissement a été placé en haut de la page, sous le titre H1 et l'étiquette d'avertissement, et indique clairement la date limite de présentation des demandes. On peut y lire :</p>
       <p><b>La période de présentation des demandes prendra bientôt fin</b></p>
       <p>Le 3 juin 2025 est la date limite pour présenter une demande de [nom du programme ou service].</p>
@@ -111,7 +111,7 @@ Mettez à jour le composant d’étiquette d’avertissement que vous avez ajout
     <figcaption><b>Étiquette de danger sous le titre d'une page</b></figcaption>
     <img src="./images/programmes-fermes-image4.png" class="img-responsive" alt="Étiquette de danger sous le titre d'une page. Version texte ci-dessous." />
     <details>
-      <summary class="wb-toggle" data-toggle="{"print":"on"}">Description de l'image : Une étiquette de danger sous le titre d'une page</summary>
+      <summary class="wb-toggle" data-toggle="{ &quot;print&quot;: &quot;on&quot; }">Description de l'image : Une étiquette de danger sous le titre d'une page</summary>
       <p>Pour indiquer qu'un programme est fermé, cette étiquette de danger a été ajoutée directement sous le titre de la page (ou H1). On peut y lire&nbsp;:</p>
       <p>Statut&nbsp;: Ce/Cette [programme, prestation, remboursement, etc.] est fermé&middot;e</p>
     </details>
@@ -131,7 +131,7 @@ Si votre programme ou service fait l’objet d’un processus de demandes, ajout
     <figcaption><b>Alerte d'information en haut de la page</b></figcaption>
     <img src="./images/programmes-fermes-image5.png" class="img-responsive" alt="Alerte d'information en haut de la page. Version texte ci-dessous." />
     <details>
-      <summary class="wb-toggle" data-toggle="{"print":"on"}">Description de l'image : Alerte d'information en haut de la page</summary>
+      <summary class="wb-toggle" data-toggle="{ &quot;print&quot;: &quot;on&quot; }">Description de l'image : Alerte d'information en haut de la page</summary>
       <p>Cette alerte d'information a été placée en haut de la page, après le titre H1 et l'étiquette de danger, et indique clairement la date limite de présentation des demandes pour le programme. On peut y lire :</p>
       <p><b>Vous ne pouvez plus faire de demande</b></p>
       <p>Le dernier jour pour demander le/la [nom du programme ou service] était le 3 juin 2025.</p>
@@ -172,7 +172,7 @@ Si le programme ou le service fermé a été remplacé par autre chose, ajoutez 
     <figcaption><b>Lien vers l'information à jour</b></figcaption>
     <img src="./images/programmes-fermes-image6.png" class="img-responsive" alt="Lien vers l'information à jour. Version texte ci-dessous :" />
     <details>
-      <summary class="wb-toggle" data-toggle="{"print":"on"}">Description de l'image : Lien vers l'information à jour</summary>
+      <summary class="wb-toggle" data-toggle="{ &quot;print&quot;: &quot;on&quot; }">Description de l'image : Lien vers l'information à jour</summary>
       <p>Le texte accompagné d'un lien a été ajouté en haut de la page, sous le titre H1 et l'étiquette de danger :</p>
       <p><b>Vous cherchez peut-être&nbsp;:</b> [Nom du programme, prestation, remboursement, etc.]</p>
     </details>
@@ -188,7 +188,7 @@ Sur une page qui répertorie plusieurs éléments, ajoutez des composants d’é
     <figcaption><b>Étiquettes d'avertissement dans de multiples menus d'accueil thématiques</b></figcaption>
     <img src="./images/programmes-fermes-image7.png" class="img-responsive" alt="Étiquettes d'avertissement dans de multiples menus d'accueil thématiques. Version texte ci-dessous :" />
     <details>
-      <summary class="wb-toggle" data-toggle="{"print":"on"}">Description de l'image : Étiquettes d'avertissement dans de multiples menus d'accueil thématiques</summary>
+      <summary class="wb-toggle" data-toggle="{ &quot;print&quot;: &quot;on&quot; }">Description de l'image : Étiquettes d'avertissement dans de multiples menus d'accueil thématiques</summary>
       <p>Trois menus d'accueil thématiques sont présentés sur trois colonnes dans la section « services et informations » d'une page. Des étiquettes d'avertissement portant la mention « Fermé » ont été ajoutées à côté de l'en-tête de chacune.</p>
     </details>
   </figure>
