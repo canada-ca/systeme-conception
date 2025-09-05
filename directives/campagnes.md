@@ -96,7 +96,7 @@ Du contenu de soutien optionnel&nbsp;:
 * Des outils pour les intervenants, comme des affiches, des bannières numériques et des gabarits de réseaux sociaux.
 * Des liens vers des communiqués de presse qui annoncent le nouveau programme, le nouveau service ou la nouvelle initiative, ou les changements apportés à ces derniers.
 
-Remarque&nbsp;: Si vous avez plus d’une page dédiée à la campagne, créez une page d’accueil centrale qui renvoie à toutes elles. Vous devriez inclure sur la page d’accueil de votre organisation un lien vers la page d’accueil de la campagne.
+Remarque&nbsp;: Si vous avez plus d’une page dédiée à la campagne, créez une page d’accueil centrale qui renvoie à toutes elles.
 
 #### Composants de conception sur une page dédiée à la campagne
 
