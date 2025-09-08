@@ -19,9 +19,9 @@ information:
   - title: À propos de Canada.ca
     link: /a-propos/
     description: En demande, analytique de Canada.ca, coordonnées du gouvernement du Canada
-  - title: Directives
+  - title: Directives relatives à la conception pour Canada.ca
     link: /directives/
-    description: Programmes fermés, campagnes, alertes pour les situations évolutives, conception de contenu, amélioration continue, architecture de l’information et trouvabilité, communications en cas de crise
+    description: Utilisez ces directives pour créer et gérer du contenu Web
 layout: "without-h1"
 title: "Concevoir pour Canada.ca"
 ---
