@@ -79,7 +79,7 @@ Dès qu’un programme ou un service n’est plus offert, indiquez-le clairement
 
 ### Mettre à jour le titre de la page et les métadonnées
 
-* **Ajoutez le texte &laquo;&nbsp;Fermé&nbsp;:&nbsp;&raquo;** au début du titre de la page visible (H1) et de la balise`<title>` des métadonnées.
+* **Ajoutez le texte &laquo;&nbsp;Fermé&nbsp;:&nbsp;&raquo;** au début du titre de la page visible (H1) et de la balise `<title>` des métadonnées.
   * **Le fait de placer cette mention au début** garantit qu’elle apparaîtra dans les résultats de recherche et qu’elle ne sera pas coupée lorsque le titre est long.
 * **Mettre à jour la description des métadonnées** pour indiquer clairement que le programme ou le service est fermé.
 
