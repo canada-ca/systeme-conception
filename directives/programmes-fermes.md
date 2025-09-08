@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/guidance/closed-programs.html
-date: 2025-08-27
-dateModified: 2025-08-27
+date: 2025-09-08
+dateModified: 2025-09-08
 description: Lignes directrices sur la manière de mettre à jour du contenu Web lorsqu’un programme ou un service du gouvernement du Canada prend fin.
 title: Mise à jour du contenu pour les programmes ou services fermés
 ---
