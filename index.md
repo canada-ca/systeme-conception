@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca
 date: 2020-12-17
-dateModified: 2024-08-26
+dateModified: 2024-09-08
 description: "Le conception de Canada.ca contient des styles, des modèles et des configurations réutilisables qui rendent les services numériques du gouvernement du Canada plus conviviaux, plus cohérents et plus fiables."
 information:
   - title: Spécifications de Canada.ca
