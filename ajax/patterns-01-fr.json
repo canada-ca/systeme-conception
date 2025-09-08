@@ -830,13 +830,13 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-campagnes.html\">Pages de campagne</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, thématiques ou à l'échelle du gouvernement du Canada qui durent pendant une période donnée ",
-      "WHENTOUSE": "Fournit des renseignements pour appuyer une campagne promotionnelle. Utilisez-le pour soutenir les campagnes de promotion institutionnelles, th&#233;matiques ou &#224; l'&#233;chelle du gouvernement du Canada qui durent pendant une p&#233;riode donn&#233;e. Ne l'utilisez pas pour le contenu essentiel &#224; une t&#226;che.",
-      "CATEGORY": "Mod&#232;le de page",
-      "TYPE": "Promotion",
-      "MANDATORY": "Non",
+      "NAME": "<a href=\"{{ site.url }}/directives/campagnes.html\">Contenu Web pour appuyer les campagnes publicitaires ou de marketing</a>",
+      "SOURCE": "Concevoir le contenu",
+      "DESCRIPTION": "Recommandations sur la façon de concevoir du contenu Web qui appuie les campagnes promotionnelles",
+      "WHENTOUSE": "Utilisez ces recommandations pour concevoir du contenu Web qui appuie les campagnes promotionnelles",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
       "TANDP": "1"
     },
     {
