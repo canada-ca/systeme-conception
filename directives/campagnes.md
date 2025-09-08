@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/guidance/campaigns.html
-date: 2025-08-29
-dateModified: 2025-08-29
+date: 2025-09-08
+dateModified: 2025-09-08
 description: Lignes directrices sur la façon d’utiliser du contenu principal ou une page de campagne dédiée et sur comment choisir entre les deux.
 title: Contenu Web pour appuyer les campagnes publicitaires ou de marketing
 ---
