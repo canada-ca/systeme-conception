@@ -153,6 +153,6 @@ Veuillez ne pas utiliser les pages dédiées pour remplacer d’autres types de 
 ## Derniers changements {#derniers-changements}
 
 <dl class="dl-horizontal">
-  <dt><time>2025-08-29</time></dt>
+  <dt><time>2025-09-08</time></dt>
   <dd>Nous avons remplacé notre orientation précédente concernant les campagnes pour préciser que, dans certains cas, le contenu principal peut être modifié pour incorporer des éléments visuels liés à la campagne et il n’est donc pas nécessaire de créer une page de campagne dédiée.</dd>
 </dl>
