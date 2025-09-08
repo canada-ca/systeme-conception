@@ -592,10 +592,10 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/directives/campagnes.html\">Contenu Web pour appuyer les campagnes publicitaires ou de marketing</a>",
+      "NAME": "<a href=\"{{ site.url }}/directives/programmes-fermes.html\">Ajout de contenu pour les programmes ou services fermés</a>",
       "SOURCE": "Concevoir le contenu",
-      "DESCRIPTION": "Recommandations sur la façon de concevoir du contenu Web qui appuie les campagnes promotionnelles",
-      "WHENTOUSE": "Utilisez ces recommandations pour concevoir du contenu Web qui appuie les campagnes promotionnelles",
+      "DESCRIPTION": "Comment mettre à jour le contenu pour les programmes ou services fermés",
+      "WHENTOUSE": "Suivez ces conseils pour mettre à jour le contenu lorsqu’un programme ou un service du gouvernement du Canada prend fin.",
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
