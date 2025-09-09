@@ -29,16 +29,19 @@ title: "Concevoir pour Canada.ca"
 <p>Éléments obligatoires de Canada.ca, principes de rédaction, comment organiser le contenu pour le rendre facile à trouver, comment optimiser le contenu Web, données probantes sur les choix de conception.</p>
 
 <section class="gc-srvinfo">
-  <h2 class="wb-inv">Services and information</h2>
+  <h2 class="wb-inv">Services et renseignements</h2>
   <div class="row wb-eqht-grd">
     {%- for info in page.information -%}
     <div class="col-lg-4 col-md-6">
-      <h3><a href="{{ info.link }}">{{ info.title }}</a></h3>
+      {% if info.link contains 'http' %}
+        <h3><a href="{{ info.link }}">{{ info.title }}</a></h3>
+      {% else %}
+        <h3><a href="{{ site.url }}{{ info.link }}">{{ info.title }}</a></h3>
+      {% endif %}
       <p>{{ info.description }}</p>
     </div>
     {%- endfor -%}
   </div>
-</section>
 
 <section>
   <h2>Trouver des directives</h2>
