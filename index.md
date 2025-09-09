@@ -11,7 +11,7 @@ information:
     link: /amelioration-continue.html
     description: Choisir quoi améliorer, organiser et préparer son équipe, recherche et prototypage, concevoir le contenu, suivi et mesure du succès
   - title: Blogue Canada.ca
-    link: /blogue/
+    link: https://blogue.canada.ca/
     description: Données probantes et observations relatives à l’amélioration de l’information et des services dans Canada.ca
   - title: Résumés de recherche
     link: /resumes-recherche/
