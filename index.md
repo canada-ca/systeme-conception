@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca
 date: 2020-12-17
 dateModified: 2024-09-08
-description: "Le conception de Canada.ca contient des styles, des modèles et des configurations réutilisables qui rendent les services numériques du gouvernement du Canada plus conviviaux, plus cohérents et plus fiables."
+description: "Le site de conception de Canada.ca contient des styles, des modèles et des configurations réutilisables qui rendent les services numériques du gouvernement du Canada plus conviviaux, plus cohérents et plus fiables."
 information:
   - title: Spécifications de Canada.ca
     link: /specifications.html
@@ -42,7 +42,7 @@ title: "Concevoir pour Canada.ca"
     </div>
     {%- endfor -%}
   </div>
-
+</section>
 <section>
   <h2>Trouver des directives</h2>
   <div class="row mrgn-tp-md">
