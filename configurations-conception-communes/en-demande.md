@@ -58,7 +58,7 @@ title: "Bande en demande"
   <ul>
     <li>Mise en page&nbsp;:
       <ul>
-        <li>Colonnes&nbsp;: deux colonnes de puces sur les écrans grands et moyens, une seule colonne de puces sur les petits écrans (si vous n’avez que deux ou trois liens, faites une seule colonne pour toutes les tailles d’écran). </li>
+        <li>Colonnes&nbsp;: deux colonnes de puces sur les écrans grands et moyens, une seule colonne de puces sur les petits écrans.</li>
         <li>Ordre des onglets&nbsp;: de gauche à droite, puis de haut en bas.</li>
       </ul>
     </li>
