@@ -12,6 +12,18 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary>10 octobre 2025</summary>
+    <p>Nous avons fait les changements suivants&nbsp;:</p>
+    <ul>
+      <li>Mise à jour de la visionneuse adaptative du <a href="{{ site.url }}/configurations-conception-communes/tableaux.html">composant de tableau de données</a> adaptatif bêta.</li>
+        <li>Mise à jour du <a href="{{ site.url }}/modeles-obligatoire/pages-profil-ministres.html">modèle de page de profil ministériel</a> pour inclure les spécifications d'image carrée, des exemples visuels et des directives de mise en œuvre.</li>
+          <li>Révision des exemples visuels et des titres et ajout de liens vers la mise en œuvre de GCWeb pour la <a href="{{ site.url }}/configurations-conception-communes/table-matiere-interieur.html">configuration de la table des matières à l'intérieur de la page</a>.</li>
+          <li>Publication des lignes directrices sur <a href="{{ site.url }}/directives/programmes-fermes.html">la manière de mettre à jour du contenu Web lorsqu'un programme ou un service prend fin</a>.</li>
+          <li>Remplacement de notre modèle précédent de campagnes par de <a href="{{ site.url }}/directives/campagnes.html">nouvelles lignes directrices sur le contenu Web pour appuyer les campagnes publicitaires ou de marketing</a>, qui précisent que, dans certains cas, le contenu principal peut être modifié pour incorporer des éléments visuels liés à la campagne et il n'est donc pas nécessaire de créer une page de campagne dédiée.</li>
+          <li>Suppression de la configuration institution responsable, qui a été remplacée par la <a href="{{ site.url }}/configurations-conception-communes/collaborateurs.html">configuration contributeurs</a>.</li>
+    </ul>
+  </details>
+  <details>
     <summary>15 mai 2025</summary>
     <p>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC. Ces caractéristiques ont été mises à jour selon les modèles suivants :</p>
     <ul>
@@ -185,7 +197,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   </details>
   <details>
     <summary>12 février 2020</summary>
-    <p>Les carrousels ne sont plus obligatoires sur les <a href="{{ site.url }}/modeles-obligatoire/pages-theme.html">pages de thème</a>.</p>
+    <p>Les carrousels ne sont plus obligatoires sur les <a href="{{ site.url }}/modeles-obligatoire/theme.html">pages de thème</a>.</p>
   </details>
   <details>
     <summary>3 février 2020</summary>
