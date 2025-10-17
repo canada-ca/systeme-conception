@@ -1107,11 +1107,7 @@ title: "Pages de nouvelles - Modèle obligatoire de Canada.ca"
           </summary>
           <ul>
            <li>
-            Utilisez la configuration
-            <a href="../configurations-conception-communes/institution-responsable.html">
-             Institution responsable
-            </a>
-            .
+            Utilisez la configuration Institution responsable.
            </li>
           </ul>
          </details>
