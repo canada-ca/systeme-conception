@@ -43,7 +43,7 @@ Déterminer une série de tâches à étudier plus en détail à l’aide des do
 
 Analysez les rétroactions des personnes qui tentent d’accomplir ces tâches à l’aide du Sondage sur la réussite des tâches du GC, des rétroactions sur les pages, des tests d'utilisabilité précédents ou d’autres recherches directes afin de vous aider à cibler les problèmes spécifiques.
 
-* [Recueillir la rétroaction, trouver les problèmes](https://blog.canada.ca/2020/10/09/collect-feedback) (article du blogue)
+* [Recueillir la rétroaction, trouver les problèmes](https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html) (article du blogue)
 
 ### Raisons principales d’appels, plaintes, écoute des médias sociaux
 
