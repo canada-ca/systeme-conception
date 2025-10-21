@@ -194,7 +194,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Page de destination générique</h2>
         </header>
         <div class="panel-body">
-          <p>Il n'y a pas de modèle spécifique pour votre type de contenu. Assurez-vous de vous conformer aux <a href="{{ site.url }}/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception de Canada.ca.</a></p>
+          <p>Il n'y a pas de modèle spécifique pour votre type de contenu. Assurez-vous de vous conformer aux <a href="{{ site.url }}/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception de Canada.ca.</a></p>
           <h3>Configurations de conception communes</h3>
           <p>Créez vos pages à l’aide de la <a href="{{ site.url }}/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a>.</p>
         </div>
