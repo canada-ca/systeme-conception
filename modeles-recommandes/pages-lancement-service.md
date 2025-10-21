@@ -80,7 +80,7 @@ title: "Pages de lancement d\u2019un service - Modèle de Canada.ca"
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'> <strong> Présentation </strong> </summary>
                 <ul>
-                  <li> Utilisez la configuration <a href="../configurations-conception-communes/institution-responsable.html"> Institution responsable </a> . </li>
+                  <li> Utilisez la configuration Institution responsable. </li>
                 </ul>
               </details>
             </li>

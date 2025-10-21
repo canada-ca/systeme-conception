@@ -1100,16 +1100,6 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/institution-responsable.html\">Institution responsable</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Lien vers l'institution responsable du contenu ",
-      "WHENTOUSE": "Lien vers l'institution responsable du contenu",
-      "CATEGORY": "Configuration de conception",
-      "TYPE": "Institutionnel",
-      "MANDATORY": "Non",
-      "TANDP": "1"
-    },
-    {
       "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html\">Page de compte rendu du rendement des services institutionnels</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Utilisez pour présenter toutes les normes de service, conformément aux exigences de la Politique sur les services.",

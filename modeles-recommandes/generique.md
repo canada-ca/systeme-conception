@@ -134,9 +134,7 @@ title: " Page de contenu de base - Modèle recommandé de Canada.ca"
           </a>
          </li>
          <li>
-          <a href="../configurations-conception-communes/institution-responsable.html">
            Institution responsable
-          </a>
          </li>
         </ul>
        </td>
