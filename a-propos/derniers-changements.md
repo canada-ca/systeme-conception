@@ -71,7 +71,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   </details>
   <details>
     <summary>7 novembre 2023</summary>
-    <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/signaler-probleme.html">configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo;</a> pour informer les utilisateurs de sa future mise hors service. Stabilisation de la <a href="{{ site.url }}/configurations-conception-communes/outil-retroaction.html">configuration de l’outil de rétroaction</a> sur la page, ajout de spécifications sur le contenu et mise à jour des instructions de mise en œuvre.</p>
+    <p>Mise à jour de la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; pour informer les utilisateurs de sa future mise hors service. Stabilisation de la <a href="{{ site.url }}/configurations-conception-communes/outil-retroaction.html">configuration de l’outil de rétroaction</a> sur la page, ajout de spécifications sur le contenu et mise à jour des instructions de mise en œuvre.</p>
   </details>
   <details>
     <summary>12 juillet 2023</summary>
@@ -121,7 +121,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   </details>
   <details>
     <summary>17 juin 2021</summary>
-    <p>Nous avons modifié la documentation du <a href="{{ site.url }}/configurations-conception-communes/pied-page.html">Pied de page du site</a> pour rendre la configuration <a href="{{ site.url }}/configurations-conception-communes/signaler-probleme.html">Signaler un problème sur cette page</a> facultative.</p>
+    <p>Nous avons modifié la documentation du <a href="{{ site.url }}/configurations-conception-communes/pied-page.html">Pied de page du site</a> pour rendre la configuration Signaler un problème sur cette page facultative.</p>
   </details>
   <details>
     <summary>21 mai 2021</summary>
@@ -213,7 +213,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
     <ul>
       <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires</a>: nous avons déplacé les directives détaillées sur les éléments obligatoires vers la bibliothèque de modèles et de configuration de conception.</li>
       <li><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Page d'accueil institutionnelle</a>: nous présentons un nouveau modèle bêta pour la page d'accueil institutionnelle, en fusionnant les profils institutionnel et organisationnel pour mieux refléter le rôle et le but de ce modèle obligatoire.</li>
-      <li><a href="{{ site.url }}/configurations-conception-communes/signaler-probleme.html">Signaler un problème</a>: nous avons modifié les directives pour permettre une certaine personnalisation.</li>
+      <li>Signaler un problème: nous avons modifié les directives pour permettre une certaine personnalisation.</li>
       <li><a href="{{ site.url }}/modeles-recommandes/transparence.html">Modèle de transparence</a>: nous suggérons une nouvelle mise en page pour la transparence et les rapports organisationnels.</li>
       <li><a href="{{ site.url }}/modeles-recommandes/base.html">Mise en page de base</a>: nous avons créé des exemples qui montrent comment les modèles peuvent être combinés sur une mise en page de base.</li>
       <li><a href="{{ site.url }}/configurations-conception-communes/alertes-contextuelles.html">Alertes contextuelles</a>: nous présentons un nouveau modèle bêta pour les alertes contextuelles.</li>

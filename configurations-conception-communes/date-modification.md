@@ -16,16 +16,6 @@ title: Date de modification
     </a>
    </li>
    <li class="col-md-4 col-sm-6">
-    <a class="list-group-item" href="signaler-probleme.html">
-     Signaler un problème sur cette page
-    </a>
-   </li>
-   <li class="col-md-4 col-sm-6">
-    <a class="list-group-item" href="partagez-page.html">
-     Partagez cette page
-    </a>
-   </li>
-   <li class="col-md-4 col-sm-6">
     <a class="list-group-item active">
      Date de modification
     </a>

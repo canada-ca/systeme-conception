@@ -1300,16 +1300,6 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/signaler-probleme.html\">Signaler un problème sur cette page</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Permet aux gens de fournir une rétroaction au moyen d'un formulaire pour tous les problèmes qu'ils ont pu rencontrer. Nous mettons la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; hors service. Nous vous déconseillons d'ajouter cette configuration à vos pages.",
-      "WHENTOUSE": "Permet aux gens de fournir une rétroaction au moyen d'un formulaire pour tous les problèmes qu'ils ont pu rencontrer. Nous mettons la configuration &laquo;&nbsp;Signaler un problème sur cette page&nbsp;&raquo; hors service. Nous vous déconseillons d'ajouter cette configuration à vos pages.",
-      "CATEGORY": "Configuration de conception",
-      "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
-      "MANDATORY": "Non",
-      "TANDP": "1"
-    },
-    {
       "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/pages-recherche.html\">Page de recherche</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Fournit la mise en page pour le moteur de recherche de Canada.ca ",
@@ -1337,16 +1327,6 @@
       "CATEGORY": "Configuration de conception",
       "TYPE": "Navigation",
       "MANDATORY": "Non",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/partagez-page.html\">Partagez cette page</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Permet aux gens de partager le contenu de la page à d'autres personnes ",
-      "WHENTOUSE": "Permet aux gens de partager le contenu de la page &#224; d'autres personnes",
-      "CATEGORY": "Configuration de conception",
-      "TYPE": "Configuration &#224; l'&#233;chelle du site, Interaction",
-      "MANDATORY": "Obligatoire",
       "TANDP": "1"
     },
     {

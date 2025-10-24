@@ -26,16 +26,6 @@ title: 'Pied de page de la zone du contenu '
     </a>
    </li>
    <li class="col-md-4 col-sm-6">
-    <a class="list-group-item" href="signaler-probleme.html">
-     Signaler un problème sur cette page
-    </a>
-   </li>
-   <li class="col-md-4 col-sm-6">
-    <a class="list-group-item" href="partagez-page.html">
-     Partagez cette page
-    </a>
-   </li>
-   <li class="col-md-4 col-sm-6">
     <a class="list-group-item" href="date-modification.html">
      Date de modification
     </a>
@@ -77,11 +67,6 @@ title: 'Pied de page de la zone du contenu '
  <li>
    <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">
   Rétroaction GC</a>
-  (facultatif)
- </li>
- <li>
-  <a href="partagez-page.html">
-   Partager cette page</a>
   (facultatif)
  </li>
  <li>
