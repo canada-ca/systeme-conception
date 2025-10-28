@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/site-footer-content.html
 date: null
-dateModified: '2023-02-08'
+dateModified: '2025-10-28'
 description: null
 title: 'Pied de page de la zone du contenu '
 ---
