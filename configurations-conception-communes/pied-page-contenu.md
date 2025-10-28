@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/site-footer-content.html
 date: null
-dateModified: '2023-02-08'
+dateModified: '2025-10-28'
 description: null
 title: 'Pied de page de la zone du contenu '
 ---
@@ -23,16 +23,6 @@ title: 'Pied de page de la zone du contenu '
    <li class="col-md-4 col-sm-6">
     <a class="list-group-item active">
      Pied de page de la zone du contenu
-    </a>
-   </li>
-   <li class="col-md-4 col-sm-6">
-    <a class="list-group-item" href="signaler-probleme.html">
-     Signaler un problème sur cette page
-    </a>
-   </li>
-   <li class="col-md-4 col-sm-6">
-    <a class="list-group-item" href="partagez-page.html">
-     Partagez cette page
     </a>
    </li>
    <li class="col-md-4 col-sm-6">
@@ -80,11 +70,6 @@ title: 'Pied de page de la zone du contenu '
   (facultatif)
  </li>
  <li>
-  <a href="partagez-page.html">
-   Partager cette page</a>
-  (facultatif)
- </li>
- <li>
   <a href="date-modification.html">
    Date de modification</a>
   (obligatoire, mais peut être un numéro de version lorsqu'il est utilisé pour une application)
@@ -112,14 +97,9 @@ title: 'Pied de page de la zone du contenu '
    <summary class="wb-toggle" data-toggle='{"print":"on"}'>
     Description de l'image : Pied de page de la zone du contenu
    </summary>
-   <p>Sur le côté gauche se trouve la vue initiale de Rétroaction GC. Un petit encadré gris demande «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» et affiche les boutons «&nbsp;Oui&nbsp;» et «&nbsp;Non&nbsp;».</p>
-    <p>Sur la droite se trouve un encadré gris comportant un symbole de partage ainsi que le texte «&nbsp;Partagez cette page&nbsp;».</p>
-    <p>Sous l’outil apparaît le texte : «&nbsp;Date de modification : 2023-08-01&nbsp;».</p>
+   <p>La vue initiale de Rétroaction GC est un petit encadré gris demande «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» et affiche les boutons «&nbsp;Oui&nbsp;» et «&nbsp;Non&nbsp;».</p>
+    <p>Sous Rétroaction GC apparaît le texte : «&nbsp;Date de modification : 2025-07-04&nbsp;».</p>
   </details>
  </figure>
 </div>
-
-
-
-
 
