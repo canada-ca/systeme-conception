@@ -50,6 +50,10 @@ title: Typographie - Style de Canada.ca
   font-weight: bold;
 }</code></pre>
 
+<p>Style</p>
+<pre class="prettyprint linenums lang-css"><code>&lt;link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Canadian+Aboriginal:wght@400;700&display=swap" rel="stylesheet"&gt;</code></pre>
+
+
 <p><a href="https://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639_des_langues">Liste des codes de langue ISO 639</a></p>
 
 <h2>Titre principal de la page</h2>
