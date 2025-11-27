@@ -1,10 +1,20 @@
 ---
 altLangPage: https://design.canada.ca/mandatory-templates/audience-pages.html
 date: "2018-12-19"
-dateModified: "2018-12-19"
-description: "Utilisez une page de modèle de public visé dans l’ensemble du gouvernement une seule fois pour chaque public du site Canada.ca."
-title: "Pages des publics cibles - Modèle obligatoire de Canada.ca"
+dateModified: "2025-11-26"
+description: "Nous mettons ce modèle hors service et ne recommandons pas de l’utiliser sur vos pages. Utilisez une page de modèle de public visé dans l’ensemble du gouvernement une seule fois pour chaque public du site Canada.ca."
+title: "Hors service&nbsp;: Pages des publics cibles"
+titleH1: "Pages des publics cible"
 ---
+<div>
+  <p><span class="label label-info">Information</span></p>
+  <p>Nous mettons ce modèle hors service cette configuration, car les pages de public cible sont désormais traitées comme des thèmes. Utilisez plutôt des modèles de pages de sujet pour aider le public à naviguer dans votre contenu&nbsp;:</p>
+  <ul>
+    <li><a href="sujet.html">Modèle de page de sujet</a></li>
+    <li><a href="theme.html">Page de thème</a></li>
+  </ul>
+</div>
+
 <section>
   <h2>Sur cette page</h2>
   <ul>
@@ -24,7 +34,8 @@ title: "Pages des publics cibles - Modèle obligatoire de Canada.ca"
         <li>les anciens combattants.</li>
       </ul>
     </li>
-    <li>Seul le responsable ministériel pour le public cible du site Canada.ca peut utiliser un modèle de page de public visé dans l’ensemble du gouvernement. Les responsables ministériels pour les publics sont affectés par Emploi et Développement social Canada.</li>
+    <li>Seul le responsable ministériel pour le public cible du site Canada.ca peut utiliser un modèle de page de public visé dans l’ensemble du gouvernement.
+    <li>Les responsables ministériels pour les publics sont affectés par Emploi et Développement social Canada.</li>
   </ul>
 </section>
 <section>
@@ -209,4 +220,11 @@ title: "Pages des publics cibles - Modèle obligatoire de Canada.ca"
       <p>On peut accéder aux pages destinées au public dans l’ensemble du<abbr title="Gouvernement du Canada">GC</abbr>à partir de la page d’accueil, des profils institutionnels connexes et des pages de sujets connexes.</p>
     </details>
   </figure>
+</section>
+<section>
+  <h2>Dernières modifications</h2>
+  <dl>
+    <dt>2025-11-26</dt>
+    <dd>Ajout d’une alerte pour indiquer qu’une mise hors service est programmée pour cette configuration. La raison de la mise hors service de ce modèle est que les pages de public cible sont désormais traitées comme des thèmes.</dd>
+  </dl>
 </section>

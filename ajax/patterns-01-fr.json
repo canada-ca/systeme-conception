@@ -1042,8 +1042,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/pages-publics-cibles.html\">Page de public cible à l'échelle du gouvernement</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Donne accès aux renseignements et aux services pertinents pour le public cible de l'ensemble du gouvernement ",
-      "WHENTOUSE": "Donne acc&#232;s aux renseignements et aux services pertinents pour le public cible de l'ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
+      "DESCRIPTION": "Nous mettons ce modèle hors service. Donne accès aux renseignements et aux services pertinents pour le public cible de l'ensemble du gouvernement ",
+      "WHENTOUSE": "Nous mettons ce modèle hors service. Donne acc&#232;s aux renseignements et aux services pertinents pour le public cible de l'ensemble du gouvernement",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Mod&#232;le de th&#232;me",
       "MANDATORY": "Obligatoire",
@@ -1052,8 +1052,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-directives-lois.html\">Pages de directives sur les lois</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Donne accès aux directives sur les lois, aux détails et aux documents connexes ",
-      "WHENTOUSE": "Donne acc&#232;s aux directives sur les lois. Donne acc&#232;s aux d&#233;tails et aux documents connexes.",
+      "DESCRIPTION": "Nous mettons ce modèle hors service. Donne accès aux directives sur les lois, aux détails et aux documents connexes ",
+      "WHENTOUSE": "Nous mettons ce modèle hors service. Donne acc&#232;s aux directives sur les lois, aux d&#233;tails et aux documents connexes.",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Destination",
       "MANDATORY": "Non",
@@ -1272,8 +1272,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-evenements-promotionnels.html\">Page d'événements promotionnels</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Décrit et explique un événement officiel organisé par le gouvernement et qui se déroule dans un contexte promotionnel, et fournit des renseignements tels que la date, l'heure, l'endroit et le public cible de l'événement ",
-      "WHENTOUSE": "D&#233;crit et explique un &#233;v&#233;nement officiel organis&#233; par le gouvernement et qui se d&#233;roule dans un contexte promotionnel. Fournit des renseignements tels que la date, l'heure, l'endroit et le public cible de l'&#233;v&#233;nement.",
+      "DESCRIPTION": "Nous mettons cette configuration hors service. Décrit et explique un événement officiel organisé par le gouvernement et qui se déroule dans un contexte promotionnel, et fournit des renseignements tels que la date, l'heure, l'endroit et le public cible de l'événement ",
+      "WHENTOUSE": "Nous mettons cette configuration hors service. D&#233;crit et explique un &#233;v&#233;nement officiel organis&#233; par le gouvernement et qui se d&#233;roule dans un contexte promotionnel. Fournit des renseignements tels que la date, l'heure, l'endroit et le public cible de l'&#233;v&#233;nement.",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Promotion",
       "MANDATORY": "Non",

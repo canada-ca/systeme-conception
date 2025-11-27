@@ -1,11 +1,5 @@
 ---
 altLangPage: "https://design.canada.ca/specifications/mandatory-elements.html"
-date: 2017-10-05
-dateModified: 2024-08-26
-description: "Les Spécifications de Canada.ca s’agit d’un manuel de conception qui fournit des modèles testés par l’utilisateur, des modèles de navigation d’architecture de l’information pour présenter et organiser le contenu pour le site Canada.ca."
-layout: default
-section-title: "Spécifications de Canada.ca"
-title: "Éléments obligatoires de la conception de Canada.ca"
 breadcrumbs: [{
             "title": "À propos de Canada.ca",
             "link": "https://conception.canada.ca/a-propos/"
@@ -19,10 +13,16 @@ breadcrumbs: [{
             "title": "Spécifications"
           }
         ]
+date: 2017-10-05
+dateModified: 2025-11-26
+description: "Les Spécifications de Canada.ca s’agit d’un manuel de conception qui fournit des modèles testés par l’utilisateur, des modèles de navigation d’architecture de l’information pour présenter et organiser le contenu pour le site Canada.ca."
+layout: default
+section-title: "Spécifications de Canada.ca"
+title: "Éléments obligatoires de la conception de Canada.ca"
 ---
 
 <p>Les pages Web du gouvernement du Canada doivent être facilement identifiables comme faisant partie de Canada.ca. Chaque page doit véhiculer l’image de marque globale de Canada.ca et offrir une expérience uniforme aux visiteurs du site.</p>
-<p>Ces éléments obligatoires ont été conçus pour refléter la marque numérique de confiance du gouvernement du Canada : moderne, ouverte, utile et crédible.</p>
+<p>Ces éléments obligatoires ont été conçus pour refléter la marque numérique de confiance du gouvernement du Canada&nbsp;: moderne, ouverte, utile et crédible.</p>
 <section>
   <h2>Éléments obligatoires pour toutes les institutions</h2>
   <ol>
@@ -39,7 +39,7 @@ breadcrumbs: [{
   <li><a href="./elements-obligatoires/domaines-url.html">Domaines et adresses URL du gouvernement du Canada</a></li>
 </ul>
 <h2 id="styles">Styles</h2>
-<p>Utilisez les éléments de style suivants :</p>
+<p>Utilisez les éléments de style suivants&nbsp;:</p>
 <ul>
   <li><a href="https://conception.canada.ca/styles/typographie.html">Typographie</a></li>
   <li><a href="https://conception.canada.ca/styles/couleurs.html">Couleurs</a></li>
@@ -47,7 +47,7 @@ breadcrumbs: [{
 </ul>
 <h2 id="entete-piedpage">En-tête et pied de page</h2>
 <p>Chaque page du gouvernement du Canada partage un en-tête et un pied de page communs. C’est-à-dire que les parties supérieure et inférieure d’une page doivent avoir le même aspect de page en page.</p>
-<p>Obtenez les directives détaillées :</p>
+<p>Obtenez les directives détaillées&nbsp;:</p>
 <ul>
   <li><a href="https://conception.canada.ca/configurations-conception-communes/en-tete-general">En-tête général</a></li>
   <li><a href="https://conception.canada.ca/configurations-conception-communes/pied-page">Pied de page général</a></li>
@@ -60,11 +60,10 @@ breadcrumbs: [{
 <h2 id="obligatoires">Autres modèles de page obligatoires</h2>
 <p>Certains types de pages de Canada.ca utilisent des modèles obligatoires. La cohérence dans ces types de pages aide les gens à trouver et à accomplir des tâches.</p>
 <ul>
-  <li><a href="https://conception.canada.ca/modeles-obligatoire/theme.html">Page de thème</a> : la page principale pour chaque thème de Canada.ca, uniquement pour les institutions responsables des thèmes</li>
-  <li><a href="https://conception.canada.ca/modeles-obligatoire/sujet.html">Page de sujet</a> : obligatoire pour les 2 premiers niveaux de sujets de l’arborescence thématique de Canada.ca, facultative pour les sujets de niveau inférieur</li>
-  <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-publics-cibles.html">Page des publics cibles à l’échelle du gouvernement</a> : uniquement pour les institutions qui gèrent les publics cibles à l’échelle du gouvernement</li>
-  <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Profil de ministre</a> : doit être utilisé pour les ministres, les chefs d’une institution quasi judiciaire sans lien de dépendance et les secrétaires parlementaires</li>
-  <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#produit">Page de nouvelle</a> : gabarit commun pour les produits de nouvelles comme les communiqués de presse, les documents d’information, les avis aux médias et les discours</li>
+  <li><a href="https://conception.canada.ca/modeles-obligatoire/theme.html">Page de thème</a>&nbsp;: la page principale pour chaque thème de Canada.ca, uniquement pour les institutions responsables des thèmes</li>
+  <li><a href="https://conception.canada.ca/modeles-obligatoire/sujet.html">Page de sujet</a>&nbsp;: obligatoire pour les 2 premiers niveaux de sujets de l’arborescence thématique de Canada.ca, facultative pour les sujets de niveau inférieur</li>
+  <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Profil de ministre</a>&nbsp;: doit être utilisé pour les ministres, les chefs d’une institution quasi judiciaire sans lien de dépendance et les secrétaires parlementaires</li>
+  <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-nouvelles.html#produit">Page de nouvelle</a>&nbsp;: gabarit commun pour les produits de nouvelles comme les communiqués de presse, les documents d’information, les avis aux médias et les discours</li>
 </ul>
 <h3 id="gc">Modèles pour l’ensemble du gouvernement</h3>
 <p>Chacune de ces pages ne se trouve qu’une seule fois sur Canada.ca.</p>
