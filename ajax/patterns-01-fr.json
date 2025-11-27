@@ -1042,8 +1042,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/pages-publics-cibles.html\">Page de public cible à l'échelle du gouvernement</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Donne accès aux renseignements et aux services pertinents pour le public cible de l'ensemble du gouvernement ",
-      "WHENTOUSE": "Donne acc&#232;s aux renseignements et aux services pertinents pour le public cible de l'ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
+      "DESCRIPTION": "Nous mettons ce modèle hors service. Donne accès aux renseignements et aux services pertinents pour le public cible de l'ensemble du gouvernement ",
+      "WHENTOUSE": "Nous mettons ce modèle hors service. Donne acc&#232;s aux renseignements et aux services pertinents pour le public cible de l'ensemble du gouvernement",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Mod&#232;le de th&#232;me",
       "MANDATORY": "Obligatoire",
@@ -1052,8 +1052,8 @@
     {
       "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-directives-lois.html\">Pages de directives sur les lois</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Donne accès aux directives sur les lois, aux détails et aux documents connexes ",
-      "WHENTOUSE": "Donne acc&#232;s aux directives sur les lois. Donne acc&#232;s aux d&#233;tails et aux documents connexes.",
+      "DESCRIPTION": "Nous mettons ce modèle hors service. Donne accès aux directives sur les lois, aux détails et aux documents connexes ",
+      "WHENTOUSE": "Nous mettons ce modèle hors service. Donne acc&#232;s aux directives sur les lois, aux d&#233;tails et aux documents connexes.",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Destination",
       "MANDATORY": "Non",
