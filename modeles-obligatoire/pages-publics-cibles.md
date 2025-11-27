@@ -6,14 +6,14 @@ description: "Nous mettons ce modèle hors service et ne recommandons pas de l�
 title: "Hors service&nbsp;: Pages des publics cibles"
 titleH1: "Pages des publics cible"
 ---
-<div>
-  <p><span class="label label-info">Information</span></p>
+<section class="alert alert-info">
+  <h2>Information</h2>
   <p>Nous mettons ce modèle hors service cette configuration, car les pages de public cible sont désormais traitées comme des thèmes. Utilisez plutôt des modèles de pages de sujet pour aider le public à naviguer dans votre contenu&nbsp;:</p>
   <ul>
     <li><a href="sujet.html">Modèle de page de sujet</a></li>
     <li><a href="theme.html">Page de thème</a></li>
   </ul>
-</div>
+</section>
 
 <section>
   <h2>Sur cette page</h2>
@@ -22,8 +22,10 @@ titleH1: "Pages des publics cible"
     <li><a href="#specifications">Comment utiliser ce modèle</a></li>
     <li><a href="#exemples">Exemples concrets</a></li>
     <li><a href="#navigation">Navigation de l’utilisateur</a></li>
+    <li><a href="#changements">Derniers changements</a></li>
   </ul>
 </section>
+
 <section>
   <h2 id="utilisation">Quand utiliser ce modèle</h2>
   <ul>
@@ -34,7 +36,7 @@ titleH1: "Pages des publics cible"
         <li>les anciens combattants.</li>
       </ul>
     </li>
-    <li>Seul le responsable ministériel pour le public cible du site Canada.ca peut utiliser un modèle de page de public visé dans l’ensemble du gouvernement.
+    <li>Seul le responsable ministériel pour le public cible du site Canada.ca peut utiliser un modèle de page de public visé dans l’ensemble du gouvernement.</li>
     <li>Les responsables ministériels pour les publics sont affectés par Emploi et Développement social Canada.</li>
   </ul>
 </section>
@@ -155,7 +157,7 @@ titleH1: "Pages des publics cible"
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Contenu</strong></summary>
                 <ul>
-                  <li>Utilisez la configuration<a href="../configurations-conception-communes/services-renseignements.html">Services et renseignements</a>.</li>
+                  <li>Utilisez la configuration <a href="../configurations-conception-communes/services-renseignements.html">Services et renseignements</a>.</li>
                 </ul>
               </details>
             </li>
@@ -179,7 +181,7 @@ titleH1: "Pages des publics cible"
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Contenu</strong></summary>
                 <ul>
-                  <li>Utilisez la configuration<a href="../configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a>.</li>
+                  <li>Utilisez la configuration <a href="../configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a>.</li>
                 </ul>
               </details>
             </li>
@@ -222,9 +224,9 @@ titleH1: "Pages des publics cible"
   </figure>
 </section>
 <section>
-  <h2>Dernières modifications</h2>
+  <h2 id="changements">Dernières modifications</h2>
   <dl>
-    <dt>2025-11-26</dt>
+    <dt><time>2025-11-26</time></dt>
     <dd>Ajout d’une alerte pour indiquer qu’une mise hors service est programmée pour cette configuration. La raison de la mise hors service de ce modèle est que les pages de public cible sont désormais traitées comme des thèmes.</dd>
   </dl>
 </section>

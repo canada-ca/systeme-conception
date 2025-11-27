@@ -6,10 +6,10 @@ description: "Nous retirons ce modèle de la circulation, car il n’était pas 
 title: "Hors service&nbsp;: Pages de directives sur les lois"
 titleH1: "Pages de directives sur les lois"
 ---
-<div>
-  <p><span class="label label-info">Information</span></p>
+<section class="alert alert-info">
+  <h2>Information</h2>
   <p>Nous retirons ce modèle de la circulation, car il n’était pas très utilisé.</p>
-</div>
+</section>
 
 <div>
   <p>Les directives sur les lois fournissent des renseignements afin de faciliter la sensibilisation, la compréhension et la conformité en ce qui a trait aux exigences légales et réglementaire. Elles peuvent aussi décrire leur administration. Elles n’établissent pas de nouvelles exigences et elles ne sont pas exécutoires.</p>
@@ -45,6 +45,7 @@ titleH1: "Pages de directives sur les lois"
       </ul>
     </li>
     <li> <a href="#navigation"> Navigation de l’utilisateur </a> </li>
+    <li><a href="#changements">Derniers changements</a></li>
   </ul>
 </section>
 <section>
@@ -99,7 +100,7 @@ titleH1: "Pages de directives sur les lois"
                 <details class="mrgn-bttm-sm">
                   <summary class="wb-toggle" data-toggle='{"print":"on"}'> <strong> Contenu </strong> </summary>
                   <ul>
-                    <li> Allez à la <a href="./pages-index.html#filtre"> page d’index avec filtres </a> . </li>
+                    <li> Allez à la <a href="./pages-index.html#filtre"> page d’index avec filtres </a>.</li>
                   </ul>
                 </details>
               </li>
@@ -113,7 +114,7 @@ titleH1: "Pages de directives sur les lois"
                 <details class="mrgn-bttm-sm">
                   <summary class="wb-toggle" data-toggle='{"print":"on"}'> <strong> Contenu </strong> </summary>
                   <ul>
-                    <li> Allez à la <a href="./pages-index.html#filtre"> page d’index avec filtres </a> . </li>
+                    <li> Allez à la <a href="./pages-index.html#filtre"> page d’index avec filtres </a>.</li>
                   </ul>
                 </details>
               </li>
@@ -196,15 +197,15 @@ titleH1: "Pages de directives sur les lois"
                 <details class="mrgn-bttm-sm">
                   <summary class="wb-toggle" data-toggle='{"print":"on"}'> <strong> Présentation </strong> </summary>
                   <ul>
-                    <li> La longueur maximale de chaque entrée de l’ensemble de résultats est de 95 caractères, ce qui est conforme à la longueur des lignes du modèle de page de destination générique.<li>
-                    <li> Le retour automatique à la ligne est assuré. </li>
+                    <li> La longueur maximale de chaque entrée de l’ensemble de résultats est de 95 caractères, ce qui est conforme à la longueur des lignes du modèle de page de destination générique.</li>
+                    <li> Le retour automatique à la ligne est assuré.</li>
                     <li> Chaque entrée de l’ensemble de résultats est séparée d’une bordure horizontale. </li>
-                    <li> Les grands ensembles d’entrées sont divisés en pages de dix entrées chacune, à l’aide des contrôles de pagination normalisés de la <abbr title="Boîte à outils de l’expérience Web"> BOEW </abbr> . </li>
-                    <li> Les liens des titres d’objet utilisent le style de lien normalisé de Canada.ca (en bleu, souligné), en caractères gras. </li>
+                    <li> Les grands ensembles d’entrées sont divisés en pages de dix entrées chacune, à l’aide des contrôles de pagination normalisés de la <abbr title="Boîte à outils de l’expérience Web"> BOEW </abbr>.</li>
+                    <li> Les liens des titres d’objet utilisent le style de lien normalisé de Canada.ca (en bleu, souligné), en caractères gras.</li>
                     <li> Les valeurs de métadonnées figurent entre le titre d’objet et l’extrait de texte, et sont affichées dans une couleur plus pâle que le reste du texte de la page.</li>
-                    <li> Ces valeurs doivent être séparées les unes des autres à l’aide d’une barre verticale. </li>
+                    <li> Ces valeurs doivent être séparées les unes des autres à l’aide d’une barre verticale.</li>
                     <li> L’extrait de texte est présenté en caractères normaux, à l’exception des mots-clés saisis par une personne, qui sont affichés en caractères gras.</li>
-                    <li> Les extraits sont tronqués au moyen de points de suspension après deux lignes. </li>
+                    <li> Les extraits sont tronqués au moyen de points de suspension après deux lignes.</li>
                   </ul>
                 </details>
               </li>
@@ -357,7 +358,6 @@ titleH1: "Pages de directives sur les lois"
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'> <strong> Contenu </strong> </summary>
                 <ul>
-                  <li> Cette composante est obligatoire si le contenu existe. </li>
                   <li> Elle doit fournir des liens à des formats accessibles de la directive. </li>
                 </ul>
               </details>
@@ -431,7 +431,6 @@ titleH1: "Pages de directives sur les lois"
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'> <strong> Contenu </strong> </summary>
                 <ul>
-                  <li> Cette composante est obligatoire lorsque le contenu existe. </li>
                   <li> Elle fournit des liens au contenu connexe, y compris (selon l’ordre de priorité)&nbsp;:
                     <ul>
                       <li> les renseignements et les services </li>
@@ -538,9 +537,9 @@ titleH1: "Pages de directives sur les lois"
 </section>
 
 <section>
-  <h2>Derniers changements</h2>
+  <h2 id="changements">Derniers changements</h2>
   <dl class="dl-horizontal">
-    <dt>2025-11-26</dt>
+    <dt><time>2025-11-26</time></dt>
     <dd>Ajout d’une alerte pour indiquer qu’une mise hors service est programmée pour cette configuration.</dd>
   </dl>
 </section>
