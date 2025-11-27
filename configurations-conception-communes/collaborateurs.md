@@ -50,7 +50,7 @@ title: Collaborateurs
     <p>Utilisez les <a href="https://conception.canada.ca/styles/couleurs.html">couleurs standard</a> de paragraphe, de titre et de lien.</p>
     <p>Le titre est un titre H2 dont la taille de police est : 87 % (ou 17 px).</p>
     <p>Les éléments de la liste sont en gras et ont une taille de police de 87 % (ou 17 px).</p>
-    <p>Les liens se trouvent à droite du titre H2 et sont codés dans une liste horizontale. Le premier élément de la liste n’est pas stylisé (pas de puce).</p>
+    <p>Les liens se trouvent à droite du titre H2 et sont codés dans une liste horizontale sur un grand écran avec des barres verticales entre les éléments de la liste. La liste devient une liste à puces empilées sur mobile. Le premier élément de la liste n’est pas stylisé (pas de barre verticale ni de puce).</p>
     <h3>Exemple visuel</h3>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
