@@ -7,7 +7,7 @@ title: "Hors service&nbsp;: Pages des publics cibles"
 titleH1: "Pages des publics cible"
 ---
 <section class="alert alert-info">
-  <h2>Information</h2>
+  <h2>Hors service</h2>
   <p>Nous mettons ce modèle hors service cette configuration, car les pages de public cible sont désormais traitées comme des thèmes. Utilisez plutôt des modèles de pages de sujet pour aider le public à naviguer dans votre contenu&nbsp;:</p>
   <ul>
     <li><a href="sujet.html">Modèle de page de sujet</a></li>
