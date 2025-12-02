@@ -7,7 +7,7 @@ title: "Hors service&nbsp;: Pages de directives sur les lois"
 titleH1: "Pages de directives sur les lois"
 ---
 <section class="alert alert-info">
-  <h2>Information</h2>
+  <h2>Hors service</h2>
   <p>Nous retirons ce modèle de la circulation, car il n’était pas très utilisé.</p>
 </section>
 
