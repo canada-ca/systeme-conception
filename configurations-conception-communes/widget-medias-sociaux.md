@@ -7,7 +7,7 @@ title: "Hors service&nbsp;: Widget des réseaux de médias sociaux - Configurati
 titleH1: Widget des réseaux de médias sociaux - Configuration de conception de Canada.ca
 ---
 <section class="alert alert-info">
-  <h2>Information</h2>
+  <h2>Hors service</h2>
   <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages. Pour toute question relative à cette configuration, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">communiquez avec le Bureau de la transformation numérique</a>.</p>
 </section>
 
