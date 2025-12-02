@@ -3,16 +3,16 @@ altLangPage: https://design.canada.ca/common-design-patterns/collapsible-content
 date: 2020-04-22
 dateModified: '2025-11-25'
 description: Le modèle afficher/masquer (aussi appelé accordéon) permet de masquer le contenu jusqu'à ce qu'il soit demandé.
-title: Afficher/masquer - Configuration de conception de Canada.ca
+title: Développer/réduire - Configuration de conception de Canada.ca
 ---
 <span class="wb-prettify lang-html"></span>
 
-<p>Le modèle afficher/masquer (aussi appelé accordéon) permet de masquer le contenu jusqu'à ce qu'il soit demandé. Le modèle comprend un lien de déclenchement qui affiche ou masque le contenu.</p>
+<p>Le modèle développer/réduire (aussi appelé accordéon) permet de masquer le contenu jusqu'à ce qu'il soit demandé. Le modèle comprend un lien de déclenchement qui affiche ou masque le contenu.</p>
 
 <div class="pattern-demo mrgn-bttm-md">
  <p>Exemple&nbsp;:</p>
  <details>
-  <summary>Vous devez cliquer sur cette zone pour afficher ou masquer le contenu</summary>
+  <summary>Vous devez cliquer sur cette zone pour développer ou réduire le contenu</summary>
   <p>Ce texte est masqué jusqu'à ce qu'il soit affiché.</p>
  </details>
 </div>
@@ -89,9 +89,9 @@ title: Afficher/masquer - Configuration de conception de Canada.ca
 
 <h3>Remarques sur la mise en œuvre</h3>
 <ul>
-  <li>Les renseignements contenus dans les modèles afficher/masquer sont retenus lors de recherches sur les navigateurs Web.</li>
-  <li>Les navigateurs Web modernes prennent en charge la fonction de recherche dans la page, même si le modèle afficher/masquer n’est pas ouvert. Ils affichent automatiquement le contenu pour y trouver des résultats.</li>
-  <li>Cliquer pour ouvrir un modèle afficher/masquer est aussi accessible que cliquer sur un lien pour les utilisateurs.</li>
+  <li>Les renseignements contenus dans les modèles développer/réduire sont retenus lors de recherches sur les navigateurs Web.</li>
+  <li>Les navigateurs Web modernes prennent en charge la fonction de recherche dans la page, même si le modèle développer/réduire n’est pas ouvert. Ils affichent automatiquement le contenu pour y trouver des résultats.</li>
+  <li>Cliquer pour ouvrir un modèle développer/réduire est aussi accessible que cliquer sur un lien pour les utilisateurs.</li>
 </ul>
 
 <h3>Mise en œuvre</h3>
@@ -204,8 +204,8 @@ title: Afficher/masquer - Configuration de conception de Canada.ca
 <div class="pattern-demo mrgn-bttm-md">
   <h4>[Renseignements par catégorie]</h4>
   <div class="btn-group mrgn-bttm-sm mrgn-tp-md">
-    <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;on&quot;}">Afficher</button>
-    <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Masquer</button>
+    <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;on&quot;}">Développer tout</button>
+    <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">/Réduire tout</button>
   </div>
   <div id="expand-collapse">
     <details>
@@ -245,8 +245,8 @@ title: Afficher/masquer - Configuration de conception de Canada.ca
   <summary id="code-modele-contenu-reductible">Code</summary>
   <pre class="prettyprint lang-html"><code>&lt;h4&gt;[Information par catégorie ]&lt;/h4&gt;
 &lt;div class="btn-group mrgn-bttm-sm mrgn-tp-md"&gt;
-  &lt;button type="button" class="btn btn-default wb-toggle" data-toggle="{&amp;quot;selector&amp;quot;: &amp;quot;details&amp;quot;, &amp;quot;parent&amp;quot;: &amp;quot;#expand-collapse&amp;quot;, &amp;quot;type&amp;quot;: &amp;quot;on&amp;quot;}"&gt;Afficher&lt;/button&gt;
-  &lt;button type="button" class="btn btn-default wb-toggle" data-toggle="{&amp;quot;selector&amp;quot;: &amp;quot;details&amp;quot;, &amp;quot;parent&amp;quot;: &amp;quot;#expand-collapse&amp;quot;, &amp;quot;type&amp;quot;: &amp;quot;off&amp;quot;}"&gt;Masquer&lt;/button&gt;
+  &lt;button type="button" class="btn btn-default wb-toggle" data-toggle="{&amp;quot;selector&amp;quot;: &amp;quot;details&amp;quot;, &amp;quot;parent&amp;quot;: &amp;quot;#expand-collapse&amp;quot;, &amp;quot;type&amp;quot;: &amp;quot;on&amp;quot;}"&gt;/Développer tout&lt;/button&gt;
+  &lt;button type="button" class="btn btn-default wb-toggle" data-toggle="{&amp;quot;selector&amp;quot;: &amp;quot;details&amp;quot;, &amp;quot;parent&amp;quot;: &amp;quot;#expand-collapse&amp;quot;, &amp;quot;type&amp;quot;: &amp;quot;off&amp;quot;}"&gt;/Réduire tout&lt;/button&gt;
 &lt;/div&gt;
 &lt;div id="expand-collapse"&gt;
   &lt;details&gt;
@@ -285,9 +285,9 @@ title: Afficher/masquer - Configuration de conception de Canada.ca
 
 <section>
   <h2 id="recherche">Recherche et justification</h2>
-  <p>Nous avons testé avec succès l'utilisation du modèle afficher/masquer pour encourager les gens à choisir entre des options mutuellement exclusives lors de deux projets d'optimisation réalisés avec l'Agence de revenu du Canada.</p>
+  <p>Nous avons testé avec succès l'utilisation du modèle développer/réduire pour encourager les gens à choisir entre des options mutuellement exclusives lors de deux projets d'optimisation réalisés avec l'Agence de revenu du Canada.</p>
   <ul>
-    <li><a href="https://blogue.canada.ca/2020/09/18/afficher-masquer.html">Utiliser le modèle afficher/masquer pour faire des choix</a> (blogue)</li>
+    <li><a href="https://blogue.canada.ca/2020/09/18/afficher-masquer.html">Utiliser le modèle développer/réduire pour faire des choix</a> (blogue)</li>
     <li><a href="{{ site.url }}/resumes-recherche/arc-contactez-nous-resume-recherche.html">Résumé de recherche&nbsp;: Communiquer avec l’ARC</a></li>
   </ul>
 </section>
