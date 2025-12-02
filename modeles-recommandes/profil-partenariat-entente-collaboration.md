@@ -8,8 +8,8 @@ titleH1: "Profil de partenariat ou d’entente de collaboration - Modèle de Can
 ---
 
 <section class="alert alert-info">
-  <h2>Information</h2>
-  <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages. Pour toute question relative à cette configuration, <a href="mailto:design@canada.ca">communiquez avec le Bureau de la transformation numérique.</a>.</p>
+  <h2>Hors service</h2>
+  <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages. Pour toute question relative à cette configuration, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">communiquez avec le Bureau de la transformation numérique.</a>.</p>
 </section>
 
 <div>
