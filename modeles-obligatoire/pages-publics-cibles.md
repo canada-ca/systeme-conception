@@ -1,10 +1,20 @@
 ---
 altLangPage: https://design.canada.ca/mandatory-templates/audience-pages.html
 date: "2018-12-19"
-dateModified: "2018-12-19"
-description: "Utilisez une page de modèle de public visé dans l’ensemble du gouvernement une seule fois pour chaque public du site Canada.ca."
-title: "Pages des publics cibles - Modèle obligatoire de Canada.ca"
+dateModified: "2025-11-26"
+description: "Nous mettons ce modèle hors service et ne recommandons pas de l’utiliser sur vos pages. Utilisez une page de modèle de public visé dans l’ensemble du gouvernement une seule fois pour chaque public du site Canada.ca."
+title: "Hors service&nbsp;: Pages des publics cibles"
+titleH1: "Pages des publics cible"
 ---
+<section class="alert alert-info">
+  <h2>Hors service</h2>
+  <p>Nous mettons hors service cette configuration, car les pages de public cible sont désormais traitées comme des thèmes. Utilisez plutôt des modèles de pages de sujet pour aider le public à naviguer dans votre contenu&nbsp;:</p>
+  <ul>
+    <li><a href="sujet.html">Modèle de page de sujet</a></li>
+    <li><a href="theme.html">Page de thème</a></li>
+  </ul>
+</section>
+
 <section>
   <h2>Sur cette page</h2>
   <ul>
@@ -12,8 +22,10 @@ title: "Pages des publics cibles - Modèle obligatoire de Canada.ca"
     <li><a href="#specifications">Comment utiliser ce modèle</a></li>
     <li><a href="#exemples">Exemples concrets</a></li>
     <li><a href="#navigation">Navigation de l’utilisateur</a></li>
+    <li><a href="#changements">Derniers changements</a></li>
   </ul>
 </section>
+
 <section>
   <h2 id="utilisation">Quand utiliser ce modèle</h2>
   <ul>
@@ -24,7 +36,8 @@ title: "Pages des publics cibles - Modèle obligatoire de Canada.ca"
         <li>les anciens combattants.</li>
       </ul>
     </li>
-    <li>Seul le responsable ministériel pour le public cible du site Canada.ca peut utiliser un modèle de page de public visé dans l’ensemble du gouvernement. Les responsables ministériels pour les publics sont affectés par Emploi et Développement social Canada.</li>
+    <li>Seul le responsable ministériel pour le public cible du site Canada.ca peut utiliser un modèle de page de public visé dans l’ensemble du gouvernement.</li>
+    <li>Les responsables ministériels pour les publics sont affectés par Emploi et Développement social Canada.</li>
   </ul>
 </section>
 <section>
@@ -144,7 +157,7 @@ title: "Pages des publics cibles - Modèle obligatoire de Canada.ca"
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Contenu</strong></summary>
                 <ul>
-                  <li>Utilisez la configuration<a href="../configurations-conception-communes/services-renseignements.html">Services et renseignements</a>.</li>
+                  <li>Utilisez la configuration <a href="../configurations-conception-communes/services-renseignements.html">Services et renseignements</a>.</li>
                 </ul>
               </details>
             </li>
@@ -168,7 +181,7 @@ title: "Pages des publics cibles - Modèle obligatoire de Canada.ca"
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Contenu</strong></summary>
                 <ul>
-                  <li>Utilisez la configuration<a href="../configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a>.</li>
+                  <li>Utilisez la configuration <a href="../configurations-conception-communes/vignettes-promotionnelles.html">Promotions contextuelles</a>.</li>
                 </ul>
               </details>
             </li>
@@ -209,4 +222,11 @@ title: "Pages des publics cibles - Modèle obligatoire de Canada.ca"
       <p>On peut accéder aux pages destinées au public dans l’ensemble du<abbr title="Gouvernement du Canada">GC</abbr>à partir de la page d’accueil, des profils institutionnels connexes et des pages de sujets connexes.</p>
     </details>
   </figure>
+</section>
+<section>
+  <h2 id="changements">Dernières modifications</h2>
+  <dl>
+    <dt><time>2025-11-26</time></dt>
+    <dd>Ajout d’une alerte pour indiquer qu’une mise hors service est programmée pour cette configuration. La raison de la mise hors service de ce modèle est que les pages de public cible sont désormais traitées comme des thèmes.</dd>
+  </dl>
 </section>
