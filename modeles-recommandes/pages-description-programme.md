@@ -8,7 +8,7 @@ titleH1: "Pages de description de programme - Modèle de Canada.ca"
 ---
 
 <section class="alert alert-info">
-  <h2>Information</h2>
+  <h2>Hors service</h2>
   <p>Nous mettons ce modèle hors service et ne recommandons pas de l’utiliser sur vos pages. Pour toute question liée à ce modèle, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">contactez le Bureau de la transformation numérique</a>.</p>
 </section>
 
