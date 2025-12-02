@@ -7,7 +7,7 @@ title: "Hors service&nbsp;: Icônes - Configuration de conception de Canada.ca"
 titleH1: "Icônes - Configuration de conception de Canada.ca"
 ---
 <section class="alert alert-info">
-  <h2>Information</h2>
+  <h2>Hors service</h2>
   <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages. Pour toute question relative à cette configuration, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">communiquez avec le Bureau de la transformation numérique.</a></p>
 </section>
 
