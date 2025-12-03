@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/collapsible-content.html
 date: 2020-04-22
 dateModified: '2025-11-25'
-description: Le modèle afficher/masquer (aussi appelé accordéon) permet de masquer le contenu jusqu'à ce qu'il soit demandé.
+description: Le modèle développer/réduire (aussi appelé accordéon) permet de masquer le contenu jusqu'à ce qu'il soit demandé.
 title: Développer/réduire - Configuration de conception de Canada.ca
 ---
 <span class="wb-prettify lang-html"></span>
@@ -29,7 +29,7 @@ title: Développer/réduire - Configuration de conception de Canada.ca
 
 <section>
  <h2 id="utiliser">Quand l'utiliser</h2>
- <p>Le modèle afficher/masquer peut être utilisé dans deux situations&nbsp;:</p>
+ <p>Le modèle développer/réduire peut être utilisé dans deux situations&nbsp;:</p>
 
  <h3>1. Présenter un choix entre des réponses mutuellement exclusives</h3>
  <p>Utilisez ce modèle lorsque les gens doivent obtenir des réponses différentes en fonction de leur situation et lorsque ces réponses sont mutuellement exclusives.</p>
@@ -48,11 +48,11 @@ title: Développer/réduire - Configuration de conception de Canada.ca
     <p>Deux boutons gris positionnés côte à côte. Les deux ont des fonds gris. Le bouton de gauche contient le texte suivant&nbsp;: Développer tout. Le bouton de droite contient le texte suivant&nbsp;: Réduire tout.</p>
    </details>
   </figure>
-  <p>L’option développer tout / réduire tout ne doit être employée que lorsqu’il peut être avantageux pour les utilisateurs d’afficher tous les renseignements en même temps. Ce serait notamment le cas d’une page ayant de nombreuses modèles afficher/masquer dans lesquelles se trouvent&nbsp;:</p>
+  <p>L’option développer tout / réduire tout ne doit être employée que lorsqu’il peut être avantageux pour les utilisateurs d’afficher tous les renseignements en même temps. Ce serait notamment le cas d’une page ayant de nombreuses modèles développer/réduire dans lesquelles se trouvent&nbsp;:</p>
   <ul>
-    <li>des renseignements secondaires, dont l’affichage complet faciliterait la consultation rapide pour trouver un élément précis, qui n’est pas explicitement mentionné dans l’intertitre accompagnant le modèle afficher/masquer.
+    <li>des renseignements secondaires, dont l’affichage complet faciliterait la consultation rapide pour trouver un élément précis, qui n’est pas explicitement mentionné dans l’intertitre accompagnant le modèle développer/réduire.
       <ul>
-        <li>par exemple&nbsp;: Une page de mises à jour dont les intertitres correspondent aux dates et dont les mises à jour sont contenues dans le modèle afficher/masquer.</li>
+        <li>par exemple&nbsp;: Une page de mises à jour dont les intertitres correspondent aux dates et dont les mises à jour sont contenues dans le modèle développer/réduire.</li>
       </ul>
     </li>
     <li>des réponses potentielles, dont plusieurs peuvent s’appliquer à l’utilisateur. Dans ce cas, afficher toutes les réponses en même temps peut aider l’utilisateur à consulter rapidement les renseignements et à trouver ce dont il a besoin.</li>
@@ -205,7 +205,7 @@ title: Développer/réduire - Configuration de conception de Canada.ca
   <h4>[Renseignements par catégorie]</h4>
   <div class="btn-group mrgn-bttm-sm mrgn-tp-md">
     <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;on&quot;}">Développer tout</button>
-    <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">/Réduire tout</button>
+    <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
   </div>
   <div id="expand-collapse">
     <details>
@@ -287,7 +287,7 @@ title: Développer/réduire - Configuration de conception de Canada.ca
   <h2 id="recherche">Recherche et justification</h2>
   <p>Nous avons testé avec succès l'utilisation du modèle développer/réduire pour encourager les gens à choisir entre des options mutuellement exclusives lors de deux projets d'optimisation réalisés avec l'Agence de revenu du Canada.</p>
   <ul>
-    <li><a href="https://blogue.canada.ca/2020/09/18/afficher-masquer.html">Utiliser le modèle développer/réduire pour faire des choix</a> (blogue)</li>
+    <li><a href="https://blogue.canada.ca/2020/09/18/afficher-masquer.html">Utiliser le modèle afficher/masquer (développer/réduire) pour faire des choix</a> (blogue)</li>
     <li><a href="{{ site.url }}/resumes-recherche/arc-contactez-nous-resume-recherche.html">Résumé de recherche&nbsp;: Communiquer avec l’ARC</a></li>
   </ul>
 </section>
