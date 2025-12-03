@@ -40,7 +40,7 @@ title: Développer/réduire - Configuration de conception de Canada.ca
  <p>Il peut s'agir d'un contenu qui s'applique à la plupart des gens, mais que seules quelques personnes peuvent avoir besoin d'utiliser (par exemple, une déclaration de confidentialité ou des renseignements supplémentaires qui ne sont pas nécessaires pour accomplir la tâche principale).</p>
  <p>Il peut également s'agir d'un contenu qui ne s'applique qu'à une minorité de personnes (par exemple lorsqu'il existe des renseignements spécifiques destinées à un public spécifique).</p>
 
-  <h3>Utiliser les boutons développer tout / réduire tout</h3>
+  <h3>Utiliser les boutons développer tout/réduire tout</h3>
   <figure>
    <img src="{{ site.url }}/images/configurations-conception-communes/contenu-reductible-developper-reduire-tout.png" alt="Description longue sous l’image">
    <details>
@@ -48,7 +48,7 @@ title: Développer/réduire - Configuration de conception de Canada.ca
     <p>Deux boutons gris positionnés côte à côte. Les deux ont des fonds gris. Le bouton de gauche contient le texte suivant&nbsp;: Développer tout. Le bouton de droite contient le texte suivant&nbsp;: Réduire tout.</p>
    </details>
   </figure>
-  <p>L’option développer tout / réduire tout ne doit être employée que lorsqu’il peut être avantageux pour les utilisateurs d’afficher tous les renseignements en même temps. Ce serait notamment le cas d’une page ayant de nombreuses modèles développer/réduire dans lesquelles se trouvent&nbsp;:</p>
+  <p>L’option développer tout/réduire tout ne doit être employée que lorsqu’il peut être avantageux pour les utilisateurs d’afficher tous les renseignements en même temps. Ce serait notamment le cas d’une page ayant de nombreuses modèles développer/réduire dans lesquelles se trouvent&nbsp;:</p>
   <ul>
     <li>des renseignements secondaires, dont l’affichage complet faciliterait la consultation rapide pour trouver un élément précis, qui n’est pas explicitement mentionné dans l’intertitre accompagnant le modèle développer/réduire.
       <ul>
@@ -71,17 +71,17 @@ title: Développer/réduire - Configuration de conception de Canada.ca
 
 <section>
   <h2 id="specifications-conception">Spécifications de conception</h2>
-  <h3>Modèle développer tout / réduire tout</h3>
+  <h3>Modèle développer/réduire</h3>
   <p>Par défaut, tous les modèles doivent être fermés.</p>
-  <p><a href="#code-modele-contenu-reductible">Copiez le code pour obtenir le modèle développer tout / réduire tout.</a></p>
+  <p><a href="#code-modele-contenu-reductible">Copiez le code pour obtenir le modèle développer/réduire.</a></p>
 
-  <h3>Boutons développer tout / réduire tout</h3>
+  <h3>Boutons développer tout/réduire tout</h3>
   <p>En cliquant sur chaque bouton&nbsp;:</p>
   <ul>
     <li>développer tout devrait ouvrir tous les modèles, exposant le contenu préalablement masqué;</li>
     <li>réduire tout devrait fermer tous les modèles.</li>
   </ul>
-  <p><a href="#code-modele-contenu-reductible">Copiez le code pour obtenir les boutons développer tout / réduire tout.</a></p>
+  <p><a href="#code-modele-contenu-reductible">Copiez le code pour obtenir les boutons développer tout/réduire tout.</a></p>
 </section>
 
 <section>
@@ -200,7 +200,7 @@ title: Développer/réduire - Configuration de conception de Canada.ca
 &lt;/details&gt;</code></pre>
 </details>
 
-<h3>Grâce aux boutons développer tout / réduire tout</h3>
+<h3>Grâce aux boutons développer tout/réduire tout</h3>
 <div class="pattern-demo mrgn-bttm-md">
   <h4>[Renseignements par catégorie]</h4>
   <div class="btn-group mrgn-bttm-sm mrgn-tp-md">
@@ -295,8 +295,8 @@ title: Développer/réduire - Configuration de conception de Canada.ca
 <section>
   <h2 id="changements">Derniers changements</h2>
   <dl class="dl-horizontal">
-    <dt><time>{{ page.dateModified }}</time></dt>
-    <dd>Ajout de renseignements sur les contextes justifiant d’employer les boutons développer tout / réduire tout. Ajout de remarques sur la mise en œuvre.</dd>
+    <dt><time>2025-11-25</time></dt>
+    <dd>Ajout de renseignements sur les contextes justifiant d’employer les boutons développer tout/réduire tout. Ajout de remarques sur la mise en œuvre.</dd>
     <dt><time>2019-11-28</time></dt>
     <dd>Les directives ont été modifiées pour permettre d'afficher/masquer du contenu pour des réponses qui sont mutuellement exclusives.</dd>
   </dl>
