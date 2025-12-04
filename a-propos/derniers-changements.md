@@ -14,7 +14,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
     <summary><time datetime="2025-12-02">2 décembre 2025</time></summary>
     <p>Nous avons fait les changements suivants&nbsp;:</p>
     <ul>
-      <li>Mise à jour du modèle de services et de renseignements pour inclure des directives sur l’utilisation des titres de section, de bandes grises et/ou de la mise en page à l’aide d’une seule colonne.</li>
+      <li>Mise à jour du modèle de <a href="{{ site.url }}/configurations-conception-communes/services-renseignements.html">services et de renseignements</a> pour inclure des directives sur l’utilisation des titres de section, de bandes grises et/ou de la mise en page à l’aide d’une seule colonne.</li>
     </ul>
   </details>
   <details>
