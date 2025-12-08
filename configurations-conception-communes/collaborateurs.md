@@ -15,8 +15,8 @@ title: Collaborateurs
   <h2>Sur cette page&nbsp;:</h2>
   <ul>
     <li><a href="#utilisation">Quand l'utiliser</a></li>
-    <li><a href="#contenu">Précisions en ce qui concerne le contenu</a></li>
-    <li><a href="#conception">Précisions en ce qui concerne la conception</a></li>
+    <li><a href="#contenu">Spécifications du contenu</a></li>
+    <li><a href="#conception">Spécifications de conception</a></li>
     <li><a href="#visuel">Exemple visuel</a></li>
     <li><a href="#implementation">Comment mettre en œuvre</a></li>
     <li><a href="#changements">Derniers changements</a></li>
@@ -31,13 +31,13 @@ title: Collaborateurs
   </ul>
 </section>
 <section>
-  <h2 id="contenu">Précisions en ce qui concerne le contenu </h2>
+  <h2 id="contenu">Spécifications du contenu</h2>
   <p>Le lien vers l’institution ou l’organisme est précédé par le mot &laquo;&nbsp;De&nbsp;:&nbsp;&raquo;.</p>
-  <p>Énumérez les institutions ou organismes contributeurs. Les liens doivent diriger vers la page d’accueil principale de l’organisme</p>
+  <p>Énumérez les institutions ou organismes contributeurs. Les liens doivent diriger vers la page d’accueil principale de l’organisme.</p>
   <p>Le texte de l’hyperlien doit correspondre au nom apparaissant sur la page du profil de l’institution ou de l’organisation auquel il revoit.</p>
 </section>
 <section>
-  <h2 id="conception">Précisions en ce qui concerne la conception </h2>
+  <h2 id="conception">Spécifications de conception</h2>
   <p>La configuration collaborateurs est placée en dessous de tout le contenu de la page, mais au-dessus du champ &laquo;&nbsp;Date de modification&nbsp;&raquo;.</p>
   <p>N’alignez pas le texte figurant dans ce bloc avec d’autres blocs de texte ou d’autres éléments de mise en page.</p>
   <p>Justifiez à gauche le titre et les liens.</p>
@@ -69,7 +69,7 @@ title: Collaborateurs
 <section>
   <h2 id="changements">Derniers changements</h2>
   <dl class="dl-horizontal">
-    <dd><time>2025-12-03</time></dd>
+    <dt><time>2025-12-03</time></dt>
     <dd>Les directives ont été mises à jour afin de donner des précisions quant au moment où il est pertinent d’utiliser le modèle des collaborateurs.</dd>
   </dl>
 </section>
