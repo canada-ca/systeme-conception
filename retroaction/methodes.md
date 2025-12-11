@@ -195,7 +195,7 @@ Pour les plus grands ensembles de données, il est utile d’utiliser un outil d
 
 Pour les institutions qui reçoivent de la rétroaction en grandes quantités, sachez que nous pilotons d’autres méthodes pour accéder à la rétroaction et l’analyser en utilisant des outils de science des données.
 
-Communiquez avec le bureau de la transformation numérique si vous recevez plus de rétroaction que vous ne pouvez gérer par une analyse manuelle.
+Communiquez avec le Bureau de l’expérience Canada.ca si vous recevez plus de rétroaction que vous ne pouvez gérer par une analyse manuelle.
 
 Adresse courriel&nbsp;: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 

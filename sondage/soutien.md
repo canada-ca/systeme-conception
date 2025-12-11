@@ -8,15 +8,15 @@ title: Ressources et soutien pour Sondage sur la réussite des tâches du GC
 
 ## Sur cette page
 
-* [Quand contacter le Bureau de la transformation numérique](#bureau-de-la-transformation-numérique)
+* [Quand contacter le Bureau de l’expérience Canada.ca](#bureau-de-la-transformation-numérique)
 * [Quand contacter l’Éditeur principal](#éditeur-principal)
 
-Le Sondage est une collaboration entre Éditeur principal et le Bureau de la transformation numérique.
+Le Sondage est une collaboration entre Éditeur principal et le Bureau de l’expérience Canada.ca.
 
 
-## Bureau de la transformation numérique
+## Bureau de l’expérience Canada.ca
 
-Contactez le Bureau de la transformation numérique pour les questions relatives à&nbsp;:
+Contactez le Bureau de l’expérience Canada.ca pour les questions relatives à&nbsp;:
 
 * l’outil visionneur de commentaires
 * comment rédiger des tâches

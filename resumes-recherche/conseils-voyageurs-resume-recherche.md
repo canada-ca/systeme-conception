@@ -7,7 +7,7 @@ language: fr
 title: "Conseils aux voyageurs et avertissements"
 ---
 <p class="post-meta">Le 1 novembre 2019</p>
-<p>Le projet d'optimisation des conseils et des avertissements aux voyageurs a été mis en œuvre de janvier à mars 2019. L'objectif était de permettre aux Canadiens de trouver et de comprendre plus facilement les conseils et les avis aux voyageurs disponibles sur Canada.ca. L'équipe de projet était codirigée par le Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor et Affaires mondiales Canada (AMC).</p>
+<p>Le projet d'optimisation des conseils et des avertissements aux voyageurs a été mis en œuvre de janvier à mars 2019. L'objectif était de permettre aux Canadiens de trouver et de comprendre plus facilement les conseils et les avis aux voyageurs disponibles sur Canada.ca. L'équipe de projet était codirigée par le Bureau de l’expérience Canada.ca (BEC) du Secrétariat du Conseil du Trésor et Affaires mondiales Canada (AMC).</p>
 <p>Les partenaires d'<abbr title="Affaires mondiales Canada">AMC</abbr> ont également participé à la diffusion de contenu sur les voyages&nbsp;:</p>
 <ul>
   <li>Immigration, Réfugiés et Citoyenneté Canada (IRCC)</li>

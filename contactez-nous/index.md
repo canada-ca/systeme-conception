@@ -3,15 +3,15 @@ altLangPage: "https://design.canada.ca/contact-us/"
 breadcrumbs: false
 date: 2023-04-18
 dateModified: 2024-02-20
-description: "Contactez le Bureau de la transformation numérique au sujet du système de conception de Canada.ca."
+description: "Contactez le Bureau de l’expérience Canada.ca au sujet du système de conception de Canada.ca."
 nomenu: true
 nositesearch: true
 noReportProblem: true
 script: ./gc-referrer.js
 share: false
-title: "Contactez le Bureau de la transformation numérique"
+title: "Contactez le Bureau de l’expérience Canada.ca"
 ---
-<p>Le Bureau de la transformation numérique (BTN) fait partie d’Emploi et Développement social Canada. Vos questions et suggestions sur la conception de Canada.ca sont les bienvenues.</p>
+<p>Le Bureau de l’expérience Canada.ca (BEC) fait partie d’Emploi et Développement social Canada. Vos questions et suggestions sur la conception de Canada.ca sont les bienvenues.</p>
 <p>Notez que nous ne pouvons répondre qu’aux questions portant sur la conception ou les problèmes en lien avec Canada.ca. Pour obtenir les coordonnées d’autres ministères ou programmes, consultez&nbsp;:</p>
 <ul>
   <li><a href="https://www.canada.ca/fr/contact.html">Coordonnées du gouvernement du Canada</a></li>

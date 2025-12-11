@@ -191,7 +191,7 @@ title: "Rétroaction GC"
         <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour plusieurs pages en même temps.</p>
         <p>Envisagez d'inclure cette valeur lorsque vous ajoutez l'outil de rétroaction à plusieurs pages relatives à un même sujet, comme &laquo;&nbsp;passeports&nbsp;&raquo; ou &laquo;&nbsp;assurance-emploi&nbsp;&raquo;.</p>
         <p>Il s'agit d'une valeur unilingue. Entrez la valeur de section en anglais, tant pour vos pages en anglais que celles en français.</p>
-        <p>Si vous souhaitez ajouter une nouvelle valeur &laquo;&nbsp;Section&nbsp;&raquo; qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
+        <p>Si vous souhaitez ajouter une nouvelle valeur &laquo;&nbsp;Section&nbsp;&raquo; qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de l’expérience Canada.ca. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
         <p>Adresse courriel&nbsp;: <a href="maito:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
         <h4><span class="label label-warning">Optionnel</span> Lien de contact</h4>
         <p>Envisagez uniquement d'ajouter un lien de contact si vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateurs utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>
@@ -291,13 +291,13 @@ title: "Rétroaction GC"
           <li><strong>Travel</strong> (Voyage)</li>
           <li><strong>Veterans</strong> (Vétérans)</li>
         </ul>
-        <p>Si vous souhaitez ajouter un nouveau thème qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
+        <p>Si vous souhaitez ajouter un nouveau thème qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de l’expérience Canada.ca. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
         <p>Adresse courriel&nbsp;: <a href="maito:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
         <h4><span class="label label-warning">Optional</span> Ajouter une valeur masquée &laquo;&nbsp;Section&nbsp;&raquo; dans le code de l'outil de rétroaction</h4>
         <p>Ceci peut vous être utile si vous souhaitez télécharger de la rétroaction pour plusieurs pages en même temps.</p>
         <p>Envisagez d'inclure cette valeur lorsque vous ajoutez l'outil de rétroaction à plusieurs pages relatives à un même sujet, comme &laquo;&nbsp;passeports&nbsp;&raquo; ou &laquo;&nbsp;assurance-emploi&nbsp;&raquo;.</p>
         <p>Il s'agit d'une valeur unilingue. Entrez la valeur de section en anglais, tant pour vos pages en anglais que celles en français.</p>
-        <p>Si vous souhaitez ajouter une nouvelle valeur &laquo;&nbsp;Section&nbsp;&raquo; qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de la transformation numérique. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
+        <p>Si vous souhaitez ajouter une nouvelle valeur &laquo;&nbsp;Section&nbsp;&raquo; qui n'apparaît pas dans la visionneuse de rétroaction, contactez le Bureau de l’expérience Canada.ca. Nous l'ajouterons pour vous à la visionneuse de rétroaction.</p>
         <p>Adresse courriel&nbsp;: <a href="maito:{{ site.emails.dto }}">{{ site.emails.dto }}</a></p>
         <h4><span class="label label-warning">Optionnel</span> Lien de contact</h4>
         <p><strong>Envisagez uniquement d'ajouter un lien de contact si</strong> vous avez essayé de clarifier le contenu de la page concernant la façon de contacter le programme ou service et que les utilisateurs utilisent toujours l'outil de rétroaction pour obtenir une réponse propre à leur situation.</p>

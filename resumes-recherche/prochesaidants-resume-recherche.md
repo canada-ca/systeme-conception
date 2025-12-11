@@ -8,7 +8,7 @@ title: "Prestations d'assurance-emploi pour proches aidants"
 ---
 <p class="post-meta">6 septembre 2018</p>
 <p>L'assurance-emploi (AE) est un service qui touche près de 2 millions de Canadiens chaque année<sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Note de bas de page </span>1</a></sup>. Certaines prestations d'<abbr title="assurance-emploi">AE</abbr> visent particulièrement les Canadiens qui prennent soin d'un membre de leur famille qui est gravement malade ou blessé, ou les personnes ayant besoin de soins de fin de vie.</p>
-<p>Le Bureau de la transformation numérique, Service Canada ainsi qu'Emploi et Développement social Canada ont collaboré pour faciliter la recherche, la compréhension et l'accès aux prestations d'<abbr title="assurance-emploi">AE</abbr>. </p>
+<p>Le Bureau de l’expérience Canada.ca, Service Canada ainsi qu'Emploi et Développement social Canada ont collaboré pour faciliter la recherche, la compréhension et l'accès aux prestations d'<abbr title="assurance-emploi">AE</abbr>. </p>
 <p>L'amélioration de la prestation des services à la clientèle est une priorité pour Canada.ca. L'équipe était déterminée à aider les Canadiens à comprendre les prestations qui leur sont offertes et la marche à suivre pour présenter une demande. La sensibilisation à ce sujet a motivé l'équipe à améliorer les renseignements fournis sur Canada.ca. Nous avons étudié, conçu et mis à l'essai un nouveau prototype en un peu plus de 3 mois. Ce prototype a réussi à&nbsp;: </p>
 <ul>
   <li>expliquer les distinctions entre trois prestations pour proches aidants qui sont étroitement liées </li>

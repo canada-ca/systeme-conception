@@ -12,7 +12,7 @@ title: Contacts pour Rétroaction GC
 
 ## Contact et soutien
 
-Communiquez avec le bureau de la transformation numérique pour les questions relatives à ce qui suit&nbsp;:
+Communiquez avec le Bureau de l’expérience Canada.ca pour les questions relatives à ce qui suit&nbsp;:
 
 * Installation de l’outil de rétroaction
 * Outil de visualisation de la rétroaction
