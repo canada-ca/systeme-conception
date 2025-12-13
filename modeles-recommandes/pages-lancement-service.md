@@ -1,11 +1,15 @@
 ---
 altLangPage: https://design.canada.ca/recommended-templates/service-initiation-pages.html
 date: null
-dateModified: "2018-12-19"
+dateModified: "2025-12-15"
 description: "Les pages d’initiation de services permettent d’aider les visiteurs de Canada.ca à lancer une tâche."
-title: "Pages de lancement d\u2019un service - Modèle de Canada.ca"
+title: "Hors service&nbsp;:Pages de lancement d\u2019un service - Modèle de Canada.ca"
 ---
-
+<section class="alert alert-info">
+  <h2 class="h3">Hors service</h2>
+  <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages.</p>
+  <p>Envisagez la <a href="../configurations-conception-communes/navigation-metro.html">configuration de navigation de style métro</a> pour les services et les processus.</p>
+</section>
 <p> Les pages d’initiation de services permettent d’aider les visiteurs de Canada.ca à lancer une tâche. Pour certaines tâches, ces pages permettent également l’achèvement de tâches. </p>
 <p> Bien que de nombreux services nécessitent des transactions ou un échange de renseignements entre les gens et les administrateurs du programme à l’aide de formulaires, les renseignements peuvent aussi être considérés comme un service. Par exemple, des bulletins météorologiques, des guides alimentaires et des rappels de produits offrent tous des résultats pour les personnes, tout comme un formulaire en ligne. </p>
 <p> Les pages de lancement d’un service : </p>
@@ -309,7 +313,7 @@ title: "Pages de lancement d\u2019un service - Modèle de Canada.ca"
   </div>
 </section>
 <section>
-  <h2 id="navigation"> Navigation de l’utilisateur </h2>
+  <h2 id="navigation">Navigation de l’utilisateur </h2>
   <figure class="mrgn-bttm-lg">
     <figcaption class="text-center"> <b> Diagramme de la façon de naviguer </b> </figcaption>
     <img alt="Diagramme de la façon de naviguer vers les pages de lancement de service dans le site Canada.ca. La version textuelle se trouve ci-dessous :" class="img-responsive center-block" src="https://www.canada.ca/content//dam/tbs-sct/images/government-communications/canada-content-style-guide/service-initiation-pages-ia-fra.png"/>
@@ -319,3 +323,11 @@ title: "Pages de lancement d\u2019un service - Modèle de Canada.ca"
     </details>
   </figure>
 </section>
+    <section>
+    <h2 id="latest">Derniers changements
+</h2>
+    <dl class="dl-horizontal">
+        <dt><time>2025-12-16</time></dt>
+        <dd> Ajout d’une alerte pour indiquer qu’une mise hors service est programmée pour cette configuration.</dd>
+    </dl>
+    </section>
