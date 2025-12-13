@@ -2,8 +2,8 @@
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
 dateModified: 2025-12-16
-description: "Derniers changements apportés au système de conception de Canada.ca."
-title: "Derniers changements apportés au système de conception de Canada.ca"
+description: "Derniers changements apportés à la conception de Canada.ca."
+title: "Derniers changements apportés à la conception de Canada.ca"
 ---
 <div class="btn-group mrgn-bttm-sm">
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;on&quot;}">Développer tout</button>
