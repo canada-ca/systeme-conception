@@ -6,7 +6,7 @@ description: "Les pages d’initiation de services permettent d’aider les visi
 title: "Hors service : Pages de lancement d\u2019un service - Modèle de Canada.ca"
 ---
 
-<section class="alert alert-info">
+<section class="alert alert-info mrgn-tp-md">
     <h2 class="h3">Hors service</h2>
     <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages.</p>
     <p>
