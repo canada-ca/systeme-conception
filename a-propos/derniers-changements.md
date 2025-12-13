@@ -13,7 +13,7 @@ title: "Derniers changements apportés au système de conception de Canada.ca"
   <details open="open">
     <summary><time datetime="2025-12-16">16 décembre 2025</time></summary>
     <ul>
-      <li>Ajout d’une alerte au <a href="{{ site.url }}/modeles-recommandes/pages-lancement-service.html">modèle de pages de lancement d’un service</a> pour indiquer qu’il sera mis hors service et qu’il convient d’envisager <a href="{{ site.url }/conception.canada.ca/configurations-conception-communes/navigation-metro.html">la configuration de navigation de style métro</a> pour les services et les processus.</li>
+      <li>Ajout d’une alerte au <a href="{{ site.url }}/modeles-recommandes/pages-lancement-service.html">modèle de pages de lancement d’un service</a> pour indiquer qu’il sera mis hors service et qu’il convient d’envisager <a href="{{ site.url }}/configurations-conception-communes/navigation-metro.html">la configuration de navigation de style métro</a> pour les services et les processus.</li>
     </ul>
   </details>
    <details>
