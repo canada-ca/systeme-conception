@@ -31,7 +31,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
   </details>
   <details>
       <summary><time datetime="2025-11-28">28 novembre 2025</time></summary>
-      <p>Ajout d’une alerte au <a href="{{ site.url }}/modeles-recommandes/pages-evenements-promotionnels.html">modèle de pages d’événements promotionnels</a> pour indiquer qu’il sera mis hors service. Ajout d’informations indiquant que si votre événement est lié à une initiative de marketing prévue par le gouvernement du Canada, consultez les <a href="{{ site.url }}/directives/campagnes.html">directives sur le contenu Web pour soutenir les campagnes publicitaires ou de marketing.</a>.</p>
+      <p>Ajout d’une alerte au <a href="{{ site.url }}/modeles-recommandes/pages-evenements-promotionnels.html">modèle de pages d’événements promotionnels</a> pour indiquer qu’il sera mis hors service. Ajout d’informations indiquant que si votre événement est lié à une initiative de marketing prévue par le gouvernement du Canada, consultez les <a href="{{ site.url }}/directives/campagnes.html">directives sur le contenu Web pour soutenir les campagnes publicitaires ou de marketing</a>.</p>
       <p>Ajout d’une alerte à la <a href="{{ site.url }}/configurations-conception-communes/liens-connexes.html">configuration de conception des liens connexes</a> pour indiquer qu’elle sera mise hors service et qu’il faudra suivre les <a href="{{ site.url }}/guide-redaction/#toc11">directives du Guide de rédaction de contenu de Canada.ca sur les liens</a>.</p>
       <p>Ajout d’une alerte à la <a href="{{ site.url }}/configurations-conception-communes/widget-medias-sociaux.html">configuration de conception des fils des réseaux de médias sociaux</a> pour indiquer qu’elle sera mise hors service.</p>
     </details>
@@ -53,7 +53,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
       </details>
       <details>
         <summary><time datetime="2025-11-25">25 novembre 2025</time></summary>
-        <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/contenu-reductible.html">configuration «*&nbsp;développer/réduire&nbsp;» </a> avec des informations sur le moment où il convient d’inclure des boutons «développer tout/réduire tout», et ajout de notes de mise en œuvre.</p>
+        <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/contenu-reductible.html">configuration «&nbsp;développer/réduire&nbsp;» </a> avec des informations sur le moment où il convient d’inclure des boutons «développer tout/réduire tout», et ajout de notes de mise en œuvre.</p>
       </details>
       <details>
         <summary><time datetime="2025-11-21">21 novembre 2025</time></summary>
