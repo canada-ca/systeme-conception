@@ -869,6 +869,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <li>Au lieu d’un trait d’union, utilisez « à » pour les exercices financiers ou les années civiles, étant donné que les lecteurs d'écran sautent souvent les traits d’union, ce qui rend la séparation entre les années difficile à comprendre (par exemple, Rapport annuel 2024 à 2025).</li>
           <li>Utilisez une virgule (,) pour souligner ou encadrer une idée au lieu d’un <b>tiret cadratin</b> (&mdash;).</li>
           <li>Simplifiez vos phrases plutôt que d’utiliser des <b>tirets cadratin</b>.</li>
+      </ul>
     </section>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
