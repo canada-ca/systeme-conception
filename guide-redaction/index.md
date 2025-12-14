@@ -281,10 +281,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Déplacer ou supprimer les détails inutiles</strong>&nbsp;: éliminez les détails dont les gens n’ont pas besoin pour accomplir leur tâche.</p>
         <h4 id="wp2-1-3">Simplifier et réviser</h4>
           <p><strong>Réduire la longueur du contenu</strong>&nbsp;: raccourcissez les mots, les phrases et les paragraphes.</p>
-          <p>><strong>Simplifier</strong>&nbsp;: remplacez le nom d’un programme déjà cité par un terme court comme « le programme » au lieu d’utiliser son nom au long ou son abréviation.</p>
-          <p>><strong>Faire réviser le contenu par des pairs</strong>&nbsp;: demandez à des collègues qui ne connaissent pas le sujet de revoir le texte pour voir si le message est clair et logique.</p>
-          <p>><strong>Lire à voix haute</strong>&nbsp;: lisez le texte à voix haute ou utilisez un lecteur d’écran pour identifier ce qui peut être clarifié ou condensé.</p>
-          <p>><strong>Mener des tests d’utilisabilité</strong>&nbsp;: travaillez avec votre équipe Web pour mettre en place des tests d’utilisabilité pour votre contenu.</p>
+          <p><strong>Simplifier</strong>&nbsp;: remplacez le nom d’un programme déjà cité par un terme court comme « le programme » au lieu d’utiliser son nom au long ou son abréviation.</p>
+          <p><strong>Faire réviser le contenu par des pairs</strong>&nbsp;: demandez à des collègues qui ne connaissent pas le sujet de revoir le texte pour voir si le message est clair et logique.</p>
+          <p><strong>Lire à voix haute</strong>&nbsp;: lisez le texte à voix haute ou utilisez un lecteur d’écran pour identifier ce qui peut être clarifié ou condensé.</p>
+          <p><strong>Mener des tests d’utilisabilité</strong>&nbsp;: travaillez avec votre équipe Web pour mettre en place des tests d’utilisabilité pour votre contenu.</p>
         <h4 id="wp2-1-4">Évitez les outils d’analyse de la lisibilité</h4>
         <p>Les outils de lisibilité sont basés sur des algorithmes qui mesurent des éléments tels que la longueur des mots. Ces outils ne peuvent pas vous dire si votre lecteur trouvera votre contenu facile à comprendre et à utiliser.</p>
         <p>Ces outils peuvent être utiles pour identifier certains points à améliorer, tels que&nbsp;:</p>
@@ -1012,6 +1012,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <p>Par souci de clarté et pour faciliter la consultation, vous devriez également utiliser des chiffres, conformément aux pratiques courantes.</p>
     <p>Exemples&nbsp;:</p>
+    <ul>
       <li>Les étapes des instructions (étape 1, étape 2)</li>
       <li>L’âge (5 ans)</li>
       <li>L’heure et la date</li>
@@ -1093,7 +1094,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <ul>
           <li>Ce rapport couvre l'exercice 2015 à 2016. Un exercice financier s'étend du 1er avril au 31 mars.</li>
         </ul>
-      </li>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-7">4.7 Dates</a></span></li>
@@ -1255,7 +1255,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <section id="wp5-1-2">
       <h4>Donner un titre unique à votre page</h4>
-      <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon :</p>
+      <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon&nbsp;:</p>
       <ul>
         <li>le titre de page;</li>
         <li>les titres de sections;</li>
@@ -3093,7 +3093,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <ul>
     <li><a href="http://ccat-ctac.org/CMFiles/Publication/LiteracyBook-FR.pdf">L'alphabétisation et l'accès à la justice administrative au Canada (PDF, 373 Ko)</a>, Conseil des tribunaux administratifs canadiens</li>
     <li><a href="https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/langage-clair-et-services">Bonnes pratiques de la communication écrite dans les démarches en ligne</a>, Secrétariat à la politique linguistique et par la Délégation générale à la langue française et aux langues de France</li>
-    <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</cite>, Ressource du Portail linguistique du Canada, gouvernement du Canada</a></li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite>, Ressource du Portail linguistique du Canada, gouvernement du Canada</a></li>
     <li><a href="http://publications.europa.eu/code/fr/fr-000500.htm">Code de rédaction interinstitutionnel</a>, Commission Européenne</li>
     <li><a href="http://www.publications.gc.ca/site/fra/9.639707/publication.html">Communiquer avec les aînés&nbsp;: conseils et techniques</a>, Santé Canada</li>
     <li><a href="https://www.spiria.com/fr/blogue/accessibilite-5-choses-que-nous-devrions-deja-faire">Comprendre l'accessibilité Web</a>, SPIRIA</li>
