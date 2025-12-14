@@ -44,11 +44,6 @@ title: "Page de contenu de base"
     </a>
    </li>
    <li>
-    <a href="#discussion">
-     Discussion
-    </a>
-   </li>
-   <li>
     <a href="#changements">
      Derniers changements
     </a>
