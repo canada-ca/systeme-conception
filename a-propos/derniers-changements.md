@@ -10,7 +10,14 @@ title: "Derniers changements apportés à la conception de Canada.ca"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
 </div>
 <div id="expand-collapse">
-  <details open="open">
+<details open="open">
+    <summary><time datetime="2025-12-17">17 décembre 2025</time></summary>
+    <p>Ajout d’une alerte à le <a href="{{ site.url }}/configurations-conception-communes/carrousels.html">modèle de conception de carrousels</a>pour indiquer qu’elle sera mise hors service. Nos recherches montrent que les carrousels ne sont pas un outil promotionnel efficace. Pour en savoir plus, consultez cet article de blogue&nbsp;:</p> 
+      <ul>
+      <li><a href="https://blogue.canada.ca/2021/10/08/carrousels-promotionnels.html">Éviter les carrousels promotionnels, améliorer le contenu Web</a></li>
+    </ul>
+  </details>
+  <details>
     <summary><time datetime="2025-12-16">16 décembre 2025</time></summary>
     <ul>
       <li>Ajout d’une alerte au <a href="{{ site.url }}/modeles-recommandes/pages-lancement-service.html">modèle de pages de lancement d’un service</a> pour indiquer qu’il sera mis hors service et qu’il convient d’envisager <a href="{{ site.url }}/configurations-conception-communes/navigation-metro.html">la configuration de navigation de style métro</a> pour les services et les processus.</li>
