@@ -594,7 +594,7 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
 <section>
     <h2 id="latest">Derniers changements</h2>
     <dl class="dl-horizontal">
-        <dt><time>2025-12-16</time></dt>
+        <dt><time>2025-12-15</time></dt>
         <dd>Ajout d’une alerte pour indiquer qu’une mise hors service est programmée pour cette configuration.</dd>
     </dl>
 </section>
