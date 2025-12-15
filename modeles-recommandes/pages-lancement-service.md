@@ -366,7 +366,7 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
                                         <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28422">
                                             Ligne directrice sur la Gestion des services
                                         </a>
-                                        conttient des définitions, des caractéristiques et des exemples de normes de
+                                        contient des définitions, des caractéristiques et des exemples de normes de
                                         service.
                                     </li>
                                     <li>
