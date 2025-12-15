@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/recommended-templates/service-initiation-pages.html
 date: null
-dateModified: "2025-12-16"
+dateModified: "2025-12-15"
 description: "Les pages d’initiation de services permettent d’aider les visiteurs de Canada.ca à lancer une tâche."
 title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Modèle de Canada.ca"
 ---
