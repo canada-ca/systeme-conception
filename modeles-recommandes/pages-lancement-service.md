@@ -46,9 +46,9 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
 <section>
     <h2>Sur cette page</h2>
     <ul>
-        <li><a href="#utilisation"> Quand utiliser ce modèle </a></li>
-        <li><a href="#specifications"> Comment utiliser ce modèle </a></li>
-        <li><a href="#navigation"> Navigation de l’utilisateur </a></li>
+        <li><a href="#utilisation">Quand utiliser ce modèle</a></li>
+        <li><a href="#specifications">Comment utiliser ce modèle</a></li>
+        <li><a href="#navigation">Navigation de l’utilisateur</a></li>
     </ul>
 </section>
 <section>
@@ -61,9 +61,7 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
         <li>
             Utilisez-le pour commencer des tâches qui appuient des services (comme cela est défini dans la
             <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32603">
-                Politique sur les services et le numérique
-            </a>
-            ).
+                Politique sur les services et le numérique</a>).
         </li>
         <li>
             Utilisez-le pour commencer des tâches qui ont des préalables à satisfaire avant de commencer la tâche (comme
@@ -248,9 +246,7 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
                                     <li>
                                         La configuration relative à la
                                         <a href="../configurations-conception-communes/navigation-plusieurs-pages.html">
-                                            navigation dans plusieurs pages ordonnées
-                                        </a>
-                                        est utilisée pour présenter les étapes du service.
+                                            navigation dans plusieurs pages ordonnées</a> est utilisée pour présenter les étapes du service.
                                     </li>
                                 </ul>
                             </details>
@@ -278,14 +274,12 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
                                     <li>
                                         Sur les pages indiquant des critères d’admissibilité, envisagez d’utiliser des
                                         <a href="../configurations-conception-communes/questions-interactives.html">
-                                            questions interactives
-                                        </a>
-                                        afin de faciliter la compréhension des exigences.
+                                            questions interactives</a> afin de faciliter la compréhension des exigences.
                                     </li>
                                     <li>Le texte doit être court et concis.</li>
                                     <li>
                                         Le contenu doit être rédigé pour un niveau de scolarité secondaire (pointage de
-                                        100 et moins dans <a href="http://www.scolarius.com/"> Scolarius </a> ).
+                                        100 et moins dans <a href="http://www.scolarius.com/">Scolarius</a> ).
                                     </li>
                                 </ul>
                             </details>
@@ -364,14 +358,13 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
                                     <li>
                                         La
                                         <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=28422">
-                                            Ligne directrice sur la Gestion des services
-                                        </a>
+                                            Ligne directrice sur la Gestion des services</a>
                                         contient des définitions, des caractéristiques et des exemples de normes de
                                         service.
                                     </li>
                                     <li>
                                         Le contenu doit être rédigé pour un niveau de scolarité secondaire (pointage de
-                                        100 et moins dans <a href="http://www.scolarius.com/"> Scolarius </a> ).
+                                        100 et moins dans <a href="http://www.scolarius.com/">Scolarius</a> ).
                                     </li>
                                     <li>Le texte doit être court et concis.</li>
                                 </ul>
@@ -415,7 +408,7 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
                                     </li>
                                     <li>
                                         Le contenu doit être rédigé pour un niveau de scolarité secondaire (pointage de
-                                        100 et moins dans <a href="http://www.scolarius.com/"> Scolarius </a> ).
+                                        100 et moins dans <a href="http://www.scolarius.com/">Scolarius</a> ).
                                     </li>
                                 </ul>
                             </details>
@@ -433,9 +426,7 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
                                     <li>
                                         Utilisez la configuration
                                         <a href="../configurations-conception-communes/couche-avertissement.html">
-                                            Avertissement superposé
-                                        </a>
-                                        .
+                                            Avertissement superposé</a>.
                                     </li>
                                 </ul>
                             </details>
@@ -472,11 +463,9 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
                                 <ul>
                                     <li>
                                         Utilisez la configuration
-                                        <a href="../configurations-conception-communes/boutons.html"> Boutons </a> ou
+                                        <a href="../configurations-conception-communes/boutons.html">Boutons</a> ou
                                         <a href="../configurations-conception-communes/liens-telechargement.html">
-                                            Liens de téléchargements
-                                        </a>
-                                        .
+                                            Liens de téléchargements</a>.
                                     </li>
                                 </ul>
                             </details>
@@ -517,7 +506,7 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
                                     </li>
                                     <li>
                                         Le contenu doit être rédigé pour un niveau de scolarité secondaire (pointage de
-                                        100 et moins dans <a href="http://www.scolarius.com/"> Scolarius </a> ).
+                                        100 et moins dans <a href="http://www.scolarius.com/">Scolarius</a> ).
                                     </li>
                                 </ul>
                             </details>
@@ -573,9 +562,7 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
                                     <li>
                                         Allez à
                                         <a href="../configurations-conception-communes/navigation-plusieurs-pages.html">
-                                            Navigation dans plusieurs pages ordonnées
-                                        </a>
-                                        pour apprendre comment afficher des liens de page précédente et suivante.
+                                            Navigation dans plusieurs pages ordonnées</a> pour apprendre comment afficher des liens de page précédente et suivante.
                                     </li>
                                 </ul>
                             </details>
