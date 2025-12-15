@@ -328,7 +328,7 @@ title: "N’est plus pris en charge : Pages de lancement d\u2019un service - Mod
                                     <li>
                                         Présentez les normes de service avec un en-tête en langage clair qui met
                                         l’accent sur ce que les personnes peuvent raisonnablement s’attendre voir dans
-                                        des conditions normales. Parlez directement aux genss. Exemples :
+                                        des conditions normales. Parlez directement aux gens. Exemples :
                                         <ul>
                                             <li>« Combien de temps durera le traitement de votre demande en ligne »</li>
                                             <li>« Délai de traitement des demandes »</li>
