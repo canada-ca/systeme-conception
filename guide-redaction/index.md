@@ -1126,8 +1126,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h3>4.9 Numéros de téléphone</h3>
     <p>Utilisez des tirets insécables (Ctrl+Shift+Tiret) pour les numéros de téléphone. Par exemple&nbsp;:</p>
     <ul>
-      <li>Pour obtenir de l'aide, composez le 1-800-622-6232</li>
-      <li>Vous pouvez nous joindre au 819-123-4567</li>
+      <li>Pour obtenir de l'aide, composez le 1-800-622-6232.</li>
+      <li>Vous pouvez nous joindre au 819-123-4567.</li>
       <li>613-999-9900 poste 123</li>
     </ul>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
@@ -1277,23 +1277,23 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Structurer les titres clairement aide à établir l'autorité d'un titre par rapport à un autre.</p>
       <p>Pour le <strong>titre</strong> de page :</p>
       <ul>
-        <li>utilisez ce style de présentation&nbsp;: Titre 1</li>
-        <li>une seule fois dans une page</li>
+        <li>utilisez ce style de présentation&nbsp;: Titre 1;</li>
+        <li>une seule fois dans une pag.</li>
       </ul>
       <p>Pour une <strong>section principale</strong>&nbsp;:</p>
       <ul>
-        <li>utilisez ce style de présentation&nbsp;: Sous-titre 2</li>
-        <li>plusieurs fois dans une page</li>
+        <li>utilisez ce style de présentation&nbsp;: Sous-titre 2;</li>
+        <li>plusieurs fois dans une page.</li>
       </ul>
       <p>Pour une <strong>sous-section</strong> :</p>
       <ul>
-        <li>utilisez ce style de présentation&nbsp;: Sous-titre 3</li>
-        <li>plusieurs fois et dans maintes sections principales</li>
+        <li>utilisez ce style de présentation&nbsp;: Sous-titre 3;</li>
+        <li>plusieurs fois et dans maintes sections principales.</li>
       </ul>
       <p>Pour une <strong>sous-sous-section</strong> :</p>
       <ul>
-        <li>utilisez ce style de présentation&nbsp;: Sous-titre 4 (et ainsi de suite)</li>
-        <li>plusieurs fois et dans maintes sous-sections</li>
+        <li>utilisez ce style de présentation&nbsp;: Sous-titre 4 (et ainsi de suite);</li>
+        <li>plusieurs fois et dans maintes sous-sections.</li>
       </ul>
       <details>
         <summary>Structurez votre texte grâce aux options de styles automatisées </summary>
@@ -1343,7 +1343,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>utilisez une structure grammaticale cohérente, par exemple, si&nbsp;:
         <ul>
           <li>vous utilisez le mode impératif (commandement) dans le premier élément de votre liste, reprenez ce mode dans chaque élément subséquent;</li>
-          <li>votre premier élément commence par un nom, poursuivez la liste de la même façon;</li>
+          <li>votre premier élément commence par un nom, poursuivez la liste de la même façon.</li>
         </ul>
       </li>
       <li>si votre liste contient plus de sept éléments, songez à la séparer en différentes catégories.</li>
@@ -1365,10 +1365,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4>Listes numérotées</h4>
       <p>Utilisez des listes numérotées pour indiquer&nbsp;:</p>
       <ul>
-        <li>le rang</li>
-        <li>l'ordre</li>
-        <li>la priorité</li>
-        <li>les détails d'une marche à suivre, étape par étape</li>
+        <li>le rang;</li>
+        <li>l'ordre;</li>
+        <li>la priorité;</li>
+        <li>les détails d'une marche à suivre, étape par étape.</li>
       </ul>
     </section>
     <section id="wp5-2-3">
