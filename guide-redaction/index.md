@@ -1754,7 +1754,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <section id="wp6-1">
   <h3>6.1 Comprendre le but des images sur le Web</h3>
   <p>Les images peuvent distraire les gens. Elles peuvent aussi augmenter la durée de chargement de la page. Assurez-vous que vos images <strong>ajoutent une valeur réelle</strong> à votre contenu.</p>
-  <p>Il y a deux principales catégories d'images :</p>
+  <p>Il y a deux principales catégories d'images&nbsp;:</p>
   <ul>
     <li>fonctionnelles;</li>
     <li>décoratives.</li>
@@ -2050,10 +2050,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Pour concrétiser notre vision, quelle image devons-nous projeter à nos clients?</p>
     <p>Chaque catégorie peut être évaluée à l'aide des 4 éléments suivants&nbsp;:</p>
     <ul>
-      <li>objectifs</li>
-      <li>messages</li>
-      <li>buts</li>
-      <li>initiatives</li>
+      <li>objectifs;</li>
+      <li>messages;</li>
+      <li>buts;</li>
+      <li>initiatives.</li>
     </ul>
   </figure>
   <p>La figure 2 est un graphique à barres qui représente les données contenues dans le tableau de données. Vous pourriez donc utiliser le tableau comme description longue pour accompagner cette image.</p>
@@ -2179,9 +2179,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h3>7.1 Utiliser les liens de façon stratégique</h3>
     <p>Réfléchissez bien à la façon de créer vos liens. Choisissez stratégiquement la façon de présenter les liens dans une page Web ainsi que le nombre de liens&nbsp;:</p>
     <ul>
-      <li>Ajoutez des liens qui appuient directement le sujet ou la tâche de la page en question;</li>
-      <li>Fournissez des liens menant au à l'information d'origine publiée par la source faisant autorité;</li>
-      <li>N'incluez pas de liens vers des sites intranet sauf si le contenu est destiné à des employés fédéraux, auquel cas il faudra ajouter la mention &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;;</li>
+      <li>Ajoutez des liens qui appuient directement le sujet ou la tâche de la page en question.</li>
+      <li>Fournissez des liens menant au à l'information d'origine publiée par la source faisant autorité.</li>
+      <li>N'incluez pas de liens vers des sites intranet sauf si le contenu est destiné à des employés fédéraux, auquel cas il faudra ajouter la mention &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</li>
       <li>Ne mettez pas de liens essentiels à la tâche au milieu d'un paragraphe ou au bas d'une page.</li>
     </ul>
     <h4>Exemple d'une utilisation appropriée des hyperliens</h4>
@@ -2259,11 +2259,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <p class="mrgn-tp-md">Sur une page en francais, écrivez&nbsp;:</p>
           <ul>
-            <li><a href="#">Texte en hyperlien (en anglais seulement)</a></li>
-            <li><a href="#">Texte en hyperlien (en inuktitut seulement)</a></li>
-            <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a></li>
+            <li><a href="#">Texte en hyperlien (en anglais seulement).</a></li>
+            <li><a href="#">Texte en hyperlien (en inuktitut seulement).</a></li>
+            <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement).</a></li>
           </ul>
-          <p><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <span lang="en"><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></p>
+          <p><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <span lang="en"><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span>.</p>
           <p class="mrgn-tp-md">Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français. Par exemple&nbsp;:</p>
           <ul>
             <li><a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></li>
@@ -2271,12 +2271,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <h5>Le lien renvoi à un contenu audio ou vidéo</h5>
           <p>Précisez la durée du contenu entre parenthèses. Par exemple&nbsp;:</p>
           <ul>
-            <li><span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></li>
+            <li><span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span>.</li>
           </ul>
           <h5>Lorsque plus d’une de ces situations s’appliquent</h5>
-          <p>Ajoutez toutes les informations contextuelles nécessaires entre parenthèses. Par exemple&nbsp;</p>
+          <p>Ajoutez toutes les informations contextuelles nécessaires entre parenthèses. Par exemple&nbsp;:</p>
           <ul>
-            <li><a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 KB, 4 pages)</a> </li>
+            <li><a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 Ko, 4 pages.)</a> </li>
           </ul>
     </section>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
@@ -3111,7 +3111,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><a href="http://w3.uqo.ca/litteratie/documents/guide2011_000.pdf">Guide de rédaction pour une information accessible</a>, Équipe de recherche en littératie et inclusion</li>
     <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
     <li><a href="http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?t1=1&amp;id=4208">Impératif et infinitif</a>, Office québécois de la langue française</li>
-    <li><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-FR.pdf">Introduction à la justice administrative et au langage clair</a>, Conseil des tribunaux administratifs canadiens</li>
+    <li><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-FR.pdf">Introduction à la justice administrative et au langage clair (PDF, 799 Ko)</a>, Conseil des tribunaux administratifs canadiens</li>
     <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a> (en anglais seulement), Government Digital Service, GOV.UK</li>
     <li><a href="http://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-fra.htm">Les compétences au Canada&nbsp;: Premiers résultats du Programme pour l'évaluation internationale des compétences des adultes</a>, Statistique Canada</li>
     <!-- <li><a href="http://www.vortexsolution.com/lexique-web-montreal.html">Lexique Web</a>, Vortex solution</li> no link available -->
