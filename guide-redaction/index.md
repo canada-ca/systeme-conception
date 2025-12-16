@@ -70,17 +70,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>Politiques, normes et procédures connexes</h2>
   <p>Votre contenu doit se conformer aux&nbsp;:</p>
   <ul>
-    <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></li>
+    <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca;</a></li>
     <li>exigences énoncées dans les instruments&nbsp;législatifs et politiques, notamment&nbsp;:
       <ul>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683">Politique sur les communications et l'image de marque</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite></li>
-        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601">Norme sur l'accessibilité des sites Web </a></cite></li>
-        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875">Norme sur l'interopérabilité du Web</a></cite></li>
-        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088">Norme sur l'optimisation des sites Web et des applications pour appareils mobiles </a></cite></li>
-        <li><cite><a href="https://www.canada.ca/fr/gouvernement/systeme/communications-gouvernementales.html">Conseils sur l'édition de produits de communications</a></cite></li>
-        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition </a></cite></li>
-        <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/O-3.01/">Loi sur les langues officielles </a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683">Politique sur les communications et l'image de marque;</a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications;</a></cite></li>
+        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601">Norme sur l'accessibilité des sites Web;</a></cite></li>
+        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875">Norme sur l'interopérabilité du Web;</a></cite></li>
+        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088">Norme sur l'optimisation des sites Web et des applications pour appareils mobiles;</a></cite></li>
+        <li><cite><a href="https://www.canada.ca/fr/gouvernement/systeme/communications-gouvernementales.html">Conseils sur l'édition de produits de communications;</a></cite></li>
+        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition;</a></cite></li>
+        <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/O-3.01/">Loi sur les langues officielles.</a></cite></li>
       </ul>
     </li>
   </ul>
