@@ -43,7 +43,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>Nous avons apporté les modifications suivantes à cette version du guide&nbsp;:</p>
   <ul class="mrgn-tp-lg">
     <li>la sous-section <a href="{{ site.urldesign }}/style-guide/#wp4-1-1">Titles, headings and subheadings</a> de la version anglaise afin de préciser qu’il faut omettre la ponctuation à la fin des légendes et des en‑têtes de tableaux;</li>
-    <li>la section <a href="#wp4-1-1">4.6 Nombres</a>, pour préciser dans quels cas utiliser des mots ou des chiffres;</li>
+    <li>la section <a href="#wp4-6">4.6 Nombres</a>, pour préciser dans quels cas utiliser des mots ou des chiffres;</li>
     <li>la sous-section <a href="{{ site.urldesign }}/style-guide/#wp4-1-5">Hyphens and dashes</a> de la version anglaise du guide, afin de permettre l’utilisation de tirets semi‑cadratin dans une plage d’années civiles ou d’exercices financiers en anglais;
     <ul>
       <li>nous avons également ajouté une nouvelle sous-section correspondante pour les <a href="#wp4-1-4">traits d’union et les tirets</a> en français.</li>
