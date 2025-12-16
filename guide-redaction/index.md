@@ -404,7 +404,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4 id="wp2-4-2">Éviter la voix passive</h4>
       <p>Dans une phrase passive, il n’est pas toujours évident de savoir qui ou quoi fait l’action. Cela rend la phrase plus difficile à comprendre. La structure d’une phrase passive est la suivante&nbsp;:</p>
       <ul>
-        <li>Objet + verbe + sujet</li>
+        <li>Objet + verbe + sujet.</li>
       </ul>
       <h4>Exemples à la voix active et passive&nbsp;:</h4>
         <p><b>Écrire</b>&nbsp;: Vous devrez peut-être fournir une preuve de citoyenneté. (actif)<br />
@@ -462,8 +462,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Les gens qui ne parlent ni français ni anglais peuvent recourir à des outils en ligne pour traduire du texte. Ces outils ne traduisent pas toujours correctement les expressions familières, imagées ou régionales.</p>
     <h4>Exemples de jargon, d’idiotisme et d’expression</h4>
     <ul>
-      <li><strong>Jargon</strong>&nbsp;: mandat d’arrêt décerné sur le siège (ordre émis par un juge d’arrêter une personne qui ne s’est pas présentée en cour ou qui n’a pas respecté certaines conditions)</li>
-      <li><strong>Expressions idiomatiques</strong>&nbsp;: pour faire court (pour résumer, en un mot, bref)</li>
+      <li><strong>Jargon</strong>&nbsp;: mandat d’arrêt décerné sur le siège (ordre émis par un juge d’arrêter une personne qui ne s’est pas présentée en cour ou qui n’a pas respecté certaines conditions).</li>
+      <li><strong>Expressions idiomatiques</strong>&nbsp;: pour faire court (pour résumer, en un mot, bref).</li>
       <li><strong>Expressions familières, imagées ou régionales</strong>&nbsp;: ne pas avoir la langue dans sa poche (personne qui n’a pas peur de dire ce qu’elle pense).</li>
     </ul>
     <p class="mrgn-tp-lg">Si vous devez utiliser un jargon bien connu de votre public cible&nbsp;:</p>
@@ -510,9 +510,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>découpez les phrases longues (longueur optimale de moins de 20 mots);</li>
       <li>évitez les phrases avec plusieurs virgules;</li>
       <li>limitez-vous à une (1) idée par phrase;</li>
-      <li>supprimez les mots inutiles (modificateurs, adverbes, adjectifs, mots qui n’ajoutent pas de sens)</li>
+      <li>supprimez les mots inutiles (modificateurs, adverbes, adjectifs, mots qui n’ajoutent pas de sens);</li>
       <li>klimitez les paragraphes à une idée principale et à trois phrases au maximum;</li>
-      <li>utilisez des listes verticales pour présenter une série de plus de deux idées ou de mots;</li>
+      <li>utilisez des listes verticales pour présenter une série de plus de deux idées ou de mots.</li>
     </ul>
     <h4>Exemples de phrases raccourcies</h4>
       <p><strong>Écrivez</strong>&nbsp;: Nous avons reçu et approuvé votre demande de financement.<br>
@@ -627,10 +627,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
   <p>Le contenu Web du gouvernement du Canada.ca doit emprunter un ton&nbsp;:</p>
   <ul>
-    <li>direct</li>
-    <li>informatif</li>
-    <li>conversationnel</li>
-    <li>professionnel</li>
+    <li>direct;</li>
+    <li>informatif;</li>
+    <li>conversationnel;</li>
+    <li>professionnel.</li>
   </ul>
   <p>Rédigez comme si vous parliez aux représentants de vos publics cibles, mais avec l'autorité d'un organisme qui fournit des renseignements dans le cadre de son mandat.</p>
   <section id="wp3-1">
@@ -791,8 +791,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Évitez d'écrire toutes les lettres d'un mot en majuscules.</p>
       <h5>Exceptions</h5>
       <ul>
-        <li>Abréviations (à utiliser seulement si nécessaire)</li>
-        <li>Noms d'exercices ou d'opérations militaires (par exemple, l'opération PROVISION)</li>
+        <li>Abréviations (à utiliser seulement si nécessaire).</li>
+        <li>Noms d'exercices ou d'opérations militaires (par exemple, l'opération PROVISION).</li>
         <li>Le nom de famille de l’auteur dans une notice bibliographique (NOM DE FAMILLE, Prénom).</li>
       </ul>
     </section>
@@ -904,14 +904,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <p>Consultez <cite>les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></cite> dans les cas suivants&nbsp;:</p>
     <ul>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/mots-etrangers-italique-et-guillemets#italique">italique de l’article &laquo;&nbsp;mots étrangers (italique et guillemets)&nbsp;&raquo;</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/latin-locutions-latines-et-mots-latins">latin (locutions latines et mots latins)</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/lettres-de-lalphabet-employees-seules">lettres de l’alphabet employées seules</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/operecitato-lococitato">opere citato/loco citato</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/nom-latin-de-plante-et-danimal">nom latin de plante et d'animal</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique">noms propres (italique)</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/titres-de-lois-reglements-accords-chartes-decrets">titres de lois (règlements, accords, chartes, décrets, etc.)</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique#e">titres de lois et autres textes juridiques de l’article &laquo;&nbsp;noms propres (italique)&nbsp;&raquo;</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/mots-etrangers-italique-et-guillemets#italique">italique de l’article &laquo;&nbsp;mots étrangers (italique et guillemets)&nbsp;&raquo;</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/latin-locutions-latines-et-mots-latins">latin (locutions latines et mots latins)</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/lettres-de-lalphabet-employees-seules">lettres de l’alphabet employées seules</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/operecitato-lococitato">opere citato/loco citato</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/nom-latin-de-plante-et-danimal">nom latin de plante et d'animal</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique">noms propres (italique)</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/titres-de-lois-reglements-accords-chartes-decrets">titres de lois (règlements, accords, chartes, décrets, etc.)</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique#e">titres de lois et autres textes juridiques de l’article &laquo;&nbsp;noms propres (italique)&nbsp;&raquo;</a>.</li>
     </ul>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
@@ -925,7 +925,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h3>4.3 Symboles</h3>
     <p>Certains symboles rendent le contenu Web difficile à lire tandis que d'autres améliorent la lisibilité du texte. Faites vos recherches pour déterminer si un large public peut comprendre le symbole avant de l'utiliser.</p>
     <h4>Esperluette</h4>
-    <p>Utilisez l'esperluette (&amp;) seulement pour des noms propres lorsqu'elle fait partie du nom de la société</p>
+    <p>Utilisez l'esperluette (&amp;) seulement pour des noms propres lorsqu'elle fait partie du nom de la société.</p>
     <h4>Pourcentage</h4>
     <ul>
       <li>20 % (et non 20 pour cent ou 20 p. 100).</li>
