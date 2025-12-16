@@ -139,8 +139,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>La rédaction épicène devrait être votre pratique habituelle.</p>
       <p>Pour plus de conseils sur l'écriture inclusive, consultez les lignes directrices et ressources du Portail linguistique du Canada&nbsp;:</p>
       <ul>
-        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources</a>, du Bureau de la traduction (en français seulement)</li>
-        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing in English</a> (en anglais seulement)</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources</a>, du Bureau de la traduction (en français seulement).</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing in English</a> (en anglais seulement).</li>
       </ul>
     </section>
     <section id="wp1-2-2">
