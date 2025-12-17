@@ -10,7 +10,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
 </div>
 <div id="expand-collapse">
-<details>
+<details open="open">
     <summary><time datetime="2025-12-18">18 décembre 2025</time></summary>
     <p>Ajout d’une alerte à la <a href="{{ site.url }}/modeles-recommandes/generique.html">page de contenu de base</a> pour indiquer qu’elle sera mise hors service.</p>
     <mark>is there a reason the FR is different and doesn't have the GCDS link?</mark>
