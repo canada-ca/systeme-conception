@@ -474,7 +474,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Exemples d’énoncés qui évitent le recours au jargon</h4>
     <p><strong>Écrivez</strong>&nbsp;: Vous devez nous envoyer votre déclaration de revenus (T1) d’ici le 30 avril.<br>
       <strong>Au lieu de</strong>&nbsp;: Vous devez nous envoyer votre T1 d’ici le 30 avril.</p>
-    <p><strong>Écrivez</strong>&nbsp;: Apprenez-en plus sur les régimes d’épargne qui peuvent vous aider à épargner assez d’argent pour la retraite<br>
+    <p><strong>Écrivez</strong>&nbsp;: Apprenez-en plus sur les régimes d’épargne qui peuvent vous aider à épargner assez d’argent pour la retraite.<br>
       <strong>Au lieu de</strong>&nbsp;: Apprenez-en plus sur les régimes d’épargne qui peuvent vous aider à vous constituer un bas de laine pour votre retraite.</p>
     <h4 id="wp2-5-1">Déterminer les mots-clés que votre public utilise pour trouver votre contenu</h4>
     <p>Les mots-clés sont des mots dont votre public cible se sert pour trouver votre contenu. Il s’agit des mots les plus courants pour discuter d’un sujet donné ou d’en faire la recherche.</p>
