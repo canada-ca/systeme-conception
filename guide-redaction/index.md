@@ -2048,7 +2048,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Clientèle</li>
     </ul>
     <p>Pour concrétiser notre vision, quelle image devons-nous projeter à nos clients?</p>
-    <p>Chaque catégorie peut être évaluée à l'aide des 4 éléments suivants&nbsp;:</p>
+    <p>Chaque catégorie peut être évaluée à l'aide des quatre éléments suivants&nbsp;:</p>
     <ul>
       <li>objectifs;</li>
       <li>messages;</li>
