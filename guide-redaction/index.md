@@ -2257,7 +2257,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>Ne traduisez pas le titre du contenu en renvoi.</li>
         <li>Assurez-vous que la langue du renvoi soit spécifiée dans le code du lien.</li>
       </ul>
-      <p class="mrgn-tp-md">Sur une page en francais, écrivez&nbsp;:</p>
+      <p class="mrgn-tp-md">Sur une page en français, écrivez&nbsp;:</p>
           <ul>
             <li><a href="#">Texte en hyperlien (en anglais seulement).</a></li>
             <li><a href="#">Texte en hyperlien (en inuktitut seulement).</a></li>
