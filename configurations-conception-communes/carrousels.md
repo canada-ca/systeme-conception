@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/common-design-patterns/carousels.html
 date: null
 dateModified: '2018-12-19'
 description: null
-title: Carrousels - Configuration de conception de Canada.ca
+title: N'est plus prise en charge : Carrousels - Configuration de conception de Canada.ca
 ---
 
 <section class="alert alert-info mrgn-tp-md">
