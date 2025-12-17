@@ -1052,11 +1052,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li>Conservez le format original (y compris les chiffres romains) pour les noms propres (Gazette du Canada, partie II; projet de loi C-8).</li>
       <li>Insérez une espace insécable (Ctrl+Shift+barre Espace) entre le chiffre et le mot qui suit (5 millions de dollars, 20 ans).</li>
-      <li>Les numéraux ordinaux, qu’ils soient écrits en chiffres arabes ou romains, s’accordent en genre et en nombre avec le nom qu’ils qualifient (les troisièmes examens) et s’abrègent avec des lettres minuscules surélevées  (les XIes Jeux du Commonwealth).</li>
+      <li>Les numéraux ordinaux, qu’ils soient écrits en chiffres arabes ou romains, s’accordent en genre et en nombre avec le nom qu’ils qualifient (les troisièmes examens) et s’abrègent avec des lettres minuscules surélevées  (les XI<sup>es</sup> Jeux du Commonwealth).</li>
       <li>L’exposant s’écrit en petit caractère placé en haut et à droite d’un autre caractère dans les cas suivants :
         <ul>
-        <li>le premier jour du mois  (le 1er décembre);</li>
-        <li>les adjectifs numéraux ordinaux (2e sortie, le 400e anniversaire de Québec).</li>
+        <li>le premier jour du mois  (le 1<sup>er</sup> décembre);</li>
+        <li>les adjectifs numéraux ordinaux (2<sup>e</sup> sortie, le 400<sup>e</sup> anniversaire de Québec).</li>
         </ul>
       </li>
       <li>Il est courant de répéter le symbole dans une phrase où les chiffres sont séparés par une espace, mais ce n’est pas obligatoire (de 3 à 6 ml, entre 15 et 20 $, environ 45 à 50 %).</li>
