@@ -174,7 +174,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
   </section>
   <section id="wp1-3">
-    <h3>1.3 Fournir un contenu équivalent dans les 2 langues officielles</h3>
+    <h3>1.3 Fournir un contenu équivalent dans les deux langues officielles</h3>
     <section class="alert alert-warning">
       <h4>Exigences en matière de langues officielles</h4>
       <p>Selon la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/o-3.01/page-1.html">Loi sur les langues officielles</a></cite>, nous devons publier simultanément les communications et fournir des services égaux dans les deux langues officielles.</p>
