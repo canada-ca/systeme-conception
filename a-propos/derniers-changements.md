@@ -12,8 +12,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 <div id="expand-collapse">
 <details open="open">
     <summary><time datetime="2025-12-18">18 décembre 2025</time></summary>
-    <p>Ajout d’une alerte à la <a href="{{ site.url }}/modeles-recommandes/generique.html">page de contenu de base</a> pour indiquer qu’elle sera mise hors service.</p>
-    <mark>is there a reason the FR is different and doesn't have the GCDS link?</mark>
+    <p>Ajout d’une alerte à la <a href="{{ site.url }}/modeles-recommandes/generique.html">page de contenu de base</a> pour indiquer qu’elle sera mise hors service et de plutôt utiliser <a href="https://systeme-design.alpha.canada.ca/fr/modeles-de-page/basic/">le modèle de page de base</a> du Système de design GC.</p>
   </details>
 <details>
     <summary><time datetime="2025-12-17">17 décembre 2025</time></summary>
