@@ -1540,7 +1540,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <h5>Avant&nbsp;: tableau complexe</h5>
       <p>Le tableau qui suit est complexe et mal conçu. Il serait difficile d'y accéder et d'en comprendre l'information à l'aide d'un lecteur d'écran ou d'un appareil mobile.</p>
-      <h6>Exemple&nbsp; un tableau complexe</h6>
+      <h6>Exemple&nbsp;: un tableau complexe</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
