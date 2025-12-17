@@ -1982,7 +1982,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Taille et placement des images</h4>
     <p>Apprenez où placer les images et vidéos sur les pages Canada.ca et quelle taille leur donner&nbsp;:</p>
     <ul>
-      <li>Utilisez les modèles contenus dans les <a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a></li>
+      <li>Utilisez les modèles contenus dans les <a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a>.</li>
       <li>Référez-vous aux <a href="https://wet-boew.github.io/GCWeb/index-fr.html">types de pages de Canada.ca sur GitHub</a></li>
     </ul>
   </section>
