@@ -3,10 +3,16 @@ altLangPage: https://design.canada.ca/common-design-patterns/carousels.html
 date: null
 dateModified: '2018-12-19'
 description: null
-title: Carrousels - Configuration de conception de Canada.ca
+title: N'est plus prise en charge - Carrousels
 ---
 
-
+<section class="alert alert-info mrgn-tp-md">
+  <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages.</p>
+  <p>Nos recherches montrent que les carrousels ne sont pas un outil promotionnel efficace. Pour en savoir plus, consultez cet article de blogue&nbsp;:</p>
+  <ul>
+    <li><a href="https://blogue.canada.ca/2021/10/08/carrousels-promotionnels.html">Éviter les carrousels promotionnels, améliorer le contenu Web</a></li>
+  </ul>
+</section>
 
 
 <section>
@@ -139,7 +145,17 @@ title: Carrousels - Configuration de conception de Canada.ca
  </div>
 </section>
 
-
+<section>
+    <h2 id="latest">Derniers changements</h2>
+    <dl class="dl-horizontal">
+        <dt><time>2025-12-17</time></dt>
+        <dd>ajout d’une alerte pour indiquer qu’une mise hors service est programmée pour cette configuration</dd>
+    </dl>
+     <dl class="dl-horizontal">
+        <dt><time>2020-10-30</time></dt>
+        <dd>clarifié quand utiliser les carrousels et quand les éviter</dd>
+    </dl>
+ </section>
 
 
 
