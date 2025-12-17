@@ -23,22 +23,15 @@ title: "Derniers changements apportés à la conception de Canada.ca"
   </details>
   <details>
     <summary><time datetime="2025-12-15">15 décembre 2025</time></summary>
-    <ul>
-      <li>Ajout d’une alerte au <a href="{{ site.url }}/modeles-recommandes/pages-lancement-service.html">modèle de pages de lancement d’un service</a> pour indiquer qu’il sera mis hors service et qu’il convient d’envisager <a href="{{ site.url }}/configurations-conception-communes/navigation-metro.html">la configuration de navigation de style métro</a> pour les services et les processus.</li>
-    </ul>
+    <p>Ajout d’une alerte au <a href="{{ site.url }}/modeles-recommandes/pages-lancement-service.html">modèle de pages de lancement d’un service</a> pour indiquer qu’il sera mis hors service et qu’il convient d’envisager <a href="{{ site.url }}/configurations-conception-communes/navigation-metro.html">la configuration de navigation de style métro</a> pour les services et les processus.</p>
   </details>
    <details>
       <summary><time datetime="2025-12-03">3 décembre 2025</time></summary>
-      <ul>
-        <li>Mise à jour des <a href="{{ site.url }}/configurations-conception-communes/collaborateurs.html">directives sur la configuration collaborateurs</a> afin de préciser quand il convient d’utiliser la configuration collaborateurs.</li>
-      </ul>
+      <p>Mise à jour des <a href="{{ site.url }}/configurations-conception-communes/collaborateurs.html">directives sur la configuration collaborateurs</a> afin de préciser quand il convient d’utiliser la configuration collaborateurs.</p>
     </details>
   <details>
     <summary><time datetime="2025-12-02">2 décembre 2025</time></summary>
-    <p>Nous avons fait les changements suivants&nbsp;:</p>
-    <ul>
-      <li>Mise à jour du modèle de <a href="{{ site.url }}/configurations-conception-communes/services-renseignements.html">services et de renseignements</a> pour inclure des directives sur l’utilisation des titres de section, de bandes grises et/ou de la mise en page à l’aide d’une seule colonne.</li>
-    </ul>
+    <p>Mise à jour du modèle de <a href="{{ site.url }}/configurations-conception-communes/services-renseignements.html">services et de renseignements</a> pour inclure des directives sur l’utilisation des titres de section, de bandes grises et/ou de la mise en page à l’aide d’une seule colonne.</p>
   </details>
   <details>
       <summary><time datetime="2025-11-28">28 novembre 2025</time></summary>
