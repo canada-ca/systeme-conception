@@ -2276,7 +2276,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <h5>Lorsque plus d’une de ces situations s’appliquent</h5>
           <p>Ajoutez toutes les informations contextuelles nécessaires entre parenthèses. Par exemple&nbsp;:</p>
           <ul>
-            <li><a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 Ko, 4 pages.)</a> </li>
+            <li><a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 Ko, 4 pages)</a>. </li>
           </ul>
     </section>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
