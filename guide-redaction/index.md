@@ -1620,7 +1620,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           </tr>
         </tbody>
       </table>
-      <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de 2 tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
+      <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de deux tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
       <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
@@ -1668,7 +1668,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           </tr>
         </tbody>
       </table>
-      <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
+      <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en deux listes d'éléments.</p>
       <h6>Exemple : conversion de tableaux en texte </h6>
       <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
       <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
@@ -2186,7 +2186,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h4>Exemple d'une utilisation appropriée des hyperliens</h4>
     <h6>Écrivez&nbsp;:</h6>
-    <p>Une portion selon le Guide alimentaire est la quantité d'aliments de chacun des 4 groupes que l'on devrait manger chaque jour. Dans certains cas, une portion correspond à un aliment que l'on mange habituellement en une seule fois, comme une pomme. Dans d'autres, la quantité quotidienne correspond à plus d'une portion, comme pour du riz ou des pâtes.</p>
+    <p>Une portion selon le Guide alimentaire est la quantité d'aliments de chacun des quatre groupes que l'on devrait manger chaque jour. Dans certains cas, une portion correspond à un aliment que l'on mange habituellement en une seule fois, comme une pomme. Dans d'autres, la quantité quotidienne correspond à plus d'une portion, comme pour du riz ou des pâtes.</p>
     <p><a href="https://guide-alimentaire.canada.ca/fr/">Nombre de portions quotidiennes pour les enfants, les adolescents et les adultes</a></p>
     <h6>Au lieu de&nbsp;:</h6>
     <p>Une portion du Guide alimentaire est tout simplement une à titre de référence qui vous aide à comprendre la <a href="https://guide-alimentaire.canada.ca/fr/" title="quantités">quantité</a> d'aliments recommandée chaque jour dans chacun des groupes alimentaires. Dans certains cas, une portion du Guide alimentaire peut se rapprocher de ce que vous mangez, comme une pomme. Dans d'autres cas, comme lorsqu'il s'agit de riz ou de pâtes alimentaires, vous vous servez peut-être plus d'une portion du Guide alimentaire à la fois.</p>
