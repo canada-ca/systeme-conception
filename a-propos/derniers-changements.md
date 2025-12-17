@@ -64,7 +64,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
       </details>
       <details>
         <summary><time datetime="2025-11-25">25 novembre 2025</time></summary>
-        <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/contenu-reductible.html">configuration «&nbsp;développer/réduire&nbsp;»</a> avec des informations sur le moment où il convient d’inclure des boutons « développer tout/réduire tout », et ajout de notes de mise en œuvre.</p>
+        <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/contenu-reductible.html">configuration «&nbsp;développer/réduire&nbsp;»</a> avec des informations sur le moment où il convient d’inclure des boutons «&nbsp;développer tout/réduire tout&nbsp;», et ajout de notes de mise en œuvre.</p>
       </details>
       <details>
         <summary><time datetime="2025-11-21">21 novembre 2025</time></summary>
