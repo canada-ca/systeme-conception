@@ -511,7 +511,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>évitez les phrases avec plusieurs virgules;</li>
       <li>limitez-vous à une (1) idée par phrase;</li>
       <li>supprimez les mots inutiles (modificateurs, adverbes, adjectifs, mots qui n’ajoutent pas de sens);</li>
-      <li>klimitez les paragraphes à une idée principale et à trois phrases au maximum;</li>
+      <li>limitez les paragraphes à une idée principale et à trois phrases au maximum;</li>
       <li>utilisez des listes verticales pour présenter une série de plus de deux idées ou de mots.</li>
     </ul>
     <h4>Exemples de phrases raccourcies</h4>
