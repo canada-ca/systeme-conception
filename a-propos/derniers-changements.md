@@ -5,6 +5,7 @@ dateModified: 2025-12-18
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
+
 <div class="btn-group mrgn-bttm-sm">
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;on&quot;}">Développer tout</button>
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
