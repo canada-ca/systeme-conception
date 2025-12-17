@@ -566,7 +566,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </li>
       <li>Article&nbsp;: <a href="https://www.noslangues-ourlanguages.gc.ca/fr/blogue-blog/readability-formulas-fra">Les formules de lisibilité : des outils vraiment utiles pour rédiger dans un langage clair et simple?</a></li>
       <li><a href="https://publications.europa.eu/fr/publication-detail/-/publication/c2dab20c-0414-408d-87b5-dd3c6e5dd9a5">Rédiger clairement</a>, Direction générale de la traduction, Commission européenne</li>
-      <li><a href="https://www.culture.gouv.fr/content/download/93481/file/guide_bonne-pratiq-com-ecrite-demarche-en-ligne-def.pdf">Bonnes pratiques de la communication écrite dans les démarches en ligne (PDF, 3,7 Mo)</a>, Groupe franco-québécois sur la modernisation de l’État (PDF)</li>
+      <li><a href="https://www.culture.gouv.fr/content/download/93481/file/guide_bonne-pratiq-com-ecrite-demarche-en-ligne-def.pdf">Bonnes pratiques de la communication écrite dans les démarches en ligne (PDF, 3,7 Mo)</a>, Groupe franco-québécois sur la modernisation de l’État</li>
       <li><a href="https://publications.gc.ca/site/eng/9.838261/publication.html">Pour un style clair et simple : guide du formateur</a>, Gouvernement du Canada</li>
       <li><a href="https://publications.gc.ca/site/eng/9.643617/publication.html">Pour un style clair et simple</a>, Gouvernement du Canada</li>
     </ul>
