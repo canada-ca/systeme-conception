@@ -1278,7 +1278,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Pour le <strong>titre</strong> de page :</p>
       <ul>
         <li>utilisez ce style de présentation&nbsp;: Titre 1;</li>
-        <li>une seule fois dans une pag.</li>
+        <li>une seule fois dans une page.</li>
       </ul>
       <p>Pour une <strong>section principale</strong>&nbsp;:</p>
       <ul>
