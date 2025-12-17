@@ -183,7 +183,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li>être traduit par des professionnels;</li>
       <li>refléter les règles d'usage canadiennes du français et de l'anglais;</li>
-      <li>comprendre des images, des fichiers multimédias et des transcriptions entièrement bilingues ou procurer de l'information équivalente dans les 2 langues officielles.</li>
+      <li>comprendre des images, des fichiers multimédias et des transcriptions entièrement bilingues ou procurer de l'information équivalente dans les deux langues officielles.</li>
     </ul>
     <h4>Personnes responsables des langues officielles</h4>
     <p>Une <a href="https://www.tbs-sct.canada.ca/ap/list-liste/ol-lo-fra.asp">personne responsable des langues officielles dans votre institution</a> peut aider à répondre à vos questions concernant vos obligations et les exceptions.</p>
