@@ -3108,7 +3108,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><a href="http://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-fra.htm">Étude&nbsp;: Les diplômés universitaires ayant des niveaux de compétence moindres en littératie et en numératie, 2012</a>, Statistique Canada</li>
     <li><a href="http://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-fra.htm">Étude&nbsp;: Littératie et numératie chez les Premières Nations vivant hors réserve et les Métis, 2012</a>, Statistique Canada</li>
     <li><a href="https://tecfa.unige.ch/tecfa/maltt/cosys-2/textes/ergolab_lisibilite_web.pdf">Faciliter la lecture d'informations sur le web (PDF, 183 Ko)</a>, Ergolab</li>
-    <li><a href="http://w3.uqo.ca/litteratie/documents/guide2011_000.pdf">Guide de rédaction pour une information accessible</a>, Équipe de recherche en littératie et inclusion</li>
+    <li><a href="http://w3.uqo.ca/litteratie/documents/guide2011_000.pdf">Guide de rédaction pour une information accessible (PDF, 3.9 Mo)</a>, Équipe de recherche en littératie et inclusion</li>
     <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
     <li><a href="http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?t1=1&amp;id=4208">Impératif et infinitif</a>, Office québécois de la langue française</li>
     <li><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-FR.pdf">Introduction à la justice administrative et au langage clair (PDF, 799 Ko)</a>, Conseil des tribunaux administratifs canadiens</li>
