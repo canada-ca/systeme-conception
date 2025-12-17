@@ -1970,7 +1970,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>promotions contextuelles d'une page de sujet ou de la page d'accueil (Activités et initiatives du gouvernement du Canada).</li>
     </ul>
     <p>N'insérez pas de texte important, comme des titres de campagne ou de programme, dans des images décoratives.</p>
-    <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a>.</p>
+    <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a>.</p>
     <h5>Exemple d'une image décorative</h5>
     <p><img alt="Image décorative en contexte pour créer un intérêt visuel" class="img-responsive center-block" src="/guide-redaction/images/panier-03.png"></p>
     <h5>Ne décrivez pas les images décoratives</h5>
