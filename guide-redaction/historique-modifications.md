@@ -23,12 +23,6 @@ title: "Historique des mises à jour du Guide de rédaction du contenu du site C
   <details>
     <summary><time datetime="2024-08-06">le 6 août 2024</time></summary>
     <p>Nous avons mis à jour la section <a href="/guide-redaction/#toc6">2.0 Communiquer avec clarté grâce au langage clair</a> pour qu’elle corresponde davantage à la norme sur le langage clair et simple développée par l’Organisation internationale de normalisation (ISO). Les modifications apportées ont été faites en collaboration avec des spécialistes du langage clair et de la communication de l’ensemble du gouvernement du Canada.</p>
-    <ul>
-      <li>Section <a href="/guide-redaction/#toc2">But du document</a>&nbsp;:&nbsp;Suppression des références à <i>Le guide du rédacteur</i> et remplacement par des références à <i>Clés de la rédaction.</i></li>
-      <li>Section <a href="/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italiques</a>&nbsp;:&nbsp;Remplacement de liens vers du contenu archivé par des liens vers des articles courants.</li>
-      <li>Mise à jour de la section <a href="/guide-redaction/#toc13">Ressources</a>.</li>
-   </ul>
-   <p>Nous avons mis à jour l'<a href="/guide-redaction/#wp2-1">image de la pyramide inversée</a> dans la section 2.1 Commencer par les renseignements les plus importants. Nous avons retiré la majorité du texte de l'image et l'avons ajouté au contenu de la page pour faciliter la lecture.</p>
   </details>
   <details>
     <summary><time datetime="2024-02-09">le 9 février 2024</time></summary>
@@ -37,6 +31,14 @@ title: "Historique des mises à jour du Guide de rédaction du contenu du site C
       <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/index-eng"><cite>Writing Tips Plus</cite></a>
       </span>
       et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><i>Clés de la rédaction</i></a>. Les références et les liens ont été mis à jour dans les sections suivantes&nbsp;:</p>
+      <ul>
+          <li>Section <a href="/guide-redaction/#toc2">But du document</a>&nbsp;:&nbsp;Suppression des références à <i>Le guide du rédacteur</i> et remplacement par des références à <i>Clés de la rédaction.</i></li>
+          <li>Section <a href="/guide-redaction/#wp4-2">4.2 Soulignement, caractères gras et italiques</a>&nbsp;:&nbsp;Remplacement de liens vers du contenu archivé par des liens vers des articles courants.</li>
+          <li>Mise à jour de la section <a href="/guide-redaction/#toc13">Ressources</a>.</li>
+      </ul>
+
+   <p>Nous avons mis à jour l'<a href="/guide-redaction/#wp2-1">image de la pyramide inversée</a> dans la section 2.1 Commencer par les renseignements les plus importants. Nous avons retiré la majorité du texte de l'image et l'avons ajouté au contenu de la page pour faciliter la lecture.</p>
+
    <p>Dans la section <a href="/guide-redaction/#wp4-4">4.4 Abréviations, acronymes et référence</a>, nous avons ajouté  de précisions et références clés sur l’emploi des abréviations, tel que&nbsp;:</p>
    <ul>
       <li>Ajout de précision pour indiquer que les abréviations doivent être accompagnées de leur signification écrite au long à la première mention sur une page.</li>
