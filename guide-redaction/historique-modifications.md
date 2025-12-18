@@ -67,6 +67,6 @@ title: "Historique des mises à jour du Guide de rédaction du contenu du site C
   </details>
   <details>
     <summary><time datetime="2023-05-25">le 25 mai 2023</time></summary>
-    <p>Nous avons ajouté &laquo;&nbsp;Rédiger pour assurer l'inclusion&nbsp;&raquo; à la section <a href="/guide-redaction/#toc5">Principes de rédaction pour le contenu Web</a></p>
+    <p>Nous avons ajouté &laquo;&nbsp;Rédiger pour assurer l'inclusion&nbsp;&raquo; à la section <a href="/guide-redaction/#toc5">Principes de rédaction pour le contenu Web.</a></p>
   </details>
 </div>
