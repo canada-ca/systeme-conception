@@ -43,7 +43,7 @@ title: "Historique des mises à jour du Guide de rédaction du contenu du site C
       <li>Nouvelle sous-section sur les formules épistolaires, qui comprend&nbsp;:
       <ul>
          <li>comment abréger et ponctuer les titres lorsqu'il y a des abréviations liées aux grades universitaires, diplômes, doctorat, y compris l’emploi du titre docteur (par exemple : « Ph. D. », « Dr », « Dre »);</li>
-         <li>comment utiliser les titres et formules épistolaires avec les prénoms et noms</li>
+         <li>comment utiliser les titres et formules épistolaires avec les prénoms et noms.</li>
       </ul>
       </li>
    </ul>
