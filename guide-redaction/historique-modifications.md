@@ -15,7 +15,7 @@ title: "Historique des mises à jour du Guide de rédaction du contenu du site C
 
 <div id="expand-collapse">
   <details open="open">
-    <summary><time datetime="2025-12-17">17 décembre 2025</time></summary>
+    <summary><time datetime="2025-12-17">le 17 décembre 2025</time></summary>
     <p>Nous avons mis à jour la sous-section <a href="{{ site.urldesign }}/style-guide/#wp4-1-1">Titles, headings and subheadings</a> de la version anglaise du guide afin de préciser qu’il faut omettre la ponctuation à la fin des légendes et des en‑têtes de tableaux. Cela est déjà noté dans la version française du guide.</p>
     <p>Nous avons également mis à jour la <a href="/guide-redaction/#wp4-6">section 4.6 Nombres</a> afin de préciser dans quels cas il faut écrire les nombres en toutes lettres ou en chiffres, et nous avons ajouté des exemples précis.</p>
     <p>Dans le même ordre d’idées, nous avons mis à jour la sous-section <a href="{{ site.urldesign }}/style-guide/#wp4-1-5">Hyphens and dashes</a> de la version anglaise du guide pour permettre l’utilisation des tirets semi‑cadratin (en dashes) dans une plage d’années civiles ou d’exercices financiers en anglais. Cette mise à jour a été effectuée en consultation avec le Programme d’accessibilité, d’adaptation et de technologie informatique adaptée. Ils ont testé toutes les utilisations de traits d’union et de tirets associés aux nombres à l’aide de divers lecteurs d’écran. Nous avons également ajouté une nouvelle sous-section correspondante pour <a href="/guide-redaction/#wp4-1-4">les traits d’union et les tirets en français</a>.</p>
