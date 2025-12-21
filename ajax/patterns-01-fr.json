@@ -820,6 +820,16 @@
       "TANDP": "1"
     },
     {
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/page-erreur-404.html\">Modèle de page d'erreur 404</a>",
+      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
+      "DESCRIPTION": "Une erreur 404 est générée lorsque l'on tente d'accéder à une page non trouvée.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "Non",
+      "TANDP": "1"
+    },
+    {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/fil-ariane.html\">Fil d'Ariane</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Représente l'emplacement de la page actuelle dans le modèle de navigation de l'utilisateur du site ",
