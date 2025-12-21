@@ -106,20 +106,19 @@ title: Modèle de page d'erreur 404
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Page d'erreur 404 unilingue – grand écran</b></figcaption>
-            <img src="../images/page-erreur-404-unilingue.png" class="img-responsive" alt="Page d'erreur 404 unilingue – grand écran. Version textuelle ci-dessous&nbsp;:" />
+            <img src="../images/404/page-erreur-404-unilingue.png" class="img-responsive" alt="Page d'erreur 404 unilingue – grand écran. Version textuelle ci-dessous&nbsp;:" />
             <details>
                 <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Page d'erreur 404 unilingue – grand écran</summary>
                 <p>En haut de la page se trouve l'en-tête H1 intitulé «&nbsp;Page non trouvée&nbsp;», souligné d'un trait rouge court et épais. Sous l'en‑tête H1 se trouve une étiquette de danger indiquant «&nbsp;erreur 404&nbsp;».</p>
                 <p>Après l'étiquette se trouve un paragraphe fournissant à l'utilisateur des instructions sur la façon de trouver la page qu'il cherche.</p>
                 <p>Sous le paragraphe se trouve la phrase «&nbsp;Vous cherchez peut-être l'une des pages suivantes :&nbsp;» avec une liste à puces située sous ce dernier.</p>
-                <p>Après la liste des liens, il y a une courte barre de recherche dans laquelle figure la mention «&nbsp;Rechercher dans Canada.ca&nbsp;» dans l'espace réservé pour le texte. Il y a un bouton de recherche illustré à l'aide d'une icône de loupe à côté de la barre de recherche.</p>
             </details>
         </figure>
     </div>
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Page d'erreur 404 bilingue – grand écran</b></figcaption>
-            <img src="../images/page-erreur-404-bilingue.png" class="img-responsive" alt="Page d'erreur 404 bilingue – grand écran. Version textuelle ci-dessous&nbsp;:" />
+            <img src="../images/404/page-erreur-404-bilingue.png" class="img-responsive" alt="Page d'erreur 404 bilingue – grand écran. Version textuelle ci-dessous&nbsp;:" />
             <details>
                 <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Page d'erreur 404 bilingue – grand écran</summary>
                   <p>La version bilingue de la page d'erreur 404 s'affiche en deux colonnes.</p>
@@ -137,7 +136,7 @@ title: Modèle de page d'erreur 404
     <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
         <figure class="mrgn-tp-md mrgn-bttm-lg">
             <figcaption><b>Page d'erreur 404 bilingue – petit écran</b></figcaption>
-            <img src="../images/page-erreur-404-bilingue-petit.png" class="img-responsive" alt="Page d'erreur 404 bilingue – petit écran. Version textuelle ci-dessous&nbsp;:" />
+            <img src="../images/404/page-erreur-404-bilingue-petit.png" class="img-responsive" alt="Page d'erreur 404 bilingue – petit écran. Version textuelle ci-dessous&nbsp;:" />
             <details>
                 <summary class="wb-toggle" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l'image&nbsp;: Page d'erreur 404 bilingue – petit écran</summary>
                 <p>La version bilingue de la page d'erreur 404 s'affiche dans une seule colonne.</p>
@@ -162,5 +161,6 @@ title: Modèle de page d'erreur 404
   <p>La référence de mise en œuvre explique comment configurer la page d'erreur 404.</p>
   <ul>
       <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en.html">GCWeb (WET)&nbsp;: Nous n'avons pas trouvé la documentation sur cette page Web (erreur 404)</a></li>
+    <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en-fr.html">GCWeb (WET) We couldn't find that Web page (Error 404) - Canada.ca theme / Nous ne pouvons trouver cette page Web (Erreur 404) - Thème Canada.ca</a></li>
   </ul>
   </section>
