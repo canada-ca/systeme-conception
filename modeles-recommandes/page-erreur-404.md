@@ -11,7 +11,7 @@ title: Modèle de page d'erreur 404
     <li>une page unilingue avec une option de changement de langue pour les utilisateurs dont la préférence linguistique est connue;</li>
     <li>une page bilingue pour les utilisateurs dont la préférence linguistique n'est pas connue.</li>
 </ul>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/page-erreur-404-bilingue.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/404/page-erreur-404-bilingue.png" class="img-responsive" alt="" /></div>
 
 <section>
 <h2>Sur cette page</h2>
@@ -30,43 +30,36 @@ title: Modèle de page d'erreur 404
 
 <section>
   <h2 id="eviter">Quoi éviter</h2>
-  <ul>
-      <li>Ce modèle doit être utilisé seulement pour signaler une erreur 404.</li>
-      <li>Assurez-vous que la page comprend au moins un lien de renvoi (par exemple, vers la page d'accueil Canada.ca). Ne fournissez pas de liens non pertinents qui n'aident pas l'utilisateur à revenir au contenu Web du gouvernement du Canada.</li>
-      <li>Pour la version bilingue, n'utilisez pas le français et l'anglais dans le même bloc de contenu, le même paragraphe ou la même phrase.</li>
-  </ul>
+    <p>Ce modèle doit être utilisé seulement pour signaler une erreur 404.</p>
+    <p>Assurez-vous que la page comprend au moins un lien de renvoi (par exemple, vers la page d'accueil Canada.ca). Ne fournissez pas de liens non pertinents qui n'aident pas l'utilisateur à revenir au contenu Web du gouvernement du Canada.</p>
+    <p>>Pour la version bilingue, n'utilisez pas le français et l'anglais dans le même bloc de contenu, le même paragraphe ou la même phrase.</p>
 </section>
 
 <section>
     <h2 id="conception">Contenu et conception</h2>
     <p>Trouver des spécifications de contenu et de conception et des exemples visuels.</p>
     <h3>Spécifications de contenu</h3>
-    <ul>
-        <li>Utilisez «&nbsp;Page non trouvée&nbsp;» pour l'en-tête H1, ou le titre de la page.</li>
-        <li>Ajoutez une phrase pour indiquer que la page recherchée par l'utilisateur a peut-être été déplacée ou supprimée.</li>
-        <li>Proposez à l'utilisateur des façons de résoudre le cas d'erreur, notamment en :
-            <ul>
-                <li>lui suggérant de vérifier l'orthographe de l'adresse Web (URL);</li>
-                <li>lui indiquant de supprimer les caractères spéciaux ou les espaces dans l'URL;</li>
-                <li>lui fournissant un moyen de signaler le lien rompu, le cas échéant.</li>
-            </ul>
-        </li>
-        <li>Ajoutez le texte «&nbsp;Vous cherchez peut-être l'une des pages suivantes :&nbsp;» suivi d'une liste à puces d'au plus 10 liens. En haut de la liste, ajoutez les trois pages les plus recherchées sur Canada.ca suivantes :
-            <ul>
-                <li><a href="https://www.canada.ca/fr.html">Accueil</a></li>
-                <li><a href="https://www.canada.ca/fr/services.html">Services du gouvernement du Canada</a></li>
-                <li><a href="https://www.canada.ca/fr/contact.html">Contacter le gouvernement du Canada</a></li>
-            </ul>
-        </li>
-        <li>Après avoir ajouté les liens vers ces trois pages, vous pouvez énumérer certaines des pages les plus «&nbsp;en demande&nbsp;» pour votre institution. Voici quelques-unes des pages les plus demandées sur Canada.ca que vous pouvez également inclure :
-            <ul>
-                <li><a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html">Se connecter à un dossier ou un compte en ligne du gouvernement du Canada</a></li>
-                <li><a href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
-                <li><a href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
-                <li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
-            </ul>
-        </li>
-    </ul>
+    <p>Utilisez «&nbsp;Page non trouvée&nbsp;» pour l'en-tête H1, ou le titre de la page.</p>
+    <p>Ajoutez une phrase pour indiquer que la page recherchée par l'utilisateur a peut-être été déplacée ou supprimée.</p>
+    <p>Proposez à l'utilisateur des façons de résoudre le cas d'erreur, notamment en&nbsp;:</p>
+        <ul>
+            <li>lui suggérant de vérifier l'orthographe de l'adresse Web (URL);</li>
+            <li>lui indiquant de supprimer les caractères spéciaux ou les espaces dans l'URL;</li>
+            <li>lui fournissant un moyen de signaler le lien rompu, le cas échéant.</li>
+        </ul>
+    <p>Ajoutez le texte «&nbsp;Vous cherchez peut-être l'une des pages suivantes :&nbsp;» suivi d'une liste à puces d'au plus 10 liens. En haut de la liste, ajoutez les trois pages les plus recherchées sur Canada.ca suivantes&nbsp;:</p>
+        <ul>
+            <li><a href="https://www.canada.ca/fr.html">Accueil</a></li>
+            <li><a href="https://www.canada.ca/fr/services.html">Services du gouvernement du Canada</a></li>
+            <li><a href="https://www.canada.ca/fr/contact.html">Contacter le gouvernement du Canada</a></li>
+        </ul>
+    <p>Après avoir ajouté les liens vers ces trois pages, vous pouvez énumérer certaines des pages les plus «&nbsp;en demande&nbsp;» pour votre institution. Voici quelques-unes des pages les plus demandées sur Canada.ca que vous pouvez également inclure&nbsp;:</p>
+        <ul>
+            <li><a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html">Se connecter à un dossier ou un compte en ligne du gouvernement du Canada</a></li>
+            <li><a href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+            <li><a href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+            <li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+        </ul>
     <h4>Spécifications de contenu supplémentaires pour la version bilingue</h4>
     <p>En plus du contenu présenté dans les spécifications générales, la page bilingue doit comprendre deux liens d'ancrage qui apparaîtront au-dessus de chaque langue lorsque la page sera redimensionnée pour les écrans d'appareils mobiles.</p>
     <ul>
@@ -160,7 +153,7 @@ title: Modèle de page d'erreur 404
   <h3>Référence pour la mise en œuvre du thème GCweb (WET)</h3>
   <p>La référence de mise en œuvre explique comment configurer la page d'erreur 404.</p>
   <ul>
-      <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en.html">GCWeb (WET)&nbsp;: Nous n'avons pas trouvé la documentation sur cette page Web (erreur 404)</a></li>
+      <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en.html">GCWeb (WET)&nbsp;: Nous n'avons pas trouvé la documentation sur cette page Web (erreur 404)</a>(En anglais seulement)</li>
     <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en-fr.html">GCWeb (WET) We couldn't find that Web page (Error 404) - Canada.ca theme / Nous ne pouvons trouver cette page Web (Erreur 404) - Thème Canada.ca</a></li>
   </ul>
   </section>
