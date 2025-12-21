@@ -32,7 +32,7 @@ title: Modèle de page d'erreur 404
   <h2 id="eviter">Quoi éviter</h2>
     <p>Ce modèle doit être utilisé seulement pour signaler une erreur 404.</p>
     <p>Assurez-vous que la page comprend au moins un lien de renvoi (par exemple, vers la page d'accueil Canada.ca). Ne fournissez pas de liens non pertinents qui n'aident pas l'utilisateur à revenir au contenu Web du gouvernement du Canada.</p>
-    <p>>Pour la version bilingue, n'utilisez pas le français et l'anglais dans le même bloc de contenu, le même paragraphe ou la même phrase.</p>
+    <p>Pour la version bilingue, n'utilisez pas le français et l'anglais dans le même bloc de contenu, le même paragraphe ou la même phrase.</p>
 </section>
 
 <section>
@@ -73,14 +73,22 @@ title: Modèle de page d'erreur 404
     </ul>
     <h3>Spécifications de conception</h3>
     <ul>
-        <li>Il faut inclure une étiquette de danger directement sous l'en‑tête H1 pour signaler une «&nbsp;erreur 404&nbsp;». Suivez les <a href="../configurations-conception-communes/etiquettes.html#danger">directives de mise en œuvre pour une étiquette de danger</a>.</li>
+        <li>Il faut inclure une étiquette de danger directement sous l'en‑tête H1 pour signaler une «&nbsp;erreur 404&nbsp;». 
+        <ul>
+            <li><a href="../configurations-conception-communes/etiquettes.html#danger">Suivez les directives de mise en œuvre pour une étiquette de danger</a>.</li>
+        </ul>
+        </li>
         <li>Tous les liens doivent être présentés selon les styles de Canada.ca.
             <ul>
                 <li><a href="../styles/typographie.html">Typographie</a></li>
                 <li><a href="../styles/couleurs.html">Couleurs</a></li>
             </ul>
         </li>
-        <li>Vous pouvez inclure une barre de recherche facultative sous la liste des liens suggérés. Suivez les instructions pour le <a href="../configurations-conception-communes/champ-recherche.html">Champ de recherche du site</a>.</li>
+        <li>Vous pouvez inclure une barre de recherche facultative sous la liste des liens suggérés.
+        <ul>
+            <li><a href="../configurations-conception-communes/champ-recherche.html">Suivez les instructions pour le Champ de recherche du site</a>.</li>
+        </ul>
+        </li>
     </ul>
     <h4>Spécifications de conception supplémentaires pour la version bilingue</h4>
     <p>Utilisez les types de mise en page suivants pour la version bilingue :</p>
@@ -153,7 +161,7 @@ title: Modèle de page d'erreur 404
   <h3>Référence pour la mise en œuvre du thème GCweb (WET)</h3>
   <p>La référence de mise en œuvre explique comment configurer la page d'erreur 404.</p>
   <ul>
-      <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en.html">GCWeb (WET)&nbsp;: Nous n'avons pas trouvé la documentation sur cette page Web (erreur 404)</a>(En anglais seulement)</li>
+      <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en.html">GCWeb (WET)&nbsp;: Nous n'avons pas trouvé la documentation sur cette page Web (erreur 404)</a> (En anglais seulement)</li>
     <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en-fr.html">GCWeb (WET) We couldn't find that Web page (Error 404) - Canada.ca theme / Nous ne pouvons trouver cette page Web (Erreur 404) - Thème Canada.ca</a></li>
   </ul>
   </section>
