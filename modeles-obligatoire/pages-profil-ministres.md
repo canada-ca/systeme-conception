@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html
 date: '2021-09-27'
-dateModified: '2025-07-22'
+dateModified: '2025-12-23'
 description: null
 section-title: "Système de conception de Canada.ca"
 title: Pages de profil des ministres
