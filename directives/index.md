@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/guidance
 breadcrumbs:
-  - link: "https://conception.canada.ca/a-propos/"
+  - link: "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
     title: "À propos de Canada.ca"
   - link: "https://conception.canada.ca"
     title: "Conception"

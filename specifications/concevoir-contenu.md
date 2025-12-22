@@ -8,7 +8,7 @@ section-title: "Spécifications de Canada.ca"
 title: "Concevoir le contenu pour Canada.ca"
 breadcrumbs: [{
             "title": "À propos de Canada.ca",
-            "link": "https://conception.canada.ca/a-propos/"
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
           },
             {
             "link": "https://conception.canada.ca/",
