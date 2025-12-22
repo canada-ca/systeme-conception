@@ -8,7 +8,7 @@ section-title: "AI et trouvabilité"
 title: "Améliorer les titres et les métadonnées à des fins de trouvabilité"
 breadcrumbs: [{
             "title": "À propos de Canada.ca",
-            "link": "https://conception.canada.ca/a-propos/"
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
           },
             {
             "link": "https://conception.canada.ca/",
