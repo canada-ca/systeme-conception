@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/ministers-block.html
 date: "2018-12-19"
-dateModified: "2025-07-22"
+dateModified: "2025-12-22"
 description: "La configuration de conception pour un ministre ou un chef d’institution fournit des liens vers le(s) ministre(s) d’une institution, y compris son ou ses ministre(s) associé(s), ou vers son chef d’institution."
 title: "Ministre ou chef d’institution"
 ---
@@ -49,10 +49,10 @@ title: "Ministre ou chef d’institution"
       </ul>
     </li>
     <li>Le titre officiel du chef d’institution</li>
+    <li>La photo du chef d'institution</li>
   </ul>
   <p>Les éléments suivants sont facultatifs pour chaque chef d’institution&nbsp;:</p>
   <ul>
-    <li>Image</li>
     <li>Liens&nbsp;:
       <ul>
         <li>Lettre de mandat</li>
@@ -211,6 +211,8 @@ title: "Ministre ou chef d’institution"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
+    <dt><time>{{ page.dateModified }}</time></dt>
+    <dd>Mise à jour des directives pour inclure la photo du chef d'institution</dd>
     <dt><time>{{ page.dateModified }}</time></dt>
     <dd>Mise à jour des directives pour inclure les spécifications d'image carrée, des exemples visuels et des directives de mise en œuvre</dd>
     <dt><time>2025-06-13</time></dt>
