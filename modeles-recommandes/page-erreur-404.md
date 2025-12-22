@@ -161,7 +161,7 @@ title: Modèle de page d'erreur 404
   <h3>Référence pour la mise en œuvre du thème GCweb (WET)</h3>
   <p>La référence de mise en œuvre explique comment configurer la page d'erreur 404.</p>
   <ul>
-      <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en.html">GCWeb (WET)&nbsp;: Nous n'avons pas trouvé la documentation sur cette page Web (erreur 404)</a> (En anglais seulement)</li>
+      <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en.html">GCWeb (WET) We couldn't find that Web page (Error 404) documentation</a> (En anglais seulement)</li>
     <li><a href="https://wet-boew.github.io/GCWeb/templates/servermessage/404-en-fr.html">GCWeb (WET) We couldn't find that Web page (Error 404) - Canada.ca theme / Nous ne pouvons trouver cette page Web (Erreur 404) - Thème Canada.ca</a></li>
   </ul>
   </section>
