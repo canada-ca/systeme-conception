@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html
 date: '2021-09-27'
-dateModified: '2025-12-23'
+dateModified: '2025-12-22'
 description: null
 section-title: "Système de conception de Canada.ca"
 title: Pages de profil des ministres
@@ -82,6 +82,15 @@ title: Pages de profil des ministres
 <section>
   <h2 id="#derniers">Derniers changements</h2>
   <dl class="dl-horizontal">
+    <dt>
+      <time>{{ page.dateModified }}</time>
+    </dt>
+    <dd>
+      <ul>
+        <li>mise à jour des directives pour préciser les éléments obligatoires et facultatifs</li>
+        <li>ajout de directives pour les secrétaires d'État</li>
+      </ul>
+    </dd>
     <dt>
       <time>{{ page.dateModified }}</time>
     </dt>
