@@ -51,7 +51,7 @@ title: Modèle de page d'erreur 404
         <ul>
             <li><a href="https://www.canada.ca/fr.html">Accueil</a></li>
             <li><a href="https://www.canada.ca/fr/services.html">Services du gouvernement du Canada</a></li>
-            <li><a href="https://www.canada.ca/fr/contact.html">Contacter le gouvernement du Canada</a></li>
+            <li><a href="https://www.canada.ca/fr/contact.html">Coordonnées du gouvernement du Canada</a></li>
         </ul>
     <p>Après avoir ajouté les liens vers ces trois pages, vous pouvez énumérer certaines des pages les plus «&nbsp;en demande&nbsp;» pour votre institution. Voici quelques-unes des pages les plus demandées sur Canada.ca que vous pouvez également inclure&nbsp;:</p>
         <ul>
