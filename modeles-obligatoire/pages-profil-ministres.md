@@ -57,33 +57,22 @@ title: Pages de profil des ministres
 
 <section>
   <h2 id="comment">Comment mettre en oeuvre</h2>
-  <p>Utilisez ce modèle et suivez les lignes directrices.</p>
-  <div class="row mrgn-tp-lg mrgn-bttm-lg">
-    <div class="col-xs-10 col-md-8 col-lg-8">
-    <div class="gc-dwnld">
-      <div class="row">
-      <div class="col-xs-10 col-sm-3 col-lg-2">
-        <img alt="" class="thumbnail gc-dwnld-img" height="142" src="../images/profil-ministeriel-recadree.png" width="110">
-      </div>
-      <div class="col-xs-12 col-sm-9 col-lg-10">
-        <p class="mrgn-tp-md lead">
-        <span>Pages de profil des ministres</span>
-        </p>
-        <p>
-        <a class="btn btn-call-to-action" href="../mise-en-page/pages-profil-ministres-directives.html">Modèle avec directives</a>
-        </p>
-      </div>
-      </div>
-    </div>
-    </div>
-  </div>
+   <ul>
+      <li><a href="../mise-en-page/pages-profil-ministres-directives.html">Directives de mise en œuvre</a></li>
+    </ul>
+
+<h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
+  <ul>
+    <li><a href="https://wet-boew.github.io/GCWeb/templates/ministerial/ministerial-doc-fr.html">Documentation au sujet de la page de profil des ministres
+</a></li>
+</ul>
 </section>
 
 <section>
   <h2 id="#derniers">Derniers changements</h2>
   <dl class="dl-horizontal">
     <dt>
-      <time>{{ page.dateModified }}</time>
+      <time>2025-12-22</time>
     </dt>
     <dd>
       <ul>
@@ -92,7 +81,7 @@ title: Pages de profil des ministres
       </ul>
     </dd>
     <dt>
-      <time>{{ page.dateModified }}</time>
+      <time>2025-07-22</time>
     </dt>
     <dd>
       <ul>
