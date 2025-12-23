@@ -55,7 +55,7 @@ title: Modèle de page d'erreur 404
         </ul>
     <p>Après avoir ajouté les liens vers ces trois pages, vous pouvez énumérer certaines des pages les plus «&nbsp;en demande&nbsp;» pour votre institution. Voici quelques-unes des pages les plus demandées sur Canada.ca que vous pouvez également inclure&nbsp;:</p>
         <ul>
-            <li><a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html">Se connecter à un dossier ou un compte en ligne du gouvernement du Canada</a></li>
+            <li><a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html">Se connecter à un dossier ou un compte en ligne</a></li>
             <li><a href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
             <li><a href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
             <li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
