@@ -11,7 +11,6 @@ breadcrumbs:
     title: "Modèles et configurations"
 ---
 
-
 <h2>Fil d'Ariane</h2>
 
 <details>
