@@ -110,8 +110,7 @@ breadcrumbs:
 
 <h2>Coordonnées</h2>
 
-<details>
-<summary>Tous les profils</summary>
+<h3>Tous les profils</h3>
 <p><span class="label label-info">Facultatif</span></p>
 <ul>
     <li>Incluez l'adresse de courriel, l'adresse postale, le numéro de téléphone et le numéro de télécopieur</li>
@@ -124,7 +123,6 @@ breadcrumbs:
         </ul>
     </li>
 </ul>
-</details>
 
 <h3>Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
   <ul>
