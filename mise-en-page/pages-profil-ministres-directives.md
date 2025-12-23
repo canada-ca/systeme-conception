@@ -47,7 +47,7 @@ breadcrumbs:
 </details>
 
 <details>
-<summary>Secrétaires parlementaires, et chefs d'institutions et d'organisations</summary>
+<summary>Secrétaires parlementaires et chefs d'institutions et d'organisations</summary>
 <h3>Nom</h3>
 <p><span class="label label-danger">Obligatoire</span></p>
 <ul>
@@ -100,7 +100,7 @@ breadcrumbs:
 </details>
 
 <details>
-<summary>Secrétaires parlementaires, et chefs d'institutions et d'organisations</summary>
+<summary>Secrétaires parlementaires et chefs d'institutions et d'organisations</summary>
 <p><span class="label label-info">Facultatif</span></p>
 <p>Fournit de l'information générale au sujet du ou de la secrétaire parlementaire ou du chef d'institution ou d'organisation.</p>
 <ul>
