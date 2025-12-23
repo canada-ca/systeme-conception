@@ -12,7 +12,7 @@ title: "Portail de solution d'achats électroniques (SAE)"
 <p>Le projet est une initiative pluriannuelle. Les processus existants seront modernisés grâce à la mise en place d'une plateforme unique basée sur deux solutions commerciales (les applications Ariba et Fieldglass de SAP).</p>
 <p>Dans le cadre de la transition vers la nouvelle SAE, SPAC prévoit mettre en place un nouveau point d'entrée pour remplacer le <a href="https://achatsetventes.gc.ca/">site Web Achats et ventes</a> existant.</p>
 <p>Le rôle de ce nouveau site (AchatsCanada) sera d'appuyer des tâches comme d'apprendre sur l'approvisionnement du gouvernement, de découvrir comment devenir un fournisseur du gouvernement et de rechercher des occasions ouvertes à des appels d'offres concurrentiels (aussi appelés appels d'offres).</p>
-<p>Entre avril et juillet 2019, le Bureau de l’expérience Canada.ca (BEC) du Conseil du Trésor s'est associé à l'équipe des SPAC responsable de la conception du nouveau site AchatsCanada.</p>
+<p>Entre avril et juillet 2019, le Bureau de la transformation numérique (BTN) du Conseil du Trésor s'est associé à l'équipe des SPAC responsable de la conception du nouveau site AchatsCanada.</p>
 <p>Nous avons mis l'accent sur les besoins des entreprises nouvellement arrivées dans le domaine des marchés publics. Nous avons fait des tests auprès de petites et moyennes entreprises pas encore inscrites comme fournisseurs du gouvernement du Canada.</p>
 <h2>Établir une référence</h2>
 <p>Nous avons effectué notre test de référence sur le rendement des tâches sur le site Achats et ventes existant.</p>
