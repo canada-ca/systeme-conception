@@ -224,7 +224,7 @@ title: "Orientation dans Canada.ca"
   <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception de Canada.ca</a>&nbsp;: modèles et configurations qui offrent une expérience cohérente aux visiteurs du site</li>
   <li><a href="https://blogue.canada.ca/pages/apercu-projet.html">Améliorer le contenu sur Canada.ca</a>&nbsp;: une liste d'autres projets que nous avons réalisés avec nos partenaires</li>
 </ul>
-<h2 id="communiquez">Communiquez avec le Bureau de l’expérience Canada.ca du Secrétariat du Conseil du Trésor du Canada</h2>
+<h2 id="communiquez">Communiquez avec le Bureau de l’expérience Canada.ca d'Emploi et Développement social Canada</h2>
 <p>Contactez-nous si vous avez des questions ou si vous souhaitez voir les résultats de recherche détaillés de ce projet ou de l’étude sur la confiance.</p>
 <ul>
   <li>Courriel&nbsp;: <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a></li>
