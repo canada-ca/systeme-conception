@@ -322,6 +322,16 @@
       "TANDP": "0"
     },
     {
+      "NAME": "<a href=\"{{ site.urlblogue }}/2025/12/17/reponses-ia.html\">Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Canada.ca;</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Chaque jour, des milliers de personnes se tournent vers le gouvernement du Canada (GC) pour obtenir de l'aide relativement aux services essentiels.",
+      "WHENTOUSE": "Chaque jour, des milliers de personnes se tournent vers le gouvernement du Canada (GC) pour obtenir de l'aide relativement aux services essentiels.",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Interaction, Visuel",
+      "MANDATORY": "Non",
+      "TANDP": "0"
+    },
+    {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/outil-retroaction.html\">Rétroaction GC</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "L'outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l'expérience sur une page. Il ne doit être utilisé que si la rétroaction sur une page va faire l'objet d'un suivi actif et être exploitée.",
