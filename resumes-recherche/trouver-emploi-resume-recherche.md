@@ -7,7 +7,7 @@ language: fr
 title: "Trouver un emploi"
 ---
 <p class="post-meta">23 mai 2019</p>
-<p>Le projet d'optimisation de «&nbsp;Trouver un emploi&nbsp;» a été complété au cours de l'été 2018. L'objectif était de faciliter la recherche d'emplois gouvernementaux pour les Canadiens sur Canada.ca. L'équipe de projet comprenait le Bureau de l’expérience Canada.ca (BEC) du Secrétariat du Conseil du Trésor du Canada (SCT), Emploi et Développement social Canada (EDSC) et la Commission de la fonction publique du Canada (CFP).</p>
+<p>Le projet d'optimisation de «&nbsp;Trouver un emploi&nbsp;» a été complété au cours de l'été 2018. L'objectif était de faciliter la recherche d'emplois gouvernementaux pour les Canadiens sur Canada.ca. L'équipe de projet comprenait le Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor du Canada (SCT), Emploi et Développement social Canada (EDSC) et la Commission de la fonction publique du Canada (CFP).</p>
 <h2>Raison pour laquelle ce projet se démarquait</h2>
 <p>Contrairement au modèle à plateforme unique de Google et d'Indeed, le gouvernement du Canada possède plusieurs plateformes en ligne d'offres d'emploi. Bien qu'il y ait parfois des chevauchements, aucune des plateformes ne comprend tous les emplois disponibles au sein du gouvernement du Canada. Le projet a permis de simplifier et d'améliorer les chemins d'accès à ces plateformes. Nous avons également expérimenté l'adoption d'une approche à plateforme unique. </p>
 <p>Les 3 plus importantes plateformes d'offres d'emplois disponibles sur la page «&nbsp;Trouver un emploi&nbsp;» de Canada.ca sont&nbsp;:</p>
