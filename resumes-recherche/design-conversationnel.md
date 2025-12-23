@@ -86,7 +86,7 @@ Lorsque vous savez comment les conversations peuvent se dérouler et comment l'a
 
 ## L'expérience conversationnelle
 
-Au début de janvier 2019, le Bureau de l’expérience Canada.ca du Secrétariat du Conseil du Trésor du Canada a commencé à travailler sur un projet d'optimisation avec l'Agence du revenu du Canada. Dans le cadre du projet, nous essayions d'aider les gens à trouver le bon numéro de téléphone à appeler pour leur question particulière.
+Au début de janvier 2019, le Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor du Canada a commencé à travailler sur un projet d'optimisation avec l'Agence du revenu du Canada. Dans le cadre du projet, nous essayions d'aider les gens à trouver le bon numéro de téléphone à appeler pour leur question particulière.
 
  Avec les équipes du centre d'appels et les équipes Web, nous avons conçu un ensemble de scénarios de tâches réalistes. Les scénarios ont été réalisés dans le cadre de séances d'essais de convivialité, où nous avons demandé aux participants de trouver les réponses aux scénarios sur le site Web. Ensuite, nous avons testé des améliorations au site pour résoudre les problèmes que nous avons vus dans le test de base. Nous avons ensuite testé les mêmes scénarios de tâches avec un nouvel ensemble de participants.
 
