@@ -41,8 +41,11 @@ breadcrumbs:
 <ul>
     <li>Utilisez le portrait approuvé du ou de la ministre ou du ou de la secrétaire d'État</li>
     <li>Placez cette composante dans le haut de la page, à la gauche de l'aperçu biographique</li>
-    <li>Liez l'image à une image haute résolution du ou de la ministre ou du ou de la secrétaire d'État</li>
     <li>N'intégrez aucun texte dans l'image</li>
+</ul>
+<p><span class="label label-info">Facultatif</span></p>
+<ul>
+    <li>Liez l'image à une image haute résolution du ou de la ministre ou du ou de la secrétaire d'État</li>
 </ul>
 </details>
 
@@ -88,28 +91,14 @@ breadcrumbs:
 </details>
 
 <h2>Aperçu biographique</h2>
-
-<details>
-<summary>Ministres et secrétaires d'État</summary>
+<h3>Tous les profils</h3>
 <p><span class="label label-info">Facultatif</span></p>
-<p>Fournit de l'information générale au sujet du ou de la ministre ou du ou de la secrétaire d'État.</p>
+<p>Fournit de l'information générale.</p>
 <ul>
-    <li>Veillez à ce que le texte soit court et concis</li>
-    <li>Assurez-vous que le contenu de l'aperçu correspond à la biographie affichée sur le <a href="http://pm.gc.ca/fra/cabinet">site Web du premier ministre</a></li>
+ <li>Veillez à ce que le texte soit court et concis</li>
 </ul>
-</details>
-
-<details>
-<summary>Secrétaires parlementaires et chefs d'institutions et d'organisations</summary>
-<p><span class="label label-info">Facultatif</span></p>
-<p>Fournit de l'information générale au sujet du ou de la secrétaire parlementaire ou du chef d'institution ou d'organisation.</p>
-<ul>
-    <li>Veillez à ce que le texte soit court et concis</li>
-</ul>
-</details>
 
 <h2>Coordonnées</h2>
-
 <h3>Tous les profils</h3>
 <p><span class="label label-info">Facultatif</span></p>
 <ul>
