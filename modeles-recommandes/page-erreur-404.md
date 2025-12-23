@@ -58,7 +58,7 @@ title: Modèle de page d'erreur 404
             <li><a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html">Se connecter à un dossier ou un compte en ligne</a></li>
             <li><a href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
             <li><a href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
-            <li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+            <li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration ou citoyenneté Canada</a></li>
         </ul>
     <h4>Spécifications de contenu supplémentaires pour la version bilingue</h4>
     <p>En plus du contenu présenté dans les spécifications générales, la page bilingue doit comprendre deux liens d'ancrage qui apparaîtront au-dessus de chaque langue lorsque la page sera redimensionnée pour les écrans d'appareils mobiles.</p>
