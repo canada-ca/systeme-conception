@@ -211,9 +211,9 @@ title: "Ministre ou chef d’institution"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
-    <dt><time>{{ page.dateModified }}</time></dt>
+    <dt><time>2025-12-22</time></dt>
     <dd>Mise à jour des directives pour inclure la photo du chef d'institution</dd>
-    <dt><time>{{ page.dateModified }}</time></dt>
+    <dt><time>2025-07-22</time></dt>
     <dd>Mise à jour des directives pour inclure les spécifications d'image carrée, des exemples visuels et des directives de mise en œuvre</dd>
     <dt><time>2025-06-13</time></dt>
     <dd>Ajout d’une variante d’image supplémentaire pour inclure le nouveau rôle de secrétaire d’État</dd>
