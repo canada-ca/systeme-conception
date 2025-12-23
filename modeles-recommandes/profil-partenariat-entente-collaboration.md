@@ -9,7 +9,7 @@ titleH1: "Profil de partenariat ou d’entente de collaboration - Modèle de Can
 
 <section class="alert alert-info">
   <h2>Hors service</h2>
-  <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages. Pour toute question relative à cette configuration, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">communiquez avec le Bureau de la transformation numérique.</a>.</p>
+  <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages. Pour toute question relative à cette configuration, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">communiquez avec le Bureau de l’expérience Canada.ca.</a>.</p>
 </section>
 
 <div>

@@ -140,7 +140,7 @@ title: "Signature du gouvernement du Canada"
 <h3>Constatations découlant des recherches</h3>
 <p>La confiance et la cohérence sont essentielles. Notre étude sur la confiance du Canada.ca et des recherches antérieures montrent qu’un en-tête cohérent est nécessaire pour maintenir une marque de confiance.</p>
 <p>Par exemple, les gens font davantage confiance à la page lorsque le symbole du drapeau dans la signature du gouvernement du Canada est rouge.</p>
-<p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de la transformation numérique à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
+<p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de l’expérience Canada.ca à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 
 <h3>Justification stratégique</h3>
 <p>La signature du gouvernement du Canada est définie par le Programme fédéral de l’image de marque. En tant que partie de l’en-tête général, il s’agit d’un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information.</cite></p>

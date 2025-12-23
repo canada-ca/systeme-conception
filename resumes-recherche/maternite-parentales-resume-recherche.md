@@ -7,7 +7,7 @@ language: fr
 title: "Prestations de maternité et prestations parentales de l'assurance-emploi"
 ---
 <p class="post-meta">Le 23 août 2019</p>
-<p>Le projet d'optimisation a été entrepris par le Bureau de la transformation numérique (BTN) avec l'étroite
+<p>Le projet d'optimisation a été entrepris par le Bureau de l’expérience Canada.ca (BEC) avec l'étroite
     collaboration de l'équipe de prestation d'assurance-emploi et de l'équipe de la Politique de l'assurance-emploi de
     Service Canada, ainsi que l'équipe Web d'Emploi et Développement social Canada (EDSC). Notre but était de rendre les
     prestations de maternité et les prestations parentales de l'assurance-emploi plus faciles à trouver et à comprendre

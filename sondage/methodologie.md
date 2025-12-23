@@ -16,7 +16,7 @@ title: Méthodologie du Sondage sur la réussite des tâches du GC
     </div>
 </div>
 
-Le Sondage est le résultat d’une collaboration entre l’Éditeur principal et le Bureau de la transformation numérique. Il est obligatoire pour tous les sites Web du GC visés par les annexes I, I.1 et II de la Loi sur la gestion des finances publiques (LGFP).
+Le Sondage est le résultat d’une collaboration entre l’Éditeur principal et le Bureau de l’expérience Canada.ca. Il est obligatoire pour tous les sites Web du GC visés par les annexes I, I.1 et II de la Loi sur la gestion des finances publiques (LGFP).
 
 ## Sur cette page
 

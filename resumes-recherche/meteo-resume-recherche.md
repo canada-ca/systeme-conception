@@ -11,7 +11,7 @@ title: "Renseignements météorologiques"
 </p>
 <p>Le projet d'optimisation météorologique a débuté en juillet 2017. Le bureau météorologique d'Environnement et
     Changement climatique Canada a réuni une équipe des Communications électroniques et du Service météorologique du
-    Canada. En collaboration avec les concepteurs et les chercheurs du Bureau de la transformation numérique, nous avons
+    Canada. En collaboration avec les concepteurs et les chercheurs du Bureau de l’expérience Canada.ca, nous avons
     entrepris de faire en sorte qu'il soit plus facile pour les Canadiens de comprendre les avis concernant les
     conditions météorologiques dangereuses.</p>
 <h2>Découverte</h2>
