@@ -661,14 +661,14 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/specifications/elements-obligatoires/domaines-url\">Domaines et adresses URL</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/elements-obligatoires/domaines-url\">Domaines et adresses URL du gouvernement du Canada</a>",
       "SOURCE": "Éléments obligatoires",
-      "DESCRIPTION": "Domaines et adresses URL du gouvernement du Canada",
-      "WHENTOUSE": "",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "0"
+      "DESCRIPTION": "Le domaine Canada.ca est le domaine principal pour la présence Web publique du gouvernement du Canada.",
+      "WHENTOUSE": "Le domaine Canada.ca est le domaine principal pour la présence Web publique du gouvernement du Canada.",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration à l’échelle du site",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
     },
     {
       "NAME": "<a href=\"{{ site.url }}/specifications/concevoir-contentu.html#principes\">Principes de conception de Canada.ca</a>",
@@ -820,16 +820,6 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/generique.html\">Page de contenu de base</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "La mise en page de base des pages de Canada.ca ",
-      "WHENTOUSE": "Mise en page de base des pages de Canada.ca.",
-      "CATEGORY": "Mod&#232;le de page",
-      "TYPE": "Destination",
-      "MANDATORY": "Non",
-      "TANDP": "1"
-    },
-    {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/fil-ariane.html\">Fil d'Ariane</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Représente l'emplacement de la page actuelle dans le modèle de navigation de l'utilisateur du site ",
@@ -847,16 +837,6 @@
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/canada-point-ca.html\">Domaine Canada.ca</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Le principal domaine pour la présence du gouvernement du Canada sur le Web",
-      "WHENTOUSE": "Le principal domaine pour la pr&#233;sence du gouvernement du Canada sur le Web",
-      "CATEGORY": "Configuration de conception",
-      "TYPE": "Configuration &#224; l'&#233;chelle du site",
-      "MANDATORY": "Obligatoire",
       "TANDP": "1"
     },
     {

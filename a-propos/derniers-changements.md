@@ -13,11 +13,11 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 <div id="expand-collapse">
 <details open="open">
     <summary><time datetime="2025-12-18">18 décembre 2025</time></summary>
-    <p>Ajout d’une alerte à la <a href="{{ site.url }}/modeles-recommandes/generique.html">page de contenu de base</a> pour indiquer qu’elle sera mise hors service et de plutôt utiliser <a href="https://systeme-design.alpha.canada.ca/fr/modeles-de-page/basic/">le modèle de page de base</a> du Système de design GC.</p>
+    <p>Ajout d’une alerte à la page de contenu de base pour indiquer qu’elle sera mise hors service et de plutôt utiliser <a href="https://systeme-design.alpha.canada.ca/fr/modeles-de-page/basic/">le modèle de page de base</a> du Système de design GC.</p>
   </details>
 <details>
     <summary><time datetime="2025-12-17">17 décembre 2025</time></summary>
-    <p>Ajout d’une alerte à le <a href="{{ site.url }}/configurations-conception-communes/carrousels.html">modèle de conception de carrousels</a> pour indiquer qu’elle sera mise hors service. Nos recherches montrent que les carrousels ne sont pas un outil promotionnel efficace. Pour en savoir plus, consultez cet article de blogue&nbsp;:</p> 
+    <p>Ajout d’une alerte à le <a href="{{ site.url }}/configurations-conception-communes/carrousels.html">modèle de conception de carrousels</a> pour indiquer qu’elle sera mise hors service. Nos recherches montrent que les carrousels ne sont pas un outil promotionnel efficace. Pour en savoir plus, consultez cet article de blogue&nbsp;:</p>
       <ul>
       <li><a href="https://blogue.canada.ca/2021/10/08/carrousels-promotionnels.html">Éviter les carrousels promotionnels, améliorer le contenu Web</a></li>
     </ul>
