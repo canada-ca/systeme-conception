@@ -293,6 +293,30 @@
     },
     {
       "scope": {
+        "path": "directives/ia/*.md"
+      },
+      "values": {
+        "breadcrumbs": [{
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html",
+            "title": "À propos de Canada.ca"
+          },
+          {
+            "link": "https://conception.canada.ca",
+            "title": "Conception"
+          },
+          {
+            "link": "https://conception.canada.ca/guidance/index.html",
+            "title": "Lignes directrices"
+          },
+          {
+            "link": "https://conception.canada.ca/guidance/ia/index.html",
+            "title": "Applications d’aide alimentées par l’IA"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
         "path": "mise-en-page/*.md"
       },
       "values": {
