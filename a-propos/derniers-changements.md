@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2025-12-18
+dateModified: 2026-01-16
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -12,6 +12,10 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 </div>
 <div id="expand-collapse">
 <details open="open">
+    <summary><time datetime="2026-01-16">16 janvier 2026</time></summary>
+    <p>L’orientation relative aux médias sociaux a été mise à jour afin d’y préciser que d’autres icônes de médias sociaux peuvent être utilisées et qu’elles peuvent être placées dans un autre ordre.</p>
+  </details>
+<details>
     <summary><time datetime="2025-12-18">18 décembre 2025</time></summary>
     <p>Ajout d’une alerte à la page de contenu de base pour indiquer qu’elle sera mise hors service et de plutôt utiliser <a href="https://systeme-design.alpha.canada.ca/fr/modeles-de-page/basic/">le modèle de page de base</a> du Système de design GC.</p>
   </details>
