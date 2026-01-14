@@ -169,7 +169,7 @@ Toutes les conversations doivent avoir un identifiant visible consigné dans le 
 
 ## Les choses à éviter {#eviter}
 
-Lors de la conception de votre application d’aide alimentée par l’IA, il faut éviter le langage lié au clavardage en direct, notamment :
+Lors de la conception de votre application d’aide alimentée par l’IA, il faut éviter le langage lié au clavardage en direct, notamment&nbsp;:
 
 - **Utilisation du terme &laquo;&nbsp;clavardage&nbsp;&raquo;,** la recherche indique que le mot &laquo;&nbsp;clavardage&nbsp;&raquo; est associé à des agents humains.
 - **Utilisation du terme &laquo;&nbsp;maintenant&nbsp;&raquo;**, car il suppose qu’un agent en chair et en os se tient prêt à intervenir.
