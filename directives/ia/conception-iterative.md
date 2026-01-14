@@ -53,7 +53,7 @@ Effectuez autant d’itérations que nécessaire pour affiner le produit afin de
 
 La Ligne directrice sur les services et le numérique présente des renseignements supplémentaires sur la conception et la fourniture de services axés sur le client&nbsp;:
 
-- [Conception et prestation de services axés sur le client](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ligne-directrice-services-numerique.html##ToC2)
+- [Conception et prestation de services axés sur le client](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ligne-directrice-services-numerique.html#ToC2)
 
 ## Mesurer les résultats à l’aide de mécanismes de rétroaction et d’une enquête après utilisation
 
