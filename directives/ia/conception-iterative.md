@@ -45,7 +45,7 @@ Pour en connaître davantage sur l’utilisation de la rétroaction, consultez
 
 Fournissez les premières versions de l’application aux membres de l’équipe du centre d’appel ou à d’autres intervenants. De leur côté, ils pourront vous remettre de la rétroaction ainsi que noter et évaluer les résultats.
 
-### Séances d'essais itératifs de convivialité
+### Séances d'essais itératifs de convivialité {#seances-de-convivialite}
 
 Au fur et à mesure que le processus de conception se poursuit, les chercheurs en EU doivent continuer à tester divers aspects et itérations de la conception avec les utilisateurs finaux afin de s’assurer qu’elle correspond à leurs besoins et à leurs attentes. Les logiciels de vidéo non modérés fonctionnent bien à cet effet.
 
