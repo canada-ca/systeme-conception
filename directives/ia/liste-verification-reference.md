@@ -22,7 +22,7 @@ title: Liste de vérification comme références
     <li>Identifier clairement les applications d'aide utilisant l'IA comme étant alimentées par l'IA</li>
     <li>Inclure un avis contenant des renseignements et des liens supplémentaires sur l'application et la protection des renseignements personnels</li>
     <li>Fournir des liens de citation pour les réponses et les rendre très visibles</li>
-    <li>Veiller à respecter les exigences en matière d'accessibilité et de langues officielles.</li>
+    <li>Veiller à respecter les exigences en matière d'accessibilité et de langues officielles</li>
     <li>Tester votre application pour en vérifier l'exactitude et partager les résultats avec votre équipe des communications.</li>
     <li>Faire une Analyse comparative entre les sexes Plus.</li>
     <li>Ajouter des mesures de protection contre les résultats préjudiciables ou biaisés.</li>
