@@ -52,7 +52,7 @@ Le fait d’avertir les utilisateurs par le biais d’un avis, que l’IA commet
 
 En consultation avec les services juridiques de votre ministère, envisagez d’inclure une clause de non-responsabilité ou une déclaration détaillée de responsabilité et d’indemnisation.
 
-Vous pouvez en apprendre davantage sur les rôles, les responsabilités et les pratiques exemplaires en matière de protection de la vie privée et des renseignements personnels des utilisateurs en consultant :
+Vous pouvez en apprendre davantage sur les rôles, les responsabilités et les pratiques exemplaires en matière de protection de la vie privée et des renseignements personnels des utilisateurs en consultant&nbsp;:
 
 - [Politiques et documents d’orientation sur la protection des renseignements personnels](https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/protection-renseignement-personnels/politiques-directives-protection-renseignements-personnels.html)
 
