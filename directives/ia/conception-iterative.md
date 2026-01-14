@@ -41,7 +41,7 @@ Pour en connaître davantage sur l’utilisation de la rétroaction, consultez
 * [Comment accéder aux résultats et aux rapports du sondage](https://conception.canada.ca/sondage/acceder-resultats.html)
 * [Guide d’extraction de données à partir de la base de Rétroaction (lien GCéchange, accessible uniquement sur le réseau du Gouvernement du Canada)](https://gcxgce.sharepoint.com/:w:/t/10001402/EecWMxWizRhJtOk_1NcjctEBup1mLluIzJaGQfIF4od7tQ?e=CgcbyV&xsdata=MDV8MDJ8TWFyaW5hLlRoaW5leUB0cHNnYy1wd2dzYy5nYy5jYXxmNzFkNGZkMDliMjY0YmM0ZTJlNjA4ZGU0NzE0NWJjNHxlMGQ1NGEzYzdiYmU0YTY0OWQ0NmY5Zjg0YTQxYzgzM3wwfDB8NjM5MDI2MzQ5OTEwNDI1NzkzfFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&sdata=OGluNXlqb0tmN2RiZUkzSWF4ek02dGIzcVBtaUs1dCsvUjJydHRXM0dDYz0%3d)
 
-### Phase d’essai initial
+### Phase d’essai initial {#phase-dessai-initial}
 
 Fournissez les premières versions de l’application aux membres de l’équipe du centre d’appel ou à d’autres intervenants. De leur côté, ils pourront vous remettre de la rétroaction ainsi que noter et évaluer les résultats.
 
