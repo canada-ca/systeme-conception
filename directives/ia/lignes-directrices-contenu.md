@@ -44,7 +44,7 @@ Ajoutez un lien ou un résumé détaillé directement vers la solution de clavar
 
 Les avis de confidentialité doivent être fournis au moment de la collecte des renseignements personnels. Lorsque des renseignements personnels sont destinés à être recueillis (ou susceptibles de l’être), l’avis doit être placé de manière à être clairement associé à la zone où l’utilisateur saisit des renseignements dans la fonction de clavardage de l’IA.
 
-Si vous créez/recueillez/utilisez/divulguez/conservez/supprimez des renseignements personnels, consultez les responsables de la protection des renseignements personnels ou de l’AIPRP de votre institution lors de la création d’un avis de confidentialité. L’avis doit être conforme à l’article 4.2.20 (1 à 6\) de la Directive sur les pratiques relatives à la protection de la vie privée du SCT :
+Si vous créez/recueillez/utilisez/divulguez/conservez/supprimez des renseignements personnels, consultez les responsables de la protection des renseignements personnels ou de l’AIPRP de votre institution lors de la création d’un avis de confidentialité. L’avis doit être conforme à l’article 4.2.20 (1 à 6) de la Directive sur les pratiques relatives à la protection de la vie privée du SCT&nbsp;:
 
 - [Directive sur les pratiques relatives à la protection de la vie privée](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=18309)
 
