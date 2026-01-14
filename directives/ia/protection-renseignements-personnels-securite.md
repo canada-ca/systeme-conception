@@ -42,7 +42,7 @@ Les renseignements personnels sont définis dans la [*Loi sur la protection des 
 
 - son nom
 - ses coordonnées
-- tout numéro pouvant l’identifier
+- tout numéro pouvant l’identifier.
 
 Ils peuvent également inclure des renseignements dépersonnalisés (par exemple, lorsque les noms ou les numéros d’identification ont été supprimés) s’il existe une possibilité sérieuse qu’une personne puisse être identifiée, seule ou en combinaison avec d’autres renseignements disponibles. Consultez l’Avis de mise en œuvre de la protection des renseignements personnels du Secrétariat du Conseil du Trésor&nbsp;:
 
