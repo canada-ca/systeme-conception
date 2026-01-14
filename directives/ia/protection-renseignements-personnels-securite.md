@@ -114,7 +114,7 @@ Il faut se tenir informé en permanence des menaces particulièrement préoccupa
 Débrider une application d’aide utilisant l’IA signifie la manipuler pour qu’elle fasse des choses qu’elle n’est pas censée faire, comme fournir des réponses contenant des renseignements personnels, préjudiciables ou hors du champ d’application. Voici quelques mesures clés à mettre en œuvre pour atténuer ces risques&nbsp;:
 
 - Limiter à 300 le nombre de caractères dans le champ de saisie.
-  - examinez vos données d’utilisation au fil du temps pour évaluer la possibilité de réduire ou d’augmenter cette valeur
+  - Examinez vos données d’utilisation au fil du temps pour évaluer la possibilité de réduire ou d’augmenter cette valeur.
   - Utilisez un message d’erreur lorsque la limite est dépassée pour avertir l’utilisateur du nombre de caractères excédentaire et lui conseiller de raccourcir sa question&nbsp;: &laquo;&nbsp;Votre message comporte \[nombre\] caractères de trop. Veuillez simplifier votre question&nbsp;&raquo;.
 - Limiter la conversation à un maximum de trois questions, car les conversations plus longues augmentent la probabilité de réponses inexactes.
   - Prévenez les utilisateurs que leur conversation sera limitée à trois questions.
