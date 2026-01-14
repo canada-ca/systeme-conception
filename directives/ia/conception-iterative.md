@@ -26,7 +26,7 @@ L’identification active des problèmes rencontrés par les utilisateurs peut �
 - [Phase d’essai initial](#phase-dessai-initial)
 - [Séances d’essais itératifs de convivialité](#seances-de-convivialite)
 
-### Recherche auprès des utilisateurs dans la phase de conception
+### Recherche auprès des utilisateurs dans la phase de conception {#recherche-phase-de-conception}
 
 Mobilisez très tôt les chercheurs en expérience utilisateur (EU) afin qu’ils puissent commencer les essais de prototypes de conception avec les possibles utilisateurs finaux. Appliquez les meilleures pratiques pour les institutions fédérales déployant un outil d’IA générative du Secrétariat du Conseil du Trésor du Canada&nbsp;:
 
