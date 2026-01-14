@@ -20,7 +20,7 @@ title: Liste de vérification comme références
     <li>Tenir compte de la vision de Canada.ca, selon laquelle les visiteurs ne savent pas quel service s'occupe de quelle tâche</li>
     <li>Indiquer clairement le sujet dans le bouton d'invite si votre application d'IA est limitée à un sujet précis</li>
     <li>Identifier clairement les applications d'aide utilisant l'IA comme étant alimentées par l'IA</li>
-    <li>Inclure un avis contenant des renseignements et des liens supplémentaires sur l'application et la protection des renseignements personnels.</li>
+    <li>Inclure un avis contenant des renseignements et des liens supplémentaires sur l'application et la protection des renseignements personnels</li>
     <li>Fournir des liens de citation pour les réponses et les rendre très visibles</li>
     <li>Veiller à respecter les exigences en matière d'accessibilité et de langues officielles.</li>
     <li>Tester votre application pour en vérifier l'exactitude et partager les résultats avec votre équipe des communications.</li>
