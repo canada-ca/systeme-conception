@@ -93,7 +93,7 @@ Il existe trois séries de fichiers de mots et de phrases, en anglais et en fran
 
 Avant de mettre en œuvre une application d’aide utilisant l’IA, assurez-vous que votre organisation a mis en place un processus pour traiter les messages menaçants. Un processus semblable peut déjà exister pour traiter les menaces reçues par courriel, par les médias sociaux et/ou par les centres d’appel.
 
-Ce qu’il faut faire
+Ce qu’il faut faire&nbsp;:
 
 - Suivre les mêmes procédures que celles mises en place par votre organisation pour les menaces reçues par courriel, par les médias sociaux et/ou par les centres d’appel.
 
