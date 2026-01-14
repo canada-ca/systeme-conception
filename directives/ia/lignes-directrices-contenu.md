@@ -81,7 +81,7 @@ En plus de tester régulièrement l’exactitude de votre application, vous deve
 
 Veillez à ce que les exigences de la Directive sur les langues officielles pour les communications et services soient respectées.
 
-- [Directive sur les langues officielles pour les communications et services](https://www.tbs-shttps://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=26164ct.canada.ca/pol/doc-eng.aspx?id=26164)
+- [Directive sur les langues officielles pour les communications et services](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=26164)
 
 Les modèles d’IA générative n’ont pas toujours les mêmes résultats en français et en anglais et certains modèles sont meilleurs que d’autres. Les ministères doivent procéder à des essais pour s’assurer que la qualité des outils et des résultats est conforme aux exigences en matière de langues officielles.
 
