@@ -55,7 +55,7 @@ La Ligne directrice sur les services et le numérique présente des renseignemen
 
 - [Conception et prestation de services axés sur le client](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ligne-directrice-services-numerique.html#ToC2)
 
-## Mesurer les résultats à l’aide de mécanismes de rétroaction et d’une enquête après utilisation
+## Mesurer les résultats à l’aide de mécanismes de rétroaction et d’une enquête après utilisation {#mesurer-les-resultats}
 
 L’IA générative modifie rapidement les attentes et les modèles sous-jacents peuvent également évoluer. Il est essentiel que les applications de clavardage alimentées par l’IA fournissent des réponses qui répondent aux besoins et aux attentes des utilisateurs. Vous devez continuellement gérer et améliorer l’exactitude et la fiabilité de ces applications sur Canada.ca. Les mécanismes de rétroaction peuvent fournir des données quantitatives et qualitatives permettant une amélioration itérative et mettre rapidement en évidence les problèmes qui requièrent une attention immédiate.
 
