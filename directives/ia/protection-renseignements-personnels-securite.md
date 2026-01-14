@@ -40,7 +40,7 @@ Supprimez et caviardez autant que possible les renseignements personnels dans le
 
 Les renseignements personnels sont définis dans la [*Loi sur la protection des renseignements personnels*](https://laws-lois.justice.gc.ca/fra/lois/p-21/index.html) comme des renseignements, quels que soient leur forme et leur support, concernant un individu identifiable. Il peut s’agir de renseignements tels que&nbsp;:
 
-- son nom
+- son nom;
 - ses coordonnées;
 - tout numéro pouvant l’identifier.
 
