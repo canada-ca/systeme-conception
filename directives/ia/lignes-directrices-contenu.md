@@ -75,7 +75,7 @@ Veillez à évaluer l’exactitude de votre application alimentée par l’IA. L
 - [Directive sur la gestion des communications et de l’image de marque](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682)
 - [Politique sur les communications et l’image de marque](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30683)
 
-En plus de tester régulièrement l’exactitude de votre application, vous devez inclure une note rappelant à l’utilisateur que l’IA peut faire des erreurs et qu’il doit vérifier les renseignements qui lui sont fournis. Par exemple, vous pouvez inclure une note comme celle-ci : &laquo;&nbsp;L’IA peut faire des erreurs, vérifiez toujours votre réponse&nbsp;&raquo;. De plus, le titre au-dessus du ou des liens de citation peut indiquer &laquo;&nbsp;Vérifiez votre réponse&nbsp;&raquo;.
+En plus de tester régulièrement l’exactitude de votre application, vous devez inclure une note rappelant à l’utilisateur que l’IA peut faire des erreurs et qu’il doit vérifier les renseignements qui lui sont fournis. Par exemple, vous pouvez inclure une note comme celle-ci&nbsp;: &laquo;&nbsp;L’IA peut faire des erreurs, vérifiez toujours votre réponse&nbsp;&raquo;. De plus, le titre au-dessus du ou des liens de citation peut indiquer &laquo;&nbsp;Vérifiez votre réponse&nbsp;&raquo;.
 
 ## Langues {#langues}
 
