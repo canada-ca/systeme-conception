@@ -60,7 +60,7 @@ Vous pouvez en apprendre davantage sur les rôles, les responsabilités et les p
 
 Vous devez respecter les exigences de la [Norme sur l’accessibilité des sites Web](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=23601).
 
-Les critères supplémentaires suivants aideront à garantir l’accessibilité de votre application d’aide alimentée par l’IA :
+Les critères supplémentaires suivants aideront à garantir l’accessibilité de votre application d’aide alimentée par l’IA&nbsp;:
 
 - Utilisation d’étiquettes accessibles pour les champs et les boutons des formulaires.
 - Mises à jour de l’état pour informer les utilisateurs lorsque l’IA génère une réponse et lorsqu’elle s’arrête.
