@@ -12,7 +12,7 @@ Suivez ces conseils pour créer une expérience uniforme pour les visiteurs de C
 
 - [Applications alimentées par l’IA spécifiques à un sujet](#sujet)
 - [Avis, transparence et responsabilité](#avis)
-- [Accessibilité](#accessibilité)
+- [Accessibilité](#accessibilite)
 - [Exactitude](#exactitude)
 - [Langues](#langues)
 - [Citations](#citations)
