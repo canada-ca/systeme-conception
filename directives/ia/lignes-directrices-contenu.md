@@ -147,7 +147,7 @@ Veillez à tester l’application pour déceler les biais involontaires et autre
 - Mettre en place un système de rédaction du contenu pour traiter les entrées contenant un langage inapproprié, voir la section [Protection des renseignements personnels et sécurité](https://docs.google.com/document/d/1cKMmBhKH3tRWDygiwVZlcqRclxD1_Hka/edit?pli=1#heading=h.gfykd62t4e25).
 - Le Guide des normes numériques contient plus d’informations sur la manière d’atténuer les biais potentiels, voir [Concevoir des services éthiques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada/concevoir-services-ethiques.html).
 
-## Gestion des assistants en ligne {#assisants}
+## Gestion des assistants en ligne {#assistants}
 
 Un assistant en ligne est un guide pas à pas qui aide les utilisateurs à accomplir une tâche en la divisant en étapes plus petites et plus faciles à gérer. Il existe de nombreux assistants très utilisés sur Canada.ca, tels que &laquo;&nbsp;Vérifiez si vous avez besoin d’un visa&nbsp;&raquo;. Ces assistants qui peuvent avoir plusieurs niveaux et une logique étendue sont tenus à jour.
 
