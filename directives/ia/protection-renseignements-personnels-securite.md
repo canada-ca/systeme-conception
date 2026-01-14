@@ -118,7 +118,7 @@ Débrider une application d’aide utilisant l’IA signifie la manipuler pour q
   - utilisez un message d’erreur lorsque la limite est dépassée pour avertir l’utilisateur du nombre de caractères excédentaire et lui conseiller de raccourcir sa question&nbsp;: &laquo;&nbsp;Votre message comporte \[nombre\] caractères de trop. Veuillez simplifier votre question&nbsp;&raquo;.
 - Limiter la conversation à un maximum de trois questions, car les conversations plus longues augmentent la probabilité de réponses inexactes.
   - prévenez les utilisateurs que leur conversation sera limitée à trois questions
-  - affichez un bouton Rafraîchir et un message lorsque la limite de conversation est atteinte \- à noter que seuls les messages envoyés au service d’IA doivent être pris en compte dans cette limite
+  - Affichez un bouton Rafraîchir et un message lorsque la limite de conversation est atteinte \- à noter que seuls les messages envoyés au service d’IA doivent être pris en compte dans cette limite.
   - Rafraîchissez le texte du message&nbsp;: &laquo;&nbsp;Vous avez atteint la limite de trois questions par conversation. Rafraîchir pour entamer une nouvelle conversation&nbsp;&raquo;.
 - Contraindre le comportement du modèle<sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Note de bas de page </span>1</a></sup>&nbsp;:
   - Présentez des instructions précises sur le rôle, les capacités et les limites du modèle dans l’invite du système. Veillez à ce que le contexte soit strictement respecté, limitez les réponses à des tâches ou à des sujets précis et demandez au modèle d’ignorer les tentatives de modification des instructions de base.
