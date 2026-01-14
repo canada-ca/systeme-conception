@@ -72,7 +72,7 @@ La Ligne directrice sur les services et le numérique présente des renseignemen
 
 - [Rétroaction et satisfaction des clients](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ligne-directrice-services-numerique.html##ToC2_2)
 
-## Sondage sur la réussite de tâches
+## Sondage sur la réussite de tâches {#sondage}
 
 Sur Canada.ca, nous invitons au hasard les visiteurs à répondre au Sondage sur la réussite des tâches (SRT). Nous utilisons les résultats pour évaluer et améliorer la réussite par catégorie.
 
