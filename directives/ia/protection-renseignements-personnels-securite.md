@@ -115,7 +115,7 @@ Débrider une application d’aide utilisant l’IA signifie la manipuler pour q
 
 - Limiter à 300 le nombre de caractères dans le champ de saisie.
   - examinez vos données d’utilisation au fil du temps pour évaluer la possibilité de réduire ou d’augmenter cette valeur
-  - utilisez un message d’erreur lorsque la limite est dépassée pour avertir l’utilisateur du nombre de caractères excédentaire et lui conseiller de raccourcir sa question&nbsp;: &laquo;&nbsp;Votre message comporte \[nombre\] caractères de trop. Veuillez simplifier votre question&nbsp;&raquo;.
+  - Utilisez un message d’erreur lorsque la limite est dépassée pour avertir l’utilisateur du nombre de caractères excédentaire et lui conseiller de raccourcir sa question&nbsp;: &laquo;&nbsp;Votre message comporte \[nombre\] caractères de trop. Veuillez simplifier votre question&nbsp;&raquo;.
 - Limiter la conversation à un maximum de trois questions, car les conversations plus longues augmentent la probabilité de réponses inexactes.
   - prévenez les utilisateurs que leur conversation sera limitée à trois questions
   - Affichez un bouton Rafraîchir et un message lorsque la limite de conversation est atteinte \- à noter que seuls les messages envoyés au service d’IA doivent être pris en compte dans cette limite.
