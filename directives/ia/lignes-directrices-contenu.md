@@ -48,7 +48,7 @@ Si vous créez/recueillez/utilisez/divulguez/conservez/supprimez des renseigneme
 
 - [Directive sur les pratiques relatives à la protection de la vie privée](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=18309)
 
-Le fait d’avertir les utilisateurs par le biais d’un avis, que l’IA commet des erreurs, ne remplace pas le devoir de vérifier et d’évaluer le niveau d’exactitude (voir : [Exactitude](#exactitude)). L’application doit produire des réponses exactes et toujours inclure un lien de citation.
+Le fait d’avertir les utilisateurs par le biais d’un avis, que l’IA commet des erreurs, ne remplace pas le devoir de vérifier et d’évaluer le niveau d’exactitude (voir&nbsp;: [Exactitude](#exactitude)). L’application doit produire des réponses exactes et toujours inclure un lien de citation.
 
 En consultation avec les services juridiques de votre ministère, envisagez d’inclure une clause de non-responsabilité ou une déclaration détaillée de responsabilité et d’indemnisation.
 
