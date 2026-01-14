@@ -11,7 +11,7 @@ L’apprentissage et la rétroaction sont essentiels à la réussite du dévelop
 ## Sur cette page
 - [Surveiller et itérer](#surveiller-et-iterer)
 - [Mesurer les résultats à l’aide de mécanismes de rétroaction et d’une enquête après utilisation](#mesurer-les-resultats-a-l-aide-de-mecanismes-de-retroaction-et-d-une-enquete-apres-utilisation)
-- [Sondage sur la réussite de tâches](#sondage-sur-la-reussite-de-taches)
+- [Sondage sur la réussite de tâches](#sondage)
 
 Un aspect essentiel de cette approche de conception itérative est l’identification et la résolution des problèmes qui entravent l’accès aux services des utilisateurs. Les programmes devraient se concentrer en particulier sur les domaines où la charge administrative est élevée, par exemple lorsque les utilisateurs sont confrontés à des coûts importants en matière d’apprentissage, de psychologie ou de conformité. Cela signifie qu’il faut comprendre les complexités entourant l’admissibilité aux services, les étapes nécessaires pour y accéder et l’expérience générale de l’utilisateur.
 
