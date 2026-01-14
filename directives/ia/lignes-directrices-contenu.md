@@ -127,7 +127,7 @@ Une fois la situation clarifiée, l’IA peut fournir le lien approprié. Par ex
 
 Pour que les citations soient bien visibles, il convient de suivre les lignes directrices suivantes :
 
-- Distinguer visuellement les citations de la réponse afin que les utilisateurs puissent les trouver facilement en centrant le texte et en ajoutant un encadré gris.
+- Distinguer visuellement les citations de la réponse afin que les utilisateurs puissent les trouver facilement.
 - Placer un texte d’instruction avant les citations qui demande aux utilisateurs de vérifier leur réponse et de passer à l’étape suivante.
 - Veiller à ce que les citations soient suffisamment proches de la réponse pour qu’il soit clair qu’elles sont liées à celle-ci.
 
