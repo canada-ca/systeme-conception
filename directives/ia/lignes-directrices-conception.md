@@ -32,7 +32,7 @@ Pour des questions ou des conseils concernant la sécurité de l’IA, envoyez u
 
 ## Nommer votre application d’IA {#nommer}
 
-N’utilisez pas le nom d’une personne pour votre application d’IA, ni les termes «clavardage» ou «agent conversationnel». Ces termes sont généralement associés au clavardage en direct et peuvent amener les utilisateurs à penser qu’un agent peut se joindre à la conversation ou la surveiller. En évitant les noms de personnes et les mots comme «clavardage», vous indiquez clairement aux utilisateurs que les réponses proviennent uniquement de l’IA et qu’aucun humain ne répondra à leurs questions.
+N’utilisez pas le nom d’une personne pour votre application d’IA, ni les termes &laquo;&nbsp;clavardage&nbsp;&raquo; ou &laquo;&nbsp;agent conversationnel&nbsp;&raquo;. Ces termes sont généralement associés au clavardage en direct et peuvent amener les utilisateurs à penser qu’un agent peut se joindre à la conversation ou la surveiller. En évitant les noms de personnes et les mots comme &laquo;&nbsp;clavardage&nbsp;&raquo;, vous indiquez clairement aux utilisateurs que les réponses proviennent uniquement de l’IA et qu’aucun humain ne répondra à leurs questions.
 
 ## Ouvrir une nouvelle fenêtre de navigation et non une fenêtre de discussion {#fenetre}
 
