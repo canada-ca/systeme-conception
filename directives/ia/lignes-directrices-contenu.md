@@ -155,7 +155,7 @@ L’invite de votre système doit indiquer au service d’IA de diriger les util
 
 À terme, il sera possible de transmettre la logique de l’assistant au service d’IA afin qu’il puisse traiter les questions et les réponses.
 
-## Longueur des réponses {@longueur}
+## Longueur des réponses {#longueur}
 
 Les réponses doivent être concises, simples et claires. Cela permet aux utilisateurs de comprendre plus facilement la réponse et impose l’utilisation du lien de citation pour passer aux étapes suivantes.
 
