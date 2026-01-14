@@ -21,7 +21,7 @@ L’identification active des problèmes rencontrés par les utilisateurs peut �
 
 ## Surveiller et itérer {#surveiller-et-iterer}
 
-- [Recherche auprès des utilisateurs dans la phase de conception](#recherche-auprès-des-utilisateurs-dans-la-phase-de-conception)
+- [Recherche auprès des utilisateurs dans la phase de conception](#recherche-phase-de-conception)
 - [Utiliser les ensembles de données des évaluations](#utiliser-donnees)
 - [Phase d’essai initial](#phase-dessai-initial)
 - [Séances d’essais itératifs de convivialité](#seances-de-convivialite)
