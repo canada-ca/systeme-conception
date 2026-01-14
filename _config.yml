@@ -122,7 +122,7 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": "/"
           }
         ]
       }
@@ -138,10 +138,10 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": "/"
           },
           {
-            "link": "https://conception.canada.ca/amelioration-continue.html",
+            "link": "/amelioration-continue.html",
             "title": "Amélioration continue"
           }
         ]
@@ -149,7 +149,7 @@
     },
     {
       "scope": {
-        "path": "https://conception.canada.ca/amelioration-continue/mesure/*.md"
+        "path": "amelioration-continue/mesure/*.md"
       },
       "values": {
         "breadcrumbs": [{
@@ -158,14 +158,14 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": "/"
           },
           {
-            "link": "https://conception.canada.ca/amelioration-continue.html",
+            "link": "/amelioration-continue.html",
             "title": "Amélioration continue"
           },
           {
-            "link": "https://conception.canada.ca/amelioration-continue/mesure.html",
+            "link": "/amelioration-continue/mesure.html",
             "title": "Suivi et mesure du succès"
           }
         ]
@@ -182,10 +182,10 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": "/"
           },
           {
-            "link": "https://conception.canada.ca/communte/acceuil.html",
+            "link": "/communaute/accueil.html",
             "title": "Communauté"
           }
         ]
@@ -206,7 +206,7 @@
           },
           {
             "title": "Sondage sur la réussite des tâches",
-            "link": "https://conception.canada.ca/sondage/index.html"
+            "link": "/sondage/index.html"
           }
         ]
       }
@@ -222,11 +222,11 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": "/"
           },
           {
             "title": "Spécifications de l'architecture de l'information",
-            "link": "https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html"
+            "link": "/architecture/specifications-contenu-architecture-information-canada.html"
           }
         ]
       }
@@ -242,11 +242,11 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": "/"
           },
           {
             "title": "Modèles et configurations",
-            "link": "https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html"
+            "link": "/bibliotheque-modeles.html"
           }
         ]
       }
@@ -262,10 +262,10 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": "/"
           },
           {
-            "link": "https://conception.canada.ca/crise/contenu.html",
+            "link": "/crise/contenu.html",
             "title": "Aide-mémoire pour la conception du contenu des communications de crise"
           }
         ]
@@ -282,10 +282,10 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": "/"
           },
           {
-            "link": "https://conception.canada.ca/directives/",
+            "link": "/directives/",
             "title": "Directives"
           }
         ]
@@ -301,15 +301,15 @@
             "title": "À propos de Canada.ca"
           },
           {
-            "link": "https://conception.canada.ca",
+            "link": "/",
             "title": "Conception"
           },
           {
-            "link": "https://conception.canada.ca/guidance/index.html",
+            "link": "/directives/index.html",
             "title": "Lignes directrices"
           },
           {
-            "link": "https://conception.canada.ca/guidance/ia/index.html",
+            "link": "/directives/ia/index.html",
             "title": "Applications d’aide alimentées par l’IA"
           }
         ]

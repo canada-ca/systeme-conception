@@ -12,7 +12,7 @@ dateModified: 2026-01-15
 description: Lignes directrices centrales et recherche en matière d’IA, lignes directrices sur la conception et le contenu, protection des renseignements personnels et sécurité, conception itérative, liste de vérification
 information:
   - title: Lignes directrices centrales et recherche en matière d’IA
-    link: /directives/ia/ligne-directrice-centrale-recherche.html
+    link: /directives/ia/lignes-directrices-centrales-recherche.html
     description: Vision des applications d’aide utilisant l’IA, Guide sur l’utilisation de l’IA générative, principales personnes-ressources
   - title: Lignes directrices sur la conception
     link: /directives/ia/lignes-directrices-conception.html
@@ -20,8 +20,8 @@ information:
   - title: Lignes directrices sur le contenu
     link: /directives/ia/lignes-directrices-contenu.html
     description: Avis, transparence et responsabilité, liens de citation, accessibilité, langue, longueur des réponses
-  - title: Protection des renseignements personnels et sécurité
-    link: /directives/ia/protection-renseignements-personnels-securite.html
+  - title: Protection et sécurité
+    link: /directives/ia/protection-securite.html
     description: Assurer la sécurité, le respect et la sûreté des intrants, techniques de rédaction, menaces, conservation et suppression, débridage, conformité avec la cybersécurité organisationnelle
   - title: Conception itérative
     link: /directives/ia/conception-iterative.html

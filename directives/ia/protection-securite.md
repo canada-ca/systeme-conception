@@ -3,28 +3,28 @@ altLangPage: https://design.canada.ca/guidance/ai/privacy-security.html
 date: 2026-01-15
 dateModified: 2026-01-15
 description: Suivez ces directives pour protéger les renseignements personnels et assurer la sécurité lors de la création d'applications d'IA générative.
-title: Protection des renseignements personnels et sécurité
+title: Protection et sécurité
 ---
 
 ## Sur cette page
 
-- [Protéger les renseignements personnels dès le début](#proteger)
-- [Limiter la collecte de renseignements personnels](#limiter)
-- [Caviarder les renseignements personnels dans le champ de saisie de l’utilisateur](#caviarder-renseignements-personnels)
-- [Caviarder les menaces, les blasphèmes et les tentatives de manipulation de l’IA](#caviarder-menaces)
-- [Gérer les menaces perçues](#gerer-menaces)
-- [Établir un calendrier de conservation et de suppression](#conservation)
-- [Journaux d’audit et surveillance](#audit)
-- [Prévenir le débridage et la manipulation](#prevenir)
-- [Respecter la Stratégie intégrée de cybersécurité du gouvernement du Canada](#respecter)
+- [Protéger les renseignements personnels dès le début](#protéger-les-renseignements-personnels-dès-le-début)
+- [Limiter la collecte de renseignements personnels](#limiter-la-collecte-de-renseignements-personnels)
+- [Caviarder les renseignements personnels dans le champ de saisie de l’utilisateur](#caviarder-les-renseignements-personnels-dans-le-champ-de-saisie-de-lutilisateur)
+- [Caviarder les menaces, les blasphèmes et les tentatives de manipulation de l’IA](#caviarder-les-menaces-les-blasphèmes-et-les-tentatives-de-manipulation-de-lia)
+- [Gérer les menaces perçues](#gérer-les-menaces-perçues)
+- [Établir un calendrier de conservation et de suppression](#établir-un-calendrier-de-conservation-et-de-suppression)
+- [Journaux d’audit et surveillance](#journaux-daudit-et-surveillance)
+- [Prévenir le débridage et la manipulation](#prévenir-le-débridage-et-la-manipulation)
+- [Respecter la Stratégie intégrée de cybersécurité du gouvernement du Canada](#respecter-la-stratégie-intégrée-de-cybersécurité-du-gouvernement-du-canada)
 
-## Protéger les renseignements personnels dès le début {#proteger}
+## Protéger les renseignements personnels dès le début
 
 Si votre application d’IA doit recueillir des renseignements personnels, ou est susceptible de le faire par inadvertance, il faut repérer et atténuer les risques en demandant au bureau de la protection des renseignements personnels de votre institution de remplir une liste de vérification de la protection des renseignements personnels dès le début du développement de l’application. La Directive sur les pratiques relatives à la protection de la vie privée du SCT (annexe C.2.2.6) exige une liste de vérification pour déterminer si une Évaluation des facteurs relatifs à la vie privée est nécessaire avant de déployer votre technologie d’IA générative.
 
 - [Directive sur les pratiques relatives à la protection de la vie privée](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=18309)
 
-## Limiter la collecte de renseignements personnels {#limiter}
+## Limiter la collecte de renseignements personnels
 
 Ne recueillez que les renseignements personnels nécessaires au fonctionnement de l’IA. Par exemple, si une application d’aide alimentée par l’IA est conçue pour aider le service à la clientèle, il faut limiter la collecte aux détails pertinents.
 
@@ -34,7 +34,7 @@ Les renseignements personnels contenus dans les conversations ne doivent pas êt
 
 Consultez votre équipe chargée de la protection des renseignements personnels pour discuter des options possibles si vous n’êtes pas sûr de savoir comment minimiser ou traiter la collecte de renseignements personnels par votre application.
 
-## Caviarder les renseignements personnels {#caviarder-renseignements-personnels}
+## Caviarder les renseignements personnels dans le champ de saisie de l’utilisateur
 
 Supprimez et caviardez autant que possible les renseignements personnels dans le champ de saisie de l’utilisateur, plutôt que de les envoyer au service d’IA ou de les stocker de quelque manière que ce soit.
 
@@ -71,7 +71,7 @@ Vous pouvez également communiquer avec le bureau de l’accès à l’informati
 
 - [Liste des coordonnateurs de l’accès à l’information et de la protection des renseignements personnels par institution](https://www.tbs-sct.canada.ca/ap/atip-aiprp/coord-fra.asp)
 
-### Caviarder les menaces, les blasphèmes et les tentatives de manipulation de l’IA {#caviarder-menaces}
+### Caviarder les menaces, les blasphèmes et les tentatives de manipulation de l’IA
 
 Appliquez des modèles de caviardage dans le code pour les blasphèmes, les menaces et les manipulations.
 
@@ -89,7 +89,7 @@ Il existe trois séries de fichiers de mots et de phrases, en anglais et en fran
 
 - [cds.dto-btn.snc@servicecanada.gc.ca](mailto:cds.dto-btn.snc@servicecanada.gc.ca)
 
-## Gérer les menaces perçues {#gerer-menaces}
+## Gérer les menaces perçues
 
 Avant de mettre en œuvre une application d’aide utilisant l’IA, assurez-vous que votre organisation a mis en place un processus pour traiter les messages menaçants. Un processus semblable peut déjà exister pour traiter les menaces reçues par courriel, par les médias sociaux et/ou par les centres d’appel.
 
@@ -97,11 +97,11 @@ Ce qu’il faut faire&nbsp;:
 
 - Suivre les mêmes procédures que celles mises en place par votre organisation pour les menaces reçues par courriel, par les médias sociaux et/ou par les centres d’appel.
 
-## Établir un calendrier de conservation et de suppression {#conservation}
+## Établir un calendrier de conservation et de suppression
 
 Établissez des périodes de conservation par défaut pour toutes les données recueillies. Une fois la période terminée, toutes les données doivent être supprimées. Cette façon de procéder permet d’éviter l’accumulation inutile de données, de réaliser des économies sur les coûts de stockage et de réduire l’impact des menaces possibles sur la vie privée. Communiquez avec le service de gestion de l’information de votre ministère pour obtenir de l’aide dans l’établissement et l’application d’un calendrier de conservation et d’élimination.
 
-## Journaux d’audit et surveillance {#audit}
+## Journaux d’audit et surveillance
 
 Surveillez et signalez aux développeurs ou aux fournisseurs les utilisations inappropriées ou les résultats biaisés qui n'ont pas été identifiés comme une limitation potentielle du système. Les journaux d’audit conservent des enregistrements détaillés de tous les accès et de toutes les activités, ce qui permet de s’y référer plus facilement.
 
@@ -109,7 +109,7 @@ Les journaux d’audit doivent mettre en place des contrôles d’accès basés 
 
 Il faut se tenir informé en permanence des menaces particulièrement préoccupantes lors de l’utilisation de l’IA générative, notamment les attaques par injection d’invite, les attaques par inversion de modèle et le débridage, et appliquer des mesures d’atténuation contre ces menaces.
 
-## Prévenir le débridage et la manipulation {#prevenir}
+## Prévenir le débridage et la manipulation
 
 Débrider une application d’aide utilisant l’IA signifie la manipuler pour qu’elle fasse des choses qu’elle n’est pas censée faire, comme fournir des réponses contenant des renseignements personnels, préjudiciables ou hors du champ d’application. Voici quelques mesures clés à mettre en œuvre pour atténuer ces risques&nbsp;:
 
@@ -123,7 +123,7 @@ Débrider une application d’aide utilisant l’IA signifie la manipuler pour q
 - Contraindre le comportement du modèle<sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Note de bas de page </span>1</a></sup>&nbsp;:
   - Présentez des instructions précises sur le rôle, les capacités et les limites du modèle dans l’invite du système. Veillez à ce que le contexte soit strictement respecté, limitez les réponses à des tâches ou à des sujets précis et demandez au modèle d’ignorer les tentatives de modification des instructions de base.
 
-## Respecter la Stratégie intégrée de cybersécurité du gouvernement du Canada {#respecter}
+## Respecter la Stratégie intégrée de cybersécurité du gouvernement du Canada
 
 Assurez la conformité aux règles de cybersécurité du gouvernement du Canada.
 
@@ -134,7 +134,7 @@ Assurez la conformité aux règles de cybersécurité du gouvernement du Canada.
   <dl>
     <dt>Note de bas de page 1</dt>
     <dd id="fn1">
-      <p><a href="https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/" rel="nofollow">OWASP Top 10 for LLM Applications 2025</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="nofollow">https://creativecommons.org/licenses/by-sa/4.0/legalcode</a> [en anglais seulement]</p>
+      <p><a href="https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/">OWASP Top 10 for LLM Applications 2025</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">https://creativecommons.org/licenses/by-sa/4.0/legalcode</a> [en anglais seulement]</p>
       <p class="fn-rtn small">
         <a href="#fn1-0-rf"><span class="wb-inv">Retour à la note de bas de page </span>1</a>
       </p>
