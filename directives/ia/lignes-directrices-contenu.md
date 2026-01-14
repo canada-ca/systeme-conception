@@ -163,7 +163,7 @@ Dans l’invite du système, encouragez l’IA à ne pas inclure plus de renseig
 
 Certaines personnes peuvent avoir besoin d’explications plus détaillées pour bien comprendre un sujet. Si un utilisateur demande davantage de renseignements, des réponses plus longues peuvent être fournies pour lui donner tout le contexte nécessaire. Même lorsque plus de détails sont fournis, veillez à présenter un lien de citation vers des renseignements supplémentaires pour que l’utilisateur puisse vérifier ces renseignements.
 
-## Identifiants de conversation aux fins de référence {#identigiants}
+## Identifiants de conversation aux fins de référence {#identifiants}
 
 Toutes les conversations doivent avoir un identifiant visible consigné dans le système. Cela facilite le référencement en cas de besoin.
 
