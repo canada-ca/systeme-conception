@@ -14,7 +14,7 @@ title: Liste de vérification comme références
   <ul>
     <li>Suivre les lignes directrices centrales</li>
     <li>Ne pas utiliser de nom de personnes</li>
-    <li>Ne pas utiliser les termes &laquo;&nbsp;clavardage&nbsp;&raquo; ou &laquo;&nbsp;agent conversationnel&nbsp;&raquo;.</li>
+    <li>Ne pas utiliser les termes &laquo;&nbsp;clavardage&nbsp;&raquo; ou &laquo;&nbsp;agent conversationnel&nbsp;&raquo;</li>
     <li>Veiller à ce que l'application s'ouvre dans une nouvelle fenêtre.</li>
     <li>Utiliser un lien ou une superposition inférieure mobile pour initier le clavardage</li>
     <li>Tenir compte de la vision de Canada.ca, selon laquelle les visiteurs ne savent pas quel service s'occupe de quelle tâche</li>
