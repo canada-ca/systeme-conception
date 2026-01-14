@@ -19,7 +19,7 @@ Nous proposons des phases d’expérimentation qui incluent la recherche et les 
 
 L’identification active des problèmes rencontrés par les utilisateurs peut également permettre d’apporter des améliorations itératives et de simplifier l’accès aux services, afin de créer une expérience mieux centrée sur le client. Les [normes relatives au numérique du GC](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) contient des renseignements sur la conception avec les utilisateurs et ce que cela signifie d’itérer et d’améliorer fréquemment.
 
-## Surveiller et itérer
+## Surveiller et itérer {#surveiller-et-iterer}
 
 - [Recherche auprès des utilisateurs dans la phase de conception](#recherche-auprès-des-utilisateurs-dans-la-phase-de-conception)
 - [Utiliser les ensembles de données des évaluations](#utiliser-les-ensembles-de-donnees-des-evaluations)
