@@ -32,7 +32,7 @@ Mobilisez très tôt les chercheurs en expérience utilisateur (EU) afin qu’il
 
 - [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html#toc-4)
 
-### Utiliser les ensembles de données d’évaluation provenant de la rétroaction sur Canada.ca
+### Utiliser les ensembles de données d’évaluation provenant de la rétroaction sur Canada.ca {#utiliser-donnees}
 
 Chaque jour de semaine, les utilisateurs laissent jusqu’à 4 000 commentaires sur le site, souvent sous forme de questions. Consultez votre équipe Web ou le [Bureau de l’expérience Canada.ca](mailto:cds.dto-btn.snc@servicecanada.gc.ca) (Service numérique canadien) pour générer un ensemble de données d’évaluation à partir des commentaires des utilisateurs. Avant d’utiliser l’ensemble de données, assurez-vous de supprimer tous les commentaires contenant des renseignements personnels caviardés (commentaires comprenant le caractère \#).
 
