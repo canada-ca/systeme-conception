@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2026-02-20
+dateModified: 2026-01-20
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -12,7 +12,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 </div>
 <div id="expand-collapse">
 <details open="open">
-    <summary><time datetime="2026-02-20">20 janvier 2026</time></summary>
+    <summary><time datetime="2026-01-20">20 janvier 2026</time></summary>
     <p>Mise à jour du <a href="{{ site.url }}/configurations-conception-communes/images.html">guide des images</a>, soit l’ajout de renseignements sur l'utilisation appropriée des icônes.</p>
   </details>
 <details>
