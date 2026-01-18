@@ -22,22 +22,22 @@ Les images sont des contenus visuels qui complètent ou améliorent le texte, no
 
 [Suivez les conseils sur les images](https://conception.canada.ca/guide-redaction/#wp6-1) dans le Guide de rédaction du contenu du site Canada.ca pour obtenir de l'information sur&nbsp;:
 
-* le but des images sur le Web
-* les images fonctionnelles et les images décoratives
-* le texte alternatif et les descriptions longues
+* le but des images sur le Web;
+* les images fonctionnelles et les images décoratives;
+* le texte alternatif et les descriptions longues.
 
 ## Quoi éviter {#eviter}
 
 * Ne pas utiliser les images comme des éléments autonomes cliquables qui fournissent une navigation ou une fonctionnalité.
 * Faites attention lorsque vous utilisez des images générées par l'IA ou des photos génériques, car elles peuvent donner l'impression d'être moins authentiques et miner la confiance des utilisateurs.
-* Ne placez pas les images de manière à perturber le flux de contenu ou les tâches de l'utilisateur
+* Ne placez pas les images de manière à perturber le flux de contenu ou les tâches de l'utilisateur&nbsp;:
    * éviter de scinder les paragraphes ou de fragmenter le texte;
    * positionner les images là où elles facilitent la compréhension du contenu.
 * Ne pas utiliser d'images ou de vidéos copiées à partir d'autres sites Web.
-* Ne pas insérer de texte directement dans une image
-   * le texte des images de présentation peut être difficile à lire sur un petit écran,
-   * les images doivent porter plutôt sur la photographie et l'illustration.
-   * les bribes de texte accessoires, comme le texte qui apparaît sur les objets photographiés, les mots-clés dans les logos, les mots-clés diésés, etc. sont acceptables.
+* Ne pas insérer de texte directement dans une image&nbsp;:
+   * le texte des images de présentation peut être difficile à lire sur un petit écran;
+   * les images doivent porter plutôt sur la photographie et l'illustration;
+   * les bribes de texte accessoires, comme le texte qui apparaît sur les objets photographiés, les mots-clés dans les logos, les mots-clés diésés, etc. sont acceptables;
    * un texte HTML en direct (sélectionnable et accessible) peut être superposé à des parties d'images et de bannières, pourvu que le contraste et la visibilité soient appropriés.
 
 ## Contenu et conception {#conception}
@@ -48,12 +48,12 @@ Les images sont des contenus visuels qui complètent ou améliorent le texte, no
 * Les images doivent être carrées ou rectangulaires; les images rondes ou ovales ne peuvent pas être utilisées.
 * Là où des légendes et des attributions sont nécessaires, elles doivent être placées immédiatement sous l'image à laquelle elles se réfèrent.
 * Les images ne doivent être cliquables que si elles sont accompagnées d'un lien textuel vers la même destination.
-* En règle générale, les liens, les légendes ou la mention des sources doivent être alignés sur le bord gauche de l'image à laquelle ils se réfèrent
+* En règle générale, les liens, les légendes ou la mention des sources doivent être alignés sur le bord gauche de l'image à laquelle ils se réfèrent.
    * Il convient de noter que certains modèles de conception constituent des exceptions à cette règle.
 
 ## Licence {#licence}
 
-* C'est aux institutions qu'il incombe d'utiliser correctement des images achetées dans le cadre d'un contrat de licence
+* C'est aux institutions qu'il incombe d'utiliser correctement des images achetées dans le cadre d'un contrat de licence&nbsp;:
    * si l'image est sous licence pour une seule institution, elle ne peut être utilisée que par cette institution sur Canada.ca;
    * lisez attentivement le contrat de licence pour connaître les autres restrictions relatives à l'utilisation des images achetées.
 * Vérifiez que vous avez les droits appropriés pour publier des images sur Canada.ca. Plus particulièrement&nbsp;:
@@ -73,7 +73,7 @@ Vous pouvez utiliser des icônes pour aider les utilisateurs à se servir des fo
 * champs de saisie;
 * alertes;
 * liens externes ou par courriel;
-* des liens vers des fichiers autres que HTML, tels que des fichiers PDF ou Excel.
+* liens vers des fichiers autres que HTML, tels que des fichiers PDF ou Excel.
 
 Les icônes permettent également d'attirer l'attention sur les renseignements clés et de faciliter la lecture de la page. Utilisez-les avec parcimonie et choisissez des icônes largement reconnues et faciles à comprendre.
 
@@ -83,11 +83,11 @@ Alignez l'icône avec l'identification de texte qui lui est associée.
 
 ### Quoi éviter {#icones-eviter}
 
-Ne pas utiliser d'icônes&nbsp;:
+Ne pas utiliser d'icônes pour&nbsp;:
 
-* pour ajouter des décorations aux rubriques ou aux en-têtes de navigation;
+* ajouter des décorations aux rubriques ou aux en-têtes de navigation;
 * modifier les modèles et les composants obligatoires;
-* pour mettre l'accent sur un texte.
+* mettre l'accent sur un texte.
 
 ## Mises en œuvre {#mises}
 
