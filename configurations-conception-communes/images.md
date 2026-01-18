@@ -10,15 +10,15 @@ Les images sont des contenus visuels qui complètent ou améliorent le texte, no
 
 ## Sur cette page
 
-* [Quand utiliser](#quand-utiliser)
-* [Quoi éviter](#quoi-eviter)
-* [Contenu et conception](#contenu-et-conception)
+* [Quand utiliser](#utiliser)
+* [Quoi éviter](#eviter)
+* [Contenu et conception](#conception)
 * [Licence](#licence)
 * [Icônes](#icones)
-* [Mises en œuvre](#mises-en-oeuvre)
-* [Dernières modifications](#dernieres-modifications)
+* [Mises en œuvre](#mises)
+* [Dernières modifications](#modifications)
 
-## Quand utiliser {#quand-utiliser}
+## Quand utiliser {#utiliser}
 
 [Suivez les conseils sur les images](https://conception.canada.ca/guide-redaction/#wp6-1) dans le Guide de rédaction du contenu du site Canada.ca pour obtenir de l'information sur&nbsp;:
 
@@ -26,7 +26,7 @@ Les images sont des contenus visuels qui complètent ou améliorent le texte, no
 * les images fonctionnelles et les images décoratives
 * le texte alternatif et les descriptions longues
 
-## Quoi éviter {#quoi-eviter}
+## Quoi éviter {#eviter}
 
 * Ne pas utiliser les images comme des éléments autonomes cliquables qui fournissent une navigation ou une fonctionnalité
 * Faites attention lorsque vous utilisez des images générées par l'IA ou des photos génériques, car elles peuvent donner l'impression d'être moins authentiques et miner la confiance des utilisateurs
@@ -40,7 +40,7 @@ Les images sont des contenus visuels qui complètent ou améliorent le texte, no
    * les bribes de texte accessoires, comme le texte qui apparaît sur les objets photographiés, les mots-clés dans les logos, les mots-clés diésés, etc. sont acceptables
    * un texte HTML en direct (sélectionnable et accessible) peut être superposé à des parties d'images et de bannières, pourvu que le contraste et la visibilité soient appropriés
 
-## Contenu et conception {#contenu-et-conception}
+## Contenu et conception {#conception}
 
 * La taille et l'emplacement des images sont adaptés au contexte dans lequel elles se trouvent&nbsp;:
    * les images doivent soutenir les tâches ou, si elles sont décoratives, ne pas interférer avec les tâches
@@ -66,7 +66,7 @@ Les images sont des contenus visuels qui complètent ou améliorent le texte, no
 
 Les icônes sont des symboles qui permettent de communiquer des actions ou des états sur Canada.ca.
 
-### Comment les utiliser {#comment-les-utiliser}
+### Comment les utiliser {#icones-utiliser}
 
 Vous pouvez utiliser des icônes pour aider les utilisateurs à se servir des fonctionnalités du site, par exemple&nbsp;:
 
@@ -81,7 +81,7 @@ Veillez à ce que les icônes soient toujours accompagnées d'une identification
 
 Alignez l'icône avec l'identification de texte qui lui est associée.
 
-### Quoi éviter {#quoi-eviter-icones}
+### Quoi éviter {#icones-eviter}
 
 Ne pas utiliser d'icônes&nbsp;:
 
@@ -89,13 +89,13 @@ Ne pas utiliser d'icônes&nbsp;:
 * modifier les modèles et les composants obligatoires
 * pour mettre l'accent sur un texte
 
-## Mises en œuvre {#mises-en-oeuvre}
+## Mises en œuvre {#mises}
 
 * [BOEW&nbsp;: Images](https://wet-boew.github.io/wet-boew-styleguide/design/images-fr.html)
 * [BOEW&nbsp;: Icônes](https://wet-boew.github.io/wet-boew-styleguide/design/icons-fr.html)
 * [Icône&nbsp;: Système de design GC](https://systeme-design.alpha.canada.ca/fr/composants/icone/)
 
-## Dernières modifications {#dernieres-modifications}
+## Dernières modifications {#modifications}
 
 <dl class="dl-horizontal">
 <dt>
