@@ -83,11 +83,11 @@ Alignez l'icône avec l'identification de texte qui lui est associée.
 
 ### Quoi éviter {#icones-eviter}
 
-Ne pas utiliser d'icônes pour&nbsp;:
+Ne pas utiliser d'icônes&nbsp;:
 
-* ajouter des décorations aux rubriques ou aux en-têtes de navigation;
-* modifier les modèles et les composants obligatoires;
-* mettre l'accent sur un texte.
+* pour ajouter des décorations aux rubriques ou aux en-têtes de navigation;
+* pour modifier les modèles et les composants obligatoires;
+* pour mettre l'accent sur un texte.
 
 ## Mises en œuvre {#mises}
 
