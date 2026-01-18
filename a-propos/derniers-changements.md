@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2025-12-18
+dateModified: 2026-02-20
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -12,6 +12,10 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 </div>
 <div id="expand-collapse">
 <details open="open">
+    <summary><time datetime="2026-02-20">20 janvier 2026</time></summary>
+    <p>Mise à jour du <a href="{{ site.url }}/configurations-conception-communes/images.html">guide des images</a>, soit l’ajout de renseignements sur l'utilisation appropriée des icônes.</p>
+  </details>
+<details>
     <summary><time datetime="2025-12-18">18 décembre 2025</time></summary>
     <p>Ajout d’une alerte à la page de contenu de base pour indiquer qu’elle sera mise hors service et de plutôt utiliser <a href="https://systeme-design.alpha.canada.ca/fr/modeles-de-page/basic/">le modèle de page de base</a> du Système de design GC.</p>
   </details>

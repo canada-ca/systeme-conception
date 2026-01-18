@@ -1058,22 +1058,11 @@
       "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement, Navigation",
       "MANDATORY": "Non",
       "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/icones.html\">Icônes</a>",
+    }, {
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/images.html\">Images et icônes</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Nous mettons cette configuration hors service. Les icônes représentent des symboles servant à indiquer des actions à prendre ou des états.",
-      "WHENTOUSE": "Nous mettons cette configuration hors service. Les icônes repr&#233;sentent des symboles servant &#224; indiquer des actions &#224; prendre ou des &#233;tats",
-      "CATEGORY": "Configuration de conception",
-      "TYPE": "Visuel",
-      "MANDATORY": "Non",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/images.html\">Images</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Utilisez pour embellir ou rehausser un texte.",
-      "WHENTOUSE": "Utilisez pour embellir ou rehausser un texte",
+      "DESCRIPTION": "Quand utiliser des images et des icônes et ce qu’il faut éviter",
+      "WHENTOUSE": "Quand utiliser des images et des icônes et ce qu’il faut éviter",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Visuel",
       "MANDATORY": "Non",
