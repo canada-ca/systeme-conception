@@ -51,12 +51,12 @@ $document.on( "click change", ".checkbox input[type=checkbox]", function( event 
 			var allChecked = $checkboxes.length > 0 && !$checkboxes.filter( ":not(:checked)" ).length;
 
 			// Toggle the completion message visibility
-			var completionMessage = document.getElementById( "completion-message" );
-			if ( completionMessage ) {
+			var results = $(selector + "+ output");
+			if ( results ) {
 				if ( allChecked ) {
-					completionMessage.classList.remove( "hidden" );
+					results.classList.remove( "hidden" );
 				} else {
-					completionMessage.classList.add( "hidden" );
+					results.classList.add( "hidden" );
 				}
 			}
 		}
