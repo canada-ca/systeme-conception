@@ -3,8 +3,8 @@ altLangPage: https://design.canada.ca/community/landing.html
 breadcrumbs:
 - link: https://www.canada.ca/fr/gouvernement/a-propos.html
   title: "À propos de Canada.ca"
-- link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html
-  title: "Système de conception de Canada.ca"
+- link: /
+  title: "Conception"
 date: null
 dateModified: '2020-11-23'
 description: null

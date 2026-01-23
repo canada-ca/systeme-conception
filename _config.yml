@@ -326,14 +326,14 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           },
           {
-            "link": "https://conception.canada.ca/bibliotheque-modeles.html",
+            "link": "/bibliotheque-modeles.html",
             "title": "Modèles et configurations"
           },
           {
-            "link": "https://conception.canada.ca/modeles-recommandes/generique.html#discussion",
+            "link": "/modeles-recommandes/generique.html#discussion",
             "title": "Mise en page de base"
           }
         ]
@@ -350,10 +350,10 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           },
           {
-            "link": "https://conception.canada.ca/bibliotheque-modeles.html",
+            "link": "/bibliotheque-modeles.html",
             "title": "Modèles et configurations"
           }
         ]
@@ -370,10 +370,10 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           },
           {
-            "link": "https://conception.canada.ca/bibliotheque-modeles.html",
+            "link": "/bibliotheque-modeles.html",
             "title": "Modèles et configurations"
           }
         ]
@@ -390,10 +390,10 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           },
           {
-            "link": "https://conception.canada.ca/bibliotheque-modeles.html",
+            "link": "/bibliotheque-modeles.html",
             "title": "Modèles et configurations"
           }
         ]
@@ -414,7 +414,7 @@
           },
           {
             "title": "Outil de rétroaction",
-            "link": "https://conception.canada.ca/retroaction/index.html"
+            "link": "/retroaction/index.html"
           }
         ]
       }
@@ -430,15 +430,15 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           },
           {
-            "link": "https://conception.canada.ca/bibliotheque-modeles.html",
+            "link": "/bibliotheque-modeles.html",
             "title": "Modèles et configurations"
           },
           {
             "title": "En-tête général",
-            "link": "https://conception.canada.ca/configurations-conception-communes/en-tete-general.html"
+            "link": "/configurations-conception-communes/en-tete-general.html"
           }
         ],
         "permalink": "/configurations-conception-communes/:basename:output_ext"
@@ -455,15 +455,15 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           },
           {
             "title": "Modèles et configurations",
-            "link": "https://conception.canada.ca/bibliotheque-modeles.html"
+            "link": "/bibliotheque-modeles.html"
           },
           {
             "title": "Pied de page général",
-            "link": "https://conception.canada.ca/configurations-conception-communes/pied-page.html"
+            "link": "/configurations-conception-communes/pied-page.html"
           }
         ],
         "permalink": "/configurations-conception-communes/:basename:output_ext"
@@ -490,7 +490,7 @@
           "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
         }, {
           "title": "Conception",
-          "link": "https://conception.canada.ca"
+          "link": /
         }]
       }
     },
@@ -505,11 +505,11 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           },
           {
             "title": "Guide de rédaction du contenu du site Canada.ca",
-            "link": "https://conception.canada.ca/guide-redaction/"
+            "link": "/guide-redaction/"
           }
         ]
       }
@@ -525,7 +525,7 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           }
         ]
       }
@@ -541,11 +541,11 @@
           },
           {
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           },
           {
             "title": "Modèles et configurations",
-            "link": "https://conception.canada.ca/bibliotheque-modeles.html"
+            "link": "/bibliotheque-modeles.html"
           }
         ]
       }
@@ -561,11 +561,11 @@
             "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
           },{
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           },
           {
             "title": "Résumés de recherche",
-            "link": "https://conception.canada.ca/resumes-recherche/"
+            "link": "/resumes-recherche/"
           }
         ]
       }
@@ -581,7 +581,7 @@
           "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
         },{
             "title": "Conception",
-            "link": "https://conception.canada.ca"
+            "link": /
           },]
       }
     }, {
@@ -594,7 +594,7 @@
           "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
         }, {
           "title": "Conception",
-          "link": "https://conception.canada.ca"
+          "link": /
         }]
       }
     },
@@ -618,7 +618,7 @@
           },
           {
             "title": "Travailler avec des partenaires",
-            "link": "https://conception.canada.ca/partenaires/"
+            "link": "/partenaires/"
           }
         ]
       }

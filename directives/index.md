@@ -35,7 +35,7 @@ Utilisez ces directives pour créer et gérer du contenu Web.
   <div class="row wb-eqht-grd">
     {%- for info in page.information -%}
     <div class="col-lg-4 col-md-6">
-      <h3><a href="{{ info.link }}">{{ info.title }}</a></h3>
+      <h3><a href="{{ info.link | absolute_url }}">{{ info.title }}</a></h3>
       <p>{{ info.description }}</p>
     </div>
     {%- endfor -%}

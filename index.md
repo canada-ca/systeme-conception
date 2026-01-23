@@ -17,7 +17,7 @@ information:
     link: /resumes-recherche/
     description: Études menées dans le but de faciliter la recherche et la compréhension des informations et services du gouvernement du Canada
   - title: À propos de Canada.ca
-    link: /a-propos/
+    link: https://www.canada.ca/fr/gouvernement/a-propos-de-canada-ca.html
     description: En demande, analytique de Canada.ca, coordonnées du gouvernement du Canada
   - title: Directives relatives à la conception pour Canada.ca
     link: /directives/
@@ -36,7 +36,7 @@ title: "Concevoir pour Canada.ca"
       {% if info.link contains 'http' %}
         <h3><a href="{{ info.link }}">{{ info.title }}</a></h3>
       {% else %}
-        <h3><a href="{{ site.url }}{{ info.link }}">{{ info.title }}</a></h3>
+        <h3><a href="{{ info.link | absolute_url }}">{{ info.title }}</a></h3>
       {% endif %}
       <p>{{ info.description }}</p>
     </div>
