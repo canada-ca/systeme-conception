@@ -1,9 +1,9 @@
 ---
 altLangPage: https://design.canada.ca/guidance/ai/privacy-security.html
-date: 2026-01-15
-dateModified: 2026-01-15
+date: 2026-02-12
+dateModified: 2026-02-12
 description: Suivez ces directives pour protéger les renseignements personnels et assurer la sécurité lors de la création d'applications d'IA générative.
-title: Protection et sécurité
+title: Protection et sécurité pour les applications d'aide à l'IA
 ---
 
 ## Sur cette page
@@ -134,7 +134,7 @@ Assurez la conformité aux règles de cybersécurité du gouvernement du Canada.
   <dl>
     <dt>Note de bas de page 1</dt>
     <dd id="fn1">
-      <p><a href="https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/">OWASP Top 10 for LLM Applications 2025</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">https://creativecommons.org/licenses/by-sa/4.0/legalcode</a> [en anglais seulement]</p>
+      <p><a href="https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/"><span lang="en">OWASP Top 10 for LLM Applications 2025</span> (en anglais seulement)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">https://creativecommons.org/licenses/by-sa/4.0/legalcode</a></p>
       <p class="fn-rtn small">
         <a href="#fn1-0-rf"><span class="wb-inv">Retour à la note de bas de page </span>1</a>
       </p>

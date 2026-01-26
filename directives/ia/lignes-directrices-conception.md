@@ -1,9 +1,9 @@
 ---
 altLangPage: https://design.canada.ca/guidance/ai/design-guidance.html
-date: 2026-01-15
-dateModified: 2026-01-15
+date: 2026-02-12
+dateModified: 2026-02-12
 description: Servez-vous de ces conseils pour offrir une expérience uniforme avec toutes les applications d’aide alimentées par l’IA de Canada.ca.
-title: Lignes directrices sur la conception
+title: Lignes directrices sur la conception pour les applications d'aide à l'IA
 ---
 
 Les applications d’IA doivent répondre aux [exigences de Canada.ca en matière de conception]({{ site.url }}/specifications.html). Servez-vous de ces conseils pour offrir une expérience uniforme avec toutes les applications d’aide alimentées par l’IA de Canada.ca.
@@ -19,7 +19,7 @@ Les applications d’IA doivent répondre aux [exigences de Canada.ca en matièr
 
 Avant de passer à l’étape de la conception, il convient de consulter&nbsp;:
 
-- [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html#toc-4)
+- [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html)
 - [Guide des normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
 
 Pour obtenir des informations et des conseils sur des utilisations précises de l’IA générative, communiquez avec l’équipe Données et IA responsables&nbsp;:

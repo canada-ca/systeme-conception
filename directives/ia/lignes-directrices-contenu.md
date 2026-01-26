@@ -1,9 +1,9 @@
 ---
 altLangPage: https://design.canada.ca/guidance/ai/content-guidance.html
-date: 2026-01-15
-dateModified: 2026-01-15
+date: 2026-02-12
+dateModified: 2026-02-12
 description: Suivez ces conseils pour créer une expérience uniforme pour les visiteurs de Canada.ca.
-title: Lignes directrices sur le contenu
+title: Lignes directrices sur le contenu pour les applications d'aide à l'IA
 ---
 
 Suivez ces conseils pour créer une expérience uniforme pour les visiteurs de Canada.ca.
@@ -104,7 +104,7 @@ Pour faciliter une communication efficace dans plusieurs langues, suivez ces lig
 
 Dans l’invite de votre système, demandez à l’IA d’utiliser la terminologie officielle du français canadien et de respecter le style trouvé sur Canada.ca pour les réponses en français.
 
-- [Canada.ca French style guide : Guide de rédaction du contenu du site Canada.ca](https://conception.canada.ca/guide-redaction/)
+- [Guide de rédaction du contenu du site Canada.ca](https://conception.canada.ca/guide-redaction/)
 
 ### Traduction et soutien
 
@@ -137,14 +137,14 @@ Pour s’assurer que votre application d’aide utilisant l’IA n’entraîne p
 
 - [Analyse comparative entre les sexes Plus (ACS Plus)](https://www.canada.ca/fr/femmes-egalite-genres/analyse-comparative-entre-sexes-plus.html)
 - [Introduction à l’ACS Plus](https://femmes-egalite-genres.canada.ca/gbaplus-course-cours-acsplus/fra/mod00/mod00_01_01.html)
-- [Centre de ressources de l'ACS Plus (lien GCéchange, uniquement accessible par le réseau intranet du gouvernement du Canada)](https://gcxgce.sharepoint.com/:w:/t/10001402/EecWMxWizRhJtOk_1NcjctEBup1mLluIzJaGQfIF4od7tQ?e=CgcbyV)
+- [Centre de ressources de l'ACS Plus (lien GCéchange, uniquement accessible par le réseau intranet du gouvernement du Canada)](https://gcxgce.sharepoint.com/teams/10001323/SitePages/Bienvenue.aspx)
 
 ## Mesures de protection contre les résultats préjudiciables ou biaisés
 
 Veillez à tester l’application pour déceler les biais involontaires et autres résultats préjudiciables.
 
 - Veiller à ce que les réponses proviennent uniquement de sources fiables, telles que Canada.ca, afin de minimiser le risque de fournir des informations biaisées ou préjudiciables.
-- Mettre en place un système de rédaction du contenu pour traiter les entrées contenant un langage inapproprié, voir la section [Protection des renseignements personnels et sécurité](https://docs.google.com/document/d/1cKMmBhKH3tRWDygiwVZlcqRclxD1_Hka/edit?pli=1#heading=h.gfykd62t4e25).
+- Mettre en place un système de rédaction du contenu pour traiter les entrées contenant un langage inapproprié, voir la section [Protection et sécurité](protection-securite.html).
 - Le Guide des normes numériques contient plus d’informations sur la manière d’atténuer les biais potentiels, voir [Concevoir des services éthiques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada/concevoir-services-ethiques.html).
 
 ## Gestion des assistants en ligne

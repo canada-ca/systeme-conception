@@ -1,9 +1,9 @@
 ---
 altLangPage: https://design.canada.ca/guidance/ai/central-guidance-research.html
-date: 2026-01-15
-dateModified: 2026-01-15
+date: 2026-02-12
+dateModified: 2026-02-12
 description: Tout comme le gouvernement du Canada, nous devons respecter les lois, politiques, directives et normes applicables lorsque nous communiquons avec le public.
-title: Lignes directrices centrales et recherche en matière d’IA
+title: Lignes directrices centrales et recherche en matière d’IA pour les applications d'aide à l'IA
 ---
 
 Tout comme le gouvernement du Canada, nous devons respecter les lois, politiques, directives et normes applicables lorsque nous communiquons avec le public. En ce qui concerne spécifiquement les applications d’aide alimentées par l’IA, vous devez consulter les sources suivantes.
@@ -12,7 +12,7 @@ Tout comme le gouvernement du Canada, nous devons respecter les lois, politiques
 
 Consultez le guide du Secrétariat du Conseil du Trésor du Canada sur l’utilisation de l’IA générative pour concevoir des applications d’aide utilisant l’IA qui sont faciles à utiliser, éthiques, accessibles et dignes de confiance.
 
-- [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html#toc-4)
+- [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html)
 
 Ce guide cite les agents conversationnels publics comme un cas d’utilisation à haut risque et inclut des pratiques exemplaires pour l’utilisation et le déploiement de ces outils. N’oubliez pas de suivre les principes &laquo;&nbsp;<span class="text-uppercase">pretes</span>&nbsp;&raquo;&nbsp;: (pertinent, responsable, équitable, transparent, éclairé et sécurisé) qui sont décrits dans le guide.
 
@@ -39,6 +39,7 @@ Nous avons fondé nos lignes directrices en matière d’IA sur nos propres rech
 ### Gouvernement du Canada
 
 - [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html)
+- [Guide sur les responsabilités ministérielles en matière d’IA](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/guide-responsabilites-ministerielles-matiere-ia.html)
 - [Stratégie en matière d’intelligence artificielle pour la fonction publique fédérale 2025-2027](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/gc-ai-strategie-apercu.html)
 - [Utilisation responsable de l’intelligence artificielle au gouvernement](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai.html)
 - [Politique sur les services et le numérique](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32603&section=html)
@@ -48,13 +49,18 @@ Nous avons fondé nos lignes directrices en matière d’IA sur nos propres rech
 
 ### Gouvernement du Royaume-Uni
 
-- <span lang="en">[We’re running a private beta of GOV.UK Chat – Inside GOV.UK](https://insidegovuk.blog.gov.uk/2024/11/05/were-running-a-private-beta-of-gov-uk-chat/)</span> (en anglais seulement)
-- <span lang="en">[Experimenting with how generative AI could help GOV.UK users – Inside GOV.UK](https://insidegovuk.blog.gov.uk/2024/01/18/experimenting-with-how-generative-ai-could-help-gov-uk-users/)</span> (en anglais seulement)
-- <span lang="en">[The findings of our first generative AI experiment: GOV.UK Chat – Inside GOV.UK](https://insidegovuk.blog.gov.uk/2024/01/18/the-findings-of-our-first-generative-ai-experiment-gov-uk-chat/)</span> (en anglais seulement)
+<ul>
+  <li><a href="https://insidegovuk.blog.gov.uk/2024/11/05/were-running-a-private-beta-of-gov-uk-chat/"><span lang="en">We're running a private beta of GOV.UK Chat – Inside GOV.UK</span> (en anglais seulement)</a></li>
+  <li><a href="https://insidegovuk.blog.gov.uk/2024/01/18/experimenting-with-how-generative-ai-could-help-gov-uk-users/"><span lang="en">Experimenting with how generative AI could help GOV.UK users – Inside GOV.UK</span> (en anglais seulement)</a></li>
+  <li><a href="https://insidegovuk.blog.gov.uk/2024/01/18/the-findings-of-our-first-generative-ai-experiment-gov-uk-chat/"><span lang="en">The findings of our first generative AI experiment: GOV.UK Chat – Inside GOV.UK</span> (en anglais seulement)</a></li>
+</ul>
+
 
 ### Autres organisations
 
-- <span lang="en">[ChatGOV: Will people trust AI tools to help them use public services? \| The Behavioural Insights Team](https://www.bi.team/blogs/chatgov-will-people-trust-ai-tools-to-help-them-use-public-services/)</span> (en anglais seulement)
-- <span lang="en">[The User Experience of Customer-Service Chat: 20 Guidelines](https://www.nngroup.com/articles/chat-ux/)</span> (en anglais seulement)
-- <span lang="en">[The Shape of AI \| UX Patterns for Artificial Intelligence Design](https://www.shapeof.ai/#:~:text=The%20Shape%20of%20AI&amp;text=How%20will%20patterns%20and%20experiences,is%20more%20important%20than%20ever)</span> (en anglais seulement)
-- <span lang="en">[Generative AI for beginners: User Experience (UX)](https://microsoft.github.io/generative-ai-for-beginners/#/07-building-chat-applications/README?wt.mc_id=academic-105485-koreyst&id=user-experience-ux)</span> (en anglais seulement)
+<ul>
+  <li><a href="https://www.bi.team/blogs/chatgov-will-people-trust-ai-tools-to-help-them-use-public-services/"><span lang="en">ChatGOV: Will people trust AI tools to help them use public services? | The Behavioural Insights Team</span> (en anglais seulement)</a></li>
+  <li><a href="https://www.nngroup.com/articles/chat-ux/"><span lang="en">The User Experience of Customer-Service Chat: 20 Guidelines</span> (en anglais seulement)</a></li>
+  <li><a href="https://www.shapeof.ai/#:~:text=The%20Shape%20of%20AI&text=How%20will%20patterns%20and%20experiences,is%20more%20important%20than%20ever"><span lang="en">The Shape of AI | UX Patterns for Artificial Intelligence Design</span> (en anglais seulement)</a></li>
+  <li><a href="https://microsoft.github.io/generative-ai-for-beginners/#/07-building-chat-applications/README?wt.mc_id=academic-105485-koreyst&id=user-experience-ux"><span lang="en">Generative AI for beginners: User Experience (UX)</span> (en anglais seulement)</a></li>
+</ul>

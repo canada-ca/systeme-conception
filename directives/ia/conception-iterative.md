@@ -1,9 +1,9 @@
 ---
 altLangPage: https://design.canada.ca/guidance/ai/iterative-design.html
-date: 2026-01-15
-dateModified: 2026-01-15
+date: 2026-02-12
+dateModified: 2026-02-12
 description: L’apprentissage et la rétroaction sont essentiels à la réussite du développement de services agiles. Utilisez ces directives pour tester et itérer votre application d’aide à l’IA.
-title: Conception itérative
+title: Conception itérative pour les applications d'aide à l'IA
 ---
 
 L’apprentissage et la rétroaction sont essentiels à la réussite du développement de services agiles. Le rythme de développement de l’IA générative est rapide, il vous faut donc expérimenter et apprendre rapidement. Les essais doivent être une activité permanente qui couvre l’ensemble du cycle de vie de la conception des services. Il ne s’agit pas seulement de vérifier les fonctionnalités, mais aussi un large éventail de facteurs, tels que l’expérience de l’utilisateur, les caractéristiques de l’outil, l’accessibilité, le respect des langues officielles, l’inclusivité, les biais involontaires, etc.
@@ -30,9 +30,9 @@ L’identification active des problèmes rencontrés par les utilisateurs peut �
 
 Mobilisez très tôt les chercheurs en expérience utilisateur (EU) afin qu’ils puissent commencer les essais de prototypes de conception avec les possibles utilisateurs finaux. Appliquez les meilleures pratiques pour les institutions fédérales déployant un outil d’IA générative du Secrétariat du Conseil du Trésor du Canada&nbsp;:
 
-- [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html#toc-4)
+- [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html)
 
-### Utiliser les ensembles de données d’évaluation provenant de la rétroaction sur Canada.ca
+### Utiliser les ensembles de données d’évaluation provenant de la rétroaction sur Canada.ca {#utiliser-les-ensembles-de-données-des-évaluations}
 
 Chaque jour de semaine, les utilisateurs laissent jusqu’à 4 000 commentaires sur le site, souvent sous forme de questions. Consultez votre équipe Web ou le [Bureau de l’expérience Canada.ca](mailto:cds.dto-btn.snc@servicecanada.gc.ca) (Service numérique canadien) pour générer un ensemble de données d’évaluation à partir des commentaires des utilisateurs. Avant d’utiliser l’ensemble de données, assurez-vous de supprimer tous les commentaires contenant des renseignements personnels caviardés (commentaires comprenant le caractère \#).
 
