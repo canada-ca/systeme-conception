@@ -23,7 +23,7 @@ information:
     description: Utilisez un style adapté pour mobile, évitez les doublons, ajoutez des dates, formulez les informations sous forme d’instructions, utilisez des listes à puces et rédigez des phrases courtes
   - title: Directives pour la conception des applications d’aide à l’IA
     link: /directives/ia/index.html
-    description: Lignes directrices centrales et directives de recherche, de conception et de contenu sur l’IA, confidentialité et sécurité, conception itérative, liste de vérification comme références
+    description: Lignes directrices centrales et recherche en matière d’IA, conception, contenu, protection et sécurité, conception itérative, liste de contrôle de référence
 
 title: Directives relatives à la conception pour Canada.ca
 ---
