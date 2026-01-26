@@ -552,7 +552,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ "directives/ia/lignes-directrices-centrales-recherche.html" | absolute_url }}\">Lignes directrices centrales pour la recherche</a>",
+      "NAME": "<a href=\"{{ "directives/ia/lignes-directrices-centrales-recherche.html" | absolute_url }}\">Lignes directrices centrales pour la recherche pour les applications d'aide à l'IA</a>",
       "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
       "DESCRIPTION": "Vision des applications d’aide utilisant l’IA, Guide sur l’utilisation de l’IA générative, principales personnes-ressources",
       "WHENTOUSE": "Vision des applications d’aide utilisant l’IA, Guide sur l’utilisation de l’IA générative, principales personnes-ressources",
@@ -562,7 +562,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ "directives/ia/lignes-directrices-conception.html" | absolute_url }}\">Lignes directrices sur la conception</a>",
+      "NAME": "<a href=\"{{ "directives/ia/lignes-directrices-conception.html" | absolute_url }}\">Lignes directrices sur la conception pour les applications d'aide à l'IA</a>",
       "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
       "DESCRIPTION": "Nommer votre application alimentée par l’IA, spécifications de conception",
       "WHENTOUSE": "Nommer votre application alimentée par l’IA, spécifications de conception",
@@ -572,7 +572,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ "directives/ia/lignes-directrices-contenu.html" | absolute_url }}\">Lignes directrices sur le contenu</a>",
+      "NAME": "<a href=\"{{ "directives/ia/lignes-directrices-contenu.html" | absolute_url }}\">Lignes directrices sur le contenu pour les applications d'aide à l'IA</a>",
       "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
       "DESCRIPTION": "Avis, transparence et responsabilité, liens de citation, accessibilité, langue, longueur des réponses",
       "WHENTOUSE": "Avis, transparence et responsabilité, liens de citation, accessibilité, langue, longueur des réponses",
@@ -582,7 +582,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ "directives/ia/protection-securite.html" | absolute_url }}\">Protection des renseignements personnels</a>",
+      "NAME": "<a href=\"{{ "directives/ia/protection-securite.html" | absolute_url }}\">Protection et sécurité pour les applications d'aide à l'IA</a>",
       "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
       "DESCRIPTION": "Assurer la sécurité, le respect et la sûreté des intrants, techniques de rédaction, menaces, conservation et suppression, débridage, conformité avec la cybersécurité organisationnelle",
       "WHENTOUSE": "Assurer la sécurité, le respect et la sûreté des intrants, techniques de rédaction, menaces, conservation et suppression, débridage, conformité avec la cybersécurité organisationnelle",
@@ -592,7 +592,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ "directives/ia/conception-iterative.html" | absolute_url }}\">Conception itérative</a>",
+      "NAME": "<a href=\"{{ "directives/ia/conception-iterative.html" | absolute_url }}\">Conception itérative pour les applications d'aide à l'IA</a>",
       "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
       "DESCRIPTION": "Étapes de la conception, essais par les utilisateurs, étapes de lancement, boucle de rétroaction, mécanismes de rétroaction",
       "WHENTOUSE": "Étapes de la conception, essais par les utilisateurs, étapes de lancement, boucle de rétroaction, mécanismes de rétroaction",
@@ -602,7 +602,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ "directives/ia/liste-controle-reference.html" | absolute_url }}\">Liste de contrôle de référence</a>",
+      "NAME": "<a href=\"{{ "directives/ia/liste-controle-reference.html" | absolute_url }}\">Liste de contrôle de référence pour les applications d'aide à l'IA</a>",
       "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
       "DESCRIPTION": "Document de référence rapide pour tous les éléments à prendre en compte lors de la création d’une application d’aide utilisant l’IA",
       "WHENTOUSE": "Document de référence rapide pour tous les éléments à prendre en compte lors de la création d’une application d’aide utilisant l’IA",
