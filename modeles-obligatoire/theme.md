@@ -86,7 +86,7 @@ Trouvez des exemples pratiques et du code pour mettre en œuvre le modèle strat
 
 La référence pour la mise en œuvre explique comment configurer le modèle stratifié pour la page de thème.
 
-- [Documentation sur le modèle stratifié pour la page de thème – GCWeb]()
+- [Documentation sur le modèle stratifié pour la page de thème – GCWeb (BOEW)]()
 
 ## Recherche et justification {#recherche-et-justification}
 
