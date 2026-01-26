@@ -6,7 +6,7 @@ breadcrumbs:
   - link: "https://conception.canada.ca"
     title: "Conception"
 date: 2025-08-29
-dateModified: 2026-01-15
+dateModified: 2026-01-26
 description: Utilisez ces directives pour créer et gérer le contenu Web du gouvernement du Canada
 information:
   - title: Programmes ou services fermés

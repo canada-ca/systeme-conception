@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/guidance/ai/central-guidance-research.html
-date: 2026-01-15
-dateModified: 2026-01-15
+date: 2026-01-26
+dateModified: 2026-01-26
 description: Tout comme le gouvernement du Canada, nous devons respecter les lois, politiques, directives et normes applicables lorsque nous communiquons avec le public.
 title: Lignes directrices centrales et recherche en matière d’IA
 ---

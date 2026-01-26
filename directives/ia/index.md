@@ -8,7 +8,7 @@ breadcrumbs:
   - link: "https://conception.canada.ca/directives/index.html"
     title: "Directives"
 date: 2026-01-15
-dateModified: 2026-01-15
+dateModified: 2026-01-26
 description: Lignes directrices centrales et recherche en matière d’IA, lignes directrices sur la conception et le contenu, protection des renseignements personnels et sécurité, conception itérative, liste de vérification
 information:
   - title: Lignes directrices centrales et recherche en matière d’IA

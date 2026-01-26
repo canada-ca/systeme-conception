@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/guidance/ai/reference-checklist.html
-date: 2026-01-15
-dateModified: 2026-01-15
+date: 2026-01-26
+dateModified: 2026-01-26
 description: Utilisez cette liste de contrôle comme référence rapide pour tout ce que vous devez prendre en compte lors de la création d'une application d'aide à l'IA.
 script: /js/plugins/gc-checklist.js
 title: Liste de contrôle de référence
