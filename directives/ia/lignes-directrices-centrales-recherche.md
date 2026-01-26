@@ -48,13 +48,18 @@ Nous avons fondé nos lignes directrices en matière d’IA sur nos propres rech
 
 ### Gouvernement du Royaume-Uni
 
-- <span lang="en">[We’re running a private beta of GOV.UK Chat – Inside GOV.UK</span> (en anglais seulement)](https://insidegovuk.blog.gov.uk/2024/11/05/were-running-a-private-beta-of-gov-uk-chat/)
-- <span lang="en">[Experimenting with how generative AI could help GOV.UK users – Inside GOV.UK</span> (en anglais seulement)](https://insidegovuk.blog.gov.uk/2024/01/18/experimenting-with-how-generative-ai-could-help-gov-uk-users/)
-- <span lang="en">[The findings of our first generative AI experiment: GOV.UK Chat – Inside GOV.UK</span> (en anglais seulement)](https://insidegovuk.blog.gov.uk/2024/01/18/the-findings-of-our-first-generative-ai-experiment-gov-uk-chat/)
+<ul>
+  <li><a href="https://insidegovuk.blog.gov.uk/2024/11/05/were-running-a-private-beta-of-gov-uk-chat/"><span lang="en">We're running a private beta of GOV.UK Chat – Inside GOV.UK</span> (en anglais seulement)</a></li>
+  <li><a href="https://insidegovuk.blog.gov.uk/2024/01/18/experimenting-with-how-generative-ai-could-help-gov-uk-users/"><span lang="en">Experimenting with how generative AI could help GOV.UK users – Inside GOV.UK</span> (en anglais seulement)</a></li>
+  <li><a href="https://insidegovuk.blog.gov.uk/2024/01/18/the-findings-of-our-first-generative-ai-experiment-gov-uk-chat/"><span lang="en">The findings of our first generative AI experiment: GOV.UK Chat – Inside GOV.UK</span> (en anglais seulement)</a></li>
+</ul>
+
 
 ### Autres organisations
 
-- <span lang="en">[ChatGOV: Will people trust AI tools to help them use public services? \| The Behavioural Insights Team</span> (en anglais seulement)](https://www.bi.team/blogs/chatgov-will-people-trust-ai-tools-to-help-them-use-public-services/)
-- <span lang="en">[The User Experience of Customer-Service Chat: 20 Guidelines</span> (en anglais seulement)](https://www.nngroup.com/articles/chat-ux/)
-- <span lang="en">[The Shape of AI \| UX Patterns for Artificial Intelligence Design</span> (en anglais seulement)](https://www.shapeof.ai/#:~:text=The%20Shape%20of%20AI&amp;text=How%20will%20patterns%20and%20experiences,is%20more%20important%20than%20ever)
-- <span lang="en">[Generative AI for beginners: User Experience (UX)</span> (en anglais seulement)](https://microsoft.github.io/generative-ai-for-beginners/#/07-building-chat-applications/README?wt.mc_id=academic-105485-koreyst&id=user-experience-ux)
+<ul>
+  <li><a href="https://www.bi.team/blogs/chatgov-will-people-trust-ai-tools-to-help-them-use-public-services/"><span lang="en">ChatGOV: Will people trust AI tools to help them use public services? | The Behavioural Insights Team</span> (en anglais seulement)</a></li>
+  <li><a href="https://www.nngroup.com/articles/chat-ux/"><span lang="en">The User Experience of Customer-Service Chat: 20 Guidelines</span> (en anglais seulement)</a></li>
+  <li><a href="https://www.shapeof.ai/#:~:text=The%20Shape%20of%20AI&text=How%20will%20patterns%20and%20experiences,is%20more%20important%20than%20ever"><span lang="en">The Shape of AI | UX Patterns for Artificial Intelligence Design</span> (en anglais seulement)</a></li>
+  <li><a href="https://microsoft.github.io/generative-ai-for-beginners/#/07-building-chat-applications/README?wt.mc_id=academic-105485-koreyst&id=user-experience-ux"><span lang="en">Generative AI for beginners: User Experience (UX)</span> (en anglais seulement)</a></li>
+</ul>
