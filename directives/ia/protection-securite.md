@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/guidance/ai/privacy-security.html
 date: 2026-01-26
 dateModified: 2026-01-26
 description: Suivez ces directives pour protéger les renseignements personnels et assurer la sécurité lors de la création d'applications d'IA générative.
-title: Protection et sécurité
+title: Protection et sécurité pour les applications d'aide à l'IA
 ---
 
 ## Sur cette page
