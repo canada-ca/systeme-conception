@@ -144,7 +144,7 @@ Pour s’assurer que votre application d’aide utilisant l’IA n’entraîne p
 Veillez à tester l’application pour déceler les biais involontaires et autres résultats préjudiciables.
 
 - Veiller à ce que les réponses proviennent uniquement de sources fiables, telles que Canada.ca, afin de minimiser le risque de fournir des informations biaisées ou préjudiciables.
-- Mettre en place un système de rédaction du contenu pour traiter les entrées contenant un langage inapproprié, voir la section [Protection et sécurité](protection-securite.md).
+- Mettre en place un système de rédaction du contenu pour traiter les entrées contenant un langage inapproprié, voir la section [Protection et sécurité](protection-securite.html).
 - Le Guide des normes numériques contient plus d’informations sur la manière d’atténuer les biais potentiels, voir [Concevoir des services éthiques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada/concevoir-services-ethiques.html).
 
 ## Gestion des assistants en ligne
