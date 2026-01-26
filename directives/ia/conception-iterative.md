@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/guidance/ai/iterative-design.html
 date: 2026-01-26
 dateModified: 2026-01-26
 description: L’apprentissage et la rétroaction sont essentiels à la réussite du développement de services agiles. Utilisez ces directives pour tester et itérer votre application d’aide à l’IA.
-title: Conception itérative
+title: Conception itérative pour les applications d'aide à l'IA
 ---
 
 L’apprentissage et la rétroaction sont essentiels à la réussite du développement de services agiles. Le rythme de développement de l’IA générative est rapide, il vous faut donc expérimenter et apprendre rapidement. Les essais doivent être une activité permanente qui couvre l’ensemble du cycle de vie de la conception des services. Il ne s’agit pas seulement de vérifier les fonctionnalités, mais aussi un large éventail de facteurs, tels que l’expérience de l’utilisateur, les caractéristiques de l’outil, l’accessibilité, le respect des langues officielles, l’inclusivité, les biais involontaires, etc.
