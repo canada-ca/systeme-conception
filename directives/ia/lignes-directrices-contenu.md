@@ -137,7 +137,7 @@ Pour s’assurer que votre application d’aide utilisant l’IA n’entraîne p
 
 - [Analyse comparative entre les sexes Plus (ACS Plus)](https://www.canada.ca/fr/femmes-egalite-genres/analyse-comparative-entre-sexes-plus.html)
 - [Introduction à l’ACS Plus](https://femmes-egalite-genres.canada.ca/gbaplus-course-cours-acsplus/fra/mod00/mod00_01_01.html)
-- [Centre de ressources de l'ACS Plus (lien GCéchange, uniquement accessible par le réseau intranet du gouvernement du Canada)](https://gcxgce.sharepoint.com/:w:/t/10001402/EecWMxWizRhJtOk_1NcjctEBup1mLluIzJaGQfIF4od7tQ?e=CgcbyV)
+- [Centre de ressources de l'ACS Plus (lien GCéchange, uniquement accessible par le réseau intranet du gouvernement du Canada)](https://gcxgce.sharepoint.com/teams/10001323/SitePages/Bienvenue.aspx)
 
 ## Mesures de protection contre les résultats préjudiciables ou biaisés
 
