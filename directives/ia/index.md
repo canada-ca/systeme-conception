@@ -17,7 +17,7 @@ information:
   - title: Lignes directrices sur la conception
     link: /directives/ia/lignes-directrices-conception.html
     description: Nommer votre application alimentée par l’IA, spécifications de conception
-  - title: Lignes directrices sur le contenu
+  - title: Lignes directrices sur le contenu pour les applications d'aide à l'IA
     link: /directives/ia/lignes-directrices-contenu.html
     description: Avis, transparence et responsabilité, liens de citation, accessibilité, langue, longueur des réponses
   - title: Protection et sécurité
