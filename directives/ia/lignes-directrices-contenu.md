@@ -104,7 +104,7 @@ Pour faciliter une communication efficace dans plusieurs langues, suivez ces lig
 
 Dans l’invite de votre système, demandez à l’IA d’utiliser la terminologie officielle du français canadien et de respecter le style trouvé sur Canada.ca pour les réponses en français.
 
-- [Canada.ca French style guide : Guide de rédaction du contenu du site Canada.ca](https://conception.canada.ca/guide-redaction/)
+- [Guide de rédaction du contenu du site Canada.ca](https://conception.canada.ca/guide-redaction/)
 
 ### Traduction et soutien
 
