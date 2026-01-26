@@ -12,7 +12,7 @@ Tout comme le gouvernement du Canada, nous devons respecter les lois, politiques
 
 Consultez le guide du Secrétariat du Conseil du Trésor du Canada sur l’utilisation de l’IA générative pour concevoir des applications d’aide utilisant l’IA qui sont faciles à utiliser, éthiques, accessibles et dignes de confiance.
 
-- [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html#toc-4)
+- [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html)
 
 Ce guide cite les agents conversationnels publics comme un cas d’utilisation à haut risque et inclut des pratiques exemplaires pour l’utilisation et le déploiement de ces outils. N’oubliez pas de suivre les principes &laquo;&nbsp;<span class="text-uppercase">pretes</span>&nbsp;&raquo;&nbsp;: (pertinent, responsable, équitable, transparent, éclairé et sécurisé) qui sont décrits dans le guide.
 
