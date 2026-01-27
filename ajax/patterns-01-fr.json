@@ -731,12 +731,12 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/theme.html\">Page de thème</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-obligatoire/theme.html\">Page de thème stratifiée</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Les pages de thème fournissent un accès aux sujets et aux pages de destination qui appuient l'achèvement des tâches.",
-      "WHENTOUSE": "Permet aux personnes de d&#233;couvrir des services et des renseignements li&#233;s &#224; un th&#232;me ou un sujet pr&#233;cis dans l'ensemble du gouvernement - <strong>Mod&#232;le obligatoire</strong>",
-      "CATEGORY": "Mod&#232;le de page",
-      "TYPE": "Mod&#232;le de th&#232;me, Navigation",
+      "DESCRIPTION": "Directives concernant l’utilisation du modèle stratifié pour la page de thème sur le site Canada.ca. Ce type de page permet aux utilisateurs de trouver des services et des renseignements provenant de tous les sites Web du gouvernement du Canada, regroupés en fonction d’un des thèmes principaux de Canada.ca.",
+      "WHENTOUSE": "Utiliser pour les principaux thèmes de Canada.ca, pour la navigation par thème.",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Navigation, Configuration à l'échelle du site, modèle de thème stratifié",
       "MANDATORY": "Obligatoire",
       "TANDP": "1"
     },{
