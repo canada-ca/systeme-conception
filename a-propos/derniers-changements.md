@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2025-12-18
+dateModified: 2026-01-30
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -11,11 +11,19 @@ title: "Derniers changements apportés à la conception de Canada.ca"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
 </div>
 <div id="expand-collapse">
-<details open="open">
+  <details open="open">
+    <summary><time datetime="2026-01-30">30 janvier 2026</time></summary>
+    <p>L’orientation relative aux médias sociaux a été mise à jour afin d’y préciser que d’autres icônes de médias sociaux peuvent être utilisées et qu’elles peuvent être placées dans un autre ordre.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-01-29">29 janvier 2026</time></summary>
+    <p>Mise à jour de la <a href="{{ "/styles/typographie.html" | absolute_url }}">page sur la typographie</a> afin d'indiquer que la famille de polices Noto Sans Canadian Aboriginal a été ajoutée à Canada.ca.</p>
+  </details>
+  <details>
     <summary><time datetime="2025-12-18">18 décembre 2025</time></summary>
     <p>Ajout d’une alerte à la page de contenu de base pour indiquer qu’elle sera mise hors service et de plutôt utiliser <a href="https://systeme-design.alpha.canada.ca/fr/modeles-de-page/basic/">le modèle de page de base</a> du Système de design GC.</p>
   </details>
-<details>
+  <details>
     <summary><time datetime="2025-12-17">17 décembre 2025</time></summary>
     <p>Ajout d’une alerte à le <a href="{{ site.url }}/configurations-conception-communes/carrousels.html">modèle de conception de carrousels</a> pour indiquer qu’elle sera mise hors service. Nos recherches montrent que les carrousels ne sont pas un outil promotionnel efficace. Pour en savoir plus, consultez cet article de blogue&nbsp;:</p>
       <ul>
@@ -26,54 +34,54 @@ title: "Derniers changements apportés à la conception de Canada.ca"
     <summary><time datetime="2025-12-15">15 décembre 2025</time></summary>
     <p>Ajout d’une alerte au <a href="{{ site.url }}/modeles-recommandes/pages-lancement-service.html">modèle de pages de lancement d’un service</a> pour indiquer qu’il sera mis hors service et qu’il convient d’envisager <a href="{{ site.url }}/configurations-conception-communes/navigation-metro.html">la configuration de navigation de style métro</a> pour les services et les processus.</p>
   </details>
-   <details>
-      <summary><time datetime="2025-12-03">3 décembre 2025</time></summary>
-      <p>Mise à jour des <a href="{{ site.url }}/configurations-conception-communes/collaborateurs.html">directives sur la configuration collaborateurs</a> afin de préciser quand il convient d’utiliser la configuration collaborateurs.</p>
-    </details>
+  <details>
+    <summary><time datetime="2025-12-03">3 décembre 2025</time></summary>
+    <p>Mise à jour des <a href="{{ site.url }}/configurations-conception-communes/collaborateurs.html">directives sur la configuration collaborateurs</a> afin de préciser quand il convient d’utiliser la configuration collaborateurs.</p>
+  </details>
   <details>
     <summary><time datetime="2025-12-02">2 décembre 2025</time></summary>
     <p>Mise à jour du modèle de <a href="{{ site.url }}/configurations-conception-communes/services-renseignements.html">services et de renseignements</a> pour inclure des directives sur l’utilisation des titres de section, de bandes grises et/ou de la mise en page à l’aide d’une seule colonne.</p>
   </details>
   <details>
-      <summary><time datetime="2025-11-28">28 novembre 2025</time></summary>
-      <p>Ajout d’une alerte au <a href="{{ site.url }}/modeles-recommandes/pages-evenements-promotionnels.html">modèle de pages d’événements promotionnels</a> pour indiquer qu’il sera mis hors service. Ajout d’informations indiquant que si votre événement est lié à une initiative de marketing prévue par le gouvernement du Canada, consultez les <a href="{{ site.url }}/directives/campagnes.html">directives sur le contenu Web pour soutenir les campagnes publicitaires ou de marketing</a>.</p>
-      <p>Ajout d’une alerte à la <a href="{{ site.url }}/configurations-conception-communes/liens-connexes.html">configuration de conception des liens connexes</a> pour indiquer qu’elle sera mise hors service et qu’il faudra suivre les <a href="{{ site.url }}/guide-redaction/#toc11">directives du Guide de rédaction de contenu de Canada.ca sur les liens</a>.</p>
-      <p>Ajout d’une alerte à la <a href="{{ site.url }}/configurations-conception-communes/widget-medias-sociaux.html">configuration de conception des fils des réseaux de médias sociaux</a> pour indiquer qu’elle sera mise hors service.</p>
-    </details>
-   <details>
-      <summary><time datetime="2025-11-27">27 novembre 2025</time></summary>
-      <p>Ajout d’alertes à plusieurs modèles de configuration de conception pour informer les utilisateurs que le modèle de configuration sera mis hors service.</p>
-      <p>Les configurations concernées sont les suivantes&nbsp;:</p>
-      <ul>
-        <li><a href="{{ site.url }}/configurations-conception-communes/icones.html">Configuration de conception des icônes</a></li>
-        <li><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Modèle de pages de profil pour les partenariats et les ententes de collaboration</a></li>
-        <li><a href="{{ site.url }}/modeles-recommandes/pages-description-programme.html">Modèle de pages de description de programme</a></li>
-        <li><a href="{{ site.url }}/configurations-conception-communes/ce-que-nous-faisons.html">Configuration de conception des pages Ce que nous faisons</a></li>
-      </ul>
-    </details>
-     <details>
-        <summary><time datetime="2025-11-26">26 novembre 2025</time></summary>
-        <p>Ajout d’une alerte à la <a href="{{ site.url }}/modeles-obligatoire/pages-publics-cibles.html">page de public cible</a> pour indiquer que cette configuration sera mise hors service, car les pages de public cible sont désormais traitées comme des thèmes.</p>
-        <p>Ajout d’une alerte dans les <a href="{{ site.url }}/modeles-recommandes/pages-directives-lois.html">pages de directives sur les lois</a> pour indiquer que cette configuration sera mise hors service, car elle n’était pas largement utilisée.</p>
-      </details>
-      <details>
-        <summary><time datetime="2025-11-25">25 novembre 2025</time></summary>
-        <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/contenu-reductible.html">configuration «&nbsp;développer/réduire&nbsp;»</a> avec des informations sur le moment où il convient d’inclure des boutons «&nbsp;développer tout/réduire tout&nbsp;», et ajout de notes de mise en œuvre.</p>
-      </details>
-      <details>
-        <summary><time datetime="2025-11-21">21 novembre 2025</time></summary>
-        <p>Ajout d’informations dans les <a href="{{ site.url }}/styles/typographie.html">directives sur la typographie</a> sur la manière de personnaliser la typographie pour prendre en charge des langues supplémentaires.</p>
-      </details>
-      <details>
-        <summary><time datetime="2025-10-24">24 octobre 2025</time></summary>
-        <p>Mise à jour des <a href="{{ site.url }}/modeles-obligatoire/sujet.html">directives sur les pages de sujet</a> afin de clarifier ce qui peut être inclus dans l’espace flexible de la page, y compris les vidéos et les images.</p>
-        <p>Retrait de deux configurations de conception et des liens croisés correspondants sur Conception.canada.ca. Modifications&nbsp;:</p>
-        <ul>
-          <li>Retrait de la configuration de conception partager cette page</li>
-          <li>Retrait de la configuration de conception signaler un problème</li>
-          <li>Retrait des liens vers partager cette page et signaler un problème dans les tableaux filtrables de la page <a href="{{ site.url }}/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception pour Canada.ca</a> et de la page <a href="{{ site.url }}">Concevoir pour Canada.ca</a>.</li>
-        </ul>
-      </details>
+    <summary><time datetime="2025-11-28">28 novembre 2025</time></summary>
+    <p>Ajout d’une alerte au <a href="{{ site.url }}/modeles-recommandes/pages-evenements-promotionnels.html">modèle de pages d’événements promotionnels</a> pour indiquer qu’il sera mis hors service. Ajout d’informations indiquant que si votre événement est lié à une initiative de marketing prévue par le gouvernement du Canada, consultez les <a href="{{ site.url }}/directives/campagnes.html">directives sur le contenu Web pour soutenir les campagnes publicitaires ou de marketing</a>.</p>
+    <p>Ajout d’une alerte à la <a href="{{ site.url }}/configurations-conception-communes/liens-connexes.html">configuration de conception des liens connexes</a> pour indiquer qu’elle sera mise hors service et qu’il faudra suivre les <a href="{{ site.url }}/guide-redaction/#toc11">directives du Guide de rédaction de contenu de Canada.ca sur les liens</a>.</p>
+    <p>Ajout d’une alerte à la <a href="{{ site.url }}/configurations-conception-communes/widget-medias-sociaux.html">configuration de conception des fils des réseaux de médias sociaux</a> pour indiquer qu’elle sera mise hors service.</p>
+  </details>
+  <details>
+    <summary><time datetime="2025-11-27">27 novembre 2025</time></summary>
+    <p>Ajout d’alertes à plusieurs modèles de configuration de conception pour informer les utilisateurs que le modèle de configuration sera mis hors service.</p>
+    <p>Les configurations concernées sont les suivantes&nbsp;:</p>
+    <ul>
+      <li><a href="{{ site.url }}/configurations-conception-communes/icones.html">Configuration de conception des icônes</a></li>
+      <li><a href="{{ site.url }}/modeles-recommandes/profil-partenariat-entente-collaboration.html">Modèle de pages de profil pour les partenariats et les ententes de collaboration</a></li>
+      <li><a href="{{ site.url }}/modeles-recommandes/pages-description-programme.html">Modèle de pages de description de programme</a></li>
+      <li><a href="{{ site.url }}/configurations-conception-communes/ce-que-nous-faisons.html">Configuration de conception des pages Ce que nous faisons</a></li>
+    </ul>
+  </details>
+  <details>
+    <summary><time datetime="2025-11-26">26 novembre 2025</time></summary>
+    <p>Ajout d’une alerte à la <a href="{{ site.url }}/modeles-obligatoire/pages-publics-cibles.html">page de public cible</a> pour indiquer que cette configuration sera mise hors service, car les pages de public cible sont désormais traitées comme des thèmes.</p>
+    <p>Ajout d’une alerte dans les <a href="{{ site.url }}/modeles-recommandes/pages-directives-lois.html">pages de directives sur les lois</a> pour indiquer que cette configuration sera mise hors service, car elle n’était pas largement utilisée.</p>
+  </details>
+  <details>
+    <summary><time datetime="2025-11-25">25 novembre 2025</time></summary>
+    <p>Mise à jour de la <a href="{{ site.url }}/configurations-conception-communes/contenu-reductible.html">configuration «&nbsp;développer/réduire&nbsp;»</a> avec des informations sur le moment où il convient d’inclure des boutons «&nbsp;développer tout/réduire tout&nbsp;», et ajout de notes de mise en œuvre.</p>
+  </details>
+  <details>
+    <summary><time datetime="2025-11-21">21 novembre 2025</time></summary>
+    <p>Ajout d’informations dans les <a href="{{ site.url }}/styles/typographie.html">directives sur la typographie</a> sur la manière de personnaliser la typographie pour prendre en charge des langues supplémentaires.</p>
+  </details>
+  <details>
+    <summary><time datetime="2025-10-24">24 octobre 2025</time></summary>
+    <p>Mise à jour des <a href="{{ site.url }}/modeles-obligatoire/sujet.html">directives sur les pages de sujet</a> afin de clarifier ce qui peut être inclus dans l’espace flexible de la page, y compris les vidéos et les images.</p>
+    <p>Retrait de deux configurations de conception et des liens croisés correspondants sur Conception.canada.ca. Modifications&nbsp;:</p>
+    <ul>
+      <li>Retrait de la configuration de conception partager cette page</li>
+      <li>Retrait de la configuration de conception signaler un problème</li>
+      <li>Retrait des liens vers partager cette page et signaler un problème dans les tableaux filtrables de la page <a href="{{ site.url }}/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception pour Canada.ca</a> et de la page <a href="{{ site.url }}">Concevoir pour Canada.ca</a>.</li>
+    </ul>
+  </details>
   <details>
     <summary><time datetime="2025-10-10">10 octobre 2025</time></summary>
     <p>Nous avons fait les changements suivants&nbsp;:</p>
@@ -110,7 +118,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
       <li><a href="{{ site.url }}/configurations-conception-communes/collaborateurs.html">Collaborateurs</a>&nbsp;: changement du design, lequel remplace la configuration d’institution responsable</li>
     </ul>
   </details>
- <details>
+  <details>
     <summary><time datetime="2024-08-28">28 août 2024</time></summary>
     <p>Lancement d’une nouvelle architecture de l’information et de nouveau contenu pour conception.canada.ca.</p>
     <p>Nous avons notamment&nbsp;:</p>
