@@ -14,9 +14,6 @@ title: "Derniers changements apportés à la conception de Canada.ca"
   <details open="open">
     <summary><time datetime="2026-01-30">30 janvier 2026</time></summary>
     <p>L’orientation relative aux médias sociaux a été mise à jour afin d’y préciser que d’autres icônes de médias sociaux peuvent être utilisées et qu’elles peuvent être placées dans un autre ordre.</p>
-  </details>
-  <details>
-    <summary><time datetime="2026-01-29">29 janvier 2026</time></summary>
     <p>Mise à jour de la <a href="{{ "/styles/typographie.html" | absolute_url }}">page sur la typographie</a> afin d'indiquer que la famille de polices Noto Sans Canadian Aboriginal a été ajoutée à Canada.ca.</p>
   </details>
   <details>
