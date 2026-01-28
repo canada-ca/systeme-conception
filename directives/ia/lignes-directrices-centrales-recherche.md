@@ -39,6 +39,7 @@ Nous avons fondé nos lignes directrices en matière d’IA sur nos propres rech
 ### Gouvernement du Canada
 
 - [Guide sur l’utilisation de l’intelligence artificielle générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html)
+- [Guide sur les responsabilités ministérielles en matière d’IA](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/guide-responsabilites-ministerielles-matiere-ia.html)
 - [Stratégie en matière d’intelligence artificielle pour la fonction publique fédérale 2025-2027](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/gc-ai-strategie-apercu.html)
 - [Utilisation responsable de l’intelligence artificielle au gouvernement](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai.html)
 - [Politique sur les services et le numérique](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32603&section=html)
