@@ -26,7 +26,7 @@ Sélectionnez les options suivantes lors de la soumission de votre demande&nbsp;
 > Catégorie > Sondages sur le site Web
 > Sous-Catégorie > Sondage sur la réussite de tâches du GC&nbsp;: Demander une modification à la liste de tâches
 
-Les modifications seront examinées par les responsables des thèmes, le Bureau de la transformation numérique et l’Éditeur principal, puis elles seront compilées et apportées chaque mois.
+Les modifications seront examinées par les responsables des thèmes, le Bureau de l’expérience Canada.ca et l’Éditeur principal, puis elles seront compilées et apportées chaque mois.
 
 [Soumettre une demande au Bureau de service (accessible seulement sur le réseau du GC).](http://requestform.portal.gc.ca/billets.html)
 

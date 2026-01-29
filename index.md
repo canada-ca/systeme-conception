@@ -1,37 +1,46 @@
 ---
 altLangPage: https://design.canada.ca
 date: 2020-12-17
-dateModified: 2024-08-26
-description: "Le conception de Canada.ca contient des styles, des modèles et des configurations réutilisables qui rendent les services numériques du gouvernement du Canada plus conviviaux, plus cohérents et plus fiables."
+dateModified: 2024-09-08
+description: "Le site de conception de Canada.ca contient des styles, des modèles et des configurations réutilisables qui rendent les services numériques du gouvernement du Canada plus conviviaux, plus cohérents et plus fiables."
+information:
+  - title: Spécifications de Canada.ca
+    link: /specifications.html
+    description: Qui doit utiliser la conception de Canada.ca, éléments obligatoires, principes de conception, architecture de l’information et trouvabilité, modèles et configurations
+  - title: Amélioration continue du contenu Web
+    link: /amelioration-continue.html
+    description: Choisir quoi améliorer, organiser et préparer son équipe, recherche et prototypage, concevoir le contenu, suivi et mesure du succès
+  - title: Blogue Canada.ca
+    link: "https://blogue.canada.ca/"
+    description: Données probantes et observations relatives à l’amélioration de l’information et des services dans Canada.ca
+  - title: Résumés de recherche
+    link: /resumes-recherche/
+    description: Études menées dans le but de faciliter la recherche et la compréhension des informations et services du gouvernement du Canada
+  - title: À propos de Canada.ca
+    link: https://www.canada.ca/fr/gouvernement/a-propos-de-canada-ca.html
+    description: En demande, analytique de Canada.ca, coordonnées du gouvernement du Canada
+  - title: Directives relatives à la conception pour Canada.ca
+    link: /directives/
+    description: Utilisez ces directives pour créer et gérer du contenu Web
 layout: "without-h1"
 title: "Concevoir pour Canada.ca"
 ---
 <h1 property="name" id="wb-cont" dir="ltr">Concevoir pour Canada.ca</h1>
 <p>Éléments obligatoires de Canada.ca, principes de rédaction, comment organiser le contenu pour le rendre facile à trouver, comment optimiser le contenu Web, données probantes sur les choix de conception.</p>
-<section>
-  <div class="row">
-    <section class="wb-eqht gc-drmt">
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a></h3>
-        <p>Qui doit utiliser la conception de Canada.ca, éléments obligatoires, principes de conception, architecture de l’information et trouvabilité, modèles et configurations</p>
-      </div>
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/amelioration-continue.html">Amélioration continue du contenu Web</a></h3>
-        <p>Choisir quoi améliorer, organiser et préparer son équipe, recherche et prototypage, concevoir le contenu, suivi et mesure du succès</p>
-      </div>
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.urlblogue }}">Blogue Canada.ca</a></h3>
-        <p>Données probantes et observations relatives à l’amélioration de l’information et des services dans Canada.ca</p>
-      </div>
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/resumes-recherche/">Résumés de recherche</a></h3>
-        <p>Études menées dans le but de faciliter la recherche et la compréhension des informations et services du gouvernement du Canada</p>
-      </div>
-      <div class="col-md-4">
-        <h3 class="h5"><a href="{{ site.url }}/a-propos/">À propos de Canada.ca</a></h3>
-        <p>En demande, analytique de Canada.ca, coordonnées du gouvernement du Canada</p>
-      </div>
-    </section>
+
+<section class="gc-srvinfo">
+  <h2 class="wb-inv">Services et renseignements</h2>
+  <div class="row wb-eqht-grd">
+    {%- for info in page.information -%}
+    <div class="col-lg-4 col-md-6">
+      {% if info.link contains 'http' %}
+        <h3><a href="{{ info.link }}">{{ info.title }}</a></h3>
+      {% else %}
+        <h3><a href="{{ info.link | absolute_url }}">{{ info.title }}</a></h3>
+      {% endif %}
+      <p>{{ info.description }}</p>
+    </div>
+    {%- endfor -%}
   </div>
 </section>
 <section>
@@ -40,7 +49,7 @@ title: "Concevoir pour Canada.ca"
     <div class="col-md-3 small">
       <details open>
         <summary class="bg-primary text-center">Sources</summary>
-        <form class="wb-tables-filter mrgn-lft-md mrgn-rght-md" data-bind-to="design">
+        <form class="wb-tables-filter mrgn-lft-md mrgn-rght-md" data-bind-to="design" data-gc-analytics-formname="ESDC|EDSC:Find guidance filter" data-gc-analytics-collect='[{"value":"input[type=checkbox]","emptyField": "n/a"}]'>
           <div class="row">
             <div class="form-group">
               <fieldset>

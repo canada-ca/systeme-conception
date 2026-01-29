@@ -1,11 +1,20 @@
 ---
 altLangPage: https://design.canada.ca/recommended-templates/generic-destination.html
 date: null
-dateModified: '2019-11-28'
+dateModified: '2025-12-17'
 description: null
-title: " Page de contenu de base - Modèle recommandé de Canada.ca"
+title: "Page de contenu de base"
 ---
 
+
+<section class="alert alert-info mrgn-tp-md">
+  <p>Nous retirons ce modèle. Vous pouvez utiliser le <a href="https://systeme-design.alpha.canada.ca/fr/modeles-de-page/basic/">modèle de page de base</a> du Système de design GC.</p>
+  <p>Vous pouvez aussi combiner les éléments et les modèles obligatoires tirés de conception.canada.ca afin de créer une page qui aidera les utilisateurs à accomplir leurs tâches&nbsp;:</p>
+  <ul>
+    <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires de la conception de Canada.ca</a></li>
+    <li><a href="https://conception.canada.ca/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></li>
+  </ul>
+</section>
 
 <div>
 
@@ -35,8 +44,8 @@ title: " Page de contenu de base - Modèle recommandé de Canada.ca"
     </a>
    </li>
    <li>
-    <a href="#discussion">
-     Discussion
+    <a href="#changements">
+     Derniers changements
     </a>
    </li>
   </ul>
@@ -122,27 +131,6 @@ title: " Page de contenu de base - Modèle recommandé de Canada.ca"
       </tr>
       <tr>
        <td>
-        <a href="../mise-en-page/generique-institution.html">
-         Avec institution responsable
-        </a>
-       </td>
-       <td>
-        <ul>
-         <li>
-          <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html#wp5-1">
-           Titre de page
-          </a>
-         </li>
-         <li>
-          <a href="../configurations-conception-communes/institution-responsable.html">
-           Institution responsable
-          </a>
-         </li>
-        </ul>
-       </td>
-      </tr>
-      <tr>
-       <td>
         <a href="../mise-en-page/generique-toc.html">
          Avec table des matières à l’intérieur de la page
         </a>
@@ -187,4 +175,12 @@ title: " Page de contenu de base - Modèle recommandé de Canada.ca"
     </table>
    </div>
   </div>
+ </section>
+
+<section>
+    <h2 id="changements">Derniers changements</h2>
+    <dl class="dl-horizontal">
+        <dt><time>2025-12-17</time></dt>
+        <dd>ajout d’une alerte pour indiquer qu’une mise hors service est programmée pour ce modèle</dd>
+    </dl>
  </section>

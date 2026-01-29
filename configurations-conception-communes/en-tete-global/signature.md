@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/signature.html"
 date: 2017-10-05
-dateModified: 2023-06-26
+dateModified: 2025-03-28
 description: "Orientation sur l’utilisation de la signature du gouvernement du Canada sur Canada.ca. La signature est un symbole officiel du gouvernement du Canada. Elle s’affiche toujours dans l’en-tête général sur Canada.ca."
 title: "Signature du gouvernement du Canada"
 ---
@@ -16,7 +16,7 @@ title: "Signature du gouvernement du Canada"
 <p>La signature du gouvernement du Canada est un élément obligatoire de l’en-tête général. Elle est un symbole officiel du gouvernement du Canada et combine le symbole du drapeau et &laquo;&nbsp;Gouvernement du Canada&nbsp;&raquo; dans les deux langues officielles.</p>
 <p>La signature du gouvernement du Canada aide les utilisateurs à réaliser que la page sur laquelle ils se trouvent appartient au gouvernement du Canada.</p>
 <div class="pattern-demo mrgn-tp-lg">
-  <figure class="mrgn-bttm-sm"><img src="../../images/01-sig-fr.png" class="img-responsive" alt=""></figure>
+  <figure class="mrgn-bttm-sm"><img src="../images/01-sig-fr.png" class="img-responsive" alt=""></figure>
 </div>
 
 <section>
@@ -68,7 +68,7 @@ title: "Signature du gouvernement du Canada"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Signature du gouvernement du Canada - grand écran</b></figcaption>
-    <img src="../../images/01-sig-fr.png" class="img-responsive" alt="">
+    <img src="../images/01-sig-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Signature du gouvernement du Canada - grand écran</summary>
       <p class="mrgn-tp-lg">La signature du gouvernement du Canada se trouve dans le coin supérieur gauche du site Web. Elle est composée du symbole du drapeau en rouge, suivi des termes &laquo;&nbsp;<strong>Government of Canada</strong>&nbsp;&raquo; en anglais et &laquo;&nbsp;<strong>Gouvernement du Canada</strong>&nbsp;&raquo; en français, les deux étant écrits en noir.</p>
@@ -78,7 +78,7 @@ title: "Signature du gouvernement du Canada"
 <div class="pattern-demo mrgn-tp-lg">
   <figure>
     <figcaption><b>Signature du gouvernement du Canada - petit écran</b></figcaption>
-    <img src="../../images/01-sig-sm-fr.png" class="img-responsive" alt="">
+    <img src="../images/01-sig-sm-fr.png" class="img-responsive" alt="">
     <details class="mrgn-tp-md">
       <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: Signature du gouvernement du Canada - petit écran</summary>
       <p class="mrgn-tp-lg">La signature du gouvernement du Canada se trouve dans le coin supérieur gauche de la page. Elle est composée du symbole du drapeau en rouge, suivi des termes &laquo;&nbsp;<strong>Government of Canada</strong>&nbsp;&raquo; en anglais et &laquo;&nbsp;<strong>Gouvernement du Canada</strong>&nbsp;&raquo; en français, les deux étant écrits en noir.</p>
@@ -108,6 +108,13 @@ title: "Signature du gouvernement du Canada"
             <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM/Service Web géré (lien GCPédia - accessible uniquement sur le réseau du gouvernement du Canada)</a></li>
           </ul>
         </details>
+        <details id="0041" open="open">
+          <summary><strong>Système de design GC</strong></summary>
+          <p class="mrgn-tp-lg">Pour le Système de design GC&nbsp;:</p>
+          <ul>
+            <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/signature/">Documentation de Système de design GC</a></li>
+          </ul>
+        </details>
         <details id="005">
           <summary><strong>SGDC</strong></summary>
           <p class="mrgn-tp-lg">Pour la solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
@@ -116,8 +123,8 @@ title: "Signature du gouvernement du Canada"
           </ul>
         </details>
         <details id="006">
-          <summary><strong>Drupal WxT</strong></summary>
-          <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
+          <summary><strong>Drupal</strong></summary>
+          <p class="mrgn-tp-lg">Pour Drupal&nbsp;:</p>
           <ul>
             <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
           </ul>
@@ -133,7 +140,7 @@ title: "Signature du gouvernement du Canada"
 <h3>Constatations découlant des recherches</h3>
 <p>La confiance et la cohérence sont essentielles. Notre étude sur la confiance du Canada.ca et des recherches antérieures montrent qu’un en-tête cohérent est nécessaire pour maintenir une marque de confiance.</p>
 <p>Par exemple, les gens font davantage confiance à la page lorsque le symbole du drapeau dans la signature du gouvernement du Canada est rouge.</p>
-<p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de la transformation numérique à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
+<p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de l’expérience Canada.ca à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
 
 <h3>Justification stratégique</h3>
 <p>La signature du gouvernement du Canada est définie par le Programme fédéral de l’image de marque. En tant que partie de l’en-tête général, il s’agit d’un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information.</cite></p>

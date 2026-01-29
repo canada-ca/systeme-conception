@@ -3,7 +3,7 @@ altLangPage: "https://design.canada.ca/contact-us/thank-you.html"
 breadcrumbs: false
 date: 2023-04-17
 dateModified: 2023-08-14
-description: "Contactez le Bureau de la transformation numérique au sujet du système de conception Canada.ca."
+description: "Contactez le Bureau de l’expérience Canada.ca au sujet du système de conception Canada.ca."
 lang: fr
 layout: default
 nomenu: true
@@ -12,7 +12,7 @@ nositesearch: true
 script: ./gc-referrer.js
 share: false
 showFeedback: false
-title: "Contactez le Bureau de la transformation numérique"
+title: "Contactez le Bureau de l’expérience Canada.ca"
 ---
 Nous avons bien reçu votre message. Si vous avez fourni une adresse courriel, un membre de notre équipe vous répondra dans les 5 jours ouvrables.
 

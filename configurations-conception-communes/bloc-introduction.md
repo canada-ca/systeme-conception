@@ -187,7 +187,7 @@ title: Bloc d’introduction
     <p>Consultez les conclusions de la recherche et la justification de la politique.</p>
     <h3>Constatations découlant de la recherche</h3>
     <p><a href="https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">Résumé de recherche : Communiquer avec l’ARC</a></p>
-    <p>L’Agence du revenu du Canada (ARC) et le Bureau de la transformation numérique ont élaboré le bloc d’introduction dans le cadre du projet d’optimisation des contacts avec l’ARC.</p>
+    <p>L’Agence du revenu du Canada (ARC) et le Bureau de l’expérience Canada.ca ont élaboré le bloc d’introduction dans le cadre du projet d’optimisation des contacts avec l’ARC.</p>
     <p>
         Nous avons constaté que la configuration de conception du bloc d’introduction était utile sur les pages d’accueil institutionnelles, en particulier dans les situations où un bouton de super-tâche est nécessaire. Consultez le résumé de recherche pour en savoir plus sur d’autres aspects du projet.
     </p>

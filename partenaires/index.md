@@ -7,10 +7,10 @@ css:
    - css/card.css
 date: 2020-11-20
 dateModified: 2024-01-25
-description: "Le Bureau de la transformation numérique travaille avec des organismes fédéraux pour rendre le contenu de Canada.ca plus facile à trouver et à comprendre."
+description: "Le Bureau de l’expérience Canada.ca travaille avec des organismes fédéraux pour rendre le contenu de Canada.ca plus facile à trouver et à comprendre."
 title: "Travailler en partenariat pour améliorer la réussite des tâches sur Canada.ca"
 ---
-<p>Le Bureau de la transformation numérique travaille avec des organismes fédéraux pour rendre le contenu de Canada.ca plus facile à trouver et à comprendre.</p>
+<p>Le Bureau de l’expérience Canada.ca travaille avec des organismes fédéraux pour rendre le contenu de Canada.ca plus facile à trouver et à comprendre.</p>
 <p>Notre méthode consiste à collaborer pou&nbsp;:</p>
 <ul>
   <li>Fixer des objectifs d’utilisabilité concrets</li>
@@ -94,7 +94,7 @@ title: "Travailler en partenariat pour améliorer la réussite des tâches sur C
     <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-08.html" aria-label="Communiquer avec l'ARC"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Communiquer avec l'ARC</h3>
-        <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: Améliorer le taux de réussite des tâches en ligne en aidant les utilisateurs et utilisatrices à trouver des informations. À l’aide des données probantes des centres d’appels et des données analytiques Web, le Bureau de la transformation numérique (BTN) s’est associé à l’Agence du revenu du Canada pour travailler à améliorer les résultats.</p>
+        <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: Améliorer le taux de réussite des tâches en ligne en aidant les utilisateurs et utilisatrices à trouver des informations. À l’aide des données probantes des centres d’appels et des données analytiques Web, le Bureau de l’expérience Canada.ca (BEC) s’est associé à l’Agence du revenu du Canada pour travailler à améliorer les résultats.</p>
         <p><strong>Date</strong>&nbsp;: 2019</p>
       </div>
       </a></div>

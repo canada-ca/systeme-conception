@@ -1,13 +1,19 @@
 ---
 altLangPage: https://design.canada.ca/recommended-templates/program-description-pages.html
-date: null
-dateModified: "2018-12-19"
-description: "Une page de description de programme fournit des informations sur une activité administrative interne qui offre un service."
-title: "Pages de description de programme - Modèle de Canada.ca"
+date: 2018-12-19
+dateModified: "2025-11-28"
+description: "Nous mettons ce modèle hors service et ne recommandons pas de l’utiliser sur vos pages. Une page de description de programme fournit des informations sur une activité administrative interne qui offre un service."
+title: "Hors service&nbsp;: Pages de description de programme - Modèle de Canada.ca"
+titleH1: "Pages de description de programme - Modèle de Canada.ca"
 ---
 
+<section class="alert alert-info">
+  <h2>Hors service</h2>
+  <p>Nous mettons ce modèle hors service et ne recommandons pas de l’utiliser sur vos pages. Pour toute question liée à ce modèle, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">contactez le Bureau de l’expérience Canada.ca</a>.</p>
+</section>
+
 <p>Une page de description de programme fournit des informations sur une activité administrative interne qui offre un service. </p>
-<p>Les pages de description de programme : </p>
+<p>Les pages de description de programme&nbsp;: </p>
 <ul>
   <li> contribuent à l’uniformité de l’approche utilisée pour présenter les renseignements sur les programmes; </li>
   <li> facilitent l’exécution des tâches en donnant prioritairement accès aux tâches liées au programme; </li>
@@ -20,6 +26,7 @@ title: "Pages de description de programme - Modèle de Canada.ca"
     <li> <a href="#utilisation"> Quand utiliser ce modèle </a> </li>
     <li> <a href="#specifications"> Comment utiliser ce modèle </a> </li>
     <li> <a href="#navigation"> Navigation de l’utilisateur </a> </li>
+    <li> <a href="#changements">Derniers changements</a> </li>
   </ul>
 </section>
 <section>
@@ -45,7 +52,7 @@ title: "Pages de description de programme - Modèle de Canada.ca"
     <div class="col-lg-6 pull-left">
       <section id="template-elements">
         <section>
-          <h3> 1 : Nom du programme </h3>
+          <h3> 1&nbsp;: Nom du programme </h3>
           <p> Fournit le nom du programme </p>
           <ul class="list-unstyled">
             <li id="element2">
@@ -60,7 +67,7 @@ title: "Pages de description de programme - Modèle de Canada.ca"
           </ul>
         </section>
         <section>
-          <h3> 2 : Institution responsable </h3>
+          <h3> 2&nbsp;: Institution responsable </h3>
           <p> Fournit un lien vers l’institution, l’organisme ou l’entité partenaire ou de collaboration responsable du contenu de la page </p>
           <ul class="list-unstyled">
             <li id="element3">
@@ -75,14 +82,14 @@ title: "Pages de description de programme - Modèle de Canada.ca"
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'> <strong> Présentation </strong> </summary>
                 <ul>
-                  <li> Utilisez la configuration <a href="../configurations-conception-communes/institution-responsable.html"> Institution responsable </a> . </li>
+                  <li> Institution responsable. </li>
                 </ul>
               </details>
             </li>
           </ul>
         </section>
         <section>
-          <h3> 3 : Aperçu du programme </h3>
+          <h3> 3&nbsp;: Aperçu du programme </h3>
           <p> Fournit une description résumée du programme </p>
           <ul class="list-unstyled">
             <li id="element5">
@@ -105,7 +112,7 @@ title: "Pages de description de programme - Modèle de Canada.ca"
           </ul>
         </section>
         <section>
-          <h3> 4 : Information détaillée sur le programme </h3>
+          <h3> 4&nbsp;: Information détaillée sur le programme </h3>
           <p> Fournit de l’information plus détaillée au sujet du programme </p>
           <ul class="list-unstyled">
             <li id="element7">
@@ -129,7 +136,7 @@ title: "Pages de description de programme - Modèle de Canada.ca"
           </ul>
         </section>
         <section>
-          <h3> 5 : Services </h3>
+          <h3> 5&nbsp;: Services </h3>
           <p> Fournit des liens menant aux services et renseignements reliés à un programme </p>
           <ul class="list-unstyled">
             <li id="element9">
@@ -145,7 +152,7 @@ title: "Pages de description de programme - Modèle de Canada.ca"
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'> <strong> Présentation </strong> </summary>
                 <ul>
-                  <li> L’étiquette de l’en-tête est « Services ». </li>
+                  <li> L’étiquette de l’en-tête est &laquo;&nbsp;Services&nbsp;&raquo;. </li>
                 </ul>
               </details>
             </li>
@@ -160,10 +167,17 @@ title: "Pages de description de programme - Modèle de Canada.ca"
   <p> Les pages de description des programmes se trouvent sous les profils institutionnels ou organisationnels. </p>
   <figure class="mrgn-bttm-lg">
     <figcaption class="text-center"> <b> Diagramme de la façon de naviguer </b> </figcaption>
-    <img alt="Diagramme de la façon de naviguer vers les pages de description du programme dans le site Canada.ca. La version textuelle se trouve ci-dessous :" class="img-responsive center-block" src="https://www.canada.ca/content//dam/tbs-sct/images/government-communications/canada-content-style-guide/program-description-pages-ia-fra.png"/>
+    <img alt="Diagramme de la façon de naviguer vers les pages de description du programme dans le site Canada.ca. La version textuelle se trouve ci-dessous&nbsp;:" class="img-responsive center-block" src="https://www.canada.ca/content//dam/tbs-sct/images/government-communications/canada-content-style-guide/program-description-pages-ia-fra.png"/>
     <details>
       <summary class="wb-toggle" data-toggle='{"print":"on"}'> Version textuelle </summary>
       <p> On peut accéder aux pages de description du programme à partir des profils institutionnels du site Canada.ca. </p>
     </details>
   </figure>
+</section>
+<section>
+  <h2 id="changements"> Derniers changements </h2>
+  <dl class="dl-horizontal">
+    <dt> <time>2025-11-28</time> </dt>
+    <dd> Ajout d’une alerte pour indiquer qu’une mise hors service est programmée pour cette configuration. </dd>
+  </dl>
 </section>

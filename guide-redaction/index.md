@@ -1,14 +1,17 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2024-07-30
+dateModified: 2025-12-17
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
+image:
+  filename: gr-apercu-img.png
+  alt: "Image du guide de rédaction du contenu du site Canada.ca"
 layout: default
 title: "Guide de rédaction du contenu du site Canada.ca"
 ---
-<section id="intro">
-  <p>Les règles pour créer du contenu Web qui peut être trouvé, compris et utilisé facilement. Ces règles s'appuient sur des principes de rédaction et des techniques qui aident à fournir un contenu Web clair et adapté aux besoins de tous. Consultez les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite> lorsque vous concevez et organisez du contenu Web.</p>
-</section>
+<div id="intro">
+  <p>Les règles pour créer du contenu Web qui peut être trouvé, compris et utilisé facilement. Ces règles s'appuient sur des principes de rédaction et des techniques qui aident à fournir un contenu Web clair et adapté aux besoins de tous. Consultez les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a> lorsque vous concevez et organisez du contenu Web.</p>
+</div>
 <section id="toc">
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
@@ -39,9 +42,15 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>Mises à jour récentes</h2>
   <p>Nous avons apporté les modifications suivantes à cette version du guide&nbsp;:</p>
   <ul class="mrgn-tp-lg">
-    <li>Nous avons mis à jour la section <a href="#toc6">2.0 Communiquer avec clarté grâce au langage clair</a> pour qu’elle corresponde davantage à la norme sur le langage clair et simple développée par l’Organisation internationale de normalisation (ISO). Les modifications apportées ont été faites en collaboration avec des spécialistes du langage clair et de la communication de l’ensemble du gouvernement du Canada.</li>
+    <li>la sous-section <a href="{{ site.urldesign }}/style-guide/#wp4-1-1">Titles, headings and subheadings</a> de la version anglaise afin de préciser qu’il faut omettre la ponctuation à la fin des légendes et des en‑têtes de tableaux;</li>
+    <li>la section <a href="#wp4-6">4.6 Nombres</a>, pour préciser dans quels cas utiliser des mots ou des chiffres;</li>
+    <li>la sous-section <a href="{{ site.urldesign }}/style-guide/#wp4-1-5">Hyphens and dashes</a> de la version anglaise du guide, afin de permettre l’utilisation de tirets semi‑cadratin dans une plage d’années civiles ou d’exercices financiers en anglais;
+    <ul>
+      <li>nous avons également ajouté une nouvelle sous-section correspondante pour les <a href="#wp4-1-4">traits d’union et les tirets</a> en français.</li>
+    </ul>
+    </li>
   </ul>
-  <p>L’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> contient toutes les modifications apportées au guide depuis le 25 mai 2023.</p>
+  <p>Pour obtenir de plus amples renseignements, veuillez consulter l’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> (la liste commence avec les modifications du 25 mai 2023.</p>
 </section>
 <section id="toc2">
   <h2>But du document</h2>
@@ -61,17 +70,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>Politiques, normes et procédures connexes</h2>
   <p>Votre contenu doit se conformer aux&nbsp;:</p>
   <ul>
-    <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite></li>
+    <li>modèles de page, composantes de contenu, limites du nombre de caractères et autres exigences telles que définit dans les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca;</a></li>
     <li>exigences énoncées dans les instruments&nbsp;législatifs et politiques, notamment&nbsp;:
       <ul>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683">Politique sur les communications et l'image de marque</a></cite></li>
-        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a></cite></li>
-        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601">Norme sur l'accessibilité des sites Web </a></cite></li>
-        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875">Norme sur l'interopérabilité du Web</a></cite></li>
-        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088">Norme sur l'optimisation des sites Web et des applications pour appareils mobiles </a></cite></li>
-        <li><cite><a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/conseils-edition-gouvernement.html">Conseils sur l'édition de produits de communications</a></cite></li>
-        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition </a></cite></li>
-        <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/O-3.01/">Loi sur les langues officielles </a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30683">Politique sur les communications et l'image de marque;</a></cite></li>
+        <li><cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications;</a></cite></li>
+        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601">Norme sur l'accessibilité des sites Web;</a></cite></li>
+        <li><cite><a href="http://tbs-sct.gc.ca/pol/doc-fra.aspx?id=25875">Norme sur l'interopérabilité du Web;</a></cite></li>
+        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088">Norme sur l'optimisation des sites Web et des applications pour appareils mobiles;</a></cite></li>
+        <li><cite><a href="https://www.canada.ca/fr/gouvernement/systeme/communications-gouvernementales.html">Conseils sur l'édition de produits de communications;</a></cite></li>
+        <li><cite><a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition;</a></cite></li>
+        <li><cite><a href="http://laws-lois.justice.gc.ca/fra/lois/O-3.01/">Loi sur les langues officielles.</a></cite></li>
       </ul>
     </li>
   </ul>
@@ -130,8 +139,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>La rédaction épicène devrait être votre pratique habituelle.</p>
       <p>Pour plus de conseils sur l'écriture inclusive, consultez les lignes directrices et ressources du Portail linguistique du Canada&nbsp;:</p>
       <ul>
-        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources</a>, du Bureau de la traduction (en français seulement)</li>
-        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing in English</a> (en anglais seulement)</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources (en français seulement)</a>, du Bureau de la traduction.</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources"><span lang="en">Inclusive writing in English</span> (en anglais seulement)</a>.</li>
       </ul>
     </section>
     <section id="wp1-2-2">
@@ -160,24 +169,24 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Votre contenu sera lu sur des écrans de toutes tailles. Les écrans de téléphone mobile et de tablettes électroniques affichent moins de contenu à la fois que les écrans d'ordinateur de bureau ou portatif. Les utilisateurs de petits écrans doivent donc&nbsp;:</p>
       <ul>
         <li>faire plus d'efforts que d'autres pour accéder à la même quantité d'information;</li>
-        <li>se fier à leur mémoire pour <a href="https://www.nngroup.com/articles/mobile-ux/">se rappeler l'information non visible à l'écran</a> (en anglais seulement).</li>
+        <li>se fier à leur mémoire pour <a href="https://www.nngroup.com/articles/mobile-ux/">se rappeler l'information non visible à l'écran (en anglais seulement)</a>.</li>
       </ul>
     </section>
   </section>
   <section id="wp1-3">
-    <h3>1.3 Fournir un contenu équivalent dans les 2 langues officielles</h3>
+    <h3>1.3 Fournir un contenu équivalent dans les deux langues officielles</h3>
     <section class="alert alert-warning">
       <h4>Exigences en matière de langues officielles</h4>
-      <p>Selon la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/o-3.01/page-1.html">Loi sur les langues officielles</a></cite>, nous devons publier simultanément les communications et fournir des services égaux dans les 2 langues officielles.</p>
+      <p>Selon la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/o-3.01/page-1.html">Loi sur les langues officielles</a></cite>, nous devons publier simultanément les communications et fournir des services égaux dans les deux langues officielles.</p>
     </section>
     <p>Le contenu du gouvernement doit&nbsp;:</p>
     <ul>
       <li>être traduit par des professionnels;</li>
       <li>refléter les règles d'usage canadiennes du français et de l'anglais;</li>
-      <li>comprendre des images, des fichiers multimédias et des transcriptions entièrement bilingues ou procurer de l'information équivalente dans les 2 langues officielles.</li>
+      <li>comprendre des images, des fichiers multimédias et des transcriptions entièrement bilingues ou procurer de l'information équivalente dans les deux langues officielles.</li>
     </ul>
     <h4>Personnes responsables des langues officielles</h4>
-    <p>Une <a href="http://www.tbs-sct.gc.ca/psm-fpfm/ve/ol-lo/lst-fra.asp">personne responsable des langues officielles dans votre institution</a> peut aider à répondre à vos questions concernant vos obligations et les exceptions.</p>
+    <p>Une <a href="https://www.tbs-sct.canada.ca/ap/list-liste/ol-lo-fra.asp">personne responsable des langues officielles dans votre institution</a> peut aider à répondre à vos questions concernant vos obligations et les exceptions.</p>
     <p>Votre équipe des communications peut vous aider à déterminer s'il convient et quand il convient de communiquer avec vos publics cibles dans d'autres langues, en plus des langues officielles du Canada.</p>
   </section>
 </section>
@@ -188,8 +197,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <div class="panel panel-default">
         <div class="panel-body">
           <h3 class="mrgn-tp-sm">Dans cette section</h3>
-          <p><a href="#wp2-0">Exigences en matière de langage clair et simple</a></p>
           <ul>
+           <li><a href="#wp2-0">Exigences en matière de langage clair et simple</a></li>
           <li><a href="#wp2-1">2.1 Introduction au langage clair&nbsp;: rédiger pour faciliter la lecture</a>
               <ul>
                 <li><a href="#wp2-1-1">Style</a></li>
@@ -228,7 +237,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
   <section id="wp2-0">
   <h3>Exigences en matière de langage clair et simple</h3>
-    <p>L’utilisation d’un langage clair et simple est une exigence de la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682"><cite>Directive sur la gestion des communications</cite></a>.</p>
+    <p>Vous devez utiliser un langage clair et simple, <b>car il s’agit d’une exigence de la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682"><cite>Directive sur la gestion des communications</cite></a></b>.</p>
     <p>Le langage clair désigne une communication dont le vocabulaire, la structure et la conception sont si clairs que le public visé peut facilement&nbsp;:</p>
     <ul>
       <li><strong>trouver</strong> ce dont il a besoin;</li>
@@ -255,39 +264,33 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Un document facile à lire et à comprendre utilise le bon vocabulaire et partage les bonnes informations avec son public cible. Il est clair, concis, et le contenu est facile à suivre. Une bonne façon de commencer est d’écrire comme si vous discutiez avec votre lecteur.</p>
     <p>Essayez ces techniques pour rendre votre texte aussi facile à lire et à comprendre que possible&nbsp;:</p>
     <h4 id="wp2-1-1">Style</h4>
-    <ul>
-      <li><strong>Écrire comme on parle</strong>&nbsp;: écrivez comme si vous vous adressiez directement à votre lecteur. Utilisez les pronoms de la première ou de la deuxième personne (je, nous, vous) plutôt que ceux de la troisième personne (il, elle, ils).
+    <p><strong>Écrire comme on parle</strong>&nbsp;: écrivez comme si vous vous adressiez directement à votre lecteur. Utilisez les pronoms de la première ou de la deuxième personne (je, nous, vous) plutôt que ceux de la troisième personne (il, elle, ils).</p>
         <ul>
-          <li>(voir <a href="#toc7">section 3, ton</a>)</li>
+          <li>Voir la section <a href="#toc7">3, ton</a>.</li>
         </ul>
-      </li>
-      <li><strong>Utiliser la voix active</strong>&nbsp;: employez la voix active et la forme positive.</li>
-      <li><strong>Supprimer le jargon</strong>&nbsp;: remplacez le jargon technique et le langage complexe par des termes que votre public comprendra facilement.
+      <p><strong>Utiliser la voix active</strong>&nbsp;: employez la voix active et la forme positive.</p>
+       <ul>
+          <li>Voir la section <a href="#wp2-4">2.4, Rédiger avec la voix active, directe, et affirmative</a>.</li>
+        </ul>
+      <p><strong>Supprimer le jargon</strong>&nbsp;: remplacez le jargon technique et le langage complexe par des termes que votre public comprendra facilement.</p>
         <ul>
-          <li>(voir <a href="#wp2-5">section 2.5, éviter le jargon et les expressions familières ou imagées</a>)</li>
+          <li>Voir la section <a href="#wp2-5">2.5, éviter le jargon et les expressions familières ou imagées</a>.</li>
         </ul>
-      </li>
-    </ul>
     <h4 id="wp2-1-2">Structure</h4>
-    <ul>
-      <li><strong>Identifier les besoins de votre public cible</strong>&nbsp;: organisez, rédigez et présentez votre document en fonction des besoins de votre public cible.</li>
-      <li><strong>Utiliser des titres et sous-titres clairs</strong>&nbsp;: divisez votre contenu avec des sections claires qui aident à rendre les informations clés faciles à trouver.</li>
-      <li><strong>Utiliser des listes</strong>&nbsp;:  organisez les tâches principales à l’aide de listes à puces ou de listes numérotées.
+      <p><strong>Identifier les besoins de votre public cible</strong>&nbsp;: organisez, rédigez et présentez votre document en fonction des besoins de votre public cible.</p>
+      <p><strong>Utiliser des titres et sous-titres clairs</strong>&nbsp;: divisez votre contenu avec des sections claires qui aident à rendre les informations clés faciles à trouver.</p>
+      <p><strong>Utiliser des listes</strong>&nbsp;:  organisez les tâches principales à l’aide de listes à puces ou de listes numérotées.</p>
         <ul>
-          <li>(voir la section <a href="#wp5-2">5.2 Utiliser des listes d’éléments pour aider les gens à survoler le texte</a>)</li>
+          <li>Voir la section <a href="#wp5-2">5.2 Utiliser des listes d’éléments pour aider les gens à survoler le texte</a>.</li>
         </ul>
-      </li>
-      <li><strong>Supprimer les obstacles visuels et cognitifs</strong>&nbsp;: supprimez tout ce qui peut empêcher les lecteurs de voir, de comprendre ou d’utiliser facilement les informations dont ils ont besoin.</li>
-      <li><strong>Déplacer ou supprimer les détails inutiles</strong>&nbsp;: éliminez les détails dont les gens n’ont pas besoin pour accomplir leur tâche.</li>
-        </ul>
+      <p><strong>Supprimer les obstacles visuels et cognitifs</strong>&nbsp;: supprimez tout ce qui peut empêcher les lecteurs de voir, de comprendre ou d’utiliser facilement les informations dont ils ont besoin.</p>
+      <p><strong>Déplacer ou supprimer les détails inutiles</strong>&nbsp;: éliminez les détails dont les gens n’ont pas besoin pour accomplir leur tâche.</p>
         <h4 id="wp2-1-3">Simplifier et réviser</h4>
-        <ul>
-          <li><strong>Réduire la longueur du contenu</strong>&nbsp;: raccourcissez les mots, les phrases et les paragraphes.</li>
-          <li><strong>Simplifier</strong>&nbsp;: remplacez le nom d’un programme déjà cité par un terme court comme « le programme » au lieu d’utiliser son nom au long ou son abréviation.</li>
-          <li><strong>Faire réviser le contenu par des pairs</strong>&nbsp;: demandez à des collègues qui ne connaissent pas le sujet de revoir le texte pour voir si le message est clair et logique.</li>
-          <li><strong>Lire à voix haute</strong>&nbsp;: lisez le texte à voix haute ou utilisez un lecteur d’écran pour identifier ce qui peut être clarifié ou condensé.</li>
-          <li><strong>Mener des tests d’utilisabilité</strong>&nbsp;: travaillez avec votre équipe Web pour mettre en place des tests d’utilisabilité pour votre contenu.</li>
-        </ul>
+          <p><strong>Réduire la longueur du contenu</strong>&nbsp;: raccourcissez les mots, les phrases et les paragraphes.</p>
+          <p><strong>Simplifier</strong>&nbsp;: remplacez le nom d’un programme déjà cité par un terme court comme « le programme » au lieu d’utiliser son nom au long ou son abréviation.</p>
+          <p><strong>Faire réviser le contenu par des pairs</strong>&nbsp;: demandez à des collègues qui ne connaissent pas le sujet de revoir le texte pour voir si le message est clair et logique.</p>
+          <p><strong>Lire à voix haute</strong>&nbsp;: lisez le texte à voix haute ou utilisez un lecteur d’écran pour identifier ce qui peut être clarifié ou condensé.</p>
+          <p><strong>Mener des tests d’utilisabilité</strong>&nbsp;: travaillez avec votre équipe Web pour mettre en place des tests d’utilisabilité pour votre contenu.</p>
         <h4 id="wp2-1-4">Évitez les outils d’analyse de la lisibilité</h4>
         <p>Les outils de lisibilité sont basés sur des algorithmes qui mesurent des éléments tels que la longueur des mots. Ces outils ne peuvent pas vous dire si votre lecteur trouvera votre contenu facile à comprendre et à utiliser.</p>
         <p>Ces outils peuvent être utiles pour identifier certains points à améliorer, tels que&nbsp;:</p>
@@ -321,7 +324,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </figure>
       </div>
     </div>
-    <p>La pyramide inversée est composée de 3 étapes, de l’information la plus importante pour votre public dans le haut à l’information la moins pertinente dans le bas. La liste suivante vous aidera à planifier et organiser votre contenu&nbsp;:</p>
+    <p>La pyramide inversée est composée de trois étapes, de l’information la plus importante pour votre public dans le haut à l’information la moins pertinente dans le bas. La liste suivante vous aidera à planifier et organiser votre contenu&nbsp;:</p>
     <ol>
       <li><strong>Information la plus importante</strong>&nbsp;:
         <ul>
@@ -338,7 +341,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </li>
       <li><strong>Plus d’information</strong>&nbsp;:
         <ul>
-          <li>Seulement inclure des renseignements supplémentaires qui appuient l’information la plus importante. Ceux-ci peuvent inclure&nbsp;:
+          <li>Seulement inclure des renseignements supplémentaires qui appuient l’information la plus importante, ceux-ci peuvent inclure&nbsp;:
           <ul>
             <li>liens connexes qui peuvent aider certaines personnes (statistiques citées, initiatives connexes, publications pertinentes, etc.);</li>
             <li>renseignements pour les gens qui souhaitent en savoir plus sur le sujet;</li>
@@ -375,12 +378,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <strong>Au lieu de</strong>&nbsp;: dans la mesure où</p>
     <p><strong>Écrivez</strong>&nbsp;: avant<br>
       <strong>Au lieu de</strong>&nbsp;: préalablement</p>
-    <p><strong>Écrivez</strong>&nbsp;: tous les 2 ans<br>
+    <p><strong>Écrivez</strong>&nbsp;: tous les deux ans<br>
       <strong>Au lieu de</strong>&nbsp;: bisannuellement</p>
     <h4>Exemple d’explication d’un terme technique</h4>
     <p><b>Écrivez</b>&nbsp;: Encéphalopathie spongiforme bovine (ESB), également connue sous le nom de maladie de la vache folle</p>
     <p><b>Au lieu de</b>&nbsp;: Encéphalopathie spongiforme bovine</p>
-    <p>Remplacez les mots longs et compliqués par des mots plus courts et simples que la plupart des gens comprennent et utilisent tous les jours. En général, les mots simples ont 2 syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
+    <p>Remplacez les mots longs et compliqués par des mots plus courts et simples que la plupart des gens comprennent et utilisent tous les jours. En général, les mots simples ont deux syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
     <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use familiar words</a></span></li>
@@ -401,15 +404,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4 id="wp2-4-2">Éviter la voix passive</h4>
       <p>Dans une phrase passive, il n’est pas toujours évident de savoir qui ou quoi fait l’action. Cela rend la phrase plus difficile à comprendre. La structure d’une phrase passive est la suivante&nbsp;:</p>
       <ul>
-        <li>Objet + verbe + sujet</li>
+        <li>Objet + verbe + sujet.</li>
       </ul>
       <h4>Exemples à la voix active et passive&nbsp;:</h4>
-      <ul>
-        <li><b>Écrire</b>&nbsp;: Vous devrez peut-être fournir une preuve de citoyenneté. (actif)<br>
-            <b>Au lieu de</b>&nbsp;: On peut vous demander de fournir une preuve de votre citoyenneté. (passif)</li>
-        <li><b>Écrire</b>&nbsp;: Vous devez déposer vos déclarations par voie électronique. (actif)<br>
-            <b>Au lieu de</b>&nbsp;: Vos déclarations doivent être déposées en ligne. (passif)</li>
-      </ul>
+        <p><b>Écrire</b>&nbsp;: Vous devrez peut-être fournir une preuve de citoyenneté. (actif)<br />
+        <b>Au lieu de</b>&nbsp;: On peut vous demander de fournir une preuve de votre citoyenneté. (passif)</p>
+        <p><b>Écrire</b>&nbsp;: Vous devez déposer vos déclarations par voie électronique. (actif)<br />
+        <b>Au lieu de</b>&nbsp;: Vos déclarations doivent être déposées en ligne. (passif)</p>
       <p>Chaque fois que vous le pouvez, prenez le temps de réécrire les phrases passives. Pour en savoir plus sur à sujet, consultez l’article suivant&nbsp;:</p>
       <ul>
         <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/cles-de-la-redaction/communication-claire-privilegiez-la-voix-active"><cite>Clés de la rédaction</cite>&nbsp;: Communication claire&nbsp;: privilégiez la voix active</a></li>
@@ -461,8 +462,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Les gens qui ne parlent ni français ni anglais peuvent recourir à des outils en ligne pour traduire du texte. Ces outils ne traduisent pas toujours correctement les expressions familières, imagées ou régionales.</p>
     <h4>Exemples de jargon, d’idiotisme et d’expression</h4>
     <ul>
-      <li><strong>Jargon</strong>&nbsp;: mandat d’arrêt décerné sur le siège (ordre émis par un juge d’arrêter une personne qui ne s’est pas présentée en cour ou qui n’a pas respecté certaines conditions)</li>
-      <li><strong>Expressions idiomatiques</strong>&nbsp;: pour faire court (pour résumer, en un mot, bref)</li>
+      <li><strong>Jargon</strong>&nbsp;: mandat d’arrêt décerné sur le siège (ordre émis par un juge d’arrêter une personne qui ne s’est pas présentée en cour ou qui n’a pas respecté certaines conditions).</li>
+      <li><strong>Expressions idiomatiques</strong>&nbsp;: pour faire court (pour résumer, en un mot, bref).</li>
       <li><strong>Expressions familières, imagées ou régionales</strong>&nbsp;: ne pas avoir la langue dans sa poche (personne qui n’a pas peur de dire ce qu’elle pense).</li>
     </ul>
     <p class="mrgn-tp-lg">Si vous devez utiliser un jargon bien connu de votre public cible&nbsp;:</p>
@@ -473,7 +474,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Exemples d’énoncés qui évitent le recours au jargon</h4>
     <p><strong>Écrivez</strong>&nbsp;: Vous devez nous envoyer votre déclaration de revenus (T1) d’ici le 30 avril.<br>
       <strong>Au lieu de</strong>&nbsp;: Vous devez nous envoyer votre T1 d’ici le 30 avril.</p>
-    <p><strong>Écrivez</strong>&nbsp;: Apprenez-en plus sur les régimes d’épargne qui peuvent vous aider à épargner assez d’argent pour la retraite<br>
+    <p><strong>Écrivez</strong>&nbsp;: Apprenez-en plus sur les régimes d’épargne qui peuvent vous aider à épargner assez d’argent pour la retraite.<br>
       <strong>Au lieu de</strong>&nbsp;: Apprenez-en plus sur les régimes d’épargne qui peuvent vous aider à vous constituer un bas de laine pour votre retraite.</p>
     <h4 id="wp2-5-1">Déterminer les mots-clés que votre public utilise pour trouver votre contenu</h4>
     <p>Les mots-clés sont des mots dont votre public cible se sert pour trouver votre contenu. Il s’agit des mots les plus courants pour discuter d’un sujet donné ou d’en faire la recherche.</p>
@@ -481,11 +482,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vous pouvez également utiliser des outils de recherche de mots-clés en ligne. Voici quelques exemples d’outils qui permettent de déterminer des mots-clés populaires&nbsp;:</p>
     <ul>
       <li><a href="https://ahrefs.com/fr/free-seo-tools">Ahrefs, Outils de référencement gratuits (aucun compte requis)</a></li>
-        <li><a href="http://www.bing.com/toolbox/keywords">Bing recherche de mots clés (compte Microsoft requis)</a></li>
+      <li><a href="http://www.bing.com/toolbox/keywords">Bing recherche de mots clés (compte Microsoft requis)</a></li>
       <li><a href="https://trends.google.fr/trends/">Tendances de recherche Google Trends (aucun compte requis)</a></li>
-      <li><a href="http://adwords.google.com/keywordplanner">Google Keyword Planner (compte GoogleAdWords requis)</a></li>
-      <li><a href="https://www.thehoth.com/google-keyword-planner?">Hoth Free Google Keyword Planner (en anglais seulement; aucun compte requis)</a></li>
-      <li><a href="https://moz.com/explorer">Moz Keyword Explorer (en anglais seulement)</a></li>
+      <li><a href="https://business.google.com/ca-fr/google-ads/">Google Keyword Planner (compte GoogleAdWords requis)</a></li>
+      <li><a href="https://www.thehoth.com/google-keyword-planner?"><span lang="en">Hoth Free Google Keyword Planner</span> (en anglais seulement; aucun compte requis)</a></li>
+      <li><a href="https://moz.com/explorer"><span lang="en">Moz Keyword Explorer</span> (en anglais seulement)</a></li>
     </ul>
     <p>Certains de ces outils ne sont offerts qu’en anglais, et d’autres sont offerts en français si votre navigateur est configuré en français.</p>
     <p>Consultez vos données d’analyse Web pour savoir quels termes votre public utilise pour chercher du contenu connexe.</p>
@@ -509,9 +510,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>découpez les phrases longues (longueur optimale de moins de 20 mots);</li>
       <li>évitez les phrases avec plusieurs virgules;</li>
       <li>limitez-vous à une (1) idée par phrase;</li>
-      <li>supprimez les mots inutiles (modificateurs, adverbes, adjectifs, mots qui n’ajoutent pas de sens)</li>
-      <li>klimitez les paragraphes à une idée principale et à 3 phrases au maximum;</li>
-      <li>utilisez des listes verticales pour présenter une série de plus de 2 idées ou de mots;</li>
+      <li>supprimez les mots inutiles (modificateurs, adverbes, adjectifs, mots qui n’ajoutent pas de sens);</li>
+      <li>limitez les paragraphes à une idée principale et à trois phrases au maximum;</li>
+      <li>utilisez des listes verticales pour présenter une série de plus de deux idées ou de mots.</li>
     </ul>
     <h4>Exemples de phrases raccourcies</h4>
       <p><strong>Écrivez</strong>&nbsp;: Nous avons reçu et approuvé votre demande de financement.<br>
@@ -538,7 +539,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Exemple de phrase faisant référence à une loi</h4>
       <p><strong>Écrivez</strong>&nbsp;: Vous pouvez faire une demande de citoyenneté pour votre enfant après son arrivée au Canada à titre de résident permanent.</p>
           <p>Lien connexe
-          <a href="http://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html"><cite>Loi sur la citoyenneté</cite>, article 5.1</a></p>
+          <a href="https://laws-lois.justice.gc.ca/fra/lois/c-29/TexteComplet.html"><cite>Loi sur la citoyenneté</cite>, article 5.1</a></p>
           <p><strong>Au lieu de</strong>&nbsp;: Après l’arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l’enfant en vertu de l’article 5.1 de la <cite>Loi sur la citoyenneté</cite>.</p>
           <p>Si vous devez à nouveau mentionner la loi ou le règlement, vous pouvez utiliser les termes «&nbsp;la <cite>Loi</cite>&nbsp;» ou «&nbsp;le <cite>Règlement</cite>&nbsp;». Vous pouvez également inclure le sigle de la loi entre parenthèses après la première mention. Pour d’autres conseils et exemples, consultez&nbsp;:</p>
           <ul>
@@ -565,7 +566,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </li>
       <li>Article&nbsp;: <a href="https://www.noslangues-ourlanguages.gc.ca/fr/blogue-blog/readability-formulas-fra">Les formules de lisibilité : des outils vraiment utiles pour rédiger dans un langage clair et simple?</a></li>
       <li><a href="https://publications.europa.eu/fr/publication-detail/-/publication/c2dab20c-0414-408d-87b5-dd3c6e5dd9a5">Rédiger clairement</a>, Direction générale de la traduction, Commission européenne</li>
-      <li><a href="https://mcc.gouv.qc.ca/fileadmin/documents/publications/spl/Bonnes_pratiques.pdf">Bonnes pratiques de la communication écrite dans les démarches en ligne (PDF 3.7 mb)</a>, Groupe franco-québécois sur la modernisation de l’État (PDF)</li>
+      <li><a href="https://www.culture.gouv.fr/content/download/93481/file/guide_bonne-pratiq-com-ecrite-demarche-en-ligne-def.pdf">Bonnes pratiques de la communication écrite dans les démarches en ligne (PDF, 3,7 Mo)</a>, Groupe franco-québécois sur la modernisation de l’État</li>
       <li><a href="https://publications.gc.ca/site/eng/9.838261/publication.html">Pour un style clair et simple : guide du formateur</a>, Gouvernement du Canada</li>
       <li><a href="https://publications.gc.ca/site/eng/9.643617/publication.html">Pour un style clair et simple</a>, Gouvernement du Canada</li>
     </ul>
@@ -626,10 +627,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </div>
   <p>Le contenu Web du gouvernement du Canada.ca doit emprunter un ton&nbsp;:</p>
   <ul>
-    <li>direct</li>
-    <li>informatif</li>
-    <li>conversationnel</li>
-    <li>professionnel</li>
+    <li>direct;</li>
+    <li>informatif;</li>
+    <li>conversationnel;</li>
+    <li>professionnel.</li>
   </ul>
   <p>Rédigez comme si vous parliez aux représentants de vos publics cibles, mais avec l'autorité d'un organisme qui fournit des renseignements dans le cadre de son mandat.</p>
   <section id="wp3-1">
@@ -712,7 +713,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Nommez l'autre organisation par son nom lorsque votre contenu y fait référence.</p>
       <h5>Exemple d'énoncé faisant référence à une tierce partie</h5>
       <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
-        <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis. </p>
+        <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel"><span lang="en">site Web de U.S. Customs and Border Protection</span> (en anglais seulement)</a> pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
     </section>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
@@ -759,6 +760,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
                 <li><a href="#wp4-1-1">Mot tout en majuscules</a></li>
                 <li><a href="#wp4-1-2">Titres et sous-titres</a></li>
                 <li><a href="#wp4-1-3">Listes d'éléments</a></li>
+                <li><a href="#wp4-1-4">Traits d'union et tirets</a></li>
               </ul>
             </li>
             <li><a href="#wp4-2">4.2 Soulignement, caractères gras et italique</a></li>
@@ -789,9 +791,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Évitez d'écrire toutes les lettres d'un mot en majuscules.</p>
       <h5>Exceptions</h5>
       <ul>
-        <li>Abréviations (à utiliser seulement si nécessaire)</li>
-        <li>Noms d'exercices ou d'opérations militaires (par exemple, l'opération PROVISION)</li>
-        <li>Le nom de famille de l’auteur dans une notice bibliographique (NOM DE FAMILLE, Prénom.)</li>
+        <li>Abréviations (à utiliser seulement si nécessaire).</li>
+        <li>Noms d'exercices ou d'opérations militaires (par exemple, l'opération PROVISION).</li>
+        <li>Le nom de famille de l’auteur dans une notice bibliographique (NOM DE FAMILLE, Prénom).</li>
       </ul>
     </section>
     <section id="wp4-1-2">
@@ -810,28 +812,28 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
           <p>Une page Web contenant un sous-titre écrit sous forme de question.</p>
           <ul>
-            <li>Titre de page
+            <li>Titre de page&nbsp;:
               <ul>
                 <li>Déterminez si vous devez facturer la TPS/TVH</li>
               </ul>
             </li>
-            <li>Résumé de la page en langage clair et simple
+            <li>Résumé de la page en langage clair et simple&nbsp;:
               <ul>
                 <li>Répondez à quelques questions afin de savoir si vous devez facturer ou percevoir la taxe et vous inscrire pour obtenir un numéro de compte de TPS/TVH. Les entreprises à faible revenu et celles qui offrent certains biens et services pourraient ne pas avoir à facturer la TPS/TVH.</li>
               </ul>
             </li>
-            <li>Sous-titre
+            <li>Sous-titre&nbsp;:
               <ul>
                 <li>Est-ce que vous ou votre organisation avez déjà un compte de TPS/TVH?</li>
               </ul>
             </li>
-            <li>2 choix de réponse à sélectionner
+            <li>Deux choix de réponse à sélectionner&nbsp;:
               <ul>
                 <li>Oui</li>
                 <li>Non</li>
               </ul>
             </li>
-            <li>Bouton pour poursuivre la tâche
+            <li>Bouton pour poursuivre la tâche&nbsp;:
               <ul>
                 <li>Suivant</li>
               </ul>
@@ -850,10 +852,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h5>Exemples de listes à puces indépendantes</h5>
       <p><strong>En demande</strong></p>
       <ul>
-        <li><a href="http://www.entreprisescanada.ca/fra/page/2852/pof-191/">Financement pour votre nouvelle entreprise</a></li>
-        <li><a href="http://www.entreprisescanada.ca/fra/page/2772/">Financement pour l'innovation</a></li>
-        <li><a href="http://www.ic.gc.ca/eic/site/csbfp-pfpec.nsf/fra/h_la00007.html">Trouvez un prêt pour votre entreprise</a></li>
-        <li><a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/subvention-emploi/employeurs.html">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
+        <li><a href="#" onclick="return false" aria-label="Lien d'exemple à des fins de démonstration seulement">Financement pour votre nouvelle entreprise</a></li>
+        <li><a href="#" onclick="return false" aria-label="Lien d'exemple à des fins de démonstration seulement">Financement pour l'innovation</a></li>
+        <li><a href="#" onclick="return false" aria-label="Lien d'exemple à des fins de démonstration seulement">Trouvez un prêt pour votre entreprise</a></li>
+        <li><a href="#" onclick="return false" aria-label="Lien d'exemple à des fins de démonstration seulement">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
       </ul>
       <p class="mrgn-tp-lg">Lorsque le sens des éléments d'une liste à puces dépend d'une phrase d'introduction, mettez la première lettre de chaque élément en minuscule, sauf s'il s'agit d'un nom propre.</p>
       <h5>Exemples d'une liste à puces dont le sens dépend d'une phrase d'introduction</h5>
@@ -862,6 +864,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>des consultants en citoyenneté ou en immigration;</li>
         <li>des avocats;</li>
         <li>d'autres représentants.</li>
+      </ul>
+    </section>
+    <section id="wp4-1-4">
+    <h4>Traits d'union et tirets</h4>
+      <p>Les traits d’union et les tirets ont des usages différents. Ils ne sont pas interchangeables. Évitez d’utiliser des tirets. Au lieu de cela&nbsp;:</p>
+        <ul>
+          <li>Utilisez un trait d’union (-) pour joindre des mots.</li>
+          <li>Utilisez « de… à… » et « entre… et… » pour désigner une échelle de chiffres (par exemple, de 4 000 $ à 10 000 $ ou entre 4 et 10 ans).</li>
+          <li>Au lieu d’un trait d’union, utilisez « à » pour les exercices financiers ou les années civiles, étant donné que les lecteurs d'écran sautent souvent les traits d’union, ce qui rend la séparation entre les années difficile à comprendre (par exemple, Rapport annuel 2024 à 2025).</li>
+          <li>Utilisez une virgule (,) pour souligner ou encadrer une idée au lieu d’un <b>tiret cadratin</b> (&mdash;).</li>
+          <li>Simplifiez vos phrases plutôt que d’utiliser des <b>tirets cadratin</b>.</li>
       </ul>
     </section>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
@@ -886,19 +899,19 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li>à des fins de mise en page ou de décoration;</li>
       <li>pour faire ressortir un mot ou une phrase (utilisez plutôt les caractères gras avec modération);</li>
-      <li>pour de longs passages, des citations, par exemple;</li>
+      <li>pour de longs passages, tels que des citations;</li>
       <li>dans les titres de page.</li>
     </ul>
     <p>Consultez <cite>les <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction</a></cite> dans les cas suivants&nbsp;:</p>
     <ul>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/mots-etrangers-italique-et-guillemets#italique">italique de l’article &laquo;&nbsp;mots étrangers (italique et guillemets)&nbsp;&raquo;</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/latin-locutions-latines-et-mots-latins">latin (locutions latines et mots latins)</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/lettres-de-lalphabet-employees-seules">lettres de l’alphabet employées seules</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/operecitato-lococitato">opere citato/loco citato</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/nom-latin-de-plante-et-danimal">nom latin de plante et d'animal</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique">noms propres (italique)</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/titres-de-lois-reglements-accords-chartes-decrets">titres de lois (règlements, accords, chartes, décrets, etc.)</a></li>
-      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique#e">titres de lois et autres textes juridiques de l’article &laquo;&nbsp;noms propres (italique)&nbsp;&raquo;</a></li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/mots-etrangers-italique-et-guillemets#italique">italique de l’article &laquo;&nbsp;mots étrangers (italique et guillemets)&nbsp;&raquo;</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/latin-locutions-latines-et-mots-latins">latin (locutions latines et mots latins)</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/lettres-de-lalphabet-employees-seules">lettres de l’alphabet employées seules</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/operecitato-lococitato">opere citato/loco citato</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/nom-latin-de-plante-et-danimal">nom latin de plante et d'animal</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique">noms propres (italique)</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/titres-de-lois-reglements-accords-chartes-decrets">titres de lois (règlements, accords, chartes, décrets, etc.)</a>.</li>
+      <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique#e">titres de lois et autres textes juridiques de l’article &laquo;&nbsp;noms propres (italique)&nbsp;&raquo;</a>.</li>
     </ul>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
@@ -911,17 +924,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <section id="wp4-3">
     <h3>4.3 Symboles</h3>
     <p>Certains symboles rendent le contenu Web difficile à lire tandis que d'autres améliorent la lisibilité du texte. Faites vos recherches pour déterminer si un large public peut comprendre le symbole avant de l'utiliser.</p>
-    <h4>Perluète</h4>
-    <p>Utilisez l'esperluette (&amp;) seulement pour des noms propres lorsqu'elle fait partie du nom de la société</p>
+    <h4>Esperluette</h4>
+    <p>Utilisez l'esperluette (&amp;) seulement pour des noms propres lorsqu'elle fait partie du nom de la société.</p>
     <h4>Pourcentage</h4>
     <ul>
-      <li>20 % (et non 20 pour cent, 20&nbsp;p.&nbsp;100 ou 20 pour cent)</li>
-      <li>un quart (et non ¼)</li>
-      <li>la moitié (et non ½)</li>
+      <li>20 % (et non 20 pour cent ou 20 p. 100).</li>
+      <li>Un quart (et non ¼).</li>
+      <li>La moitié (et non ½).</li>
     </ul>
     <h4>Unité monétaire</h4>
     <ul>
-      <li>100 $ par mois</li>
+      <li>100 $ par mois.</li>
     </ul>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
@@ -936,9 +949,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>L’abréviation est la forme réduite d’un terme. Les acronymes et les sigles sont tous deux des types d’abréviations. Ils sont composés des initiales d’une suite de mots et s’écrivent sans espace.</p>
     <p>Écrivez le terme au long à la première mention, suivi de son abréviation entre parenthèses. Par exemple :</p>
     <ul>
-      <li>Agence spatiale canadienne (ASC)</li>
-      <li>Équipe d’intervention en cas de catastrophe (EICC)</li>
-      <li>Ontario (Ont.)</li>
+      <li>Agence spatiale canadienne (ASC);</li>
+      <li>Équipe d’intervention en cas de catastrophe (EICC);</li>
+      <li>Ontario (Ont.).</li>
     </ul>
     <p>Après avoir introduit l’abréviation, utilisez-la sans le terme écrit au long.</p>
     <h4>Cherchez des mots-clés courants</h4>
@@ -967,8 +980,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4>Formules épistolaires&nbsp;: Comment abréger et ponctuer les titres avec les prénoms et noms</h4>
       <p>Suivez les consignes des <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite></a>&nbsp;:</p>
       <ul>
-        <li>Comment <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/docteur.html">employer le titre &laquo;&nbsp;docteur&nbsp;&raquo; ou &laquo;&nbsp;docteure&nbsp;&raquo; et son abréviation</a>.</li>
-        <li>Comment se référer aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-certificats-abreviations.html">grades et doctorats</a> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-et-grades-universitaires.html">diplômes et grades universitaires</a>.</li>
+        <li>Comment <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/docteur-docteure">employer le titre &laquo;&nbsp;docteur&nbsp;&raquo; ou &laquo;&nbsp;docteure&nbsp;&raquo; et son abréviation</a>.</li>
+        <li>Comment se référer aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-certificats-abreviations">grades et doctorats</a> et aux <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/diplomes-et-grades-universitaires">diplômes et grades universitaires</a>.</li>
         <li><a href="https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html">Formules épistolaires</a>&nbsp;: comment s’adresser à des personnes spécifiques de façon appropriée et respectueuse.</li>
       </ul>
     </section>
@@ -993,33 +1006,62 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <section id="wp4-6">
     <h3>4.6 Nombres</h3>
-    <h4>Principes généraux</h4>
+    <p>Pour déterminer si un nombre doit être écrit en chiffres ou en lettres, il faut tenir compte du contexte et de l’objectif visé. Dans cette section, nous vous donnons des conseils sur l’utilisation de chaque format, que vous pouvez adapter aux besoins de votre institution et de vos utilisateurs.</p>
+    <h4>Quand utiliser les chiffres</h4>
+    <p>Des études montrent que les chiffres sont plus faciles à lire et qu’ils attirent l’attention de l’utilisateur. L’utilisation des chiffres constitue une bonne pratique lorsqu’il faut mettre en évidence un nombre ou utiliser des données précises, notamment des données scientifiques, techniques ou mathématiques.</p>
+    <p>Par exemple, utilisez des chiffres dans les cas suivants&nbsp;:</p>
     <ul>
-      <li>Écrivez les nombres en chiffres arabes (0, 1, 2, 3), sauf s'ils se trouvent dans&nbsp;:
+      <li>dans les graphiques, les tableaux et les listes de données;</li>
+      <li>dans un calcul, une équation ou un ratio (y compris une fraction);</li>
+      <li>pour les nombres de 10 et plus;</li>
+      <li>pour comparer des montants, même si certains nombres sont inférieurs à 10.</li>
+    </ul>
+    <p>Par souci de clarté et pour faciliter la consultation, vous devriez également utiliser des chiffres, conformément aux pratiques courantes.</p>
+    <p>Exemples&nbsp;:</p>
+    <ul>
+      <li>Les étapes des instructions (étape 1, étape 2)</li>
+      <li>L’âge (5 ans)</li>
+      <li>L’heure et la date</li>
+      <li>L’adresse et le numéro de téléphone</li>
+    </ul>
+    <h4>Quand utiliser les lettres</h4>
+    <p>En général, lorsqu’il s’agit de contenu essentiellement textuel ou narratif, procédez comme suit&nbsp;:</p>
+    <ul>
+      <li>écrivez les nombres de zéro à neuf en toutes lettres;</li>
+      <li>évitez de commencer vos phrases par un nombre;
         <ul>
-          <li>un nom propre (la ville de Trois-Rivières);</li>
-          <li>un titre (Trois Hommes dans un bateau);</li>
-          <li>une expression (un jour, tout ira mieux).</li>
+          <li>si vous devez commencer par un nombre, écrivez-le en toutes lettres;</li>
         </ul>
       </li>
-      <li>Conservez les chiffres romains pour les noms propres (la partie II de la <cite>Loi sur la pension dans la fonction publique</cite>).</li>
-      <li>Jumelez le chiffre et le mot qui désigne un grand nombre, et insérez une espace insécable (Ctrl+Shift+barre Espace) entre les deux (5 millions, 20 ans).</li>
-      <li>Écrivez &laquo;&nbsp;premier&nbsp;&raquo;, &laquo;&nbsp;deuxième&nbsp;&raquo;, &laquo;&nbsp;troisième&nbsp;&raquo; et ainsi de suite jusqu'à &laquo;&nbsp;neuvième&nbsp;&raquo;.</li>
-      <li>Écrivez l'exposant dans la même taille de police pour&nbsp;:
+      <li>laissez les nombres en mots lorsqu’il s’agit de concepts établis ou des phrases courantes (jamais deux sans trois, « Une seule santé » de l’Organisation mondiale de la santé).</li>
+    </ul>
+    <h4>Expressions figuratives</h4>
+    <p>Dans les expressions figuratives, écrivez les nombres en lettres. Ainsi, le ton est plus naturel et fluide, alors que les chiffres peuvent avoir une connotation plus technique ou sembler trop littéraux.</p>
+    <p>Exemples&nbsp;:</p>
+    <ul>
+      <li>Un pas en avant, deux pas en arrière</li>
+      <li>Tolérance zéro</li>
+      <li>Seconde nature</li>
+    </ul>
+    <h4>Unités de mesure</h4>
+    <p>Lorsqu’il s’agit d’unités de mesure, il faut soit écrire le nombre et l’unité de mesure en toutes lettres, soit utiliser le chiffre et l’abréviation de l’unité. Cette règle s’applique même si le nombre est supérieur à 10.</p>
+       <p><b>Écrivez&nbsp;:</b> deux mètres ou 2 m</p>
+      <p><b>Au lieu de&nbsp;</b> 2 mètres ou deux m</p>
+    <p>Pour de plus amples renseignements, <a href="https://www.noslangues-ourlanguages.gc.ca/en/cles-de-la-redaction/unites-de-mesure">consultez la page portant sur les unités de mesure</a>.</p>
+    <h4>Les nombres dans d’autres contextes</h4>
+    <ul>
+      <li>Conservez le format original (y compris les chiffres romains) pour les noms propres (Gazette du Canada, partie II; projet de loi C-8).</li>
+      <li>Insérez une espace insécable (Ctrl+Shift+barre Espace) entre le chiffre et le mot qui suit (5 millions de dollars, 20 ans).</li>
+      <li>Les numéraux ordinaux, qu’ils soient écrits en chiffres arabes ou romains, s’accordent en genre et en nombre avec le nom qu’ils qualifient (les troisièmes examens) et s’abrègent avec des lettres minuscules surélevées  (les XI<sup>es</sup> Jeux du Commonwealth).</li>
+      <li>L’exposant s’écrit en petit caractère placé en haut et à droite d’un autre caractère dans les cas suivants :
         <ul>
-          <li>le premier jour du mois (1er décembre);</li>
-          <li>les adjectifs numéraux au-delà de 10 (10e, 50e, 150e).</li>
+        <li>le premier jour du mois  (le 1<sup>er</sup> décembre);</li>
+        <li>les adjectifs numéraux ordinaux (2<sup>e</sup> sortie, le 400<sup>e</sup> anniversaire de Québec).</li>
         </ul>
       </li>
-      <li>Utilisez &laquo;&nbsp;de…&nbsp;à…&nbsp;&raquo; et &laquo;&nbsp;entre… et…&nbsp;&raquo; plutôt qu'un tiret pour désigner une échelle de chiffres (par exemple, de 4&nbsp;000&nbsp;$ à 10&nbsp;000&nbsp;$ ou entre 4 et 10 ans).</li>
-      <li>Il n'est pas nécessaire de répéter l'abréviation ou le symbole si une espace le sépare du chiffre (par exemple, de 3 à 6 ml, de 10 à 12 %).</li>
+      <li>Il est courant de répéter le symbole dans une phrase où les chiffres sont séparés par une espace, mais ce n’est pas obligatoire (de 3 à 6 ml, entre 15 et 20 $, environ 45 à 50 %).</li>
     </ul>
-    <h4>Âges</h4>
-    <ul>
-      <li>Adultes âgés de 30 ans et plus</li>
-      <li>Les enfants âgés de 0 à 10 ans (et non &laquo;&nbsp;0–10 ans&nbsp;&raquo;)</li>
-      <li>Les participants ont entre 0 et 10 ans</li>
-    </ul>
+  <p>Vous trouverez sur le Navigateur linguistique d’autres exemples de <a href="https://www.noslangues-ourlanguages.gc.ca/fr/navigateur-navigator?field_writing_tools=All&search_api_fulltext=%20&sort_by=views&f%5B0%5D=navigateur_navigator_french_themes%3A588&f%5B1%5D=navigateur_navigator_french_themes%3A593&f%5B2%5D=navigateur_navigator_language%3A210%23navigateur-navigator-resultats-results#navigateur-navigator-resultats-results">règles d’écriture relatives aux nombres</a>.</p>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-6">4.6 Numbers</a></span></li>
@@ -1046,8 +1088,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Abrégez les noms de mois uniquement si l'espace est restreint (par exemple, janv., févr., avr.).</li>
     </ul>
     <h4>Périodes de temps</h4>
-    <ul>
-      <li>Utilisez &laquo;&nbsp;de… à…&nbsp;&raquo;, &laquo;&nbsp;du… au…&nbsp;&raquo; et &laquo;&nbsp;entre… et…&nbsp;&raquo; plutôt qu'un tiret pour désigner une période de temps. Par exemple&nbsp;:
+      <p>Utilisez &laquo;&nbsp;de… à…&nbsp;&raquo;, &laquo;&nbsp;du… au…&nbsp;&raquo; et &laquo;&nbsp;entre… et…&nbsp;&raquo; plutôt qu'un tiret pour désigner une période de temps. Par exemple&nbsp;:</p>
         <ul>
           <li>année civile 2014;</li>
           <li>du lundi au vendredi;</li>
@@ -1055,13 +1096,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <li>de janvier à mars 2016 (au lieu de T1, T2, T3, T4);</li>
           <li>exercice 2015 à 2016.</li>
         </ul>
-      </li>
-      <li>Pour les périodes de temps comme les exercices financiers, expliquez dans le texte qui l'accompagne à quoi correspond cette période. Par exemple&nbsp;:
+      <p>Pour les périodes de temps comme les exercices financiers, expliquez dans le texte qui l'accompagne à quoi correspond cette période. Par exemple&nbsp;:</p>
         <ul>
           <li>Ce rapport couvre l'exercice 2015 à 2016. Un exercice financier s'étend du 1er avril au 31 mars.</li>
         </ul>
-      </li>
-    </ul>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-7">4.7 Dates</a></span></li>
@@ -1088,8 +1126,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h3>4.9 Numéros de téléphone</h3>
     <p>Utilisez des tirets insécables (Ctrl+Shift+Tiret) pour les numéros de téléphone. Par exemple&nbsp;:</p>
     <ul>
-      <li>pour obtenir de l'aide, composez le 1-800-622-6232</li>
-      <li>vous pouvez nous joindre au 819-123-4567</li>
+      <li>Pour obtenir de l'aide, composez le 1-800-622-6232.</li>
+      <li>Vous pouvez nous joindre au 819-123-4567.</li>
       <li>613-999-9900 poste 123</li>
     </ul>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
@@ -1106,8 +1144,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4>Adresses postales</h4>
       <ul>
         <li>Abrégez le type de rue et l'orientation de la rue.</li>
-        <li>Utilisez l'<a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-f.asp#1378384">indicatif à deux lettres pour désigner la province ou le territoire</a>.</li>
-        <li>Insérez 2 espaces entre l'abréviation de la province ou du territoire et le code postal.</li>
+        <li>Utilisez l'<a href="https://www.canadapost-postescanada.ca/scp/fr/soutien/sujet/directives-adressage/apercu.page#1378384">indicatif à deux lettres pour désigner la province ou le territoire</a>.</li>
+        <li>Insérez deux espaces entre l'abréviation de la province ou du territoire et le code postal.</li>
         <li>Écrivez le code postal avec des lettres en majuscules.</li>
         <li>N'utilisez aucune ponctuation, sauf un trait d'union entre le numéro d'unité ou de bureau et le numéro municipal.</li>
       </ul>
@@ -1223,7 +1261,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </section>
     <section id="wp5-1-2">
       <h4>Donner un titre unique à votre page</h4>
-      <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon :</p>
+      <p>La plupart des moteurs de recherche repèrent les résultats pertinents selon&nbsp;:</p>
       <ul>
         <li>le titre de page;</li>
         <li>les titres de sections;</li>
@@ -1239,23 +1277,23 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Structurer les titres clairement aide à établir l'autorité d'un titre par rapport à un autre.</p>
       <p>Pour le <strong>titre</strong> de page :</p>
       <ul>
-        <li>utilisez ce style de présentation&nbsp;: Titre 1</li>
-        <li>une seule fois dans une page</li>
+        <li>utilisez ce style de présentation&nbsp;: Titre 1;</li>
+        <li>une seule fois dans une page.</li>
       </ul>
       <p>Pour une <strong>section principale</strong>&nbsp;:</p>
       <ul>
-        <li>utilisez ce style de présentation&nbsp;: Sous-titre 2</li>
-        <li>plusieurs fois dans une page</li>
+        <li>utilisez ce style de présentation&nbsp;: Sous-titre 2;</li>
+        <li>plusieurs fois dans une page.</li>
       </ul>
       <p>Pour une <strong>sous-section</strong> :</p>
       <ul>
-        <li>utilisez ce style de présentation&nbsp;: Sous-titre 3</li>
-        <li>plusieurs fois et dans maintes sections principales</li>
+        <li>utilisez ce style de présentation&nbsp;: Sous-titre 3;</li>
+        <li>plusieurs fois et dans maintes sections principales.</li>
       </ul>
       <p>Pour une <strong>sous-sous-section</strong> :</p>
       <ul>
-        <li>utilisez ce style de présentation&nbsp;: Sous-titre 4 (et ainsi de suite)</li>
-        <li>plusieurs fois et dans maintes sous-sections</li>
+        <li>utilisez ce style de présentation&nbsp;: Sous-titre 4 (et ainsi de suite);</li>
+        <li>plusieurs fois et dans maintes sous-sections.</li>
       </ul>
       <details>
         <summary>Structurez votre texte grâce aux options de styles automatisées </summary>
@@ -1284,7 +1322,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6>Incluez des mots-clés dans les métadonnées de la page</h6>
       <p>Utilisez les métabalises Titre et Description pour améliorer le classement de votre publication dans les résultats de recherche. Voici ce que vous pouvez faire&nbsp;:</p>
       <p><strong>Métabalise Titre</strong>&nbsp;: La métabalise Titre de la page est le texte en hyperlien bleu que vous voyez lorsque les moteurs de recherche génèrent une liste de résultats. Trouvez un titre principal (Titre 1) efficace pour votre page et utilisez-le aussi comme métabalise Titre.</p>
-      <p><strong>Métabalise Description</strong>&nbsp;: La métabalise Description est le contenu que vous voyez sous le texte en hyperlien bleu dans la liste des résultats de recherche. <strong>Évitez d'énumérer seulement des mots-clés,</strong> car les moteurs de recherche tendent à ne pas les prendre en considération. Écrivez une (1) ou 2 phrases courtes qui décrivent le contenu de la page. Assurez-vous d'inclure les mots-clés que vos publics cibles utilisent lorsqu'ils cherchent votre contenu (par exemple, des abréviations qu'ils connaissent bien).</p>
+      <p><strong>Métabalise Description</strong>&nbsp;: La métabalise Description est le contenu que vous voyez sous le texte en hyperlien bleu dans la liste des résultats de recherche. <strong>Évitez d'énumérer seulement des mots-clés,</strong> car les moteurs de recherche tendent à ne pas les prendre en considération. Écrivez une (1) ou deux phrases courtes qui décrivent le contenu de la page. Assurez-vous d'inclure les mots-clés que vos publics cibles utilisent lorsqu'ils cherchent votre contenu (par exemple, des abréviations qu'ils connaissent bien).</p>
       <p>Reportez-vous à la <a href="#toc6">section sur le langage clair et simple</a> pour des conseils sur l'utilisation de mots-clés simples et courants.</p>
     </section>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
@@ -1297,18 +1335,18 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
   <section id="wp5-2">
     <h3>5.2 Utiliser des listes d'éléments pour aider les gens à survoler le texte</h3>
-    <p>Il est plus facile de survoler une courte liste d'éléments verticaux et d'en retenir le contenu qu'un long paragraphe. Si c'est possible, visez un maximum de 7 éléments par liste.</p>
+    <p>Il est plus facile de survoler une courte liste d'éléments verticaux et d'en retenir le contenu qu'un long paragraphe. Si c'est possible, visez un maximum de sept éléments par liste.</p>
     <p>Lorsque vous rédigez des listes d'éléments&nbsp;:</p>
     <ul>
       <li>utilisez autant que possible la forme positive;</li>
       <li>regroupez les éléments rédigés à la forme négative, si vous devez l'utiliser;</li>
-      <li>utilisez une structure grammaticale cohérente. Par exemple, si&nbsp;:
+      <li>utilisez une structure grammaticale cohérente, par exemple, si&nbsp;:
         <ul>
           <li>vous utilisez le mode impératif (commandement) dans le premier élément de votre liste, reprenez ce mode dans chaque élément subséquent;</li>
-          <li>votre premier élément commence par un nom, poursuivez la liste de la même façon;</li>
+          <li>votre premier élément commence par un nom, poursuivez la liste de la même façon.</li>
         </ul>
       </li>
-      <li>si votre liste contient plus de 7 éléments, songez à la séparer en différentes catégories.</li>
+      <li>si votre liste contient plus de sept éléments, songez à la séparer en différentes catégories.</li>
     </ul>
     <section id="wp5-2-1">
       <h4>Phrase d'introduction</h4>
@@ -1327,10 +1365,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4>Listes numérotées</h4>
       <p>Utilisez des listes numérotées pour indiquer&nbsp;:</p>
       <ul>
-        <li>le rang</li>
-        <li>l'ordre</li>
-        <li>la priorité</li>
-        <li>les détails d'une marche à suivre, étape par étape</li>
+        <li>le rang;</li>
+        <li>l'ordre;</li>
+        <li>la priorité;</li>
+        <li>les détails d'une marche à suivre, étape par étape.</li>
       </ul>
     </section>
     <section id="wp5-2-3">
@@ -1502,7 +1540,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <h5>Avant&nbsp;: tableau complexe</h5>
       <p>Le tableau qui suit est complexe et mal conçu. Il serait difficile d'y accéder et d'en comprendre l'information à l'aide d'un lecteur d'écran ou d'un appareil mobile.</p>
-      <h6> Exemple <span class="wb-inv">de tableau complexe</span></h6>
+      <h6>Exemple&nbsp;: un tableau complexe</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
         <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
@@ -1582,7 +1620,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           </tr>
         </tbody>
       </table>
-      <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de 2 tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
+      <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de deux tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
       <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
       <table class="table table-bordered table-condensed">
         <caption class="text-center">
@@ -1630,7 +1668,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           </tr>
         </tbody>
       </table>
-      <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en 2 listes d'éléments.</p>
+      <p class="mrgn-tp-lg">Le tableau complexe peut aussi être facilement converti en deux listes d'éléments.</p>
       <h6>Exemple : conversion de tableaux en texte </h6>
       <p><strong>Association de l'Est de la Ligue nationale de hockey </strong></p>
       <p>Équipes canadiennes gagnantes de la Coupe Stanley&nbsp;:</p>
@@ -1649,7 +1687,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <section id="wp5-3-3">
       <h4>Éviter les cellules texturées ou colorées</h4>
       <p>Évitez de mettre de la texture ou des couleurs dans les cellules.</p>
-      <p>Si vous devez utiliser des textures et des couleurs dans un tableau, expliquez ce qu'elles signifient (par exemple, dans les notes du tableau ou dans une légende). Conformez-vous aux règles de <a href="http://www.w3.org/Translations/WCAG20-fr/#visual-audio-contrast">rapport minimum de contraste des couleurs (1.4.3)</a> des <cite>Règles pour l'accessibilité des contenus Web 2.0</cite>.</p>
+      <p>Si vous devez utiliser des textures et des couleurs dans un tableau, expliquez ce qu'elles signifient (par exemple, dans les notes du tableau ou dans une légende). Conformez-vous aux règles de <a href="https://www.w3.org/Translations/WCAG20-fr/#visual-audio-contrast">rapport minimum de contraste des couleurs (1.4.3)</a> des <cite>Règles pour l'accessibilité des contenus Web 2.0</cite>.</p>
       <p>Ne vous fiez <strong>jamais</strong> uniquement à la couleur ou à la texture pour présenter des renseignements importants.</p>
     </section>
     <section id="wp5-3-4">
@@ -1709,17 +1747,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </ul>
   <p>Lorsque vous planifiez votre contenu, évaluez les avantages d'inclure des vidéos et leur incidence sur les gens qui tenteront de les visionner avec des appareils mobiles. Leur capacité à accéder à ces fichiers peut varier en fonction de leur service de données mobiles ou de leur réseau.</p>
   <h4>Obtenir la permission de publier</h4>
-  <p>Assurez-vous que vous possédez les droits appropriés pour publier des images, des fichiers audio et des vidéos sur Canada.ca. Vous devrez avoir la preuve écrite que vous avez obtenu ces droits. Reportez-vous aux <cite><a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition</a></cite> ou communiquez avec l'équipe d'édition de votre institution pour plus de détails.</p>
+  <p>Assurez-vous que vous possédez les droits appropriés pour publier des images, des fichiers audio et des vidéos sur Canada.ca. Vous devrez avoir la preuve écrite que vous avez obtenu ces droits. Reportez-vous aux <cite><a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition</a></cite> ou communiquez avec l'équipe d'édition de votre institution pour plus de détails.</p>
   <h4>Obtenir de l'aide concernant les images, les fichiers audio ou les vidéos sur le site Canada.ca </h4>
   <p>Si vous avez des questions précises concernant les exigences en matière de licence ou les formulaires de consentement liés à Canada.ca, contactez l'éditeur principal&nbsp;: <a href="mailto:na-web_support-soutien_du_web-gd@servicecanada.gc.ca">na-web_support-soutien_du_web-gd@servicecanada.gc.ca</a>.</p>
 </section>
 <section id="wp6-1">
   <h3>6.1 Comprendre le but des images sur le Web</h3>
   <p>Les images peuvent distraire les gens. Elles peuvent aussi augmenter la durée de chargement de la page. Assurez-vous que vos images <strong>ajoutent une valeur réelle</strong> à votre contenu.</p>
-  <p>Il y a 2 principales catégories d'images :</p>
+  <p>Il y a deux principales catégories d'images&nbsp;:</p>
   <ul>
-    <li>fonctionnelles</li>
-    <li>décoratives</li>
+    <li>fonctionnelles;</li>
+    <li>décoratives.</li>
   </ul>
   <section id="wp6-1-1">
     <h4>Images fonctionnelles</h4>
@@ -1732,10 +1770,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <p>Les images fonctionnelles ajoutent de la valeur au contenu étant donné qu'elles communiquent l'information avec plus d'efficacité que le texte seul. Voici quelques types d'images fonctionnelles&nbsp;:</p>
     <ul>
-      <li>éléments infographiques</li>
-      <li>illustration</li>
-      <li>diagramme</li>
-      <li>Carte d'images</li>
+      <li>éléments infographiques;</li>
+      <li>illustration;</li>
+      <li>diagramme;</li>
+      <li>Carte d'images.</li>
     </ul>
     <h5>Exemples d'images fonctionnelles</h5>
     <figure class="mrgn-bttm-lg">
@@ -1859,7 +1897,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <img alt="Cet organigramme vous aidera à choisir le projet d’accessibilité qui vous convient le mieux : la description suit" class="img-responsive center-block" src="/guide-redaction/images/organigramme-taux-fixe.png">
       <details>
         <summary>Figure 5 - Version textuelle</summary>
-        <p class="mrgn-tp-lg">L'organigramme vous présente des questions que vous pouvez répondre par oui ou non. Si vous répondez &laquo;&nbsp;&nbsp;non&nbsp;», il vous recommande d'autres projets d'accessibilité.</p>
+        <p class="mrgn-tp-lg">L'organigramme vous présente des questions que vous pouvez répondre par oui ou non. Si vous répondez &laquo;&nbsp;non&nbsp;», il vous recommande d'autres projets d'accessibilité.</p>
         <section>
           <p><strong>Question&nbsp;1&nbsp;:</strong> L’entrée de votre immeuble est-elle exempte d’obstacles ?</p>
           <ul>
@@ -1874,7 +1912,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <section>
           <p><strong>Question&nbsp;2&nbsp;:</strong> Les couloirs sont-ils assez larges pour permettre aux personnes utilisant des appareils fonctionnels, comme les fauteuils roulants électriques, de passer ?</p>
           <ul>
-            <li>Si votre réponse est &laquo;&nbsp;Oui &nbsp;&raquo;, passez à la question&nbsp;3.</li>
+            <li>Si votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;, passez à la question&nbsp;3.</li>
             <li>Si votre réponse est &laquo;&nbsp;Non&nbsp;&raquo;&nbsp;:
               <ul>
                 <li>élargir les couloirs et les portes, ou installer des ouvre-portes automatiques, des ascenseurs ou des plateformes élévatrices pourrait éliminer les obstacles dans votre immeuble.</li>
@@ -1886,7 +1924,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <p><strong>Question&nbsp;3&nbsp;:</strong> Les personnes en situation de handicap peuvent-elles accéder à l’ensemble des étages, niveaux et sections nécessaires de votre immeuble ?</p>
           <ul>
             <li>Si votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;, passez à la question&nbsp;4.</li>
-            <li>Si votre réponse est &laquo;&nbsp;Non &nbsp;&raquo;&nbsp;:
+            <li>Si votre réponse est &laquo;&nbsp;Non&nbsp;&raquo;&nbsp;:
               <ul>
                 <li>élargir les couloirs et les portes, ou installer des ouvre-portes automatiques, des ascenseurs ou des plateformes élévatrices pourrait éliminer les obstacles dans votre immeuble.</li>
               </ul>
@@ -1912,7 +1950,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
                 <li>félicitations! Voici quelques exemples d’autres projets d’accessibilité financés par le Fonds pour l’accessibilité (FA)&nbsp;: éléments relatifs à la sûreté et la sécurité, comme des alarmes incendie visuelles; pièces multisensorielles; appareils auditifs à boucle; et plus encore !</li>
               </ul>
             </li>
-            <li>&nbsp;Si votre réponse est &laquo;&nbsp;Non &nbsp;&raquo;&nbsp;:
+            <li>&nbsp;Si votre réponse est &laquo;&nbsp;Non&nbsp;&raquo;&nbsp;:
               <ul>
                 <li>élargir les couloirs et les portes, ou installer des ouvre-portes automatiques, des ascenseurs ou des plateformes élévatrices pourrait éliminer les obstacles dans votre immeuble.</li>
               </ul>
@@ -1932,7 +1970,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>promotions contextuelles d'une page de sujet ou de la page d'accueil (Activités et initiatives du gouvernement du Canada).</li>
     </ul>
     <p>N'insérez pas de texte important, comme des titres de campagne ou de programme, dans des images décoratives.</p>
-    <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <cite><a href="{{ site.url }}/architecture/specifications-contenu-architecture-information-canada.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca.</a></cite>.</p>
+    <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a>.</p>
     <h5>Exemple d'une image décorative</h5>
     <p><img alt="Image décorative en contexte pour créer un intérêt visuel" class="img-responsive center-block" src="/guide-redaction/images/panier-03.png"></p>
     <h5>Ne décrivez pas les images décoratives</h5>
@@ -1944,8 +1982,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Taille et placement des images</h4>
     <p>Apprenez où placer les images et vidéos sur les pages Canada.ca et quelle taille leur donner&nbsp;:</p>
     <ul>
-      <li>Utilisez les modèles contenus dans les <a href="https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html">Spécifications de Canada.ca</a></li>
-      <li>Référez-vous aux <a href="https://wet-boew.github.io/GCWeb/index-fr.html">types de pages de Canada.ca sur GitHub</a></li>
+      <li>Utilisez les modèles contenus dans les <a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a>.</li>
+      <li>Référez-vous aux <a href="https://wet-boew.github.io/GCWeb/index-fr.html">types de pages de Canada.ca sur GitHub</a>.</li>
     </ul>
   </section>
   <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
@@ -1993,7 +2031,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h5>Description longue</h5>
     <p>Vous pourriez écrire la description longue suivante pour décrire l'image présentée à la figure&nbsp;1&nbsp;:</p>
     <p>Un tableau de bord équilibré est un outil de planification stratégique et de gestion utilisé partout dans le monde pour harmoniser les activités opérationnelles avec la vision et la stratégie d'une organisation.</p>
-    <p>Les activités opérationnelles sont regroupées dans 4&nbsp;catégories, toutes interdépendantes, qui découlent de la vision et de la stratégie. Les catégories sont&nbsp;: l'apprentissage et la croissance, les processus opérationnels internes, la clientèle et les finances. Chacune est associée à une question.</p>
+    <p>Les activités opérationnelles sont regroupées dans quatre&nbsp;catégories, toutes interdépendantes, qui découlent de la vision et de la stratégie. Les catégories sont&nbsp;: l'apprentissage et la croissance, les processus opérationnels internes, la clientèle et les finances. Chacune est associée à une question.</p>
     <ul>
       <li>Apprentissage et croissance</li>
     </ul>
@@ -2010,12 +2048,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Clientèle</li>
     </ul>
     <p>Pour concrétiser notre vision, quelle image devons-nous projeter à nos clients?</p>
-    <p>Chaque catégorie peut être évaluée à l'aide des 4 éléments suivants&nbsp;:</p>
+    <p>Chaque catégorie peut être évaluée à l'aide des quatre éléments suivants&nbsp;:</p>
     <ul>
-      <li>objectifs</li>
-      <li>messages</li>
-      <li>buts</li>
-      <li>initiatives</li>
+      <li>objectifs;</li>
+      <li>messages;</li>
+      <li>buts;</li>
+      <li>initiatives.</li>
     </ul>
   </figure>
   <p>La figure 2 est un graphique à barres qui représente les données contenues dans le tableau de données. Vous pourriez donc utiliser le tableau comme description longue pour accompagner cette image.</p>
@@ -2076,7 +2114,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </tfoot>
     </table>
   </figure>
-  <p>Collaborez avec votre équipe Web pour déterminer la meilleure façon d'insérer la description longue. Elle vous conseillera sur la façon de s'assurer que l'information contenue dans l'image est accessible aux personnes qui utilisent les technologies d'aide. Votre équipe Web s'assurera également que l'image respecte les <cite><a href="https://www.tbs-sct.gc.ca/hgw-cgf/oversight-surveillance/communications/cia-sca-fra.asp">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a></cite>.</p>
+  <p>Collaborez avec votre équipe Web pour déterminer la meilleure façon d'insérer la description longue. Elle vous conseillera sur la façon de s'assurer que l'information contenue dans l'image est accessible aux personnes qui utilisent les technologies d'aide. Votre équipe Web s'assurera également que l'image respecte les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a>.</p>
   <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-3">6.3 Include long descriptions for complex images</a></span></li>
@@ -2141,17 +2179,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h3>7.1 Utiliser les liens de façon stratégique</h3>
     <p>Réfléchissez bien à la façon de créer vos liens. Choisissez stratégiquement la façon de présenter les liens dans une page Web ainsi que le nombre de liens&nbsp;:</p>
     <ul>
-      <li>ajoutez des liens qui appuient directement le sujet ou la tâche de la page en question;</li>
-      <li>fournissez des liens menant au à l'information d'origine publiée par la source faisant autorité;</li>
-      <li>n'incluez pas de liens vers des sites intranet sauf si le contenu est destiné à des employés fédéraux, auquel cas il faudra ajouter la mention &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;;</li>
-      <li>ne mettez pas de liens essentiels à la tâche au milieu d'un paragraphe ou au bas d'une page.</li>
+      <li>Ajoutez des liens qui appuient directement le sujet ou la tâche de la page en question.</li>
+      <li>Fournissez des liens menant au à l'information d'origine publiée par la source faisant autorité.</li>
+      <li>N'incluez pas de liens vers des sites intranet sauf si le contenu est destiné à des employés fédéraux, auquel cas il faudra ajouter la mention &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</li>
+      <li>Ne mettez pas de liens essentiels à la tâche au milieu d'un paragraphe ou au bas d'une page.</li>
     </ul>
     <h4>Exemple d'une utilisation appropriée des hyperliens</h4>
     <h6>Écrivez&nbsp;:</h6>
-    <p>Une portion selon le Guide alimentaire est la quantité d'aliments de chacun des 4 groupes que l'on devrait manger chaque jour. Dans certains cas, une portion correspond à un aliment que l'on mange habituellement en une seule fois, comme une pomme. Dans d'autres, la quantité quotidienne correspond à plus d'une portion, comme pour du riz ou des pâtes.</p>
-    <p><a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-fra.php">Nombre de portions quotidiennes pour les enfants, les adolescents et les adultes</a></p>
+    <p>Une portion selon le Guide alimentaire est la quantité d'aliments de chacun des quatre groupes que l'on devrait manger chaque jour. Dans certains cas, une portion correspond à un aliment que l'on mange habituellement en une seule fois, comme une pomme. Dans d'autres, la quantité quotidienne correspond à plus d'une portion, comme pour du riz ou des pâtes.</p>
+    <p><a href="https://guide-alimentaire.canada.ca/fr/">Nombre de portions quotidiennes pour les enfants, les adolescents et les adultes</a></p>
     <h6>Au lieu de&nbsp;:</h6>
-    <p>Une portion du Guide alimentaire est tout simplement une à titre de référence qui vous aide à comprendre la <a href="http://www.hc-sc.gc.ca/fn-an/food-guide-aliment/basics-base/quantit-fra.php" title="quantités">quantité</a> d'aliments recommandée chaque jour dans chacun des groupes alimentaires. Dans certains cas, une portion du Guide alimentaire peut se rapprocher de ce que vous mangez, comme une pomme. Dans d'autres cas, comme lorsqu'il s'agit de riz ou de pâtes alimentaires, vous vous servez peut-être plus d'une portion du Guide alimentaire à la fois.</p>
+    <p>Une portion du Guide alimentaire est tout simplement une à titre de référence qui vous aide à comprendre la <a href="https://guide-alimentaire.canada.ca/fr/" title="quantités">quantité</a> d'aliments recommandée chaque jour dans chacun des groupes alimentaires. Dans certains cas, une portion du Guide alimentaire peut se rapprocher de ce que vous mangez, comme une pomme. Dans d'autres cas, comme lorsqu'il s'agit de riz ou de pâtes alimentaires, vous vous servez peut-être plus d'une portion du Guide alimentaire à la fois.</p>
     <section id="wp7-1-1">
       <h4>Choisir le contenu connexe avec soin</h4>
       <p>Ajouter des liens vers d'autres pages Web pertinentes peut aider les gens à trouver rapidement des renseignements utiles. Les liens qui mènent à vos pages à partir d'autres pages Web peuvent aussi améliorer le classement de vos pages dans la liste des résultats générée par les moteurs de recherche.</p>
@@ -2179,7 +2217,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <p>N'utilisez pas&nbsp;:</p>
     <ul>
-      <li>le même texte pour des liens qui mènent à 2 pages différentes;</li>
+      <li>le même texte pour des liens qui mènent à deux pages différentes;</li>
       <li>d'expressions vagues comme &laquo;&nbsp;cliquez ici&nbsp;&raquo; ou &laquo;&nbsp;pour en savoir plus&nbsp;&raquo;;</li>
       <li>de message promotionnel qui risque d'être déroutant pour quelqu'un qui tente de décider s'il naviguera jusqu'à la page.</li>
     </ul>
@@ -2192,7 +2230,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit&nbsp;:</p>
       <ul>
         <li>ouvrez le <a href="http://www.servicecanada.gc.ca/fi-if/index.jsp?app=prfl&amp;frm=ins5241&amp;lang=fra">formulaire servant à déclarer votre revenu</a> assurable;</li>
-        <li>indiquez les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant la plus courte des 2&nbsp;périodes suivantes&nbsp;:
+        <li>indiquez les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant la plus courte des deux&nbsp;périodes suivantes&nbsp;:
           <ul>
             <li>vos 52 dernières semaines d'emploi;</li>
             <li>depuis le début de votre dernière demande;</li>
@@ -2201,55 +2239,45 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>retournez le formulaire rempli en personne au <a href="http://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=fra">bureau de Service Canada le plus près de chez vous</a>.</li>
       </ul>
       <h6>Au lieu de&nbsp;:</h6>
-      <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit, remplissez le formulaire <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=ins5241&amp;ln=fra">Attestation du prestataire – Semaines durant lesquelles la rémunération assurable était la plus élevée (Meilleures semaines variables)</a>. Inscrivez-y les renseignements requis concernant les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant vos 52 dernières semaines d'emploi ou depuis le début de votre dernière demande, selon la plus courte période des deux.</p>
+      <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit, remplissez le formulaire <a href="https://catalogue.servicecanada.gc.ca/content/EForms/fr/Detail.html?Form=INS5241">Attestation du prestataire – Semaines durant lesquelles la rémunération assurable était la plus élevée (Meilleures semaines variables)</a>. Inscrivez-y les renseignements requis concernant les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant vos 52 dernières semaines d'emploi ou depuis le début de votre dernière demande, selon la plus courte période des deux.</p>
     </section>
     <section id="wp7-2-2">
       <h4>Utiliser des parenthèses pour ajouter des informations contextuelles</h4>
       <p>Utilisez des parenthèses à l'intérieur d'un lien pour ajouter des informations contextuelles à propos du contenu en renvoi. Ne fournissez que les informations contextuelles nécessaires pour aider les utilisateurs à décider s'ils veulent poursuivre ou non.</p>
-      <p>Cette directive s'applique dans les situations suivantes&nbsp;:</p>
-      <ul class="lst-spcd">
-        <li>
-          <p><strong>Le lien renvoie à un document téléchargeable</strong>. Assurez vous d'inclure le <strong>type de fichier et sa taille</strong> entre les parenthèses&nbsp;</p>
-          <ul>
-            <li><strong>Exemple&nbsp;:&nbsp;</strong><span lang="en"><a href="https://www.asc-csa.gc.ca/pdf/fra/publications/2021-2022-etat-secteur-spatial-canadien-faits-chiffres-2020-et-2021-v2.pdf">État du secteur spatial canadien (PDF, 5,52 mo)</a></span></li>
-          </ul>
-        </li>
-        <li>
-          <p><strong>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue.</strong></p>
-          <p>Certains contenus pour lesquels le gouvernement ne fait pas autorité ne sont pas disponibles dans les deux langues officielles. Si vous créez un lien vers du contenu Web externe qui n'est pas disponible dans la langue de la page courante, précisez la ou les langues dans lesquelles le contenu est disponible.</p>
-          <ul>
-            <li>Ajoutez une parenthèse à l'intérieur du lien et spécifiez la langue du contenu lié, formatée comme suit&nbsp;: (Langue X seulement).</li>
-            <li>Ne traduisez pas le titre du contenu en renvoi.</li>
-            <li>Assurez-vous que la langue du renvoi soit spécifiée dans le code du lien.</li>
-          </ul>
-          <p class="mrgn-tp-md">Sur une page en francais, écrivez&nbsp;:</p>
-          <ul>
-            <li><a href="#">Texte en hyperlien (en anglais seulement)</a></li>
-            <li><a href="#">Texte en hyperlien (en inuktitut seulement)</a></li>
-            <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement)</a>
-              <ul>
-                <li><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <span lang="en"><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span></li>
-              </ul>
-            </li>
-          </ul>
-          <p class="mrgn-tp-md">Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français.</p>
-          <ul>
-            <li><strong>Exemple</strong>&nbsp;: <a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></li>
-          </ul>
-        </li>
-        <li>
-          <p><strong>Le lien renvoi à un contenu audio ou vidéo. </strong> Précisez la durée du contenu entre parenthèses.</p>
-          <ul>
-            <li><strong>Exemple</strong>&nbsp;: <span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span></li>
-          </ul>
-        </li>
-        <li>
-          <p><strong>Lorsque plus d’une de ces situations s’appliquent, ajoutez toutes les informations contextuelles nécessaires entre parenthèses.</strong></p>
-          <ul>
-            <li><strong>Exemple</strong>&nbsp;: <a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 KB, 4 pages)</a> </li>
-          </ul>
-        </li>
+      <p>Cette directive s'applique dans les situations suivantes.</p>
+      <h5>Le lien renvoie à un document téléchargeable</h5>
+      <p>Assurez-vous d'inclure le type de fichier et sa taille entre les parenthèses. Par exemple&nbsp;:</p>
+      <ul>
+        <li><a href="https://www.asc-csa.gc.ca/pdf/fra/publications/2021-2022-etat-secteur-spatial-canadien-faits-chiffres-2020-et-2021-v2.pdf">État du secteur spatial canadien (PDF, 5,52 Mo)</a>.</li>
       </ul>
+      <h5>Lorsque le lien renvoi vers un contenu externe qui est n’est pas dans la même langue</h5>
+      <p>Certains contenus pour lesquels le gouvernement ne fait pas autorité ne sont pas disponibles dans les deux langues officielles. Si vous créez un lien vers du contenu Web externe qui n'est pas disponible dans la langue de la page courante, précisez la ou les langues dans lesquelles le contenu est disponible. Assurez-vous de faire ce qui suit&nbsp;:</p>
+      <ul>
+        <li>Ajoutez une parenthèse à l'intérieur du lien et spécifiez la langue du contenu lié, formatée comme suit : (Langue X seulement).</li>
+        <li>Ne traduisez pas le titre du contenu en renvoi.</li>
+        <li>Assurez-vous que la langue du renvoi soit spécifiée dans le code du lien.</li>
+      </ul>
+      <p class="mrgn-tp-md">Sur une page en français, écrivez&nbsp;:</p>
+          <ul>
+            <li><a href="#">Texte en hyperlien (en anglais seulement).</a></li>
+            <li><a href="#">Texte en hyperlien (en inuktitut seulement).</a></li>
+            <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement).</a></li>
+          </ul>
+          <p><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <a href="https://www.w3.org/TR/WCAG/"><span lang="en">Web Content Accessibility Guidelines (WCAG)</span> (en anglais seulement)</a>.</p>
+          <p class="mrgn-tp-md">Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français. Par exemple&nbsp;:</p>
+          <ul>
+            <li><a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></li>
+          </ul>
+          <h5>Le lien renvoi à un contenu audio ou vidéo</h5>
+          <p>Précisez la durée du contenu entre parenthèses. Par exemple&nbsp;:</p>
+          <ul>
+            <li><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk"><span lang="en">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes)</span> (en anglais seulement)</a>.</li>
+          </ul>
+          <h5>Lorsque plus d’une de ces situations s’appliquent</h5>
+          <p>Ajoutez toutes les informations contextuelles nécessaires entre parenthèses. Par exemple&nbsp;:</p>
+          <ul>
+            <li><a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : <span lang="en">United Kingdom passport application</span> (en anglais seulement, PDF, 214 Ko, 4 pages)</a>. </li>
+          </ul>
     </section>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
@@ -2264,7 +2292,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vérifiez que vos liens fonctionnent et qu’ils dirigent les gens vers les bonnes informations.  Les liens qui sont brisés ou obsolètes créent de la frustration.  Ils peuvent amener les gens à perdre confiance en votre contenu.</p>
     <p>Il convient de vérifier vos liens et de les mettre à jour dans le cadre de votre routine de maintenance du contenu.</p>
     <ul>
-      <li>Réparez les liens brisés (p. ex., ceux qui dirigent vers un message 404 &laquo;&nbsp;Page introuvable&nbsp;&raquo;).</li>
+      <li>Réparez les liens brisés (par exemple, ceux qui dirigent vers un message 404 &laquo;&nbsp;Page introuvable&nbsp;&raquo;).</li>
       <li>Vérifiez que la destination des liens est la bonne et que l’information y est pertinente et à jour.</li>
       <li>Passez en revue les redirections d’URL&nbsp;:
         <ul>
@@ -3061,7 +3089,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>utilisé l'approche de la pyramide inversée de façon à présenter le résumé ou la conclusion en premier, suivi de renseignements de plus en plus détaillés;</li>
     <li>rédigé des titres clairs pour chaque tableau;</li>
     <li>utilisé les sous-titres existants compris dans l'exemple initial pour créer les titres des différents tableaux;</li>
-    <li>veillé à ce que les en-têtes des 3 colonnes numériques correspondent à la valeur unitaire indiquée dans chaque colonne;</li>
+    <li>veillé à ce que les en-têtes des trois colonnes numériques correspondent à la valeur unitaire indiquée dans chaque colonne;</li>
     <li>ajouté des zéros afin de fournir des renseignements pertinents dans les cellules qui auraient autrement été laissées vides;</li>
     <li>supprimé les cellules et les rangées vides ainsi que les sous-titres non pertinents (c'est-à-dire, ceux qui ne correspondaient à aucune valeur sous les en-têtes de colonne).</li>
   </ul>
@@ -3069,44 +3097,43 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <section id="toc13">
   <h2>Ressources</h2>
   <ul>
-    <li><a href="http://ccat-ctac.org/CMFiles/Publication/LiteracyBook-FR.pdf">L'alphabétisation et l'accès à la justice administrative au Canada</a>, Conseil des tribunaux administratifs canadiens</li>
-    <li><a href="http://www.spl.gouv.qc.ca/ministreetspl/actualites/detail/article/bonnes-pratiques/">Bonnes pratiques de la communication écrite dans les démarches en ligne</a>, Secrétariat à la politique linguistique et par la Délégation générale à la langue française et aux langues de France</li>
-    <li><cite><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra">Clés de la rédaction, Ressource du Portail linguistique du Canada, Gouvernement du Canada</a></cite></li>
+    <li><a href="http://ccat-ctac.org/CMFiles/Publication/LiteracyBook-FR.pdf">L'alphabétisation et l'accès à la justice administrative au Canada (PDF, 373 Ko)</a>, Conseil des tribunaux administratifs canadiens</li>
+    <li><a href="https://www.modernisation.gouv.fr/campus-de-la-transformation-publique/catalogue-de-ressources/outil/langage-clair-et-services">Bonnes pratiques de la communication écrite dans les démarches en ligne</a>, Secrétariat à la politique linguistique et par la Délégation générale à la langue française et aux langues de France</li>
+    <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/index-fra"><cite>Clés de la rédaction</cite>, Ressource du Portail linguistique du Canada, gouvernement du Canada</a></li>
     <li><a href="http://publications.europa.eu/code/fr/fr-000500.htm">Code de rédaction interinstitutionnel</a>, Commission Européenne</li>
     <li><a href="http://www.publications.gc.ca/site/fra/9.639707/publication.html">Communiquer avec les aînés&nbsp;: conseils et techniques</a>, Santé Canada</li>
-    <li><a href="http://www.spiria.com/fr/blogue/sites-web/comprendre-laccessibilite-web">Comprendre l'accessibilité Web</a>, SPIRIA</li>
-    <li><a href="https://www.canadapost.ca/tools/pg/manual/PGaddress-f.asp">Directives d'adressage</a>, Postes Canada</li>
-    <li><a href="http://www.omafra.gov.on.ca/french/nfporgs/07-050.htm">Écrire avec clarté</a>, Ministère de l'Agriculture, de l'Alimentation et des Affaires rurales de l'Ontario</li>
+    <li><a href="https://www.spiria.com/fr/blogue/accessibilite-5-choses-que-nous-devrions-deja-faire">Comprendre l'accessibilité Web</a>, SPIRIA</li>
+    <li><a href=" https://www.canadapost-postescanada.ca/scp/fr/soutien/sujet/directives-adressage/apercu.page">Directives d'adressage</a>, Postes Canada</li>
+    <!-- <li><a href="http://www.omafra.gov.on.ca/french/nfporgs/07-050.htm">Écrire avec clarté</a>, Ministère de l'Agriculture, de l'Alimentation et des Affaires rurales de l'Ontario</li> no link available -->
     <li><a href="http://www.statcan.gc.ca/daily-quotidien/141104/dq141104b-fra.htm">Étude&nbsp;: Les diplômés universitaires ayant des niveaux de compétence moindres en littératie et en numératie, 2012</a>, Statistique Canada</li>
     <li><a href="http://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-fra.htm">Étude&nbsp;: Littératie et numératie chez les Premières Nations vivant hors réserve et les Métis, 2012</a>, Statistique Canada</li>
-    <li><a href="http://www.ergolab.net/articles/faciliter-lecture-informations-web.php">Faciliter la lecture d'informations sur le web</a>, Ergolab</li>
-    <li><a href="http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf">Good Fonts for Dyslexia</a> (en anglais seulement), Luz Rello, NLP &amp; Web Research Groups, et Ricardo Baeza-Yates, Yahoo! Labs &amp; Web Research Group, UPF</li>
-    <li><a href="http://www.autisme.qc.ca/assets/files/07-boite-outils/Communication/Guide-pavillon-parc.pdf">Guide de rédaction pour une information accessible</a>, Équipe de recherche en littératie et inclusion</li>
-    <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
+    <li><a href="https://tecfa.unige.ch/tecfa/maltt/cosys-2/textes/ergolab_lisibilite_web.pdf">Faciliter la lecture d'informations sur le web (PDF, 183 Ko)</a>, Ergolab</li>
+    <li><a href="http://w3.uqo.ca/litteratie/documents/guide2011_000.pdf">Guide de rédaction pour une information accessible (PDF, 3.9 Mo)</a>, Équipe de recherche en littératie et inclusion</li>
+    <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/"><span lang="en">How Users Read on the Web</span> (en anglais seulement)</a>, Jakob Nielsen, Nielsen Norman Group</li>
     <li><a href="http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?t1=1&amp;id=4208">Impératif et infinitif</a>, Office québécois de la langue française</li>
-    <li><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-FR.pdf">Introduction à la justice administrative et au langage clair</a>, Conseil des tribunaux administratifs canadiens</li>
-    <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a> (en anglais seulement), Government Digital Service, GOV.UK</li>
+    <li><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-FR.pdf">Introduction à la justice administrative et au langage clair (PDF, 799 Ko)</a>, Conseil des tribunaux administratifs canadiens</li>
+    <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design"><span lang="en">Introduction to content design</span> (en anglais seulement)</a>, Government Digital Service, GOV.UK</li>
     <li><a href="http://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-fra.htm">Les compétences au Canada&nbsp;: Premiers résultats du Programme pour l'évaluation internationale des compétences des adultes</a>, Statistique Canada</li>
-    <li><a href="http://www.vortexsolution.com/lexique-web-montreal.html">Lexique Web</a>, Vortex solution</li>
-    <li><a href="http://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a> (en anglais seulement), ABC Life Literacy Canada</li>
-    <li><a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/">Lower-Literacy Users: Writing for a Broad Consumer Audience</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
-    <li><a href="https://www.nngroup.com/articles/minimize-cognitive-load/">Minimize Cognitive Load to Maximize Usability</a> (en anglais seulement), Kathryn Whitenton, Nielsen Norman Group</li>
-    <li><a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a> (en anglais seulement), Raluca Budio, Nielsen Norman Group</li>
-    <li><a href="http://plainlanguagenetwork.org/">Plain Language Association International</a> (en anglais seulement)</li>
-    <li><a href="https://www.navigatormm.com/blog/plain-language-please-heres-why-to-avoid-marketese-online/">Plain Language, Please! Here's Why to Avoid "Marketese" Only</a> (en anglais seulement), Sarah Bauer</li>
+    <!-- <li><a href="http://www.vortexsolution.com/lexique-web-montreal.html">Lexique Web</a>, Vortex solution</li> no link available -->
+    <li><a href="http://abclifeliteracy.ca/workplace-literacy-facts"><span lang="en">Literacy and Numeracy in Canada</span> (en anglais seulement)</a>, ABC Life Literacy Canada</li>
+    <li><a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/"><span lang="en">Lower-Literacy Users: Writing for a Broad Consumer Audience</span> (en anglais seulement)</a>, Jakob Nielsen, Nielsen Norman Group</li>
+    <li><a href="https://www.nngroup.com/articles/minimize-cognitive-load/"><span lang="en">Minimize Cognitive Load to Maximize Usability</span> (en anglais seulement)</a>, Kathryn Whitenton, Nielsen Norman Group</li>
+    <li><a href="https://www.nngroup.com/articles/mobile-ux/"><span lang="en">Mobile User Experience: Limitations and Strengths</span> (en anglais seulement)</a>, Raluca Budio, Nielsen Norman Group</li>
+    <li><a href="http://plainlanguagenetwork.org/"><span lang="en">Plain Language Association International</span> (en anglais seulement)</a></li>
+    <li><a href="https://www.navigator.ca/plain-language-please-heres-why-to-avoid-marketese-online/"><span lang="en">Plain Language, Please! Here's Why to Avoid "Marketese" Only</span> (en anglais seulement)</a>, Sarah Bauer</li>
     <li><a href="http://publications.gc.ca/site/fra/9.678667/publication.html">Pour un style clair et simple</a>, Travaux publics et services gouvernementaux Canada (réimprimé en 2003)</li>
     <li><a href="http://www.noslangues-ourlanguages.gc.ca/index-fra.php">Portail linguistique du Canada</a>, gouvernement du Canada</li>
-    <li><a href="http://www.uottawa.ca/uoweb/sites/www.uottawa.ca.uoweb/files/principes_et_directives_lies_a_la_redaction_pour_le_web.pdf">Principes et directives liés à la rédaction pour le Web</a> (PDF), Université d'Ottawa</li>
+    <!-- <li><a href="http://www.uottawa.ca/uoweb/sites/www.uottawa.ca.uoweb/files/principes_et_directives_lies_a_la_redaction_pour_le_web.pdf">Principes et directives liés à la rédaction pour le Web</a> (PDF), Université d'Ottawa</li> no link available -->
     <li><a href="http://editoile.fr/rediger-une-liste-a-puces/">Rédiger une liste à puces</a>, Éditoile</li>
     <li><a href="http://www.w3.org/Translations/WCAG20-fr/">Règles pour l'accessibilité des contenus Web (WCAG) 2.0</a>, World Wide Web Consortium (W3C)</li>
     <li><a href="http://www.publications.gc.ca/site/eng/9.639699/publication.html">Tendons la main&nbsp;: guide pour bien communiquer avec les aînés autochtones</a>, Santé Canada</li>
     <li><a href="http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Bureau de la traduction</li>
-    <li><a href="http://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a> (en anglais seulement), George A. Miller</li>
-    <li>Vocabulaire d'Internet – Banque de terminologie du Québec, Index des termes français, Office québécois de la langue française</li>
-    <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a> (en anglais seulement), Jonathan Kahn, GatherContent</li>
-    <li><a href="http://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a> (en anglais seulement), Search Engine People</li>
-    <li><a href="http://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a> (en anglais seulement), The Deque Blog</li>
-    <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the Web</a> (en anglais seulement), Nielsen Norman Group</li>
+    <li><a href="http://www.musanim.com/miller1956/"><span lang="en">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</span> (en anglais seulement)</a>, George A. Miller</li>
+    <li><a href="https://www.oqlf.gouv.qc.ca/ressources/bibliotheque/officialisation/termes-officialises-index-thematique.aspx">Vocabulaire d'Internet </a> – Banque de terminologie du Québec, Index des termes français, Office québécois de la langue française</li>
+    <!-- <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a> (en anglais seulement), Jonathan Kahn, GatherContent</li> no link available -->
+    <li><a href="http://www.searchenginepeople.com/blog/watch-your-punctuation-online.html"><span lang="en">Watch Your Punctuation Online</span> (en anglais seulement)</a>, Search Engine People</li>
+    <li><a href="http://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/"><span lang="en">Why Don't Screen Readers Always Read What's on the Screen?</span> (en anglais seulement)</a>, The Deque Blog</li>
+    <li><a href="https://www.nngroup.com/topic/writing-web/"><span lang="en">Writing for the Web</span> (en anglais seulement)</a>, Nielsen Norman Group</li>
   </ul>
 </section>
 <aside class="wb-fnote" role="note">

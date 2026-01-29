@@ -8,7 +8,7 @@ title: "Orientation dans Canada.ca"
 ---
 <p>Date: 21 décembre 2022</p>
 <p>Les ministères et organismes gouvernementaux adoptent la conception de Canada.ca pour améliorer la confiance et la convivialité grâce à une expérience cohérente. La conception comprend des éléments de marque de base et des modèles de navigation. Les utilisateurs doivent pouvoir reconnaître rapidement les renseignements et les services officiels du gouvernement afin d’éviter les sites frauduleux. Ils ont également besoin de modèles intuitifs pour naviguer et accomplir leurs tâches.</p>
-<p>L’un des principaux éléments de la marque est l’en-tête général, qui comprend un thème et un menu thématique. Ce menu comporte plusieurs lacunes. Le Bureau de la transformation numérique (BTN) a mené un ensemble d’études pour comprendre le rôle et les répercussions du menu sur la navigation dans le site.</p>
+<p>L’un des principaux éléments de la marque est l’en-tête général, qui comprend un thème et un menu thématique. Ce menu comporte plusieurs lacunes. Le Bureau de l’expérience Canada.ca (BEC) a mené un ensemble d’études pour comprendre le rôle et les répercussions du menu sur la navigation dans le site.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="/resumes-recherche/images/rs-wayfinding-gh-01-fr.png" class="img-responsive" />
@@ -224,7 +224,7 @@ title: "Orientation dans Canada.ca"
   <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception de Canada.ca</a>&nbsp;: modèles et configurations qui offrent une expérience cohérente aux visiteurs du site</li>
   <li><a href="https://blogue.canada.ca/pages/apercu-projet.html">Améliorer le contenu sur Canada.ca</a>&nbsp;: une liste d'autres projets que nous avons réalisés avec nos partenaires</li>
 </ul>
-<h2 id="communiquez">Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor du Canada</h2>
+<h2 id="communiquez">Communiquez avec le Bureau de l’expérience Canada.ca d'Emploi et Développement social Canada</h2>
 <p>Contactez-nous si vous avez des questions ou si vous souhaitez voir les résultats de recherche détaillés de ce projet ou de l’étude sur la confiance.</p>
 <ul>
   <li>Courriel&nbsp;: <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a></li>

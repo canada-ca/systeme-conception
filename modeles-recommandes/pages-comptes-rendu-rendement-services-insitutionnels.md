@@ -138,11 +138,7 @@ title: " Page de compte rendu du rendement des services institutionnels - Modè\
          </summary>
          <ul>
           <li>
-           Utilisez la configuration
-           <a href="../configurations-conception-communes/institution-responsable.html">
-            Institution responsable
-           </a>
-           .
+           Utilisez la configuration Institution responsable.
           </li>
          </ul>
         </details>

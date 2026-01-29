@@ -6,9 +6,8 @@ description: "Une série de questions pour vous aider à déterminer quel modèl
 title: "Trouvez des modèles et les configurations de conception pour votre contenu Web"
 ---
 <p>Répondez aux questions suivantes pour savoir si vous pourriez utiliser une configuration de modèle ou de conception pour concevoir du contenu centré sur les utilisateurs et les tâches.</p>
-<div class="wb-frmvld">
+<div class="wb-frmvld" data-gc-analytics-chatformname="ESDC|EDSC:Find the right template and design patterns" data-gc-analytics-collect='[{"value":"input[type=radio]","emptyField": "n/a"}]'>
   <form method="get">
-
     <!-- Q1 -->
     <div id="question-1" class="wb-fieldflow" data-wb-fieldflow="{
 							&quot;renderas&quot;:&quot;radio&quot;,
@@ -25,7 +24,6 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;append&quot;, &quot;source&quot;: &quot;#question-9&quot;}">Consultation auprès des Canadiens </li>
       </ul>
     </div>
-
     <!-- Question 2 -->
     <div id="question-2" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Quel type d’information sur les programmes et les services?</p>
@@ -45,7 +43,6 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result9&quot;}">Rien de ce qui précède </li>
       </ul>
     </div>
-
     <!-- Question 3 -->
     <div id="question-3" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Quel type de liste d’éléments?</p>
@@ -57,7 +54,6 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result8&quot;}">Liste de lignes directrices sur la loi </li>
       </ul>
     </div>
-
     <!-- Question 4 -->
     <div id="question-4" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Voulez-vous donner de l’information sur une loi ou un règlement? </p>
@@ -66,7 +62,6 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result11&quot;}">Règlement</li>
       </ul>
     </div>
-
     <!-- Question 5 -->
     <div id="question-5" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Quel type d’information sur votre organisation?</p>
@@ -79,7 +74,6 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result9&quot;}">Rien de ce qui précède </li>
       </ul>
     </div>
-
     <!-- Question 6 -->
     <div id="question-6" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Êtes-vous une organisation gouvernementale, une institution ou  un partenariat/entente de collaboration?</p>
@@ -90,7 +84,6 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result14&quot;}">Je ne sais pas </li>
       </ul>
     </div>
-
     <!-- Question 7 -->
     <div id="question-7" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Quel type de navigation?</p>
@@ -103,7 +96,6 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result9&quot;}">Rien de ce qui précède</li>
       </ul>
     </div>
-
     <!-- Question 8 -->
     <div id="question-8" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Que voulez-vous promouvoir?</p>
@@ -113,7 +105,6 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result23&quot;}">Promouvoir un programme ou un service sur une page existante</li>
       </ul>
     </div>
-
     <!-- Question 9 -->
     <div id="question-9" class="hidden wb-fieldflow-sub" data-wb-fieldflow="{&quot;renderas&quot;:&quot;radio&quot;}">
       <p>Que voulez-vous faire en matière de consultations? </p>
@@ -123,7 +114,6 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
         <li data-wb-fieldflow="{&quot;action&quot;: &quot;removeClass&quot;, &quot;class&quot;: &quot;hidden&quot;, &quot;source&quot;: &quot;#result28&quot;}">Promouvoir une consultation ou les résultats d’une consultation</li>
       </ul>
     </div>
-
     <!--Result-->
     <div id="result1" class="hidden">
       <section class="panel panel-primary">
@@ -204,7 +194,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Page de destination générique</h2>
         </header>
         <div class="panel-body">
-          <p>Il n'y a pas de modèle spécifique pour votre type de contenu. Assurez-vous de vous conformer aux <a href="{{ site.url }}/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires du système de conception de Canada.ca.</a></p>
+          <p>Il n'y a pas de modèle spécifique pour votre type de contenu. Assurez-vous de vous conformer aux <a href="{{ site.url }}/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception de Canada.ca.</a></p>
           <h3>Configurations de conception communes</h3>
           <p>Créez vos pages à l’aide de la <a href="{{ site.url }}/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a>.</p>
         </div>

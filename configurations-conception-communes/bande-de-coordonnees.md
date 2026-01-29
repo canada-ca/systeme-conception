@@ -157,7 +157,7 @@ title: Bande de coordonnées
   <h2>Recherche et justification</h2>
   <p>Consultez les conclusions de la recherche et la justification de la politique.</p>
   <h3>Constatations découlant de la recherche</h3>
-  <p>L’Agence du revenu du Canada (ARC) et le Bureau de la transformation numérique ont mis au point des bandes de coordonnées dans le cadre du projet d’optimisation des coordonnées de l’ARC. Nous avons déterminé que les bandes de coordonnées sont utiles pour donner accès à des coordonnées précises pour différents services.</p>
+  <p>L’Agence du revenu du Canada (ARC) et le Bureau de l’expérience Canada.ca ont mis au point des bandes de coordonnées dans le cadre du projet d’optimisation des coordonnées de l’ARC. Nous avons déterminé que les bandes de coordonnées sont utiles pour donner accès à des coordonnées précises pour différents services.</p>
   <h3>Justification stratégique</h3>
   <p>La bande de coordonnées est requise dans les modèles obligatoires suivants&nbsp;:</p>
   <ul>
