@@ -1,14 +1,14 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/social-media-channels.html
 date: "2018-12-19"
-dateModified: "2025-05-15"
+dateModified: "2026-01-30"
 description: "La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada sur diverses plateformes de médias sociaux."
 title: "Chaînes de médias sociaux"
 ---
 
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada (GC).</p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/social-media-vertical-mask-fr.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/social-media-vertical-mask-fr.png" class="img-responsive" alt="" /></div>
 <section>
   <h2>Sur cette page</h2>
   <ul>
@@ -40,15 +40,14 @@ title: "Chaînes de médias sociaux"
   <h3>Spécifications de contenu</h3>
   <p>La configuration de conception des chaînes de médias sociaux est composée du titre «&nbsp;Dans les médias sociaux &nbsp;» et d’icônes renvoyant aux comptes de médias sociaux officiels du gouvernement du Canada.</p>
   <p>Les comptes mentionnés dans la configuration de conception doivent être entièrement conformes à la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications.</a></p>
+  <p>Vous pouvez utiliser les icônes d’autres médias sociaux que celles qui sont fournies dans cet exemple, en autant qu’ils représentent des comptes de médias sociaux officiels du GC.</p>
+  <p>L’ordre des icônes des médias sociaux n’est pas imposé. Vous pouvez les placer dans l’ordre qui convient le mieux au contexte.</p>
   <p>Afficher un maximum de cinq (5) icônes alignées dans une colonne verticale ou une rangée horizontale&nbsp;:</p>
   <ul>
     <li>L’affichage vertical comprend une étiquette à côté de chaque icône.</li>
     <li>L’affichage horizontal ne comprend que les icônes.</li>
   </ul>
-  <h4>Lien optionnel</h4>
-  <p>Vous pouvez ajouter un lien intitulé «&nbsp;D’autres moyens de rester en contact&nbsp;» si vous souhaitez créer un lien vers d’autres comptes de médias sociaux ou d’autres plateformes de communication ministérielles (p. ex., balados, magazines externes, etc.). Le lien doit mener vers une page qui répertorie tous vos comptes de médias sociaux et les autres moyens de communiquer avec le ministère ou de le suivre.</p>
-
-  <p>S’il y a plus d’un compte pour une plateforme&nbsp;:</p>
+    <p>S’il y a plus d’un compte pour une plateforme&nbsp;:</p>
   <ul>
     <li>Indiquez le nom de la plateforme à côté de son icône (affichage vertical seulement).</li>
     <li>Utilisez une fenêtre contextuelle modale pour afficher le nom de chaque compte sur cette plateforme.
@@ -59,6 +58,8 @@ title: "Chaînes de médias sociaux"
     </li>
   </ul>
   <p>Placez les chaînes de médias sociaux après la tâche et le contenu de navigation.</p>
+  <h4>Lien optionnel</h4>
+  <p>Vous pouvez ajouter un lien intitulé «&nbsp;D’autres moyens de rester en contact&nbsp;» si vous souhaitez créer un lien vers d’autres comptes de médias sociaux ou d’autres plateformes de communication ministérielles (p. ex., balados, magazines externes, etc.). Le lien doit mener vers une page qui répertorie tous vos comptes de médias sociaux et les autres moyens de communiquer avec le ministère ou de le suivre.</p>
   <h3>Spécifications de conception</h3>
   <ul>
     <li>Spécifications de conception de la fenêtre contextuelle modale
@@ -107,24 +108,6 @@ title: "Chaînes de médias sociaux"
                 </div></td>
             </tr>
             <tr>
-              <td>X</td>
-              <td><p>twitter</p></td>
-              <td class="text-center"><div class="provisional gc-followus">
-                  <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/x.svg" class="twitter"><span class="wb-inv">X</span></a></li>
-                  </ul>
-                </div></td>
-            </tr>
-            <tr>
-              <td>YouTube</td>
-              <td><p>youtube</p></td>
-              <td class="text-center"><div class="provisional gc-followus">
-                  <ul class="list-inline">
-                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg" class="youtube"><span class="wb-inv">YouTube</span></a></li>
-                  </ul>
-                </div></td>
-            </tr>
-            <tr>
               <td>Instagram</td>
               <td>instagram</td>
               <td class="text-center"><div class="provisional gc-followus">
@@ -142,6 +125,24 @@ title: "Chaînes de médias sociaux"
                   </ul>
                 </div></td>
             </tr>
+            <tr>
+              <td>X</td>
+              <td><p>twitter</p></td>
+              <td class="text-center"><div class="provisional gc-followus">
+                  <ul class="list-inline">
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/x.svg" class="twitter"><span class="wb-inv">X</span></a></li>
+                  </ul>
+                </div></td>
+            </tr>
+            <tr>
+              <td>YouTube</td>
+              <td><p>youtube</p></td>
+              <td class="text-center"><div class="provisional gc-followus">
+                  <ul class="list-inline">
+                    <li><a href="https://github.com/wet-boew/GCWeb/blob/master/components/gc-follow-us/assets/youtube.svg" class="youtube"><span class="wb-inv">YouTube</span></a></li>
+                  </ul>
+                </div></td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -151,16 +152,16 @@ title: "Chaînes de médias sociaux"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Chaînes de médias sociaux (affichage vertical avec étiquettes) — grand écran</b></figcaption>
-      <img src="/images/social-media-vertical-mask-fr.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="../images/social-media-vertical-mask-fr.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaîne de médias sociaux (affichage horizontal) - grand écran</summary>
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Dans les médias sociaux &nbsp;». On trouve sous le titre une liste horizontale avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
+           <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
+          <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
           <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
           <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
-          <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
-          <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
         </ul>
       </details>
     </figure>
@@ -168,16 +169,16 @@ title: "Chaînes de médias sociaux"
   <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Chaînes de médias sociaux (affichage vertical avec étiquettes) — grand écran</b></figcaption>
-      <img src="/images/social-media-horizontal-mask-fr.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
+      <img src="../images/social-media-horizontal-mask-fr.png" class="img-responsive" alt="Chaînes de médias sociaux (affichage vertical avec étiquettes) pour les grands écrans. Version texte ci-dessous&nbsp;:" />
       <details>
         <summary class="wb-toggle" data-toggle='{"print":"on"}'>Description de l’image&nbsp;: chaîne de médias sociaux (affichage horizontal) - grand écran</summary>
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Dans les médias sociaux &nbsp;».  On trouve sous le titre une liste horizontale avec les icônes associées, mais sans les étiquettes&nbsp;:</p>
         <ul>
           <li>Facebook</li>
-          <li>X</li>
-          <li>Youtube</li>
           <li>Instagram</li>
           <li>LinkedIn</li>
+          <li>X</li>
+          <li>Youtube</li>
         </ul>
       </details>
     </figure>
@@ -191,9 +192,9 @@ title: "Chaînes de médias sociaux"
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Dans les médias sociaux &nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook suivie du texte de l’espace réservé NomPageFacebook</li>
-          <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
           <li>Icône de YouTube suivie du texte de l’espace réservé NomYouTube</li>
           <li>Icône d’Instagram suivie du texte de l’espace réservé NomInstagram</li>
+          <li>Icône de X suivie du texte de l’espace réservé @CompteX</li>
           <li>Icône de LinkedIn suivie du texte de l’espace réservé NomLinkedIn</li>
         </ul>
         <p>Sous les icônes se trouve un lien intitulé&nbsp;: D’autres moyens de rester en contact</p>
@@ -209,9 +210,9 @@ title: "Chaînes de médias sociaux"
         <p>Les liens vers les chaînes de médias sociaux apparaissent avec le titre «&nbsp;Dans les médias sociaux &nbsp;». Les liens sont organisés dans une liste à puces avec les icônes et les étiquettes associées&nbsp;:</p>
         <ul>
           <li>Icône de Facebook</li>
-          <li>Icône de X</li>
           <li>Icône de YouTube</li>
           <li>Icône d’Instagram</li>
+          <li>Icône de X</li>
           <li>Icône de LinkedIn</li>
         </ul>
         <p>Sous les icônes se trouve un lien intitulé&nbsp;: D’autres moyens de rester en contact</p>
@@ -285,6 +286,8 @@ title: "Chaînes de médias sociaux"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
+   <dt><time>2026-01-30</time></dt>
+    <dd> L’orientation qui précise que d’autres icônes de médias sociaux peuvent être utilisées et qu’elles peuvent être placées dans un autre ordre a été mise à jour.</dd>
     <dt><time>2025-05-15</time></dt>
     <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC.</dd>
     <dt><time>2024-09-19</time></dt>
