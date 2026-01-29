@@ -8,7 +8,7 @@ title: "Chaînes de médias sociaux"
 
 <p><strong>Dernière mise à jour</strong>&nbsp;: {{ page.dateModified }}</p>
 <p>La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada (GC).</p>
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="/images/social-media-vertical-mask-fr.png" class="img-responsive" alt="" /></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/social-media-vertical-mask-fr.png" class="img-responsive" alt="" /></div>
 <section>
   <h2>Sur cette page</h2>
   <ul>
