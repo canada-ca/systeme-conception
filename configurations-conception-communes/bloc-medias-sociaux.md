@@ -47,10 +47,7 @@ title: "Chaînes de médias sociaux"
     <li>L’affichage vertical comprend une étiquette à côté de chaque icône.</li>
     <li>L’affichage horizontal ne comprend que les icônes.</li>
   </ul>
-  <h4>Lien optionnel</h4>
-  <p>Vous pouvez ajouter un lien intitulé «&nbsp;D’autres moyens de rester en contact&nbsp;» si vous souhaitez créer un lien vers d’autres comptes de médias sociaux ou d’autres plateformes de communication ministérielles (p. ex., balados, magazines externes, etc.). Le lien doit mener vers une page qui répertorie tous vos comptes de médias sociaux et les autres moyens de communiquer avec le ministère ou de le suivre.</p>
-
-  <p>S’il y a plus d’un compte pour une plateforme&nbsp;:</p>
+    <p>S’il y a plus d’un compte pour une plateforme&nbsp;:</p>
   <ul>
     <li>Indiquez le nom de la plateforme à côté de son icône (affichage vertical seulement).</li>
     <li>Utilisez une fenêtre contextuelle modale pour afficher le nom de chaque compte sur cette plateforme.
@@ -61,6 +58,8 @@ title: "Chaînes de médias sociaux"
     </li>
   </ul>
   <p>Placez les chaînes de médias sociaux après la tâche et le contenu de navigation.</p>
+  <h4>Lien optionnel</h4>
+  <p>Vous pouvez ajouter un lien intitulé «&nbsp;D’autres moyens de rester en contact&nbsp;» si vous souhaitez créer un lien vers d’autres comptes de médias sociaux ou d’autres plateformes de communication ministérielles (p. ex., balados, magazines externes, etc.). Le lien doit mener vers une page qui répertorie tous vos comptes de médias sociaux et les autres moyens de communiquer avec le ministère ou de le suivre.</p>
   <h3>Spécifications de conception</h3>
   <ul>
     <li>Spécifications de conception de la fenêtre contextuelle modale
