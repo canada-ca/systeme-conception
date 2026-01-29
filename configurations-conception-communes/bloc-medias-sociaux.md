@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/social-media-channels.html
 date: "2018-12-19"
-dateModified: "2026-01-16"
+dateModified: "2026-01-30"
 description: "La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada sur diverses plateformes de médias sociaux."
 title: "Chaînes de médias sociaux"
 ---
@@ -287,7 +287,7 @@ title: "Chaînes de médias sociaux"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
-   <dt><time>2026-01-16</time></dt>
+   <dt><time>2026-01-30</time></dt>
     <dd> L’orientation qui précise que d’autres icônes de médias sociaux peuvent être utilisées et qu’elles peuvent être placées dans un autre ordre a été mise à jour.</dd>
     <dt><time>2025-05-15</time></dt>
     <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC.</dd>

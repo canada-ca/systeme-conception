@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2026-01-16
+dateModified: 2026-01-30
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -12,7 +12,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 </div>
 <div id="expand-collapse">
 <details open="open">
-    <summary><time datetime="2026-01-16">16 janvier 2026</time></summary>
+    <summary><time datetime="2026-01-30">30 janvier 2026</time></summary>
     <p>L’orientation relative aux médias sociaux a été mise à jour afin d’y préciser que d’autres icônes de médias sociaux peuvent être utilisées et qu’elles peuvent être placées dans un autre ordre.</p>
   </details>
 <details>
