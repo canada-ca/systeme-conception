@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/images.html
 date: '2018-12-19'
-dateModified: '2026-01-20'
+dateModified: '2026-01-30'
 description: Les images sont des contenus visuels qui complètent ou améliorent le texte, notamment des photographies, des graphiques, des dessins ou des diagrammes.
 title: Images et icônes
 ---
@@ -99,7 +99,7 @@ Ne pas utiliser d'icônes&nbsp;:
 
 <dl class="dl-horizontal">
 <dt>
-<time datetime="2026-01-20" class="link-muted">2026-01-20</time>
+<time datetime="2026-01-30" class="link-muted">2026-01-30</time>
 </dt>
 <dd>Mise à jour du guide des images, soit l'ajout de renseignements sur l'utilisation appropriée des icônes.</dd>
 </dl>
