@@ -41,7 +41,7 @@ Les polices Lato et Noto Sans prennent en charge une grande variété de langues
 
 La famille de polices Noto Sans Canadian Aboriginal est incluse par défaut dans la typographie de Canada.ca.
 
-Lorsque vous publiez du contenu dans une autre langue quelconque, si Lato ne prend pas en charge les caractères des en-têtes, vous pouvez ajouter le pack de polices Noto sans pour les caractères dont vous avez besoin pour le contenu.
+Lorsque vous publiez du contenu dans une autre langue quelconque, si Lato ne prend pas en charge les caractères des en-têtes, vous pouvez ajouter le pack de polices Noto Sans pour les caractères dont vous avez besoin pour le contenu.
 
 Si cette modification précise n’est pas apportée, le style de Canada.ca demandera par défaut au navigateur de l’utilisateur d’utiliser une police disponible qui affichera les caractères correctement.
 
@@ -68,7 +68,7 @@ Style CSS pour la balise linguistique
 ```
 
 Les développeurs devront mettre à disposition le jeu de langues Noto Sans. Dans cet exemple, il s'agirait de&nbsp;:
-- [Noto Sans Simplified Chinese (en anglais seulement](https://fonts.google.com/noto/specimen/Noto+Sans+SC)
+- [Noto Sans Simplified Chinese (en anglais seulement)](https://fonts.google.com/noto/specimen/Noto+Sans+SC)
 
 Ressources de mise en &oelig;vre&nbsp;:
 - [Noto Sans&nbsp;: familles de polices pour les caractères supplémentaires (en anglais seulement)](https://fonts.google.com/noto/fonts)

@@ -13,16 +13,10 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 <div id="expand-collapse">
   <details open="open">
     <summary><time datetime="2026-01-30">30 janvier 2026</time></summary>
-    <p>L’orientation relative aux <a href="{{ "/configurations-conception-communes/bloc-medias-sociaux.html" | absolute_url }}"médias sociaux</a> a été mise à jour afin d’y préciser que d’autres icônes de médias sociaux peuvent être utilisées et qu’elles peuvent être placées dans un autre ordre.</p>
-    <p>Mise à jour du <a href="https://conception.canada.ca/configurations-conception-communes/images.html">guide des images</a>, soit l’ajout de renseignements sur l'utilisation appropriée des icônes.</p>
+    <p><a href="{{ "/configurations-conception-communes/bloc-medias-sociaux.html" | absolute_url }}">L’orientation relative aux médias sociaux</a> a été mise à jour afin d’y préciser que d’autres icônes de médias sociaux peuvent être utilisées et qu’elles peuvent être placées dans un autre ordre.</p>
+    <p>Mise à jour du <a href="{{ "/configurations-conception-communes/images.html" | absolute_url }}">guide des images</a>, soit l’ajout de renseignements sur l'utilisation appropriée des icônes.</p>
     <p>Mise à jour de la <a href="{{ "/styles/typographie.html" | absolute_url }}">page sur la typographie</a> afin d'indiquer que la famille de polices Noto Sans Canadian Aboriginal a été ajoutée à Canada.ca.</p>
   </details>
-  <details>
-<details open="open">
- <summary><time datetime="2026-01-30">30 janvier 2026</time></summary>
-    <p>L’orientation relative aux médias sociaux a été mise à jour afin d’y préciser que d’autres icônes de médias sociaux peuvent être utilisées et qu’elles peuvent être placées dans un autre ordre.</p>
-        <p>Mise à jour du <a href="{{ site.url }}/configurations-conception-communes/images.html">guide des images</a>, soit l’ajout de renseignements sur l'utilisation appropriée des icônes.</p>
- </details>
  <details>
     <summary><time datetime="2025-12-18">18 décembre 2025</time></summary>
     <p>Ajout d’une alerte à la page de contenu de base pour indiquer qu’elle sera mise hors service et de plutôt utiliser <a href="https://systeme-design.alpha.canada.ca/fr/modeles-de-page/basic/">le modèle de page de base</a> du Système de design GC.</p>
