@@ -14,7 +14,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
   <details open="open">
     <summary><time datetime="2026-01-30">30 janvier 2026</time></summary>
     <p>Mise à jour des <a href="{{ "/configurations-conception-communes/bloc-medias-sociaux.html" | absolute_url }}">directives relatives aux médias sociaux</a> afin de préciser que d'autres icônes de réseaux sociaux peuvent être utilisées et que les icônes peuvent être réorganisées.</p>
-    <p>Mise à jour du <a href="{{ "/configurations-conception-communes/images.html" | absolute_url }}">directives relatives aux images</a> afin d'inclure des informations sur l'utilisation appropriée des icônes.</p>
+    <p>Mise à jour des <a href="{{ "/configurations-conception-communes/images.html" | absolute_url }}">directives relatives aux images</a> afin d'inclure des informations sur l'utilisation appropriée des icônes.</p>
     <p>Mise à jour de la <a href="{{ "/styles/typographie.html" | absolute_url }}">page consacrée à la typographie</a> afin de refléter l'ajout de la famille de polices Noto Sans Canadian Aboriginal à Canada.ca.</p>
   </details>
  <details>
