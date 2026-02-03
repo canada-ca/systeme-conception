@@ -12,12 +12,20 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 </div>
 <div id="expand-collapse">
   <details open="open">
-    <summary><time datetime="2026-01-30">30 janvier 2026</time></summary>
-    <p>Mise à jour des <a href="{{ "/configurations-conception-communes/bloc-medias-sociaux.html" | absolute_url }}">directives relatives aux médias sociaux</a> afin de préciser que d'autres icônes de réseaux sociaux peuvent être utilisées et que les icônes peuvent être réorganisées.</p>
-    <p>Mise à jour des <a href="{{ "/configurations-conception-communes/images.html" | absolute_url }}">directives relatives aux images</a> afin d'inclure des informations sur l'utilisation appropriée des icônes.</p>
-    <p>Mise à jour de la <a href="{{ "/styles/typographie.html" | absolute_url }}">page consacrée à la typographie</a> afin de refléter l'ajout de la famille de polices Noto Sans Canadian Aboriginal à Canada.ca.</p>
+    <summary><time datetime="2026-02-06">6 février 2026</time></summary>
+    <p>Mise à jour de la configuration de conception <a href="{{ '/configurations-conception-communes/fil-ariane.html' | absolute_url }}">Fil d'Ariane</a> pour y inclure un exemple révisé pour les pages de campagne et des exemples pour les pages d’erreur.</p>
   </details>
- <details>
+  <details>
+    <summary><time datetime="2026-01-30">30 janvier 2026</time></summary>
+    <p>Mise à jour des <a href="{{ '/configurations-conception-communes/bloc-medias-sociaux.html' | absolute_url }}">directives relatives aux médias sociaux</a> afin de préciser que d'autres icônes de réseaux sociaux peuvent être utilisées et que les icônes peuvent être réorganisées.</p>
+    <p>Mise à jour des <a href="{{ '/configurations-conception-communes/images.html' | absolute_url }}">directives relatives aux images</a> afin d'inclure des informations sur l'utilisation appropriée des icônes.</p>
+    <p>Mise à jour de la <a href="{{ '/styles/typographie.html' | absolute_url }}">page consacrée à la typographie</a> afin de refléter l'ajout de la famille de polices Noto Sans Canadian Aboriginal à Canada.ca.</p>
+  </details>
+  <details>
+    <summary><time datetime="2025-12-23">23 décembre 2025</time></summary>
+    <p>Mise à jour des <a href="{{ '/modeles-obligatoire/pages-profil-ministres.html' | absolute_url }}">directives sur les pages de profil ministériel</a> pour clarifier quels éléments sont obligatoires et lesquels sont facultatifs. Ajout d'indications pour les secrétaires d'État.</p>
+  </details>
+  <details>
     <summary><time datetime="2025-12-18">18 décembre 2025</time></summary>
     <p>Ajout d’une alerte à la page de contenu de base pour indiquer qu’elle sera mise hors service et de plutôt utiliser <a href="https://systeme-design.alpha.canada.ca/fr/modeles-de-page/basic/">le modèle de page de base</a> du Système de design GC.</p>
   </details>
