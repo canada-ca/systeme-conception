@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/recommended-templates/404-error-page.html
 date: null
-dateModified: '2025-12-23'
+dateModified: '2026-02-05'
 description: null
 title: Modèle de page d'erreur 404
 ---
