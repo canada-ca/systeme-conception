@@ -823,9 +823,9 @@
       "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/page-erreur-404.html\">Modèle de page d'erreur 404</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Une erreur 404 est générée lorsque l'on tente d'accéder à une page non trouvée.",
-      "WHENTOUSE": "",
-      "CATEGORY": "",
-      "TYPE": "",
+      "WHENTOUSE": "Utilisez ce modèle lorsqu'une page demandée est introuvable.",
+      "CATEGORY": "Modèle de page",
+      "TYPE": "Interaction, Navigation, Configuration à l'échelle du site",
       "MANDATORY": "Non",
       "TANDP": "1"
     },

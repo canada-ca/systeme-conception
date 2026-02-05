@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/recommended-templates/404-error-page.html
 date: null
 dateModified: '2026-02-05'
-description: null
+description: Une erreur 404 est générée lorsqu'un utilisateur tente d'accéder à une page introuvable.
 title: Modèle de page d'erreur 404
 ---
 <p>Une erreur 404 est générée lorsque l'on tente d'accéder à une page non trouvée.</p>
