@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/guidance
 breadcrumbs:
-  - link: "https://conception.canada.ca/a-propos/"
+  - link: "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
     title: "À propos de Canada.ca"
   - link: "https://conception.canada.ca"
     title: "Conception"
@@ -32,7 +32,7 @@ Utilisez ces directives pour créer et gérer du contenu Web.
   <div class="row wb-eqht-grd">
     {%- for info in page.information -%}
     <div class="col-lg-4 col-md-6">
-      <h3><a href="{{ info.link }}">{{ info.title }}</a></h3>
+      <h3><a href="{{ info.link | absolute_url }}">{{ info.title }}</a></h3>
       <p>{{ info.description }}</p>
     </div>
     {%- endfor -%}

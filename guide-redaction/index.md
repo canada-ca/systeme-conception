@@ -139,8 +139,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>La rédaction épicène devrait être votre pratique habituelle.</p>
       <p>Pour plus de conseils sur l'écriture inclusive, consultez les lignes directrices et ressources du Portail linguistique du Canada&nbsp;:</p>
       <ul>
-        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources</a>, du Bureau de la traduction (en français seulement).</li>
-        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources">Inclusive writing in English</a> (en anglais seulement).</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources">Écriture inclusive – Lignes directrices et ressources (en français seulement)</a>, du Bureau de la traduction.</li>
+        <li><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources"><span lang="en">Inclusive writing in English</span> (en anglais seulement)</a>.</li>
       </ul>
     </section>
     <section id="wp1-2-2">
@@ -169,7 +169,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Votre contenu sera lu sur des écrans de toutes tailles. Les écrans de téléphone mobile et de tablettes électroniques affichent moins de contenu à la fois que les écrans d'ordinateur de bureau ou portatif. Les utilisateurs de petits écrans doivent donc&nbsp;:</p>
       <ul>
         <li>faire plus d'efforts que d'autres pour accéder à la même quantité d'information;</li>
-        <li>se fier à leur mémoire pour <a href="https://www.nngroup.com/articles/mobile-ux/">se rappeler l'information non visible à l'écran</a> (en anglais seulement).</li>
+        <li>se fier à leur mémoire pour <a href="https://www.nngroup.com/articles/mobile-ux/">se rappeler l'information non visible à l'écran (en anglais seulement)</a>.</li>
       </ul>
     </section>
   </section>
@@ -485,8 +485,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><a href="http://www.bing.com/toolbox/keywords">Bing recherche de mots clés (compte Microsoft requis)</a></li>
       <li><a href="https://trends.google.fr/trends/">Tendances de recherche Google Trends (aucun compte requis)</a></li>
       <li><a href="https://business.google.com/ca-fr/google-ads/">Google Keyword Planner (compte GoogleAdWords requis)</a></li>
-      <li><a href="https://www.thehoth.com/google-keyword-planner?">Hoth Free Google Keyword Planner (en anglais seulement; aucun compte requis)</a></li>
-      <li><a href="https://moz.com/explorer">Moz Keyword Explorer (en anglais seulement)</a></li>
+      <li><a href="https://www.thehoth.com/google-keyword-planner?"><span lang="en">Hoth Free Google Keyword Planner</span> (en anglais seulement; aucun compte requis)</a></li>
+      <li><a href="https://moz.com/explorer"><span lang="en">Moz Keyword Explorer</span> (en anglais seulement)</a></li>
     </ul>
     <p>Certains de ces outils ne sont offerts qu’en anglais, et d’autres sont offerts en français si votre navigateur est configuré en français.</p>
     <p>Consultez vos données d’analyse Web pour savoir quels termes votre public utilise pour chercher du contenu connexe.</p>
@@ -713,7 +713,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Nommez l'autre organisation par son nom lorsque votre contenu y fait référence.</p>
       <h5>Exemple d'énoncé faisant référence à une tierce partie</h5>
       <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
-        <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel">site Web de U.S. Customs and Border Protection</a> (en anglais seulement) pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis. </p>
+        <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel"><span lang="en">site Web de U.S. Customs and Border Protection</span> (en anglais seulement)</a> pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
     </section>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
@@ -2263,7 +2263,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#">Texte en hyperlien (en inuktitut seulement).</a></li>
             <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement).</a></li>
           </ul>
-          <p><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <span lang="en"><a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG) (en anglais seulement)</a></span>.</p>
+          <p><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <a href="https://www.w3.org/TR/WCAG/"><span lang="en">Web Content Accessibility Guidelines (WCAG)</span> (en anglais seulement)</a>.</p>
           <p class="mrgn-tp-md">Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français. Par exemple&nbsp;:</p>
           <ul>
             <li><a href="https://www.quebec.ca/en/health/health-system-and-services/pre-hospital-emergency-services/what-to-do-emergency-requiring-ambulance#c244124">Utilisation d’un défibrillateur externe automatisé (DEA) (en français seulement)</a></li>
@@ -2271,12 +2271,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <h5>Le lien renvoi à un contenu audio ou vidéo</h5>
           <p>Précisez la durée du contenu entre parenthèses. Par exemple&nbsp;:</p>
           <ul>
-            <li><span lang="en"><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes) (en anglais seulement)</a></span>.</li>
+            <li><a href="https://www.youtube.com/watch?v=GbDT6FxQ6mk"><span lang="en">Using Magnifier in Windows: At a Glance - Vidéo YouTube (2:07 minutes)</span> (en anglais seulement)</a>.</li>
           </ul>
           <h5>Lorsque plus d’une de ces situations s’appliquent</h5>
           <p>Ajoutez toutes les informations contextuelles nécessaires entre parenthèses. Par exemple&nbsp;:</p>
           <ul>
-            <li><a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : United Kingdom passport application (en anglais seulement, PDF, 214 Ko, 4 pages)</a>. </li>
+            <li><a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : <span lang="en">United Kingdom passport application</span> (en anglais seulement, PDF, 214 Ko, 4 pages)</a>. </li>
           </ul>
     </section>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
@@ -3109,18 +3109,18 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><a href="http://www.statcan.gc.ca/daily-quotidien/160518/dq160518b-fra.htm">Étude&nbsp;: Littératie et numératie chez les Premières Nations vivant hors réserve et les Métis, 2012</a>, Statistique Canada</li>
     <li><a href="https://tecfa.unige.ch/tecfa/maltt/cosys-2/textes/ergolab_lisibilite_web.pdf">Faciliter la lecture d'informations sur le web (PDF, 183 Ko)</a>, Ergolab</li>
     <li><a href="http://w3.uqo.ca/litteratie/documents/guide2011_000.pdf">Guide de rédaction pour une information accessible (PDF, 3.9 Mo)</a>, Équipe de recherche en littératie et inclusion</li>
-    <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/">How Users Read on the Web</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
+    <li><a href="https://www.nngroup.com/articles/how-users-read-on-the-web/"><span lang="en">How Users Read on the Web</span> (en anglais seulement)</a>, Jakob Nielsen, Nielsen Norman Group</li>
     <li><a href="http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?t1=1&amp;id=4208">Impératif et infinitif</a>, Office québécois de la langue française</li>
     <li><a href="http://ccat-ctac.org/CMFiles/Publication/CCAT-FR.pdf">Introduction à la justice administrative et au langage clair (PDF, 799 Ko)</a>, Conseil des tribunaux administratifs canadiens</li>
-    <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design">Introduction to content design</a> (en anglais seulement), Government Digital Service, GOV.UK</li>
+    <li><a href="https://www.gov.uk/guidance/content-design/what-is-content-design"><span lang="en">Introduction to content design</span> (en anglais seulement)</a>, Government Digital Service, GOV.UK</li>
     <li><a href="http://www.statcan.gc.ca/pub/89-555-x/89-555-x2013001-fra.htm">Les compétences au Canada&nbsp;: Premiers résultats du Programme pour l'évaluation internationale des compétences des adultes</a>, Statistique Canada</li>
     <!-- <li><a href="http://www.vortexsolution.com/lexique-web-montreal.html">Lexique Web</a>, Vortex solution</li> no link available -->
-    <li><a href="http://abclifeliteracy.ca/workplace-literacy-facts">Literacy and Numeracy in Canada</a> (en anglais seulement), ABC Life Literacy Canada</li>
-    <li><a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/">Lower-Literacy Users: Writing for a Broad Consumer Audience</a> (en anglais seulement), Jakob Nielsen, Nielsen Norman Group</li>
-    <li><a href="https://www.nngroup.com/articles/minimize-cognitive-load/">Minimize Cognitive Load to Maximize Usability</a> (en anglais seulement), Kathryn Whitenton, Nielsen Norman Group</li>
-    <li><a href="https://www.nngroup.com/articles/mobile-ux/">Mobile User Experience: Limitations and Strengths</a> (en anglais seulement), Raluca Budio, Nielsen Norman Group</li>
-    <li><a href="http://plainlanguagenetwork.org/">Plain Language Association International</a> (en anglais seulement)</li>
-    <li><a href="https://www.navigator.ca/plain-language-please-heres-why-to-avoid-marketese-online/">Plain Language, Please! Here's Why to Avoid "Marketese" Only</a> (en anglais seulement), Sarah Bauer</li>
+    <li><a href="http://abclifeliteracy.ca/workplace-literacy-facts"><span lang="en">Literacy and Numeracy in Canada</span> (en anglais seulement)</a>, ABC Life Literacy Canada</li>
+    <li><a href="https://www.nngroup.com/articles/writing-for-lower-literacy-users/"><span lang="en">Lower-Literacy Users: Writing for a Broad Consumer Audience</span> (en anglais seulement)</a>, Jakob Nielsen, Nielsen Norman Group</li>
+    <li><a href="https://www.nngroup.com/articles/minimize-cognitive-load/"><span lang="en">Minimize Cognitive Load to Maximize Usability</span> (en anglais seulement)</a>, Kathryn Whitenton, Nielsen Norman Group</li>
+    <li><a href="https://www.nngroup.com/articles/mobile-ux/"><span lang="en">Mobile User Experience: Limitations and Strengths</span> (en anglais seulement)</a>, Raluca Budio, Nielsen Norman Group</li>
+    <li><a href="http://plainlanguagenetwork.org/"><span lang="en">Plain Language Association International</span> (en anglais seulement)</a></li>
+    <li><a href="https://www.navigator.ca/plain-language-please-heres-why-to-avoid-marketese-online/"><span lang="en">Plain Language, Please! Here's Why to Avoid "Marketese" Only</span> (en anglais seulement)</a>, Sarah Bauer</li>
     <li><a href="http://publications.gc.ca/site/fra/9.678667/publication.html">Pour un style clair et simple</a>, Travaux publics et services gouvernementaux Canada (réimprimé en 2003)</li>
     <li><a href="http://www.noslangues-ourlanguages.gc.ca/index-fra.php">Portail linguistique du Canada</a>, gouvernement du Canada</li>
     <!-- <li><a href="http://www.uottawa.ca/uoweb/sites/www.uottawa.ca.uoweb/files/principes_et_directives_lies_a_la_redaction_pour_le_web.pdf">Principes et directives liés à la rédaction pour le Web</a> (PDF), Université d'Ottawa</li> no link available -->
@@ -3128,12 +3128,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><a href="http://www.w3.org/Translations/WCAG20-fr/">Règles pour l'accessibilité des contenus Web (WCAG) 2.0</a>, World Wide Web Consortium (W3C)</li>
     <li><a href="http://www.publications.gc.ca/site/eng/9.639699/publication.html">Tendons la main&nbsp;: guide pour bien communiquer avec les aînés autochtones</a>, Santé Canada</li>
     <li><a href="http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;index=frt">TERMIUM Plus</a>®, Bureau de la traduction</li>
-    <li><a href="http://www.musanim.com/miller1956/">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</a> (en anglais seulement), George A. Miller</li>
+    <li><a href="http://www.musanim.com/miller1956/"><span lang="en">The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing</span> (en anglais seulement)</a>, George A. Miller</li>
     <li><a href="https://www.oqlf.gouv.qc.ca/ressources/bibliotheque/officialisation/termes-officialises-index-thematique.aspx">Vocabulaire d'Internet </a> – Banque de terminologie du Québec, Index des termes français, Office québécois de la langue française</li>
     <!-- <li><a href="https://gathercontent.com/blog/use-pair-writing-to-collaborate-with-subject-matter-experts">Use pair writing to collaborate with subject matter experts</a> (en anglais seulement), Jonathan Kahn, GatherContent</li> no link available -->
-    <li><a href="http://www.searchenginepeople.com/blog/watch-your-punctuation-online.html">Watch Your Punctuation Online</a> (en anglais seulement), Search Engine People</li>
-    <li><a href="http://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/">Why Don't Screen Readers Always Read What's on the Screen?</a> (en anglais seulement), The Deque Blog</li>
-    <li><a href="https://www.nngroup.com/topic/writing-web/">Writing for the Web</a> (en anglais seulement), Nielsen Norman Group</li>
+    <li><a href="http://www.searchenginepeople.com/blog/watch-your-punctuation-online.html"><span lang="en">Watch Your Punctuation Online</span> (en anglais seulement)</a>, Search Engine People</li>
+    <li><a href="http://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/"><span lang="en">Why Don't Screen Readers Always Read What's on the Screen?</span> (en anglais seulement)</a>, The Deque Blog</li>
+    <li><a href="https://www.nngroup.com/topic/writing-web/"><span lang="en">Writing for the Web</span> (en anglais seulement)</a>, Nielsen Norman Group</li>
   </ul>
 </section>
 <aside class="wb-fnote" role="note">

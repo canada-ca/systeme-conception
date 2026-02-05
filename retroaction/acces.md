@@ -27,7 +27,7 @@ Rétroaction GC en est encore à la phase pilote. Cela signifie que vous pouvez 
 
 ## Où la rétroaction est stockée
 
-Lorsqu’un utilisateur soumet de la rétroaction, celle-ci est envoyée et stockée dans une base de données gérée par le bureau de la transformation numérique du SCT.
+Lorsqu’un utilisateur soumet de la rétroaction, celle-ci est envoyée et stockée dans une base de données gérée par le Bureau de l’expérience Canada.ca d'EDSC.
 
 ## Comment accéder à la rétroaction
 

@@ -21,7 +21,7 @@ title: Recherche et prototypage
 
 Il n'existe pas de méthode unique d'amélioration continue, mais la plupart des approches suivent un processus similaire. Identifier un problème, effectuer des recherches sur la question, établir une base de référence, créer un prototype et le tester (autant de fois que nécessaire), le publier, et finalement mesurer les résultats de votre travail.
 
-La méthode décrite ici est la façon dont le Bureau de la transformation numérique aborde les projets d'optimisation du contenu.
+La méthode décrite ici est la façon dont le Bureau de l’expérience Canada.ca aborde les projets d'optimisation du contenu.
 
 <figure>
   <img alt="Une longue description se trouve après l'image." class="img-responsive border" src="../images/processus_optimisation.png" />

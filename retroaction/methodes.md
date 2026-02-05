@@ -24,7 +24,6 @@ title: Méthodes d’analyse de la rétroaction
 * [Les questions de recherche façonnent l’analyse](#les-questions-de-recherche-façonnent-lanalyse)
 * [Méthodes d’analyse manuelle](#méthodes-danalyse-manuelle)
 * [Outils d’analyse](#outils-danalyse)
-* [Pilote d’apprentissage automatique](#pilote-dapprentissage-automatique)
 * [Intégrer d’autres sources de données complémentaires](#intégrer-dautres-sources-de-données-complémentaires)
 
 ## Qui devrait lire et analyser la rétroaction?
@@ -191,13 +190,6 @@ Pour les plus grands ensembles de données, il est utile d’utiliser un outil d
 * [Télécharger un modèle de stratégie d’étiquetage](images/feedback-tagging-template.xlsx) (Excel, 61 Ko)
 * [Télécharger un modèle pour analyser la rétroaction sur des pages ou la rétroaction sur le sondage sur la réussite des tâches du GC](https://docs.google.com/spreadsheets/d/1pcQgee6lN6P30EIMRb3o6RxcTPBiUFtsZAmbeVNpDW4/edit?usp=sharing) (Google Sheets)
 
-## Pilote d’apprentissage automatique
-
-Pour les institutions qui reçoivent de la rétroaction en grandes quantités, sachez que nous pilotons d’autres méthodes pour accéder à la rétroaction et l’analyser en utilisant des outils de science des données.
-
-Communiquez avec le bureau de la transformation numérique si vous recevez plus de rétroaction que vous ne pouvez gérer par une analyse manuelle.
-
-Adresse courriel&nbsp;: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 
 ## Intégrer d’autres sources de données complémentaires
 

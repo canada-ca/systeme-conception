@@ -8,7 +8,7 @@ section-title: "Spécifications de Canada.ca"
 title: "Concevoir le contenu pour Canada.ca"
 breadcrumbs: [{
             "title": "À propos de Canada.ca",
-            "link": "https://conception.canada.ca/a-propos/"
+            "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
           },
             {
             "link": "https://conception.canada.ca/",
@@ -105,5 +105,5 @@ breadcrumbs: [{
 </div>
 <div>
   <h2 id="aider">Aidez à améliorer la conception de Canada.ca</h2>
-  <p>Lors de la conception de contenu pour Canada.ca, gardez à l’esprit que la mesure du succès dépasse le simple respect des lignes directrices. Il est tout aussi important d’aider les utilisateurs à mener à bien leurs tâches. L’amélioration des règles est encouragée. Partagez toujours vos idées pour améliorer les choses avec le Bureau de la transformation numérique à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}.</a></p>
+  <p>Lors de la conception de contenu pour Canada.ca, gardez à l’esprit que la mesure du succès dépasse le simple respect des lignes directrices. Il est tout aussi important d’aider les utilisateurs à mener à bien leurs tâches. L’amélioration des règles est encouragée. Partagez toujours vos idées pour améliorer les choses avec le Bureau de l’expérience Canada.ca à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}.</a></p>
 </div>

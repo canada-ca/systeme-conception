@@ -8,7 +8,7 @@ titleH1: Widget des réseaux de médias sociaux - Configuration de conception de
 ---
 <section class="alert alert-info">
   <h2>Hors service</h2>
-  <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages. Pour toute question relative à cette configuration, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">communiquez avec le Bureau de la transformation numérique</a>.</p>
+  <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages. Pour toute question relative à cette configuration, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca">communiquez avec le Bureau de l’expérience Canada.ca</a>.</p>
 </section>
 
  <p>Le widget des réseaux de medias sociaux est une composante d’intérieur de page qui permet d’imbriquer les plus récents messages affichés sur les comptes de medias sociaux du gouvernement du Canada dans les pages Canada.ca.</p>

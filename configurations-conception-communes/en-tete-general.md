@@ -389,7 +389,7 @@ title: "En-tête général"
     <li>au drapeau dans la signature du gouvernement du Canada quand il est rouge;</li>
     <li>à un fond blanc plus qu’à un mode sombre.</li>
   </ul>
-  <p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de la transformation numérique à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
+  <p>Si vous souhaitez en savoir plus au sujet de cette recherche, communiquez avec le Bureau de l’expérience Canada.ca à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.</p>
   <h4>Projet Orientation dans Canada.ca</h4>
   <p>Nous avons mis à jour l’en-tête général de Canada.ca pour l’harmoniser à une nouvelle stratégie de navigation globale issue du projet de recherche Orientation.</p>
   <ul>

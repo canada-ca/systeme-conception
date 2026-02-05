@@ -322,6 +322,16 @@
       "TANDP": "0"
     },
     {
+      "NAME": "<a href=\"{{ site.urlblogue }}/2025/12/17/reponses-ia.html\">Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Canada.ca</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Chaque jour, des milliers de personnes se tournent vers le gouvernement du Canada (GC) pour obtenir de l'aide relativement aux services essentiels.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+    {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/outil-retroaction.html\">Rétroaction GC</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "L'outil de rétroaction est une configuration facultative pour recueillir la rétroaction de l'expérience sur une page. Il ne doit être utilisé que si la rétroaction sur une page va faire l'objet d'un suivi actif et être exploitée.",
@@ -651,14 +661,14 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/specifications/elements-obligatoires/domaines-url\">Domaines et adresses URL</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/elements-obligatoires/domaines-url\">Domaines et adresses URL du gouvernement du Canada</a>",
       "SOURCE": "Éléments obligatoires",
-      "DESCRIPTION": "Domaines et adresses URL du gouvernement du Canada",
-      "WHENTOUSE": "",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "0"
+      "DESCRIPTION": "Le domaine Canada.ca est le domaine principal pour la présence Web publique du gouvernement du Canada.",
+      "WHENTOUSE": "Le domaine Canada.ca est le domaine principal pour la présence Web publique du gouvernement du Canada.",
+      "CATEGORY": "Configuration de conception",
+      "TYPE": "Configuration à l’échelle du site",
+      "MANDATORY": "Obligatoire",
+      "TANDP": "1"
     },
     {
       "NAME": "<a href=\"{{ site.url }}/specifications/concevoir-contentu.html#principes\">Principes de conception de Canada.ca</a>",
@@ -810,16 +820,6 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/generique.html\">Page de contenu de base</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "La mise en page de base des pages de Canada.ca ",
-      "WHENTOUSE": "Mise en page de base des pages de Canada.ca.",
-      "CATEGORY": "Mod&#232;le de page",
-      "TYPE": "Destination",
-      "MANDATORY": "Non",
-      "TANDP": "1"
-    },
-    {
       "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/page-erreur-404.html\">Modèle de page d'erreur 404</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Une erreur 404 est générée lorsque l'on tente d'accéder à une page non trouvée.",
@@ -847,16 +847,6 @@
       "CATEGORY": "",
       "TYPE": "",
       "MANDATORY": "",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/canada-point-ca.html\">Domaine Canada.ca</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Le principal domaine pour la présence du gouvernement du Canada sur le Web",
-      "WHENTOUSE": "Le principal domaine pour la pr&#233;sence du gouvernement du Canada sur le Web",
-      "CATEGORY": "Configuration de conception",
-      "TYPE": "Configuration &#224; l'&#233;chelle du site",
-      "MANDATORY": "Obligatoire",
       "TANDP": "1"
     },
     {
@@ -1078,22 +1068,11 @@
       "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement, Navigation",
       "MANDATORY": "Non",
       "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/icones.html\">Icônes</a>",
+    }, {
+      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/images.html\">Images et icônes</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Nous mettons cette configuration hors service. Les icônes représentent des symboles servant à indiquer des actions à prendre ou des états.",
-      "WHENTOUSE": "Nous mettons cette configuration hors service. Les icônes repr&#233;sentent des symboles servant &#224; indiquer des actions &#224; prendre ou des &#233;tats",
-      "CATEGORY": "Configuration de conception",
-      "TYPE": "Visuel",
-      "MANDATORY": "Non",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/images.html\">Images</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Utilisez pour embellir ou rehausser un texte.",
-      "WHENTOUSE": "Utilisez pour embellir ou rehausser un texte",
+      "DESCRIPTION": "Quand utiliser des images et des icônes et ce qu’il faut éviter",
+      "WHENTOUSE": "Quand utiliser des images et des icônes et ce qu’il faut éviter",
       "CATEGORY": "Configuration de conception",
       "TYPE": "Visuel",
       "MANDATORY": "Non",

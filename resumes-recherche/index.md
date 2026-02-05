@@ -2,10 +2,10 @@
 altLangPage: "https://design.canada.ca/research-summaries/"
 date: 2024-01-17
 dateModified: 2024-08-26
-description: "Résumés des recherches menées par le Bureau de la transformation numérique (BTN) et par les ministères fédéraux."
+description: "Résumés des recherches menées par le Bureau de l’expérience Canada.ca (BEC) et par les ministères fédéraux."
 title: "Résumés de recherche"
 ---
-<p>Résumés des recherches menées par le Bureau de la transformation numérique (BTN) et par les ministères fédéraux. Le but de cette recherche était d’aider les gens à trouver et à comprendre les renseignements et services offerts par le gouvernement du Canada sur Canada.ca</p>
+<p>Résumés des recherches menées par le Bureau de l’expérience Canada.ca (BEC) et par les ministères fédéraux. Le but de cette recherche était d’aider les gens à trouver et à comprendre les renseignements et services offerts par le gouvernement du Canada sur Canada.ca</p>
 <h2>Liste de résumés de recherche</h2>
 <ul class="mrgn-tp-lg">
   <li><a href="/resumes-recherche/etude-sur-les-restrictions-de-voyage.html">Utilisation d’un assistant afin d’aider les gens à se renseigner sur les modifications aux conditions d’entrée durant la pandémie de la COVID-19</a></li>
