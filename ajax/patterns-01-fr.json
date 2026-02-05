@@ -330,6 +330,25 @@
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
+    }, {
+      "NAME": "<a href=\"{{ site.urlblogue }}/2025/02/18/confiance-ia.html\">Résultats de l’étude sur la confiance envers l’IA sur Canada.ca</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Chaque jour, des milliers de personnes se tournent vers le gouvernement du Canada (GC) pour obtenir de l'aide relativement aux services essentiels.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
+    },
+     {
+      "NAME": "<a href=\"{{ site.urlblogue }}/2026/02/09/conception-aide-ia.html\">Concevoir des applications d'aide utilisant l'IA sur Canada.ca</a>",
+      "SOURCE": "Blogue",
+      "DESCRIPTION": "Au cours de la dernière année, nous avons travaillé en étroite collaboration avec 18 ministères afin de mieux comprendre ce qui fait qu'une application d'aide utilisant l'IA est fiable, uniforme et utile pour les utilisateurs de Canada.ca.",
+      "WHENTOUSE": "",
+      "CATEGORY": "",
+      "TYPE": "",
+      "MANDATORY": "",
+      "TANDP": "0"
     },
     {
       "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/outil-retroaction.html\">Rétroaction GC</a>",
