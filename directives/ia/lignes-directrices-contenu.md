@@ -1,9 +1,9 @@
 ---
 altLangPage: https://design.canada.ca/guidance/ai/content-guidance.html
-date: 2026-01-26
-dateModified: 2026-01-26
+date: 2026-02-09
+dateModified: 2026-02-09
 description: Suivez ces conseils pour créer une expérience uniforme pour les visiteurs de Canada.ca.
-title: Lignes directrices sur le contenu
+title: Lignes directrices sur le contenu pour les applications d'aide à l'IA
 ---
 
 Suivez ces conseils pour créer une expérience uniforme pour les visiteurs de Canada.ca.

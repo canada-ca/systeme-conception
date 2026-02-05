@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/guidance/ai/design-guidance.html
-date: 2026-01-26
-dateModified: 2026-01-26
+date: 2026-02-09
+dateModified: 2026-02-09
 description: Servez-vous de ces conseils pour offrir une expérience uniforme avec toutes les applications d’aide alimentées par l’IA de Canada.ca.
 title: Lignes directrices sur la conception pour les applications d'aide à l'IA
 ---
