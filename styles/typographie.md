@@ -37,13 +37,13 @@ Les polices doivent être harmonisées dans tout le site Canada.ca, et elles doi
 
 ## Caractères en langues autochtones et les autres langues
 
-Les polices Lato et Noto Sans prennent en charge une grande variété de langues et les caractères non latins.  Cependant, Noto Sans dispose d'un plus grand choix de familles de polices supplémentaires pouvant être ajoutées pour prendre en charge des contenus dans des langues alternatives spécifiques.
+Les polices Lato et Noto Sans prennent en charge une grande variété de langues et de caractères non latins. Cependant, Noto Sans dispose d'une plus grande gamme de familles de polices supplémentaires qui peuvent être ajoutées pour prendre en charge des types de caractères additionnels.
 
 La famille de polices Noto Sans Canadian Aboriginal est incluse par défaut dans la typographie de Canada.ca.
 
-Lorsque vous publiez du contenu dans une autre langue quelconque, si Lato ne prend pas en charge les caractères des en-têtes, vous pouvez ajouter le pack de polices Noto Sans pour les caractères dont vous avez besoin pour le contenu.
+Lorsque vous publiez du contenu comportant des types de caractères non pris en charge, vous pouvez choisir d'ajouter un ensemble de polices Noto Sans pour les caractères dont vous avez besoin, tant pour les en-têtes que pour les paragraphes, selon les besoins.
 
-Si cette modification précise n’est pas apportée, le style de Canada.ca demandera par défaut au navigateur de l’utilisateur d’utiliser une police disponible qui affichera les caractères correctement.
+Par défaut, sans cette modification spécifique, le style de Canada.ca indique au navigateur de l'utilisateur d'utiliser une police disponible qui affichera les caractères correctement.
 
 Par exemple&nbsp;:
 
