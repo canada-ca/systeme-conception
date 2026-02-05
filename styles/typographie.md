@@ -35,15 +35,15 @@ Les polices doivent être harmonisées dans tout le site Canada.ca, et elles doi
 - H6&nbsp;: Lato, 18px, caractère gras
 - Corps du texte&nbsp;: Noto sans, 18px, texte régulier
 
-## En‑têtes pour les caractères en langues autochtones et les autres langues
+## Caractères en langues autochtones et les autres langues
 
-Les polices Lato et Noto Sans prennent en charge une grande variété de langues et les caractères non latins. La police Noto Sans offre cependant un éventail plus large de caractères et a été conçue en fonction des polices de langues autochtones canadiennes.
+Les polices Lato et Noto Sans prennent en charge une grande variété de langues et de caractères non latins. Cependant, Noto Sans dispose d'une plus grande gamme de familles de polices supplémentaires qui peuvent être ajoutées pour prendre en charge des types de caractères additionnels.
 
 La famille de polices Noto Sans Canadian Aboriginal est incluse par défaut dans la typographie de Canada.ca.
 
-Lorsque vous publiez du contenu dans une autre langue quelconque, si Lato ne prend pas en charge les caractères des en-têtes, vous pouvez ajouter le pack de polices Noto Sans pour les caractères dont vous avez besoin pour le contenu.
+Lorsque vous publiez du contenu comportant des types de caractères non pris en charge, vous pouvez choisir d'ajouter un ensemble de polices Noto Sans pour les caractères dont vous avez besoin, tant pour les en-têtes que pour le contenu, selon les besoins.
 
-Si cette modification précise n’est pas apportée, le style de Canada.ca demandera par défaut au navigateur de l’utilisateur d’utiliser une police disponible qui affichera les caractères correctement.
+Par défaut, sans cette modification spécifique, le style de Canada.ca indique au navigateur de l'utilisateur d'utiliser une police disponible qui affichera les caractères correctement.
 
 Par exemple&nbsp;:
 
