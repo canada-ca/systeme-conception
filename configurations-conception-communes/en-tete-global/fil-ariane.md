@@ -97,7 +97,7 @@ Programmez le fil d’Ariane en tant que liste ordonnée.
 
 Voici des exemples de fils d’Ariane dans différents endroits sur le site Canada.ca.
 
-##### Pages thématiques, institutionnelles et organisationnelles</h5>/
+##### Pages thématiques, institutionnelles et organisationnelles
 <div class="container">
   <p class="breadcrumb">Canada.ca</p>
 </div>
