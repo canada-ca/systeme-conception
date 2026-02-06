@@ -830,7 +830,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/configurations-conception-communes/fil-ariane.html\">Fil d'Ariane</a>",
+      "NAME": "<a href=\"{{ '/configurations-conception-communes/fil-ariane.html' | absolute_url }}\">Fil d'Ariane</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Représente l'emplacement de la page actuelle dans le modèle de navigation de l'utilisateur du site ",
       "WHENTOUSE": "Repr&#233;sente l'emplacement de la page actuelle dans le mod&#232le de navigation de l'utilisateur du site - <strong>Conception obligatoire</strong>",
