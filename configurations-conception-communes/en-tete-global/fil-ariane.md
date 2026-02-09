@@ -249,9 +249,11 @@ Le fil d’Ariane fait partie de l’en-tête général et est un élément obli
 <dl class="dl-horizontal">
   <dt><time>2026-02-06</time></dt>
   <dd>Mise à jour des directives relatives au fil d'Ariane afin de préciser :
-- quand le fil d’Ariane est obligatoire (et quand il ne l’est pas)
-- comment le fil d’Ariane s’applique aux pages de campagne
-- quels liens doivent apparaître dans un fil d’Ariane
+<ul>
+  <li>quand le fil d’Ariane est obligatoire (et quand il ne l’est pas)</li>
+  <li>comment le fil d’Ariane s’applique aux pages de campagne</li>
+  <li>quels liens doivent apparaître dans un fil d’Ariane</li>
+</ul>
 </dd>
   <dt><time>2023-06-26</time></dt>
   <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur l’implémentation, les conclusions des recherches et la justification stratégique</dd>
