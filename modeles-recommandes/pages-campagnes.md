@@ -1,1 +1,7 @@
-<meta http-equiv="refresh" content="0; url=https://conception.canada.ca/directives/campagnes.html">
+---
+layout: redirect
+redirect:
+  link: https://conception.canada.ca/directives/campagnes.html
+  title: Contenu Web pour appuyer les campagnes publicitairesou de marketing
+title: Pages de campagnes
+---
