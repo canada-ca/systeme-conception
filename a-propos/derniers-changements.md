@@ -13,7 +13,12 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 <div id="expand-collapse">
   <details open="open">
     <summary><time datetime="2026-02-06">6 février 2026</time></summary>
-    <p>Mise à jour de la configuration de conception <a href="{{ '/configurations-conception-communes/fil-ariane.html' | absolute_url }}">Fil d'Ariane</a> pour y inclure un exemple révisé pour les pages de campagne et des exemples pour les pages d’erreur.</p>
+    <p>Mise à jour des directives relatives au <a href="{{ '/configurations-conception-communes/fil-ariane.html' | absolute_url }}">fil d'Ariane</a> afin de préciser :</p>
+<ul>
+  <li>quand le fil d’Ariane est obligatoire (et quand il ne l’est pas)</li>
+  <li>comment le fil d’Ariane s’applique aux pages de campagne</li>
+  <li>quels liens doivent apparaître dans un fil d’Ariane</li>
+</ul>
   </details>
   <details>
     <summary><time datetime="2026-01-30">30 janvier 2026</time></summary>
