@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/common-design-patterns/breadcrumb-trail.html"
 date: 2017-10-05
-dateModified: 2026-02-06
+dateModified: 2026-02-11
 description: "Directives concernant la mise en œuvre des fils d’Ariane pour les sites web du gouvernement du Canada."
 title: "Fil d'Ariane"
 ---
@@ -247,7 +247,7 @@ Le fil d’Ariane fait partie de l’en-tête général et est un élément obli
 ## Derniers changements
 
 <dl class="dl-horizontal">
-  <dt><time>2026-02-06</time></dt>
+  <dt><time>2026-02-11</time></dt>
   <dd>Mise à jour des directives relatives au fil d'Ariane afin de préciser :
 <ul>
   <li>quand le fil d’Ariane est obligatoire (et quand il ne l’est pas)</li>
