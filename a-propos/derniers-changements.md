@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2026-02-03
+dateModified: 2026-02-11
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -12,7 +12,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 </div>
 <div id="expand-collapse">
   <details open="open">
-    <summary><time datetime="2026-02-06">6 février 2026</time></summary>
+    <summary><time datetime="2026-02-11">11 février 2026</time></summary>
     <p>Mise à jour des directives relatives au <a href="{{ '/configurations-conception-communes/fil-ariane.html' | absolute_url }}">fil d'Ariane</a> afin de préciser :</p>
 <ul>
   <li>quand le fil d’Ariane est obligatoire (et quand il ne l’est pas)</li>
