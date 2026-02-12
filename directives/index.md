@@ -6,7 +6,7 @@ breadcrumbs:
   - link: "https://conception.canada.ca"
     title: "Conception"
 date: 2025-08-29
-dateModified: 2025-08-29
+dateModified: 2026-02-12
 description: Utilisez ces directives pour créer et gérer le contenu Web du gouvernement du Canada
 information:
   - title: Programmes ou services fermés
@@ -21,6 +21,9 @@ information:
   - title: Aide‑mémoire pour la conception du contenu des communications de crise
     link: /crise/contenu.html
     description: Utilisez un style adapté pour mobile, évitez les doublons, ajoutez des dates, formulez les informations sous forme d’instructions, utilisez des listes à puces et rédigez des phrases courtes
+  - title: Directives pour la conception des applications d’aide à l’IA
+    link: /directives/ia/index.html
+    description: Lignes directrices centrales et recherche en matière d’IA, conception, contenu, protection et sécurité, conception itérative, liste de contrôle de référence
 
 title: Directives relatives à la conception pour Canada.ca
 ---
