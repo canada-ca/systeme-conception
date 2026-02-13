@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+
+		<title>Liste de contrôle de référence pour les applications d'aide à l'IA - Canada.ca</title>
+		<meta content="width=device-width, initial-scale=1" name="viewport">
+		<!-- Custom code starts here (Metadata) / Code personalisé commence ici (Métadonnées) -->
+		<link rel="canonical" href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-519/directives/ia/liste-controle-reference.html" />
+		<link rel="alternate" href="https://design.canada.ca/guidance/ai/reference-checklist.html" hreflang="en" />
+		<meta name="description" content="Utilisez cette liste de contrôle comme référence rapide pour tout ce que vous devez prendre en compte lors de la création d'une application d'aide à l'IA." />
+		<meta name="dcterms.title" content="Liste de contrôle de référence pour les applications d'aide à l'IA"/>
+		<meta name="dcterms.description" content="Utilisez cette liste de contrôle comme référence rapide pour tout ce que vous devez prendre en compte lors de la création d'une application d'aide à l'IA."/>
+		<meta name="author" content="Emploi et Développement social Canada" />
+		<meta name="dcterms.creator" content="Emploi et Développement social Canada"/>
+		<meta name="dcterms.language" title="ISO639-2/T" content="fra"/>
+		<meta name="dcterms.accessRights" content="2" />
+		<meta name="gcaaterms.sitename" content="ESDC-EDSC_CanadacaDesign-ConceptionCanadaca" />
+		<meta name="dcterms.issued" title="W3CDTF" content="2026-02-12"/>
+		<meta name="dcterms.modified" title="W3CDTF" content="2026-02-12"/>
+		<meta name="generator" content="Jekyll v4.3.2" />
+		<meta name="google-site-verification" content="Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM" />
+		<meta name="yandex-verification" content="4dda5b1b6e392d83" />
+		<!-- Custom code ends here (Metadata) / Code personalisé termine ici (Métadonnées)-->
+
+		
+
+<link href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon" />
+<link rel="stylesheet" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/theme.min.css" />
+<noscript><link rel="stylesheet" href="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/css/noscript.min.css" /></noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" /><link rel="stylesheet" href="/css/custom.css" />
+		<!-- Custom code starts here (Analytics) / Code personalisé commence ici (Analytiques) -->
+		
+
+<!-- Using nested provider configuration -->
+	<script defer src="//assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-913b1beddf7a-staging.min.js"></script>
+
+	<script>
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', '']);
+			
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<!-- Custom code ends here (Analytics) / Code personalisé termine ici (Analytiques) -->
+	</head>
+	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage"><nav>
+	<ul id="wb-tphp">
+		<li class="wb-slc"><a class="wb-sl" href="#wb-cont">Passer au contenu principal</a></li>
+		<li class="wb-slc visible-sm visible-md visible-lg"><a class="wb-sl" href="#wb-info">Passer à «&#160;À propos de ce site&#160;»</a></li></ul>
+</nav>
+
+		<header>
+	<div id="wb-bnr" class="container">
+		<div class="row">
+			
+				<section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
+	<h2 class="wb-inv">Sélection de la langue</h2>
+	<ul class="list-inline mrgn-bttm-0">
+		<li>
+			<a lang="en" hreflang="en" href="https://design.canada.ca/guidance/ai/reference-checklist.html">
+				<span class="hidden-xs" translate="no">English</span>
+				<abbr title="English" translate="no" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">en</abbr>
+			</a>
+		</li>
+	</ul>
+</section>
+
+			
+			<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" typeof="GovernmentOrganization">
+	<a href="#" property="url">
+		<img src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/sig-blk-fr.svg" alt="Gouvernement du Canada" property="logo" /><span class="wb-inv"> / <span lang="en">Government of Canada</span></span>
+	</a>
+	<meta property="name" content="Gouvernement du Canada">
+	<meta property="areaServed" typeof="Country" content="Canada" />
+	<link property="logo" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/wmms-blk.svg" />
+</div>
+
+			
+				
+<section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
+	<h2>Recherche</h2>
+	<form action="https://canada.ca/fr/sr/srb.html" method="get" name="cse-search-box" role="search">
+		<div class="form-group wb-srch-qry">
+			<label for="wb-srch-q" class="wb-inv">Rechercher dans Canada.ca</label>
+			<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Rechercher dans Canada.ca" />
+			<datalist id="wb-srch-q-ac"></datalist>
+		</div>
+		<div class="form-group submit">
+			<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub">
+				<span class="glyphicon-search glyphicon"></span>
+				<span class="wb-inv">Recherche</span>
+			</button>
+		</div>
+	</form>
+</section>
+
+			
+		</div>
+	</div>
+	
+	
+	<hr>
+	
+	<div class="container">
+		<div class="row"><div class="col-md-8">
+					<nav class="gcweb-menu" typeof="SiteNavigationElement">
+	<h2 class="wb-inv">Menu</h2>
+	<button type="button" aria-haspopup="true" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+	<ul role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html"><li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/emplois.html">Emplois et milieu de travail</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+		<li role="presentation"><a role="menuitem" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/evenements-vie.html">Gérer les événements de la vie</a></li></ul>
+</nav>
+
+				</div></div>
+	</div>
+	
+	<nav id="wb-bc" property="breadcrumb">
+	<h2>Vous êtes ici :</h2>
+	<div class="container">
+		<ol class="breadcrumb" typeof="BreadcrumbList">
+			<li property="itemListElement" typeof="ListItem">
+				<a property="item" typeof="WebPage" href="https://www.canada.ca/fr.html">
+					<span property="name">Canada.ca</span>
+				</a>
+				<meta property="position" content="1">
+			</li>
+			
+						<li property="itemListElement" typeof="ListItem">
+							<a property="item" typeof="WebPage" href="https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html">
+								<span property="name">À propos de Canada.ca</span>
+							</a>
+							<meta property="position" content="2">
+						</li>
+						
+						<li property="itemListElement" typeof="ListItem">
+							<a property="item" typeof="WebPage" href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-519/">
+								<span property="name">Conception</span>
+							</a>
+							<meta property="position" content="3">
+						</li>
+						
+						<li property="itemListElement" typeof="ListItem">
+							<a property="item" typeof="WebPage" href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-519/directives/index.html">
+								<span property="name">Lignes directrices</span>
+							</a>
+							<meta property="position" content="4">
+						</li>
+						
+						<li property="itemListElement" typeof="ListItem">
+							<a property="item" typeof="WebPage" href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-519/directives/ia/index.html">
+								<span property="name">Applications d’aide alimentées par l’IA</span>
+							</a>
+							<meta property="position" content="5">
+						</li>
+						
+		</ol>
+	</div>
+</nav>
+
+
+</header>
+
+		<main class="container" property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
+		<!-- Custom code starts here --><h1 property="name" id="wb-cont" property="name headline" dir="ltr">
+			<span class="stacked">
+				<span>Liste de contrôle de référence pour les applications d'aide à l'IA</span>: <span>Conception de Canada.ca</span>
+			</span>
+		</h1><!-- Custom code ends here -->
+		<form action="#" method="post" class="wb-frmvld">
+  <div class="gc-checklist wb-fieldflow" data-wb-fieldflow="{&quot;renderas&quot;:&quot;checkbox&quot;, &quot;gcChckbxrdio&quot;:true, &quot;noForm&quot;:true, &quot;isoptional&quot;: true}">
+    <p>Utilisez cette liste de contrôle comme référence rapide pour tous les éléments à prendre en compte lors de la création d'une application d'aide utilisant l'IA.</p>
+    <ul>
+      <li>Suivre les lignes directrices centrales</li>
+      <li>Ne pas utiliser de nom de personnes</li>
+      <li>Ne pas utiliser les termes &laquo;&nbsp;clavardage&nbsp;&raquo; ou &laquo;&nbsp;agent conversationnel&nbsp;&raquo;</li>
+      <li>Utiliser un lien ou une superposition inférieure pour appareil mobile pour lancer le clavardage sur une nouvelle page</li>
+      <li>Tenir compte de la vision de Canada.ca, selon laquelle les visiteurs ne savent pas quel service s'occupe de quelle tâche</li>
+      <li>Indiquer clairement le sujet dans le bouton d'invite si votre application d'IA est limitée à un sujet précis</li>
+      <li>Identifier clairement les applications d'aide utilisant l'IA comme étant alimentées par l'IA</li>
+      <li>Inclure un avis contenant des renseignements et des liens supplémentaires sur l'application et la protection des renseignements personnels</li>
+      <li>Fournir des liens de citation pour les réponses et les rendre très visibles</li>
+      <li>Veiller à respecter les exigences en matière d'accessibilité et de langues officielles</li>
+      <li>Tester l’exactitude de votre application et partager les résultats avec votre équipe de communication</li>
+      <li>Faire une Analyse comparative entre les sexes Plus</li>
+      <li>Ajouter des mesures de protection contre les résultats préjudiciables ou biaisés</li>
+      <li>Garder les réponses concises, simples et claires</li>
+      <li>Inclure les identifiants de conversation aux fins de référence</li>
+      <li>Éviter d'utiliser les termes &laquo;&nbsp;clavardage&nbsp;&raquo; et &laquo;&nbsp;maintenant&nbsp;&raquo;</li>
+      <li>Mobiliser votre équipe chargée de la protection des renseignements personnels dès le début</li>
+      <li>Limiter la collecte de renseignements personnels</li>
+      <li>Caviarder les renseignements personnels</li>
+      <li>Caviarder les menaces, les blasphèmes et les tentatives de manipulation de l'IA</li>
+      <li>Veiller à ce que votre organisation dispose d'une procédure pour traiter les messages menaçants</li>
+      <li>Définir un calendrier de conservation et de suppression</li>
+      <li>Mettre en place des journaux d'audit, surveiller les utilisations inappropriées ou les résultats biaisés et en informer les développeurs ou les fournisseurs</li>
+      <li>Empêcher le débridage et la manipulation</li>
+      <li>Assurer la conformité aux règles de cybersécurité du gouvernement du Canada</li>
+      <li>Surveiller et itérer</li>
+    </ul>
+  </div>
+  <output class="alert alert-success hidden mrgn-tp-lg" role="status" aria-live="polite">
+    <p>Vous avez examiné toutes les exigences.</p>
+  </output>
+</form>
+
+		<section class="pagedetails">
+	<h2 class="wb-inv">Détails de la page</h2><div class="row">
+		<div class="col-sm-8 col-md-9">
+			<div 
+		data-ajax-replace="https://www.canada.ca/etc/designs/canada/wet-boew/assets/feedback/page-feedback-fr.html"
+		
+			class="wb-disable-allow"
+	
+	 data-feedback-theme="AboutGov" ><!-- Will always be replaced by data-ajax --></div>
+
+		</div>
+	</div><dl id="wb-dtmd">
+	<dt>Date de modification&#160;:</dt>
+	<dd><time property="dateModified">2026-02-12</time></dd>
+</dl>
+</section>
+
+	</main>
+
+		<footer id="wb-info">
+	<h2 class="wb-inv">À propos de ce site</h2>
+<div class="gc-contextual">
+		<div class="container">
+			<nav>
+				<h3>Bureau de l’expérience Canada.ca (BEC)</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="https://blogue.canada.ca/contactez-nous">Contactez-nous</a></li></ul>
+			</nav>
+		</div>
+	</div>
+
+	<div class="gc-main-footer">
+		<div class="container">
+			<nav>
+				<h3>Gouvernement du Canada</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="https://www.canada.ca/fr/contact.html">Toutes les coordonnées</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/systeme.html">À propos du gouvernement</a></li></ul>
+				<h4><span class="wb-inv">Thèmes et sujets</span></h4>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3"><li><a href="https://www.canada.ca/fr/services/emplois.html">Emplois</a></li>
+					<li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+					<li><a href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+					<li><a href="https://www.canada.ca/fr/services/entreprises.html">Entreprises</a></li>
+					<li><a href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+					<li><a href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+					<li><a href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+					<li><a href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+					<li><a href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+					<li><a href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+					<li><a href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+					<li><a href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a></li>
+					<li><a href="https://www.international.gc.ca/world-monde/index.aspx?lang=fra">Le Canada et le monde</a></li>
+					<li><a href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+					<li><a href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+					<li><a href="https://www.canada.ca/fr/services/autochtones.html">Autochtones</a></li>
+					<li><a href="https://www.canada.ca/fr/services/veterans-militaire.html">Vétérans et militaires</a></li>
+					<li><a href="https://www.canada.ca/fr/services/jeunesse.html">Jeunesse</a></li>
+					<li><a href="https://www.canada.ca/fr/services/evenements-vie.html">Gérer les événements de la vie</a></li></ul>
+			</nav>
+		</div>
+	</div>
+
+	<div class="gc-sub-footer">
+		<div class="container d-flex align-items-center">
+			<nav>
+				<h3 class="wb-inv">Organisation du gouvernement du Canada</h3>
+				<ul>
+					<li><a href="https://www.canada.ca/fr/sociaux.html">Médias sociaux</a></li>
+					<li><a href="https://www.canada.ca/fr/mobile.html">Applications mobiles</a></li>
+					<li><a href="https://canada.ca/fr/gouvernement/a-propos-canada-ca.html">À propos de Canada.ca</a></li><li><a href="https://www.canada.ca/fr/transparence/avis.html">Avis</a></li>
+					<li><a href="https://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a></li></ul>
+			</nav>
+			<div class="wtrmrk align-self-end">
+				<img src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada" />
+			</div>
+		</div>
+	</div>
+</footer>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha384-rY/jv8mMhqDabXSo+UCggqKtdmBfd3qC2/KvyTDNQ6PcUJXaxK1tMepoQda4g5vB" crossorigin="anonymous"></script>
+<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
+<script src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/js/theme.min.js"></script><script src="https://canada-ca.github.io/systeme-conception/pr-preview/pr-519/js/plugins/gc-checklist.js"></script><!-- Custom code starts here -->
+
+<!-- Custom code ends here -->
+
+	</body>
+</html>
