@@ -27,7 +27,7 @@ information:
     link: /directives/ia/conception-iterative.html
     description: Étapes de la conception, essais par les utilisateurs, étapes de lancement, boucle de rétroaction, mécanismes de rétroaction
   - title: Liste de contrôle de référence pour les applications d'aide à l'IA
-    link: /directives/ia/liste-verification-reference.html
+    link: /directives/ia/liste-controle-reference.html
     description: Document de référence rapide pour tous les éléments à prendre en compte lors de la création d’une application d’aide utilisant l’IA
 title: Lignes directrices pour la conception d’applications d’aide utilisant l’IA sur Canada.ca
 ---
