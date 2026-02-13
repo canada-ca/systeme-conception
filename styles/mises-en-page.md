@@ -36,7 +36,7 @@ title: Mises en page - Style de Canada.ca
   Pour des exemples pratiques, voir:
  </p>
  <p>
-  <a href="https://conception.canada.ca/modeles-recommandes/generique.html">
+  <a href="https://canada-ca.github.io/systeme-conception/modeles-recommandes/generique.html">
    Modèles pour les pages de contenu de base
   </a>
  </p>

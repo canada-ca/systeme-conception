@@ -350,7 +350,7 @@ title: Page d’accueil institutionnelle
     <p>Ce modèle est un élément obligatoire des Spécifications de Canada.ca.</p>
     <ul>
         <li>
-            <a href="https://conception.canada.ca/specifications/elements-obligatoires.html">
+            <a href="https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html">
                 Éléments obligatoires du système de conception
             </a>
         </li>

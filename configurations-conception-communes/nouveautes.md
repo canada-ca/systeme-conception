@@ -114,8 +114,8 @@ title: "Dernières nouvelles"
   <h2>Recherche et justification</h2>
   <p>La configuration de conception des dernières nouvelles est facultative pour les modèles obligatoires suivants :</p>
   <ul>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
+    <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
   </ul>
 </section>
 <section id="changements">

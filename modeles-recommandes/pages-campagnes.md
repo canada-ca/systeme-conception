@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url=https://conception.canada.ca/directives/campagnes.html">
+<meta http-equiv="refresh" content="0; url=https://canada-ca.github.io/systeme-conception/directives/campagnes.html">

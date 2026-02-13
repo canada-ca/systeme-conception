@@ -9,10 +9,10 @@ title: "Page de contenu de base"
 
 <section class="alert alert-info mrgn-tp-md">
   <p>Nous retirons ce modèle. Vous pouvez utiliser le <a href="https://systeme-design.alpha.canada.ca/fr/modeles-de-page/basic/">modèle de page de base</a> du Système de design GC.</p>
-  <p>Vous pouvez aussi combiner les éléments et les modèles obligatoires tirés de conception.canada.ca afin de créer une page qui aidera les utilisateurs à accomplir leurs tâches&nbsp;:</p>
+  <p>Vous pouvez aussi combiner les éléments et les modèles obligatoires tirés de canada-ca.github.io/systeme-conception afin de créer une page qui aidera les utilisateurs à accomplir leurs tâches&nbsp;:</p>
   <ul>
-    <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires de la conception de Canada.ca</a></li>
-    <li><a href="https://conception.canada.ca/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></li>
+    <li><a href="https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html">Éléments obligatoires de la conception de Canada.ca</a></li>
+    <li><a href="https://canada-ca.github.io/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a></li>
   </ul>
 </section>
 

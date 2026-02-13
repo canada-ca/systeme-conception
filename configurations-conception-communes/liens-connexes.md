@@ -8,7 +8,7 @@ titleH1: Liens connexes - Configuration de conception de Canada.ca
 ---
 <section class="alert alert-info">
   <h2>Hors service</h2>
-  <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages. Suivez <a href="https://conception.canada.ca/guide-redaction/#toc11">les directives du Guide de rédaction du contenu de Canada.ca sur les liens</a>.</p>
+  <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages. Suivez <a href="https://canada-ca.github.io/systeme-conception/guide-redaction/#toc11">les directives du Guide de rédaction du contenu de Canada.ca sur les liens</a>.</p>
 </section>
 
 <section>

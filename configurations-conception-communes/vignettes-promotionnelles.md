@@ -202,10 +202,10 @@ title: "Promotions contextuelles"
   <h3>Justification stratégique</h3>
   <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
   <ul>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
     <li><a href="/modeles-obligatoire/theme.html">Page de thème</a></li>
     <li><a href="/modeles-obligatoire/sujet.html">Page de sujet</a></li>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
+    <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
   </ul>
 </section>
 <section id="changements">

@@ -99,8 +99,8 @@ Voici des exemples&nbsp;:
 
 Pour plus d’informations, consultez les conseils pour&nbsp;:
 
-* [la rédaction de contenu efficace pour les éléments `<title>` et `<h1>`](https://conception.canada.ca/specifications/information-trouvabilite/metadonnees.html#m2);
-* [la rédaction de métadonnées de description efficaces](https://conception.canada.ca/specifications/information-trouvabilite/metadonnees.html#m3).
+* [la rédaction de contenu efficace pour les éléments `<title>` et `<h1>`](https://canada-ca.github.io/systeme-conception/specifications/information-trouvabilite/metadonnees.html#m2);
+* [la rédaction de métadonnées de description efficaces](https://canada-ca.github.io/systeme-conception/specifications/information-trouvabilite/metadonnees.html#m3).
 
 ### Mettre à jour l’étiquette statut
 
@@ -204,10 +204,10 @@ Il est important de respecter le plan établi par votre ministère au sujet du c
 
 Suivez les conseils de mise en œuvre pour le composant d’étiquette. Utilisez l’étiquette d’avertissement lorsque vous donnez un avertissement avant la fermeture et utilisez l’étiquette de danger une fois que le programme ou le service est fermé.
 
-* [Composant d’étiquettes - Comment mettre en œuvre](https://conception.canada.ca/configurations-conception-communes/etiquettes.html#comment)
+* [Composant d’étiquettes - Comment mettre en œuvre](https://canada-ca.github.io/systeme-conception/configurations-conception-communes/etiquettes.html#comment)
 
 ### Ajouter des alertes
 
 Suivez les conseils de mise en œuvre pour les alertes contextuelles. Utilisez l’alerte d’avertissement lorsque vous donnez un avertissement avant la fermeture et utilisez l’alerte d’information une fois que le programme ou le service est fermé.
 
-* [Modèle d’alertes contextuelles - Comment mettre en œuvre](https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html#comment)
+* [Modèle d’alertes contextuelles - Comment mettre en œuvre](https://canada-ca.github.io/systeme-conception/configurations-conception-communes/alertes-contextuelles.html#comment)

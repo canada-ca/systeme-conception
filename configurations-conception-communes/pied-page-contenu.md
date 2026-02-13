@@ -33,7 +33,7 @@ title: 'Pied de page de la zone du contenu '
 
 <p>Le pied de page de la zone du contenu peut comporter jusqu'à 3 éléments&nbsp;:</p>
 <ul>
- <li><a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">Rétroaction GC</a> (facultatif)</li>
+ <li><a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/outil-retroaction.html">Rétroaction GC</a> (facultatif)</li>
  <li><a href="date-modification.html">Date de modification</a> (obligatoire, mais peut être un numéro de version lorsqu'il est utilisé pour une application)</li>
 </ul>
 

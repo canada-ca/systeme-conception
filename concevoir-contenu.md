@@ -209,7 +209,7 @@ title: Concevoir du contenu pour Canada.ca
    (blogue)
   </li>
   <li>
-   <a href="https://conception.canada.ca/directives/donnees-structurees.html">
+   <a href="https://canada-ca.github.io/systeme-conception/directives/donnees-structurees.html">
     Ajout de données structurées sur les pages de Canada.ca
    </a>
   </li>
@@ -239,7 +239,7 @@ title: Concevoir du contenu pour Canada.ca
    (Guide de rédaction)
   </li>
   <li>
-   <a href="https://conception.canada.ca/crise/contenu.html">
+   <a href="https://canada-ca.github.io/systeme-conception/crise/contenu.html">
     Aide-mémoire pour la conception du contenu des communications de crise
    </a>
   </li>

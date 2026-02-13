@@ -8,7 +8,7 @@ title: "Pages d'événements promotionnels - Modèle de Canada.ca"
 <section class="alert alert-info">
   <h2>Hors service</h2>
   <p>Nous mettons cette configuration hors service et ne recommandons pas de l’utiliser sur vos pages.</p>
-  <p>Si votre événement est lié à une initiative de marketing planifiée par le gouvernement du Canada, consultez les <a href="https://conception.canada.ca/directives/campagnes.html">conseils sur le contenu Web pour soutenir les campagnes de publicité ou de marketing</a>.</p>
+  <p>Si votre événement est lié à une initiative de marketing planifiée par le gouvernement du Canada, consultez les <a href="https://canada-ca.github.io/systeme-conception/directives/campagnes.html">conseils sur le contenu Web pour soutenir les campagnes de publicité ou de marketing</a>.</p>
 </section>
 
 <p>Une page d’événement promotionnel est une page de destination qui décrit et explique un événement officiel organisé par le gouvernement et qui se déroule dans un contexte promotionnel comme un festival, une célébration ou une remise de prix.</p>

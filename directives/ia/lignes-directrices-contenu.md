@@ -39,7 +39,7 @@ Pour garantir la transparence et la reddition de compte, il convient de fournir 
 
 Ajoutez un lien ou un résumé détaillé directement vers la solution de clavardage, à l’instar de l’approche fondée sur des données probantes utilisée pour les déclarations de confidentialité sur Canada.ca. L’information est ainsi mise à la disposition des utilisateurs sans qu’ils aient à les lire intégralement avant d’accéder à l’application.
 
-- [Modèle d’avis de confidentialité](https://conception.canada.ca/configurations-conception-communes/avis-confidentialite.html)
+- [Modèle d’avis de confidentialité](https://canada-ca.github.io/systeme-conception/configurations-conception-communes/avis-confidentialite.html)
 - [Composant de détails](https://systeme-design.alpha.canada.ca/fr/composants/details/design/)
 
 Les avis de confidentialité doivent être fournis au moment de la collecte des renseignements personnels. Lorsque des renseignements personnels sont destinés à être recueillis (ou susceptibles de l’être), l’avis doit être placé de manière à être clairement associé à la zone où l’utilisateur saisit des renseignements dans la fonction de clavardage de l’IA.
@@ -104,7 +104,7 @@ Pour faciliter une communication efficace dans plusieurs langues, suivez ces lig
 
 Dans l’invite de votre système, demandez à l’IA d’utiliser la terminologie officielle du français canadien et de respecter le style trouvé sur Canada.ca pour les réponses en français.
 
-- [Guide de rédaction du contenu du site Canada.ca](https://conception.canada.ca/guide-redaction/)
+- [Guide de rédaction du contenu du site Canada.ca](https://canada-ca.github.io/systeme-conception/guide-redaction/)
 
 ### Traduction et soutien
 

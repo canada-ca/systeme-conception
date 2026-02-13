@@ -6,7 +6,7 @@ description: null
 title: "Formulaire de rétroaction sur l’accessibilité"
 section-title: "Formulaire de rétroaction sur l’accessibilité"
 breadcrumbs: [{
-            "link": "https://conception.canada.ca/modeles-recommandes/accessibilite/accessibilite.html#",
+            "link": "https://canada-ca.github.io/systeme-conception/modeles-recommandes/accessibilite/accessibilite.html#",
             "title": "[nom de l’institution]"
           }
         ]

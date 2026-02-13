@@ -20,7 +20,7 @@ Les images sont des contenus visuels qui complètent ou améliorent le texte, no
 
 ## Quand utiliser {#utiliser}
 
-[Suivez les conseils sur les images](https://conception.canada.ca/guide-redaction/#toc10) dans le Guide de rédaction du contenu du site Canada.ca pour obtenir de l'information sur&nbsp;:
+[Suivez les conseils sur les images](https://canada-ca.github.io/systeme-conception/guide-redaction/#toc10) dans le Guide de rédaction du contenu du site Canada.ca pour obtenir de l'information sur&nbsp;:
 
 * le but des images sur le Web;
 * les images fonctionnelles et les images décoratives;

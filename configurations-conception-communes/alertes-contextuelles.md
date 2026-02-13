@@ -122,7 +122,7 @@ title: Alertes contextuelles
     pour créer des étiquettes, utilisez plutôt ce composant:
     <ul>
      <li>
-      <a href="https://conception.canada.ca/configurations-conception-communes/etiquettes.html">
+      <a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/etiquettes.html">
        modèles d’étiquettes
       </a>
      </li>

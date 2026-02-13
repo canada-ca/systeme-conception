@@ -53,4 +53,4 @@ title: "Se préparer à passer l'examen de citoyenneté"
     <li>Que devez-vous emporter avec vous lorsque vous allez passer l'examen de citoyenneté?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://conception.canada.ca/resumes-recherche/examen-citoyennete-resume-recherche.html">Se préparer à passer l'examen de citoyenneté</a></p>
+<p><a href="https://canada-ca.github.io/systeme-conception/resumes-recherche/examen-citoyennete-resume-recherche.html">Se préparer à passer l'examen de citoyenneté</a></p>

@@ -45,4 +45,4 @@ title: "Orientation et repérage"
   </div>
 </div>
 <h2>Résumé de recherche</h2>
-<p><a href="https://conception.canada.ca/resumes-recherche/orientation-dans-canada-ca">Orientation dans Canada.ca</a></p>
+<p><a href="https://canada-ca.github.io/systeme-conception/resumes-recherche/orientation-dans-canada-ca">Orientation dans Canada.ca</a></p>

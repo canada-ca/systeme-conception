@@ -38,7 +38,7 @@ Chaque jour de semaine, les utilisateurs laissent jusqu’à 4 000 commentaires 
 
 Pour en connaître davantage sur l’utilisation de la rétroaction, consultez
 
-* [Comment accéder aux résultats et aux rapports du sondage](https://conception.canada.ca/sondage/acceder-resultats.html)
+* [Comment accéder aux résultats et aux rapports du sondage](https://canada-ca.github.io/systeme-conception/sondage/acceder-resultats.html)
 * [Guide d’extraction de données à partir de la base de Rétroaction (lien GCéchange, accessible uniquement sur le réseau du Gouvernement du Canada)](https://gcxgce.sharepoint.com/:w:/t/10001402/EecWMxWizRhJtOk_1NcjctEBup1mLluIzJaGQfIF4od7tQ?e=CgcbyV&xsdata=MDV8MDJ8TWFyaW5hLlRoaW5leUB0cHNnYy1wd2dzYy5nYy5jYXxmNzFkNGZkMDliMjY0YmM0ZTJlNjA4ZGU0NzE0NWJjNHxlMGQ1NGEzYzdiYmU0YTY0OWQ0NmY5Zjg0YTQxYzgzM3wwfDB8NjM5MDI2MzQ5OTEwNDI1NzkzfFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&sdata=OGluNXlqb0tmN2RiZUkzSWF4ek02dGIzcVBtaUs1dCsvUjJydHRXM0dDYz0%3d)
 
 ### Phase d’essai initial
@@ -82,4 +82,4 @@ Le Bureau de l’expérience Canada.ca a créé et testé la convivialité d’u
 
 Les équipes doivent utiliser les données du sondage et les évaluations des interactions par clavardage pour éclairer leurs décisions et évaluer l’efficacité de l’application d’aide dans la prestation des résultats souhaités en matière de services. Le succès ne se mesure pas au nombre de personnes qui utilisent l’application, mais au nombre de personnes qui déclarent que l’application a résolu leur problème et à la précision des réponses qu’elles ont reçues.
 
-Pour de plus amples renseignements, [consulter les directives sur l’utilisation du Sondage sur la réussite des tâches du gouvernement du Canada](https://conception.canada.ca/sondage/index.html)
+Pour de plus amples renseignements, [consulter les directives sur l’utilisation du Sondage sur la réussite des tâches du gouvernement du Canada](https://canada-ca.github.io/systeme-conception/sondage/index.html)
