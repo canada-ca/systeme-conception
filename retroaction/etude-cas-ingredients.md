@@ -6,9 +6,9 @@ breadcrumbs:
   - title: Analyses, sondage et commentaires
     link: https://www.canada.ca/fr/analytique.html
   - title: Outil de rétroaction
-    link: https://conception.canada.ca/retroaction/index.html
+    link: https://canada-ca.github.io/systeme-conception/retroaction/index.html
   - title: Comment la rétroaction peut aider
-    link: https://conception.canada.ca/retroaction/ameliorer.html
+    link: https://canada-ca.github.io/systeme-conception/retroaction/ameliorer.html
 date: null
 dateModified: 2023-02-28
 description: null

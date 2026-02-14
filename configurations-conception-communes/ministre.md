@@ -73,7 +73,7 @@ title: "Ministre ou chef d’institution"
     <li>Titre du chef d’institution
       <ul>
         <li><a href="/styles/couleurs.html">Couleurs standards des liens de Canada.ca</a></li>
-        <li><a href="https://conception.canada.ca/styles/typographie.html">Famille et taille de police standards de Canada.ca</a>. La classe est petite et constitue 87 % de la taille du corps de texte.</li>
+        <li><a href="https://canada-ca.github.io/systeme-conception/styles/typographie.html">Famille et taille de police standards de Canada.ca</a>. La classe est petite et constitue 87 % de la taille du corps de texte.</li>
       </ul>
     </li>
     <li>Liens facultatifs
@@ -205,7 +205,7 @@ title: "Ministre ou chef d’institution"
   <h3>Justification stratégique</h3>
   <p>La configuration de conception pour un ministre ou un chef d’institution est requise dans le modèle obligatoire suivant&nbsp;:</p>
   <ul>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
   </ul>
 </section>
 <section id="changements">

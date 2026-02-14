@@ -42,13 +42,13 @@ title: "Menu thématique"
 </ul>
 <p>Sur les <strong>pages de destination standards</strong> et les <strong>pages d’accueil institutionnelles</strong>, le menu thématique est obligatoire jusqu’à ce que TOUTES les conditions suivantes soient remplies&nbsp;:</p>
 <ul>
-  <li>La page comporte le <a href="https://conception.canada.ca/configurations-conception-communes/pied-page.html"> pied de page général</a> de&nbsp;2023.</li>
+  <li>La page comporte le <a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/pied-page.html"> pied de page général</a> de&nbsp;2023.</li>
   <li>Le menu reçoit régulièrement moins de 1&nbsp;% des clics au sein d’un groupe de pages liées.
     <ul>
       <li>Si vous adoptez la conception pour la première fois, vous n’avez pas besoin d’ajouter le menu.</li>
     </ul>
   </li>
-  <li>Vous avez ajouté un <a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a> là où il est pertinent pour le contenu. </li>
+  <li>Vous avez ajouté un <a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/connexion-contextuel.html">bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a> là où il est pertinent pour le contenu. </li>
 </ul>
 <p>Un groupe de pages peut être toutes les pages liées à un programme ou service précis, ou toutes les pages liées à une seule organisation.</p>
 

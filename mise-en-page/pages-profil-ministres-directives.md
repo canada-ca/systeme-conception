@@ -5,9 +5,9 @@ title: Directives pour les pages de profil des ministres
 breadcrumbs:
   - link: "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
     title: "À propos de Canada.ca"
-  - link: "https://conception.canada.ca/"
+  - link: "https://canada-ca.github.io/systeme-conception/"
     title: "Conception"
-  - link: "https://conception.canada.ca/bibliotheque-modeles.html"
+  - link: "https://canada-ca.github.io/systeme-conception/bibliotheque-modeles.html"
     title: "Modèles et configurations"
 ---
 

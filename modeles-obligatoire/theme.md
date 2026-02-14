@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/mandatory-templates/theme.html
 breadcrumbs:
 - link: https://www.canada.ca/fr/gouvernement/a-propos.html
   title: "À propos de Canada.ca"
-- link: https://conception.canada.ca
+- link: https://canada-ca.github.io/systeme-conception
   title: "Conception"
 - link: https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html
   title: "Bibliothèque de modèles et de configurations de conception"

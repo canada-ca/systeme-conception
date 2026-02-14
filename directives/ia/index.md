@@ -3,9 +3,9 @@ altLangPage: https://design.canada.ca/guidance/ai/index.html
 breadcrumbs:
   - link: "https://www.canada.ca/fr/gouvernement/a-propos-de-canada-ca.html"
     title: "À propos de Canada.ca"
-  - link: "https://conception.canada.ca"
+  - link: "https://canada-ca.github.io/systeme-conception"
     title: "Conception"
-  - link: "https://conception.canada.ca/directives/index.html"
+  - link: "https://canada-ca.github.io/systeme-conception/directives/index.html"
     title: "Directives"
 date: 2026-02-12
 dateModified: 2026-02-12

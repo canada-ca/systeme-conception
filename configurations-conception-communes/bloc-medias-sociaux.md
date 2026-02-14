@@ -71,12 +71,12 @@ title: "Chaînes de médias sociaux"
     </li>
     <li>Liens&nbsp;:
       <ul>
-        <li>Police&nbsp;: Noto Sans, 17 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
+        <li>Police&nbsp;: Noto Sans, 17 px, <a href="https://canada-ca.github.io/systeme-conception/styles/couleurs.html">couleurs de lien standards</a></li>
       </ul>
     </li>
      <li>Lien «&nbsp;D’autres moyens de rester en contact&nbsp;»&nbsp;:
         <ul>
-            <li>Police&nbsp;: Noto Sans, 17 px, <a href="https://conception.canada.ca/styles/couleurs.html">couleurs de lien standards</a></li>
+            <li>Police&nbsp;: Noto Sans, 17 px, <a href="https://canada-ca.github.io/systeme-conception/styles/couleurs.html">couleurs de lien standards</a></li>
             <li>Aligné à gauche</li>
             <li>Placé sous la liste des icônes</li>
         </ul>
@@ -278,9 +278,9 @@ title: "Chaînes de médias sociaux"
   <p>Le contenu de la section des chaînes de médias sociaux doit suivre la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications</a>.</p>
   <p>Cette configuration de conception est facultative pour les modèles obligatoires suivants&nbsp;:</p>
   <ul>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/sujet.html">Page de sujet</a></li>
-    <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
+    <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-profil-institutionnel.html">Page d’accueil institutionnelle</a></li>
+    <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/sujet.html">Page de sujet</a></li>
+    <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-profil-ministres.html">Pages ministérielles</a></li>
   </ul>
 </section>
 <section id="changements">

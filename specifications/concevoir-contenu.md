@@ -11,11 +11,11 @@ breadcrumbs: [{
             "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
           },
             {
-            "link": "https://conception.canada.ca/",
+            "link": "https://canada-ca.github.io/systeme-conception/",
             "title": "Conception"
           },
            {
-            "link": "https://conception.canada.ca/specifications.html",
+            "link": "https://canada-ca.github.io/systeme-conception/specifications.html",
             "title": "Spécifications"
           }
         ]

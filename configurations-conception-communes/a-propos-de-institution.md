@@ -55,8 +55,8 @@ title: À propos de l’institution
             </li>
             <li>D’autres liens peuvent inclure tout contenu qui relève des types de contenu relatifs aux renseignements organisationnels ou à l’élaboration de politiques et de programmes.
               <ul>
-                <li><a href="https://conception.canada.ca/specifications/information-trouvabilite/organiser-contenu.html#organisation">Renseignements organisationnels</a></li>
-                <li><a href="https://conception.canada.ca/specifications/information-trouvabilite/organiser-contenu.html#programmes">Élaboration de programmes et de politiques</a></li>
+                <li><a href="https://canada-ca.github.io/systeme-conception/specifications/information-trouvabilite/organiser-contenu.html#organisation">Renseignements organisationnels</a></li>
+                <li><a href="https://canada-ca.github.io/systeme-conception/specifications/information-trouvabilite/organiser-contenu.html#programmes">Élaboration de programmes et de politiques</a></li>
               </ul>
             </li>
           </ul>

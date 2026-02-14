@@ -49,7 +49,7 @@ title: "Historique des mises à jour du Guide de rédaction du contenu du site C
       </ul>
       </li>
    </ul>
-    <p>Nous avons ajouté une sous-section intitulée <a href="https://conception.canada.ca/guide-redaction/#wp7-2">Utiliser des parenthèses pour ajouter des informations contextuelles</a> dans la section 7.2 Rédiger des liens descriptifs, afin de préciser quand et comment ajouter des informations supplémentaires à l'intérieur des hyperliens. Cette section intègre l’ancienne section 7.4 « Liens vers des contenus non gouvernementaux », qui n’est plus nécessaire.</p>
+    <p>Nous avons ajouté une sous-section intitulée <a href="https://canada-ca.github.io/systeme-conception/guide-redaction/#wp7-2">Utiliser des parenthèses pour ajouter des informations contextuelles</a> dans la section 7.2 Rédiger des liens descriptifs, afin de préciser quand et comment ajouter des informations supplémentaires à l'intérieur des hyperliens. Cette section intègre l’ancienne section 7.4 « Liens vers des contenus non gouvernementaux », qui n’est plus nécessaire.</p>
   </details>
   <details>
     <summary><time datetime="2023-12-12">le 12 décembre 2023</time></summary>

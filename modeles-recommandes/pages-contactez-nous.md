@@ -362,7 +362,7 @@ title: "Pages de\_coordonnées - Modèle de Canada.ca"
            </li>
            <li>
             Utilisez la configuration
-            <a href="https://conception.canada.ca/configurations-conception-communes/coordonnees.html">
+            <a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/coordonnees.html">
              Coordonnées
             </a>
             .
