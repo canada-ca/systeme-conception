@@ -41,7 +41,7 @@ title: Collaborateurs
   <p>La configuration collaborateurs est placée en dessous de tout le contenu de la page, mais au-dessus du champ &laquo;&nbsp;Date de modification&nbsp;&raquo;.</p>
   <p>N’alignez pas le texte figurant dans ce bloc avec d’autres blocs de texte ou d’autres éléments de mise en page.</p>
   <p>Justifiez à gauche le titre et les liens.</p>
-  <p>Utilisez les couleurs standard de paragraphe, de titre et de lien. Consultez les directives se trouvant sur le site <a href="https://canada-ca.github.io/systeme-conception/styles/couleurs.html">Couleurs – Style de Canada.ca.</a>.</p>
+  <p>Utilisez les couleurs standard de paragraphe, de titre et de lien. Consultez les directives se trouvant sur le site <a href="https://conception.canada.ca/styles/couleurs.html">Couleurs – Style de Canada.ca.</a>.</p>
   <p>Le titre est un titre H2 dont la taille de police est&nbsp;: 87 % (ou 17 px).</p>
   <p>Les éléments de la liste sont en gras et ont une taille de police de 87 % (ou 17 px).</p>
   <p>Les liens se trouvent à droite du titre H2 et sont codés dans une liste horizontale. Le premier élément de la liste n’est pas stylisé (pas de puce).</p>

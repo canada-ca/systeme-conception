@@ -6,11 +6,11 @@ description: null
 title: Processus de rétroaction sur l’accessibilité à [nom de l’institution]
 section-title: ""
 breadcrumbs: [{
-            "link": "https://canada-ca.github.io/systeme-conception/modeles-recommandes/accessibilite/processus-retroaction.html#",
+            "link": "https://conception.canada.ca/modeles-recommandes/accessibilite/processus-retroaction.html#",
             "title": " [nom de l’institution]"
           },
           {
-            "link": "https://canada-ca.github.io/systeme-conception/modeles-recommandes/accessibilite/accessibilite.html",
+            "link": "https://conception.canada.ca/modeles-recommandes/accessibilite/accessibilite.html",
             "title": "Accessibilité à [nom de l’institution]"
           }
         ]

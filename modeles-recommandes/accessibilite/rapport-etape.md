@@ -6,11 +6,11 @@ description: null
 title: Rapport d'étape sur l'accessibilité [année] pour [Nom de l'institution]
 section-title: ""
 breadcrumbs: [{
-            "link": "https://canada-ca.github.io/systeme-conception/modeles-recommandes/accessibilite/rapport-etape.html#",
+            "link": "https://conception.canada.ca/modeles-recommandes/accessibilite/rapport-etape.html#",
             "title": "[nom de l’institution]"
           },
           {
-            "link": "https://canada-ca.github.io/systeme-conception/modeles-recommandes/accessibilite/accessibilite.html",
+            "link": "https://conception.canada.ca/modeles-recommandes/accessibilite/accessibilite.html",
             "title": "Accessibilité à [nom de l’institution]"
           }
         ]

@@ -56,4 +56,4 @@ bébé?</li>
   <li>Naya attend un bébé. Le 13&nbsp;décembre sera son dernier jour de travail avant son congé. Son partenaire prendra 10&nbsp;semaines de congé. Elle a un salaire de 43&nbsp;000 dollars par année et veut recevoir les plus grandes prestations possible durant son congé. Combien recevra-t-elle par semaine? Quand ses prestations prendront-elles fin?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://canada-ca.github.io/systeme-conception/resumes-recherche/maternite-parentales-resume-recherche.html">Prestations de maternité et parentales d'assurance-emploi</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/maternite-parentales-resume-recherche.html">Prestations de maternité et parentales d'assurance-emploi</a></p>

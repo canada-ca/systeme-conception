@@ -306,7 +306,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-1">2.1 Getting started with plain language: writing for readability</a></span></li>
         </ul>
         <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rédiger pour faciliter la lecture", "title": "2.1 Introduction au langage clair : rédiger pour faciliter la lecture", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction//#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " rédiger pour faciliter la lecture", "title": "2.1 Introduction au langage clair : rédiger pour faciliter la lecture", "url": "https://conception.canada.ca/guide-redaction//#wp2-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-1"}'></div>
       </div>
   </section>
   <section id="wp2-2">
@@ -362,7 +362,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.2 Start with the most important information</a></span></li>
       </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  commencer par les renseignements les plus importants ", "title": "2.2 Commencer par les renseignements les plus importants", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  commencer par les renseignements les plus importants ", "title": "2.2 Commencer par les renseignements les plus importants", "url": "https://conception.canada.ca/guide-redaction/#wp2-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-2"}'></div>
     </div>
   </section>
   <section id="wp2-3">
@@ -452,7 +452,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-4">2.4 Write in the active and positive form</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  rédiger avec la voix active, directe, et affirmative ", "title": "2.4 Rédiger avec la voix active, directe, et affirmative", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  rédiger avec la voix active, directe, et affirmative ", "title": "2.4 Rédiger avec la voix active, directe, et affirmative", "url": "https://conception.canada.ca/guide-redaction/#wp2-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-4"}'></div>
     </div>
   </section>
   <section id="wp2-5">
@@ -495,7 +495,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-5">2.5 Avoid jargon, idioms and expressions</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  éviter le jargon et les expressions familières ou imagées", "title": "2.5 Éviter le jargon et les expressions familières ou imagées", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  éviter le jargon et les expressions familières ou imagées", "title": "2.5 Éviter le jargon et les expressions familières ou imagées", "url": "https://conception.canada.ca/guide-redaction/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
     </div>
   </section>
 
@@ -530,7 +530,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-6">2.6 Use short sentences and paragraphs</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  utiliser des phrases et paragraphes simples et concis", "title": "2.6 Utiliser des phrases et paragraphes simples et concis", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  utiliser des phrases et paragraphes simples et concis", "title": "2.6 Utiliser des phrases et paragraphes simples et concis", "url": "https://conception.canada.ca/guide-redaction/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
     </div>
   </section><section id="wp2-7">
     <h3>2.7 Éviter les références aux lois</h3>
@@ -543,14 +543,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <p><strong>Au lieu de</strong>&nbsp;: Après l’arrivée de votre enfant au Canada à titre de résident permanent, vous pouvez faire une demande de citoyenneté au nom de l’enfant en vertu de l’article 5.1 de la <cite>Loi sur la citoyenneté</cite>.</p>
           <p>Si vous devez à nouveau mentionner la loi ou le règlement, vous pouvez utiliser les termes «&nbsp;la <cite>Loi</cite>&nbsp;» ou «&nbsp;le <cite>Règlement</cite>&nbsp;». Vous pouvez également inclure le sigle de la loi entre parenthèses après la première mention. Pour d’autres conseils et exemples, consultez&nbsp;:</p>
           <ul>
-          <li><a href="https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-4">Section 4.4 Abréviations, acronymes et référence</a></li>
+          <li><a href="https://conception.canada.ca/guide-redaction/#wp4-4">Section 4.4 Abréviations, acronymes et référence</a></li>
           </ul>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-7">2.7 Avoid references to legislation</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  éviter les références aux lois ", "title": "2.7 Éviter les références aux lois ", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  éviter les références aux lois ", "title": "2.7 Éviter les références aux lois ", "url": "https://conception.canada.ca/guide-redaction/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
     </div>
   </section>
   <section id="wp2-8">
@@ -597,7 +597,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-8">2.8 Additional resources on plain language and clear communication</a></span></li>
     </ul>
      <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": "  liens vers des ressources externes sur le langage clair", "title": "2.8 2.8 Liens vers des ressources externes sur le langage clair", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": "  liens vers des ressources externes sur le langage clair", "title": "2.8 2.8 Liens vers des ressources externes sur le langage clair", "url": "https://conception.canada.ca/guide-redaction/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
   </div>
   </section>
 <section id="toc7">
@@ -675,7 +675,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-1">3.1 Write directly to the person</a></span></li>
       </ul>
       <div class="mrgn-tp-lg">
-        <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de s&#8217;adresser directement à la personne", "title": "3.1 Écrire directement à la personne", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp3-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-1"}'></div>
+        <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de s&#8217;adresser directement à la personne", "title": "3.1 Écrire directement à la personne", "url": "https://conception.canada.ca/guide-redaction/#wp3-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-1"}'></div>
       </div>
     </section>
   </section>
@@ -720,7 +720,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-2">3.2 Use "we" to refer to the Government of Canada</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de désigner le gouvernement du Canada", "title": "3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp3-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-2"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière de désigner le gouvernement du Canada", "title": "3.2 Utiliser le pronom &laquo;&nbsp;nous&nbsp;&raquo; pour désigner le gouvernement du Canada", "url": "https://conception.canada.ca/guide-redaction/#wp3-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-2"}'></div>
     </div>
   </section>
   <section id="wp3-3">
@@ -743,7 +743,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-3">3.3 Expressing an obligation or a recommendation</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière d&#8217;exprimer une obligation ou une recommandation", "title": "3.3 Exprimer une obligation ou une recommandation", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp3-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-3"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la manière d&#8217;exprimer une obligation ou une recommandation", "title": "3.3 Exprimer une obligation ou une recommandation", "url": "https://conception.canada.ca/guide-redaction/#wp3-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp3-3"}'></div>
     </div>
   </section>
 </section>
@@ -882,7 +882,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-1">4.1 Capitalization and punctuation</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les majuscules et la ponctuation", "title": "4.1 Majuscules et ponctuation", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-1"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les majuscules et la ponctuation", "title": "4.1 Majuscules et ponctuation", "url": "https://conception.canada.ca/guide-redaction/#wp4-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-1"}'></div>
     </div>
   </section>
   <section id="wp4-2">
@@ -918,7 +918,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-2">4.2 Underlining, bold and italics</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les caractères gras, l&#8217;italique et le soulignement", "title": "4.2 Soulignement, caractères gras et italique", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-2"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les caractères gras, l&#8217;italique et le soulignement", "title": "4.2 Soulignement, caractères gras et italique", "url": "https://conception.canada.ca/guide-redaction/#wp4-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-2"}'></div>
     </div>
   </section>
   <section id="wp4-3">
@@ -941,7 +941,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-3">4.3 Symbols</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les symboles", "title": "4.3 Symboles", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-3"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les symboles", "title": "4.3 Symboles", "url": "https://conception.canada.ca/guide-redaction/#wp4-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-3"}'></div>
     </div>
   </section>
   <section id="wp4-4">
@@ -990,7 +990,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-4">4.4 Abbreviations and acronyms</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les abréviations et les acronymes", "title": "4.4 Abréviations, acronymes et référence", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-4"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur les abréviations et les acronymes", "title": "4.4 Abréviations, acronymes et référence", "url": "https://conception.canada.ca/guide-redaction/#wp4-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-4"}'></div>
     </div>
   </section>
   <section id="wp4-5">
@@ -1001,7 +1001,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-5">4.5 Contractions</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la forme contractée", "title": "4.5 Forme contractée", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-5"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la forme contractée", "title": "4.5 Forme contractée", "url": "https://conception.canada.ca/guide-redaction/#wp4-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-5"}'></div>
     </div>
   </section>
   <section id="wp4-6">
@@ -1067,7 +1067,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-6">4.6 Numbers</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des nombres", "title": "4.6 Nombres", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-6"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des nombres", "title": "4.6 Nombres", "url": "https://conception.canada.ca/guide-redaction/#wp4-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-6"}'></div>
     </div>
   </section>
   <section id="wp4-7">
@@ -1105,7 +1105,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-7">4.7 Dates</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des dates", "title": "4.7 Dates", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-7"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des dates", "title": "4.7 Dates", "url": "https://conception.canada.ca/guide-redaction/#wp4-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-7"}'></div>
     </div>
   </section>
   <section id="wp4-8">
@@ -1119,7 +1119,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-8">4.8 Times</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des heures", "title": "4.8 Heures", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-8"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des heures", "title": "4.8 Heures", "url": "https://conception.canada.ca/guide-redaction/#wp4-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-8"}'></div>
     </div>
   </section>
   <section id="wp4-9">
@@ -1135,7 +1135,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-9">4.9 Phone numbers</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des numéros de téléphone", "title": "4.9 Numéros de téléphone", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-9"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des numéros de téléphone", "title": "4.9 Numéros de téléphone", "url": "https://conception.canada.ca/guide-redaction/#wp4-9", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-9"}'></div>
     </div>
   </section>
   <section id="wp4-10">
@@ -1177,7 +1177,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-10">4.10 Addresses</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des adresses", "title": "4.10 Adresses", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp4-10", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-10"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur le style de présentation des adresses", "title": "4.10 Adresses", "url": "https://conception.canada.ca/guide-redaction/#wp4-10", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp4-10"}'></div>
   </div>
 </section>
 <section id="toc9">
@@ -1330,7 +1330,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-1">5.1 Write useful page titles and headings</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de titres de pages et de sous-titres descriptifs", "title": "5.1 Rédiger des titres et sous-titres de page descriptifs", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp5-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-1"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de titres de pages et de sous-titres descriptifs", "title": "5.1 Rédiger des titres et sous-titres de page descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp5-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-1"}'></div>
     </div>
   </section>
   <section id="wp5-2">
@@ -1413,7 +1413,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-2">5.2 Use lists to help people scan</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de listes d&#8217;éléments", "title": "5.2 Utiliser des listes d&#8217;éléments pour aider les gens à survoler le texte", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp5-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-2"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de listes d&#8217;éléments", "title": "5.2 Utiliser des listes d&#8217;éléments pour aider les gens à survoler le texte", "url": "https://conception.canada.ca/guide-redaction/#wp5-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-2"}'></div>
     </div>
   </section>
   <section id="wp5-3">
@@ -1712,7 +1712,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-3">5.3 Use tables to organize data</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de tableaux", "title": "5.3 Utiliser des tableaux pour organiser des données", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp5-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-3"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation de tableaux", "title": "5.3 Utiliser des tableaux pour organiser des données", "url": "https://conception.canada.ca/guide-redaction/#wp5-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp5-3"}'></div>
   </div>
 </section>
 <section id="toc10">
@@ -1991,7 +1991,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-1">6.1 Understand the purpose of images online</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation d&#8217;images", "title": "6.1 Comprendre le but des images sur le Web", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp6-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-1"}'> </div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation d&#8217;images", "title": "6.1 Comprendre le but des images sur le Web", "url": "https://conception.canada.ca/guide-redaction/#wp6-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-1"}'> </div>
   </div>
 </section>
 <section id="wp6-2">
@@ -2012,7 +2012,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-2">6.2 Include alternative text for images</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout de texte alternatif", "title": "6.2 Ajouter un texte alternatif aux images", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp6-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-2"}'> </div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout de texte alternatif", "title": "6.2 Ajouter un texte alternatif aux images", "url": "https://conception.canada.ca/guide-redaction/#wp6-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-2"}'> </div>
   </div>
 </section>
 <section id="wp6-3">
@@ -2120,7 +2120,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-3">6.3 Include long descriptions for complex images</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout d&#8217;une description longue", "title": "6.3 Ajouter une description longue pour expliquer les images complexes", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp6-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-3"}'> </div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout d&#8217;une description longue", "title": "6.3 Ajouter une description longue pour expliquer les images complexes", "url": "https://conception.canada.ca/guide-redaction/#wp6-3", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-3"}'> </div>
   </div>
 </section>
 <section id="wp6-4">
@@ -2143,7 +2143,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-4">6.4 Include transcripts to describe audio and video files</a></span></li>
   </ul>
   <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout d&#8217;une transcription aux fichiers audio et vidéo", "title": "6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp6-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-4"}'> </div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;ajout d&#8217;une transcription aux fichiers audio et vidéo", "title": "6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo", "url": "https://conception.canada.ca/guide-redaction/#wp6-4", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp6-4"}'> </div>
   </div>
 </section>
 <section id="toc11">
@@ -2200,7 +2200,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-1">7.1 Use links strategically</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation stratégique des liens", "title": "7.1 Utiliser les liens de façon stratégique", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp7-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-1"}'> </div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur l&#8217;utilisation stratégique des liens", "title": "7.1 Utiliser les liens de façon stratégique", "url": "https://conception.canada.ca/guide-redaction/#wp7-1", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-1"}'> </div>
     </div>
   </section>
   <section id="wp7-2">
@@ -2284,7 +2284,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de liens descriptifs", "title": "7.2 Rédiger des liens descriptifs", "url": "https://canada-ca.github.io/systeme-conception/guide-redaction/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": " la règle sur la rédaction de liens descriptifs", "title": "7.2 Rédiger des liens descriptifs", "url": "https://conception.canada.ca/guide-redaction/#wp7-2", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp7-2"}'></div>
     </div>
   </section>
   <section id="wp7-3">
@@ -2307,7 +2307,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-3">7.3 Make sure that links work</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur la vérification des liens&quot;, &quot;title&quot;: &quot;7.3 Vérifier que les liens fonctionnent&quot;, &quot;url&quot;: &quot;https://canada-ca.github.io/systeme-conception/guide-redaction/#wp7-3&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-3&quot;}"> </div>
+      <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur la vérification des liens&quot;, &quot;title&quot;: &quot;7.3 Vérifier que les liens fonctionnent&quot;, &quot;url&quot;: &quot;https://conception.canada.ca/guide-redaction/#wp7-3&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-3&quot;}"> </div>
     </div>
   </section>
   <section id="wp7-4">
@@ -2319,7 +2319,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-4">7.4 Linking to internal-to-government content</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur le contenu interne&quot;, &quot;title&quot;: &quot;7.4 Créer des liens vers du contenu interne&quot;, &quot;url&quot;: &quot;https://canada-ca.github.io/systeme-conception/guide-redaction/#wp7-4&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-4&quot;}"> </div>
+      <div class="wb-share btn btn-default" data-wb-share="{&quot;custType&quot;: &quot; la règle sur le contenu interne&quot;, &quot;title&quot;: &quot;7.4 Créer des liens vers du contenu interne&quot;, &quot;url&quot;: &quot;https://conception.canada.ca/guide-redaction/#wp7-4&quot;, &quot;filter&quot;: [&quot;email&quot;, &quot;facebook&quot;, &quot;linkedin&quot;, &quot;twitter&quot;], &quot;pnlId&quot;: &quot;wp7-4&quot;}"> </div>
     </div>
   </section>
 </section>

@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/guidance
 breadcrumbs:
   - link: "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
     title: "À propos de Canada.ca"
-  - link: "https://canada-ca.github.io/systeme-conception"
+  - link: "https://conception.canada.ca"
     title: "Conception"
 date: 2025-08-29
 dateModified: 2026-02-12
