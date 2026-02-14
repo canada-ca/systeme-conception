@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+
+		<title>Fil d'Ariane - Canada.ca</title>
+		<meta content="width=device-width, initial-scale=1" name="viewport">
+		<!-- Custom code starts here (Metadata) / Code personalisé commence ici (Métadonnées) -->
+		<link rel="canonical" href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/configurations-conception-communes/fil-ariane.html" />
+		<link rel="alternate" href="https://design.canada.ca/common-design-patterns/breadcrumb-trail.html" hreflang="en" />
+		<meta name="description" content="Directives concernant la mise en œuvre des fils d’Ariane pour les sites web du gouvernement du Canada." />
+		<meta name="dcterms.title" content="Fil d'Ariane"/>
+		<meta name="dcterms.description" content="Directives concernant la mise en œuvre des fils d’Ariane pour les sites web du gouvernement du Canada."/>
+		<meta name="author" content="Emploi et Développement social Canada" />
+		<meta name="dcterms.creator" content="Emploi et Développement social Canada"/>
+		<meta name="dcterms.language" title="ISO639-2/T" content="fra"/>
+		<meta name="dcterms.accessRights" content="2" />
+		<meta name="gcaaterms.sitename" content="ESDC-EDSC_CanadacaDesign-ConceptionCanadaca" />
+		<meta name="dcterms.issued" title="W3CDTF" content="2017-10-05"/>
+		<meta name="dcterms.modified" title="W3CDTF" content="2026-02-11"/>
+		<meta name="generator" content="Jekyll v4.3.2" />
+		<meta name="google-site-verification" content="Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM" />
+		<meta name="yandex-verification" content="4dda5b1b6e392d83" />
+		<!-- Custom code ends here (Metadata) / Code personalisé termine ici (Métadonnées)-->
+
+		
+
+<link href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon" />
+<link rel="stylesheet" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/theme.min.css" />
+<noscript><link rel="stylesheet" href="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/css/noscript.min.css" /></noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" /><link rel="stylesheet" href="/css/custom.css" />
+		<!-- Custom code starts here (Analytics) / Code personalisé commence ici (Analytiques) -->
+		
+
+<!-- Using nested provider configuration -->
+	<script defer src="//assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-913b1beddf7a-staging.min.js"></script>
+
+	<script>
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', '']);
+			
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<!-- Custom code ends here (Analytics) / Code personalisé termine ici (Analytiques) -->
+	</head>
+	<body class="cnt-wdth-lmtd" vocab="http://schema.org/" typeof="WebPage"><nav>
+	<ul id="wb-tphp">
+		<li class="wb-slc"><a class="wb-sl" href="#wb-cont">Passer au contenu principal</a></li>
+		<li class="wb-slc visible-sm visible-md visible-lg"><a class="wb-sl" href="#wb-info">Passer à «&#160;À propos de ce site&#160;»</a></li></ul>
+</nav>
+
+		<header>
+	<div id="wb-bnr" class="container">
+		<div class="row">
+			
+				<section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
+	<h2 class="wb-inv">Sélection de la langue</h2>
+	<ul class="list-inline mrgn-bttm-0">
+		<li>
+			<a lang="en" hreflang="en" href="https://design.canada.ca/common-design-patterns/breadcrumb-trail.html">
+				<span class="hidden-xs" translate="no">English</span>
+				<abbr title="English" translate="no" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">en</abbr>
+			</a>
+		</li>
+	</ul>
+</section>
+
+			
+			<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" typeof="GovernmentOrganization">
+	<a href="#" property="url">
+		<img src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/sig-blk-fr.svg" alt="Gouvernement du Canada" property="logo" /><span class="wb-inv"> / <span lang="en">Government of Canada</span></span>
+	</a>
+	<meta property="name" content="Gouvernement du Canada">
+	<meta property="areaServed" typeof="Country" content="Canada" />
+	<link property="logo" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/wmms-blk.svg" />
+</div>
+
+			
+				
+<section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
+	<h2>Recherche</h2>
+	<form action="https://canada.ca/fr/sr/srb.html" method="get" name="cse-search-box" role="search">
+		<div class="form-group wb-srch-qry">
+			<label for="wb-srch-q" class="wb-inv">Rechercher dans Canada.ca</label>
+			<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Rechercher dans Canada.ca" />
+			<datalist id="wb-srch-q-ac"></datalist>
+		</div>
+		<div class="form-group submit">
+			<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub">
+				<span class="glyphicon-search glyphicon"></span>
+				<span class="wb-inv">Recherche</span>
+			</button>
+		</div>
+	</form>
+</section>
+
+			
+		</div>
+	</div>
+	
+	
+	<hr>
+	
+	<div class="container">
+		<div class="row"><div class="col-md-8">
+					<nav class="gcweb-menu" typeof="SiteNavigationElement">
+	<h2 class="wb-inv">Menu</h2>
+	<button type="button" aria-haspopup="true" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+	<ul role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html"><li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/emplois.html">Emplois et milieu de travail</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+		<li role="presentation"><a role="menuitem" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+		<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/evenements-vie.html">Gérer les événements de la vie</a></li></ul>
+</nav>
+
+				</div></div>
+	</div>
+	
+	<nav id="wb-bc" property="breadcrumb">
+	<h2>Vous êtes ici :</h2>
+	<div class="container">
+		<ol class="breadcrumb" typeof="BreadcrumbList">
+			<li property="itemListElement" typeof="ListItem">
+				<a property="item" typeof="WebPage" href="https://www.canada.ca/fr.html">
+					<span property="name">Canada.ca</span>
+				</a>
+				<meta property="position" content="1">
+			</li>
+			
+						<li property="itemListElement" typeof="ListItem">
+							<a property="item" typeof="WebPage" href="https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html">
+								<span property="name">À propos de Canada.ca</span>
+							</a>
+							<meta property="position" content="2">
+						</li>
+						
+						<li property="itemListElement" typeof="ListItem">
+							<a property="item" typeof="WebPage" href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/">
+								<span property="name">Conception</span>
+							</a>
+							<meta property="position" content="3">
+						</li>
+						
+						<li property="itemListElement" typeof="ListItem">
+							<a property="item" typeof="WebPage" href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/bibliotheque-modeles.html">
+								<span property="name">Modèles et configurations</span>
+							</a>
+							<meta property="position" content="4">
+						</li>
+						
+						<li property="itemListElement" typeof="ListItem">
+							<a property="item" typeof="WebPage" href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/configurations-conception-communes/en-tete-general.html">
+								<span property="name">En-tête général</span>
+							</a>
+							<meta property="position" content="5">
+						</li>
+						
+		</ol>
+	</div>
+</nav>
+
+
+</header>
+
+		<main class="container" property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
+		<!-- Custom code starts here --><h1 property="name" id="wb-cont" property="name headline" dir="ltr">
+			<span class="stacked">
+				<span>Fil d'Ariane</span>: <span>Conception de Canada.ca</span>
+			</span>
+		</h1><!-- Custom code ends here -->
+		<p><span class="small">Dernière mise à jour :  2026-02-11</span></p>
+
+<p><span class="label label-danger">Obligatoire sur les pages standards et de campagne</span></p>
+
+<p>Le fil d’Ariane est une suite horizontale de liens indiquant aux utilisateurs leur position dans la structure du site de Canada.ca. Il représente l’emplacement d’une page par rapport à son parent et permet de naviguer aisément vers les niveaux supérieurs de la structure du site.</p>
+
+<div class="pattern-demo mrgn-tp-lg">
+  <figure class="mrgn-bttm-sm"><img src="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/images/01-breadcrumbs-main-fr.png" class="img-responsive" alt="" /></figure>
+</div>
+
+<h2 id="sur-cette-page">Sur cette page</h2>
+<ul>
+  <li><a href="#quand-lutilser">Quand l’utiliser</a></li>
+  <li><a href="#quoi-eviter">Quoi éviter</a></li>
+  <li><a href="#contenu-et-conception">Contenu et conception</a></li>
+  <li><a href="#comment-proceder-a-la-mise-en-oeuvre">Comment procéder à la mise en œuvre</a></li>
+  <li><a href="#recherche-et-justification">Recherche et justification</a></li>
+  <li><a href="#derniers-changements">Derniers changements</a></li>
+</ul>
+
+<h2 id="quand-lutiliser">Quand l’utiliser</h2>
+
+<p>Le fil d’Ariane est un élément de l’en-tête général. Il est obligatoire sur toutes les pages, à l’exception des pages transactionnelles, des pages d’erreur, et des pages dont le contenu est rédigé en français et en anglais.</p>
+
+<h2 id="quoi-éviter">Quoi éviter</h2>
+
+<p>Ne programmez pas le fil d’Ariane pour qu’il soit généré dynamiquement en fonction de la manière dont le visiteur arrive sur une page. Il doit représenter l’emplacement d’une page par rapport au modèle de navigation du site.</p>
+
+<p>Évitez les longues étiquettes de liens. Utilisez une version abrégée du titre de la page, au besoin.</p>
+
+<p>N’affichez pas la page actuelle à la fin du fil d’Ariane (avec ou sans lien). Cela augmente inutilement la longueur du fil d’Ariane, surtout sur les appareils mobiles. L’en-tête de la page est suffisant pour indiquer aux internautes où ils se trouvent.</p>
+
+<h2 id="contenu-et-conception">Contenu et conception</h2>
+
+<p>Trouver des spécifications de contenu et de conception et des exemples visuels.</p>
+
+<h3 id="spécifications-du-contenu">Spécifications du contenu</h3>
+
+<p>Utilisez « Canada.ca » comme texte du premier lien du fil d’Ariane sur les pages <strong>standards</strong> et les pages de <strong>campagne</strong>.</p>
+
+<ul>
+  <li>Créez un lien vers la page d’accueil du site Canada.ca dans la langue de la page actuelle.</li>
+</ul>
+
+<p>Vous pouvez utiliser « Accueil » ou le nom du processus ou de l’application comme texte du premier lien du fil d’Ariane sur les pages transactionnelles qui utilisent un fil d’Ariane.</p>
+
+<ul>
+  <li>Présentez un lien vers la page de départ du processus ou la page de renvoi de la demande.</li>
+</ul>
+
+<p>Utilisez un GLYPHICON de chevron droit simple pour séparer chaque lien du fil d’Ariane.</p>
+
+<p>Incluez les liens de la page parent dans l’ordre de leur niveau correspondant à partir de la page actuelle.</p>
+
+<p>Incluez le titre de chaque page dans l’étiquette du fil d’Ariane, mais abrégez l’étiquette dans la mesure du possible pour améliorer la lisibilité et réduire l’espace occupé.</p>
+
+<p>Par exemple, les étiquettes de ce fil d’Ariane :</p>
+
+<div class="container">
+  <p class="breadcrumb">Canada.ca <span class="glyphicon glyphicon-chevron-right small"></span> Immigration et citoyenneté <span class="glyphicon glyphicon-chevron-right small"></span> Citoyenneté canadienne <span class="glyphicon glyphicon-chevron-right small"></span> Présenter une demande de citoyenneté canadienne <span class="glyphicon glyphicon-chevron-right small"></span> Se préparer à l’examen pour la citoyenneté et à l’entrevue</p>
+</div>
+
+<p>Peuvent être abrégés comme suit :</p>
+
+<div class="container">
+  <p class="breadcrumb">Canada.ca <span class="glyphicon glyphicon-chevron-right small"></span> Immigration et citoyenneté <span class="glyphicon glyphicon-chevron-right small"></span> Citoyenneté canadienne <span class="glyphicon glyphicon-chevron-right small"></span> Présenter une demande <span class="glyphicon glyphicon-chevron-right small"></span> Se préparer pour l’examen et l’entrevue</p>
+</div>
+
+<h4 id="accessibilité">Accessibilité</h4>
+
+<p>Incluez le texte d’aide invisible « Vous êtes ici : ».</p>
+
+<h4 id="interactions">Interactions</h4>
+
+<p>Lorsqu’il est sélectionné, chaque lien du fil d’Ariane doit amener l’utilisateur à une page unique.</p>
+
+<h4 id="spécifications-de-conception">Spécifications de conception</h4>
+
+<p>Alignez le fil d’Ariane à gauche, directement sous le bouton de menu ou la ligne de séparation s’il n’y a pas de bouton de menu.</p>
+
+<ul>
+  <li>Spécification de la police de caractères : Noto Sans, 16px</li>
+  <li>Utilisez des couleurs normalisées pour les liens du fil d’Ariane
+    <ul>
+      <li><a href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/styles/coleurs.html">Reportez-vous aux directives concernant les couleurs</a> pour obtenir les codes de couleur exacts.</li>
+    </ul>
+  </li>
+  <li>Espaces :
+    <ul>
+      <li>Marges intérieures (<i lang="en">padding</i>) verticales : 13 px</li>
+      <li>Marges intérieures (<i lang="en">padding</i>) horizontales : 2 px</li>
+      <li>Marge du haut : 15 px</li>
+      <li>Hauteur des lignes : 23 px</li>
+    </ul>
+  </li>
+  <li>Icône : glyphicon-chevron-right</li>
+</ul>
+
+<h4 id="accessibilité-1">Accessibilité</h4>
+
+<p>Programmez le fil d’Ariane en tant que liste ordonnée.</p>
+
+<h4 id="structure-du-fil-dariane">Structure du fil d’Ariane</h4>
+
+<p>Voici des exemples de fils d’Ariane dans différents endroits sur le site Canada.ca.</p>
+
+<h5 id="pages-thématiques-institutionnelles-et-organisationnelles">Pages thématiques, institutionnelles et organisationnelles</h5>
+<div class="container">
+  <p class="breadcrumb">Canada.ca</p>
+</div>
+
+<h5 id="pages-de-sujet-de-premier-niveau">Pages de sujet de premier niveau</h5>
+<div class="container">
+  <p class="breadcrumb">Canada.ca <span class="glyphicon glyphicon-chevron-right small"></span> [Thème parent]</p>
+</div>
+
+<h5 id="pages-de-sujet-de-deuxième-niveau">Pages de sujet de deuxième niveau</h5>
+<div class="container">
+  <p class="breadcrumb">Canada.ca <span class="glyphicon glyphicon-chevron-right small"></span> [Thème parent] <span class="glyphicon glyphicon-chevron-right small"></span> [Sujet parent]</p>
+</div>
+
+<h5 id="pages-de-contenu-ministériel-et-lié-aux-programmes-ou-aux-politiques">Pages de contenu ministériel et lié aux programmes ou aux politiques</h5>
+<div class="container">
+  <p class="breadcrumb">Canada.ca <span class="glyphicon glyphicon-chevron-right small"></span> [Page de renvoi de l’institution]</p>
+</div>
+
+<h5 id="pages-de-profils-de-partenariats-et-dententes-de-collaboration">Pages de profils de partenariats et d’ententes de collaboration</h5>
+<div class="container">
+  <p class="breadcrumb">Canada.ca</p>
+</div>
+
+<h5 id="pages-de-recherche-de-base">Pages de recherche de base</h5>
+<div class="container">
+  <p class="breadcrumb">Canada.ca</p>
+</div>
+
+<h5 id="pages-de-recherche-avancée">Pages de recherche avancée</h5>
+<div class="container">
+  <p class="breadcrumb">Canada.ca <span class="glyphicon glyphicon-chevron-right small"></span> [Recherche de base]</p>
+</div>
+
+<h5 id="campagnes-publicitaires-ou-promotionnelles">Campagnes publicitaires ou promotionnelles</h5>
+
+<p>Le fil d’Ariane peut renvoyer à l’arborescence du sujet, à la page de renvoi d’une campagne, à la page de renvoi d’une institution ou simplement à la page d’accueil du site Canada.ca.</p>
+
+<h5 id="nouvelles">Nouvelles</h5>
+<div class="container">
+  <p class="breadcrumb">Canada.ca <span class="glyphicon glyphicon-chevron-right small"></span> [Page de renvoi d’une institution]</p>
+</div>
+
+<h5 id="application">Application</h5>
+<div class="container">
+  <p class="breadcrumb">Accueil</p>
+</div>
+
+<h5 id="pages-derreur">Pages d’erreur</h5>
+
+<p>Dans le cas d’une page d’erreur d’erreur, telle qu’une page d’erreur 404 (page introuvable), n’incluez pas de fil d’Ariane car :</p>
+<ul>
+  <li>Les pages d’erreur ne sont généralement pas consultées et ne font pas partie du modèle de navigation du site.</li>
+  <li>Ces pages sont des pages système (qui peuvent être considérées comme transactionnelles).</li>
+  <li>Les liens d’erreur doivent comporter un autre chemin de retour vers la page d’accueil, tel qu’un lien.</li>
+</ul>
+
+<h3 id="exemples-visuels">Exemples visuels</h3>
+<div class="pattern-demo mrgn-tp-lg">
+  <figure>
+    <figcaption><b>En-tête général avec fil d’Ariane – grand écran</b></figcaption>
+    <img src="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/images/01-breadcrumbs-main-fr.png" class="img-responsive" alt=" " />
+    <details class="mrgn-tp-md">
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: en-tête général avec fil d’Ariane – grand écran</summary>
+      <p class="mrgn-tp-lg">Le fil d’Ariane apparaît sous le bouton de menu sur une ligne horizontale.</p>
+    </details>
+  </figure>
+</div>
+<div class="pattern-demo mrgn-tp-lg">
+  <figure>
+    <figcaption><b>En-tête général avec fil d’Ariane – petit écran</b></figcaption>
+    <img src="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/images/01-breadcrumbs-sm-fr.png" class="img-responsive" alt=" " />
+    <details class="mrgn-tp-md">
+      <summary class="wb-toggle small" data-toggle="{&quot;print&quot;:&quot;on&quot;}">Description de l’image&nbsp;: en-tête général avec fil d’Ariane – petit écran</summary>
+      <p class="mrgn-tp-lg">Le fil d’Ariane apparaît sous le bouton de menu.</p>
+    </details>
+  </figure>
+</div>
+
+<h2 id="comment-procéder-à-la-mise-en-œuvre">Comment procéder à la mise en œuvre</h2>
+
+<p>Trouver des exemples fonctionnels de l’implémentation du fil d’Ariane.</p>
+
+<h3 id="référence-pour-la-mise-en-œuvre-du-thème-gcweb-boew">Référence pour la mise en œuvre du thème GCWeb (BOEW)</h3>
+
+<p>La référence à l’implémentation comprend la façon de configurer chaque élément de l’en-tête.</p>
+
+<ul>
+  <li><a href="https://wet-boew.github.io/GCWeb/sites/breadcrumbs/breadcrumbs-fr.html">Fil d’Ariane – Documentation de GCWeb (Boîte à outils de l’expérience Web)</a></li>
+  <li><a href="https://wet-boew.github.io/GCWeb/sites/header/header-docs-fr.html">Documentation de l’en-tête GCWeb (Boîte à outils de l’expérience Web)</a></li>
+</ul>
+
+<h3 id="mises-en-œuvre">Mises en œuvre</h3>
+
+<p>Déterminez ce qui convient le mieux au type de page que vous créez. Consultez les instructions applicables à votre implémentation si vous souhaitez exclure les fils d’Ariane.</p>
+
+<div class="wb-tabs mrgn-tp-lg">
+  <div class="tabpanels">
+    <details id="003" open="open">
+      <summary><strong>AEM-GC</strong></summary>
+      <p class="mrgn-tp-lg">Pour Adobe Experience Manager (AEM) du gouvernement du Canada (GC)&nbsp;:</p>
+      <ul>
+        <li><a href="https://www.gcpedia.gc.ca/gcwiki/images/d/d8/Documentation-AEM-6.5-Unite-3-7-Modifier-le-fil-d%27Ariane-par-d%C3%A9faut.pdf">Changer le fil d’Ariane par défaut (PDF - lien GCpédia – uniquement accessible sur le réseau du gouvernement du Canada)</a></li>
+        <li><a href="https://www.gcpedia.gc.ca/wiki/Documentation_d%27AEM_sp%C3%A9cifique_au_GC_6.5">Documentation d’AEM et des services Web gérés (lien GCpédia – uniquement accessible sur le réseau du gouvernement du Canada)</a></li>
+      </ul>
+    </details>
+    <details id="004" open="open">
+      <summary><strong>Système de design GC</strong></summary>
+      <p class="mrgn-tp-lg">Pour le Système de design du GC&nbsp;:</p>
+      <ul>
+        <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/chemin-de-navigation/">Documentation de Système de design GC</a></li>
+      </ul>
+    </details>
+    <details id="005">
+      <summary><strong>SGDC</strong></summary>
+      <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC)&nbsp;:</p>
+      <ul>
+        <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_47/cdts/samples/breadcrumbs-fr.html">Fil d’Ariane - Documentation de la SGDC</a></li>
+        <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
+      </ul>
+    </details>
+    <details id="006">
+      <summary><strong>Drupal WxT</strong></summary>
+      <p class="mrgn-tp-lg">Pour Drupal WxT&nbsp;:</p>
+      <ul>
+        <li><a href="https://drupalwxt.github.io/">Documentation de Drupal WxT (en anglais seulement)</a></li>
+      </ul>
+    </details>
+  </div>
+</div>
+
+<h2 id="recherche-et-justification">Recherche et justification</h2>
+
+<p>Consulter les conclusions des recherches et la justification stratégique.</p>
+
+<h3 id="constatations-découlant-des-recherches">Constatations découlant des recherches</h3>
+
+<ul>
+  <li><a href="https://blogue.canada.ca/2020/08/10/canadapointca-source-fiable">Canada.ca est une source fiable</a>
+Explique la décision d’utiliser « Canada.ca » comme étiquette du premier lien du fil d’Ariane.</li>
+  <li><a href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche – Orientation dans Canada.ca</a>
+La recherche montre que les personnes qui naviguent sur le site utilisent les liens du fil d’Ariane près de deux fois plus souvent que le menu des thèmes et des sujets.</li>
+</ul>
+
+<h3 id="justification-stratégique">Justification stratégique</h3>
+
+<p>Les spécifications relatives aux espaces dans les liens du fils d’Ariane sont conçues de façon à ce que les cibles tactiles respectent les règles AAA pour l’accessibilité des contenus Web.</p>
+
+<p>Le fil d’Ariane fait partie de l’en-tête général et est un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information</cite>.</p>
+
+<ul>
+  <li><a href="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
+</ul>
+
+<h2 id="derniers-changements">Derniers changements</h2>
+
+<dl class="dl-horizontal">
+  <dt><time>2026-02-11</time></dt>
+  <dd>Mise à jour des directives relatives au fil d'Ariane afin de préciser :
+<ul>
+  <li>quand le fil d’Ariane est obligatoire (et quand il ne l’est pas)</li>
+  <li>comment le fil d’Ariane s’applique aux pages de campagne</li>
+  <li>quels liens doivent apparaître dans un fil d’Ariane</li>
+</ul>
+</dd>
+  <dt><time>2023-06-26</time></dt>
+  <dd>Mise à jour de l’orientation pour y inclure des conseils sur quoi éviter, les spécifications du contenu et de conception, des exemples visuels, une orientation sur l’implémentation, les conclusions des recherches et la justification stratégique</dd>
+</dl>
+
+		<section class="pagedetails">
+	<h2 class="wb-inv">Détails de la page</h2><div class="row">
+		<div class="col-sm-8 col-md-9">
+			<div 
+		data-ajax-replace="https://www.canada.ca/etc/designs/canada/wet-boew/assets/feedback/page-feedback-fr.html"
+		
+			class="wb-disable-allow"
+	
+	 data-feedback-theme="AboutGov" ><!-- Will always be replaced by data-ajax --></div>
+
+		</div>
+	</div><dl id="wb-dtmd">
+	<dt>Date de modification&#160;:</dt>
+	<dd><time property="dateModified">2026-02-11</time></dd>
+</dl>
+</section>
+
+	</main>
+
+		<footer id="wb-info">
+	<h2 class="wb-inv">À propos de ce site</h2>
+<div class="gc-contextual">
+		<div class="container">
+			<nav>
+				<h3>Bureau de l’expérience Canada.ca (BEC)</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="https://blogue.canada.ca/contactez-nous">Contactez-nous</a></li></ul>
+			</nav>
+		</div>
+	</div>
+
+	<div class="gc-main-footer">
+		<div class="container">
+			<nav>
+				<h3>Gouvernement du Canada</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="https://www.canada.ca/fr/contact.html">Toutes les coordonnées</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/systeme.html">À propos du gouvernement</a></li></ul>
+				<h4><span class="wb-inv">Thèmes et sujets</span></h4>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3"><li><a href="https://www.canada.ca/fr/services/emplois.html">Emplois</a></li>
+					<li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+					<li><a href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+					<li><a href="https://www.canada.ca/fr/services/entreprises.html">Entreprises</a></li>
+					<li><a href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+					<li><a href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+					<li><a href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+					<li><a href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+					<li><a href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+					<li><a href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+					<li><a href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+					<li><a href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a></li>
+					<li><a href="https://www.international.gc.ca/world-monde/index.aspx?lang=fra">Le Canada et le monde</a></li>
+					<li><a href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+					<li><a href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+					<li><a href="https://www.canada.ca/fr/services/autochtones.html">Autochtones</a></li>
+					<li><a href="https://www.canada.ca/fr/services/veterans-militaire.html">Vétérans et militaires</a></li>
+					<li><a href="https://www.canada.ca/fr/services/jeunesse.html">Jeunesse</a></li>
+					<li><a href="https://www.canada.ca/fr/services/evenements-vie.html">Gérer les événements de la vie</a></li></ul>
+			</nav>
+		</div>
+	</div>
+
+	<div class="gc-sub-footer">
+		<div class="container d-flex align-items-center">
+			<nav>
+				<h3 class="wb-inv">Organisation du gouvernement du Canada</h3>
+				<ul>
+					<li><a href="https://www.canada.ca/fr/sociaux.html">Médias sociaux</a></li>
+					<li><a href="https://www.canada.ca/fr/mobile.html">Applications mobiles</a></li>
+					<li><a href="https://canada.ca/fr/gouvernement/a-propos-canada-ca.html">À propos de Canada.ca</a></li><li><a href="https://www.canada.ca/fr/transparence/avis.html">Avis</a></li>
+					<li><a href="https://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a></li></ul>
+			</nav>
+			<div class="wtrmrk align-self-end">
+				<img src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada" />
+			</div>
+		</div>
+	</div>
+</footer>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha384-rY/jv8mMhqDabXSo+UCggqKtdmBfd3qC2/KvyTDNQ6PcUJXaxK1tMepoQda4g5vB" crossorigin="anonymous"></script>
+<script src="https://wet-boew.github.io/themes-dist/GCWeb/wet-boew/js/wet-boew.min.js"></script>
+<script src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/js/theme.min.js"></script><script src="https://canada-ca.github.io/systeme-conception/pr-preview/pr-523/js/url-swap.js"></script><!-- Custom code starts here -->
+
+<!-- Custom code ends here -->
+
+	</body>
+</html>
