@@ -167,7 +167,7 @@ title: "Allocation canadienne pour enfants"
 </div>
 <h4 id="réduire-la-complexité-à-laide-du-choix">Réduire la complexité à l'aide du choix</h4>
 <p>Les pages originales contenaient peu d'en-têtes qui étaient enfouis dans de longs blocs de texte expliquant chaque situation. Les gens avaient de la difficulté à trouver les réponses à partir de leur téléphone.</p>
-<p>Dans l'étude comparative, l'équipe a utilisé <a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/contenu-reductible.html">le modèle afficher/masquer</a> pour masquer les réponses s'adressant à des groupes de personnes particuliers. Cette approche a été très concluante pour réduire la longueur des pages et pour aider les gens à choisir la réponse appropriée à leur situation.</p>
+<p>Dans l'étude comparative, l'équipe a utilisé <a href="https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html">le modèle afficher/masquer</a> pour masquer les réponses s'adressant à des groupes de personnes particuliers. Cette approche a été très concluante pour réduire la longueur des pages et pour aider les gens à choisir la réponse appropriée à leur situation.</p>
 <h4 id="retrait-de-lavise-de-non-responsabilité-bloquant-laccès">Retrait de l'avis de non-responsabilité bloquant l'accès</h4>
 <p>Sur le site Web en ligne, un long avis de non-responsabilité bloquait l'accès à un important outil de calcul des prestations, et il fallait cliquer sur le bouton &laquo;&nbsp;J'accepte&nbsp;&raquo; qui se trouvait sous la mise en garde pour être en mesure de le lancer. Les participants ne faisaient pas défiler l'avis de non-responsabilité pour atteindre le bouton, et certaines personnes qui trouvaient ce bouton hésitaient à cliquer sur &laquo;&nbsp;J'accepte&nbsp;&raquo;.  L'équipe a déplacé l'avis de non-responsabilité à la phase de réponse de l'outil, où il était pertinent de l'afficher, et a retiré l'étape &laquo;&nbsp;J'accepte&nbsp;&raquo;.</p>
 <div class="row">
@@ -193,9 +193,9 @@ title: "Allocation canadienne pour enfants"
 <p>D'autres ministères ont commencé à utiliser le modèle de navigation de style métro en raison de son utilité et de sa souplesse. Avant d'avoir recours à ce modèle, il est important de savoir quand l'utiliser et comment préparer le contenu pour qu'il fonctionne bien avec ce modèle.</p>
 <h2 id="pour-en-savoir-plus">Pour en savoir plus</h2>
 <ul>
-  <li><a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/navigation-metro.html">Navigation de style métro</a></li>
-  <li><a href="https://canada-ca.github.io/systeme-conception/modeles-recommandes/pages-lancement-service.html">Pages de lancement d'un service — Modèle de Canada.ca</a></li>
-  <li><a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/navigation-plusieurs-pages.html">Navigation dans plusieurs pages ordonnées</a>
+  <li><a href="https://conception.canada.ca/configurations-conception-communes/navigation-metro.html">Navigation de style métro</a></li>
+  <li><a href="https://conception.canada.ca/modeles-recommandes/pages-lancement-service.html">Pages de lancement d'un service — Modèle de Canada.ca</a></li>
+  <li><a href="https://conception.canada.ca/configurations-conception-communes/navigation-plusieurs-pages.html">Navigation dans plusieurs pages ordonnées</a>
     <ul>
       <li>On l'utilise pour exposer les grandes lignes du contenu qui s'étend sur plusieurs pages et qui a un ordre par défaut ou préféré.</li>
     </ul>

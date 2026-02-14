@@ -54,4 +54,4 @@ title: "Prêts et bourses pour les étudiants"
   <li>Vous avez de la difficulté à effectuer les paiements pour rembourser votre prêt en dépit du fait que vous vivez toujours avec vos parents au Manitoba. Avec qui communiqueriez-vous afin de discuter de votre situation et de savoir s'il est possible de recevoir de l'aide pour effectuer le remboursement?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://canada-ca.github.io/systeme-conception/resumes-recherche/prets-etudiants-resume-recherche.html">Prêts et des bourses pour les étudiants</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html">Prêts et des bourses pour les étudiants</a></p>

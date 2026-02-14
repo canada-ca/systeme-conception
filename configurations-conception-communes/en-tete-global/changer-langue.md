@@ -177,7 +177,7 @@ title: "Lien pour changer de langue"
 <h3>Justification stratégique</h3>
 <p>Le lien pour changer la langue fait partie de l’en-tête général et est un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information</cite>.</p>
 <ul>
-  <li><a href="https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
+  <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
 </ul>
 <p>Toutes les communications du gouvernement du Canada doivent être accessibles dans les deux langues officielles.</p>
 <ul>

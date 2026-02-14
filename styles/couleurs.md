@@ -75,7 +75,7 @@ title: Couleurs - Style de Canada.ca
  </ul>
  <p>
   Les messages d’alerte et d’information ont des couleurs supplémentaires. Consultez le
-  <a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/alertes-contextuelles.html">
+  <a href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html">
    modèle des alertes contextuelles
   </a>
   .

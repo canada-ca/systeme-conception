@@ -66,7 +66,7 @@ title: Bloc d’introduction
     <p>N’incluez un bouton de super-tâche que s’il y a une tâche précise qui représente au moins le tiers du taux de clics provenant de la page.</p>
     <p>Découvrez comment utiliser un bouton de super-tâche&nbsp;:</p>
     <ul>
-        <li><a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/boutons.html">Boutons - Configuration de conception de Canada.ca</a></li>
+        <li><a href="https://conception.canada.ca/configurations-conception-communes/boutons.html">Boutons - Configuration de conception de Canada.ca</a></li>
     </ul>
     <h3>Spécifications de conception</h3>
     <ul>
@@ -74,7 +74,7 @@ title: Bloc d’introduction
             Titre et description courte
             <ul>
                 <li>Le titre utilise la classe H1, et la description courte utilise le texte du corps.</li>
-                <li>Utilisez les <a href="https://canada-ca.github.io/systeme-conception/styles/typographie.html">styles typographiques standards</a>.</li>
+                <li>Utilisez les <a href="https://conception.canada.ca/styles/typographie.html">styles typographiques standards</a>.</li>
             </ul>
         </li>
          <li>
@@ -101,7 +101,7 @@ title: Bloc d’introduction
         <li>
             Bouton de super-tâche
             <ul>
-                <li><a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/boutons.html#action">Voir les détails sur le bouton de super-tâche</a></li>
+                <li><a href="https://conception.canada.ca/configurations-conception-communes/boutons.html#action">Voir les détails sur le bouton de super-tâche</a></li>
             </ul>
         </li>
     </ul>
@@ -194,9 +194,9 @@ title: Bloc d’introduction
     <h3>Justification stratégique</h3>
     <p>La configuration de conception du bloc d’introduction est requise dans les modèles obligatoires suivants&nbsp;:</p>
     <ul>
-        <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-profil-institutionnel.html">Modèle de page d’accueil institutionnelle</a></li>
-        <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/theme.html">Modèle de page de thème</a></li>
-        <li><a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/sujet.html">Modèle de page de sujet</a></li>
+        <li><a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">Modèle de page d’accueil institutionnelle</a></li>
+        <li><a href="https://conception.canada.ca/modeles-obligatoire/theme.html">Modèle de page de thème</a></li>
+        <li><a href="https://conception.canada.ca/modeles-obligatoire/sujet.html">Modèle de page de sujet</a></li>
     </ul>
 </section>
 <section>

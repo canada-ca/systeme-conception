@@ -172,7 +172,7 @@ title: Boutons
  </ul>
  <p>
   Vous pouvez aussi l'utiliser dans la
-  <a href="https://canada-ca.github.io/systeme-conception/modeles-obligatoire/pages-profil-institutionnel.html">
+  <a href="https://conception.canada.ca/modeles-obligatoire/pages-profil-institutionnel.html">
    Page d'accueil institutionnelle
   </a>
   lorsqu'il existe des preuves qu'une tâche principale particulière (une super-tâche) est clairement la plus importante.
@@ -182,11 +182,11 @@ title: Boutons
    Quoi éviter :
   </strong>
   ne pas utiliser de bouton de super-tâche pour promouvoir quelque chose qui n'est pas la tâche principale que les gens recherchent sur cette page. Pour les promotions, utilisez plutôt des
-  <a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/vignettes-promotionnelles.html">
+  <a href="https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html">
    Promotions contextuelles
   </a>
   ou une
-  <a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/banniere-promotionnelle.html">
+  <a href="https://conception.canada.ca/configurations-conception-communes/banniere-promotionnelle.html">
    Bannière promotionnelle
   </a>
   .

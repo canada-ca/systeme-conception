@@ -10,15 +10,15 @@ breadcrumbs: [{
             "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
           },
             {
-            "link": "https://canada-ca.github.io/systeme-conception/",
+            "link": "https://conception.canada.ca/",
             "title": "Conception"
           },
            {
-            "link": "https://canada-ca.github.io/systeme-conception/specifications.html",
+            "link": "https://conception.canada.ca/specifications.html",
             "title": "Spécifications"
           },
            {
-            "link": "https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html",
+            "link": "https://conception.canada.ca/specifications/elements-obligatoires.html",
             "title": "Elements obligatoires"
           }
         ]
@@ -55,7 +55,7 @@ breadcrumbs: [{
 <h3 id="du1a">Quoi éviter</h3>
 <p>Il ne faut pas utiliser le domaine Canada.ca pour les sites collaboratifs où le gouvernement du Canada n’est pas le partenaire principal. Ce type de site comprend les sites Web réalisés conjointement avec des partenaires autres que le GC, par exemple d’autres ordres de gouvernement ou des organismes non gouvernementaux, et pour lesquels le GC n’est pas l’organisation responsable.</p> 
 <h3 id="du1b">Sous-domaines</h3>
-<p>Un sous-domaine est une subdivision du domaine principal. Il permet d’organiser des sections distinctes au sein du site Web principal. Par exemple, <b>canada-ca.github.io/systeme-conception</b> est un sous-domaine de canada.ca.</p>
+<p>Un sous-domaine est une subdivision du domaine principal. Il permet d’organiser des sections distinctes au sein du site Web principal. Par exemple, <b>conception.canada.ca</b> est un sous-domaine de canada.ca.</p>
 <p>Limitez l’utilisation de sous-domaines uniquement aux contenus et services hébergés en dehors du Service Web géré.</p>
 <p>Au moment de choisir un sous-domaine&nbsp;:</p>
 <ul>

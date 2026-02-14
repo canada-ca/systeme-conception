@@ -1,7 +1,7 @@
 {
   "altLangUrl": {
     "en": "https://design.canada.ca",
-    "fr": "https://canada-ca.github.io/systeme-conception"
+    "fr": "https://conception.canada.ca"
   },
   "analytics": {
     "provider": {
@@ -77,7 +77,7 @@
   "remote_theme": "wet-boew/gcweb-jekyll",
   "themeopt": "Policies",
   "title": "Conception de Canada.ca",
-  "url": "https://canada-ca.github.io/systeme-conception",
+  "url": "https://conception.canada.ca",
   "urldesign": "https://design.canada.ca",
   "urlcanadaca": "https://www.canada.ca",
   "urlblogue": "https://blogue.canada.ca",

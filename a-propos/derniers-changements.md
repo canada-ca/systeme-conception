@@ -86,7 +86,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
   <details>
     <summary><time datetime="2025-10-24">24 octobre 2025</time></summary>
     <p>Mise à jour des <a href="{{ site.url }}/modeles-obligatoire/sujet.html">directives sur les pages de sujet</a> afin de clarifier ce qui peut être inclus dans l’espace flexible de la page, y compris les vidéos et les images.</p>
-    <p>Retrait de deux configurations de conception et des liens croisés correspondants sur canada-ca.github.io/systeme-conception. Modifications&nbsp;:</p>
+    <p>Retrait de deux configurations de conception et des liens croisés correspondants sur Conception.canada.ca. Modifications&nbsp;:</p>
     <ul>
       <li>Retrait de la configuration de conception partager cette page</li>
       <li>Retrait de la configuration de conception signaler un problème</li>
@@ -131,7 +131,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
   </details>
   <details>
     <summary><time datetime="2024-08-28">28 août 2024</time></summary>
-    <p>Lancement d’une nouvelle architecture de l’information et de nouveau contenu pour canada-ca.github.io/systeme-conception.</p>
+    <p>Lancement d’une nouvelle architecture de l’information et de nouveau contenu pour conception.canada.ca.</p>
     <p>Nous avons notamment&nbsp;:</p>
     <ul>
       <li>Renommé les Spécifications du contenu et de l’architecture de l’information, maintenant appelées les <a href="{{ site.url }}/specifications.html">Spécifications de Canada.ca</a>.</li>
@@ -256,7 +256,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
     <summary><time datetime="2020-10-21">21 octobre 2020</time></summary>
     <p>Nous avons fait les changements suivants&nbsp;:</p>
     <ul>
-      <li>Nous avons modifié les <a href="https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a> pour spécifier que l'utilisation du <a href="{{ site.url }}/configurations-conception-communes/canada-point-ca.html">domaine Canada.ca</a> est obligatoire.</li>
+      <li>Nous avons modifié les <a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a> pour spécifier que l'utilisation du <a href="{{ site.url }}/configurations-conception-communes/canada-point-ca.html">domaine Canada.ca</a> est obligatoire.</li>
       <li>Nous avons ajouté une une version bêta de la conception de configuration <a href="{{ site.url }}/configurations-conception-communes/cases-cocher-boutons-radio.html">Cases à cocher et boutons radio</a>.</li>
     </ul>
   </details>
@@ -296,7 +296,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
     <summary><time datetime="2019-11-28">28 novembre 2019</time></summary>
     <p>Nous avons fait les changements suivants&nbsp;:</p>
     <ul>
-      <li><a href="https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html">Éléments obligatoires</a>: nous avons déplacé les directives détaillées sur les éléments obligatoires vers la bibliothèque de modèles et de configuration de conception.</li>
+      <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires</a>: nous avons déplacé les directives détaillées sur les éléments obligatoires vers la bibliothèque de modèles et de configuration de conception.</li>
       <li><a href="{{ site.url }}/modeles-obligatoire/pages-profil-institutionnel.html">Page d'accueil institutionnelle</a>: nous présentons un nouveau modèle bêta pour la page d'accueil institutionnelle, en fusionnant les profils institutionnel et organisationnel pour mieux refléter le rôle et le but de ce modèle obligatoire.</li>
       <li>Signaler un problème: nous avons modifié les directives pour permettre une certaine personnalisation.</li>
       <li><a href="{{ site.url }}/modeles-recommandes/transparence.html">Modèle de transparence</a>: nous suggérons une nouvelle mise en page pour la transparence et les rapports organisationnels.</li>

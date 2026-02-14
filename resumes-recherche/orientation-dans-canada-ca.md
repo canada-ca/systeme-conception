@@ -221,7 +221,7 @@ title: "Orientation dans Canada.ca"
 <h2 id="pour_explorer_davantage">Pour explorer davantage</h2>
 <ul>
   <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a>&nbsp;: un billet de blog qui décrit le déploiement de la nouvelle conception de la navigation sur Canada.ca</li>
-  <li><a href="https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception de Canada.ca</a>&nbsp;: modèles et configurations qui offrent une expérience cohérente aux visiteurs du site</li>
+  <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception de Canada.ca</a>&nbsp;: modèles et configurations qui offrent une expérience cohérente aux visiteurs du site</li>
   <li><a href="https://blogue.canada.ca/pages/apercu-projet.html">Améliorer le contenu sur Canada.ca</a>&nbsp;: une liste d'autres projets que nous avons réalisés avec nos partenaires</li>
 </ul>
 <h2 id="communiquez">Communiquez avec le Bureau de l’expérience Canada.ca d'Emploi et Développement social Canada</h2>

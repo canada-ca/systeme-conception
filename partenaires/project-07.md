@@ -67,7 +67,7 @@ title: "Conseils aus voyageurs et avertissements"
   <li>Marco se rend au Cambodge pour son travail. Le gouvernement canadien a-t-il émis un avertissement aux voyageurs pour ce pays?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://canada-ca.github.io/systeme-conception/resumes-recherche/conseils-voyageurs-resume-recherche.html">Conseils aux voyageurs et avertissements</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/conseils-voyageurs-resume-recherche.html">Conseils aux voyageurs et avertissements</a></p>
 <aside class="wb-fnote" role="note">
   <h2 class="wb-inv" id="fn-voyage">Notes de bas de page: Conseils aux voyageurs et avertissement</h2>
   <dl>

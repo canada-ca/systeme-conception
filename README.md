@@ -1,6 +1,6 @@
 # Bibliothèque de conception Canada.ca - Modèles fondés sur des données probantes
 
-Afin de passer à un système de conception plus souple, le plan consiste à &laquo;&nbsp;découpler&nbsp;&raquo; les spécifications détaillées des modèles des &laquo;&nbsp;documents de politique&nbsp;&raquo; officiels - la [spécification d'architecture de contenu et d'information de Canada.ca](https://canada-ca.github.io/systeme-conception/architecture/specifications-contenu-architecture-information-canada.html) et le [guide de rédaction du contenu du site Canada.ca](https://canada-ca.github.io/systeme-conception/guide-redaction/).
+Afin de passer à un système de conception plus souple, le plan consiste à &laquo;&nbsp;découpler&nbsp;&raquo; les spécifications détaillées des modèles des &laquo;&nbsp;documents de politique&nbsp;&raquo; officiels - la [spécification d'architecture de contenu et d'information de Canada.ca](https://conception.canada.ca/architecture/specifications-contenu-architecture-information-canada.html) et le [guide de rédaction du contenu du site Canada.ca](https://conception.canada.ca/guide-redaction/).
 
 La spécification 2.0 ne contiendrait que les parties obligatoires du système de conception, alors que tous les modèles (nom de travail&nbsp;: &laquo;&nbsp;modèles recommandés&nbsp;&raquo;, car le modèle semble «fixe» et impossible à modifier) seraient disponibles en dehors des spécifications, dans un bibliothèque de conception.
 

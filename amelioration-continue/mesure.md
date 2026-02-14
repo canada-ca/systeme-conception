@@ -26,7 +26,7 @@ title: "Suivi et mesure du succès"
 <p>Dans le cadre des exigences de présentation de rapports du gouvernement du Canada, Emploi et Développement social Canada a adopté la méthode de sondage sur le succès des tâches comme principal moyen de mesurer le rendement du contenu et des services Web.</p>
 <p>Tous les ministères et organismes assujettis à la <cite>Directive sur la gestion des communications</cite> sont tenus de mettre en oeuvre le Sondage sur la réussite des tâches du GC sur leurs propriétés Web.</p>
 <ul>
-  <li><a href="https://canada-ca.github.io/systeme-conception/sondage/index.html">Sondage sur la réussite des tâches du GC</a></li>
+  <li><a href="https://conception.canada.ca/sondage/index.html">Sondage sur la réussite des tâches du GC</a></li>
 </ul>
 <h2 id="suivi">Suivi des autres indicateurs de performance</h2>
 <p>Le suivi d'autres sources de données et d'autres indicateurs de performance peut permettre de découvrir des problèmes potentiels dans votre contenu ou service.</p>
@@ -43,7 +43,7 @@ title: "Suivi et mesure du succès"
 </ul>
 <p>Il est préférable de combiner les mesures avec les tests de convivialité pour valider les améliorations proposées.</p>
 <ul>
-  <li><a href="https://canada-ca.github.io/systeme-conception/retroaction/index.html">Rétroaction sur la page</a></li>
+  <li><a href="https://conception.canada.ca/retroaction/index.html">Rétroaction sur la page</a></li>
   <li><a href="https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction">Recueillir la rétroaction, trouver les problèmes</a> (blogue)</li>
   <li><a href="https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels">L'importance de collaborer avec les centres d'appels</a> (blogue)</li>
 </ul>

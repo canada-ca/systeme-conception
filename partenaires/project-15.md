@@ -58,4 +58,4 @@ title: "Rappels et alertes de sécurité"
   <li>Vous regardez cette chaise haute sur eBay. Vérifiez s'il y a des problèmes avec cette chaise pour décider si vous allez l'acheter ou non.</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://canada-ca.github.io/systeme-conception/resumes-recherche/rappels-resume-recherche.html">Rappels et alertes de sécurité</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/rappels-resume-recherche.html">Rappels et alertes de sécurité</a></p>

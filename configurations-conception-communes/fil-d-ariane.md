@@ -228,7 +228,7 @@ title: "Fil d'Ariane"
 <ul>
   <li><a href="https://blogue.canada.ca/2020/08/10/canadapointca-source-fiable">Canada.ca est une source fiable</a><br>
     Explique la décision d’utiliser «&nbsp;Canada.ca&nbsp;» comme étiquette du premier lien du fil d’Ariane.</li>
-  <li><a href="https://canada-ca.github.io/systeme-conception/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche – Orientation dans Canada.ca</a><br>
+  <li><a href="https://conception.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de recherche – Orientation dans Canada.ca</a><br>
     La recherche montre que les personnes qui naviguent sur le site utilisent les liens du fil d’Ariane près de deux fois plus souvent que le menu des thèmes et des sujets</li>
 </ul>
 
@@ -236,7 +236,7 @@ title: "Fil d'Ariane"
 <p>Les spécifications relatives aux espaces dans les liens du fils d’Ariane sont conçues de façon à ce que les cibles tactiles respectent les règles AAA pour l’accessibilité des contenus Web.</p>
 <p>Le fil d’Ariane fait partie de l’en-tête général et est un élément obligatoire de la <cite>spécification du contenu et de l’architecture de l’information</cite>.</p>
 <ul>
-  <li><a href="https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
+  <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
 </ul>
 
 <h2 id="changements">Derniers changements</h2>

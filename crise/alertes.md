@@ -72,7 +72,7 @@ title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 
 <p>Suivez les instructions de mise en œuvre des alertes contextuelles pour choisir le type d’alerte approprié à votre contenu&nbsp;:</p> 
 <ul>
-  <li><a href="https://canada-ca.github.io/systeme-conception/configurations-conception-communes/alertes-contextuelles.html#how">Alertes contextuelles — Canada.ca</a></li>
+  <li><a href="https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html#how">Alertes contextuelles — Canada.ca</a></li>
 </ul>
 
 <h2 id="alertes-repetees">Alertes répétées sur plusieurs pages</h2>

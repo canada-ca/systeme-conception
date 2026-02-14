@@ -54,7 +54,7 @@ Lors de la création d’une page dédiée à la campagne, définissez d’abord
 
 Vous pouvez également créer une adresse URL personnalisée, qui redirige l’utilisateur vers la page dédiée ou la page de contenu principale qui y est liée.
 
-* [Consultez les lignes directrices sur les adresses URL personnalisée pour plus d’information](https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires/domaines-url.html#du3b)
+* [Consultez les lignes directrices sur les adresses URL personnalisée pour plus d’information](https://conception.canada.ca/specifications/elements-obligatoires/domaines-url.html#du3b)
 
 ### Spécifications du contenu d’une page principale
 
@@ -70,7 +70,7 @@ Définissez une date de fin ou de mise à jour claire où le contenu lié à la 
 
 Trouvez des motifs de conception et des composants ici&nbsp;:
 
-* [Modèles de conception de Canada.ca](https://canada-ca.github.io/systeme-conception/bibliotheque-modeles.html)
+* [Modèles de conception de Canada.ca](https://conception.canada.ca/bibliotheque-modeles.html)
 * [Composants du Système de design GC](https://systeme-design.alpha.canada.ca/fr/composants/)
 
 ### Spécifications du contenu d’une page dédiée à la campagne
@@ -107,7 +107,7 @@ Bien qu’une certaine flexibilité soit encouragée au niveau de la conception 
 
 Assurez-vous que la page dédiée respecte les éléments obligatoires du design de Canada.ca&nbsp;:
 
-* [Éléments obligatoires de la conception de Canada.ca](https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html)
+* [Éléments obligatoires de la conception de Canada.ca](https://conception.canada.ca/specifications/elements-obligatoires.html)
 
 ## Quoi éviter {#quoi-éviter}
 
