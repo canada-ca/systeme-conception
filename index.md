@@ -44,6 +44,7 @@ title: "Concevoir pour Canada.ca"
   </div>
 </section>
 <section>
+  <!-- poke -->
   <h2>Trouver des directives</h2>
   <div class="row mrgn-tp-md">
     <div class="col-md-3 small">
