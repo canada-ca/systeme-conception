@@ -6,7 +6,7 @@ on:
       - opened
       - reopened
       - synchronize
-      - closed
+#      - closed
 
 # Sets permissions of the GITHUB_TOKEN to allow pushing to gh-pages
 permissions:
