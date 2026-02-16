@@ -54,4 +54,4 @@ title: "Portail de solution d’achats électroniques (SAE)"
   <li>Le gouvernement du Canada tient un certain nombre de bases de données sur les fournisseurs préqualifiés de biens et de services. L'entreprise de Richard offre des services de consultation en architecture. Quel est le nom de la base de données du gouvernement sur les fournisseurs de ce type de services?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://canada-ca.github.io/systeme-conception/resumes-recherche/achats-electroniques-resume-recherche">Solution d'approvisionnement électronique</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/achats-electroniques-resume-recherche">Solution d'approvisionnement électronique</a></p>

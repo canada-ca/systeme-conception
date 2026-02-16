@@ -55,4 +55,4 @@ title: "TPS/TVH et retenues sur la paie"
   <li>Votre entreprise fonctionne de façon saisonnière, de sorte que vous ne payez pas les employés pendant l'hiver. Devez-vous en informer l'ARC?</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://canada-ca.github.io/systeme-conception/resumes-recherche/impots-resume-recherche.html">TPS/TVH et retenues sur la paie</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/impots-resume-recherche.html">TPS/TVH et retenues sur la paie</a></p>

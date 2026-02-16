@@ -162,7 +162,7 @@ title: "Champ de recherche du site"
 <h3>Justification stratégique</h3>
 <p>Dans l’en-tête général, le champ de recherche du site est un élément obligatoire des <cite>Spécifications de Canada.ca</cite>.</p>
 <ul>
-  <li><a href="https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
+  <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
 </ul>
 
 <h2 id="changements">Derniers changements</h2>

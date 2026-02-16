@@ -58,4 +58,4 @@ title: "Communiquer avec l'ARC"
   <li>Vous avez perdu le code de sécurité dont vous avez besoin pour vous connecter à votre dossier - particuliers à l'ARC. Trouvez le numéro de téléphone à composer pour en obtenir un autre.</li>
 </ul>
 <h2>Résumé de recherche</h2>
-<p><a href="https://canada-ca.github.io/systeme-conception/resumes-recherche/arc-contactez-nous-resume-recherche.html">Communiquer avec l'ARC</a></p>
+<p><a href="https://conception.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html">Communiquer avec l'ARC</a></p>

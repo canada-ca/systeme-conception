@@ -184,7 +184,7 @@ title: "Page de sujet"
   <h2 id="research">Justification stratégique</h2>
   <p>Ce modèle est un élément obligatoire des spécifications de Canada.ca.</p>
   <ul>
-    <li><a href="https://canada-ca.github.io/systeme-conception/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
+    <li><a href="https://conception.canada.ca/specifications/elements-obligatoires.html">Éléments obligatoires du système de conception</a></li>
   </ul>
 </section>
 
