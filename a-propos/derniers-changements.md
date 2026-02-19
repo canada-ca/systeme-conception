@@ -13,7 +13,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 <div id="expand-collapse">
   <details open="open">
     <summary><time datetime="2026-02-19">19 février 2026</time></summary>
-        <p>Stabilisation du modèle de <a href="{{ '/configurations-conception-communes/navigation-metro.html.html' | absolute_url }}">navigation de style métro</a>.</p>
+        <p>Stabilisation du modèle de <a href="{{ '/configurations-conception-communes/navigation-metro.html' | absolute_url }}">navigation de style métro</a>.</p>
   </details>
   <details>
     <summary><time datetime="2026-02-11">11 février 2026</time></summary>
