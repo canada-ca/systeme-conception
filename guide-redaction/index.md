@@ -807,7 +807,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h5>Exemple de point d'interrogation dans un formulaire, un questionnaire ou un sondage</h5>
       <figure class="mrgn-bttm-lg">
         <figcaption><strong>Figure 3</strong></figcaption>
-        <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="/guide-redaction/images/fig-03-fra.jpg">
+        <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive" id="fig3" src="/guide-redaction/images/fig-03-fra.jpg">
         <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
           <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
           <p>Une page Web contenant un sous-titre écrit sous forme de question.</p>
@@ -1778,7 +1778,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h5>Exemples d'images fonctionnelles</h5>
     <figure class="mrgn-bttm-lg">
       <figcaption> <strong>Figure 4</strong> </figcaption>
-      <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/guide-redaction/images/fig-04-fra.jpg">
+      <img alt="Map of Canada: current conditions" class="img-responsive" src="/guide-redaction/images/fig-04-fra.jpg">
       <details>
         <summary>Figure 4 - Version textuelle </summary>
         <table class="table table-bordered table-condensed">
@@ -1894,7 +1894,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </figure>
     <figure class="mrgn-bttm-lg">
       <figcaption><strong>Figure 5</strong></figcaption>
-      <img alt="Cet organigramme vous aidera à choisir le projet d’accessibilité qui vous convient le mieux : la description suit" class="img-responsive center-block" src="/guide-redaction/images/organigramme-taux-fixe.png">
+      <img alt="Cet organigramme vous aidera à choisir le projet d’accessibilité qui vous convient le mieux : la description suit" class="img-responsive" src="/guide-redaction/images/organigramme-taux-fixe.png">
       <details>
         <summary>Figure 5 - Version textuelle</summary>
         <p class="mrgn-tp-lg">L'organigramme vous présente des questions que vous pouvez répondre par oui ou non. Si vous répondez &laquo;&nbsp;non&nbsp;», il vous recommande d'autres projets d'accessibilité.</p>
@@ -1972,7 +1972,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>N'insérez pas de texte important, comme des titres de campagne ou de programme, dans des images décoratives.</p>
     <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a>.</p>
     <h5>Exemple d'une image décorative</h5>
-    <p><img alt="Image décorative en contexte pour créer un intérêt visuel" class="img-responsive center-block" src="/guide-redaction/images/panier-03.png"></p>
+    <p><img alt="Image décorative en contexte pour créer un intérêt visuel" class="img-responsive" src="/guide-redaction/images/panier-03.png"></p>
     <h5>Ne décrivez pas les images décoratives</h5>
     <p>Les images décoratives ne nécessitent pas de description. Elles ont pour seul objectif de rendre le contenu visuellement attrayant, et non de fournir du contexte. L’image décorative dans l’exemple nous sert juste à créer un intérêt sur le plan visuel. L’utilisation d’une description pour une image décorative donne au lectorat des renseignements superflus qui peuvent distraire du contenu de la page.</p>
     <h5>Texte alternatif pour les images décoratives</h5>
@@ -2024,7 +2024,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h4>Exemple&nbsp;: Description longue pour le tableau de bord</h4>
   <figure class="mrgn-bttm-lg">
     <figcaption> <strong>Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement</strong> </figcaption>
-    <img alt="Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement" class="img-responsive center-block" src="/guide-redaction/images/fig-01b-fra.jpg">
+    <img alt="Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement" class="img-responsive" src="/guide-redaction/images/fig-01b-fra.jpg">
     <h5>Texte alternatif</h5>
     <p>Vous pourriez écrire le texte alternatif suivant pour décrire l'image présentée à la figure 1&nbsp;:</p>
     <p>Tableau de bord illustrant comment les activités opérationnelles s'associent à la vision et à la stratégie de l'organisation pour surveiller les indicateurs de rendement. La version textuelle suit.</p>
@@ -2060,7 +2060,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h4>Exemple&nbsp;: Description longue pour le graphique à barres illustrant le rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</h4>
   <figure class="mrgn-bttm-lg">
     <figcaption> <strong>Figure 2 : Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong> </figcaption>
-    <img alt="Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010" class="img-responsive center-block" src="/guide-redaction/images/fig-02b-fra.jpg">
+    <img alt="Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010" class="img-responsive" src="/guide-redaction/images/fig-02b-fra.jpg">
     <p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
       Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé non payé.</p>
     <h5>Texte alternatif</h5>
