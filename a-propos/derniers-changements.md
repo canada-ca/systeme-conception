@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2026-02-11
+dateModified: 2026-02-19
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -12,6 +12,10 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 </div>
 <div id="expand-collapse">
   <details open="open">
+    <summary><time datetime="2026-02-19">19 février 2026</time></summary>
+        <p>Stabilisation du modèle de <a href="{{ '/configurations-conception-communes/navigation-metro.html.html' | absolute_url }}">navigation de style métro</a>.</p>
+  </details>
+  <details>
     <summary><time datetime="2026-02-11">11 février 2026</time></summary>
     <p>Mise à jour des directives relatives au <a href="{{ '/configurations-conception-communes/fil-ariane.html' | absolute_url }}">fil d'Ariane</a> afin de préciser :</p>
 <ul>
