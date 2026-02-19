@@ -806,7 +806,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <h5>Exemple de point d'interrogation dans un formulaire, un questionnaire ou un sondage</h5>
       <figure class="mrgn-bttm-lg">
-        <figcaption class="text-center"><strong>Figure 3</strong></figcaption>
+        <figcaption><strong>Figure 3</strong></figcaption>
         <img alt="Une page Web contenant un sous-titre écrit sous forme de question." class="img-responsive center-block" id="fig3" src="/guide-redaction/images/fig-03-fra.jpg">
         <details class="brdr-tp brdr-rght brdr-bttm brdr-lft">
           <summary class="wb-toggle" data-toggle="'{&quot;print&quot;:&quot;on&quot;}'"> Figure 3 - Version textuelle</summary>
@@ -1427,7 +1427,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Présentez votre tableau à l'aide d'un titre clair qui décrit les renseignements contenus dans le tableau.</p>
     <h4>Exemple d'utilisation d'un tableau pour organiser des données</h4>
     <table class="table table-bordered table-condensed">
-      <caption class="text-center">
+      <caption>
       <strong>Exemple d'utilisation d'un tableau pour organiser des données<br>
       Comparaison des autorisations budgétaires nettes et des dépenses pour le crédit du 1er au 31 décembre, pour les exercices financiers 2011 à 2012 et 2012 à 2013 (en millions de dollars)</strong>
       </caption>
@@ -1542,7 +1542,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Le tableau qui suit est complexe et mal conçu. Il serait difficile d'y accéder et d'en comprendre l'information à l'aide d'un lecteur d'écran ou d'un appareil mobile.</p>
       <h6>Exemple&nbsp;: un tableau complexe</h6>
       <table class="table table-bordered table-condensed">
-        <caption class="text-center">
+        <caption>
         <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
@@ -1582,7 +1582,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Le tableau complexe peut être facilement divisé en tableaux simples.</p>
       <h6>Exemple&nbsp;: un tableau simple</h6>
       <table class="table table-bordered table-condensed">
-        <caption class="text-center">
+        <caption>
         <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
@@ -1623,7 +1623,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p class="mrgn-tp-lg">S'il importe de mettre en relief les champions de la Coupe Stanley par association (région) de la Ligue nationale de hockey, présentez les renseignements à l'aide de deux tableaux simples et utilisez des titres de tableau pour préciser l'association à laquelle les équipes appartiennent.</p>
       <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
       <table class="table table-bordered table-condensed">
-        <caption class="text-center">
+        <caption>
         <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
@@ -1648,7 +1648,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </tbody>
       </table>
       <table class="table table-bordered table-condensed">
-        <caption class="text-center">
+        <caption>
         <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
         <thead>
@@ -1777,7 +1777,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <h5>Exemples d'images fonctionnelles</h5>
     <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"> <strong>Figure 4</strong> </figcaption>
+      <figcaption> <strong>Figure 4</strong> </figcaption>
       <img alt="Map of Canada: current conditions" class="img-responsive center-block" src="/guide-redaction/images/fig-04-fra.jpg">
       <details>
         <summary>Figure 4 - Version textuelle </summary>
@@ -1893,7 +1893,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </details>
     </figure>
     <figure class="mrgn-bttm-lg">
-      <figcaption class="text-center"><strong>Figure 5</strong></figcaption>
+      <figcaption><strong>Figure 5</strong></figcaption>
       <img alt="Cet organigramme vous aidera à choisir le projet d’accessibilité qui vous convient le mieux : la description suit" class="img-responsive center-block" src="/guide-redaction/images/organigramme-taux-fixe.png">
       <details>
         <summary>Figure 5 - Version textuelle</summary>
@@ -2023,7 +2023,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>La figure 1 illustre un certain nombre de concepts. Elle nécessite une description longue.</p>
   <h4>Exemple&nbsp;: Description longue pour le tableau de bord</h4>
   <figure class="mrgn-bttm-lg">
-    <figcaption class="text-center"> <strong>Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement</strong> </figcaption>
+    <figcaption> <strong>Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement</strong> </figcaption>
     <img alt="Figure 1&nbsp;: Utilisation d'un tableau de bord symétrique pour surveiller les principaux indicateurs de rendement" class="img-responsive center-block" src="/guide-redaction/images/fig-01b-fra.jpg">
     <h5>Texte alternatif</h5>
     <p>Vous pourriez écrire le texte alternatif suivant pour décrire l'image présentée à la figure 1&nbsp;:</p>
@@ -2059,7 +2059,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <p>La figure 2 est un graphique à barres qui représente les données contenues dans le tableau de données. Vous pourriez donc utiliser le tableau comme description longue pour accompagner cette image.</p>
   <h4>Exemple&nbsp;: Description longue pour le graphique à barres illustrant le rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</h4>
   <figure class="mrgn-bttm-lg">
-    <figcaption class="text-center"> <strong>Figure 2 : Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong> </figcaption>
+    <figcaption> <strong>Figure 2 : Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong> </figcaption>
     <img alt="Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010" class="img-responsive center-block" src="/guide-redaction/images/fig-02b-fra.jpg">
     <p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
       Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé non payé.</p>
@@ -2347,7 +2347,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h3>Étude de cas B&nbsp;: améliorer et simplifier les tableaux</h3>
   <h4>Avant</h4>
   <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
     <strong>Soutenir les familles et les collectivités, Budget 2013</strong>
     </caption>
     <thead>
@@ -2638,7 +2638,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </table>
   <h4>Après</h4>
   <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
     <strong>Tableau 1&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts budgétaires nets (en millions de dollars)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 1</span></a></sup></strong>
     </caption>
     <thead>
@@ -2696,7 +2696,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
     <strong>Tableau 1A&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts totaux (en millions de dollars)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 2</span></a></sup></strong>
     </caption>
     <thead>
@@ -2775,7 +2775,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
     <strong>Tableau 1B&nbsp;: Soutien aux familles pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 3</span></a></sup></strong>
     </caption>
     <thead>
@@ -2828,7 +2828,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
     <strong>Tableau 1C&nbsp;: Investir dans les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 4</span></a></sup></strong>
     </caption>
     <thead>
@@ -2935,7 +2935,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
     <strong>Tableau 1D&nbsp;: Protéger l'environnement naturel du Canada pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 5</span></a></sup></strong>
     </caption>
     <thead>
@@ -3006,7 +3006,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </tfoot>
   </table>
   <table class="table table-bordered table-condensed">
-    <caption class="text-center">
+    <caption>
     <strong>Tableau 1E&nbsp;: Créer des collectivités autochtones vigoureuses pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 6</span></a></sup></strong>
     </caption>
     <thead>
