@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/style-guide/"
 date: 2016-04-12
-dateModified: 2025-12-17
+dateModified: 2026-03-09
 description: "Ce Guide de rédaction du contenu du site Canada.ca établit les règles dont vous devez vous servir pour élaborer et réviser le contenu Web en français qui sera publié sur le site Canada.ca. Il fait l’analyse des règles de rédaction là où elles diffèrent des pratiques adaptées à l’imprimé, afin d’appuyer les principes de rédaction pour le site Canada.ca."
 image:
   filename: gr-apercu-img.png
@@ -15,9 +15,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 <section id="toc">
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <h2 class="mrgn-tp-sm">Table des matières</h2>
+          <h2 class="mrgn-tp-sm">Sur cette page</h2>
           <ul>
             <li><a href="#toc1">Mises à jour récentes</a></li>
             <li><a href="#toc2">But du document</a></li>
@@ -33,8 +31,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#toc12">Refonte de contenu Web</a></li>
             <li><a href="#toc13">Ressources</a></li>
           </ul>
-        </div>
-      </div>
     </div>
   </div>
 </section>
@@ -50,7 +46,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     </li>
   </ul>
-  <p>Pour obtenir de plus amples renseignements, veuillez consulter l’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> (la liste commence avec les modifications du 25 mai 2023.</p>
+  <p>Pour obtenir de plus amples renseignements, veuillez consulter l’<a href="/guide-redaction/historique-modifications.html">historique des mises à jour</a> (la liste commence avec les modifications du 25 mai 2023).</p>
 </section>
 <section id="toc2">
   <h2>But du document</h2>
@@ -87,10 +83,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section id="toc5">
   <h2>1.0 Principes de rédaction pour le contenu Web</h2>
+    <p>Les règles présentées dans ce guide tiennent compte de la façon dont les gens lisent et utilisent le contenu Web.</p>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
           <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
             <li><a href="#wp1-1">1.1 Aider les gens à accomplir des tâches</a></li>
@@ -105,11 +100,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             </li>
             <li><a href="#wp1-3">1.3 Fournir un contenu équivalent dans les 2 langues officielles</a></li>
           </ul>
-        </div>
-      </div>
     </div>
   </div>
-  <p>Les règles présentées dans ce guide tiennent compte de la façon dont les gens lisent et utilisent le contenu Web.</p>
   <section id="wp1-1">
     <h3>1.1 Aider les gens à accomplir des tâches</h3>
     <p>La plupart des gens consultent les sites gouvernementaux pour accomplir une tâche et s'attendent à ce qu'on leur fournisse des renseignements qui les aideront dans leurs démarches. Leur tâche s'inscrit dans l'une ou l'autre des catégories suivantes&nbsp;:</p>
@@ -194,8 +186,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>2.0 Communiquer avec clarté grâce au langage clair</h2>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
           <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
            <li><a href="#wp2-0">Exigences en matière de langage clair et simple</a></li>
@@ -231,8 +221,6 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp2-7">2.7 Éviter les références aux lois</a></li>
             <li><a href="#wp2-8">2.8 Liens vers des ressources externes sur le langage clair</a></li>
           </ul>
-        </div>
-      </div>
     </div>
   </div>
   <section id="wp2-0">
@@ -602,10 +590,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </section>
 <section id="toc7">
   <h2>3.0 Ton</h2>
+    <p>Le contenu Web du gouvernement du Canada.ca doit emprunter un ton&nbsp;:</p>
+  <ul>
+    <li>direct;</li>
+    <li>informatif;</li>
+    <li>conversationnel;</li>
+    <li>professionnel.</li>
+  </ul>
+  <p>Rédigez comme si vous parliez aux représentants de vos publics cibles, mais avec l'autorité d'un organisme qui fournit des renseignements dans le cadre de son mandat.</p>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
           <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
             <li><a href="#wp3-1">3.1 Écrire directement à la personne</a>
@@ -621,18 +615,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             </li>
             <li><a href="#wp3-3">3.3 Exprimer une obligation ou une recommandation</a></li>
           </ul>
-        </div>
-      </div>
     </div>
   </div>
-  <p>Le contenu Web du gouvernement du Canada.ca doit emprunter un ton&nbsp;:</p>
-  <ul>
-    <li>direct;</li>
-    <li>informatif;</li>
-    <li>conversationnel;</li>
-    <li>professionnel.</li>
-  </ul>
-  <p>Rédigez comme si vous parliez aux représentants de vos publics cibles, mais avec l'autorité d'un organisme qui fournit des renseignements dans le cadre de son mandat.</p>
   <section id="wp3-1">
     <h3>3.1 Écrire directement à la personne</h3>
     <p>Adoptez un ton informel qui s'adresse aux gens directement en utilisant la deuxième personne du pluriel (vous).</p>
@@ -749,10 +733,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section id="toc8">
   <h2>4.0 Style de présentation</h2>
+    <p>Sur le Web, un style de présentation du contenu allégé est plus facile à lire. Simplifiez la présentation et évitez la ponctuation excessive ou complexe. Le formatage (tel que les caractères gras, l'italique ou le soulignement) et la ponctuation complexe peuvent distraire les lecteurs et nuire à la compréhension.</p>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
           <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
             <li><a href="#wp4-1">4.1 Majuscules et ponctuation</a>
@@ -778,11 +761,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp4-9">4.9 Numéros de téléphone</a></li>
             <li><a href="#wp4-10">4.10 Adresses</a></li>
           </ul>
-        </div>
-      </div>
     </div>
   </div>
-  <p>Sur le Web, un style de présentation du contenu allégé est plus facile à lire. Simplifiez la présentation et évitez la ponctuation excessive ou complexe. Le formatage (tel que les caractères gras, l'italique ou le soulignement) et la ponctuation complexe peuvent distraire les lecteurs et nuire à la compréhension.</p>
   <section id="wp4-1">
     <h3>4.1 Majuscules et ponctuation</h3>
     <p>Ayez recours aux styles décrits ci-après pour les majuscules et la ponctuation dans les textes, les liens et les applications.</p>
@@ -1182,10 +1162,32 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section id="toc9">
   <h2>5.0 Structure du contenu</h2>
+    <p>La structure et la disposition des éléments du contenu aident les gens à trouver rapidement ce qu'ils cherchent. Les éléments de contenu comprennent&nbsp;:</p>
+  <ul>
+    <li>le titre de la page;</li>
+    <li>les titres de sections;</li>
+    <li>les listes verticales;</li>
+    <li>les tableaux.</li>
+  </ul>
+  <h3>Structurer le contenu dans une page Web</h3>
+  <p>Assurez-vous&nbsp;:</p>
+  <ul>
+    <li>de subdiviser la page en sections logiques pour donner un aperçu de l'information qu'elle contient;</li>
+    <li>d'organiser la page en fonction d'une tâche en affichant seulement les renseignements dont les gens ont besoin pour accomplir cette tâche.</li>
+  </ul>
+  <p>Structurez efficacement les éléments du contenu afin que votre page soit plus&nbsp;:</p>
+  <ul>
+    <li>visible pour les moteurs de recherche et plus facile à trouver;</li>
+    <li>facile à voir sur les appareils mobiles.</li>
+  </ul>
+  <h3>Structurer le contenu sur plusieurs pages Web</h3>
+  <p>Pensez à la démarche de la personne lorsqu'elle parcourt votre texte. Si&nbsp;:</p>
+  <ul>
+    <li>votre page Web aborde trop de sujets, il est possible qu'il soit plus approprié de la diviser en plusieurs pages;</li>
+    <li>plusieurs de vos pages Web renferment du contenu lié au même sujet, envisagez de les combiner en une seule page.</li>
+  </ul>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
           <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
             <li><a href="#wp5-1">5.1 Rédiger des titres et sous-titres de page descriptifs</a>
@@ -1212,34 +1214,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
               </ul>
             </li>
           </ul>
-        </div>
-      </div>
     </div>
   </div>
-  <p>La structure et la disposition des éléments du contenu aident les gens à trouver rapidement ce qu'ils cherchent. Les éléments de contenu comprennent&nbsp;:</p>
-  <ul>
-    <li>le titre de la page;</li>
-    <li>les titres de sections;</li>
-    <li>les listes verticales;</li>
-    <li>les tableaux.</li>
-  </ul>
-  <h3>Structurer le contenu dans une page Web</h3>
-  <p>Assurez-vous&nbsp;:</p>
-  <ul>
-    <li>de subdiviser la page en sections logiques pour donner un aperçu de l'information qu'elle contient;</li>
-    <li>d'organiser la page en fonction d'une tâche en affichant seulement les renseignements dont les gens ont besoin pour accomplir cette tâche.</li>
-  </ul>
-  <p>Structurez efficacement les éléments du contenu afin que votre page soit plus&nbsp;:</p>
-  <ul>
-    <li>visible pour les moteurs de recherche et plus facile à trouver;</li>
-    <li>facile à voir sur les appareils mobiles.</li>
-  </ul>
-  <h3>Structurer le contenu sur plusieurs pages Web</h3>
-  <p>Pensez à la démarche de la personne lorsqu'elle parcourt votre texte. Si&nbsp;:</p>
-  <ul>
-    <li>votre page Web aborde trop de sujets, il est possible qu'il soit plus approprié de la diviser en plusieurs pages;</li>
-    <li>plusieurs de vos pages Web renferment du contenu lié au même sujet, envisagez de les combiner en une seule page.</li>
-  </ul>
   <section id="wp5-1">
     <h3>5.1 Rédiger des titres et sous-titres de page descriptifs</h3>
     <p>Assurez-vous que votre titre de page décrit bien ce que la page contient. Un titre descriptif est important parce que les moteurs de recherche affichent souvent le titre sans contexte dans la liste des résultats de recherche.</p>
@@ -1717,10 +1693,20 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section id="toc10">
   <h2>6.0 Images et vidéos</h2>
+    <p>Vous pouvez utiliser des images et des vidéos pour&nbsp;:</p>
+  <ul>
+    <li>renforcer les messages clés;</li>
+    <li>aider les gens à accomplir leur tâche;</li>
+    <li>faciliter la compréhension de l'information complexe;</li>
+    <li>refléter le plus possible la population diversifiée du Canada (dont les personnes âgées, les jeunes, les peuples autochtones et les personnes de diverses origines ethniques).</li>
+  </ul>
+  <p>Lorsque vous planifiez votre contenu, évaluez les avantages d'inclure des vidéos et leur incidence sur les gens qui tenteront de les visionner avec des appareils mobiles. Leur capacité à accéder à ces fichiers peut varier en fonction de leur service de données mobiles ou de leur réseau.</p>
+  <h4>Obtenir la permission de publier</h4>
+  <p>Assurez-vous que vous possédez les droits appropriés pour publier des images, des fichiers audio et des vidéos sur Canada.ca. Vous devrez avoir la preuve écrite que vous avez obtenu ces droits. Reportez-vous aux <cite><a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition</a></cite> ou communiquez avec l'équipe d'édition de votre institution pour plus de détails.</p>
+  <h4>Obtenir de l'aide concernant les images, les fichiers audio ou les vidéos sur le site Canada.ca </h4>
+  <p>Si vous avez des questions précises concernant les exigences en matière de licence ou les formulaires de consentement liés à Canada.ca, contactez l'éditeur principal&nbsp;: <a href="mailto:na-web_support-soutien_du_web-gd@servicecanada.gc.ca">na-web_support-soutien_du_web-gd@servicecanada.gc.ca</a>.</p>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
           <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
             <li><a href="#wp6-1">6.1 Comprendre le but des images sur le Web</a>
@@ -1734,22 +1720,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp6-3">6.3 Ajouter une description longue pour expliquer les images complexes</a></li>
             <li><a href="#wp6-4">6.4 Ajouter une transcription pour décrire les fichiers audio et vidéo</a></li>
           </ul>
-        </div>
-      </div>
     </div>
   </div>
-  <p>Vous pouvez utiliser des images et des vidéos pour&nbsp;:</p>
-  <ul>
-    <li>renforcer les messages clés;</li>
-    <li>aider les gens à accomplir leur tâche;</li>
-    <li>faciliter la compréhension de l'information complexe;</li>
-    <li>refléter le plus possible la population diversifiée du Canada (dont les personnes âgées, les jeunes, les peuples autochtones et les personnes de diverses origines ethniques).</li>
-  </ul>
-  <p>Lorsque vous planifiez votre contenu, évaluez les avantages d'inclure des vidéos et leur incidence sur les gens qui tenteront de les visionner avec des appareils mobiles. Leur capacité à accéder à ces fichiers peut varier en fonction de leur service de données mobiles ou de leur réseau.</p>
-  <h4>Obtenir la permission de publier</h4>
-  <p>Assurez-vous que vous possédez les droits appropriés pour publier des images, des fichiers audio et des vidéos sur Canada.ca. Vous devrez avoir la preuve écrite que vous avez obtenu ces droits. Reportez-vous aux <cite><a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition</a></cite> ou communiquez avec l'équipe d'édition de votre institution pour plus de détails.</p>
-  <h4>Obtenir de l'aide concernant les images, les fichiers audio ou les vidéos sur le site Canada.ca </h4>
-  <p>Si vous avez des questions précises concernant les exigences en matière de licence ou les formulaires de consentement liés à Canada.ca, contactez l'éditeur principal&nbsp;: <a href="mailto:na-web_support-soutien_du_web-gd@servicecanada.gc.ca">na-web_support-soutien_du_web-gd@servicecanada.gc.ca</a>.</p>
 </section>
 <section id="wp6-1">
   <h3>6.1 Comprendre le but des images sur le Web</h3>
@@ -2148,10 +2120,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 </section>
 <section id="toc11">
   <h2>7.0 Liens</h2>
+   <p>Un lien (ou hyperlien) est un mot, une phrase ou une image d'une page Web sur lequel la personne peut cliquer pour accéder à une autre partie du contenu de la page ou à une autre ressource Web (c'est-à-dire une page Web, une vidéo ou un fichier téléchargeable).</p>
+  <p>Les personnes qui utilisent les technologies d'aide peuvent naviguer dans le contenu Web à l'aide de liens. Par exemple, les lecteurs d'écran énumèrent tous les liens d'une page sans afficher le contenu contextuel.</p>
+  <p>Vos liens doivent être descriptifs et conserver leur sens, même hors contexte, de façon à indiquer à quoi les gens peuvent s'attendre lorsqu'ils les sélectionnent.</p>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
           <h3 class="mrgn-tp-sm">Dans cette section</h3>
           <ul>
             <li><a href="#wp7-1">7.1 Utiliser les liens de façon stratégique</a>
@@ -2168,13 +2141,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="#wp7-3">7.3 Vérifier que les liens fonctionnent </a></li>
             <li><a href="#wp7-4">7.4 Créer des liens vers du contenu interne</a></li>
           </ul>
-        </div>
-      </div>
     </div>
   </div>
-  <p>Un lien (ou hyperlien) est un mot, une phrase ou une image d'une page Web sur lequel la personne peut cliquer pour accéder à une autre partie du contenu de la page ou à une autre ressource Web (c'est-à-dire une page Web, une vidéo ou un fichier téléchargeable).</p>
-  <p>Les personnes qui utilisent les technologies d'aide peuvent naviguer dans le contenu Web à l'aide de liens. Par exemple, les lecteurs d'écran énumèrent tous les liens d'une page sans afficher le contenu contextuel.</p>
-  <p>Vos liens doivent être descriptifs et conserver leur sens, même hors contexte, de façon à indiquer à quoi les gens peuvent s'attendre lorsqu'ils les sélectionnent.</p>
   <section id="wp7-1">
     <h3>7.1 Utiliser les liens de façon stratégique</h3>
     <p>Réfléchissez bien à la façon de créer vos liens. Choisissez stratégiquement la façon de présenter les liens dans une page Web ainsi que le nombre de liens&nbsp;:</p>
