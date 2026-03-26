@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/about/latest-changes.html"
 date: 2020-10-30
-dateModified: 2026-02-19
+dateModified: 2026-03-27
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -16,13 +16,21 @@ title: "Derniers changements apportés à la conception de Canada.ca"
         <p>Stabilisation du modèle de <a href="{{ '/configurations-conception-communes/navigation-metro.html' | absolute_url }}">navigation de style métro</a>.</p>
   </details>
   <details>
+    <summary><time datetime="2026-02-13">13 février 2026</time></summary>
+    <p>Publication de <a href="{{ '/directives/ia/lignes-directrices-conception.html' | absolute_url }}">lignes directrices de conception pour les applications d'aide à l'IA</a>.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-02-05">5 février 2026</time></summary>
+    <p>Création d'un <a href="{{ '/modeles-recommandes/page-erreur-404.html' | absolute_url }}">modèle de page d'erreur 404</a>. Refonte des pages d'erreur 404 unilingues et bilingues actuellement utilisées sur Canada.ca.</p>
+  </details>
+  <details>
     <summary><time datetime="2026-02-11">11 février 2026</time></summary>
-    <p>Mise à jour des directives relatives au <a href="{{ '/configurations-conception-communes/fil-ariane.html' | absolute_url }}">fil d'Ariane</a> afin de préciser :</p>
-<ul>
-  <li>quand le fil d’Ariane est obligatoire (et quand il ne l’est pas)</li>
-  <li>comment le fil d’Ariane s’applique aux pages de campagne</li>
-  <li>quels liens doivent apparaître dans un fil d’Ariane</li>
-</ul>
+    <p>Mise à jour des directives relatives au <a href="{{ '/configurations-conception-communes/fil-ariane.html' | absolute_url }}">fil d'Ariane</a> afin de préciser&nbsp;:</p>
+    <ul>
+      <li>quand le fil d’Ariane est obligatoire (et quand il ne l’est pas);</li>
+      <li>comment le fil d’Ariane s’applique aux pages de campagne;</li>
+      <li>quels liens doivent apparaître dans un fil d’Ariane.</li>
+    </ul>
   </details>
   <details>
     <summary><time datetime="2026-01-30">30 janvier 2026</time></summary>
