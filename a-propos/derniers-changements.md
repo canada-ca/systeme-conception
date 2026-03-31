@@ -13,11 +13,11 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 <div id="expand-collapse">
   <details open="open">
     <summary><time datetime="2026-02-19">19 février 2026</time></summary>
-        <p>Stabilisation du modèle de <a href="{{ '/configurations-conception-communes/navigation-metro.html' | absolute_url }}">navigation de style métro</a>.</p>
+    <p>Stabilisation du modèle de <a href="{{ '/configurations-conception-communes/navigation-metro.html' | absolute_url }}">navigation de style métro</a>.</p>
   </details>
   <details>
     <summary><time datetime="2026-02-13">13 février 2026</time></summary>
-    <p>Publication de <a href="{{ '/directives/ia/lignes-directrices-conception.html' | absolute_url }}">lignes directrices de conception pour les applications d'aide à l'IA</a>.</p>
+    <p>Publication de <a href="{{ '/directives/ia/index.html' | absolute_url }}">lignes directrices de conception pour les applications d'aide à l'IA</a>.</p>
   </details>
   <details>
     <summary><time datetime="2026-02-05">5 février 2026</time></summary>
