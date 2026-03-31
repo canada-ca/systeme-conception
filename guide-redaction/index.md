@@ -218,7 +218,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
               </ul>
             </li>
             <li><a href="#wp2-6">2.6 Utiliser des phrases et paragraphes simples et concis</a></li>
-            <li><a href="#wp2-7">2.7 Éviter les références aux lois</a></li>
+            <li><a href="#wp2-7">2.7 Expliquer les références aux lois</a></li>
             <li><a href="#wp2-8">2.8 Liens vers des ressources externes sur le langage clair</a></li>
           </ul>
     </div>
@@ -521,7 +521,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <div class="wb-share btn btn-default" data-wb-share='{"custType": "  utiliser des phrases et paragraphes simples et concis", "title": "2.6 Utiliser des phrases et paragraphes simples et concis", "url": "https://conception.canada.ca/guide-redaction/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
     </div>
   </section><section id="wp2-7">
-    <h3>2.7 Éviter les références aux lois</h3>
+    <h3>2.7 Expliquer les références aux lois</h3>
     <p>Lorsque vous expliquez une exigence qui découle d’un article de loi ou d’un règlement, évitez de spécifier le nom de la loi ou du règlement. Donnez simplement les renseignements dont les gens ont besoin pour accomplir la tâche.</p>
     <p>Si vous <b>devez</b> inclure le nom de la loi ou du règlement, fournissez-en toujours une description en langage clair. Expliquez d’abord ce que votre public cible a besoin de savoir et pourquoi il doit en savoir plus sur cette loi ou ce règlement. Puis, vous pouvez ajouter la référence à la loi ou au règlement.</p>
     <h4>Exemple de phrase faisant référence à une loi</h4>
@@ -535,10 +535,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           </ul>
     <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
     <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-7">2.7 Avoid references to legislation</a></span></li>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-7">2.7 Explain references to legislation</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  éviter les références aux lois ", "title": "2.7 Éviter les références aux lois ", "url": "https://conception.canada.ca/guide-redaction/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  Expliquer les références aux lois ", "title": "2.7 Expliquer les références aux lois ", "url": "https://conception.canada.ca/guide-redaction/#wp2-7", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-7"}'></div>
     </div>
   </section>
   <section id="wp2-8">
