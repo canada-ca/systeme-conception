@@ -101,7 +101,7 @@ En savoir plus sur les méthodes de science des données utilisées pour le grou
 
 Téléchargez les résultats et les rapports annuels et trimestriels du Sondage sur la réussite des tâches du GC
 
-[Obtention des rapports du Sondage sur GCÉchange (accessible seulement sur le réseau du GC)](https://gcxgce.sharepoint.com/teams/10001402/SitePages/fr/Government-of-Canada-Task-Success-Survey---Reports.aspx)
+[Obtention des rapports du Sondage sur GCÉchange (accessible seulement sur le réseau du GC)](https://gcxgce.sharepoint.com/teams/10001402/SitePages/TSS-Reports.aspx)
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
