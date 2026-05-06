@@ -328,28 +328,6 @@
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
-<<<<<<< HEAD
-    }, {
-      "NAME": "<a href=\"https://blogue.canada.ca/2025/02/18/confiance-ia.html\">Résultats de l’étude sur la confiance envers l’IA sur Canada.ca</a>",
-      "SOURCE": "Blogue",
-      "DESCRIPTION": "En 2024, le BTN a mené une étude sur la confiance envers l’Intelligence Artificielle (IA) pour évaluer la confiance du public envers différentes approches de conception d’IA pour Canada.ca.",
-      "WHENTOUSE": "",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "0"
-    },
-     {
-      "NAME": "<a href=\"https://blogue.canada.ca/2026/02/12/conception-aide-ia.html\">Concevoir des applications d'aide utilisant l'IA sur Canada.ca</a>",
-      "SOURCE": "Blogue",
-      "DESCRIPTION": "Au cours de la dernière année, nous avons travaillé en étroite collaboration avec 18 ministères afin de mieux comprendre ce qui fait qu'une application d'aide utilisant l'IA est fiable, uniforme et utile pour les utilisateurs de Canada.ca.",
-      "WHENTOUSE": "",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "0"
-=======
->>>>>>> 1d3ac03d (deploy: 26a028ad2f837388fe0afabb3821b063161bc593)
     },
     {
       "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html\">Rétroaction GC</a>",
@@ -562,79 +540,6 @@
       "TANDP": "0"
     },
     {
-<<<<<<< HEAD
-      "NAME": "<a href=\"https://conception.canada.ca/directives/ia/index.html\">Lignes directrices pour la conception d’applications d’aide utilisant l’IA sur Canada.ca</a>",
-      "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
-      "DESCRIPTION": "Lignes directrices centrales et recherche en matière d’IA, lignes directrices sur la conception et le contenu, protection des renseignements personnels et sécurité, conception itérative, liste de vérification",
-      "WHENTOUSE": "Lignes directrices centrales et recherche en matière d’IA, lignes directrices sur la conception et le contenu, protection des renseignements personnels et sécurité, conception itérative, liste de vérification",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"https://conception.canada.ca/directives/ia/lignes-directrices-centrales-recherche.html\">Lignes directrices centrales pour la recherche pour les applications d'aide à l'IA</a>",
-      "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
-      "DESCRIPTION": "Vision des applications d’aide utilisant l’IA, Guide sur l’utilisation de l’IA générative, principales personnes-ressources",
-      "WHENTOUSE": "Vision des applications d’aide utilisant l’IA, Guide sur l’utilisation de l’IA générative, principales personnes-ressources",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"https://conception.canada.ca/directives/ia/lignes-directrices-conception.html\">Lignes directrices sur la conception pour les applications d'aide à l'IA</a>",
-      "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
-      "DESCRIPTION": "Nommer votre application alimentée par l’IA, spécifications de conception",
-      "WHENTOUSE": "Nommer votre application alimentée par l’IA, spécifications de conception",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"https://conception.canada.ca/directives/ia/lignes-directrices-contenu.html\">Lignes directrices sur le contenu pour les applications d'aide à l'IA</a>",
-      "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
-      "DESCRIPTION": "Avis, transparence et responsabilité, liens de citation, accessibilité, langue, longueur des réponses",
-      "WHENTOUSE": "Avis, transparence et responsabilité, liens de citation, accessibilité, langue, longueur des réponses",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"https://conception.canada.ca/directives/ia/protection-securite.html\">Protection et sécurité pour les applications d'aide à l'IA</a>",
-      "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
-      "DESCRIPTION": "Assurer la sécurité, le respect et la sûreté des intrants, techniques de rédaction, menaces, conservation et suppression, débridage, conformité avec la cybersécurité organisationnelle",
-      "WHENTOUSE": "Assurer la sécurité, le respect et la sûreté des intrants, techniques de rédaction, menaces, conservation et suppression, débridage, conformité avec la cybersécurité organisationnelle",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"https://conception.canada.ca/directives/ia/conception-iterative.html\">Conception itérative pour les applications d'aide à l'IA</a>",
-      "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
-      "DESCRIPTION": "Étapes de la conception, essais par les utilisateurs, étapes de lancement, boucle de rétroaction, mécanismes de rétroaction",
-      "WHENTOUSE": "Étapes de la conception, essais par les utilisateurs, étapes de lancement, boucle de rétroaction, mécanismes de rétroaction",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "1"
-    },
-    {
-      "NAME": "<a href=\"https://conception.canada.ca/directives/ia/liste-controle-reference.html\">Liste de contrôle de référence pour les applications d'aide à l'IA</a>",
-      "SOURCE": "Directives pour les applications d’aide utilisant l’IA",
-      "DESCRIPTION": "Document de référence rapide pour tous les éléments à prendre en compte lors de la création d’une application d’aide utilisant l’IA",
-      "WHENTOUSE": "Document de référence rapide pour tous les éléments à prendre en compte lors de la création d’une application d’aide utilisant l’IA",
-      "CATEGORY": "",
-      "TYPE": "",
-      "MANDATORY": "",
-      "TANDP": "1"
-    },
-    {
-=======
->>>>>>> 1d3ac03d (deploy: 26a028ad2f837388fe0afabb3821b063161bc593)
       "NAME": "<a href=\"https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html\">Conception axée sur l'accessibilité pendant la pandémie de la COVID-19</a>",
       "SOURCE": "Blogue",
       "DESCRIPTION": "Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l'accessibilité pour assurer à chacun la possibilité d'obtenir rapidement et facilement les services dont il a besoin.",
@@ -754,16 +659,6 @@
       "TANDP": "0"
     },
     {
-<<<<<<< HEAD
-      "NAME": "<a href=\"https://conception.canada.ca/specifications/elements-obligatoires/domaines-url\">Domaines et adresses URL du gouvernement du Canada</a>",
-      "SOURCE": "Éléments obligatoires",
-      "DESCRIPTION": "Le domaine Canada.ca est le domaine principal pour la présence Web publique du gouvernement du Canada.",
-      "WHENTOUSE": "Le domaine Canada.ca est le domaine principal pour la présence Web publique du gouvernement du Canada.",
-      "CATEGORY": "Configuration de conception",
-      "TYPE": "Configuration à l’échelle du site",
-      "MANDATORY": "Obligatoire",
-      "TANDP": "1"
-=======
       "NAME": "<a href=\"https://conception.canada.ca/specifications/elements-obligatoires/domaines-url\">Domaines et adresses URL</a>",
       "SOURCE": "Éléments obligatoires",
       "DESCRIPTION": "Domaines et adresses URL du gouvernement du Canada",
@@ -772,7 +667,6 @@
       "TYPE": "",
       "MANDATORY": "",
       "TANDP": "0"
->>>>>>> 1d3ac03d (deploy: 26a028ad2f837388fe0afabb3821b063161bc593)
     },
     {
       "NAME": "<a href=\"https://conception.canada.ca/specifications/concevoir-contentu.html#principes\">Principes de conception de Canada.ca</a>",
@@ -924,21 +818,12 @@
       "TANDP": "1"
     },
     {
-<<<<<<< HEAD
-      "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/page-erreur-404.html\">Modèle de page d'erreur 404</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Une erreur 404 est générée lorsque l'on tente d'accéder à une page non trouvée.",
-      "WHENTOUSE": "Utilisez ce modèle lorsqu'une page demandée est introuvable.",
-      "CATEGORY": "Modèle de page",
-      "TYPE": "Interaction, Navigation, Configuration à l'échelle du site",
-=======
       "NAME": "<a href=\"https://conception.canada.ca/modeles-recommandes/generique.html\">Page de contenu de base</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "La mise en page de base des pages de Canada.ca ",
       "WHENTOUSE": "Mise en page de base des pages de Canada.ca.",
       "CATEGORY": "Mod&#232;le de page",
       "TYPE": "Destination",
->>>>>>> 1d3ac03d (deploy: 26a028ad2f837388fe0afabb3821b063161bc593)
       "MANDATORY": "Non",
       "TANDP": "1"
     },
@@ -963,8 +848,6 @@
       "TANDP": "1"
     },
     {
-<<<<<<< HEAD
-=======
       "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/canada-point-ca.html\">Domaine Canada.ca</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Le principal domaine pour la présence du gouvernement du Canada sur le Web",
@@ -975,7 +858,6 @@
       "TANDP": "1"
     },
     {
->>>>>>> 1d3ac03d (deploy: 26a028ad2f837388fe0afabb3821b063161bc593)
       "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/carrousels.html\">Carrousels</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Utilisez cette composante pour des situations telles que des galeries d'images ou de vidéos.",
@@ -1194,13 +1076,6 @@
       "TYPE": "Mod&#232;le &#224; l'&#233;chelle du gouvernement, Navigation",
       "MANDATORY": "Non",
       "TANDP": "1"
-<<<<<<< HEAD
-    }, {
-      "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/images.html\">Images et icônes</a>",
-      "SOURCE": "Bibliothèque de modèles et de configurations de conception",
-      "DESCRIPTION": "Quand utiliser des images et des icônes et ce qu’il faut éviter",
-      "WHENTOUSE": "Quand utiliser des images et des icônes et ce qu’il faut éviter",
-=======
     },
     {
       "NAME": "<a href=\"https://conception.canada.ca/configurations-conception-communes/icones.html\">Icônes</a>",
@@ -1217,7 +1092,6 @@
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Utilisez pour embellir ou rehausser un texte.",
       "WHENTOUSE": "Utilisez pour embellir ou rehausser un texte",
->>>>>>> 1d3ac03d (deploy: 26a028ad2f837388fe0afabb3821b063161bc593)
       "CATEGORY": "Configuration de conception",
       "TYPE": "Visuel",
       "MANDATORY": "Non",
