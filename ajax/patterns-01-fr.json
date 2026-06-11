@@ -1178,7 +1178,7 @@
       "TANDP": "1"
     },
     {
-      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html\">Page de compte rendu du rendement des services institutionnels</a>",
+      "NAME": "<a href=\"{{ site.url }}/modeles-recommandes/pages-comptes-rendu-rendement-services-institutionnels.html\">Page de compte rendu du rendement des services institutionnels</a>",
       "SOURCE": "Bibliothèque de modèles et de configurations de conception",
       "DESCRIPTION": "Utilisez pour présenter toutes les normes de service, conformément aux exigences de la Politique sur les services.",
       "WHENTOUSE": "Utilisez pour pr&#233;senter toutes les normes de service, conform&#233;ment aux exigences de la Politique sur les services",
