@@ -4357,7 +4357,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Compte rendu du rendement</h2>
         </header>
         <div class="panel-body">
-          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html">page de compte rendu du rendement des services institutionnels</a>.</p>
+          <p>Vous pouvez utiliser la <a href="{{ site.url }}/modeles-recommandes/pages-comptes-rendu-rendement-services-institutionnels.html">page de compte rendu du rendement des services institutionnels</a>.</p>
         </div>
       </section>
     </div>

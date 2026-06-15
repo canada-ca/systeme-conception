@@ -872,7 +872,7 @@ title: "Pages de profil organisationnel - Modèle obligatoire de Canada.ca"
               <ul>
                <li>
                 Obligatoire, si le contenu existe (voir la section
-                <a href="../modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html">
+                <a href="../modeles-recommandes/pages-comptes-rendu-rendement-services-institutionnels.html">
                  Pages de compte rendu du rendement des services institutionnels
                 </a>
                 )
