@@ -641,7 +641,7 @@
       "TANDP": "0"
     },
     {
-      "NAME": "<a href=\"https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/liste-institutions.html\">Institutions soumises au système de conception de Canada.ca</a>",
+      "NAME": "<a href=\"{{ site.url }}/specifications/utilisation-concept-canadaca/liste-des-institutions.html\">Institutions soumises au système de conception de Canada.ca</a>",
       "SOURCE": "Concevoir le contenu",
       "DESCRIPTION": "Liste des institutions du gouvernement du Canada assujetties au système de conception de Canada.ca",
       "WHENTOUSE": "",
