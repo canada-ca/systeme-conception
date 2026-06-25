@@ -1,0 +1,134 @@
+# Configuration du système de contrôle de version
+# Modèles expérimentaux - Canada.ca Design System
+
+version: "1.0"
+dateCreated: "2024-12-19"
+
+# Stratégie de branchement
+branching:
+  production: "master"
+  staging: "experimental-staging"
+  
+  # Convention de nommage des branches expérimentales
+  experimental:
+    pattern: "experimental-{type}-{name}-v{version}"
+    types:
+      - "composant"    # Composants d'interface individuels
+      - "modele"       # Modèles de page complètes
+      - "gabarit"      # Templates/layouts
+      - "configuration" # Configurations de conception
+    
+    examples:
+      - "experimental-composant-bouton-urgence-v1"
+      - "experimental-modele-page-evenement-v2"
+      - "experimental-gabarit-service-numerique-v1"
+      - "experimental-configuration-navigation-mobile-v1"
+
+  # Branches de correction
+  hotfix:
+    pattern: "experimental-{type}-{name}-v{version}-hotfix"
+    example: "experimental-composant-bouton-urgence-v1-hotfix"
+
+# Structure des répertoires
+directories:
+  experimental_root: "modeles-experimentaux/"
+  subdirectories:
+    components: "composants/"
+    models: "modeles/"
+    templates: "gabarits/"
+    configurations: "configurations/"
+    versions: "versions/"
+
+# Conventions de versioning
+versioning:
+  scheme: "semantic"  # major.minor.patch
+  
+  # Version majeure : changements incompatibles
+  # Version mineure : nouvelles fonctionnalités compatibles
+  # Version patch : corrections de bugs
+  
+  initial_version: "1.0.0"
+  
+  # Phases de développement
+  phases:
+    - "alpha"    # Prototype initial et tests
+    - "beta"     # Tests élargis et intégration
+    - "stable"   # Prêt pour approbation
+    - "approved" # Intégré au système principal
+
+# Templates obligatoires
+templates:
+  pull_requests:
+    experimental: ".github/pull_request_template/experimental-model.md"
+    transition: ".github/pull_request_template/experimental-to-approved.md"
+  
+  issues:
+    proposal: ".github/ISSUE_TEMPLATE/experimental-model-proposal.md"
+
+# Critères de qualité
+quality_gates:
+  alpha_to_beta:
+    - "prototype_functional"
+    - "accessibility_evaluated"
+    - "documentation_basic"
+  
+  beta_to_stable:
+    - "code_fully_functional"
+    - "accessibility_complete"
+    - "documentation_bilingual"
+    - "community_feedback_addressed"
+    - "performance_validated"
+  
+  stable_to_approved:
+    - "boew_integration"
+    - "code_validated"
+    - "accessibility_wcag_aa"
+    - "community_consensus"
+    - "production_tested"
+
+# Processus de révision
+review_process:
+  minimum_reviewers: 2
+  required_reviews:
+    - "design_system_team"
+    - "accessibility_expert"
+    - "community_representative"
+  
+  review_timeframe:
+    alpha: "5 business days"
+    beta: "10 business days"
+    stable_to_approved: "15 business days"
+
+# Archivage et rétention
+archival:
+  active_versions: "indefinite"
+  replaced_versions: "24 months"
+  abandoned_versions: "12 months"
+  approved_versions: "migrated to main system"
+
+# Outils et automatisation
+tools:
+  accessibility:
+    - "axe-core"
+    - "manual WCAG validation"
+  
+  validation:
+    - "HTML validator"
+    - "CSS validator"
+    - "ESLint for JavaScript"
+  
+  testing:
+    - "Browser testing matrix"
+    - "Mobile device testing"
+    - "Screen reader testing"
+
+# Communication et documentation
+communication:
+  changelog: "required for all versions"
+  migration_guide: "required for breaking changes"
+  bilingual_docs: "required for beta and above"
+  
+  channels:
+    - "GitHub issues and PRs"
+    - "Community discussions"
+    - "Design system meetings"

@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/community/contribution-process.html
 date: null
-dateModified: '2020-11-23'
+dateModified: '2024-12-19'
 description: null
 title: "Procédure de contribution"
 ---
@@ -9,6 +9,10 @@ title: "Procédure de contribution"
 
 <p>
  Le système de conception de Canada.ca doit être constamment amélioré. L'objectif de ce cadre est de favoriser l'amélioration continue des directives par l'expérimentation. Il crée un espace permettant aux ministères d'expérimenter et d'innover, et d'apporter leurs conclusions au profit de l'ensemble de la communauté Web du GC.
+</p>
+
+<p>
+ Ce processus inclut maintenant un <strong>système de contrôle de version pour les modèles expérimentaux</strong> qui permet un développement structuré et collaboratif des nouveaux modèles avant leur approbation officielle.
 </p>
 
 <h2 class="h3">
@@ -19,6 +23,11 @@ title: "Procédure de contribution"
  <li>
   <a href="#identifier">
    Identifier : soumettre une proposition d'amélioration
+  </a>
+ </li>
+ <li>
+  <a href="#experimentaux">
+   Modèles expérimentaux : développement avec contrôle de version
   </a>
  </li>
  <li>
@@ -93,6 +102,81 @@ title: "Procédure de contribution"
 
 <p>
  Les suggestions seront examinées au cas par cas par la communauté.
+</p>
+
+<h2 id="experimentaux">
+ Modèles expérimentaux : développement avec contrôle de version
+</h2>
+
+<p>
+ Les modèles expérimentaux bénéficient maintenant d'un système de contrôle de version structuré qui facilite la collaboration et le suivi des changements.
+</p>
+
+<h3>
+ Stratégie de branchement pour les modèles expérimentaux
+</h3>
+
+<p>
+ Chaque nouveau modèle expérimental ou révision importante est développé dans une branche dédiée suivant la convention :
+</p>
+
+<p>
+ <code>experimental-[type]-[nom-descriptif]-v[version]</code>
+</p>
+
+<p>
+ Les types incluent : <strong>composant</strong>, <strong>modele</strong>, <strong>gabarit</strong>, ou <strong>configuration</strong>.
+</p>
+
+<h3>
+ Processus de développement expérimental
+</h3>
+
+<ol>
+ <li>
+  <strong>Créer une branche expérimentale</strong> à partir de <code>master</code>
+ </li>
+ <li>
+  <strong>Développer dans le répertoire</strong> <a href="../modeles-experimentaux/">modeles-experimentaux/</a>
+ </li>
+ <li>
+  <strong>Documenter</strong> selon les standards établis
+ </li>
+ <li>
+  <strong>Tester et valider</strong> l'accessibilité et la fonctionnalité
+ </li>
+ <li>
+  <strong>Soumettre une pull request</strong> avec le template approprié
+ </li>
+ <li>
+  <strong>Révision communautaire</strong> et itérations
+ </li>
+ <li>
+  <strong>Archivage des versions</strong> dans <code>modeles-experimentaux/versions/</code>
+ </li>
+</ol>
+
+<h3>
+ Avantages du contrôle de version expérimental
+</h3>
+
+<ul>
+ <li>
+  <strong>Traçabilité complète</strong> : Historique détaillé des changements et décisions
+ </li>
+ <li>
+  <strong>Collaboration facilitée</strong> : Révisions structurées et commentaires organisés
+ </li>
+ <li>
+  <strong>Récupération sûre</strong> : Possibilité de revenir à des versions antérieures
+ </li>
+ <li>
+  <strong>Transition claire</strong> : Processus défini pour passer d'expérimental à approuvé
+ </li>
+</ul>
+
+<p>
+ Consultez le <a href="../modeles-experimentaux/">guide complet des modèles expérimentaux</a> pour plus de détails.
 </p>
 
 <h2 id="concevoir">
@@ -201,6 +285,9 @@ title: "Procédure de contribution"
  </li>
  <li>
   les commentaires de la communauté ont été résolus
+ </li>
+ <li>
+  <strong>pour les modèles expérimentaux</strong> : utilisation du template de pull request pour la <a href="../.github/pull_request_template/experimental-to-approved.md">transition vers approuvé</a>
  </li>
 </ul>
 
