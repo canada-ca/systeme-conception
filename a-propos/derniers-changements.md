@@ -288,7 +288,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
     <summary><time datetime="2020-02-28">28 février 2020</time></summary>
     <p>Nous avons fait des modifications aux modèles suivants pour refléter la nouvelle <cite>Politique sur les services et le numérique</cite>: </p>
     <ul>
-      <li><a href="{{ site.url }}/modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html">Page de compte rendu du rendement des services institutionnels</a></li>
+      <li><a href="{{ site.url }}/modeles-recommandes/pages-comptes-rendu-rendement-services-institutionnels.html">Page de compte rendu du rendement des services institutionnels</a></li>
       <li><a href="{{ site.url }}/modeles-recommandes/pages-lancement-service.html">Pages de lancement d’un service</a></li>
     </ul>
   </details>
