@@ -82,7 +82,7 @@ title: Concevoir du contenu pour Canada.ca
  </p>
  <ul>
   <li>
-   <a href="https://www.canada.ca/fr/gouvernement/a-propos/taches-principales-pour-canada-ca.html">
+   <a href="/taches-principales-pour-canada-ca.html">
     Tâches principales pour Canada.ca
    </a>
   </li>

@@ -22,13 +22,13 @@ breadcrumbs: [{
  <section>
   <div class="row">
    <h2 class="wb-inv">
-    Services and information
+    Services et renseignements
    </h2>
    <section class="wb-eqht gc-drmt">
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./specifications/utilisation-concept-canadaca.html">
+       <a href="/specifications/utilisation-concept-canadaca.html">
         Qui doit utiliser la conception de Canada.ca
        </a>
       </h3>
@@ -40,7 +40,7 @@ breadcrumbs: [{
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./specifications/elements-obligatoires.html">
+       <a href="/specifications/elements-obligatoires.html">
         Éléments obligatoires
        </a>
       </h3>
@@ -52,7 +52,7 @@ breadcrumbs: [{
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./guide-redaction/index.html">
+       <a href="/guide-redaction/index.html">
         Guide de rédaction du contenu du site Canada.ca
        </a>
       </h3>
@@ -64,7 +64,7 @@ breadcrumbs: [{
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./specifications/information-trouvabilite.html">
+       <a href="/specifications/information-trouvabilite.html">
         Architecture de l’information et trouvabilité
        </a>
       </h3>
@@ -76,7 +76,7 @@ breadcrumbs: [{
     <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./specifications/concevoir-contenu.html">
+       <a href="/specifications/concevoir-contenu.html">
         Concevoir le contenu pour Canada.ca
        </a>
       </h3>
@@ -88,7 +88,7 @@ breadcrumbs: [{
    <div class="col-md-4">
      <section>
       <h3 class="h5">
-       <a href="./bibliotheque-modeles.html">
+       <a href="/bibliotheque-modeles.html">
         Modèles et configurations
        </a>
       </h3>
@@ -100,7 +100,7 @@ breadcrumbs: [{
     <div class="col-md-4">
       <section>
         <h3 class="h5">
-        <a href="./a-propos/derniers-changements.html">
+        <a href="/specifications/derniers-changements.html">
           Derniers changements apportés à la conception de Canada.ca
         </a>
         </h3>

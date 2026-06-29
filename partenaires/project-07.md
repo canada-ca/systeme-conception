@@ -73,7 +73,7 @@ title: "Conseils aus voyageurs et avertissements"
   <dl>
     <dt>Note de bas de page 1</dt>
     <dd id="fn1">
-      <p><a href="https://www.canada.ca/fr/gouvernement/a-propos/taches-principales-pour-canada-ca.html">https://www.canada.ca/fr/gouvernement/a-propos/taches-principales-pour-canada-ca.html</a></p>
+      <p><a href="/taches-principales-pour-canada-ca.html">/taches-principales-pour-canada-ca.html</a></p>
       <p class="fn-rtn"> <a href="#fn1-rf"> <span class="wb-inv">Retour à la référence de la note de bas de page </span>1</a> </p>
     </dd>
     <dt>Note de bas de page 2</dt>

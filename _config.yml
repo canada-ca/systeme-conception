@@ -648,6 +648,25 @@
           "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
         }]
       }
+    },
+    {
+      "scope": {
+        "path": "specifications"
+      },
+      "values": {
+        "breadcrumbs": [{
+          "title": "À propos de Canada.ca",
+          "link": "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
+        },
+        {
+          "link": "https://conception.canada.ca/",
+          "title": "Conception"
+        },
+        {
+          "link": "https://conception.canada.ca/specifications.html",
+          "title": "Spécifications"
+        }]
+      }
     }
   ]
 }
