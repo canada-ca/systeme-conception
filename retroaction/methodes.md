@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/analyze-feedback.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2026-06-19
 description: null
 title: Méthodes d’analyse de la rétroaction
 ---
@@ -11,6 +11,7 @@ title: Méthodes d’analyse de la rétroaction
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="acces.html">Accéder à la rétroaction</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="methodes.html">Analyser la rétroaction</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item active">Analyse assistée par l’IA</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="communiquer.html">Partager des idées</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qu’il faut améliorer</a></li>
     </ul>
@@ -23,7 +24,7 @@ title: Méthodes d’analyse de la rétroaction
 * [Niveau de rétroaction requis](#niveau-de-rétroaction-requis)
 * [Les questions de recherche façonnent l’analyse](#les-questions-de-recherche-façonnent-lanalyse)
 * [Méthodes d’analyse manuelle](#méthodes-danalyse-manuelle)
-* [Outils d’analyse](#outils-danalyse)
+* [Analyse des commentaires assistée par l’IA](#analyse-des-commentaires-assistée-par-lia)
 * [Intégrer d’autres sources de données complémentaires](#intégrer-dautres-sources-de-données-complémentaires)
 
 ## Qui devrait lire et analyser la rétroaction?
@@ -50,8 +51,6 @@ Lors de la détermination des problèmes, ne vous fiez pas uniquement au volume 
 
 Vous pouvez chercher à confirmer les idées de rétroaction en utilisant d’autres sources de données comme les analyses Web, le volume d’appels, les tendances des médias sociaux et les résultats du sondage sur la réussite des tâches du GC.
 
-Bien qu’il soit préférable de lire l’ensemble des données de rétroaction, l’échantillonnage d’un plus petit ensemble de commentaires peut aider à déterminer des tendances lorsque vous êtes confronté à un nombre de commentaires supérieur à ce que vous pouvez lire. Si vous continuez à recevoir plus de commentaires que vous ne pouvez en lire, il est préférable de ne plus utiliser l’outil jusqu’à ce que vous ayez terminé vos mises à jour.
-
 ## Les questions de recherche façonnent l’analyse
 
 Commencez par réfléchir aux questions de recherche et aux personnes avec lesquelles vous allez partager vos résultats. Cette réflexion à l’avance peut aider à clarifier la façon de regrouper la rétroaction lors de l’analyse manuelle.
@@ -64,9 +63,37 @@ Questions de recherche courantes&nbsp;:
 * La rétroaction a-t-elle augmenté ou diminué après une mise à jour de la page?
 * Quels types de problèmes étaient les plus courants (capacité de recherche, compréhension, technique)?
 
+## Analyse des commentaires assistée par l’IA
+
+Les outils d’intelligence artificielle approuvés, comme Microsoft Copilot, peuvent aider à repérer des tendances, regrouper les commentaires par thèmes, résumer les constats et appuyer l’analyse qualitative des commentaires recueillis au moyen de l’Outil de rétroaction sur les pages Web du GC et du Sondage sur la réussite des tâches.
+
+L’analyse assistée par l’IA peut réduire le temps nécessaire pour examiner de grands volumes de commentaires. Toutefois, les outils d’IA ne remplacent pas le jugement humain. Les analystes demeurent responsables de valider les résultats, d’examiner les regroupements thématiques, de vérifier les dénombrements et de s’assurer que les constats sont appropriés avant leur diffusion.
+
+Utilisez les outils d’IA comme aide à l’analyse et non comme décideurs faisant autorité.
+
+### Prompts réutilisables et conseils
+
+Consultez les conseils sur l’analyse des commentaires assistée par l’IA pour obtenir :
+* des prompts approuvés pour les tâches courantes d’analyse des commentaires;
+* des considérations relatives à la protection des renseignements personnels et à la sécurité;
+* des pratiques exemplaires pour la rédaction de prompts;
+* des exigences en matière de révision humaine;
+* les limites de l’analyse assistée par l’IA.
+
+[Conseils sur l’analyse des commentaires assistée par l’IA](analyse-ai.html)
+
+
 ## Méthodes d’analyse manuelle
 
-Le regroupement des commentaires ayant des problèmes similaires avec des étiquettes est utile pour les petits et les grands ensembles de données. Cela vous aide à accroître votre efficacité pour ce qui est de l’analyse en vous permettant d’analyser des ensembles de données de moindre taille.
+L’analyse manuelle consiste à examiner directement les commentaires et à regrouper les problèmes similaires à l’aide d’étiquettes ou de thèmes. Cette approche convient aussi bien aux petits qu’aux grands ensembles de données et demeure une méthode efficace pour comprendre les commentaires des utilisateurs.
+
+L’analyse manuelle peut être utilisée seule ou en complément de l’analyse assistée par l’IA.
+
+| Méthode | Convient le mieux à |
+|---|---|
+| Analyse manuelle | Petits ensembles de données, examen détaillé, validation des constats |
+| Analyse assistée par l’IA | Grands ensembles de données, repérage rapide des thèmes, rédaction de résumés |
+| Approche combinée | La plupart des cas d’utilisation opérationnels; l’IA appuie l’analyse tandis que les humains valident les constats |
 
 Dans le cas d’un petit ensemble de données, un petit nombre d’étiquettes peut suffire pour éclairer la rétroaction. Un ensemble de données volumineux peut nécessiter des étiquettes à deux niveaux pour mettre en lumière des problèmes de contenu spécifiques.
 
@@ -181,15 +208,6 @@ Dans le cas d’un petit ensemble de données, un petit nombre d’étiquettes p
   <p>Si vos pages recueillent plus de commentaires que vous ne pouvez examiner, classer et analyser, ajustez votre stratégie&nbsp;: concentrez-vous sur une tâche, limitez le nombre de pages sur lesquelles l’outil est déployé ou limitez la période de collecte de données.</p>
 </details>
 
-## Outils d’analyse
-
-Pour les petits ensembles de données, n’importe quel logiciel de tableur devrait convenir pour regrouper et trier les commentaires (Excel, Google Sheets, etc.).
-
-Pour les plus grands ensembles de données, il est utile d’utiliser un outil doté de fonctionnalités plus avancées de tri, de filtrage et d’étiquetage. Si vous comptez sur les services d’un spécialiste de la science des données, celui-ci préférera peut-être utiliser des outils plus spécialisés.
-
-* [Télécharger un modèle de stratégie d’étiquetage](images/feedback-tagging-template.xlsx) (Excel, 61 Ko)
-* [Télécharger un modèle pour analyser la rétroaction sur des pages ou la rétroaction sur le sondage sur la réussite des tâches du GC](https://docs.google.com/spreadsheets/d/1pcQgee6lN6P30EIMRb3o6RxcTPBiUFtsZAmbeVNpDW4/edit?usp=sharing) (Google Sheets)
-
 
 ## Intégrer d’autres sources de données complémentaires
 
@@ -204,6 +222,6 @@ Intégrez d’autres sources de données dans vos rapports afin de dresser un ta
 
 <nav role="navigation" class="mrgn-bttm-lg">
 	  <ul class="pager">
-	    <li class="next"><a href="communiquer.html" rel="next">Suivant&nbsp;: Partage des idées</a></li>
+	    <li class="next"><a href="analyse-ai.html" rel="next">Suivant&nbsp;: Analyse assistée par l’IA</a></li>
 	  </ul>
 </nav>
