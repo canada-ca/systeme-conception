@@ -226,7 +226,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <section id="wp2-0">
   <h3>Exigences en matière de langage clair et simple</h3>
     <p>Vous devez utiliser un langage clair et simple, <b>car il s’agit d’une exigence de la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682"><cite>Directive sur la gestion des communications</cite></a></b>.</p>
-    <p>Le langage clair désigne une communication dont le vocabulaire, la structure et la conception sont si clairs que le public visé peut facilement&nbsp;:</p>
+    <p>Le langage clair est une approche de rédaction qui vise à communiquer ce que votre public doit savoir; ce qui signifie que le vocabulaire, la structure et la conception sont si clairs que le public visé peut facilement&nbsp;:</p>
     <ul>
       <li><strong>trouver</strong> ce dont il a besoin;</li>
       <li><strong>comprendre</strong> ce qu’il trouve;</li>
