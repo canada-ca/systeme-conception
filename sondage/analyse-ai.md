@@ -124,6 +124,48 @@ Repérer les difficultés des utilisateurs et regrouper les commentaires en thè
 - Réponses à des questions ouvertes dans un sondage
 - Problèmes d’utilisabilité récurrents
 
+#### Utilisation prévue
+
+Utilisez cette invite pour :
+
+- Comprendre les principales difficultés des utilisateurs
+- Produire un rapport sommaire sur la rétroaction
+- Examiner des ensembles de données de rétroaction de petite ou moyenne taille
+- Relever les tâches courantes des utilisateurs et les obstacles rencontrés
+- Appuyer les examens de contenu, de service ou d’expérience utilisateur
+
+N’utilisez PAS cette invite pour :
+
+- L’analyse des causes profondes
+- L’analyse des tendances au fil du temps
+- La comparaison de plusieurs ensembles de données
+- Les décisions d’établissement des priorités
+- La mesure de la gravité des problèmes
+- Les rapports sur le rendement
+- La prise de décisions stratégiques ou opérationnelles sans analyse supplémentaire
+
+#### Données requises
+
+Fournissez :
+
+- Une liste ou un ensemble de données de commentaires d’utilisateurs
+
+Contexte facultatif :
+
+- Domaine de programme ou de service
+- Page ou parcours utilisateur
+- Période
+- Attentes linguistiques
+
+#### Résultats attendus
+
+L’invite produira :
+
+1. Vérification des renseignements sensibles
+2. Résumé de l’ensemble de données
+3. Tableau sommaire des problèmes
+4. Énoncé sur le degré de confiance de l’analyse
+
 #### Invite
 
 <button
