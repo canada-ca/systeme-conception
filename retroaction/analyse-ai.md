@@ -472,7 +472,7 @@ Fournissez une brève justification fondée sur :
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
-    <li class="next"><a href="ai-analysis.html" rel="next">Suivant : Analyse assistée par l’IA</a></li>
+    <li class="next"><a href="communiquer.html" rel="next">Suivant&nbsp;: Partager des idées</a></li>
   </ul>
 </nav>
 
