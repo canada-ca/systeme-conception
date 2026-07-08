@@ -181,7 +181,7 @@
         <ul class="toc lst-spcd col-md-12">
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="acceder-resultats.html">Résultats et aux rapports du sondage</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="commentaires.html">Méthodes d’analyse</a></li>
-              <li class="col-md-4 col-sm-6">&lt;a class="list-group-item active" href="analyse-ai.html" Analyse assistée par l’IA&lt;/a&gt;</li>
+            <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="analyse-ai.html">Analyse assistée par l’IA</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="partager.html">Partager les idées</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qui doit être amélioré</a></li>
         </ul>
@@ -215,8 +215,11 @@
   <li>Veiller à ce que les constatations soient appropriées avant de les communiquer</li>
 </ul>
 
-<p><em>Important</em>
-Utilisez les outils d’IA comme soutien à l’analyse, et non comme décideurs faisant autorité.</p>
+<blockquote>
+  <p><strong>Important</strong></p>
+
+  <p>Utilisez les outils d’IA comme soutien à l’analyse, et non comme décideurs faisant autorité.</p>
+</blockquote>
 
 <hr />
 
@@ -284,7 +287,7 @@ Période : avril 2026
 </ul>
 
 <blockquote>
-  <p>L’analyse a été réalisée avec l’aide d’AI’. Les constatations ont été examinées et validées par un analyste humain.</p>
+  <p>L’analyse a été réalisée avec l’aide d’AI. Les constatations ont été examinées et validées par un analyste humain.</p>
 </blockquote>
 
 <hr />
@@ -311,7 +314,8 @@ Période : avril 2026
 
 <p><button type="button" class="btn btn-primary copy-btn" data-copy-target="fb-sum-001">
   Copier l’invite
-</button></p>
+</button>
+<span class="wb-inv copy-status" role="status" aria-live="polite"></span></p>
 
 <pre id="fb-sum-001" class="prompt-block"><code>
 ---
@@ -572,22 +576,7 @@ Fournissez une brève justification fondée sur :
   </ul>
 </nav>
 
-<script>
-document.addEventListener("click", function(e) {
-  const btn = e.target.closest(".copy-btn");
-  if (!btn) return;
-
-  const targetId = btn.dataset.copyTarget;
-  const target = document.getElementById(targetId);
-  if (!target) return;
-
-  navigator.clipboard.writeText(target.textContent).then(() => {
-    const originalText = btn.textContent;
-    btn.textContent = "Copié!";
-    setTimeout(() => { btn.textContent = originalText; }, 2000);
-  });
-});
-</script>
+<script src="../js/copy-prompt.js"></script>
 
 
 		<section class="pagedetails">
