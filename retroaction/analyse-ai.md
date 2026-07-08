@@ -176,7 +176,6 @@ L’invite produira :
 3. Tableau sommaire des problèmes
 4. Énoncé sur le degré de confiance de l’analyse
 
-
 #### Invite
 
 <button
