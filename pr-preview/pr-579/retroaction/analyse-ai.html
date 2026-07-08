@@ -16,7 +16,7 @@
 		<meta name="dcterms.accessRights" content="2" />
 		<meta name="gcaaterms.sitename" content="ESDC-EDSC_CanadacaDesign-ConceptionCanadaca" />
 		<meta name="dcterms.issued" title="W3CDTF" content=""/>
-		<meta name="dcterms.modified" title="W3CDTF" content="2026-07-08"/>
+		<meta name="dcterms.modified" title="W3CDTF" content="2026-06-19"/>
 		<meta name="generator" content="Jekyll v4.3.2" />
 		<meta name="google-site-verification" content="Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM" />
 		<meta name="yandex-verification" content="4dda5b1b6e392d83" />
@@ -309,13 +309,13 @@ Période : avril 2026
 
 <p>L’invite ci-dessous est conçue pour être utilisée avec des outils d’IA approuvés, comme Microsoft Copilot.</p>
 
-<h3 id="analyse-des-thèmes-de-la-rétroaction">Analyse des thèmes de la rétroaction</h3>
+<h1 id="analyse-des-thèmes-de-la-rétroaction">Analyse des thèmes de la rétroaction</h1>
 
-<h4 id="objectif">Objectif</h4>
+<h2 id="objectif">Objectif</h2>
 
 <p>Repérer les difficultés des utilisateurs et regrouper les commentaires en thèmes clairs.</p>
 
-<h4 id="quand-lutiliser">Quand l’utiliser</h4>
+<h2 id="quand-lutiliser">Quand l’utiliser</h2>
 
 <ul>
   <li>Commentaires sur une page</li>
@@ -323,80 +323,11 @@ Période : avril 2026
   <li>Problèmes d’utilisabilité récurrents</li>
 </ul>
 
-<h4 id="utilisation-prévue">Utilisation prévue</h4>
-
-<p>Utilisez cette invite pour :</p>
-
-<ul>
-  <li>Comprendre les principales difficultés des utilisateurs</li>
-  <li>Produire un rapport sommaire sur la rétroaction</li>
-  <li>Examiner des ensembles de données de rétroaction de petite ou moyenne taille</li>
-  <li>Relever les tâches courantes des utilisateurs et les obstacles rencontrés</li>
-  <li>Appuyer les examens de contenu, de service ou d’expérience utilisateur</li>
-</ul>
-
-<p>N’utilisez PAS cette invite pour :</p>
-
-<ul>
-  <li>L’analyse des causes profondes</li>
-  <li>L’analyse des tendances au fil du temps</li>
-  <li>La comparaison de plusieurs ensembles de données</li>
-  <li>Les décisions d’établissement des priorités</li>
-  <li>La mesure de la gravité des problèmes</li>
-  <li>Les rapports sur le rendement</li>
-  <li>La prise de décisions stratégiques ou opérationnelles sans analyse supplémentaire</li>
-</ul>
-
-<h4 id="données-requises">Données requises</h4>
-
-<p>Fournissez :</p>
-
-<ul>
-  <li>Une liste ou un ensemble de données de commentaires d’utilisateurs</li>
-</ul>
-
-<p>Contexte facultatif :</p>
-
-<ul>
-  <li>Domaine de programme ou de service</li>
-  <li>Page ou parcours utilisateur</li>
-  <li>Période</li>
-  <li>Attentes linguistiques</li>
-</ul>
-
-<h4 id="résultats-attendus">Résultats attendus</h4>
-
-<p>L’invite produira :</p>
-
-<ol>
-  <li>Vérification des renseignements sensibles</li>
-  <li>Résumé de l’ensemble de données</li>
-  <li>Tableau sommaire des problèmes</li>
-  <li>Énoncé sur le degré de confiance de l’analyse</li>
-</ol>
-
-<h4 id="exigences-relatives-à-lexamen-humain">Exigences relatives à l’examen humain</h4>
-
-<p>Avant d’utiliser ou de communiquer les résultats, vérifiez que :</p>
-
-<ul>
-  <li>Les dénombrements sont exacts</li>
-  <li>Les thèmes reflètent fidèlement l’intention des utilisateurs</li>
-  <li>Les citations sont reproduites exactement</li>
-  <li>Les renseignements sensibles sont traités adéquatement</li>
-  <li>Chaque commentaire est attribué à un seul thème</li>
-  <li>Les problèmes sont nommés de façon claire et uniforme</li>
-  <li>L’analyse globale est factuellement exacte</li>
-</ul>
-
-<p>Toute analyse générée par l’IA doit être validée par un examinateur humain avant d’être utilisée à des fins opérationnelles.</p>
-
-<h4 id="invite">Invite</h4>
+<h5 id="invite">Invite</h5>
 
 <p><button type="button" class="btn btn-primary copy-btn" data-copy-target="fb-sum-001">
   Copier l’invite
-</button>
-<span class="wb-inv copy-status" role="status" aria-live="polite"></span></p>
+</button></p>
 
 <pre id="fb-sum-001" class="prompt-block"><code>
 ---
@@ -407,9 +338,8 @@ Version : 1.3
 Plateforme approuvée : Microsoft Copilot
 Niveau de sensibilité : Non classifié
 Examen humain requis : Oui
-Dernière mise à jour : 2026-07-08
+Dernière mise à jour : 2026-06-17
 ---
-
 # Rôle
 
 Vous êtes un analyste de données qui appuie les équipes Web du gouvernement du Canada.
@@ -654,11 +584,26 @@ Fournissez une brève justification fondée sur :
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
-    <li class="next"><a href="communiquer.html" rel="next">Suivant&nbsp;: Partager des idées</a></li>
+    <li class="next"><a href="ai-analysis.html" rel="next">Suivant : Analyse assistée par l’IA</a></li>
   </ul>
 </nav>
 
-<script src="../js/copy-prompt.js"></script>
+<script>
+document.addEventListener("click", function(e) {
+  const btn = e.target.closest(".copy-btn");
+  if (!btn) return;
+
+  const targetId = btn.dataset.copyTarget;
+  const target = document.getElementById(targetId);
+  if (!target) return;
+
+  navigator.clipboard.writeText(target.textContent).then(() => {
+    const originalText = btn.textContent;
+    btn.textContent = "Copié!";
+    setTimeout(() => { btn.textContent = originalText; }, 2000);
+  });
+});
+</script>
 
 
 		<section class="pagedetails">
@@ -674,7 +619,7 @@ Fournissez une brève justification fondée sur :
 		</div>
 	</div><dl id="wb-dtmd">
 	<dt>Date de modification&#160;:</dt>
-	<dd><time property="dateModified">2026-07-08</time></dd>
+	<dd><time property="dateModified">2026-06-19</time></dd>
 </dl>
 </section>
 
