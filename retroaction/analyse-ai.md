@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/ai-analysis.html
 date: null
-dateModified: 2026-06-19
+dateModified: 2026-07-08
 description: null
 title: Analyse de la rétroaction assistée par l’IA
 ---
@@ -122,55 +122,19 @@ Lorsque vous communiquez des constatations issues d’une analyse assistée par 
 
 L’invite ci-dessous est conçue pour être utilisée avec des outils d’IA approuvés, comme Microsoft Copilot.
 
-# Analyse des thèmes de la rétroaction
+### Analyse des thèmes de la rétroaction
 
-## Objectif
+#### Objectif
 
 Repérer les difficultés des utilisateurs et regrouper les commentaires en thèmes clairs.
 
-## Quand l’utiliser
+#### Quand l’utiliser
 
 - Commentaires sur une page
 - Réponses à des questions ouvertes dans un sondage
 - Problèmes d’utilisabilité récurrents
 
-##### Invite
-
-<button
-  type="button"
-  class="btn btn-primary copy-btn"
-  data-copy-target="fb-sum-001">
-  Copier l’invite
-</button>
-
-<pre id="fb-sum-001" class="prompt-block"><code>
----
-Titre : Synthèse de la rétroaction et analyse des thèmes
-Responsable : Bureau de l’expérience de Canada.ca
-ID de l’invite : FB-SUM-001
-Version : 1.3
-Plateforme approuvée : Microsoft Copilot
-Niveau de sensibilité : Non classifié
-Examen humain requis : Oui
-Dernière mise à jour : 2026-06-17
----
-
-# DOCUMENTATION DESTINÉE AUX UTILISATEURS
-
-## Objectif
-
-Analyser la rétroaction des utilisateurs et relever les problèmes les plus importants auxquels ils font face, à partir des éléments probants contenus dans l’ensemble de données.
-
-L’objectif est de produire :
-
-- Des thèmes exacts
-- Des résultats uniformes
-- Des éléments probants clairs
-- Une compréhension exploitable des difficultés des utilisateurs
-
----
-
-## Utilisation prévue
+#### Utilisation prévue
 
 Utilisez cette invite pour :
 
@@ -190,9 +154,7 @@ N’utilisez PAS cette invite pour :
 - Les rapports sur le rendement
 - La prise de décisions stratégiques ou opérationnelles sans analyse supplémentaire
 
----
-
-## Données requises
+#### Données requises
 
 Fournissez :
 
@@ -205,9 +167,7 @@ Contexte facultatif :
 - Période
 - Attentes linguistiques
 
----
-
-## Résultats attendus
+#### Résultats attendus
 
 L’invite produira :
 
@@ -216,9 +176,7 @@ L’invite produira :
 3. Tableau sommaire des problèmes
 4. Énoncé sur le degré de confiance de l’analyse
 
----
-
-## Exigences relatives à l’examen humain
+#### Exigences relatives à l’examen humain
 
 Avant d’utiliser ou de communiquer les résultats, vérifiez que :
 
@@ -232,9 +190,27 @@ Avant d’utiliser ou de communiquer les résultats, vérifiez que :
 
 Toute analyse générée par l’IA doit être validée par un examinateur humain avant d’être utilisée à des fins opérationnelles.
 
----
+#### Invite
 
-# COPIEZ TOUT LE CONTENU CI-DESSOUS DANS COPILOT
+<button
+  type="button"
+  class="btn btn-primary copy-btn"
+  data-copy-target="fb-sum-001">
+  Copier l’invite
+</button>
+<span class="wb-inv copy-status" role="status" aria-live="polite"></span>
+
+<pre id="fb-sum-001" class="prompt-block"><code>
+---
+Titre : Synthèse de la rétroaction et analyse des thèmes
+Responsable : Bureau de l’expérience de Canada.ca
+ID de l’invite : FB-SUM-001
+Version : 1.3
+Plateforme approuvée : Microsoft Copilot
+Niveau de sensibilité : Non classifié
+Examen humain requis : Oui
+Dernière mise à jour : 2026-07-08
+---
 
 # Rôle
 
@@ -480,23 +456,8 @@ Fournissez une brève justification fondée sur :
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
-    <li class="next"><a href="ai-analysis.html" rel="next">Suivant : Analyse assistée par l’IA</a></li>
+    <li class="next"><a href="communiquer.html" rel="next">Suivant&nbsp;: Partager des idées</a></li>
   </ul>
 </nav>
 
-<script>
-document.addEventListener("click", function(e) {
-  const btn = e.target.closest(".copy-btn");
-  if (!btn) return;
-
-  const targetId = btn.dataset.copyTarget;
-  const target = document.getElementById(targetId);
-  if (!target) return;
-
-  navigator.clipboard.writeText(target.textContent).then(() => {
-    const originalText = btn.textContent;
-    btn.textContent = "Copié!";
-    setTimeout(() => { btn.textContent = originalText; }, 2000);
-  });
-});
-</script>
+<script src="../js/copy-prompt.js"></script>
