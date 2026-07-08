@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/access-feedback.html
 date: null
-dateModified: 2024-07-18
+dateModified: 2026-07-08
 description: null
 title: Comment accéder à la rétroaction sur la page
 ---

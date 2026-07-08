@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/prioritize.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2026-07-08
 description: null
 title: Décider de ce qui doit être amélioré
 ---

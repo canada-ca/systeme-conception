@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/ai-analysis.html
 date: null
-dateModified: 2026-06-19
+dateModified: 2026-07-08
 description: null
 title: Analyse de la rétroaction assistée par l’IA
 ---
@@ -225,7 +225,7 @@ Version : 1.3
 Plateforme approuvée : Microsoft Copilot
 Niveau de sensibilité : Non classifié
 Examen humain requis : Oui
-Dernière mise à jour : 2026-06-17
+Dernière mise à jour : 2026-07-08
 ---
 
 # Rôle

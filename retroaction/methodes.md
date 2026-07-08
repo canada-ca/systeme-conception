@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/analyze-feedback.html
 date: null
-dateModified: 2026-06-19
+dateModified: 2026-07-08
 description: null
 title: Méthodes d’analyse de la rétroaction
 ---

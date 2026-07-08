@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/survey/insights.html
 date: null
-dateModified: 2023-04-05
+dateModified: 2026-07-08
 description: null
 title: Partager les idées tirées des données de rétroaction
 ---
