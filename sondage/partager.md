@@ -10,7 +10,8 @@ title: Partager les idées tirées des données de rétroaction
     <div class="row">
         <ul class="toc lst-spcd col-md-12">
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="acceder-resultats.html">Résultats et aux rapports du sondage</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="commentaires.html">Comment analyser les commentaires</a></li>
+            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="commentaires.html">Méthodes d’analyse</a></li>
+            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyse-ai.html">Analyse assistée par l’IA</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="partager.html">Partager les idées</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qui doit être amélioré</a></li>
         </ul>

@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/survey/analyze-feedback.html
 date: null
-dateModified: 2023-04-05
+dateModified: 2026-07-07
 description: null
 title: Comment analyser les commentaires
 ---
@@ -10,7 +10,8 @@ title: Comment analyser les commentaires
     <div class="row">
         <ul class="toc lst-spcd col-md-12">
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="acceder-resultats.html">Résultats et aux rapports du sondage</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="commentaires.html">Comment analyser les commentaires</a></li>
+            <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="commentaires.html">Méthodes d’analyse</a></li>
+            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyse-ai.html">Analyse assistée par l’IA</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="partager.html">Partager les idées</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qui doit être amélioré</a></li>
         </ul>
@@ -173,6 +174,6 @@ Intégrez d’autres sources de données dans vos rapports afin de créer un tab
 
 <nav role="navigation" class="mrgn-bttm-lg">
     <ul class="pager">
-        <li class="next"><a href="partager.html" rel="next">Suivant&nbsp;: Partager des idées</a></li>
+        <li class="next"><a href="analyse-ai.html" rel="next">Suivant&nbsp;: Analyse assistée par l’IA</a></li>
     </ul>
 </nav>
