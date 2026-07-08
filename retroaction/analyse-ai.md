@@ -176,19 +176,6 @@ L’invite produira :
 3. Tableau sommaire des problèmes
 4. Énoncé sur le degré de confiance de l’analyse
 
-#### Exigences relatives à l’examen humain
-
-Avant d’utiliser ou de communiquer les résultats, vérifiez que :
-
-- Les dénombrements sont exacts
-- Les thèmes reflètent fidèlement l’intention des utilisateurs
-- Les citations sont reproduites exactement
-- Les renseignements sensibles sont traités adéquatement
-- Chaque commentaire est attribué à un seul thème
-- Les problèmes sont nommés de façon claire et uniforme
-- L’analyse globale est factuellement exacte
-
-Toute analyse générée par l’IA doit être validée par un examinateur humain avant d’être utilisée à des fins opérationnelles.
 
 #### Invite
 
