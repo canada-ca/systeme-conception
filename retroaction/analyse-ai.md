@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/ai-analysis.html
 date: null
-dateModified: 2026-06-19
+dateModified: 2026-07-08
 description: null
 title: Analyse de la rétroaction assistée par l’IA
 ---
@@ -122,19 +122,75 @@ Lorsque vous communiquez des constatations issues d’une analyse assistée par 
 
 L’invite ci-dessous est conçue pour être utilisée avec des outils d’IA approuvés, comme Microsoft Copilot.
 
-# Analyse des thèmes de la rétroaction
+### Analyse des thèmes de la rétroaction
 
-## Objectif
+#### Objectif
 
 Repérer les difficultés des utilisateurs et regrouper les commentaires en thèmes clairs.
 
-## Quand l’utiliser
+#### Quand l’utiliser
 
 - Commentaires sur une page
 - Réponses à des questions ouvertes dans un sondage
 - Problèmes d’utilisabilité récurrents
 
-##### Invite
+#### Utilisation prévue
+
+Utilisez cette invite pour :
+
+- Comprendre les principales difficultés des utilisateurs
+- Produire un rapport sommaire sur la rétroaction
+- Examiner des ensembles de données de rétroaction de petite ou moyenne taille
+- Relever les tâches courantes des utilisateurs et les obstacles rencontrés
+- Appuyer les examens de contenu, de service ou d’expérience utilisateur
+
+N’utilisez PAS cette invite pour :
+
+- L’analyse des causes profondes
+- L’analyse des tendances au fil du temps
+- La comparaison de plusieurs ensembles de données
+- Les décisions d’établissement des priorités
+- La mesure de la gravité des problèmes
+- Les rapports sur le rendement
+- La prise de décisions stratégiques ou opérationnelles sans analyse supplémentaire
+
+#### Données requises
+
+Fournissez :
+
+- Une liste ou un ensemble de données de commentaires d’utilisateurs
+
+Contexte facultatif :
+
+- Domaine de programme ou de service
+- Page ou parcours utilisateur
+- Période
+- Attentes linguistiques
+
+#### Résultats attendus
+
+L’invite produira :
+
+1. Vérification des renseignements sensibles
+2. Résumé de l’ensemble de données
+3. Tableau sommaire des problèmes
+4. Énoncé sur le degré de confiance de l’analyse
+
+#### Exigences relatives à l’examen humain
+
+Avant d’utiliser ou de communiquer les résultats, vérifiez que :
+
+- Les dénombrements sont exacts
+- Les thèmes reflètent fidèlement l’intention des utilisateurs
+- Les citations sont reproduites exactement
+- Les renseignements sensibles sont traités adéquatement
+- Chaque commentaire est attribué à un seul thème
+- Les problèmes sont nommés de façon claire et uniforme
+- L’analyse globale est factuellement exacte
+
+Toute analyse générée par l’IA doit être validée par un examinateur humain avant d’être utilisée à des fins opérationnelles.
+
+#### Invite
 
 <button
   type="button"
@@ -142,6 +198,7 @@ Repérer les difficultés des utilisateurs et regrouper les commentaires en thè
   data-copy-target="fb-sum-001">
   Copier l’invite
 </button>
+<span class="wb-inv copy-status" role="status" aria-live="polite"></span>
 
 <pre id="fb-sum-001" class="prompt-block"><code>
 ---
@@ -152,8 +209,9 @@ Version : 1.3
 Plateforme approuvée : Microsoft Copilot
 Niveau de sensibilité : Non classifié
 Examen humain requis : Oui
-Dernière mise à jour : 2026-06-17
+Dernière mise à jour : 2026-07-08
 ---
+
 # Rôle
 
 Vous êtes un analyste de données qui appuie les équipes Web du gouvernement du Canada.
@@ -398,23 +456,8 @@ Fournissez une brève justification fondée sur :
 
 <nav role="navigation" class="mrgn-bttm-lg">
   <ul class="pager">
-    <li class="next"><a href="ai-analysis.html" rel="next">Suivant : Analyse assistée par l’IA</a></li>
+    <li class="next"><a href="communiquer.html" rel="next">Suivant&nbsp;: Partager des idées</a></li>
   </ul>
 </nav>
 
-<script>
-document.addEventListener("click", function(e) {
-  const btn = e.target.closest(".copy-btn");
-  if (!btn) return;
-
-  const targetId = btn.dataset.copyTarget;
-  const target = document.getElementById(targetId);
-  if (!target) return;
-
-  navigator.clipboard.writeText(target.textContent).then(() => {
-    const originalText = btn.textContent;
-    btn.textContent = "Copié!";
-    setTimeout(() => { btn.textContent = originalText; }, 2000);
-  });
-});
-</script>
+<script src="../js/copy-prompt.js"></script>
