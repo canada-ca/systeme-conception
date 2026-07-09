@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/prioritize.html
 date: null
-dateModified: 2023-02-28
+dateModified: 2026-07-08
 description: null
 title: Décider de ce qui doit être amélioré
 ---
@@ -11,6 +11,8 @@ title: Décider de ce qui doit être amélioré
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="acces.html">Accéder à la rétroaction</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="methodes.html">Analyser la rétroaction</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyse-ai.html">Analyse assistée par l’IA</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="communiquer.html">Partager des idées</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="decider.html">Décider de ce qu’il faut améliorer</a></li>
     </ul>
   </div>

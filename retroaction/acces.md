@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/access-feedback.html
 date: null
-dateModified: 2024-07-18
+dateModified: 2026-07-08
 description: null
 title: Comment accéder à la rétroaction sur la page
 ---
@@ -11,6 +11,7 @@ title: Comment accéder à la rétroaction sur la page
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="acces.html">Accéder à la rétroaction</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="methodes.html">Analyser la rétroaction</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyse-ai.html">Analyse assistée par l’IA</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="communiquer.html">Partager des idées</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qu’il faut améliorer</a></li>
     </ul>
