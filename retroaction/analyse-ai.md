@@ -20,7 +20,7 @@ title: Analyse de la rétroaction assistée par l’IA
 </div>
 
 
-Des invites réutilisables et des conseils pour analyser les commentaires issus de l’outil de rétroaction du GC et du Sondage sur la réussite des tâches à l’aide d’outils d’IA approuvés, comme Microsoft Copilot.
+Des invites réutilisables et des conseils pour analyser les commentaires issus de l’outil de rétroaction du GC et du Sondage sur la réussite des tâches à l’aide d’outils d’IA approuvés.
 
 ## Sur cette page
 
@@ -56,7 +56,7 @@ Avant d’utiliser des outils d’IA :
 - N’incluez pas de renseignements opérationnels protégés, classifiés ou sensibles
 - Retirez les renseignements personnels des commentaires lorsque possible
 - Suivez les directives de votre ministère sur l’utilisation d’outils d’IA approuvés
-- Utilisez uniquement des environnements du GC approuvés, comme Microsoft Copilot
+- Utilisez uniquement des environnements du GC approuvés
 
 ### Exemples de renseignements personnels
 
@@ -114,13 +114,13 @@ Lorsque vous communiquez des constatations issues d’une analyse assistée par 
 - Incluez la taille des échantillons, s’il y a lieu
 - Maintenez la responsabilité humaine à l’égard des conclusions
 
-> L’analyse a été réalisée avec l’aide de Microsoft Copilot. Les constatations ont été examinées et validées par un analyste humain.
+> L’analyse a été réalisée avec l’aide d'AI. Les constatations ont été examinées et validées par un analyste humain.
 
 ---
 
 ## Invites réutilisables
 
-L’invite ci-dessous est conçue pour être utilisée avec des outils d’IA approuvés, comme Microsoft Copilot.
+L’invite ci-dessous est conçue pour être utilisée avec des outils d’IA approuvés.
 
 ### Analyse des thèmes de la rétroaction
 
@@ -192,7 +192,6 @@ Titre : Synthèse de la rétroaction et analyse des thèmes
 Responsable : Bureau de l’expérience de Canada.ca
 ID de l’invite : FB-SUM-001
 Version : 1.3
-Plateforme approuvée : Microsoft Copilot
 Niveau de sensibilité : Non classifié
 Examen humain requis : Oui
 Dernière mise à jour : 2026-07-08
