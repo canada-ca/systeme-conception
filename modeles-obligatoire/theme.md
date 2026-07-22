@@ -103,7 +103,6 @@ Des études ont révélé que les personnes qui naviguent sur le site utilisent 
 Le modèle stratifié pour la page de thème est obligatoire conformément aux spécifications de Canada.ca.
 - [Éléments obligatoires du système de conception](https://conception.canada.ca/specifications/elements-obligatoires.html)
 
-
 ## Derniers changements {#derniers-changements}
 
 <dl class="dl-horizontal">
