@@ -20,10 +20,6 @@ title: Comment accéder aux résultats et aux rapports du sondage
 
 ## Sur cette page
 
-
-
-
-
 - [Données brutes du sondage](#données-brutes-du-sondage)
 - [Résultats du trimestre courant](#résultats-du-trimestre-courant)
 - [Résultats des sondages annuels et trimestriels antérieurs](#résultats-des-sondages-annuels-et-trimestriels-antérieurs)
