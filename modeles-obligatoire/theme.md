@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/mandatory-templates/theme.html
 date: null
-dateModified: '2026-02-27'
+dateModified: '2026-07-30'
 description: Orientation sur l'utilisation d'une page de navigation par thème stratifiée sur Canada.ca. Une page de navigation par thème stratifiée permet aux gens de trouver des services et des renseignements provenant de tous les sites Web du gouvernement du Canada regroupés sous l'un des principaux thèmes de Canada.ca.
 title: Page de thème stratifiée
 ---
@@ -72,7 +72,7 @@ Les demandes de personnalisation seront examinées au cas par cas si votre thèm
       <img src="../images/navigation-par-theme-sm.png" class="img-responsive" alt="Conception stratifiée pour la navigation par thème pour les petits écrans. Version textuelle ci-dessous&nbsp;:" />
       <details>
         <summary>Description de l'image&nbsp;: Conception stratifiée pour la navigation par thème - petit écran</summary>
-        <p>Dans les appareils mobiles, le modèle stratifié pour la navigation par thème comprend une bande bleu foncé qui contient le texte &laquo;&nbsp;Menu&nbsp;&raquo; et un chevron pointant vers le bas. L'utilisateur doit cliquer sur le bouton Menu pour afficher tous les thèmes disponibles.</p>
+<p>Dans les appareils mobiles, le modèle stratifié pour la navigation par thème comprend une bande bleu foncé qui s'étend sur toute la largeur en haut de la page et qui contient le texte &laquo;&nbsp;Menu&nbsp;&raquo; et un chevron pointant vers le bas. Lorsque l'utilisateur clique sur le menu, celui-ci se déploie pour afficher tous les thèmes et masque le contenu de la page ainsi que la bande principale du pied de page général.</p>
         <p>La section affichant le contenu du thème actif contient le titre du thème et une bande présentant les liens les plus demandés, suivie de la configuration Services et renseignements répartie sur une seule colonne. Cette section contient des liens et des descriptions qui aident l'utilisateur à naviguer dans les différents niveaux de contenu du thème. Sous la section de la navigation par thème, on retrouve le titre &laquo;&nbsp;En vedette&nbsp;&raquo; ainsi que trois promotions contextuelles en lien avec le thème. Cette section est suivie d'un pied de page contextuel qui s'applique au thème.</p>
       </details>
     </figure>
@@ -106,7 +106,7 @@ Le modèle stratifié pour la page de thème est obligatoire conformément aux s
 ## Derniers changements {#derniers-changements}
 
 <dl class="dl-horizontal">
-  <dt><time>2026-02-27</time></dt>
+  <dt><time>2026-07-30</time></dt>
   <dd>
     <p>Stabilisation et lancement du modèle stratifié pour la page de thème.</p>
   </dd>
