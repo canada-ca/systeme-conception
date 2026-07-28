@@ -51,7 +51,7 @@ Vous pouvez inclure un lien en vedette lorsqu'il est nécessaire de promouvoir u
 
 Les demandes de personnalisation seront examinées au cas par cas si votre thème permet d'effectuer des recherches et de surveiller les répercussions de la personnalisation. Veuillez faire parvenir vos demandes de personnalisation au Bureau de l'expérience Canada.ca&nbsp;:
 
-- [cds.dto-btn.snc@servicecanada.gc.ca](mailto:cds.dto-btn.snc@servicecanada.gc.ca)
+- [dsd.ceo-bec.dsn@servicecanada.gc.ca](mailto:dsd.ceo-bec.dsn@servicecanada.gc.ca)
 
 ### Exemples visuels
 
