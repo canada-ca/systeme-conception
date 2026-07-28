@@ -11,7 +11,7 @@ title: Page de thème stratifiée
 
 La page de thème stratifiée est une suite de pages jouant le rôle de chemin de navigation principal sur Canada.ca. Les pages de thème fournissent un accès aux sujets et aux pages de destination qui appuient l'achèvement des tâches. Elles permettent aux utilisateurs de naviguer dans le contenu de l'ensemble du gouvernement en fonction d'un des thèmes principaux plutôt que par institution. De plus, ces pages organisent le contenu et la navigation par ordre de priorité en présentant d'abord les renseignements et les services les plus consultés.
 
-<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/navigation-par-theme-cropped.png" class="img-responsive" alt=""></div>
+<div class="pattern-demo mrgn-tp-lg mrgn-bttm-xl"><img src="../images/layered-theme-page-cropped-fr.png" class="img-responsive" alt=""></div>
 
 ## Sur cette page
 - [Quand l'utiliser](#quand-lutiliser)
@@ -34,6 +34,7 @@ N'ajoutez pas de liens menant aux canaux de communication de médias sociaux. Aj
 ## Contenu et conception {#contenu-et-conception}
 
 Le titre du thème doit être une balise H1 unique ainsi que le premier élément de la page.
+- Lorsque vous utilisez AEM pour vos pages de thème, vous devez vous servir de l’élément du bloc d’introduction afin d’afficher le titre. N’activez aucune autre fonctionnalité du bloc d’introduction.
 
 Ajoutez la bande En demande sous le titre du thème pour mettre en évidence les tâches principales. Utilisez la [configuration de la bande en demande](https://conception.canada.ca/configurations-conception-communes/en-demande.html).
 
@@ -58,7 +59,7 @@ Les demandes de personnalisation seront examinées au cas par cas si votre thèm
  <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Conception stratifiée pour la navigation par thème - grand écran</b></figcaption>
-      <img src="../images/navigation-par-theme-large.png" class="img-responsive" alt="Conception stratifiée pour la navigation par thème pour les grands écrans. Version textuelle ci-dessous&nbsp;:" />
+      <img src="../images/layered-theme-page-large-fr.png" class="img-responsive" alt="Conception stratifiée pour la navigation par thème pour les grands écrans. Version textuelle ci-dessous&nbsp;:" />
       <details>
         <summary>Description de l'image&nbsp;: Conception stratifiée pour la navigation par thème - grand écran</summary>
         <p>Le modèle stratifié pour la navigation par thème comporte une barre de navigation sur la gauche qui énumère tous les thèmes du site Canada.ca. Le contenu du thème sélectionné s'affiche à droite. Puisqu'il est sélectionné, le thème &laquo;&nbsp;Emplois&nbsp;&raquo; est surligné en bleu foncé. Une barre bleu foncé épaisse sert de séparation visuelle entre la barre de navigation et le contenu.</p>
@@ -69,7 +70,7 @@ Les demandes de personnalisation seront examinées au cas par cas si votre thèm
    <div class="pattern-demo mrgn-tp-md mrgn-bttm-md">
     <figure class="mrgn-tp-md mrgn-bttm-lg">
       <figcaption><b>Conception stratifiée pour la navigation par thème - petit écran</b></figcaption>
-      <img src="../images/navigation-par-theme-sm.png" class="img-responsive" alt="Conception stratifiée pour la navigation par thème pour les petits écrans. Version textuelle ci-dessous&nbsp;:" />
+      <img src="../images/layered-theme-page-sm-fr.png" class="img-responsive" alt="Conception stratifiée pour la navigation par thème pour les petits écrans. Version textuelle ci-dessous&nbsp;:" />
       <details>
         <summary>Description de l'image&nbsp;: Conception stratifiée pour la navigation par thème - petit écran</summary>
 <p>Dans les appareils mobiles, le modèle stratifié pour la navigation par thème comprend une bande bleu foncé qui s'étend sur toute la largeur en haut de la page et qui contient le texte &laquo;&nbsp;Menu&nbsp;&raquo; et un chevron pointant vers le bas. Lorsque l'utilisateur clique sur le menu, celui-ci se déploie pour afficher tous les thèmes et masque le contenu de la page ainsi que la bande principale du pied de page général.</p>
