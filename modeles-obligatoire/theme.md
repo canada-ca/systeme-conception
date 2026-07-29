@@ -36,7 +36,7 @@ N'ajoutez pas de liens menant aux canaux de communication de médias sociaux. Aj
 Le titre du thème doit être une balise H1 unique ainsi que le premier élément de la page.
 - Lorsque vous utilisez AEM pour vos pages de thème, vous devez vous servir de l’élément du bloc d’introduction afin d’afficher le titre. N’activez aucune autre fonctionnalité du bloc d’introduction.
 
-Ajoutez la bande En demande sous le titre du thème pour mettre en évidence les tâches principales. Utilisez la [configuration de la bande en demande](https://conception.canada.ca/configurations-conception-communes/en-demande.html).
+Ajoutez la bande en demande sous le titre du thème pour mettre en évidence les tâches principales. Utilisez la [configuration de la bande en demande](https://conception.canada.ca/configurations-conception-communes/en-demande.html).
 
 Ajoutez un lien et une brève description, également appelés menus d'accueil thématique, pour chaque sujet lié au thème inclus dans la page. Ne répétez aucun des liens qui figurent dans la bande En demande. Utilisez la variante à deux colonnes de la [configuration services et renseignements](https://conception.canada.ca/configurations-conception-communes/services-renseignements.html).
 
