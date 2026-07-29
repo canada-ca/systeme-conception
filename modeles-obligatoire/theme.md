@@ -44,7 +44,7 @@ Insérez une bande contextuelle dans le pied de page. Utilisez la [configuration
 
 Inclus par défaut, le bouton de connexion renvoie à la page de connexion générale. Vous pouvez personnaliser le lien et le nom du bouton pour diriger l'utilisateur vers une page de connexion particulière ou vers une page qui gère plusieurs comptes en lien avec votre thème. Les pages qui gèrent plusieurs comptes doivent être intitulées &laquo;&nbsp;Se connecter à l'ARC&nbsp;&raquo; ou &laquo;&nbsp;Se connecter à IRCC&nbsp;&raquo;. Sinon, utilisez &laquo;&nbsp;Se connecter à [nom du compte]&nbsp;&raquo;. Voir la [configuration du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;](https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html).
 
-Vous pouvez ajouter une alerte pour signaler une interruption urgente du service. L'alerte doit s'afficher sous le titre h1 dans le contenu du côté droit. Voir les [directives concernant l'utilisation des alertes pour les situations de crise](https://conception.canada.ca/crise/alertes.html).
+Vous pouvez ajouter une alerte pour signaler une interruption urgente du service. L'alerte doit s'afficher sous le titre H1 dans le contenu du côté droit. Voir les [directives concernant l'utilisation des alertes pour les situations de crise](https://conception.canada.ca/crise/alertes.html).
 
 Vous pouvez ajouter un maximum de trois promotions contextuelles au-dessus du pied de page. Voir la [configuration des promotions contextuelles](https://conception.canada.ca/configurations-conception-communes/vignettes-promotionnelles.html).
 
