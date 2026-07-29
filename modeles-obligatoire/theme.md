@@ -38,7 +38,7 @@ Le titre du thème doit être une balise H1 unique ainsi que le premier élémen
 
 Ajoutez la bande en demande sous le titre du thème pour mettre en évidence les tâches principales. Utilisez la [configuration de la bande en demande](https://conception.canada.ca/configurations-conception-communes/en-demande.html).
 
-Ajoutez un lien et une brève description, également appelés menus d'accueil thématique, pour chaque sujet lié au thème inclus dans la page. Ne répétez aucun des liens qui figurent dans la bande En demande. Utilisez la variante à deux colonnes de la [configuration services et renseignements](https://conception.canada.ca/configurations-conception-communes/services-renseignements.html).
+Ajoutez un lien et une brève description, également appelés menus d'accueil thématique, pour chaque sujet lié au thème inclus dans la page. Ne répétez aucun des liens qui figurent dans la bande en demande. Utilisez la variante à deux colonnes de la [configuration services et renseignements](https://conception.canada.ca/configurations-conception-communes/services-renseignements.html).
 
 Insérez une bande contextuelle dans le pied de page. Utilisez la [configuration de la bande contextuelle](https://conception.canada.ca/configurations-conception-communes/pied-page-contextuelle.html).
 
