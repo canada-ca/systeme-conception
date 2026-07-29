@@ -83,7 +83,7 @@ Les demandes de personnalisation seront examinées au cas par cas si votre thèm
 
 Trouvez des exemples pratiques et du code pour mettre en œuvre le modèle stratifié pour la page de thème.
 
-### Référence pour la mise en œuvre du thème GCweb (BOEW)
+### Référence pour la mise en œuvre du thème GCWeb (WET-BOEW)
 
 La référence pour la mise en œuvre explique comment configurer le modèle stratifié pour la page de thème.
 
