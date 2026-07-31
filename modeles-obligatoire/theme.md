@@ -1,6 +1,6 @@
 ---
 altLangPage: https://design.canada.ca/mandatory-templates/theme.html
-date: null
+date: 2026-02-27
 dateModified: '2026-07-30'
 description: Orientation sur l'utilisation d'une page de navigation par thème stratifiée sur Canada.ca. Une page de navigation par thème stratifiée permet aux gens de trouver des services et des renseignements provenant de tous les sites Web du gouvernement du Canada regroupés sous l'un des principaux thèmes de Canada.ca.
 title: Page de thème stratifiée
