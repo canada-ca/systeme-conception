@@ -63,12 +63,12 @@
     <lastmod>2019-04-01</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/crise/alertes.html</loc>
-    <lastmod>2025-05-19</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/alertes/alertes.html</loc>
     <lastmod>2020-03-13</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/crise/alertes.html</loc>
+    <lastmod>2025-05-19</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/amelioration-continue.html</loc>
@@ -439,7 +439,10 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/modeles-recommandes/pages-comptes-rendu-rendement-services-insitutionnels.html</loc>
-    <lastmod>2018-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/modeles-recommandes/pages-comptes-rendu-rendement-services-institutionnels.html</loc>
+    <lastmod>2026-06-15</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/modeles-recommandes/pages-consultations.html</loc>
