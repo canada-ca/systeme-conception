@@ -18,11 +18,11 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/sondage/acceder-resultats.html</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/retroaction/acces.html</loc>
-    <lastmod>2024-07-18</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/modeles-recommandes/accessibilite/accessibilite.html</loc>
@@ -77,6 +77,14 @@
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/retroaction/ameliorer.html</loc>
     <lastmod>2023-02-28</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/pr-preview/pr-574/sondage/analyse-ai.html</loc>
+    <lastmod>2026-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/pr-preview/pr-574/retroaction/analyse-ai.html</loc>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/sondage/analytics.html</loc>
@@ -160,11 +168,11 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/sondage/commentaires.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/retroaction/communiquer.html</loc>
-    <lastmod>2023-02-28</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/directives/ia/conception-iterative.html</loc>
@@ -211,16 +219,19 @@
     <lastmod>2025-03-27</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/pr-preview/pr-574/retroaction/decider.html</loc>
-    <lastmod>2023-02-28</lastmod>
+    <loc>https://conception.canada.ca/pr-preview/pr-574/sondage/decider.html</loc>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/pr-preview/pr-574/sondage/decider.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <loc>https://conception.canada.ca/pr-preview/pr-574/retroaction/decider.html</loc>
+    <lastmod>2026-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/pr-preview/pr-574/specifications/derniers-changements.html</loc>
+    <lastmod>2026-07-13</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/a-propos/derniers-changements.html</loc>
-    <lastmod>2026-03-27</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/configurations-conception-communes/diagrammes-graphiques.html</loc>
@@ -232,7 +243,7 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/specifications/elements-obligatoires/domaines-url.html</loc>
-    <lastmod>2024-08-23</lastmod>
+    <lastmod>2026-06-12</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/directives/donnees-structurees.html</loc>
@@ -345,6 +356,10 @@
     <lastmod>2026-02-12</lastmod>
   </url>
   <url>
+    <loc>https://conception.canada.ca/pr-preview/pr-574/specifications/utilisation-concept-canadaca/liste-des-institutions.html</loc>
+    <lastmod>2026-06-22</lastmod>
+  </url>
+  <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/sondage/liste-personnalisee.html</loc>
     <lastmod>2023-04-05</lastmod>
   </url>
@@ -362,11 +377,11 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/retroaction/methodes.html</loc>
-    <lastmod>2023-02-28</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/sondage/methodologie.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/configurations-conception-communes/ministre.html</loc>
@@ -409,7 +424,7 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/modeles-recommandes/page-erreur-404.html</loc>
-    <lastmod>2026-02-05</lastmod>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/modeles-obligatoire/page-ministeres-organismes.html</loc>
@@ -427,7 +442,7 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/modeles-recommandes/pages-comptes-rendu-rendement-services-institutionnels.html</loc>
-    <lastmod>2026-06-03</lastmod>
+    <lastmod>2026-06-15</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/modeles-recommandes/pages-consultations.html</loc>
@@ -495,7 +510,7 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/sondage/partager.html</loc>
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/configurations-conception-communes/pied-page-contenu.html</loc>
@@ -650,12 +665,12 @@
     <lastmod>2025-03-28</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/pr-preview/pr-574/retroaction/soutien.html</loc>
-    <lastmod>2023-02-28</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/sondage/soutien.html</loc>
     <lastmod>2023-04-05</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/pr-preview/pr-574/retroaction/soutien.html</loc>
+    <lastmod>2023-02-28</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/specifications.html</loc>
@@ -675,14 +690,17 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/a-propos/taches-principales-pour-canada-ca.html</loc>
-    <lastmod>2025-07-21</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/pr-preview/pr-574/taches-principales-pour-canada-ca.html</loc>
+    <lastmod>2026-06-22</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/mise-en-page/theme-sujet_directives.html</loc>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/modeles-obligatoire/theme.html</loc>
-    <lastmod>2024-09-24</lastmod>
+    <lastmod>2026-07-30</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/pr-preview/pr-574/modeles-recommandes/transparence.html</loc>
