@@ -6,7 +6,7 @@ description: "La page d’accueil des ministères et organismes comprend une lis
 title: "Page des ministères et organismes - Modèle obligatoire de Canada.ca"
 ---
 <p><span class="label label-danger">Obligatoire</span></p>
-<p>La page d’accueil des ministères et organismes comprend une liste alphabétique des institutions, comme indiqué dans la <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/liste-institutions.html"> liste d'institutions de Canada.ca</a>.</p>
+<p>La page d’accueil des ministères et organismes comprend une liste alphabétique des institutions, comme indiqué dans la <a href="/specifications/utilisation-concept-canadaca/liste-des-institutions.html"> liste d'institutions de Canada.ca</a>.</p>
 <p>La page doit comprendre une boîte de recherche à filtre de mots clés en haut de la page.</p>
 <p>La page des ministères et organismes comprend&nbsp;:</p>
 <ul>
@@ -100,7 +100,7 @@ title: "Page des ministères et organismes - Modèle obligatoire de Canada.ca"
               <details class="mrgn-bttm-sm">
                 <summary class="wb-toggle" data-toggle='{"print":"on"}'><strong>Contenu</strong></summary>
                 <ul>
-                  <li>Le nom d’affichage de l’institution est utilisé, comme indiqué dans la <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/liste-institutions.html">liste d'institutions de Canada.ca</a>.</li>
+                  <li>Le nom d’affichage de l’institution est utilisé, comme indiqué dans la <a href="/specifications/utilisation-concept-canadaca/liste-des-institutions.html">liste d'institutions de Canada.ca</a>.</li>
                   <li>Des acronymes sont fournis de façon adjacente au nom d’affichage.</li>
                 </ul>
               </details>

@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/survey/access-results.html
 date: null
-dateModified: 2023-05-27
+dateModified: 2026-07-08
 description: null
 title: Comment accéder aux résultats et aux rapports du sondage
 ---
@@ -10,7 +10,8 @@ title: Comment accéder aux résultats et aux rapports du sondage
   <div class="row">
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="acceder-resultats.html">Résultats et aux rapports du sondage</a></li>
-			<li class="col-md-4 col-sm-6"><a class="list-group-item" href="commentaires.html">Comment analyser les commentaires</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="commentaires.html">Méthodes d’analyse</a></li>
+      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyse-ai.html">Analyse assistée par l’IA</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="partager.html">Partager les idées</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qui doit être amélioré</a></li>
     </ul>

@@ -1,8 +1,8 @@
 ---
 altLangPage: https://design.canada.ca/specifications/mandatory-elements/domains-urls.html
-date: null
-dateModified: '2024-08-23'
-description: null
+date: 2024-08-23
+dateModified: 2026-06-12
+description: Le domaine Canada.ca est le domaine principal pour la présence Web publique du gouvernement du Canada
 title: Domaines et adresses URL du gouvernement du Canada
 section-title: "Conception de Canada.ca"
 breadcrumbs: [{
@@ -53,7 +53,7 @@ breadcrumbs: [{
 </ul>
 <p>Les noms de domaines et de sous-domaines doivent tous être approuvés par Service Canada, et leur résolution doit être possible sans le préfixe «&nbsp;www.&nbsp;».</p>
 <h3 id="du1a">Quoi éviter</h3>
-<p>Il ne faut pas utiliser le domaine Canada.ca pour les sites collaboratifs où le gouvernement du Canada n’est pas le partenaire principal. Ce type de site comprend les sites Web réalisés conjointement avec des partenaires autres que le GC, par exemple d’autres ordres de gouvernement ou des organismes non gouvernementaux, et pour lesquels le GC n’est pas l’organisation responsable.</p> 
+<p>Il ne faut pas utiliser le domaine Canada.ca pour les sites collaboratifs où le gouvernement du Canada n’est pas le partenaire principal. Ce type de site comprend les sites Web réalisés conjointement avec des partenaires autres que le GC, par exemple d’autres ordres de gouvernement ou des organismes non gouvernementaux, et pour lesquels le GC n’est pas l’organisation responsable.</p>
 <h3 id="du1b">Sous-domaines</h3>
 <p>Un sous-domaine est une subdivision du domaine principal. Il permet d’organiser des sections distinctes au sein du site Web principal. Par exemple, <b>conception.canada.ca</b> est un sous-domaine de canada.ca.</p>
 <p>Limitez l’utilisation de sous-domaines uniquement aux contenus et services hébergés en dehors du Service Web géré.</p>
@@ -96,7 +96,11 @@ breadcrumbs: [{
     <li>Évitez les mots superflus comme « à », « de », « le », « un », « par », « pour », etc. Par exemple, écrivez «&nbsp;/demande-pret-etudiant&nbsp;» et non «&nbsp;/comment-faire-une-demande-de-pret-etudiant&nbsp;».</li>
     <li>Utilisez des minuscules.</li>
     <li>Utilisez des mots-clés unilingues, dans la langue de la page.</li>
-    <li>Utilisez uniquement des caractères US-ASCII (une version ASCII à 7 bits). Par exemple, utilisez «&nbsp;meteo&nbsp;» et non «&nbsp;météo&nbsp;».</li>
+    <li>Utilisez uniquement des caractères US-ASCII (une version ASCII à 7 bits). Par exemple, utilisez «&nbsp;meteo&nbsp;» et non «&nbsp;météo&nbsp;».
+      <ul>
+        <li>Exception&nbsp;: les signes diacritiques (lettres accentuées) sont autorisés dans les URL personnalisées</li>
+      </ul>
+    </li>
     <li>Évitez les répétitions de mots-clés et les apostrophes.</li>
     <li>Évitez les acronymes et les abréviations, sauf s’ils sont mieux compris que la version écrite au long ou qu’ils génèrent de meilleurs résultats sur les moteurs de recherche.</li>
 </ul>

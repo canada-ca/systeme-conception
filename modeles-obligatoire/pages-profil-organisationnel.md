@@ -87,7 +87,7 @@ title: "Pages de profil organisationnel - Modèle obligatoire de Canada.ca"
   </p>
   <p>
    Consultez la
-   <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/liste-institutions.html">
+   <a href="/specifications/utilisation-concept-canadaca/liste-des-institutions.html">
     liste des institutions de Canada.ca
    </a>
    pour confirmer le profil à appliquer.
