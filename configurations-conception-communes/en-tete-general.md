@@ -23,7 +23,7 @@ title: "En-tête général"
     <li>permet de naviguer dans le large éventail de services et de renseignements proposés.</li>
   </ul>
   <div class="pattern-demo mrgn-tp-lg">
-    <figure class="mrgn-bttm-sm"><img src="../images/01-signin-button-lg-fr.png" class="img-responsive" alt=""></figure>
+    <figure class="mrgn-bttm-sm"><img src="../images/01-signin-button-lg-fr.png" class="img-responsive" alt="Capture d’écran de l’en-tête général de Canada.ca."></figure>
   </div>
   <section>
     <h2>Sur cette page</h2>
