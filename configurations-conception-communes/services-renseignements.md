@@ -96,10 +96,17 @@ title: Services et renseignements
         <li>L’ordre des tabulations est de gauche à droite, puis de haut en bas.</li>
       </ul>
     </li>
+    <li>L’en-tête de section&nbsp;:
+        <ul>
+            <li>Couleur&nbsp;: <a href="/styles/couleurs.html">Couleurs standard</a> pour le texte</li>
+            <li>Taille de la police&nbsp;: 29&nbsp;px (ordinateur de bureau et mobile)</li>
+            <li>Famille de police&nbsp;: Lato Sans</li>
+        </ul>
+    </li>
     <li>Titres&nbsp;:
         <ul>
             <li>Couleur&nbsp;: <a href="/styles/couleurs.html">Couleurs standard</a> pour les liens</li>
-            <li>Taille de la police&nbsp;: 24&nbsp;px (H3 stylisé en taille H5)</li>
+            <li>Taille de la police&nbsp;: 20&nbsp;px (ordinateur de bureau et mobile)</li>
             <li>Famille de police&nbsp;: Lato Sans</li>
         </ul>
     </li>
