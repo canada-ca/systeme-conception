@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/specifications/latest-changes.html"
 date: 2020-10-30
-dateModified: 2026-08-26
+dateModified: 2026-09-01
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -11,7 +11,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 </div>
 <div id="expand-collapse">
   <details open="open">
-    <summary><time datetime="2026-08-26">26 août 2026</time></summary>
+    <summary><time datetime="2026-09-01">1er septembre 2026</time></summary>
     <p>Mise à jour des <a href="{{ '/configurations-conception-communes/bloc-medias-sociaux.html' | absolute_url }}">recommandations relatives aux chaînes de médias sociaux</a> afin de préciser que le nombre de 5 icônes constitue une bonne pratique plutôt qu’une limite maximale.</p>
   </details>
   <details>
