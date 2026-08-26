@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/common-design-patterns/social-media-channels.html
 date: "2018-12-19"
-dateModified: "2026-01-30"
+dateModified: "2026-08-26"
 description: "La configuration de conception des chaînes de médias sociaux fournit des liens vers les comptes de médias sociaux officiels du gouvernement du Canada sur diverses plateformes de médias sociaux."
 title: "Chaînes de médias sociaux"
 ---
@@ -42,7 +42,7 @@ title: "Chaînes de médias sociaux"
   <p>Les comptes mentionnés dans la configuration de conception doivent être entièrement conformes à la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30682">Directive sur la gestion des communications.</a></p>
   <p>Vous pouvez utiliser les icônes d’autres médias sociaux que celles qui sont fournies dans cet exemple, en autant qu’ils représentent des comptes de médias sociaux officiels du GC.</p>
   <p>L’ordre des icônes des médias sociaux n’est pas imposé. Vous pouvez les placer dans l’ordre qui convient le mieux au contexte.</p>
-  <p>Afficher un maximum de cinq (5) icônes alignées dans une colonne verticale ou une rangée horizontale&nbsp;:</p>
+  <p>Il est recommandé d’utiliser au maximum 5 icônes. Affichez les icônes alignées en colonne verticale ou en ligne horizontale&nbsp;:</p>
   <ul>
     <li>L’affichage vertical comprend une étiquette à côté de chaque icône.</li>
     <li>L’affichage horizontal ne comprend que les icônes.</li>
@@ -286,6 +286,8 @@ title: "Chaînes de médias sociaux"
 <section id="changements">
   <h2>Derniers changements</h2>
   <dl class="dl-horizontal">
+   <dt><time>2026-08-26</time></dt>
+    <dd>Les recommandations ont été mises à jour afin de préciser que le nombre de 5 icônes est une bonne pratique recommandée, et non une limite maximale.</dd>
    <dt><time>2026-01-30</time></dt>
     <dd> L’orientation qui précise que d’autres icônes de médias sociaux peuvent être utilisées et qu’elles peuvent être placées dans un autre ordre a été mise à jour.</dd>
     <dt><time>2025-05-15</time></dt>
@@ -296,9 +298,3 @@ title: "Chaînes de médias sociaux"
     <dd>Mise à jour de l’orientation pour y inclure les spécifications de contenu et de conception, des exemples visuels et une orientation sur la mise en œuvre.</dd>
   </dl>
 </section>
-
-
-
-
-
-
