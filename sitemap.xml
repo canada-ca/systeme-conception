@@ -179,12 +179,12 @@
     <lastmod>2026-02-12</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/specifications/concevoir-contenu.html</loc>
-    <lastmod>2024-08-26</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/amelioration-continue/concevoir-contenu.html</loc>
     <lastmod>2021-07-25</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/specifications/concevoir-contenu.html</loc>
+    <lastmod>2024-08-26</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/concevoir-contenu.html</loc>
@@ -227,11 +227,11 @@
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/specifications/derniers-changements.html</loc>
-    <lastmod>2026-09-01</lastmod>
+    <loc>https://conception.canada.ca/a-propos/derniers-changements.html</loc>
   </url>
   <url>
-    <loc>https://conception.canada.ca/a-propos/derniers-changements.html</loc>
+    <loc>https://conception.canada.ca/specifications/derniers-changements.html</loc>
+    <lastmod>2026-09-01</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/configurations-conception-communes/diagrammes-graphiques.html</loc>
