@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/specifications/latest-changes.html"
 date: 2020-10-30
-dateModified: 2026-09-01
+dateModified: 2026-09-15
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -10,9 +10,25 @@ title: "Derniers changements apportés à la conception de Canada.ca"
   <button type="button" class="btn btn-default wb-toggle" data-toggle="{&quot;selector&quot;: &quot;details&quot;, &quot;parent&quot;: &quot;#expand-collapse&quot;, &quot;type&quot;: &quot;off&quot;}">Réduire tout</button>
 </div>
 <div id="expand-collapse">
-  <details open="open">
+  <details open>
     <summary><time datetime="2026-09-01">1er septembre 2026</time></summary>
     <p>Mise à jour des <a href="{{ '/configurations-conception-communes/bloc-medias-sociaux.html' | absolute_url }}">recommandations relatives aux chaînes de médias sociaux</a> afin de préciser que le nombre de 5 icônes constitue une bonne pratique plutôt qu’une limite maximale.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-07-07">7 juillet 2026</time></summary>
+    <p>Stabilisation et mise en ligne de la <a href="{{ '/modeles-obligatoire/theme.html' | absolute_url }}">page de thème stratifiée</a>.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-06-15">15 juin 2026</time></summary>
+    <p>Mise à jour du <a href="{{ '/modeles-recommandes/pages-comptes-rendu-rendement-services-institutionnels.html' | absolute_url }}">modèle de page de compte rendu du rendement des services institutionnels</a> afin de supprimer les références au modèle de signature institutionnelle, qui est en cours de suppression.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-06-12">12 juin 2026</time></summary>
+    <p>Mise à jour des <a href="{{ '/specifications/elements-obligatoires/domaines-url.html' | absolute_url }}">directives relatives aux domaines et adresses URL du gouvernement du Canada</a> afin de préciser que les adresses URL en français peuvent désormais inclure des caractères accentués et diacritiques, le cas échéant.</p>
+  </details>
+  <details>
+    <summary><time datetime="2026-06-05">5 juin 2026</time></summary>
+    <p>Suppression du widget «&nbsp;Partager cette page&nbsp;», qui n’est plus pris en charge.</p>
   </details>
   <details>
     <summary><time datetime="2026-02-19">19 février 2026</time></summary>
