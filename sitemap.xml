@@ -63,12 +63,12 @@
     <lastmod>2019-04-01</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/crise/alertes.html</loc>
-    <lastmod>2025-05-19</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/alertes/alertes.html</loc>
     <lastmod>2020-03-13</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/crise/alertes.html</loc>
+    <lastmod>2025-05-19</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/amelioration-continue.html</loc>
@@ -79,11 +79,11 @@
     <lastmod>2023-02-28</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/sondage/analyse-ai.html</loc>
+    <loc>https://conception.canada.ca/retroaction/analyse-ai.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/retroaction/analyse-ai.html</loc>
+    <loc>https://conception.canada.ca/sondage/analyse-ai.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
@@ -219,19 +219,19 @@
     <lastmod>2025-03-27</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/sondage/decider.html</loc>
-    <lastmod>2026-07-08</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/retroaction/decider.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/a-propos/derniers-changements.html</loc>
+    <loc>https://conception.canada.ca/sondage/decider.html</loc>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/specifications/derniers-changements.html</loc>
     <lastmod>2026-09-15</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/a-propos/derniers-changements.html</loc>
   </url>
   <url>
     <loc>https://conception.canada.ca/configurations-conception-communes/diagrammes-graphiques.html</loc>
@@ -665,12 +665,12 @@
     <lastmod>2025-03-28</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/sondage/soutien.html</loc>
-    <lastmod>2023-04-05</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/retroaction/soutien.html</loc>
     <lastmod>2023-02-28</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/sondage/soutien.html</loc>
+    <lastmod>2023-04-05</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/specifications.html</loc>
@@ -693,7 +693,7 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/taches-principales-pour-canada-ca.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-09-15</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/mise-en-page/theme-sujet_directives.html</loc>
