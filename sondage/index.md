@@ -49,11 +49,19 @@ title: Sondage sur la réussite des tâches du gouvernement du Canada
                 </section>
             </div>
             <div class="col-md-4">
-                <section>
-                    <h3 class="h5"><a href="commentaires.html">Comment analyser les commentaires</a></h3>
-                    <p>Méthodes d’analyse des textes ouverts</p>
-                </section>
+              <section>
+                <h3><a href="commentaires.html">Méthodes d’analyse de la rétroaction</a></h3>
+                <p>Approches générales pour examiner et interpréter la rétroaction des utilisateurs</p>
+              </section>
             </div>
+
+            <div class="col-md-4">
+              <section>
+                <h3><a href="analyse-ai.html">Analyse de la rétroaction assistée par l’IA</a></h3>
+                <p>Invites réutilisables et conseils pour analyser la rétroaction à l’aide d’outils d’IA approuvés</p>
+              </section>
+            </div>
+
             <div class="col-md-4">
                 <section>
                     <h3 class="h5"><a href="partager.html">Partager les résultats du sondage</a></h3>

@@ -20,7 +20,7 @@ title: Analyse de la rétroaction assistée par l’IA
 </div>
 
 
-Des invites réutilisables et des conseils pour analyser les commentaires issus de l’outil de rétroaction du GC et du Sondage sur la réussite des tâches à l’aide d’outils d’IA approuvés, comme Microsoft Copilot.
+Des invites réutilisables et des conseils pour analyser les commentaires issus de l’outil de rétroaction du GC et du Sondage sur la réussite des tâches à l’aide d’outils d’IA approuvés.
 
 ## Sur cette page
 
@@ -43,9 +43,8 @@ Les outils d’IA peuvent aider à repérer des tendances, à résumer des comme
 - Protéger les renseignements sensibles
 - Veiller à ce que les constatations soient appropriées avant de les communiquer
 
-> **Important**
->
-> Utilisez les outils d’IA comme soutien à l’analyse, et non comme décideurs faisant autorité.
+**Important**
+Utilisez les outils d’IA comme soutien à l’analyse, et non comme décideurs faisant autorité.
 
 ---
 
@@ -54,17 +53,9 @@ Les outils d’IA peuvent aider à repérer des tendances, à résumer des comme
 Avant d’utiliser des outils d’IA :
 
 - N’incluez pas de renseignements opérationnels protégés, classifiés ou sensibles
-- Retirez les renseignements personnels des commentaires lorsque possible
+- Retirez les renseignements personnels des commentaires (noms, numéros de téléphone, adresses courriel, numéros de dossier, identifiants de compte)
 - Suivez les directives de votre ministère sur l’utilisation d’outils d’IA approuvés
-- Utilisez uniquement des environnements du GC approuvés, comme Microsoft Copilot
-
-### Exemples de renseignements personnels
-
-- Noms
-- Numéros de téléphone
-- Adresses courriel
-- Numéros de dossier
-- Identifiants de compte
+- Utilisez uniquement des environnements du GC approuvés
 
 ---
 
@@ -83,8 +74,7 @@ Période : avril 2026
 Le contexte utile peut comprendre :
 
 - Domaine de service
-- Titre de la page
-- URL de la page
+- Titre ou URL de la page
 - Période
 
 ### Utiliser des invites structurées
@@ -114,13 +104,13 @@ Lorsque vous communiquez des constatations issues d’une analyse assistée par 
 - Incluez la taille des échantillons, s’il y a lieu
 - Maintenez la responsabilité humaine à l’égard des conclusions
 
-> L’analyse a été réalisée avec l’aide de Microsoft Copilot. Les constatations ont été examinées et validées par un analyste humain.
+> L’analyse a été réalisée avec l’aide d'AI. Les constatations ont été examinées et validées par un analyste humain.
 
 ---
 
 ## Invites réutilisables
 
-L’invite ci-dessous est conçue pour être utilisée avec des outils d’IA approuvés, comme Microsoft Copilot.
+L’invite ci-dessous est conçue pour être utilisée avec des outils d’IA approuvés.
 
 ### Analyse des thèmes de la rétroaction
 
@@ -134,38 +124,10 @@ Repérer les difficultés des utilisateurs et regrouper les commentaires en thè
 - Réponses à des questions ouvertes dans un sondage
 - Problèmes d’utilisabilité récurrents
 
-#### Utilisation prévue
-
-Utilisez cette invite pour :
-
-- Comprendre les principales difficultés des utilisateurs
-- Produire un rapport sommaire sur la rétroaction
-- Examiner des ensembles de données de rétroaction de petite ou moyenne taille
-- Relever les tâches courantes des utilisateurs et les obstacles rencontrés
-- Appuyer les examens de contenu, de service ou d’expérience utilisateur
-
-N’utilisez PAS cette invite pour :
-
-- L’analyse des causes profondes
-- L’analyse des tendances au fil du temps
-- La comparaison de plusieurs ensembles de données
-- Les décisions d’établissement des priorités
-- La mesure de la gravité des problèmes
-- Les rapports sur le rendement
-- La prise de décisions stratégiques ou opérationnelles sans analyse supplémentaire
 
 #### Données requises
 
-Fournissez :
-
 - Une liste ou un ensemble de données de commentaires d’utilisateurs
-
-Contexte facultatif :
-
-- Domaine de programme ou de service
-- Page ou parcours utilisateur
-- Période
-- Attentes linguistiques
 
 #### Résultats attendus
 
@@ -192,7 +154,6 @@ Titre : Synthèse de la rétroaction et analyse des thèmes
 Responsable : Bureau de l’expérience de Canada.ca
 ID de l’invite : FB-SUM-001
 Version : 1.3
-Plateforme approuvée : Microsoft Copilot
 Niveau de sensibilité : Non classifié
 Examen humain requis : Oui
 Dernière mise à jour : 2026-07-08
@@ -252,6 +213,29 @@ Si cette condition ne peut pas être respectée, indiquez clairement le problèm
 - Si aucun regroupement clair n’est possible, attribuez-le à « Autres / Non classés »
 
 N’interprétez pas trop l’intention.
+
+# Gestion de la langue
+
+Déterminez la langue de sortie de ce rapport en fonction de la langue dans laquelle le demandeur soumet ses instructions, et non de la langue des commentaires analysés.
+
+## Détermination de la langue de sortie
+
+- Si la demande est soumise en anglais, produisez l'ensemble du rapport en anglais.
+- Si la demande est soumise en français, produisez l'ensemble du rapport en français.
+- Cette règle s'applique à tous les noms de thèmes, aux étiquettes des tableaux, aux en-têtes, au résumé de l'ensemble de données et à tout le texte descriptif.
+- Si la langue de la demande est ambiguë ou mixte, utilisez l'anglais par défaut et indiquez cette hypothèse dans le rapport.
+
+## Éléments de preuve (commentaires)
+
+- Les commentaires cités doivent toujours être reproduits textuellement, exactement tels qu'ils ont été rédigés, dans leur langue d'origine, quelle que soit la langue de sortie du rapport.
+- Ne traduisez pas les commentaires lorsqu'ils sont présentés comme éléments de preuve.
+- Il est normal que la langue d'origine d'un commentaire soit différente de celle du rapport; aucune note ni explication n'est requise.
+
+## Exigence de cohérence
+
+- Ne mélangez pas les langues dans une même section du rapport, à l'exception des commentaires cités textuellement, qui doivent toujours demeurer dans leur langue d'origine.
+- Les noms des thèmes, les en-têtes et le texte descriptif doivent être cohérents et rédigés uniformément dans la langue de sortie déterminée, et ce, dans l'ensemble du rapport.
+
 
 ---
 
@@ -351,14 +335,15 @@ Si la validation ne peut pas être effectuée :
 
 Suivez ce processus dans l’ordre :
 
-1. Examinez tous les commentaires
-2. Relevez les tâches des utilisateurs et les problèmes connexes
-3. Regroupez les commentaires en thèmes
-4. Attribuez chaque commentaire une seule fois
-5. Comptez les commentaires par thème
-6. Sélectionnez des commentaires représentatifs
-7. Validez les totaux
-8. Produisez le résultat final
+1. Déterminez la langue de sortie en fonction de la langue de la demande\
+2. Examiner tous les commentaires  
+3. Identifier les tâches et les problèmes  
+4. Regrouper les commentaires en thèmes  
+5. Attribuer chaque commentaire une seule fois  
+6. Compter les commentaires par thème  
+7. Sélectionner les commentaires représentatifs  
+8. Valider les totaux  
+9. Produire les résultats  
 
 ---
 
@@ -372,6 +357,7 @@ Produisez les résultats dans cet ordre exact :
 4. Degré de confiance de l’analyse
 
 N’ajoutez aucune autre section.
+Produisez toutes les sections dans la langue de sortie déterminée conformément à la section **Gestion de la langue**.
 
 ---
 
