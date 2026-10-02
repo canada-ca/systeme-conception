@@ -3,23 +3,17 @@ altLangPage: "https://design.canada.ca/top-tasks-for-canada-ca.html"
 breadcrumbs:
   -  title: "À propos de Canada.ca"
      link: "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
-  -  title: "Conception"
-     link: "https://conception.canada.ca/"
-  -  title: "Spécifications"
-     link: "https://conception.canada.ca/specifications.html"
+
 date: 2020-10-30
-dateModified: 2026-09-15
+dateModified: 2026-10-02
 description: "L'inventaire des tâches principales de Canada.ca comprend les 50 tâches les plus demandées dans l'ensemble du gouvernement du Canada."
 layout: default
 title: "Tâches principales pour Canada.ca"
 ---
-<p>Les gens utilisent nos voies numériques pour accomplir des choses bien précises. Ce répertoire dresse la liste des 50 tâches les plus fréquemment exécutées au gouvernement du Canada – nous travaillons en vue d'améliorer l'information et les services à l'appui de ces tâches, afin que les gens puissent les repérer et les exécuter plus facilement. </p>
-<p>Pour obtenir de l'information au sujet de la création de ce répertoire, consultez&nbsp;:</p>
-<ul>
-<li><a href="https://blogue.canada.ca/2023/03/22/les-taches-principales.html">Notre approche pour identifier les principales tâches de Canada.ca</a></li>
-</ul>
-<h2>Inventaire des 50 tâches principales du Gouvernement du Canada</h2>
-<p><strong>Source des données</strong>&nbsp;: 1&nbsp;avril&nbsp;2025 - 31&nbsp;mars&nbsp;2026</p>
+<p>Les utilisateurs se rendent sur nos canaux numériques pour accomplir des tâches précises. Cet inventaire recense les 50 tâches les plus demandées et permet de concentrer les améliorations sur les renseignements et les services les plus utilisés, afin de faciliter la recherche de l’information dont ils ont besoin et de leur permettre de mener à bien leurs tâches.</p>
+
+<h2>Liste des 50 tâches principales</h2>
+<p><strong>Période</strong>&nbsp;: 1&nbsp;avril&nbsp;2025 - 31&nbsp;mars&nbsp;2026</p>
 <table class="wb-tables table table-striped" data-wb-tables="{ &quot;paging&quot;: false }">
   <caption><strong>Source des données :</strong> 1 avril 2025 - 31 mars 2026</caption>
 	<thead>
