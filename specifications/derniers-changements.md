@@ -1,7 +1,7 @@
 ---
 altLangPage: "https://design.canada.ca/specifications/latest-changes.html"
 date: 2020-10-30
-dateModified: 2026-09-15
+dateModified: 2026-09-29
 description: "Derniers changements apportés à la conception de Canada.ca."
 title: "Derniers changements apportés à la conception de Canada.ca"
 ---
@@ -11,6 +11,10 @@ title: "Derniers changements apportés à la conception de Canada.ca"
 </div>
 <div id="expand-collapse">
   <details open>
+    <summary><time datetime="2026-09-29">29 septembre 2026</time></summary>
+    <p>Mise à jour des <a href="{{ '/styles/typographie.html' | absolute_url }}">directives sur le style de typographie</a> pour préciser les différences entre la typographie de base de Canada.ca et celle utilisée pour les pages de navigation et les éléments constitutifs.</p>
+  </details>
+  <details>
     <summary><time datetime="2026-09-01">1er septembre 2026</time></summary>
     <p>Mise à jour des <a href="{{ '/configurations-conception-communes/bloc-medias-sociaux.html' | absolute_url }}">recommandations relatives aux chaînes de médias sociaux</a> afin de préciser que le nombre de 5 icônes constitue une bonne pratique plutôt qu’une limite maximale.</p>
   </details>
