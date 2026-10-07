@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/survey/prioritize.html
 date: null
-dateModified: 2026-07-08
+dateModified: 2026-07-10
 description: null
 title: Décider de ce qui doit être amélioré
 ---
