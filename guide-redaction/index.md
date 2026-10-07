@@ -112,7 +112,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Les gens qui tentent d'accomplir une tâche sur le Web ne lisent pas chaque mot. Ils survolent rapidement le texte pour trouver les termes et les liens associés à la tâche qu'ils veulent accomplir.</p>
     <p class="mrgn-tp-lg">Le contenu Web du gouvernement du Canada doit être&nbsp;:</p>
     <ul>
-      <li><strong>intuitif</strong>&nbsp;:<strong>&nbsp;</strong>fournissez aux personnes qui ne connaissent pas le sujet ou le processus juste assez d'information pour qu'elles puissent effectuer une tâche par elles-mêmes;</li>
+      <li><strong>intuitif</strong>&nbsp;: fournissez aux personnes qui ne connaissent pas le sujet ou le processus juste assez d'information pour qu'elles puissent effectuer une tâche par elles-mêmes;</li>
       <li><strong>complet</strong>&nbsp;: donnez des renseignements utiles aux spécialistes qui ont une connaissance plus poussée du sujet ou du processus;</li>
       <li><strong>ciblé</strong>&nbsp;: présentez les renseignements les plus importants d'abord, adaptés aux besoins du public cible, au lieu de fournir toutes les options et de laisser les gens déterminer lesquelles s'appliquent à eux;</li>
       <li><strong>cohérent</strong>&nbsp;: présentez l'information de manière uniforme afin de permettre aux gens d'explorer le contenu rapidement, facilement et avec confiance.</li>
@@ -1614,15 +1614,15 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </thead>
         <tbody>
           <tr>
-            <td>Canadiens de Montréal</td>
+            <th scope="row">Canadiens de Montréal</th>
             <td class="text-right">22</td>
           </tr>
           <tr>
-            <td>Maple Leafs de Toronto</td>
+            <th scope="row">Maple Leafs de Toronto</th>
             <td class="text-right">11</td>
           </tr>
           <tr>
-            <td>Sénateurs d'Ottawa</td>
+            <th scope="row">Sénateurs d'Ottawa</th>
             <td class="text-right">1</td>
           </tr>
         </tbody>
@@ -1639,11 +1639,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </thead>
         <tbody>
           <tr>
-            <td>Oilers d'Edmonton</td>
+            <th scope="row">Oilers d'Edmonton</th>
             <td class="text-right">5</td>
           </tr>
           <tr>
-            <td>Flames de Calgary</td>
+            <th scope="row">Flames de Calgary</th>
             <td class="text-right">1</td>
           </tr>
         </tbody>
@@ -1766,102 +1766,102 @@ title: "Guide de rédaction du contenu du site Canada.ca"
               <th scope="col">Température </th>
             </tr>
             <tr>
-              <td>Calgary </td>
+              <th scope="row">Calgary </th>
               <td>Généralement ensoleillé </td>
               <td class="text-right">12°C </td>
             </tr>
             <tr>
-              <td>Charlottetown </td>
+              <th scope="row">Charlottetown </th>
               <td>Généralement ensoleillé </td>
               <td class="text-right">-8°C </td>
             </tr>
             <tr>
-              <td>Edmonton </td>
+              <th scope="row">Edmonton </th>
               <td>(sans objet) </td>
               <td class="text-right">1°C </td>
             </tr>
             <tr>
-              <td>Fredericton </td>
+              <th scope="row">Fredericton </th>
               <td>Ensoleillé </td>
               <td class="text-right">-9°C </td>
             </tr>
             <tr>
-              <td>Halifax </td>
+              <th scope="row">Halifax </th>
               <td>Généralement ensoleillé </td>
               <td class="text-right">-6°C </td>
             </tr>
             <tr>
-              <td>Iqaluit </td>
+              <th scope="row">Iqaluit </th>
               <td>Poudrerie basse </td>
               <td class="text-right">-22°C </td>
             </tr>
             <tr>
-              <td>Montréal </td>
+              <th scope="row">Montréal </th>
               <td>Ensoleillé </td>
               <td class="text-right">-13°C </td>
             </tr>
             <tr>
-              <td>Ottawa </td>
+              <th scope="row">Ottawa </th>
               <td>Généralement ensoleillé </td>
               <td class="text-right">-12°C </td>
             </tr>
             <tr>
-              <td>Prince George </td>
+              <th scope="row">Prince George </th>
               <td>Généralement nuageux </td>
               <td class="text-right">3°C </td>
             </tr>
             <tr>
-              <td>Québec </td>
+              <th scope="row">Québec </th>
               <td>Partiellement nuageux </td>
               <td class="text-right">-16°C </td>
             </tr>
             <tr>
-              <td>Regina </td>
+              <th scope="row">Regina </th>
               <td>Nuageux </td>
               <td class="text-right">0°C </td>
             </tr>
             <tr>
-              <td>Saskatoon </td>
+              <th scope="row">Saskatoon </th>
               <td>Généralement nuageux </td>
               <td class="text-right">-5°C </td>
             </tr>
             <tr>
-              <td>St. John's </td>
+              <th scope="row">St. John's </th>
               <td>Nuageux </td>
               <td class="text-right">4°C </td>
             </tr>
             <tr>
-              <td>Thunder Bay </td>
+              <th scope="row">Thunder Bay </th>
               <td>Partiellement nuageux </td>
               <td class="text-right">-3°C </td>
             </tr>
             <tr>
-              <td>Toronto </td>
+              <th scope="row">Toronto </th>
               <td>Généralement nuageux </td>
               <td class="text-right">-4°C </td>
             </tr>
             <tr>
-              <td>Vancouver </td>
+              <th scope="row">Vancouver </th>
               <td>Pluie </td>
               <td class="text-right">9°C </td>
             </tr>
             <tr>
-              <td>Victoria </td>
+              <th scope="row">Victoria </th>
               <td>Généralement nuageux </td>
               <td class="text-right">10°C </td>
             </tr>
             <tr>
-              <td>Whitehorse </td>
+              <th scope="row">Whitehorse </th>
               <td>Partiellement nuageux </td>
               <td class="text-right">-14°C </td>
             </tr>
             <tr>
-              <td>Winnipeg </td>
+              <th scope="row">Winnipeg </th>
               <td>Ensoleillé </td>
               <td class="text-right">-11°C </td>
             </tr>
             <tr>
-              <td>Yellowknife </td>
+              <th scope="row">Yellowknife </th>
               <td>Partiellement nuageux </td>
               <td class="text-right">-22°C </td>
             </tr>
@@ -2063,6 +2063,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <th class="text-right" scope="col">2008</th>
           <th class="text-right" scope="col">2010</th>
         </tr>
+      </thead>
+      <tbody>
         <tr>
           <th scope="row">Hommes</th>
           <td class="text-right">58,2</td>
@@ -2083,14 +2085,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <td class="text-right">54,9</td>
           <td class="text-right">55,2</td>
         </tr>
+      </tbody>
+      <tfoot>
         <tr>
           <td class="small" colspan="8"><p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
               Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé sans solde.</p></td>
         </tr>
-      </thead>
-      <tbody>
-      </tbody>
-      <tfoot>
       </tfoot>
     </table>
   </figure>
