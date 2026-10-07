@@ -1454,7 +1454,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </caption>
         <thead>
           <tr class="active">
-            <th scope="col">Date</th>
+            <th scope="col">Date d’attribution du contrat</th>
             <th scope="col">Nom du fournisseur</th>
             <th scope="col">Description</th>
             <th scope="col">Valeur</th>
@@ -1506,7 +1506,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           </tr>
         </tfoot>
       </table>
-      <p class="mrgn-tp-lg">En examinant l'en-tête des colonnes &laquo;&nbsp;Date d'attribution du contrat&nbsp;&raquo;, &laquo;&nbsp;Nom du fournisseur&nbsp;&raquo; et &laquo;&nbsp;Valeur&nbsp;&raquo;, on comprend que le 23 février 2010, l'entreprise Service conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
+      <p class="mrgn-tp-lg">En examinant l’en-tête des colonnes &laquo;&nbsp;Date d’attribution du contrat&nbsp;&raquo;, &laquo;&nbsp;Nom du fournisseur&nbsp;&raquo; et &laquo;&nbsp;Valeur&nbsp;&raquo;, on comprend que le 23 février 2010, l’entreprise Service-conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
     </section>
     <section id="wp5-3-2">
       <h4>Utiliser la structure de tableau la plus simple possible</h4>
