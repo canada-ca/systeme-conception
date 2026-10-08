@@ -1409,12 +1409,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <strong>Exemple d'utilisation d'un tableau pour organiser des données<br>
       Comparaison des autorisations budgétaires nettes et des dépenses pour le crédit du 1er au 31 décembre, pour les exercices financiers 2011 à 2012 et 2012 à 2013 (en millions de dollars)</strong>
       </caption>
-      <tbody>
+      <thead>
         <tr class="active">
           <th scope="col"><strong>Crédit 1</strong></th>
           <th class="text-right" scope="col"><strong>2011 à 2012</strong></th>
           <th class="text-right" scope="col"><strong>2012 à 2013</strong></th>
         </tr>
+      </thead>
+      <tbody>
         <tr>
           <th scope="row">Autorisations budgétaires nettes</th>
           <td class="text-right">287,4</td>
@@ -1759,12 +1761,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <summary>Figure 4 - Version textuelle </summary>
         <table class="table table-bordered table-condensed">
           <caption>Carte du Canada&nbsp;: conditions actuelles</caption>
-          <tbody>
+          <thead>
             <tr class="active">
               <th scope="col">Ville </th>
               <th scope="col">Condition </th>
               <th scope="col">Température </th>
             </tr>
+          </thead>
+          <tbody>
             <tr>
               <th scope="row">Calgary </th>
               <td>Généralement ensoleillé </td>
