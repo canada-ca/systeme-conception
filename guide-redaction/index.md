@@ -38,9 +38,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h2>Mises à jour récentes</h2>
   <p>Nous avons apporté les modifications suivantes à cette version du guide&nbsp;:</p>
   <ul class="mrgn-tp-lg">
-    <li>la sous-section <a href="{{ site.urldesign }}/style-guide/#wp4-1-1">Titles, headings and subheadings</a> de la version anglaise afin de préciser qu’il faut omettre la ponctuation à la fin des légendes et des en‑têtes de tableaux;</li>
+    <li>la sous-section <a lang="en" href="{{ site.urldesign }}/style-guide/#wp4-1-1">Titles, headings and subheadings</a> de la version anglaise afin de préciser qu’il faut omettre la ponctuation à la fin des légendes et des en‑têtes de tableaux;</li>
     <li>la section <a href="#wp4-6">4.6 Nombres</a>, pour préciser dans quels cas utiliser des mots ou des chiffres;</li>
-    <li>la sous-section <a href="{{ site.urldesign }}/style-guide/#wp4-1-5">Hyphens and dashes</a> de la version anglaise du guide, afin de permettre l’utilisation de tirets semi‑cadratin dans une plage d’années civiles ou d’exercices financiers en anglais;
+    <li>la sous-section <a lang="en" href="{{ site.urldesign }}/style-guide/#wp4-1-5">Hyphens and dashes</a> de la version anglaise du guide, afin de permettre l’utilisation de tirets semi‑cadratin dans une plage d’années civiles ou d’exercices financiers en anglais;
     <ul>
       <li>nous avons également ajouté une nouvelle sous-section correspondante pour les <a href="#wp4-1-4">traits d’union et les tirets</a> en français.</li>
     </ul>
@@ -112,9 +112,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Les gens qui tentent d'accomplir une tâche sur le Web ne lisent pas chaque mot. Ils survolent rapidement le texte pour trouver les termes et les liens associés à la tâche qu'ils veulent accomplir.</p>
     <p class="mrgn-tp-lg">Le contenu Web du gouvernement du Canada doit être&nbsp;:</p>
     <ul>
-      <li><strong>intuitif</strong>&nbsp;:<strong>&nbsp;</strong>fournissez aux personnes qui ne connaissent pas le sujet ou le processus juste assez d'information pour qu'elles puissent effectuer une tâche par elles-mêmes;</li>
-      <li><strong>complet</strong>&nbsp;: donnez<strong> </strong>des renseignements utiles aux spécialistes qui ont une connaissance plus poussée du sujet ou du processus;</li>
-      <li><strong>ciblé</strong>&nbsp;:<strong> </strong>présentez les renseignements les plus importants d'abord, adaptés aux besoins du public cible, au lieu de fournir toutes les options et de laisser les gens déterminer lesquelles s'appliquent à eux;</li>
+      <li><strong>intuitif</strong>&nbsp;: fournissez aux personnes qui ne connaissent pas le sujet ou le processus juste assez d'information pour qu'elles puissent effectuer une tâche par elles-mêmes;</li>
+      <li><strong>complet</strong>&nbsp;: donnez des renseignements utiles aux spécialistes qui ont une connaissance plus poussée du sujet ou du processus;</li>
+      <li><strong>ciblé</strong>&nbsp;: présentez les renseignements les plus importants d'abord, adaptés aux besoins du public cible, au lieu de fournir toutes les options et de laisser les gens déterminer lesquelles s'appliquent à eux;</li>
       <li><strong>cohérent</strong>&nbsp;: présentez l'information de manière uniforme afin de permettre aux gens d'explorer le contenu rapidement, facilement et avec confiance.</li>
     </ul>
   </section>
@@ -230,7 +230,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li><strong>trouver</strong> ce dont il a besoin;</li>
       <li><strong>comprendre</strong> ce qu’il trouve;</li>
-      <li><strong>utiliser </strong> les renseignements. <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Footnote </span>1</a></sup></li>
+      <li><strong>utiliser </strong> les renseignements. <sup id="fn1-0-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Note de bas de page </span>1</a></sup></li>
     </ul>
   <p>Rédiger en langage clair ne veut pas dire que vous devez laisser des informations essentielles de côté ou simplifier vos textes d’une façon extrême. Au contraire, une rédaction en langage clair rend les renseignements cruciaux plus accessibles et plus faciles à lire pour tous.</p>
   <p>Un langage clair bénéficie à tout le monde, y compris aux personnes qui gèrent les situations suivantes&nbsp;:</p>
@@ -289,7 +289,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <li>les acronymes.</li>
         </ul>
         <p>Ils peuvent également suggérer des formulations plus simples et vous donner une idée approximative de la complexité d’un texte. Par contre, évitez d’utiliser ces outils pour évaluer la lisibilité avec précision. Ils peuvent toutefois vous aider à justifier le raccourcissement ou la simplification d’un texte.</p>
-        <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
+        <h4>Voyez comment la règle 2.1 s’applique en anglais&nbsp;:</h4>
         <ul>
           <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-1">2.1 Getting started with plain language: writing for readability</a></span></li>
         </ul>
@@ -345,7 +345,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h5>Exemple d’énoncé direct</h5>
       <p><strong>Écrivez</strong>&nbsp;: Présentez votre passeport à l’agent des services frontaliers.<br>
         <strong>Au lieu de</strong>&nbsp;: Selon la loi canadienne, vous devez présenter votre passeport à l’agent qui vous accueille à l’aéroport.</p>
-    <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 2.2 s’applique en anglais&nbsp;:</h4>
       <ul>
         <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-2">2.2 Start with the most important information</a></span></li>
       </ul>
@@ -372,7 +372,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p><b>Écrivez</b>&nbsp;: Encéphalopathie spongiforme bovine (ESB), également connue sous le nom de maladie de la vache folle</p>
     <p><b>Au lieu de</b>&nbsp;: Encéphalopathie spongiforme bovine</p>
     <p>Remplacez les mots longs et compliqués par des mots plus courts et simples que la plupart des gens comprennent et utilisent tous les jours. En général, les mots simples ont deux syllabes ou moins. Ils sont plus faciles à lire en survolant le texte que les mots longs et complexes.</p>
-    <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 2.3 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-3">2.3 Use familiar words</a></span></li>
     </ul>
@@ -435,7 +435,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-remplacez-les-noms-par-des-verbes"><cite>Clés de la rédaction</cite>&nbsp;: Communication claire&nbsp;: remplacez les noms par des verbes
 </a></li>
     </ul>
-    <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
+    </section>
+    <h4>Voyez comment la règle 2.4 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-4">2.4 Write in the active and positive form</a></span></li>
     </ul>
@@ -478,9 +479,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <p>Certains de ces outils ne sont offerts qu’en anglais, et d’autres sont offerts en français si votre navigateur est configuré en français.</p>
     <p>Consultez vos données d’analyse Web pour savoir quels termes votre public utilise pour chercher du contenu connexe.</p>
-    <h4>Voir comment cette règle s’applique en anglais&nbsp;</h4>
+    <h4>Voyez comment la règle 2.5 s’applique en anglais&nbsp;</h4>
     <ul>
-      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-5">2.5 Avoid jargon, idioms and expressions</a></span></li>
+      <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-5">2.5 Avoid jargon and similar language</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
       <div class="wb-share btn btn-default" data-wb-share='{"custType": "  éviter le jargon et les expressions familières ou imagées", "title": "2.5 Éviter le jargon et les expressions familières ou imagées", "url": "https://conception.canada.ca/guide-redaction/#wp2-5", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
@@ -513,12 +514,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Exemple d’énoncé direct</h4>
       <p><strong>Écrivez</strong>&nbsp;: Vous avez jusqu’au 30 avril pour soumettre votre déclaration de revenus.<br>
           <strong>Au lieu de</strong>&nbsp;: La période de temps dont les contribuables disposent pour soumettre leurs déclarations de revenus se termine le 30 avril.</p>
-    <h4>Voir comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 2.6 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-6">2.6 Use short sentences and paragraphs</a></span></li>
     </ul>
     <div class="mrgn-tp-lg">
-      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  utiliser des phrases et paragraphes simples et concis", "title": "2.6 Utiliser des phrases et paragraphes simples et concis", "url": "https://conception.canada.ca/guide-redaction/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-5"}'></div>
+      <div class="wb-share btn btn-default" data-wb-share='{"custType": "  utiliser des phrases et paragraphes simples et concis", "title": "2.6 Utiliser des phrases et paragraphes simples et concis", "url": "https://conception.canada.ca/guide-redaction/#wp2-6", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-6"}'></div>
     </div>
   </section><section id="wp2-7">
     <h3>2.7 Expliquer les références aux lois</h3>
@@ -533,7 +534,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <ul>
           <li><a href="https://conception.canada.ca/guide-redaction/#wp4-4">Section 4.4 Abréviations, acronymes et référence</a></li>
           </ul>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 2.7 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-7">2.7 Explain references to legislation</a></span></li>
     </ul>
@@ -542,7 +543,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </div>
   </section>
   <section id="wp2-8">
-    <h3>2.8 Liens vers des ressources externes sur le langage clair&nbsp;:</h3>
+    <h3>2.8 Liens vers des ressources externes sur le langage clair</h3>
     <p>Les ressources suivantes présentent des renseignements fiables sur la rédaction en langage clair&nbsp;:</p>
     <ul>
       <li>Gouvernement du Québec&nbsp;:
@@ -580,14 +581,15 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-responsabilites-des-redacteurs-reviseurs-et-decideurs">responsabilités des rédacteurs, réviseurs et décideurs</a></li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/communication-claire-survol-du-processus-et-des-techniques">survol du processus et des techniques</a></li>
     </ul>
-    <h4>Voir comment cette section s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la section 2.8 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp2-8">2.8 Additional resources on plain language and clear communication</a></span></li>
     </ul>
      <div class="mrgn-tp-lg">
-    <div class="wb-share btn btn-default" data-wb-share='{"custType": "  liens vers des ressources externes sur le langage clair", "title": "2.8 2.8 Liens vers des ressources externes sur le langage clair", "url": "https://conception.canada.ca/guide-redaction/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
+    <div class="wb-share btn btn-default" data-wb-share='{"custType": "  liens vers des ressources externes sur le langage clair", "title": "2.8 Liens vers des ressources externes sur le langage clair", "url": "https://conception.canada.ca/guide-redaction/#wp2-8", "filter": ["email", "facebook", "linkedin", "twitter"], "pnlId": "wp2-8"}'></div>
   </div>
   </section>
+</section>
 <section id="toc7">
   <h2>3.0 Ton</h2>
     <p>Le contenu Web du gouvernement du Canada.ca doit emprunter un ton&nbsp;:</p>
@@ -654,7 +656,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Au lieu de</strong>&nbsp;: Comment dois-je renouveler mon passeport?</p>
       <h5>Exception</h5>
       <p>Vous pouvez utiliser &laquo;&nbsp;mon&nbsp;&raquo;, &laquo;&nbsp;ma&nbsp;&raquo;, &laquo;&nbsp;mes&nbsp;&raquo;&nbsp;dans le contenu, les titres de page et les liens lorsqu'il s'agit de <strong>noms&nbsp;propres </strong>(par exemple, Mon dossier Service Canada).</p>
-      <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+      <h4>Voyez comment la règle 3.1 s’applique en anglais&nbsp;:</h4>
       <ul>
         <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-1">3.1 Write directly to the person</a></span></li>
       </ul>
@@ -689,8 +691,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </ul>
     <p class="mrgn-tp-lg">Ne faites pas référence à votre site Web sur les pages de votre site.</p>
     <h4>Exemples d'énoncé qui omet la référence à Canada.ca sur le site Canada.ca</h4>
-    <p><span id="exmp1"><strong>Écrivez</strong>&nbsp;: <a href="#exmp1" aria-label="Exemple d'une référence efficace. Le texte complet simule l'hyperlien">Déterminez si vous êtes admissible</a>.</span><br>
-      <span id="exmp2"><strong>Au lieu de</strong>&nbsp;: Obtenez des <a href="#exmp2" aria-label="Exemple d'une référence inefficace. Le texte &laquo;&nbsp;renseignements relatifs à l'admissibilité sur le site Canada.ca&nbsp;&raquo; simule l'hyperlien">renseignements relatifs à l'admissibilité sur le site Canada.ca</a>.</span> </p>
+    <p><span id="exmp1"><strong>Écrivez</strong>&nbsp;: <a href="#exmp1">Déterminez si vous êtes admissible</a>.</span><br>
+      <span id="exmp2"><strong>Au lieu de</strong>&nbsp;: Obtenez des <a href="#exmp2">renseignements relatifs à l'admissibilité sur le site Canada.ca</a>.</span> </p>
     <section id="wp3-2-1">
       <h4>Désigner les tierces parties</h4>
       <p>Ne donnez pas de renseignements au nom d'une autre organisation. Ne reproduisez pas les renseignements fournis sur le site Web d'une autre organisation. Dirigez plutôt les gens vers son site Web pour obtenir ces renseignements.</p>
@@ -699,7 +701,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Écrivez</strong>&nbsp;: Si vous prévoyez <a href="https://www.cbp.gov/travel">vous rendre aux États-Unis ou transiter par les États-Unis</a>, (en anglais seulement), renseignez-vous sur les règles édictées par l'organisme U.S. Customs and Border Protection. <br>
         <strong>Au lieu de</strong>&nbsp;: Si vous prévoyez vous rendre aux États Unis, travailler, étudier, mener des activités commerciales, immigrer ou transiter par les États Unis, vous pourriez faire l'objet d'une inspection ou être tenus de soumettre des documents de voyage. Visitez le <a href="http://www.cbp.gov/travel"><span lang="en">site Web de U.S. Customs and Border Protection</span> (en anglais seulement)</a> pour des renseignements sur la U.S. Western Hemisphere Travel Initiative et les exigences pour entrer aux États Unis.</p>
     </section>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 3.2 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-2">3.2 Use "we" to refer to the Government of Canada</a></span></li>
     </ul>
@@ -722,7 +724,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h4>Exprimer une recommandation </h4>
       <p>Lorsque vous dites aux gens qu'une chose est permise sans être obligatoire, utilisez un vocabulaire qui dénote la permission ou la possibilité, tel que &laquo;&nbsp;pourriez&nbsp;&raquo; ou &laquo;&nbsp;pouvez&nbsp;&raquo;.</p>
     </section>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 3.3 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp3-3">3.3 Expressing an obligation or a recommendation</a></span></li>
     </ul>
@@ -832,10 +834,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h5>Exemples de listes à puces indépendantes</h5>
       <p><strong>En demande</strong></p>
       <ul>
-        <li><a href="#" onclick="return false" aria-label="Lien d'exemple à des fins de démonstration seulement">Financement pour votre nouvelle entreprise</a></li>
-        <li><a href="#" onclick="return false" aria-label="Lien d'exemple à des fins de démonstration seulement">Financement pour l'innovation</a></li>
-        <li><a href="#" onclick="return false" aria-label="Lien d'exemple à des fins de démonstration seulement">Trouvez un prêt pour votre entreprise</a></li>
-        <li><a href="#" onclick="return false" aria-label="Lien d'exemple à des fins de démonstration seulement">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
+        <li id="exmp-lst-1"><a href="#exmp-lst-1">Financement pour votre nouvelle entreprise</a></li>
+        <li id="exmp-lst-2"><a href="#exmp-lst-2">Financement pour l'innovation</a></li>
+        <li id="exmp-lst-3"><a href="#exmp-lst-3">Trouvez un prêt pour votre entreprise</a></li>
+        <li id="exmp-lst-4"><a href="#exmp-lst-4">Subvention canadienne pour l'emploi&nbsp;: employeurs</a></li>
       </ul>
       <p class="mrgn-tp-lg">Lorsque le sens des éléments d'une liste à puces dépend d'une phrase d'introduction, mettez la première lettre de chaque élément en minuscule, sauf s'il s'agit d'un nom propre.</p>
       <h5>Exemples d'une liste à puces dont le sens dépend d'une phrase d'introduction</h5>
@@ -857,7 +859,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <li>Simplifiez vos phrases plutôt que d’utiliser des <b>tirets cadratin</b>.</li>
       </ul>
     </section>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 4.1 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-1">4.1 Capitalization and punctuation</a></span></li>
     </ul>
@@ -893,7 +895,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/titres-de-lois-reglements-accords-chartes-decrets">titres de lois (règlements, accords, chartes, décrets, etc.)</a>.</li>
       <li><a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/noms-propres-italique#e">titres de lois et autres textes juridiques de l’article &laquo;&nbsp;noms propres (italique)&nbsp;&raquo;</a>.</li>
     </ul>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 4.2 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-2">4.2 Underlining, bold and italics</a></span></li>
     </ul>
@@ -916,7 +918,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <ul>
       <li>100 $ par mois.</li>
     </ul>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 4.3 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-3">4.3 Symbols</a></span></li>
     </ul>
@@ -965,7 +967,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li><a href="https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html">Formules épistolaires</a>&nbsp;: comment s’adresser à des personnes spécifiques de façon appropriée et respectueuse.</li>
       </ul>
     </section>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 4.4 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-4">4.4 Abbreviations and acronyms</a></span></li>
     </ul>
@@ -976,7 +978,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <section id="wp4-5">
     <h3>4.5 Forme contractée</h3>
     <p>Cette règle s’applique en anglais plutôt qu’en français. La forme contractée en français s’applique par défaut. En anglais, elle est facultative, mais elle est recommandée pour simplifier la lecture.</p>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 4.5 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-5">4.5 Contractions</a></span></li>
     </ul>
@@ -1042,7 +1044,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Il est courant de répéter le symbole dans une phrase où les chiffres sont séparés par une espace, mais ce n’est pas obligatoire (de 3 à 6 ml, entre 15 et 20 $, environ 45 à 50 %).</li>
     </ul>
   <p>Vous trouverez sur le Navigateur linguistique d’autres exemples de <a href="https://www.noslangues-ourlanguages.gc.ca/fr/navigateur-navigator?field_writing_tools=All&search_api_fulltext=%20&sort_by=views&f%5B0%5D=navigateur_navigator_french_themes%3A588&f%5B1%5D=navigateur_navigator_french_themes%3A593&f%5B2%5D=navigateur_navigator_language%3A210%23navigateur-navigator-resultats-results#navigateur-navigator-resultats-results">règles d’écriture relatives aux nombres</a>.</p>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 4.6 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-6">4.6 Numbers</a></span></li>
     </ul>
@@ -1080,7 +1082,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <ul>
           <li>Ce rapport couvre l'exercice 2015 à 2016. Un exercice financier s'étend du 1er avril au 31 mars.</li>
         </ul>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 4.7 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-7">4.7 Dates</a></span></li>
     </ul>
@@ -1094,7 +1096,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>16 h 30</li>
       <li>De 9 h à 17 h</li>
     </ul>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 4.8 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-8">4.8 Times</a></span></li>
     </ul>
@@ -1110,7 +1112,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Vous pouvez nous joindre au 819-123-4567.</li>
       <li>613-999-9900 poste 123</li>
     </ul>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 4.9 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-9">4.9 Phone numbers</a></span></li>
     </ul>
@@ -1152,7 +1154,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p><strong>Au lieu de</strong>&nbsp;: <a href="mailto:abcxyz@canada.ca">Contactez-nous par courriel</a> pour soumettre votre demande.</p>
     </section>
   </section>
-  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+  <h4>Voyez comment la règle 4.10 s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp4-10">4.10 Addresses</a></span></li>
   </ul>
@@ -1291,17 +1293,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <li>qui sont liés à ce que la personne indique dans la barre de recherche.</li>
       </ul>
       <p class="mrgn-tp-lg">Lorsque vous affichez une publication en ligne, vous devez l'adapter pour le Web. Voici quelques techniques de base qui vous aideront à obtenir les meilleurs résultats&nbsp;:</p>
-      <h6>Utilisez un titre qui décrit le contenu de la page</h6>
+      <h5>Utilisez un titre qui décrit le contenu de la page</h5>
       <p>Le titre principal (Titre 1) de la page est le texte que vous voyez en haut de la page lorsque vous la regardez. Assurez-vous qu'il décrit bien le sujet de votre publication en langage clair et simple.</p>
-      <h6>Utilisez le premier paragraphe pour introduire votre publication </h6>
+      <h5>Utilisez le premier paragraphe pour introduire votre publication </h5>
       <p>Le premier paragraphe de votre page Web doit introduire votre publication en langage clair et simple. Il aide les personnes qui consultent votre page à déterminer s'ils ont trouvé ce qu'ils cherchent. Vous pouvez inclure le titre de votre publication ici.</p>
-      <h6>Incluez des mots-clés dans les métadonnées de la page</h6>
+      <h5>Incluez des mots-clés dans les métadonnées de la page</h5>
       <p>Utilisez les métabalises Titre et Description pour améliorer le classement de votre publication dans les résultats de recherche. Voici ce que vous pouvez faire&nbsp;:</p>
       <p><strong>Métabalise Titre</strong>&nbsp;: La métabalise Titre de la page est le texte en hyperlien bleu que vous voyez lorsque les moteurs de recherche génèrent une liste de résultats. Trouvez un titre principal (Titre 1) efficace pour votre page et utilisez-le aussi comme métabalise Titre.</p>
       <p><strong>Métabalise Description</strong>&nbsp;: La métabalise Description est le contenu que vous voyez sous le texte en hyperlien bleu dans la liste des résultats de recherche. <strong>Évitez d'énumérer seulement des mots-clés,</strong> car les moteurs de recherche tendent à ne pas les prendre en considération. Écrivez une (1) ou deux phrases courtes qui décrivent le contenu de la page. Assurez-vous d'inclure les mots-clés que vos publics cibles utilisent lorsqu'ils cherchent votre contenu (par exemple, des abréviations qu'ils connaissent bien).</p>
       <p>Reportez-vous à la <a href="#toc6">section sur le langage clair et simple</a> pour des conseils sur l'utilisation de mots-clés simples et courants.</p>
     </section>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 5.1 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-1">5.1 Write useful page titles and headings</a></span></li>
     </ul>
@@ -1384,7 +1386,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Cependant, il peut être approprié de présenter des éléments par ordre alphabétique, comme une liste de noms.</p>
       <p>Si vous présentez du contenu français par ordre alphabétique, présentez aussi le contenu traduit en anglais par ordre alphabétique pour offrir la même expérience intuitive.</p>
     </section>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 5.2 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-2">5.2 Use lists to help people scan</a></span></li>
     </ul>
@@ -1407,12 +1409,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <strong>Exemple d'utilisation d'un tableau pour organiser des données<br>
       Comparaison des autorisations budgétaires nettes et des dépenses pour le crédit du 1er au 31 décembre, pour les exercices financiers 2011 à 2012 et 2012 à 2013 (en millions de dollars)</strong>
       </caption>
-      <tbody>
+      <thead>
         <tr class="active">
           <th scope="col"><strong>Crédit 1</strong></th>
           <th class="text-right" scope="col"><strong>2011 à 2012</strong></th>
           <th class="text-right" scope="col"><strong>2012 à 2013</strong></th>
         </tr>
+      </thead>
+      <tbody>
         <tr>
           <th scope="row">Autorisations budgétaires nettes</th>
           <td class="text-right">287,4</td>
@@ -1448,11 +1452,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <table class="table table-condensed table-bordered">
         <caption>
-        <strong>Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">table 2 note </span>*</a></sup></strong>
+        <strong>Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">Voir la note </span>*<span class="wb-inv"> du tableau des contrats</span></a></sup></strong>
         </caption>
         <thead>
           <tr class="active">
-            <th scope="col">Date</th>
+            <th scope="col">Date d’attribution du contrat</th>
             <th scope="col">Nom du fournisseur</th>
             <th scope="col">Description</th>
             <th scope="col">Valeur</th>
@@ -1460,7 +1464,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </thead>
         <tbody>
           <tr>
-            <th scope="row"><time datetime="2010-02-01">2010-02-01<sup id="table2b-fn2-rf"><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">table 2 note </span>**</a></sup></time></th>
+            <th scope="row"><time datetime="2010-02-01">2010-02-01<sup id="table2b-fn2-rf"><a class="fn-lnk" href="#table2b-fn2"><span class="wb-inv">Voir la note </span>**<span class="wb-inv"> du tableau des contrats</span></a></sup></time></th>
             <td>Solutions d'entreprises ABC</td>
             <td>Location d'appareils, de meubles et d'accessoires de bureau</td>
             <td class="text-right">227&nbsp;703,22&nbsp;$</td>
@@ -1487,24 +1491,24 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <tfoot>
           <tr>
             <td colspan="4"><section class="wb-fnote">
-                <h5 class="wb-inv" id="table2b-fn">Notes du tableau 2</h5>
+                <h5 class="wb-inv" id="table2b-fn">Notes du tableau des contrats</h5>
                 <dl>
-                  <dt> Note * du tableau 2 </dt>
+                  <dt> Note * du tableau des contrats </dt>
                   <dd id="table2b-fn1">
                     <p>Quatrième trimestre de l'exercice financier allant du 1er avril 2009 au 31 mars 2010.</p>
-                    <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>*<span class="wb-inv"> du tableau 2</span></a></p>
+                    <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>*<span class="wb-inv"> du tableau des contrats</span></a></p>
                   </dd>
-                  <dt> Note ** du tableau 2 </dt>
+                  <dt> Note ** du tableau des contrats </dt>
                   <dd id="table2b-fn2">
                     <p>Les dates de ce tableau représentent l'année et le mois, suivis du jour (aaaa-mm-jj).</p>
-                    <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>**<span class="wb-inv"> du tableau 2</span></a></p>
+                    <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>**<span class="wb-inv"> du tableau des contrats</span></a></p>
                   </dd>
                 </dl>
               </section></td>
           </tr>
         </tfoot>
       </table>
-      <p class="mrgn-tp-lg">En examinant l'en-tête des colonnes &laquo;&nbsp;Date d'attribution du contrat&nbsp;&raquo;, &laquo;&nbsp;Nom du fournisseur&nbsp;&raquo; et &laquo;&nbsp;Valeur&nbsp;&raquo;, on comprend que le 23 février 2010, l'entreprise Service conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
+      <p class="mrgn-tp-lg">En examinant l’en-tête des colonnes &laquo;&nbsp;Date d’attribution du contrat&nbsp;&raquo;, &laquo;&nbsp;Nom du fournisseur&nbsp;&raquo; et &laquo;&nbsp;Valeur&nbsp;&raquo;, on comprend que le 23 février 2010, l’entreprise Service-conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
     </section>
     <section id="wp5-3-2">
       <h4>Utiliser la structure de tableau la plus simple possible</h4>
@@ -1521,6 +1525,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <caption>
         <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
         </caption>
+        <colgroup span="6"></colgroup>
+        <colgroup span="4"></colgroup>
         <thead>
           <tr class="active">
             <th colspan="6" scope="colgroup"><strong>Association de l'Est</strong></th>
@@ -1610,15 +1616,15 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </thead>
         <tbody>
           <tr>
-            <td>Canadiens de Montréal</td>
+            <th scope="row">Canadiens de Montréal</th>
             <td class="text-right">22</td>
           </tr>
           <tr>
-            <td>Maple Leafs de Toronto</td>
+            <th scope="row">Maple Leafs de Toronto</th>
             <td class="text-right">11</td>
           </tr>
           <tr>
-            <td>Sénateurs d'Ottawa</td>
+            <th scope="row">Sénateurs d'Ottawa</th>
             <td class="text-right">1</td>
           </tr>
         </tbody>
@@ -1635,11 +1641,11 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </thead>
         <tbody>
           <tr>
-            <td>Oilers d'Edmonton</td>
+            <th scope="row">Oilers d'Edmonton</th>
             <td class="text-right">5</td>
           </tr>
           <tr>
-            <td>Flames de Calgary</td>
+            <th scope="row">Flames de Calgary</th>
             <td class="text-right">1</td>
           </tr>
         </tbody>
@@ -1683,7 +1689,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
     </section>
   </section>
-  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+  <h4>Voyez comment la règle 5.3 s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp5-3">5.3 Use tables to organize data</a></span></li>
   </ul>
@@ -1701,9 +1707,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>refléter le plus possible la population diversifiée du Canada (dont les personnes âgées, les jeunes, les peuples autochtones et les personnes de diverses origines ethniques).</li>
   </ul>
   <p>Lorsque vous planifiez votre contenu, évaluez les avantages d'inclure des vidéos et leur incidence sur les gens qui tenteront de les visionner avec des appareils mobiles. Leur capacité à accéder à ces fichiers peut varier en fonction de leur service de données mobiles ou de leur réseau.</p>
-  <h4>Obtenir la permission de publier</h4>
+  <h3>Obtenir la permission de publier</h3>
   <p>Assurez-vous que vous possédez les droits appropriés pour publier des images, des fichiers audio et des vidéos sur Canada.ca. Vous devrez avoir la preuve écrite que vous avez obtenu ces droits. Reportez-vous aux <cite><a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=27167">Procédures sur l'édition</a></cite> ou communiquez avec l'équipe d'édition de votre institution pour plus de détails.</p>
-  <h4>Obtenir de l'aide concernant les images, les fichiers audio ou les vidéos sur le site Canada.ca </h4>
+  <h3>Obtenir de l'aide concernant les images, les fichiers audio ou les vidéos sur le site Canada.ca </h3>
   <p>Si vous avez des questions précises concernant les exigences en matière de licence ou les formulaires de consentement liés à Canada.ca, contactez l'éditeur principal&nbsp;: <a href="mailto:na-web_support-soutien_du_web-gd@servicecanada.gc.ca">na-web_support-soutien_du_web-gd@servicecanada.gc.ca</a>.</p>
   <div class="row mrgn-tp-lg">
     <div class="col-md-8">
@@ -1750,113 +1756,116 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h5>Exemples d'images fonctionnelles</h5>
     <figure class="mrgn-bttm-lg">
       <figcaption> <strong>Figure 4</strong> </figcaption>
-      <img alt="Map of Canada: current conditions" class="img-responsive" src="/guide-redaction/images/fig-04-fra.jpg">
+      <img alt="Carte du Canada&nbsp;: conditions actuelles" class="img-responsive" src="/guide-redaction/images/fig-04-fra.jpg">
       <details>
         <summary>Figure 4 - Version textuelle </summary>
         <table class="table table-bordered table-condensed">
-          <tbody>
+          <caption>Carte du Canada&nbsp;: conditions actuelles</caption>
+          <thead>
             <tr class="active">
               <th scope="col">Ville </th>
               <th scope="col">Condition </th>
               <th scope="col">Température </th>
             </tr>
+          </thead>
+          <tbody>
             <tr>
-              <td>Calgary </td>
+              <th scope="row">Calgary </th>
               <td>Généralement ensoleillé </td>
               <td class="text-right">12°C </td>
             </tr>
             <tr>
-              <td>Charlottetown </td>
+              <th scope="row">Charlottetown </th>
               <td>Généralement ensoleillé </td>
               <td class="text-right">-8°C </td>
             </tr>
             <tr>
-              <td>Edmonton </td>
+              <th scope="row">Edmonton </th>
               <td>(sans objet) </td>
               <td class="text-right">1°C </td>
             </tr>
             <tr>
-              <td>Fredericton </td>
+              <th scope="row">Fredericton </th>
               <td>Ensoleillé </td>
               <td class="text-right">-9°C </td>
             </tr>
             <tr>
-              <td>Halifax </td>
+              <th scope="row">Halifax </th>
               <td>Généralement ensoleillé </td>
               <td class="text-right">-6°C </td>
             </tr>
             <tr>
-              <td>Iqaluit </td>
+              <th scope="row">Iqaluit </th>
               <td>Poudrerie basse </td>
               <td class="text-right">-22°C </td>
             </tr>
             <tr>
-              <td>Montréal </td>
+              <th scope="row">Montréal </th>
               <td>Ensoleillé </td>
               <td class="text-right">-13°C </td>
             </tr>
             <tr>
-              <td>Ottawa </td>
+              <th scope="row">Ottawa </th>
               <td>Généralement ensoleillé </td>
               <td class="text-right">-12°C </td>
             </tr>
             <tr>
-              <td>Prince George </td>
+              <th scope="row">Prince George </th>
               <td>Généralement nuageux </td>
               <td class="text-right">3°C </td>
             </tr>
             <tr>
-              <td>Québec </td>
+              <th scope="row">Québec </th>
               <td>Partiellement nuageux </td>
               <td class="text-right">-16°C </td>
             </tr>
             <tr>
-              <td>Regina </td>
+              <th scope="row">Regina </th>
               <td>Nuageux </td>
               <td class="text-right">0°C </td>
             </tr>
             <tr>
-              <td>Saskatoon </td>
+              <th scope="row">Saskatoon </th>
               <td>Généralement nuageux </td>
               <td class="text-right">-5°C </td>
             </tr>
             <tr>
-              <td>St. John's </td>
+              <th scope="row">St. John's </th>
               <td>Nuageux </td>
               <td class="text-right">4°C </td>
             </tr>
             <tr>
-              <td>Thunder Bay </td>
+              <th scope="row">Thunder Bay </th>
               <td>Partiellement nuageux </td>
               <td class="text-right">-3°C </td>
             </tr>
             <tr>
-              <td>Toronto </td>
+              <th scope="row">Toronto </th>
               <td>Généralement nuageux </td>
               <td class="text-right">-4°C </td>
             </tr>
             <tr>
-              <td>Vancouver </td>
+              <th scope="row">Vancouver </th>
               <td>Pluie </td>
               <td class="text-right">9°C </td>
             </tr>
             <tr>
-              <td>Victoria </td>
+              <th scope="row">Victoria </th>
               <td>Généralement nuageux </td>
               <td class="text-right">10°C </td>
             </tr>
             <tr>
-              <td>Whitehorse </td>
+              <th scope="row">Whitehorse </th>
               <td>Partiellement nuageux </td>
               <td class="text-right">-14°C </td>
             </tr>
             <tr>
-              <td>Winnipeg </td>
+              <th scope="row">Winnipeg </th>
               <td>Ensoleillé </td>
               <td class="text-right">-11°C </td>
             </tr>
             <tr>
-              <td>Yellowknife </td>
+              <th scope="row">Yellowknife </th>
               <td>Partiellement nuageux </td>
               <td class="text-right">-22°C </td>
             </tr>
@@ -1870,7 +1879,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <details>
         <summary>Figure 5 - Version textuelle</summary>
         <p class="mrgn-tp-lg">L'organigramme vous présente des questions que vous pouvez répondre par oui ou non. Si vous répondez &laquo;&nbsp;non&nbsp;», il vous recommande d'autres projets d'accessibilité.</p>
-        <section>
+        <div>
           <p><strong>Question&nbsp;1&nbsp;:</strong> L’entrée de votre immeuble est-elle exempte d’obstacles ?</p>
           <ul>
             <li>Si votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;, passez à la question&nbsp;2.</li>
@@ -1880,8 +1889,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
               </ul>
             </li>
           </ul>
-        </section>
-        <section>
+        </div>
+        <div>
           <p><strong>Question&nbsp;2&nbsp;:</strong> Les couloirs sont-ils assez larges pour permettre aux personnes utilisant des appareils fonctionnels, comme les fauteuils roulants électriques, de passer ?</p>
           <ul>
             <li>Si votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;, passez à la question&nbsp;3.</li>
@@ -1891,8 +1900,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
               </ul>
             </li>
           </ul>
-        </section>
-        <section>
+        </div>
+        <div>
           <p><strong>Question&nbsp;3&nbsp;:</strong> Les personnes en situation de handicap peuvent-elles accéder à l’ensemble des étages, niveaux et sections nécessaires de votre immeuble ?</p>
           <ul>
             <li>Si votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;, passez à la question&nbsp;4.</li>
@@ -1902,8 +1911,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
               </ul>
             </li>
           </ul>
-        </section>
-        <section>
+        </div>
+        <div>
           <p><strong>Question&nbsp;4&nbsp;:</strong> Les personnes à mobilité réduite peuvent-elles utiliser les toilettes de votre immeuble ?</p>
           <ul>
             <li>Si votre réponse est &laquo;&nbsp;Oui &nbsp;&raquo;, passez à la question&nbsp;5.</li>
@@ -1913,8 +1922,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
               </ul>
             </li>
           </ul>
-        </section>
-        <section>
+        </div>
+        <div>
           <p><strong>Question&nbsp;5&nbsp;:</strong> Les toilettes sont-elles équipées d’ouvre-portes automatiques ? L’entrée des toilettes est-elle assez large pour accueillir des appareils fonctionnels ?</p>
           <ul>
             <li>Si votre réponse est &laquo;&nbsp;Oui&nbsp;&raquo;&nbsp;:
@@ -1928,7 +1937,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
               </ul>
             </li>
           </ul>
-        </section>
+        </div>
       </details>
     </figure>
   </section>
@@ -1944,7 +1953,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>N'insérez pas de texte important, comme des titres de campagne ou de programme, dans des images décoratives.</p>
     <p>Vous trouverez plus de détails au sujet des modèles de page ci-dessus dans les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a>.</p>
     <h5>Exemple d'une image décorative</h5>
-    <p><img alt="Image décorative en contexte pour créer un intérêt visuel" class="img-responsive" src="/guide-redaction/images/panier-03.png"></p>
+    <figure class="mrgn-bttm-lg">
+      <img alt="" class="img-responsive" src="/guide-redaction/images/panier-03.png">
+      <figcaption>Une promotion «&nbsp;La nourriture saine&nbsp;» avec une photo de fruits, de légumes et de noix. La photo est décorative&nbsp;: elle ajoute un intérêt visuel, mais aucune information.</figcaption>
+    </figure>
     <h5>Ne décrivez pas les images décoratives</h5>
     <p>Les images décoratives ne nécessitent pas de description. Elles ont pour seul objectif de rendre le contenu visuellement attrayant, et non de fournir du contexte. L’image décorative dans l’exemple nous sert juste à créer un intérêt sur le plan visuel. L’utilisation d’une description pour une image décorative donne au lectorat des renseignements superflus qui peuvent distraire du contenu de la page.</p>
     <h5>Texte alternatif pour les images décoratives</h5>
@@ -1958,7 +1970,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Référez-vous aux <a href="https://wet-boew.github.io/GCWeb/index-fr.html">types de pages de Canada.ca sur GitHub</a>.</li>
     </ul>
   </section>
-  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+  <h4>Voyez comment la règle 6.1 s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-1">6.1 Understand the purpose of images online</a></span></li>
   </ul>
@@ -1979,7 +1991,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>ne décrivez pas une image ou un graphique par le même mot (par exemple, &laquo;&nbsp;image du...&nbsp;&raquo; ou &laquo;&nbsp;graphique des...&nbsp;&raquo;), car les lecteurs d'écran le font déjà.</li>
   </ul>
   <p>Les <a href="#wp6-1-2">images décoratives</a> n'exigent pas de renseignements supplémentaires pour les rendre accessibles ou visibles aux moteurs de recherche. Utilisez l'indicateur vide (alt="") en guise de texte alternatif.</p>
-  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+  <h4>Voyez comment la règle 6.2 s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-2">6.2 Include alternative text for images</a></span></li>
   </ul>
@@ -2055,6 +2067,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <th class="text-right" scope="col">2008</th>
           <th class="text-right" scope="col">2010</th>
         </tr>
+      </thead>
+      <tbody>
         <tr>
           <th scope="row">Hommes</th>
           <td class="text-right">58,2</td>
@@ -2075,19 +2089,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <td class="text-right">54,9</td>
           <td class="text-right">55,2</td>
         </tr>
+      </tbody>
+      <tfoot>
         <tr>
           <td class="small" colspan="8"><p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
               Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé sans solde.</p></td>
         </tr>
-      </thead>
-      <tbody>
-      </tbody>
-      <tfoot>
       </tfoot>
     </table>
   </figure>
   <p>Collaborez avec votre équipe Web pour déterminer la meilleure façon d'insérer la description longue. Elle vous conseillera sur la façon de s'assurer que l'information contenue dans l'image est accessible aux personnes qui utilisent les technologies d'aide. Votre équipe Web s'assurera également que l'image respecte les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a>.</p>
-  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+  <h4>Voyez comment la règle 6.3 s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-3">6.3 Include long descriptions for complex images</a></span></li>
   </ul>
@@ -2110,7 +2122,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <li>les sons importants (comme une explosion);</li>
     <li>une action ou un élément visuel important (par exemple, une personne qui s'enfuit, qui porte un costume).</li>
   </ul>
-  <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+  <h4>Voyez comment la règle 6.4 s’applique en anglais&nbsp;:</h4>
   <ul>
     <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp6-4">6.4 Include transcripts to describe audio and video files</a></span></li>
   </ul>
@@ -2153,17 +2165,17 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>Ne mettez pas de liens essentiels à la tâche au milieu d'un paragraphe ou au bas d'une page.</li>
     </ul>
     <h4>Exemple d'une utilisation appropriée des hyperliens</h4>
-    <h6>Écrivez&nbsp;:</h6>
+    <h5>Écrivez&nbsp;:</h5>
     <p>Une portion selon le Guide alimentaire est la quantité d'aliments de chacun des quatre groupes que l'on devrait manger chaque jour. Dans certains cas, une portion correspond à un aliment que l'on mange habituellement en une seule fois, comme une pomme. Dans d'autres, la quantité quotidienne correspond à plus d'une portion, comme pour du riz ou des pâtes.</p>
     <p><a href="https://guide-alimentaire.canada.ca/fr/">Nombre de portions quotidiennes pour les enfants, les adolescents et les adultes</a></p>
-    <h6>Au lieu de&nbsp;:</h6>
+    <h5>Au lieu de&nbsp;:</h5>
     <p>Une portion du Guide alimentaire est tout simplement une à titre de référence qui vous aide à comprendre la <a href="https://guide-alimentaire.canada.ca/fr/" title="quantités">quantité</a> d'aliments recommandée chaque jour dans chacun des groupes alimentaires. Dans certains cas, une portion du Guide alimentaire peut se rapprocher de ce que vous mangez, comme une pomme. Dans d'autres cas, comme lorsqu'il s'agit de riz ou de pâtes alimentaires, vous vous servez peut-être plus d'une portion du Guide alimentaire à la fois.</p>
     <section id="wp7-1-1">
       <h4>Choisir le contenu connexe avec soin</h4>
       <p>Ajouter des liens vers d'autres pages Web pertinentes peut aider les gens à trouver rapidement des renseignements utiles. Les liens qui mènent à vos pages à partir d'autres pages Web peuvent aussi améliorer le classement de vos pages dans la liste des résultats générée par les moteurs de recherche.</p>
       <p>Choisissez avec soin les liens connexes. Trop de liens dans une page Web pourraient inciter les gens à quitter la page sans avoir lu l'information importante ou les dissuader d'exécuter une tâche.</p>
     </section>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 7.1 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="{{ site.urldesign }}/style-guide/#wp7-1">7.1 Use links strategically</a></span></li>
     </ul>
@@ -2181,7 +2193,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>utilisez un texte descriptif différent pour chaque lien se trouvant sur une même page;</li>
       <li>utilisez un texte identique lorsque plusieurs liens sur une page Web renvoient à la même page de destination;</li>
       <li>indiquez si le contenu doit être téléchargé et décrivez ce contenu;</li>
-      <li>écrivez les adresses de courriel au long, en hyperlien, avec des lettres minuscules (envoyez un courriel à <a href="#wp7-2" aria-label="Exemple d'une adresse de courriel appropriée">questions@canada.ca</a>)</li>
+      <li>écrivez les adresses de courriel au long, en hyperlien, avec des lettres minuscules (envoyez un courriel à <span id="exmp-eml"><a href="#exmp-eml">questions@canada.ca</a></span>)</li>
     </ul>
     <p>N'utilisez pas&nbsp;:</p>
     <ul>
@@ -2194,7 +2206,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <p>Lorsque vous rédigez des instructions sur la façon d'exécuter une tâche, vous devez parfois insérer un lien pour diriger la personne vers les formulaires ou d'autres documents. Créez ce lien en mettant l'accent sur l'action qu'elle doit accomplir.</p>
       <p>Ne répétez pas le titre d'un formulaire ou d'un document dans les étapes à suivre si ce titre n'est pas assez descriptif.</p>
       <h4>Exemple de la façon d'utiliser des hyperliens en mettant l'accent sur la tâche</h4>
-      <h6>Écrivez&nbsp;:</h6>
+      <h5>Écrivez&nbsp;:</h5>
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit&nbsp;:</p>
       <ul>
         <li>ouvrez le <a href="http://www.servicecanada.gc.ca/fi-if/index.jsp?app=prfl&amp;frm=ins5241&amp;lang=fra">formulaire servant à déclarer votre revenu</a> assurable;</li>
@@ -2206,7 +2218,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         </li>
         <li>retournez le formulaire rempli en personne au <a href="http://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?app=hme&amp;ln=fra">bureau de Service Canada le plus près de chez vous</a>.</li>
       </ul>
-      <h6>Au lieu de&nbsp;:</h6>
+      <h5>Au lieu de&nbsp;:</h5>
       <p>Pour obtenir le taux maximal de prestations d'assurance-emploi auquel vous avez droit, remplissez le formulaire <a href="https://catalogue.servicecanada.gc.ca/content/EForms/fr/Detail.html?Form=INS5241">Attestation du prestataire – Semaines durant lesquelles la rémunération assurable était la plus élevée (Meilleures semaines variables)</a>. Inscrivez-y les renseignements requis concernant les semaines durant lesquelles vos revenus assurables étaient les plus élevés durant vos 52 dernières semaines d'emploi ou depuis le début de votre dernière demande, selon la plus courte période des deux.</p>
     </section>
     <section id="wp7-2-2">
@@ -2227,9 +2239,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <p class="mrgn-tp-md">Sur une page en français, écrivez&nbsp;:</p>
           <ul>
-            <li><a href="#">Texte en hyperlien (en anglais seulement).</a></li>
-            <li><a href="#">Texte en hyperlien (en inuktitut seulement).</a></li>
-            <li><a href="#">Texte en hyperlien (en espagnol et portugais seulement).</a></li>
+            <li id="exmp-lng-1"><a href="#exmp-lng-1">Texte en hyperlien (en anglais seulement).</a></li>
+            <li id="exmp-lng-2"><a href="#exmp-lng-2">Texte en hyperlien (en inuktitut seulement).</a></li>
+            <li id="exmp-lng-3"><a href="#exmp-lng-3">Texte en hyperlien (en espagnol et portugais seulement).</a></li>
           </ul>
           <p><strong>Exemple</strong>&nbsp;: L’article 508 révisé, la norme EN 301 549 ou les <a href="https://www.w3.org/TR/WCAG/"><span lang="en">Web Content Accessibility Guidelines (WCAG)</span> (en anglais seulement)</a>.</p>
           <p class="mrgn-tp-md">Suivez la même structure pour les pages en anglais qui renvoient à un contenu en français. Par exemple&nbsp;:</p>
@@ -2247,7 +2259,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <li><a href="https://assets.publishing.service.gov.uk/media/5a81a5d3ed915d74e33ff566/OS_Form_010.pdf">Complétez votre demande : <span lang="en">United Kingdom passport application</span> (en anglais seulement, PDF, 214 Ko, 4 pages)</a>. </li>
           </ul>
     </section>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 7.2 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-2">7.2 Write descriptive links</a></span></li>
     </ul>
@@ -2270,7 +2282,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </li>
       <li>Vérifiez que les liens dirigent vers la bonne langue officielle.</li>
     </ul>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 7.3 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-3">7.3 Make sure that links work</a></span></li>
     </ul>
@@ -2282,7 +2294,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h3>7.4 Créer des liens vers du contenu interne</h3>
     <p>En général, le contenu destiné au public ne devrait pas contenir de liens renvoyant vers du contenu accessible seulement sur les serveurs internes du gouvernement. Il arrive cependant qu'un contenu accessible au public s'adresse essentiellement aux employés de la fonction publique.</p>
     <p>Si vous créez un lien vers du contenu qui est disponible seulement sur les serveurs internes du gouvernement, écrivez &laquo;&nbsp;(accessible uniquement sur le réseau du gouvernement du Canada)&nbsp;&raquo;.</p>
-    <h4>Voyez comment cette règle s’applique en anglais&nbsp;:</h4>
+    <h4>Voyez comment la règle 7.4 s’applique en anglais&nbsp;:</h4>
     <ul>
       <li><span lang="en"><a href="https://design.canada.ca/style-guide/#wp7-4">7.4 Linking to internal-to-government content</a></span></li>
     </ul>
@@ -2314,288 +2326,245 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </ul>
   <h3>Étude de cas B&nbsp;: améliorer et simplifier les tableaux</h3>
   <h4>Avant</h4>
-  <table class="table table-bordered table-condensed">
+  <table class="table table-bordered table-condensed sg-tbl-grouped">
     <caption>
     <strong>Soutenir les familles et les collectivités, Budget 2013</strong>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col"><strong>Soutenir les familles et les collectivités (en millions de dollars)</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 14</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 15</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
+        <th id="sfc-b-c1">Soutenir les familles et les collectivités (en millions de dollars)</th>
+        <th class="text-right" id="sfc-b-c2">2013 à 14</th>
+        <th class="text-right" id="sfc-b-c3">2014 à 15</th>
+        <th class="text-right" id="sfc-b-c4">Total</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><strong>Soutenir les familles</strong></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g1" colspan="4"><strong>Soutenir les familles</strong></th>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Élargir l'allègement fiscal à l'égard des services de soins à domicile</span></th>
-        <td class="text-right">5</td>
-        <td class="text-right">5</td>
-        <td class="text-right">10</td>
+        <th id="sfc-b-g1-r1" headers="sfc-b-c1 sfc-b-g1"><span class="mrgn-lft-md">Élargir l'allègement fiscal à l'égard des services de soins à domicile</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g1 sfc-b-g1-r1">5</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g1 sfc-b-g1-r1">5</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g1 sfc-b-g1-r1">10</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Soins palliatifs et soins de fin de vie</span></th>
-        <td class="text-right">1</td>
-        <td class="text-right">1</td>
-        <td class="text-right">2</td>
+        <th id="sfc-b-g1-r2" headers="sfc-b-c1 sfc-b-g1"><span class="mrgn-lft-md">Soins palliatifs et soins de fin de vie</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g1 sfc-b-g1-r2">1</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g1 sfc-b-g1-r2">1</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g1 sfc-b-g1-r2">2</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Allègements tarifaires pour les consommateurs canadiens</span></th>
-        <td class="text-right">76</td>
-        <td class="text-right">76</td>
-        <td class="text-right">152</td>
+        <th id="sfc-b-g1-r3" headers="sfc-b-c1 sfc-b-g1"><span class="mrgn-lft-md">Allègements tarifaires pour les consommateurs canadiens</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g1 sfc-b-g1-r3">76</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g1 sfc-b-g1-r3">76</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g1 sfc-b-g1-r3">152</td>
       </tr>
       <tr>
-        <th scope="row">Total partiel&nbsp;: Soutenir les familles</th>
-        <td class="text-right">82</td>
-        <td class="text-right">82</td>
-        <td class="text-right">164</td>
+        <th id="sfc-b-g1-sub" headers="sfc-b-c1 sfc-b-g1">Total partiel&nbsp;: Soutenir les familles</th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g1 sfc-b-g1-sub">82</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g1 sfc-b-g1-sub">82</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g1 sfc-b-g1-sub">164</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th id="sfc-b-g2" colspan="4"><strong>Investir dans les collectivités</strong></th>
       </tr>
       <tr>
-        <th scope="row">&nbsp;</th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g2-s1" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Logements pour les Canadiens dans le besoin</strong></span></th>
       </tr>
       <tr>
-        <th scope="row"><strong>Investir dans les collectivités</strong></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g2-s1-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s1"><span class="mrgn-lft-xl">Stratégie des partenariats de lutte contre l'itinérance</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r1">&nbsp;</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r1">119</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r1">119</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin</span></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g2-s1-r2" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s1"><span class="mrgn-lft-xl">Investissement dans le logement abordable</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r2">&nbsp;</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r2">253</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r2">253</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Stratégie des partenariats de lutte contre l'itinérance</span></th>
-        <td>&nbsp;</td>
-        <td class="text-right">119</td>
-        <td class="text-right">119</td>
+        <th id="sfc-b-g2-s1-r3" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s1"><span class="mrgn-lft-xl">Investir dans le logement au Nunavut</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r3">30</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r3">70</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r3">100</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement abordable</span></th>
-        <td>&nbsp;</td>
-        <td class="text-right">253</td>
-        <td class="text-right">253</td>
+        <th id="sfc-b-g2-s2" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Soutenir les anciens combattants et leur rendre hommage</strong></span></th>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investir dans le logement au Nunavut </span></th>
-        <td class="text-right">30</td>
-        <td class="text-right">70</td>
-        <td class="text-right">100</td>
+        <th id="sfc-b-g2-s2-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s2"><span class="mrgn-lft-xl">Améliorer le Programme de funérailles et d'inhumation d'Anciens Combattants Canada</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r1">63</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r1">2</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r1">65</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Soutenir les anciens combattants et leur rendre hommage </span></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g2-s2-r2" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s2"><span class="mrgn-lft-xl">En route vers 2017</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r2">1</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r2">2</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r2">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Améliorer le Programme de funérailles et d'inhumation d'Anciens Combattants Canada </span></th>
-        <td class="text-right">63</td>
-        <td class="text-right">2</td>
-        <td class="text-right">65</td>
+        <th id="sfc-b-g2-s3" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Investir dans les arts et la culture</strong></span></th>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">En route vers 2017 </span></th>
-        <td class="text-right">1</td>
-        <td class="text-right">2</td>
-        <td class="text-right">3</td>
+        <th id="sfc-b-g2-s3-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s3"><span class="mrgn-lft-xl">Revitalisation du Massey Hall</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r1">8</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r1">&nbsp;</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r1">8</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investir dans les arts et la culture </span></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g2-s3-r2" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s3"><span class="mrgn-lft-xl">Étendre les services de bibliothèque pour les Canadiens aveugles ou atteints d'une déficience visuelle</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r2">3</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r2">&nbsp;</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s3 sfc-b-g2-s3-r2">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Revitalisation du Massey Hall </span></th>
-        <td class="text-right">8</td>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">8</td>
+        <th id="sfc-b-g2-r4" headers="sfc-b-c1 sfc-b-g2"><span class="mrgn-lft-md">Super crédit pour premier don de bienfaisance</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-r4">25</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-r4">25</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-r4">50</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Étendre les services de bibliothèque pour les Canadiens aveugles ou atteints d'une déficience visuelle</span></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g2-r5" headers="sfc-b-c1 sfc-b-g2"><span class="mrgn-lft-md">Appuyer la transition économique des collectivités associées à l'industrie de l'amiante chrysotile</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-r5">3</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-r5">5</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-r5">8</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Super crédit pour premier don de bienfaisance </span></th>
-        <td class="text-right">3</td>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">3</td>
+        <th id="sfc-b-g2-sub" headers="sfc-b-c1 sfc-b-g2">Total partiel&nbsp;: Investir dans les collectivités</th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g2 sfc-b-g2-sub">133</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g2 sfc-b-g2-sub">476</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-sub">609</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th id="sfc-b-g3" colspan="4"><strong>Protéger l'environnement naturel du Canada</strong></th>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Appuyer la transition économique des collectivités associées à l'industrie de l'amiante chrysotile </span></th>
-        <td class="text-right">25</td>
-        <td class="text-right">25</td>
-        <td class="text-right">50</td>
+        <th id="sfc-b-g3-r1" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Conservation de la nature Canada</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r1">20</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r1">&nbsp;</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r1">20</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin </span></th>
-        <td class="text-right">3</td>
-        <td class="text-right">5</td>
-        <td class="text-right">8</td>
+        <th id="sfc-b-g3-r2" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Améliorer la conservation des aires de pêche grâce aux partenariats communautaires</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r2">5</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r2">5</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r2">10</td>
       </tr>
       <tr>
-        <th scope="row">Total partiel&nbsp;: Investir dans les collectivités </th>
-        <td class="text-right">133</td>
-        <td class="text-right">476</td>
-        <td class="text-right">609</td>
+        <th id="sfc-b-g3-r3" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Timbre de conservation du saumon</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r3">1</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r3">1</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r3">2</td>
       </tr>
       <tr>
-        <th scope="row">&nbsp;</th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g3-r4" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Favoriser la gestion responsable des ressources marines</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r4">4</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r4">&nbsp;</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r4">4</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Protéger l'environnement naturel du Canada</strong></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g3-r5" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Lutter contre les espèces envahissantes</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r5">2</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r5">2</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r5">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Conservation de la nature Canada</span></th>
-        <td class="text-right">20</td>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">20</td>
+        <th id="sfc-b-g3-r6" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Accroître l'aide fiscale pour la production d'énergie propre</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-r6">&nbsp;</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-r6">1</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-r6">1</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Améliorer la conservation des aires de pêche grâce aux partenariats communautaires </span></th>
-        <td class="text-right">5</td>
-        <td class="text-right">5</td>
-        <td class="text-right">10</td>
+        <th id="sfc-b-g3-sub" headers="sfc-b-c1 sfc-b-g3">Total partiel&nbsp;: Protéger l'environnement naturel du Canada</th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g3 sfc-b-g3-sub">32</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g3 sfc-b-g3-sub">9</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g3 sfc-b-g3-sub">41</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th id="sfc-b-g4" colspan="4"><strong>Créer des collectivités autochtones vigoureuses</strong></th>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Timbre de conservation du saumon </span></th>
-        <td class="text-right">1</td>
-        <td class="text-right">1</td>
-        <td class="text-right">2</td>
+        <th id="sfc-b-g4-r1" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Régler les revendications particulières</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r1">27</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r1">27</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r1">54</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Favoriser la gestion responsable des ressources marines </span></th>
-        <td class="text-right">4</td>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">4</td>
+        <th id="sfc-b-g4-r2" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Régime de gestion des terres des Premières Nations</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r2">2</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r2">7</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r2">9</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Lutter contre les espèces envahissantes </span></th>
-        <td class="text-right">2</td>
-        <td class="text-right">2</td>
-        <td class="text-right">3</td>
+        <th id="sfc-b-g4-r3" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Programme des services de police des Premières Nations</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r3">18</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r3">18</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r3">36</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Accroître l'aide fiscale pour la production d'énergie propre </span></th>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">1</td>
-        <td class="text-right">1</td>
+        <th id="sfc-b-g4-r4" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Stratégie de la justice applicable aux Autochtones</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r4">11</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r4">&nbsp;</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r4">11</td>
       </tr>
       <tr>
-        <th scope="row">Total partiel&nbsp;: Protéger l'environnement naturel du Canada </th>
-        <td class="text-right">32</td>
-        <td class="text-right">9</td>
-        <td class="text-right">41</td>
+        <th id="sfc-b-g4-r5" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Renouveler le Programme pour la prévention de la violence familiale</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r5">12</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r5">12</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r5">24</td>
       </tr>
       <tr>
-        <th scope="row">&nbsp;</th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g4-r6" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Améliorer les services de santé dans les collectivités des Premières Nations</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r6">24</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r6">24</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r6">48</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Créer des collectivités autochtones vigoureuses</strong></th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <th id="sfc-b-g4-r7" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Améliorer les services en santé mentale dans les collectivités des Premières Nations</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-r7">2</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-r7">2</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-r7">4</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Régler les revendications particulières</span></th>
-        <td class="text-right">27</td>
-        <td class="text-right">27</td>
-        <td class="text-right">54</td>
+        <th id="sfc-b-g4-sub" headers="sfc-b-c1 sfc-b-g4">Total partiel&nbsp;: Créer des collectivités autochtones vigoureuses</th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-g4 sfc-b-g4-sub">95</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-g4 sfc-b-g4-sub">90</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-g4 sfc-b-g4-sub">185</td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <th id="sfc-b-t1" headers="sfc-b-c1"><strong>Total&nbsp;: Soutenir les familles et les collectivités</strong></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-t1"><strong>342</strong></td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-t1"><strong>657</strong></td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-t1"><strong>999</strong></td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Régime de gestion des terres des Premières Nations </span></th>
-        <td class="text-right">2</td>
-        <td class="text-right">7</td>
-        <td class="text-right">9</td>
+        <th id="sfc-b-t2" headers="sfc-b-c1"><span class="mrgn-lft-md">Moins les fonds prévus dans le cadre financier actuel</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-t2">(76)</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-t2">(422)</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-t2">(498)</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Programme des services de police des Premières Nations </span></th>
-        <td class="text-right">18</td>
-        <td class="text-right">18</td>
-        <td class="text-right">36</td>
+        <th id="sfc-b-t3" headers="sfc-b-c1"><span class="mrgn-lft-md">Moins les fonds assurés au moyen de réaffectations internes</span></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-t3">(1)</td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-t3">(11)</td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-t3">(12)</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Stratégie de la justice applicable aux Autochtones </span></th>
-        <td class="text-right">11</td>
-        <td class="text-right">&nbsp;</td>
-        <td class="text-right">11</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Renouveler le Programme pour la prévention de la violence familiale </span></th>
-        <td class="text-right">12</td>
-        <td class="text-right">12</td>
-        <td class="text-right">24</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Améliorer les services de santé dans les collectivités des Premières Nations </span></th>
-        <td class="text-right">24</td>
-        <td class="text-right">24</td>
-        <td class="text-right">48</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Améliorer les services en santé mentale dans les collectivités des Premières Nations </span></th>
-        <td class="text-right">2</td>
-        <td class="text-right">2</td>
-        <td class="text-right">4</td>
-      </tr>
-      <tr>
-        <th scope="row">Total partiel&nbsp;: Créer des collectivités autochtones vigoureuses </th>
-        <td class="text-right">95</td>
-        <td class="text-right">90</td>
-        <td class="text-right">185</td>
-      </tr>
-      <tr>
-        <th scope="row">&nbsp;</th>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Total&nbsp;: Soutenir les familles et les collectivités</strong></th>
-        <td class="text-right"><strong>342</strong></td>
-        <td class="text-right"><strong>657</strong></td>
-        <td class="text-right"><strong>999</strong></td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Moins les fonds prévus dans le cadre financier actuel </span></th>
-        <td class="text-right">(76)</td>
-        <td class="text-right">(422)</td>
-        <td class="text-right">(498)</td>
-      </tr>
-      <tr>
-        <th scope="row"><span class="mrgn-lft-md">Moins les fonds assurés au moyen de réaffectations internes </span></th>
-        <td class="text-right">(1)</td>
-        <td class="text-right">(11)</td>
-        <td class="text-right">(12)</td>
-      </tr>
-      <tr>
-        <th scope="row"><strong>Coût budgétaire net</strong></th>
-        <td class="text-right"><strong>265</strong></td>
-        <td class="text-right"><strong>224</strong></td>
-        <td class="text-right"><strong>489</strong></td>
+        <th id="sfc-b-t4" headers="sfc-b-c1"><strong>Coût budgétaire net</strong></th>
+        <td class="text-right" headers="sfc-b-c2 sfc-b-t4"><strong>265</strong></td>
+        <td class="text-right" headers="sfc-b-c3 sfc-b-t4"><strong>224</strong></td>
+        <td class="text-right" headers="sfc-b-c4 sfc-b-t4"><strong>489</strong></td>
       </tr>
     </tbody>
     <tfoot>
@@ -2801,90 +2770,81 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col"><strong>Initiatives et programmes</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
+        <th id="sfc-1c-c1">Initiatives et programmes</th>
+        <th class="text-right" id="sfc-1c-c2">2013 à 2014</th>
+        <th class="text-right" id="sfc-1c-c3">2014 à 2015</th>
+        <th class="text-right" id="sfc-1c-c4">Total</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
+        <th id="sfc-1c-g1" colspan="4"><span class="mrgn-lft-md"><strong>Logements pour les Canadiens dans le besoin</strong></span></th>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Stratégie des partenariats de lutte contre l'itinérance</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">119</td>
-        <td class="text-right">119</td>
+        <th id="sfc-1c-g1-r1" headers="sfc-1c-c1 sfc-1c-g1"><span class="mrgn-lft-xl">Stratégie des partenariats de lutte contre l'itinérance</span></th>
+        <td class="text-right" headers="sfc-1c-c2 sfc-1c-g1 sfc-1c-g1-r1">0</td>
+        <td class="text-right" headers="sfc-1c-c3 sfc-1c-g1 sfc-1c-g1-r1">119</td>
+        <td class="text-right" headers="sfc-1c-c4 sfc-1c-g1 sfc-1c-g1-r1">119</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement abordable</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">253</td>
-        <td class="text-right">253</td>
+        <th id="sfc-1c-g1-r2" headers="sfc-1c-c1 sfc-1c-g1"><span class="mrgn-lft-xl">Investissement dans le logement abordable</span></th>
+        <td class="text-right" headers="sfc-1c-c2 sfc-1c-g1 sfc-1c-g1-r2">0</td>
+        <td class="text-right" headers="sfc-1c-c3 sfc-1c-g1 sfc-1c-g1-r2">253</td>
+        <td class="text-right" headers="sfc-1c-c4 sfc-1c-g1 sfc-1c-g1-r2">253</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investissement dans le logement au Nunavut</span></th>
-        <td class="text-right">30</td>
-        <td class="text-right">70</td>
-        <td class="text-right">100</td>
+        <th id="sfc-1c-g1-r3" headers="sfc-1c-c1 sfc-1c-g1"><span class="mrgn-lft-xl">Investissement dans le logement au Nunavut</span></th>
+        <td class="text-right" headers="sfc-1c-c2 sfc-1c-g1 sfc-1c-g1-r3">30</td>
+        <td class="text-right" headers="sfc-1c-c3 sfc-1c-g1 sfc-1c-g1-r3">70</td>
+        <td class="text-right" headers="sfc-1c-c4 sfc-1c-g1 sfc-1c-g1-r3">100</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Soutient et hommage combattants et leur rendre hommage</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
+        <th id="sfc-1c-g2" colspan="4"><span class="mrgn-lft-md"><strong>Soutenir les anciens combattants et leur rendre hommage</strong></span></th>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md"> Programme de funérailles et d'inhumation d'Anciens Combattants Canada</span></th>
-        <td class="text-right">63</td>
-        <td class="text-right">2</td>
-        <td class="text-right">65</td>
+        <th id="sfc-1c-g2-r1" headers="sfc-1c-c1 sfc-1c-g2"><span class="mrgn-lft-xl">Programme de funérailles et d'inhumation d'Anciens Combattants Canada</span></th>
+        <td class="text-right" headers="sfc-1c-c2 sfc-1c-g2 sfc-1c-g2-r1">63</td>
+        <td class="text-right" headers="sfc-1c-c3 sfc-1c-g2 sfc-1c-g2-r1">2</td>
+        <td class="text-right" headers="sfc-1c-c4 sfc-1c-g2 sfc-1c-g2-r1">65</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">En route vers 2017</span></th>
-        <td class="text-right">1</td>
-        <td class="text-right">2</td>
-        <td class="text-right">3</td>
+        <th id="sfc-1c-g2-r2" headers="sfc-1c-c1 sfc-1c-g2"><span class="mrgn-lft-xl">En route vers 2017</span></th>
+        <td class="text-right" headers="sfc-1c-c2 sfc-1c-g2 sfc-1c-g2-r2">1</td>
+        <td class="text-right" headers="sfc-1c-c3 sfc-1c-g2 sfc-1c-g2-r2">2</td>
+        <td class="text-right" headers="sfc-1c-c4 sfc-1c-g2 sfc-1c-g2-r2">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Investissement dans les arts et la culture</span></th>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
-        <td class="text-right">0</td>
+        <th id="sfc-1c-g3" colspan="4"><span class="mrgn-lft-md"><strong>Investissement dans les arts et la culture</strong></span></th>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Revitalisation du Massey Hall</span></th>
-        <td class="text-right">8</td>
-        <td class="text-right">0</td>
-        <td class="text-right">8</td>
+        <th id="sfc-1c-g3-r1" headers="sfc-1c-c1 sfc-1c-g3"><span class="mrgn-lft-xl">Revitalisation du Massey Hall</span></th>
+        <td class="text-right" headers="sfc-1c-c2 sfc-1c-g3 sfc-1c-g3-r1">8</td>
+        <td class="text-right" headers="sfc-1c-c3 sfc-1c-g3 sfc-1c-g3-r1">0</td>
+        <td class="text-right" headers="sfc-1c-c4 sfc-1c-g3 sfc-1c-g3-r1">8</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Services de bibliothèque pour les Canadiens aveugles ou atteints d'une déficience visuelle</span></th>
-        <td class="text-right">3</td>
-        <td class="text-right">0</td>
-        <td class="text-right">3</td>
+        <th id="sfc-1c-g3-r2" headers="sfc-1c-c1 sfc-1c-g3"><span class="mrgn-lft-xl">Services de bibliothèque pour les Canadiens aveugles ou atteints d'une déficience visuelle</span></th>
+        <td class="text-right" headers="sfc-1c-c2 sfc-1c-g3 sfc-1c-g3-r2">3</td>
+        <td class="text-right" headers="sfc-1c-c3 sfc-1c-g3 sfc-1c-g3-r2">0</td>
+        <td class="text-right" headers="sfc-1c-c4 sfc-1c-g3 sfc-1c-g3-r2">3</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Super crédit pour premier don de bienfaisance</span></th>
-        <td class="text-right">25</td>
-        <td class="text-right">25</td>
-        <td class="text-right">50</td>
+        <th id="sfc-1c-r4" headers="sfc-1c-c1"><span class="mrgn-lft-md">Super crédit pour premier don de bienfaisance</span></th>
+        <td class="text-right" headers="sfc-1c-c2 sfc-1c-r4">25</td>
+        <td class="text-right" headers="sfc-1c-c3 sfc-1c-r4">25</td>
+        <td class="text-right" headers="sfc-1c-c4 sfc-1c-r4">50</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Appui de transition économique des collectivités associées à l'industrie de l'amiante chrysotile</span></th>
-        <td class="text-right">3</td>
-        <td class="text-right">5</td>
-        <td class="text-right">8</td>
+        <th id="sfc-1c-r5" headers="sfc-1c-c1"><span class="mrgn-lft-md">Appui de transition économique des collectivités associées à l'industrie de l'amiante chrysotile</span></th>
+        <td class="text-right" headers="sfc-1c-c2 sfc-1c-r5">3</td>
+        <td class="text-right" headers="sfc-1c-c3 sfc-1c-r5">5</td>
+        <td class="text-right" headers="sfc-1c-c4 sfc-1c-r5">8</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Total partiel&nbsp;: Investir dans les collectivités</strong></th>
-        <td class="text-right"><strong>133</strong></td>
-        <td class="text-right"><strong>476</strong></td>
-        <td class="text-right"><strong>609</strong></td>
+        <th id="sfc-1c-sub" headers="sfc-1c-c1"><strong>Total partiel&nbsp;: Investir dans les collectivités</strong></th>
+        <td class="text-right" headers="sfc-1c-c2 sfc-1c-sub">133</td>
+        <td class="text-right" headers="sfc-1c-c3 sfc-1c-sub">476</td>
+        <td class="text-right" headers="sfc-1c-c4 sfc-1c-sub">609</td>
       </tr>
     </tbody>
     <tfoot>
@@ -3110,7 +3070,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
 		<dt>Note de bas de page 1</dt>
 		<dd id="fn1">
 			<p>International Plain Language Federation:<br><a href="https://www.iplfederation.org/plain-language">​https://www.iplfederation.org/plain-language</a></p>
-			<p class="fn-rtn small"><a href="#fn1-rf"><span class="wb-inv">Retour à la note de bas de page </span>1</a></p>
+			<p class="fn-rtn small"><a href="#fn1-0-rf"><span class="wb-inv">Retour à la référence de la note de bas de page </span>1</a></p>
 		</dd>
 	</dl>
 </aside>
