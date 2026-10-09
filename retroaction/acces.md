@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/access-feedback.html
 date: null
-dateModified: 2026-07-08
+dateModified: 2026-10-09
 description: null
 title: Comment accéder à la rétroaction sur la page
 ---
@@ -11,7 +11,6 @@ title: Comment accéder à la rétroaction sur la page
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="acces.html">Accéder à la rétroaction</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="methodes.html">Analyser la rétroaction</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyse-ai.html">Analyse assistée par l’IA</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="communiquer.html">Partager des idées</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qu’il faut améliorer</a></li>
     </ul>
@@ -54,7 +53,7 @@ Le visualiseur de rétroaction comprend des filtres qui vous permettent d’acc�
 
 ## Durée de conservation de la rétroaction
 
-Le visionneur de rétroaction ne conserve les commentaires provenant de Rétroaction GC que pour six mois.
+Le visualiseur de rétroaction ne conserve les commentaires provenant de Rétroaction GC que pendant une période maximale de six mois.
 
 Les commentaires sont supprimés au cours de la première semaine de chaque trimestre.
 
