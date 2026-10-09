@@ -70,12 +70,7 @@ Rétroaction GC est un <strong>outil de recherche</strong> qui peut vous aider �
         </section>
       </div>
 
-      <div class="col-md-4">
-        <section>
-          <h3><a href="analyse-ai.html">Analyse de la rétroaction assistée par l’IA</a></h3>
-          <p>Invites réutilisables et conseils pour analyser la rétroaction à l’aide d’outils d’IA approuvés</p>
-        </section>
-      </div>
+  
 
 
       <div class="col-md-4">

@@ -11,7 +11,7 @@ title: Méthodes d’analyse de la rétroaction
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="acces.html">Accéder à la rétroaction</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="methodes.html">Méthodes d’analyse</a></li>
-      <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyse-ai.html">Analyse assistée par l’IA</a></li>
+
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="communiquer.html">Partager des idées</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qu’il faut améliorer</a></li>
     </ul>
@@ -71,16 +71,7 @@ L’analyse assistée par l’IA peut réduire le temps nécessaire pour examine
 
 Utilisez les outils d’IA comme aide à l’analyse et non comme décideurs faisant autorité.
 
-### Prompts réutilisables et conseils
 
-Consultez les conseils sur l’analyse des commentaires assistée par l’IA pour obtenir :
-* des prompts approuvés pour les tâches courantes d’analyse des commentaires;
-* des considérations relatives à la protection des renseignements personnels et à la sécurité;
-* des pratiques exemplaires pour la rédaction de prompts;
-* des exigences en matière de révision humaine;
-* les limites de l’analyse assistée par l’IA.
-
-[Conseils sur l’analyse des commentaires assistée par l’IA](analyse-ai.html)
 
 
 ## Méthodes d’analyse manuelle
@@ -225,6 +216,6 @@ Intégrez d’autres sources de données dans vos rapports afin de dresser un ta
 
 <nav role="navigation" class="mrgn-bttm-lg">
 	  <ul class="pager">
-	    <li class="next"><a href="analyse-ai.html" rel="next">Suivant&nbsp;: Analyse assistée par l’IA</a></li>
+	    <li class="next"><a href="communiquer.html" rel="next">Suivant&nbsp;: Partager les idées tirées de la rétroaction</a></li>
 	  </ul>
 </nav>
