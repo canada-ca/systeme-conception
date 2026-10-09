@@ -6,7 +6,7 @@ breadcrumbs:
   - title: Analyses, sondage et commentaires
     link: https://www.canada.ca/fr/analytique.html
 date: null
-dateModified: 2026-07-08
+dateModified: 2026-10-09
 description: null
 title: Instructions sur Rétroaction GC
 ---
@@ -69,10 +69,6 @@ Rétroaction GC est un <strong>outil de recherche</strong> qui peut vous aider �
           <p>Approches générales pour examiner et interpréter la rétroaction des utilisateurs</p>
         </section>
       </div>
-
-  
-
-
       <div class="col-md-4">
         <section>
           <h3><a href="communiquer.html">Communiquer des idées sur la rétroaction</a></h3>

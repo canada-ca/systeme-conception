@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/insights.html
 date: null
-dateModified: 2026-07-08
+dateModified: 2026-10-09
 description: null
 title: Partager les idées tirées de la rétroaction
 ---

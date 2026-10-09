@@ -1,7 +1,7 @@
 ---
 altLangPage: https://design.canada.ca/feedback/analyze-feedback.html
 date: null
-dateModified: 2026-07-08
+dateModified: 2026-10-09
 description: null
 title: Méthodes d’analyse de la rétroaction
 ---
@@ -11,7 +11,6 @@ title: Méthodes d’analyse de la rétroaction
     <ul class="toc lst-spcd col-md-12">
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="acces.html">Accéder à la rétroaction</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="methodes.html">Méthodes d’analyse</a></li>
-
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="communiquer.html">Partager des idées</a></li>
       <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qu’il faut améliorer</a></li>
     </ul>
@@ -70,9 +69,6 @@ Les outils d’intelligence artificielle approuvés, comme Microsoft Copilot, pe
 L’analyse assistée par l’IA peut réduire le temps nécessaire pour examiner de grands volumes de commentaires. Toutefois, les outils d’IA ne remplacent pas le jugement humain. Les analystes demeurent responsables de valider les résultats, d’examiner les regroupements thématiques, de vérifier les dénombrements et de s’assurer que les constats sont appropriés avant leur diffusion.
 
 Utilisez les outils d’IA comme aide à l’analyse et non comme décideurs faisant autorité.
-
-
-
 
 ## Méthodes d’analyse manuelle
 
