@@ -1406,14 +1406,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <h4>Exemple d'utilisation d'un tableau pour organiser des données</h4>
     <table class="table table-bordered table-condensed">
       <caption>
-      <strong>Exemple d'utilisation d'un tableau pour organiser des données<br>
-      Comparaison des autorisations budgétaires nettes et des dépenses pour le crédit du 1er au 31 décembre, pour les exercices financiers 2011 à 2012 et 2012 à 2013 (en millions de dollars)</strong>
+      Exemple d'utilisation d'un tableau pour organiser des données<br>
+      Comparaison des autorisations budgétaires nettes et des dépenses pour le crédit du 1er au 31 décembre, pour les exercices financiers 2011 à 2012 et 2012 à 2013 (en millions de dollars)
       </caption>
       <thead>
         <tr class="active">
-          <th scope="col"><strong>Crédit 1</strong></th>
-          <th class="text-right" scope="col"><strong>2011 à 2012</strong></th>
-          <th class="text-right" scope="col"><strong>2012 à 2013</strong></th>
+          <th scope="col">Crédit 1</th>
+          <th class="text-right" scope="col">2011 à 2012</th>
+          <th class="text-right" scope="col">2012 à 2013</th>
         </tr>
       </thead>
       <tbody>
@@ -1452,7 +1452,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </ul>
       <table class="table table-condensed table-bordered">
         <caption>
-        <strong>Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">Voir la note </span>*<span class="wb-inv"> du tableau des contrats</span></a></sup></strong>
+        Divulgation de contrats de plus de 10 000 $ de janvier à mars 2010<sup id="table2b-fn1-rf"><a class="fn-lnk" href="#table2b-fn1"><span class="wb-inv">Voir la note </span>*<span class="wb-inv"> du tableau des contrats</span></a></sup>
         </caption>
         <thead>
           <tr class="active">
@@ -1523,14 +1523,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6>Exemple&nbsp;: un tableau complexe</h6>
       <table class="table table-bordered table-condensed">
         <caption>
-        <strong>Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+        Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley
         </caption>
         <colgroup span="6"></colgroup>
         <colgroup span="4"></colgroup>
         <thead>
           <tr class="active">
-            <th colspan="6" scope="colgroup"><strong>Association de l'Est</strong></th>
-            <th colspan="4" scope="colgroup"><strong>Association de l'Ouest</strong></th>
+            <th colspan="6" scope="colgroup">Association de l'Est</th>
+            <th colspan="4" scope="colgroup">Association de l'Ouest</th>
           </tr>
         </thead>
         <tbody>
@@ -1565,13 +1565,13 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6>Exemple&nbsp;: un tableau simple</h6>
       <table class="table table-bordered table-condensed">
         <caption>
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+        Tableau&nbsp;1&nbsp;: Équipes canadiennes de la Ligue nationale de hockey gagnantes de la Coupe Stanley
         </caption>
         <thead>
           <tr class="active">
-            <th scope="col"><strong>Équipe</strong></th>
-            <th scope="col"><strong>Association</strong></th>
-            <th scope="col"><strong>Parties gagnées</strong></th>
+            <th scope="col">Équipe</th>
+            <th scope="col">Association</th>
+            <th scope="col">Parties gagnées</th>
           </tr>
         </thead>
         <tbody>
@@ -1606,12 +1606,12 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <h6>Exemple&nbsp;: plusieurs tableaux simples</h6>
       <table class="table table-bordered table-condensed">
         <caption>
-        <strong>Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+        Tableau&nbsp;1&nbsp;: Équipes canadiennes de l'association de l'Est de la Ligue nationale de hockey gagnantes de la Coupe Stanley
         </caption>
         <thead>
           <tr class="active">
-            <th scope="col"><strong>Équipe</strong></th>
-            <th scope="col"><strong>Parties gagnées</strong></th>
+            <th scope="col">Équipe</th>
+            <th scope="col">Parties gagnées</th>
           </tr>
         </thead>
         <tbody>
@@ -1631,7 +1631,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       </table>
       <table class="table table-bordered table-condensed">
         <caption>
-        <strong>Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley</strong>
+        Tableau&nbsp;2&nbsp;: Équipes canadiennes de l'association de l'Ouest de la Ligue nationale de hockey gagnantes de la Coupe Stanley
         </caption>
         <thead>
           <tr class="active">
@@ -2054,7 +2054,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     <p>Vous pourriez écrire la description longue suivante&nbsp;:</p>
     <table class="table table-bordered table-condensed">
       <caption>
-      <strong>Figure 2 : Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010</strong>
+      Figure 2 : Rapport hommes-femmes au sein de la fonction publique pour les années sélectionnées, entre 1983 et 2010
       </caption>
       <thead>
         <tr class="active">
@@ -2328,7 +2328,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h4>Avant</h4>
   <table class="table table-bordered table-condensed sg-tbl-grouped">
     <caption>
-    <strong>Soutenir les familles et les collectivités, Budget 2013</strong>
+    Soutenir les familles et les collectivités, Budget 2013
     </caption>
     <thead>
       <tr class="active">
@@ -2340,7 +2340,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </thead>
     <tbody>
       <tr>
-        <th id="sfc-b-g1" colspan="4"><strong>Soutenir les familles</strong></th>
+        <th id="sfc-b-g1" colspan="4">Soutenir les familles</th>
       </tr>
       <tr>
         <th id="sfc-b-g1-r1" headers="sfc-b-c1 sfc-b-g1"><span class="mrgn-lft-md">Élargir l'allègement fiscal à l'égard des services de soins à domicile</span></th>
@@ -2369,10 +2369,10 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </tbody>
     <tbody>
       <tr>
-        <th id="sfc-b-g2" colspan="4"><strong>Investir dans les collectivités</strong></th>
+        <th id="sfc-b-g2" colspan="4">Investir dans les collectivités</th>
       </tr>
       <tr>
-        <th id="sfc-b-g2-s1" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Logements pour les Canadiens dans le besoin</strong></span></th>
+        <th id="sfc-b-g2-s1" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin</span></th>
       </tr>
       <tr>
         <th id="sfc-b-g2-s1-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s1"><span class="mrgn-lft-xl">Stratégie des partenariats de lutte contre l'itinérance</span></th>
@@ -2393,7 +2393,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s1 sfc-b-g2-s1-r3">100</td>
       </tr>
       <tr>
-        <th id="sfc-b-g2-s2" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Soutenir les anciens combattants et leur rendre hommage</strong></span></th>
+        <th id="sfc-b-g2-s2" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md">Soutenir les anciens combattants et leur rendre hommage</span></th>
       </tr>
       <tr>
         <th id="sfc-b-g2-s2-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s2"><span class="mrgn-lft-xl">Améliorer le Programme de funérailles et d'inhumation d'Anciens Combattants Canada</span></th>
@@ -2408,7 +2408,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right" headers="sfc-b-c4 sfc-b-g2 sfc-b-g2-s2 sfc-b-g2-s2-r2">3</td>
       </tr>
       <tr>
-        <th id="sfc-b-g2-s3" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md"><strong>Investir dans les arts et la culture</strong></span></th>
+        <th id="sfc-b-g2-s3" headers="sfc-b-g2" colspan="4"><span class="mrgn-lft-md">Investir dans les arts et la culture</span></th>
       </tr>
       <tr>
         <th id="sfc-b-g2-s3-r1" headers="sfc-b-c1 sfc-b-g2 sfc-b-g2-s3"><span class="mrgn-lft-xl">Revitalisation du Massey Hall</span></th>
@@ -2443,7 +2443,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </tbody>
     <tbody>
       <tr>
-        <th id="sfc-b-g3" colspan="4"><strong>Protéger l'environnement naturel du Canada</strong></th>
+        <th id="sfc-b-g3" colspan="4">Protéger l'environnement naturel du Canada</th>
       </tr>
       <tr>
         <th id="sfc-b-g3-r1" headers="sfc-b-c1 sfc-b-g3"><span class="mrgn-lft-md">Conservation de la nature Canada</span></th>
@@ -2490,7 +2490,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </tbody>
     <tbody>
       <tr>
-        <th id="sfc-b-g4" colspan="4"><strong>Créer des collectivités autochtones vigoureuses</strong></th>
+        <th id="sfc-b-g4" colspan="4">Créer des collectivités autochtones vigoureuses</th>
       </tr>
       <tr>
         <th id="sfc-b-g4-r1" headers="sfc-b-c1 sfc-b-g4"><span class="mrgn-lft-md">Régler les revendications particulières</span></th>
@@ -2543,7 +2543,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </tbody>
     <tbody>
       <tr>
-        <th id="sfc-b-t1" headers="sfc-b-c1"><strong>Total&nbsp;: Soutenir les familles et les collectivités</strong></th>
+        <th id="sfc-b-t1" headers="sfc-b-c1">Total&nbsp;: Soutenir les familles et les collectivités</th>
         <td class="text-right" headers="sfc-b-c2 sfc-b-t1"><strong>342</strong></td>
         <td class="text-right" headers="sfc-b-c3 sfc-b-t1"><strong>657</strong></td>
         <td class="text-right" headers="sfc-b-c4 sfc-b-t1"><strong>999</strong></td>
@@ -2561,7 +2561,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right" headers="sfc-b-c4 sfc-b-t3">(12)</td>
       </tr>
       <tr>
-        <th id="sfc-b-t4" headers="sfc-b-c1"><strong>Coût budgétaire net</strong></th>
+        <th id="sfc-b-t4" headers="sfc-b-c1">Coût budgétaire net</th>
         <td class="text-right" headers="sfc-b-c2 sfc-b-t4"><strong>265</strong></td>
         <td class="text-right" headers="sfc-b-c3 sfc-b-t4"><strong>224</strong></td>
         <td class="text-right" headers="sfc-b-c4 sfc-b-t4"><strong>489</strong></td>
@@ -2576,14 +2576,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   <h4>Après</h4>
   <table class="table table-bordered table-condensed">
     <caption>
-    <strong>Tableau 1&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts budgétaires nets (en millions de dollars)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 1</span></a></sup></strong>
+    Tableau 1&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts budgétaires nets (en millions de dollars)<sup id="table1-fn1-rf"><a class="fn-lnk" href="#table1-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 1</span></a></sup>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col"><strong>Répartition des coûts</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
+        <th scope="col">Répartition des coûts</th>
+        <th class="text-right" scope="col">2013 à 2014</th>
+        <th class="text-right" scope="col">2014 à 2015</th>
+        <th class="text-right" scope="col">Total</th>
       </tr>
     </thead>
     <tbody>
@@ -2606,7 +2606,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right">(12)</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Coûts budgétaires nets</strong></th>
+        <th scope="row">Coûts budgétaires nets</th>
         <td class="text-right"><strong>265</strong></td>
         <td class="text-right"><strong>224</strong></td>
         <td class="text-right"><strong>489</strong></td>
@@ -2634,14 +2634,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </table>
   <table class="table table-bordered table-condensed">
     <caption>
-    <strong>Tableau 1A&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts totaux (en millions de dollars)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 2</span></a></sup></strong>
+    Tableau 1A&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts totaux (en millions de dollars)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 2</span></a></sup>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col"><strong>Initiatives et programmes</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
+        <th scope="col">Initiatives et programmes</th>
+        <th class="text-right" scope="col">2013 à 2014</th>
+        <th class="text-right" scope="col">2014 à 2015</th>
+        <th class="text-right" scope="col">Total</th>
       </tr>
     </thead>
     <tbody>
@@ -2670,7 +2670,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right">185</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Total&nbsp;: Soutenir les familles et les collectivités</strong></th>
+        <th scope="row">Total&nbsp;: Soutenir les familles et les collectivités</th>
         <td class="text-right"><strong>342</strong></td>
         <td class="text-right"><strong>657</strong></td>
         <td class="text-right"><strong>999</strong></td>
@@ -2713,14 +2713,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </table>
   <table class="table table-bordered table-condensed">
     <caption>
-    <strong>Tableau 1B&nbsp;: Soutien aux familles pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 3</span></a></sup></strong>
+    Tableau 1B&nbsp;: Soutien aux familles pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 3</span></a></sup>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col"><strong>Initiatives et programmes</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
+        <th scope="col">Initiatives et programmes</th>
+        <th class="text-right" scope="col">2013 à 2014</th>
+        <th class="text-right" scope="col">2014 à 2015</th>
+        <th class="text-right" scope="col">Total</th>
       </tr>
     </thead>
     <tbody>
@@ -2743,7 +2743,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right">152</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Total partiel&nbsp;: Soutenir les familles</strong></th>
+        <th scope="row">Total partiel&nbsp;: Soutenir les familles</th>
         <td class="text-right"><strong>82</strong></td>
         <td class="text-right"><strong>82</strong></td>
         <td class="text-right"><strong>164</strong></td>
@@ -2766,7 +2766,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </table>
   <table class="table table-bordered table-condensed">
     <caption>
-    <strong>Tableau 1C&nbsp;: Investir dans les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 4</span></a></sup></strong>
+    Tableau 1C&nbsp;: Investir dans les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 4</span></a></sup>
     </caption>
     <thead>
       <tr class="active">
@@ -2778,7 +2778,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
     </thead>
     <tbody>
       <tr>
-        <th id="sfc-1c-g1" colspan="4"><span class="mrgn-lft-md"><strong>Logements pour les Canadiens dans le besoin</strong></span></th>
+        <th id="sfc-1c-g1" colspan="4"><span class="mrgn-lft-md">Logements pour les Canadiens dans le besoin</span></th>
       </tr>
       <tr>
         <th id="sfc-1c-g1-r1" headers="sfc-1c-c1 sfc-1c-g1"><span class="mrgn-lft-xl">Stratégie des partenariats de lutte contre l'itinérance</span></th>
@@ -2799,7 +2799,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right" headers="sfc-1c-c4 sfc-1c-g1 sfc-1c-g1-r3">100</td>
       </tr>
       <tr>
-        <th id="sfc-1c-g2" colspan="4"><span class="mrgn-lft-md"><strong>Soutenir les anciens combattants et leur rendre hommage</strong></span></th>
+        <th id="sfc-1c-g2" colspan="4"><span class="mrgn-lft-md">Soutenir les anciens combattants et leur rendre hommage</span></th>
       </tr>
       <tr>
         <th id="sfc-1c-g2-r1" headers="sfc-1c-c1 sfc-1c-g2"><span class="mrgn-lft-xl">Programme de funérailles et d'inhumation d'Anciens Combattants Canada</span></th>
@@ -2814,7 +2814,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right" headers="sfc-1c-c4 sfc-1c-g2 sfc-1c-g2-r2">3</td>
       </tr>
       <tr>
-        <th id="sfc-1c-g3" colspan="4"><span class="mrgn-lft-md"><strong>Investissement dans les arts et la culture</strong></span></th>
+        <th id="sfc-1c-g3" colspan="4"><span class="mrgn-lft-md">Investissement dans les arts et la culture</span></th>
       </tr>
       <tr>
         <th id="sfc-1c-g3-r1" headers="sfc-1c-c1 sfc-1c-g3"><span class="mrgn-lft-xl">Revitalisation du Massey Hall</span></th>
@@ -2841,7 +2841,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right" headers="sfc-1c-c4 sfc-1c-r5">8</td>
       </tr>
       <tr>
-        <th id="sfc-1c-sub" headers="sfc-1c-c1"><strong>Total partiel&nbsp;: Investir dans les collectivités</strong></th>
+        <th id="sfc-1c-sub" headers="sfc-1c-c1">Total partiel&nbsp;: Investir dans les collectivités</th>
         <td class="text-right" headers="sfc-1c-c2 sfc-1c-sub">133</td>
         <td class="text-right" headers="sfc-1c-c3 sfc-1c-sub">476</td>
         <td class="text-right" headers="sfc-1c-c4 sfc-1c-sub">609</td>
@@ -2864,14 +2864,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </table>
   <table class="table table-bordered table-condensed">
     <caption>
-    <strong>Tableau 1D&nbsp;: Protéger l'environnement naturel du Canada pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 5</span></a></sup></strong>
+    Tableau 1D&nbsp;: Protéger l'environnement naturel du Canada pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 5</span></a></sup>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col"><strong>Initiatives et programmes</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
+        <th scope="col">Initiatives et programmes</th>
+        <th class="text-right" scope="col">2013 à 2014</th>
+        <th class="text-right" scope="col">2014 à 2015</th>
+        <th class="text-right" scope="col">Total</th>
       </tr>
     </thead>
     <tbody>
@@ -2912,7 +2912,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right">1</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Total partiel&nbsp;: Protéger l'environnement naturel du Canada</strong></th>
+        <th scope="row">Total partiel&nbsp;: Protéger l'environnement naturel du Canada</th>
         <td class="text-right"><strong>32</strong></td>
         <td class="text-right"><strong>9</strong></td>
         <td class="text-right"><strong>41</strong></td>
@@ -2935,14 +2935,14 @@ title: "Guide de rédaction du contenu du site Canada.ca"
   </table>
   <table class="table table-bordered table-condensed">
     <caption>
-    <strong>Tableau 1E&nbsp;: Créer des collectivités autochtones vigoureuses pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 6</span></a></sup></strong>
+    Tableau 1E&nbsp;: Créer des collectivités autochtones vigoureuses pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 6</span></a></sup>
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col"><strong>Initiatives et programmes</strong></th>
-        <th class="text-right" scope="col"><strong>2013 à 2014</strong></th>
-        <th class="text-right" scope="col"><strong>2014 à 2015</strong></th>
-        <th class="text-right" scope="col"><strong>Total</strong></th>
+        <th scope="col">Initiatives et programmes</th>
+        <th class="text-right" scope="col">2013 à 2014</th>
+        <th class="text-right" scope="col">2014 à 2015</th>
+        <th class="text-right" scope="col">Total</th>
       </tr>
     </thead>
     <tbody>
@@ -2989,7 +2989,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right">4</td>
       </tr>
       <tr>
-        <th scope="row"><strong>Total partiel&nbsp;: Créer des collectivités autochtones vigoureuses</strong></th>
+        <th scope="row">Total partiel&nbsp;: Créer des collectivités autochtones vigoureuses</th>
         <td class="text-right"><strong>95</strong></td>
         <td class="text-right"><strong>90</strong></td>
         <td class="text-right"><strong>185</strong></td>
