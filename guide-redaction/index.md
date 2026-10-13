@@ -2193,7 +2193,7 @@ title: "Guide de rédaction du contenu du site Canada.ca"
       <li>utilisez un texte descriptif différent pour chaque lien se trouvant sur une même page;</li>
       <li>utilisez un texte identique lorsque plusieurs liens sur une page Web renvoient à la même page de destination;</li>
       <li>indiquez si le contenu doit être téléchargé et décrivez ce contenu;</li>
-      <li>écrivez les adresses de courriel au long, en hyperlien, avec des lettres minuscules (envoyez un courriel à <span id="exmp-eml"><a href="#exmp-eml">questions@canada.ca</a></span>)</li>
+      <li>écrivez les adresses de courriel au long, en hyperlien, avec des lettres minuscules (envoyez un courriel à <a href="mailto:helpdesk@example.com">helpdesk@example.com</a>)</li>
     </ul>
     <p>N'utilisez pas&nbsp;:</p>
     <ul>
