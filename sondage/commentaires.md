@@ -11,7 +11,7 @@ title: Comment analyser les commentaires
         <ul class="toc lst-spcd col-md-12">
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="acceder-resultats.html">Résultats et aux rapports du sondage</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item active" href="commentaires.html">Méthodes d’analyse</a></li>
-            <li class="col-md-4 col-sm-6"><a class="list-group-item" href="analyse-ai.html">Analyse assistée par l’IA</a></li>
+
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="partager.html">Partager les idées</a></li>
             <li class="col-md-4 col-sm-6"><a class="list-group-item" href="decider.html">Décider de ce qui doit être amélioré</a></li>
         </ul>
@@ -174,6 +174,6 @@ Intégrez d’autres sources de données dans vos rapports afin de créer un tab
 
 <nav role="navigation" class="mrgn-bttm-lg">
     <ul class="pager">
-        <li class="next"><a href="analyse-ai.html" rel="next">Suivant&nbsp;: Analyse assistée par l’IA</a></li>
+        <li class="next"><a href="commentaires.html" rel="next">Suivant&nbsp;: Partager les idées tirées des données de rétroaction</a></li>
     </ul>
 </nav>
