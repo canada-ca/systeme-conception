@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemple - Alerte d'urgence</title>
+    <link rel="stylesheet" href="../styles/alerte-urgence.css">
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            margin: 2rem;
+            background-color: #f8f9fa;
+        }
+        .demo-section {
+            margin: 2rem 0;
+            padding: 1rem;
+            background: white;
+            border-radius: 4px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .demo-title {
+            margin-top: 0;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemples - Composant Alerte d'urgence</h1>
+    
+    <div class="demo-section">
+        <h2 class="demo-title">Exemple de base</h2>
+        <div class="gc-alerte-urgence" role="alert" aria-live="assertive">
+            <div class="gc-alerte-urgence__contenu">
+                <span class="gc-alerte-urgence__icone" aria-hidden="true">⚠</span>
+                <div class="gc-alerte-urgence__message">
+                    <h3 class="gc-alerte-urgence__titre">Interruption de service</h3>
+                    <p class="gc-alerte-urgence__texte">
+                        Le service de demande de passeport est temporairement indisponible. 
+                        Veuillez réessayer dans quelques heures.
+                    </p>
+                </div>
+                <button class="gc-alerte-urgence__fermer" aria-label="Fermer l'alerte" type="button">×</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="demo-section">
+        <h2 class="demo-title">Avec lien d'action</h2>
+        <div class="gc-alerte-urgence" role="alert" aria-live="assertive">
+            <div class="gc-alerte-urgence__contenu">
+                <span class="gc-alerte-urgence__icone" aria-hidden="true">🌪</span>
+                <div class="gc-alerte-urgence__message">
+                    <h3 class="gc-alerte-urgence__titre">Alerte météorologique</h3>
+                    <p class="gc-alerte-urgence__texte">
+                        Avertissement de tornade en vigueur pour la région d'Ottawa. 
+                        <a href="#" class="gc-alerte-urgence__lien">Voir les détails</a>
+                    </p>
+                </div>
+                <button class="gc-alerte-urgence__fermer" aria-label="Fermer l'alerte" type="button">×</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="demo-section">
+        <h2 class="demo-title">Version compacte</h2>
+        <div class="gc-alerte-urgence gc-alerte-urgence--compact" role="alert" aria-live="assertive">
+            <div class="gc-alerte-urgence__contenu">
+                <span class="gc-alerte-urgence__icone" aria-hidden="true">🔧</span>
+                <div class="gc-alerte-urgence__message">
+                    <p class="gc-alerte-urgence__texte">
+                        Maintenance programmée ce soir de 22h à 2h.
+                    </p>
+                </div>
+                <button class="gc-alerte-urgence__fermer" aria-label="Fermer l'alerte" type="button">×</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../scripts/alerte-urgence.js"></script>
+</body>
+</html>
