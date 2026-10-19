@@ -1,0 +1,11 @@
+# Redirects from what the browser requests to what systeme-conception.ca serves
+/covid/alertes.html /crise/alertes.html 301!
+/covid/contenu.html /crise/contenu.html 301!
+/amelioration-continue/mesure/SRTGC.html /sondage/index.html 301!
+/amelioration-continue/mesure/retroaction.html /retroaction/index.html 301!
+/modeles-obligatoire/pages-theme.html /modeles-obligatoire/theme-sujet.html 301!
+/modeles-obligatoire/page-sujet.html /modeles-obligatoire/theme-sujet.html 301!
+/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html	/guide-redaction/ 301!
+/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles/trouvez-modeles-configurations-conception-contenu-web.html	/trouvez-modeles-configurations-conception-contenu-web.html 301!
+/fr/gouvernement/a-propos/systeme-conception.html	/ 301!
+/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html	/bibliotheque-modeles.html 301!
