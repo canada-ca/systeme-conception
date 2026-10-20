@@ -80,7 +80,6 @@
   </url>
   <url>
     <loc>https://conception.canada.ca/sondage/analytics.html</loc>
-    <lastmod>2021-07-25</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/sondage/apercu-srt.html</loc>
@@ -171,12 +170,12 @@
     <lastmod>2026-02-12</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/amelioration-continue/concevoir-contenu.html</loc>
-    <lastmod>2021-07-25</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/specifications/concevoir-contenu.html</loc>
     <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/amelioration-continue/concevoir-contenu.html</loc>
+    <lastmod>2021-07-25</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/concevoir-contenu.html</loc>
@@ -211,19 +210,19 @@
     <lastmod>2025-03-27</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/retroaction/decider.html</loc>
-    <lastmod>2026-10-09</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/sondage/decider.html</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/specifications/derniers-changements.html</loc>
-    <lastmod>2026-09-29</lastmod>
+    <loc>https://conception.canada.ca/retroaction/decider.html</loc>
+    <lastmod>2026-10-09</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/a-propos/derniers-changements.html</loc>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/specifications/derniers-changements.html</loc>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/configurations-conception-communes/diagrammes-graphiques.html</loc>
@@ -657,12 +656,12 @@
     <lastmod>2025-03-28</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/retroaction/soutien.html</loc>
-    <lastmod>2023-02-28</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/sondage/soutien.html</loc>
     <lastmod>2023-04-05</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/retroaction/soutien.html</loc>
+    <lastmod>2023-02-28</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/specifications.html</loc>
