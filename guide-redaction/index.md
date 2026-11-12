@@ -1488,26 +1488,21 @@ title: "Guide de rédaction du contenu du site Canada.ca"
             <td class="text-right">56&nbsp;294,42&nbsp;$</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td colspan="4"><section class="wb-fnote">
-                <h5 class="wb-inv" id="table2b-fn">Notes du tableau des contrats</h5>
-                <dl>
-                  <dt> Note * du tableau des contrats </dt>
-                  <dd id="table2b-fn1">
-                    <p>Quatrième trimestre de l'exercice financier allant du 1er avril 2009 au 31 mars 2010.</p>
-                    <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>*<span class="wb-inv"> du tableau des contrats</span></a></p>
-                  </dd>
-                  <dt> Note ** du tableau des contrats </dt>
-                  <dd id="table2b-fn2">
-                    <p>Les dates de ce tableau représentent l'année et le mois, suivis du jour (aaaa-mm-jj).</p>
-                    <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>**<span class="wb-inv"> du tableau des contrats</span></a></p>
-                  </dd>
-                </dl>
-              </section></td>
-          </tr>
-        </tfoot>
       </table>
+      <div class="wb-fnote">
+        <dl>
+          <dt> Note * du tableau des contrats </dt>
+          <dd id="table2b-fn1">
+            <p>Quatrième trimestre de l'exercice financier allant du 1er avril 2009 au 31 mars 2010.</p>
+            <p class="fn-rtn"> <a href="#table2b-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>*<span class="wb-inv"> du tableau des contrats</span></a></p>
+          </dd>
+          <dt> Note ** du tableau des contrats </dt>
+          <dd id="table2b-fn2">
+            <p>Les dates de ce tableau représentent l'année et le mois, suivis du jour (aaaa-mm-jj).</p>
+            <p class="fn-rtn"> <a href="#table2b-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>**<span class="wb-inv"> du tableau des contrats</span></a></p>
+          </dd>
+        </dl>
+      </div>
       <p class="mrgn-tp-lg">En examinant l’en-tête des colonnes &laquo;&nbsp;Date d’attribution du contrat&nbsp;&raquo;, &laquo;&nbsp;Nom du fournisseur&nbsp;&raquo; et &laquo;&nbsp;Valeur&nbsp;&raquo;, on comprend que le 23 février 2010, l’entreprise Service-conseil gestion limitée a obtenu un contrat d'une valeur de 285 575,89 $.</p>
     </section>
     <section id="wp5-3-2">
@@ -2087,13 +2082,9 @@ title: "Guide de rédaction du contenu du site Canada.ca"
           <td class="text-right">55,2</td>
         </tr>
       </tbody>
-      <tfoot>
-        <tr>
-          <td class="small" colspan="8"><p>Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
-              Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé sans solde.</p></td>
-        </tr>
-      </tfoot>
     </table>
+    <p class="small">Source&nbsp;: Bureau du dirigeant principal des ressources humaines, Secrétariat du Conseil du Trésor du Canada<br>
+      Remarque&nbsp;: Comprend tous les types de postes. Les chiffres ne tiennent pas compte des employés en congé sans solde.</p>
   </figure>
   <p>Collaborez avec votre équipe Web pour déterminer la meilleure façon d'insérer la description longue. Elle vous conseillera sur la façon de s'assurer que l'information contenue dans l'image est accessible aux personnes qui utilisent les technologies d'aide. Votre équipe Web s'assurera également que l'image respecte les <a href="{{ site.url }}/specifications.html">Spécifications du contenu et de l'architecture de l'information pour Canada.ca</a>.</p>
   <h4>Voyez comment la règle 6.3 s’applique en anglais&nbsp;:</h4>
@@ -2564,12 +2555,8 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right" headers="sfc-b-c4 sfc-b-t4"><strong>489</strong></td>
       </tr>
     </tbody>
-    <tfoot>
-      <tr>
-        <td class="small" colspan="4"><p>Remarque&nbsp;: Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p></td>
-      </tr>
-    </tfoot>
   </table>
+  <p class="small">Remarque&nbsp;: Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
   <h4>Après</h4>
   <table class="table table-bordered table-condensed">
     <caption>
@@ -2609,26 +2596,21 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>489</strong></td>
       </tr>
     </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table1a-fn">Notes du tableau 1</h5>
-            <dl>
-              <dt> Note 1 du tableau 1 </dt>
-              <dd id="table1-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 1</span></a></p>
-              </dd>
-              <dt> Note 2 du tableau 1 </dt>
-              <dd id="table1-fn2">
-                <p>Voir le tableau 1B pour une ventilation détaillée.</p>
-                <p class="fn-rtn"> <a href="#table1-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 1</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
   </table>
+  <div class="wb-fnote">
+    <dl>
+      <dt> Note 1 du tableau 1 </dt>
+      <dd id="table1-fn1">
+        <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+        <p class="fn-rtn"> <a href="#table1-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 1</span></a></p>
+      </dd>
+      <dt> Note 2 du tableau 1 </dt>
+      <dd id="table1-fn2">
+        <p>Voir le tableau 1B pour une ventilation détaillée.</p>
+        <p class="fn-rtn"> <a href="#table1-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 1</span></a></p>
+      </dd>
+    </dl>
+  </div>
   <table class="table table-bordered table-condensed">
     <caption>
     Tableau 1A&nbsp;: Soutenir les familles et les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015, coûts totaux (en millions de dollars)<sup id="table2-fn1-rf"><a class="fn-lnk" href="#table2-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 2</span></a></sup>
@@ -2673,41 +2655,36 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>999</strong></td>
       </tr>
     </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table1-fn">Notes du tableau 1</h5>
-            <dl>
-              <dt> Note 1 du tableau 2 </dt>
-              <dd id="table2-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table2-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 2</span></a></p>
-              </dd>
-              <dt> Note 2 du tableau 2 </dt>
-              <dd id="table2-fn2">
-                <p>Voir le tableau 1B pour une ventilation détaillée.</p>
-                <p class="fn-rtn"> <a href="#table2-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 2</span></a></p>
-              </dd>
-              <dt> Note 3 du tableau 2 </dt>
-              <dd id="table2-fn3">
-                <p>Voir le tableau 1C pour une ventilation détaillée.</p>
-                <p class="fn-rtn"> <a href="#table2-fn3-rf"><span class="wb-inv">Retour à la référence de la note </span>3<span class="wb-inv"> du tableau 2</span></a></p>
-              </dd>
-              <dt> Note 4 du tableau 2 </dt>
-              <dd id="table2-fn4">
-                <p>Voir le tableau 1D pour une ventilation détaillée.</p>
-                <p class="fn-rtn"> <a href="#table2-fn4-rf"><span class="wb-inv">Retour à la référence de la note </span>4<span class="wb-inv"> du tableau 2</span></a></p>
-              </dd>
-              <dt> Note 5 du tableau 2 </dt>
-              <dd id="table2-fn5">
-                <p>Voir le tableau 1E pour une ventilation détaillée.</p>
-                <p class="fn-rtn"> <a href="#table2-fn5-rf"><span class="wb-inv">Retour à la référence de la note </span>5<span class="wb-inv"> du tableau 2</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
   </table>
+  <div class="wb-fnote">
+    <dl>
+      <dt> Note 1 du tableau 2 </dt>
+      <dd id="table2-fn1">
+        <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+        <p class="fn-rtn"> <a href="#table2-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 2</span></a></p>
+      </dd>
+      <dt> Note 2 du tableau 2 </dt>
+      <dd id="table2-fn2">
+        <p>Voir le tableau 1B pour une ventilation détaillée.</p>
+        <p class="fn-rtn"> <a href="#table2-fn2-rf"><span class="wb-inv">Retour à la référence de la note </span>2<span class="wb-inv"> du tableau 2</span></a></p>
+      </dd>
+      <dt> Note 3 du tableau 2 </dt>
+      <dd id="table2-fn3">
+        <p>Voir le tableau 1C pour une ventilation détaillée.</p>
+        <p class="fn-rtn"> <a href="#table2-fn3-rf"><span class="wb-inv">Retour à la référence de la note </span>3<span class="wb-inv"> du tableau 2</span></a></p>
+      </dd>
+      <dt> Note 4 du tableau 2 </dt>
+      <dd id="table2-fn4">
+        <p>Voir le tableau 1D pour une ventilation détaillée.</p>
+        <p class="fn-rtn"> <a href="#table2-fn4-rf"><span class="wb-inv">Retour à la référence de la note </span>4<span class="wb-inv"> du tableau 2</span></a></p>
+      </dd>
+      <dt> Note 5 du tableau 2 </dt>
+      <dd id="table2-fn5">
+        <p>Voir le tableau 1E pour une ventilation détaillée.</p>
+        <p class="fn-rtn"> <a href="#table2-fn5-rf"><span class="wb-inv">Retour à la référence de la note </span>5<span class="wb-inv"> du tableau 2</span></a></p>
+      </dd>
+    </dl>
+  </div>
   <table class="table table-bordered table-condensed">
     <caption>
     Tableau 1B&nbsp;: Soutien aux familles pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table3-fn1-rf"><a class="fn-lnk" href="#table3-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 3</span></a></sup>
@@ -2746,21 +2723,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>164</strong></td>
       </tr>
     </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table3-fn">Notes du tableau 3</h5>
-            <dl>
-              <dt> Note 1 du tableau 3 </dt>
-              <dd id="table3-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table3-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 3</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
   </table>
+  <div class="wb-fnote">
+    <dl>
+      <dt> Note 1 du tableau 3 </dt>
+      <dd id="table3-fn1">
+        <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+        <p class="fn-rtn"> <a href="#table3-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 3</span></a></p>
+      </dd>
+    </dl>
+  </div>
   <table class="table table-bordered table-condensed">
     <caption>
     Tableau 1C&nbsp;: Investir dans les collectivités pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table4-fn1-rf"><a class="fn-lnk" href="#table4-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 4</span></a></sup>
@@ -2844,21 +2816,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right" headers="sfc-1c-c4 sfc-1c-sub">609</td>
       </tr>
     </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table4-fn">Notes du tableau 4</h5>
-            <dl>
-              <dt> Note 1 du tableau 4 </dt>
-              <dd id="table4-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table4-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 4</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
   </table>
+  <div class="wb-fnote">
+    <dl>
+      <dt> Note 1 du tableau 4 </dt>
+      <dd id="table4-fn1">
+        <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+        <p class="fn-rtn"> <a href="#table4-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 4</span></a></p>
+      </dd>
+    </dl>
+  </div>
   <table class="table table-bordered table-condensed">
     <caption>
     Tableau 1D&nbsp;: Protéger l'environnement naturel du Canada pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table5-fn1-rf"><a class="fn-lnk" href="#table5-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 5</span></a></sup>
@@ -2915,21 +2882,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>41</strong></td>
       </tr>
     </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table5-fn">Notes du tableau 5</h5>
-            <dl>
-              <dt> Note 1 du tableau 5 </dt>
-              <dd id="table5-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table5-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 5</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
   </table>
+  <div class="wb-fnote">
+    <dl>
+      <dt> Note 1 du tableau 5 </dt>
+      <dd id="table5-fn1">
+        <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+        <p class="fn-rtn"> <a href="#table5-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 5</span></a></p>
+      </dd>
+    </dl>
+  </div>
   <table class="table table-bordered table-condensed">
     <caption>
     Tableau 1E&nbsp;: Créer des collectivités autochtones vigoureuses pour les exercices financiers de 2013 à 2014 et de 2014 à 2015 (en millions de dollars)<sup id="table6-fn1-rf"><a class="fn-lnk" href="#table6-fn1"><span class="wb-inv">Voir la note </span>1<span class="wb-inv"> du tableau 6</span></a></sup>
@@ -2992,21 +2954,16 @@ title: "Guide de rédaction du contenu du site Canada.ca"
         <td class="text-right"><strong>185</strong></td>
       </tr>
     </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4"><section class="wb-fnote">
-            <h5 class="wb-inv" id="table6-fn">Notes du tableau 6</h5>
-            <dl>
-              <dt> Note 1 du tableau 6 </dt>
-              <dd id="table6-fn1">
-                <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
-                <p class="fn-rtn"> <a href="#table6-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 6</span></a></p>
-              </dd>
-            </dl>
-          </section></td>
-      </tr>
-    </tfoot>
   </table>
+  <div class="wb-fnote">
+    <dl>
+      <dt> Note 1 du tableau 6 </dt>
+      <dd id="table6-fn1">
+        <p>Les montants annuels ayant été arrondis, leur somme peut ne pas correspondre au total indiqué.</p>
+        <p class="fn-rtn"> <a href="#table6-fn1-rf"><span class="wb-inv">Retour à la référence de la note </span>1<span class="wb-inv"> du tableau 6</span></a></p>
+      </dd>
+    </dl>
+  </div>
   <h4>Ce que nous avons fait</h4>
   <p>Pour créer ces tableaux, nous avons&nbsp;:</p>
   <ul>
