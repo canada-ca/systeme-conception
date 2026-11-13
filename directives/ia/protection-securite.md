@@ -71,7 +71,7 @@ Vous pouvez également communiquer avec le bureau de l’accès à l’informati
 
 - [Liste des coordonnateurs de l’accès à l’information et de la protection des renseignements personnels par institution](https://www.tbs-sct.canada.ca/ap/atip-aiprp/coord-fra.asp)
 
-### Caviarder les menaces, les blasphèmes et les tentatives de manipulation de l’IA
+## Caviarder les menaces, les blasphèmes et les tentatives de manipulation de l’IA
 
 Appliquez des modèles de caviardage dans le code pour les blasphèmes, les menaces et les manipulations.
 
@@ -93,9 +93,9 @@ Il existe trois séries de fichiers de mots et de phrases, en anglais et en fran
 
 Avant de mettre en œuvre une application d’aide utilisant l’IA, assurez-vous que votre organisation a mis en place un processus pour traiter les messages menaçants. Un processus semblable peut déjà exister pour traiter les menaces reçues par courriel, par les médias sociaux et/ou par les centres d’appel.
 
-Ce qu’il faut faire&nbsp;:
+### Ce qu’il faut faire
 
-- Suivre les mêmes procédures que celles mises en place par votre organisation pour les menaces reçues par courriel, par les médias sociaux et/ou par les centres d’appel.
+Suivre les mêmes procédures que celles mises en place par votre organisation pour les menaces reçues par courriel, par les médias sociaux et/ou par les centres d’appel.
 
 ## Établir un calendrier de conservation et de suppression
 
