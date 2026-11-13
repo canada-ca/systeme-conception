@@ -81,7 +81,7 @@ Alignez le fil d’Ariane à gauche, directement sous le bouton de menu ou la li
 
 - Spécification de la police de caractères : Noto Sans, 16px
 - Utilisez des couleurs normalisées pour les liens du fil d’Ariane
-  - [Reportez-vous aux directives concernant les couleurs]({{ '/styles/coleurs.html' | absolute_url }}) pour obtenir les codes de couleur exacts.
+  - [Reportez-vous aux directives concernant les couleurs]({{ '/styles/couleurs.html' | absolute_url }}) pour obtenir les codes de couleur exacts.
 - Espaces&nbsp;:
   - Marges intérieures (<i lang="en">padding</i>) verticales&nbsp;: 13&nbsp;px
   - Marges intérieures (<i lang="en">padding</i>) horizontales&nbsp;: 2&nbsp;px
