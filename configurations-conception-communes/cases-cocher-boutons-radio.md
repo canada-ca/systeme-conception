@@ -830,9 +830,9 @@ title: "Cases à cocher et boutons radio"
 </details>
 
 <section>
- <h2 id="configurations">
+ <h3 id="configurations">
   Options de configuration
- </h2>
+ </h3>
  <table class="table">
   <thead>
    <tr>

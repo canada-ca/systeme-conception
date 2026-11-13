@@ -135,12 +135,12 @@ Réalisez des études de référence avec ou sans modérateur avec des personnes
 <table class="table table-bordered">
   <tbody>
     <tr class="bg-primary">
-      <td>
+      <th>
         Avec modérateur
-      </td>
-      <td>
+      </th>
+      <th>
         Sans modérateur
-      </td>
+      </th>
     </tr>
     <tr>
       <td>
