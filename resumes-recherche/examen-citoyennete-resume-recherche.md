@@ -42,7 +42,7 @@ title: "Projet d'optimisation de l'examen pour la citoyenneté"
     <p>En ajoutant une fonctionnalité de «&nbsp;recherche dans le document&nbsp;» et une de navigation à gauche de l'écran, les utilisateurs réussissent plus facilement à naviguer dans le document et à trouver ce dont ils avaient besoin. </p>
   </details>
   <h2>Mesurer la réussite</h2>
-  <p>Réussite! Notre objectif était d'améliorer la repérabilité et la réussite des tâches d'au moins 20 points de pourcentage, ou de dépasser 80&nbsp;% pour les deux mesures. Nous avons remis à l'essai les six mêmes tâches à l'aide de notre prototype avec 17 nouveaux participants. La réussite des tâches a augmenté de 17&nbsp;% pour atteindre un total de 86&nbsp;%.</p>
+  <p>Réussite! Notre objectif était d'améliorer la repérabilité et la réussite des tâches d'au moins 20 points de pourcentage, ou de dépasser 80&nbsp;% pour les deux mesures. Nous avons remis à l'essai les six mêmes tâches à l'aide de notre prototype avec 17 nouveaux participants. La réussite des tâches a augmenté de 17 points de pourcentage pour atteindre un total de 86&nbsp;%.</p>
   <p>Ce graphique montre les taux de réussite et de repérabilité de toutes les tâches dans les phases de référence et de validation&nbsp;: </p>
 </div>
 <div><img class="img-responsive hidden-sm hidden-xs" alt="Voir le tableau qui suit pour les données." src="/resumes-recherche/images/citoyennete-taux-de-reussite.jpg"/></div>
@@ -109,5 +109,5 @@ title: "Projet d'optimisation de l'examen pour la citoyenneté"
 <p>Envoyez un «&nbsp;gazouillis&nbsp;» au moyen du mot-clic #Canadapointca.</p>
 <h2>Pour en savoir plus </h2>
 <ul>
-  <li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.language ] }} ">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
+  <li><a href="https://conception.canada.ca/partenaires/">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
 </ul>
