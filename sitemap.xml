@@ -210,19 +210,19 @@
     <lastmod>2025-03-27</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/sondage/decider.html</loc>
-    <lastmod>2026-07-08</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/retroaction/decider.html</loc>
     <lastmod>2026-10-09</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/a-propos/derniers-changements.html</loc>
+    <loc>https://conception.canada.ca/sondage/decider.html</loc>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/specifications/derniers-changements.html</loc>
     <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/a-propos/derniers-changements.html</loc>
   </url>
   <url>
     <loc>https://conception.canada.ca/configurations-conception-communes/diagrammes-graphiques.html</loc>
@@ -656,12 +656,12 @@
     <lastmod>2025-03-28</lastmod>
   </url>
   <url>
-    <loc>https://conception.canada.ca/sondage/soutien.html</loc>
-    <lastmod>2023-04-05</lastmod>
-  </url>
-  <url>
     <loc>https://conception.canada.ca/retroaction/soutien.html</loc>
     <lastmod>2023-02-28</lastmod>
+  </url>
+  <url>
+    <loc>https://conception.canada.ca/sondage/soutien.html</loc>
+    <lastmod>2023-04-05</lastmod>
   </url>
   <url>
     <loc>https://conception.canada.ca/specifications.html</loc>
