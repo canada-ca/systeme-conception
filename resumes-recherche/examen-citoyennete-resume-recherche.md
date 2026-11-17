@@ -109,5 +109,5 @@ title: "Projet d'optimisation de l'examen pour la citoyenneté"
 <p>Envoyez un «&nbsp;gazouillis&nbsp;» au moyen du mot-clic #Canadapointca.</p>
 <h2>Pour en savoir plus </h2>
 <ul>
-  <li><a href="https://conception.canada.ca/partenaires/">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
+  <li><a href="{{ '/partenaires/' | absolute_url }}">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
 </ul>
