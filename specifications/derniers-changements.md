@@ -181,7 +181,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
       <li>Créé des lignes directrices pour la rédaction de métadonnées pour les pages Canada.ca&nbsp;: <a href="{{ '/specifications/information-trouvabilite/metadonnees.html' | absolute_url }}">Améliorer les titres et les métadonnées à des fins de trouvabilité</a>.</li>
       <li>Regroupé sur une même page les lignes directrices sur les domaines et les adresses URL&nbsp;: <a href="{{ '/specifications/elements-obligatoires/domaines-url.html' | absolute_url }}">Domaines et adresses URL du gouvernement du Canada</a>.</li>
       <li>Supprimé les mentions du système de conception de Canada.ca en les remplaçant par des mentions de la conception de Canada.ca. L’objectif est de clarifier que les ministères doivent se conformer aux éléments obligatoires de la conception de Canada.ca, mais qu’ils sont libres d’utiliser le système de design qui leur convient le mieux.</li>
-      <li>Mis à jour la page &laquo;&nbsp;À propos de Canada.ca&nbsp;&raquo; pour mieux refléter les recherches des utilisateurs et utilisatrices&nbsp;: <a href="{{ '/a-propos' | absolute_url }}">À propos de Canada.ca</a>.</li>
+      <li>Mis à jour la page &laquo;&nbsp;À propos de Canada.ca&nbsp;&raquo; pour mieux refléter les recherches des utilisateurs et utilisatrices&nbsp;: <a href="https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html">À propos de Canada.ca</a>.</li>
       <li>Ajouté une nouvelle page pour les résumés de recherche relatifs à la conception et à l’expérience utilisateur de Canada.ca&nbsp;: <a href="{{ '/resumes-recherche/' | absolute_url }}">Résumés de recherche</a>.</li>
     </ul>
   </details>
@@ -283,7 +283,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
     <p>Nous avons fait les changements suivants&nbsp;:</p>
     <ul>
       <li>nous avons  mis à jour la <a href="{{ '/' | absolute_url }}">page d'accueil du système de conception</a> pour faciliter le repérage des différentes directives</li>
-      <li>nous avons ajouté une nouvelle section intitulée <a href="https://design.canada.ca/designing-content.html">Concevoir du contenu pour Canada.ca</a> qui explique comment utiliser les lignes directrices pour concevoir un contenu qui aide les gens</li>
+      <li>nous avons ajouté une nouvelle section intitulée <a href="{{ '/concevoir-contenu.html' | absolute_url }}">Concevoir du contenu pour Canada.ca</a> qui explique comment utiliser les lignes directrices pour concevoir un contenu qui aide les gens</li>
     </ul>
   </details>
   <details>
@@ -298,7 +298,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
     <summary><time datetime="2020-10-21">21 octobre 2020</time></summary>
     <p>Nous avons fait les changements suivants&nbsp;:</p>
     <ul>
-      <li>Nous avons modifié les <a href="{{ '/specifications/elements-obligatoires.html' | absolute_url }}">Éléments obligatoires du système de conception</a> pour spécifier que l'utilisation du <a href="{{ '/configurations-conception-communes/canada-point-ca.html' | absolute_url }}">domaine Canada.ca</a> est obligatoire.</li>
+      <li>Nous avons modifié les <a href="{{ '/specifications/elements-obligatoires.html' | absolute_url }}">Éléments obligatoires du système de conception</a> pour spécifier que l'utilisation du <a href="{{ '/specifications/utilisation-concept-canadaca.html' | absolute_url }}">domaine Canada.ca</a> est obligatoire.</li>
       <li>Nous avons ajouté une version bêta de la conception de configuration <a href="{{ '/configurations-conception-communes/cases-cocher-boutons-radio.html' | absolute_url }}">Cases à cocher et boutons radio</a>.</li>
     </ul>
   </details>
@@ -342,7 +342,7 @@ title: "Derniers changements apportés à la conception de Canada.ca"
       <li><a href="{{ '/modeles-obligatoire/pages-profil-institutionnel.html' | absolute_url }}">Page d'accueil institutionnelle</a>: nous présentons un nouveau modèle bêta pour la page d'accueil institutionnelle, en fusionnant les profils institutionnel et organisationnel pour mieux refléter le rôle et le but de ce modèle obligatoire.</li>
       <li>Signaler un problème: nous avons modifié les directives pour permettre une certaine personnalisation.</li>
       <li><a href="{{ '/modeles-recommandes/transparence.html' | absolute_url }}">Modèle de transparence</a>: nous suggérons une nouvelle mise en page pour la transparence et les rapports organisationnels.</li>
-      <li><a href="{{ '/modeles-recommandes/base.html' | absolute_url }}">Mise en page de base</a>: nous avons créé des exemples qui montrent comment les modèles peuvent être combinés sur une mise en page de base.</li>
+      <li><a href="{{ 'https://systeme-design.canada.ca/fr/modeles-de-page/basic/">Mise en page de base</a>: nous avons créé des exemples qui montrent comment les modèles peuvent être combinés sur une mise en page de base.</li>
       <li><a href="{{ '/configurations-conception-communes/alertes-contextuelles.html' | absolute_url }}">Alertes contextuelles</a>: nous présentons un nouveau modèle bêta pour les alertes contextuelles.</li>
       <li><a href="{{ '/configurations-conception-communes/contenu-reductible.html' | absolute_url }}">Afficher/masquer</a>: nous avons modifié les directives pour permettre l'utilisation d'afficher/masquer du contenu pour présenter un choix entre des réponses mutuellement exclusives.</li>
     </ul>
@@ -365,10 +365,10 @@ title: "Derniers changements apportés à la conception de Canada.ca"
         <li>Comment organiser le contenu</li>
         <li>Comment concevoir le contenu</li>
       </ul>
-      <li>Les <a href="{{ site.urlcanadaca }}/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html">Éléments obligatoires</a> spécifient ce que les ministères doivent faire pour refléter la marque numérique fiable du gouvernement du Canada.</li>
+      <li>Les <a href="{{ '/specifications/elements-obligatoires.html' | absolute_url }}">Éléments obligatoires</a> spécifient ce que les ministères doivent faire pour refléter la marque numérique fiable du gouvernement du Canada.</li>
       <li>La <a href="{{ site.urlcanadaca }}/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html">Bibliothèque de modèles et de configurations de conception</a> contient tous les renseignements détaillés sur les modèles et les configurations de conception spécifiques.</li>
       <li>Un nouveau <a href="{{ site.urlcanadaca }}/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles/trouvez-modeles-configurations-conception-contenu-web.html">sélecteur interactif</a> facilite la recherche du bon modèle ou de la bonne configuration de conception.</li>
-      <li>La section <a href="{{ site.urlcanadaca }}/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/organiser-contenu.html">Organiser le contenu</a> simplifie les renseignements sur l'architecture de l'information, les catégories de besoins des utilisateurs et le modèle d'URL.</li>
+      <li>La section <a href="{{ '/specifications/information-trouvabilite/organiser-contenu.html' | absolute_url }}">Organiser le contenu</a> simplifie les renseignements sur l'architecture de l'information, les catégories de besoins des utilisateurs et le modèle d'URL.</li>
       <li>Le modèle de <a href="{{ '/modeles-obligatoire/sujet.html' | absolute_url }}">page de sujet</a> est maintenant obligatoire seulement pour les 2 premiers niveaux de sujet, bien qu'il puisse être utilisé pour les niveaux inférieurs lorsqu'approprié.</li>
       <li>Le modèle de page d'accueil a été mis à jour pour refléter les modifications apportées au site en direct.</li>
     </ul>
