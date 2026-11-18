@@ -58,7 +58,7 @@ Le visualiseur de rétroaction ne conserve les commentaires provenant de Rétroa
 Les commentaires sont supprimés au cours de la première semaine de chaque trimestre.
 
 <table class="provisional gc-table table">
-	<caption>Comment deletion schedule</caption>
+	<caption>Calendrier de suppression des commentaires</caption>
 	<thead>
 		<tr>
 			<th>Trimestre</th>
