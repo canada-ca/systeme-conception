@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://design.canada.ca/partners/project-02.html"
+altLangPage: "https://design.canada.ca/partners/project-12.html"
 date: 2018-01-03
 dateModified: 2018-01-03
 description: "Projet partenaire : Faciliter la recherche d’emplois gouvernementaux sur Canada.ca pour les Canadiens et Canadiennes.Date : Été 2018"
