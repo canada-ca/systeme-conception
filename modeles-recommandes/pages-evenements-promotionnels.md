@@ -201,7 +201,7 @@ title: "Pages d'événements promotionnels - Modèle de Canada.ca"
 <section>
   <h2 id="changements">Derniers changements</h2>
   <dl class="dl-horizontal">
-    <dt>2018-12-19</dt>
-    <dd>Ajout d’une section d’information au sujet de l’utilisation du modèle de page d’événements promotionnels.</dd>
+    <dt>2025-11-28</dt>
+    <dd>Ajout d'une alerte pour indiquer que ce modèle sera mis hors service.</dd>
   </dl>
 </section>
