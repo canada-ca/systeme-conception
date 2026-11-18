@@ -94,7 +94,7 @@ title: "Transparence et rapports sur l'organisation - Modèle recommandé de Can
      <div class="col-xs-10 col-sm-3 col-md-3 col-lg-2">
       <p>
        <a class="gc-dwnld-lnk" href="../mise-en-page/transparence_directives.html">
-        <img alt="" class="thumbnail gc-dwnld-img" height="142" src="../images/transparency-fr-cropped.png" width="110"/>
+        <img alt="Capture d'écran du modèle de page de transparence et de rapports sur l'organisation" class="thumbnail gc-dwnld-img" height="142" src="../images/transparency-fr-cropped.png" width="110"/>
        </a>
       </p>
      </div>
