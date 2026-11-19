@@ -88,7 +88,7 @@ title: Boutons
    aider une personne à amorcer ou à mener à bien une transaction (un bouton « Se connecter », par exemple);
   </li>
   <li>
-   invoquer une fonction, commme « Partager cette page »;
+   invoquer une fonction, comme « Partager cette page »;
   </li>
   <li>
    offrir un ensemble permanent de commandes d’interface utilisateur dans une série de page, par exemple « précédent », « suivant », ou « retour à la table des matières »
@@ -113,7 +113,7 @@ title: Boutons
   Comment mettre en oeuvre
  </h2>
  <p>
-  Utiliser le bon type bouton:
+  Utiliser le bon type de bouton:
  </p>
  <ol>
   <li>
@@ -161,13 +161,13 @@ title: Boutons
    présenter une demande à un programme ou à un service
   </li>
   <li>
-   lancer un calculateur
+   lancer une calculatrice
   </li>
   <li>
    débuter une série de questions interactives
   </li>
   <li>
-   trouver un clinique
+   trouver une clinique
   </li>
  </ul>
  <p>
@@ -288,14 +288,14 @@ title: Boutons
  </p>
  <div class="pattern-demo mrgn-bttm-md">
   <button class="btn btn-link">
-   Redémarrer le calculateur
+   Redémarrer la calculatrice
   </button>
  </div>
  <details>
   <summary>
    Code
   </summary>
-  <pre><code>&lt;button class="btn btn-link"&gt;Redémarrer le calculateur&lt;/button&gt;</code></pre>
+  <pre><code>&lt;button class="btn btn-link"&gt;Redémarrer la calculatrice&lt;/button&gt;</code></pre>
  </details>
  <h3 id="connecter">
   6. Bouton contextuel « Se connecter »
@@ -318,7 +318,7 @@ title: Boutons
   </li>
   <li>
    <a href="connexion-contextuel.html">
-    Conseils sur le bouton contextual « Se connecter »
+    Conseils sur le bouton contextuel « Se connecter »
    </a>
   </li>
  </ul>
@@ -366,7 +366,7 @@ title: Boutons
      Boutons groupés
     </td>
     <td>
-     Grouper les côte à côte pour les contrôles comme les les boutons qui permettent de basculer d'un état à un autre.
+     Grouper les boutons côte à côte pour les contrôles comme les boutons qui permettent de basculer d'un état à un autre.
     </td>
     <td>
      Entourer les boutons groupés d'un
@@ -385,7 +385,7 @@ title: Boutons
      Changer la taille
     </td>
     <td>
-     Modifier la taille des boutons pour améliorer la visibilité d'un appel à l'action ou pour gagner de la place dans les conceptions tels que boutons qui permettent de basculer d'un état à un autre.
+     Modifier la taille des boutons pour améliorer la visibilité d'un appel à l'action ou pour gagner de la place dans les conceptions tels que les boutons qui permettent de basculer d'un état à un autre.
     </td>
     <td>
      Ajouter les classes suivantes au bouton :
