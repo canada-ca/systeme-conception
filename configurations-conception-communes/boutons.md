@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/buttons.html
 date: null
 dateModified: '2022-09-23'
-description: null
+description: Directives pour l'utilisation des boutons
 section-title: "Système de conception de Canada.ca"
 title: Boutons
 ---
