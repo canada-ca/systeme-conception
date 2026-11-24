@@ -80,7 +80,6 @@ title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxi
 <p>Comme le résume notre expert en recherche (nous traduisons librement)&nbsp;:
 <blockquote>« La recherche est difficile. Une recherche efficace l’est encore plus. »</blockquote>
 </p>
-<div class="clearfix"></div>
 <h2>Demander les résultats de recherche</h2>
 <p>Si vous souhaitez obtenir les conclusions de recherche de ce projet, écrivez-nous à l’adresse suivante : <a href="mailto:dsd.ceo-bec.dsn@servicecanada.gc.ca">dsd.ceo-bec.dsn@servicecanada.gc.ca</a>.</p>
 <h2>Qu’en pensez-vous?</h2>
