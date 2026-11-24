@@ -69,7 +69,7 @@ title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxi
   <li>l’amélioration de la taxonomie du SGRAS et l’application des valeurs mises à jour</li>
   <li>l’exclusion des entrées désuètes ou redondantes de l’index</li>
 </ul>
-<p>Ce « post-traitement » des données avant l’indexation a exigé beaucoup de travail. Les incohérences et les problèmes de qualité des données ont également compliqué les choses.</p>
+<p>Ce «&nbsp;post-traitement&nbsp;» des données avant l’indexation a exigé beaucoup de travail. Les incohérences et les problèmes de qualité des données ont également compliqué les choses.</p>
 <p>Idéalement, ces problèmes devraient être corrigés à la source plutôt que corrigés après coup. Pour y parvenir, il faut réunir les personnes qui connaissent le mieux les données ou le contenu.</p>
 <h3>Consacrer des ressources à la surveillance du rendement et à la curation des données</h3>
 <p>Votre solution de recherche est-elle efficace? Pour répondre à cette question, il faut définir des indicateurs de rendement de la recherche et effectuer des analyses régulières.</p>
