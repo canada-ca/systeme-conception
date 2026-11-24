@@ -88,5 +88,5 @@ title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxi
 <h2>Pour en savoir plus</h2>
 <ul>
   <li><a href="{{ '/resumes-recherche/rappels-resume-recherche.html' | absolute_url }}">Résumé de recherche: Rappels et avis de sécurité</a> (Ronde 1)</li>
-  <li>Lire des aperçus d’autres <a href="https://conception.canada.ca/partenaires/#projets">projets menés avec nos partenaires</a></li>
+  <li>Lire des aperçus d’autres <a href="{{ '/partenaires/#projets' | absolute_url }}">projets menés avec nos partenaires</a></li>
 </ul>
