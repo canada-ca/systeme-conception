@@ -38,7 +38,7 @@ title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxi
   <li>Traitement des requêtes et fonctionnalités de recherche
     <ul>
       <li>Limiter les résultats selon une date ou d’autres critères</li>
-      <li>Classification, facettes, suggestions automatiques, correction des erreurs (« Vouliez-vous dire...? »), etc.</li>
+      <li>Classification, facettes, suggestions automatiques, correction des erreurs («&nbsp;Vouliez-vous dire...?&nbsp;»), etc.</li>
     </ul>
   </li>
   <li>Conception de l’interface de recherche et présentation des résultats
