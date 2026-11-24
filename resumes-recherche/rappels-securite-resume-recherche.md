@@ -41,7 +41,7 @@ title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxi
       <li>Classification, facettes, suggestions automatiques, correction des erreurs (« Vouliez-vous dire...? »), etc.</li>
     </ul>
   </li>
-  <li>•	Conception de l’interface de recherche et présentation des résultats
+  <li>Conception de l’interface de recherche et présentation des résultats
     <ul>
       <li>Extraits, ordre de tri, options d’affinage, stratégies de récupération lorsqu’aucun résultat n’est trouvé, etc.</li>
     </ul>
