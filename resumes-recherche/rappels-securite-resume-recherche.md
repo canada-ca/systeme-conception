@@ -77,7 +77,7 @@ title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxi
 <p>Si votre solution de recherche regroupe des données et du contenu provenant de plusieurs sources, la curation des données est essentielle. L’infrastructure de publication (système de gestion du contenu) devrait assurer la cohérence structurelle et imposer certaines contraintes, par exemple au moyen de vocabulaires contrôlés pour le balisage du contenu. La qualité du contenu doit également faire l’objet d’une surveillance continue. Les résultats de cette surveillance devraient servir à améliorer les structures de données, les lignes directrices et les ressources communes, comme les vocabulaires contrôlés.</p>
 <h2>La recherche ne s’arrête jamais</h2>
 <p>Pour avoir une solution de recherche efficace, il faut y affecter les ressources nécessaires. Sa conception et son maintien requièrent l’apport de spécialistes possédant des compétences variées. Pensons ici aux experts du domaine, aux architectes de l’information, aux concepteurs de contenu, aux développeurs, aux spécialistes des données et des réseaux, aux analystes de la recherche et aux chercheurs en expérience utilisateur.</p>
-<p>Comme le résume notre expert en recherche (nous traduisons librement) :
+<p>Comme le résume notre expert en recherche (nous traduisons librement)&nbsp;:
 <blockquote>« La recherche est difficile. Une recherche efficace l’est encore plus. »</blockquote>
 </p>
 <div class="clearfix"></div>
