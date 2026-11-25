@@ -34,7 +34,7 @@ title: "Pied de page général&nbsp;: Bande principale"
 <section>
   <h2 id="eviter">Quoi éviter</h2>
   <p>N’ajustez pas les liens ou le contenu dans la bande principale. Elle doit rester la même dans l’ensemble du site Web du
-    gouvernement du Canada. Pour les liens qui sont propres à une organisation ou à un programme, utilisez la <a href="./pied-page-contextuelle.html">bande contextuelle</a>.</p>
+    gouvernement du Canada. Pour les liens qui sont propres à une organisation ou à un programme, utilisez la <a href="{{ '/pied-page-contextuelle.html' | absolute_url }}">bande contextuelle</a>.</p>
 </section>
 <section>
   <h2 id="conception">Contenu et conception</h2>
