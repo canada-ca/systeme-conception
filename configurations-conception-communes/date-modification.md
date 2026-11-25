@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/date-modified.html
 date: null
 dateModified: '2025-03-27'
-description: null
+description: Directives pour l'utilisation de la composante de date de modification
 section-title: Configuration de conception de Canada.ca
 title: Date de modification
 ---
@@ -48,7 +48,7 @@ title: Date de modification
   Objectifs
  </h2>
  <p>
-  Utilisez la composante « Date de modification » pour fournir à aux gens la date où le contenu a été mis à jour en dernier.
+  Utilisez la composante « Date de modification » pour fournir aux gens la date où le contenu a été mis à jour en dernier.
  </p>
 </section>
 
@@ -57,7 +57,7 @@ title: Date de modification
   Quand utiliser la date de modification
  </h2>
  <p>
-  La date de modification est obligatoire sur toutes les pages. Dans les applications, elle peut être remplacée par une numéro de version. Pour en savoir plus, allez à
+  La date de modification est obligatoire sur toutes les pages. Dans les applications, elle peut être remplacée par un numéro de version. Pour en savoir plus, allez à
   <a href="{{ site.url }}/specifications/elements-obligatoires.html#entete-piedpage">
    Éléments obligatoires du système de conception</a>.
  </p>
