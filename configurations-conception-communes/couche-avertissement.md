@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/disclaimer-overlay.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Orientation sur l'utilisation de l'avertissement superposé
 title: "Avertissement superposé - Configuration de conception de Canada.ca"
 ---
 
