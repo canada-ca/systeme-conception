@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/download-links.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Orientation pour l'utilisation des liens de téléchargement
 title: "Liens de téléchargement - Configuration de conception de Canada.ca"
 ---
 
