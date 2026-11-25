@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/charts-graphs.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Orientation sur l'utilisation des diagrammes et graphiques
 title: Diagrammes et graphiques - Configuration de conception de Canada.ca
 ---
 
