@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/feature-banner.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Orientation pour l'utilisation de la bannière promotionnelle
 title: "Bannière promotionnelle - Configuration de conception de Canada.ca"
 ---
 
@@ -44,7 +44,7 @@ title: "Bannière promotionnelle - Configuration de conception de Canada.ca"
     Le nombre de caractères pour l’ensemble du texte (étiquettes de liens comprises) est limité à 65.
    </li>
    <li>
-    Le texte et les images doivent être liés, mais tous les liens de la bannière thématique doivent ponter vers la même destination. Autre option : le contenant entier doit fonctionner comme une même zone de lien.
+    Le texte et les images doivent être liés, mais tous les liens de la bannière thématique doivent pointer vers la même destination. Autre option : le contenant entier doit fonctionner comme une même zone de lien.
    </li>
    <li>
     Les éléments textuels doivent être codés en HTML. Il ne faut pas imbriquer le texte dans l’image.
