@@ -86,10 +86,10 @@ title: "Lien en vedette"
   </ul>
   <h3>Affichage aléatoire dans la BOEW</h3>
   <ul>
-    <li><a href="https://wet-boew.github.io/v4.0-ci/demos/wb-randomize/wb-randomize-fr.html">Aléatoire- exemples pratiques et code</a></li>
+    <li><a href="https://wet-boew.github.io/v4.0-ci/demos/wb-randomize/wb-randomize-fr.html">Aléatoire - exemples pratiques et code</a></li>
     <li><a href="https://wet-boew.github.io/GCWeb/docs/implementing-fr.html">Guide de mise en œuvre rapide – thème GCWeb</a></li>
   </ul>
-  <h3>Mises en oeuvre</h3>
+  <h3>Mises en œuvre</h3>
   <p>Déterminez ce qui convient le mieux au type de page que vous créez.</p>
   <div class="row">
     <div class="col-md-8">
