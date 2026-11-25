@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/in-page-toc.html
 date: null
 dateModified: '2025-08-20'
-description: null
+description: Orientation pour l'utilisation de la table des matières à l'intérieur de la page
 title: "Table des matières à l'intérieur de la page"
 ---
 
