@@ -2,6 +2,7 @@
 altLangPage: "https://design.canada.ca/coded-layout/ministerial-profile-pages.html"
 dateModified: 2025-12-22
 title: Directives pour les pages de profil des ministres
+description: Orientation sur l’utilisation des pages de profil des ministres
 breadcrumbs:
   - link: "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
     title: "À propos de Canada.ca"
