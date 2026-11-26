@@ -104,5 +104,5 @@ title: "Inscription des entreprises et tenue des comptes – ARC"
 <ul>
   <li><a href="https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscrire-votre-entreprise/inscription-direct-entreprises-apercu.html">Consultez les nouvelles pages d'inscription en direct des entreprises</a> conçues en se basant sur les résultats du projet</li>
   <li><a href="https://blogue.canada.ca/2019/02/04/comptes-entreprises.html">Collaboration pour faciliter l'inscription des entreprises canadiennes</a>, un billet de blogue écrit par l'<abbr title="Agence du revenu du Canada">ARC</abbr>, notre partenaire d'optimisation</li>
-  <li><a href="https://conception.canada.ca/partenaires/">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
+  <li><a href="{{ '/partenaires/' | absolute_urll }}">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
 </ul>
