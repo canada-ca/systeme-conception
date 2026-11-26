@@ -119,9 +119,7 @@ title: "Choisir quoi améliorer"
  <li>
   Identifier les tâches qui posent
   <strong>
-   le plus de problèmes
-  </strong>
-  .
+   le plus de problèmes </strong>.
  </li>
  <li>
   Comprendre comment ces problèmes affectent vos utilisateurs et vos ressources internes.
