@@ -7,7 +7,7 @@ breadcrumbs:
   title: "Conception"
 date: null
 dateModified: '2020-11-23'
-description: null
+description: Page d'accueil pour la communauté du système de conception de Canada.ca. Principes de la communauté, comment contribuer, et liste d'améliorations
 title: "Communauté du système de conception"
 ---
 
