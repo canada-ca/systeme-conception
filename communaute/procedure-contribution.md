@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/community/contribution-process.html
 date: null
 dateModified: '2020-11-23'
-description: null
+description: Procédure pour contribuer au système de conception de Canada.ca
 title: "Procédure de contribution"
 ---
 
@@ -186,7 +186,7 @@ title: "Procédure de contribution"
 </h3>
 
 <p>
- Pour passer de bêta à stable, les critères suivans doivent être respectés :
+ Pour passer de bêta à stable, les critères suivants doivent être respectés :
 </p>
 
 <ul>
@@ -197,7 +197,7 @@ title: "Procédure de contribution"
   le code entièrement valide
  </li>
  <li>
-  aucun problème d'accessibilité est laissé en suspens
+  aucun problème d'accessibilité n'est laissé en suspens
  </li>
  <li>
   les commentaires de la communauté ont été résolus
