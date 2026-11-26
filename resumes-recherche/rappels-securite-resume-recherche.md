@@ -53,7 +53,7 @@ title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxi
 <p>L’expérience acquise dans le cadre du projet SGRAS nous a permis de mieux comprendre la complexité associée à la mise en place d’une recherche spécialisée efficace. Les principales recommandations, résumées ci-dessous, s’appliquent à toute mise en œuvre d’une solution de recherche spécialisée.</p>
 <h3>Comprendre les cas d’utilisation de la recherche</h3>
 <p>Pour concevoir une solution de recherche spécialisée efficace, il est important d’examiner les données probantes afin de comprendre comment les utilisateurs effectuent leurs recherches.</p>
-<p>Par exemple, des recherches antérieures avaient montré que les comportements de recherche dans le SGRAS suivaient des tendances distinctes : </p>
+<p>Par exemple, des recherches antérieures avaient montré que les comportements de recherche dans le SGRAS suivaient des tendances distinctes&nbsp;: </p>
 <ul>
   <li> recherche par produit (marque) ou par catégorie de produits (jouets, automobiles)</li>
   <li> recherche par préoccupation liée à la santé (allergies particulières)</li>
