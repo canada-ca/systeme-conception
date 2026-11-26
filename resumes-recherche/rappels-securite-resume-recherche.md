@@ -62,7 +62,7 @@ title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxi
 <p> La compréhension de ces tendances peut éclairer les décisions relatives à la structuration du contenu. Par exemple, les données du SGRAS ne comportaient pas de champ distinct pour les noms de marque ou les codes de produit. Cela a nui à la précision des résultats de recherche.</p>
 <h3>Corriger les données à la source, avec la participation des bonnes personnes</h3>
 <p>Une difficulté importante du SGRAS tenait au fait que le contenu provenait de plusieurs groupes et institutions. Chaque organisation appliquait ses propres processus, modèles et formats pour publier les rappels et autres avis concernant les produits dont elle assurait la surveillance.</p>
-<p>Dans le cadre de ce projet, nous disposions d’un ensemble de données statique. Nous avons donc pu effectuer manuellement des ajouts et des suppressions afin de préparer une source de données unique aux fins de l’indexation. Les changements apportés aux données comprenaient :</p>
+<p>Dans le cadre de ce projet, nous disposions d’un ensemble de données statique. Nous avons donc pu effectuer manuellement des ajouts et des suppressions afin de préparer une source de données unique aux fins de l’indexation. Les changements apportés aux données comprenaient&nbsp;:</p>
 <ul>
   <li>la séparation des avis portant sur plusieurs produits en avis distincts</li>
   <li>la révision du format des titres de rappel</li>
