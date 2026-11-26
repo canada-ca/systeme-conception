@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/continuous-improvement/choosing.html
 date: null
 dateModified: '2021-07-25'
-description: null
+description: Choisir quoi améliorer en utilisant une approche basée sur les tâches, surtout les tâches principales, pour ainsi améliorer la bonne chose 
 section-title: "Amélioration continue du contenu Web"
 title: "Choisir quoi améliorer"
 ---
