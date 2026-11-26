@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/interactive-questions.html
 date: null
 dateModified: '2021-04-22'
-description: null
+description: Orientation pour l'utilisation des questions interactives
 title: Questions interactives - Configuration de conception de Canada.ca
 ---
 
@@ -107,7 +107,7 @@ title: Questions interactives - Configuration de conception de Canada.ca
      Assurez-vous que les personnes sont capables de retourner pour annuler ou modifier une sélection précédente, au moyen des boutons ou des liens (comme un lien étiqueté « modifier votre sélection »).
     </li>
     <li>
-     Tous les boutons utilisés pour parcourir les questions doivent être étiquetés de façon appropriée pour le contexte (par exemple, « Continuer » pourrait être logique dans une situation, mais un choix plus précis dans une autre situation pourrait être « Découvrez si vous êtes admissibles »).
+     Tous les boutons utilisés pour parcourir les questions doivent être étiquetés de façon appropriée pour le contexte (par exemple, « Continuer » pourrait être logique dans une situation, mais un choix plus précis dans une autre situation pourrait être « Découvrez si vous êtes admissible »).
     </li>
     <li>
      Lorsque des questions interactives sont combinées avec le
