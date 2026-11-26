@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/privacy-disclaimer.html
 date: null
 dateModified: '2020-01-20'
-description: null
+description: Orientation pour l'utilisation des avis de confidentialité
 section-title: "Système de conception de Canada.ca"
 title: "Avis de confidentialité"
 ---
@@ -70,11 +70,7 @@ title: "Avis de confidentialité"
     Derniers changements
    </a>
   </li>
-  <li>
-   <a href="#discussion">
-    Discussion
-   </a>
-  </li>
+
  </ul>
 </section>
 
