@@ -106,11 +106,11 @@ title: "Communauté du système de conception"
   Tout le monde peut contribuer au système de conception de Canada.ca.
  </p>
  <p>
-  Voici des exemple de contributions possibles :
+  Voici des exemples de contributions possibles :
  </p>
  <ul>
   <li>
-   suggérer une amélioration d'un modèle conception
+   suggérer une amélioration d'un modèle de conception
   </li>
   <li>
    travailler sur un nouveau modèle ou une nouvelle mise en page
