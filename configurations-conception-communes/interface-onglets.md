@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/tabbed-interface.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Orientation pour l'utilisation de l'interface à onglets 
 title: "Interface à onglets - Configuration de conception de Canada.ca"
 ---
 
@@ -36,7 +36,7 @@ title: "Interface à onglets - Configuration de conception de Canada.ca"
     le contenu doit être présenté dans un ordre séquentiel précis (utilisez plutôt une configuration étape par étape);
    </li>
    <li>
-    le contenu doit être comparé et mis en opposition, ce qui obligerait l’utilisateur de passer constamment d’un onglet à l’autre (utilisez plutôt des tableaux ou d’autres configurations qui permettent de présenter tout le contenu en même temps);
+    le contenu doit être comparé et mis en opposition, ce qui obligerait l’utilisateur à passer constamment d’un onglet à l’autre (utilisez plutôt des tableaux ou d’autres configurations qui permettent de présenter tout le contenu en même temps);
    </li>
    <li>
     le contenu est long ou détaillé (en raison des contraintes d’espace de l’interface à onglets);
