@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/tables.html
 date: '2021-05-21'
 dateModified: '2025-07-25'
-description: null
+description: Orientation pour l'utilisation des tableaux.
 script: ../js/plugins/gc-responsive-preview.js
 title: Tableaux
 ---
