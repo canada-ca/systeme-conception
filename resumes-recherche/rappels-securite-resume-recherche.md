@@ -78,7 +78,7 @@ title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxi
 <h2>La recherche ne s’arrête jamais</h2>
 <p>Pour avoir une solution de recherche efficace, il faut y affecter les ressources nécessaires. Sa conception et son maintien requièrent l’apport de spécialistes possédant des compétences variées. Pensons ici aux experts du domaine, aux architectes de l’information, aux concepteurs de contenu, aux développeurs, aux spécialistes des données et des réseaux, aux analystes de la recherche et aux chercheurs en expérience utilisateur.</p>
 <p>Comme le résume notre expert en recherche (nous traduisons librement)&nbsp;:
-<blockquote>« La recherche est difficile. Une recherche efficace l’est encore plus. »</blockquote>
+<blockquote>«&nbsp;La recherche est difficile. Une recherche efficace l’est encore plus.&nbsp;»</blockquote>
 </p>
 <h2>Demander les résultats de recherche</h2>
 <p>Si vous souhaitez obtenir les conclusions de recherche de ce projet, écrivez-nous à l’adresse suivante : <a href="mailto:dsd.ceo-bec.dsn@servicecanada.gc.ca">dsd.ceo-bec.dsn@servicecanada.gc.ca</a>.</p>
