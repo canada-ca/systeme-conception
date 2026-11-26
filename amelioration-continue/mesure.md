@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/continuous-improvement/monitoring.html
 date: null
 dateModified: '2021-07-25'
-description: null
+description: Comment faire un suivi suite à vos amélioration et mesurer la performance.
 section-title: "Amélioration continue du contenu Web"
 title: "Suivi et mesure du succès"
 ---
@@ -24,7 +24,7 @@ title: "Suivi et mesure du succès"
 </ul>
 <h2 id="SRTGC">Sondage sur la réussite des tâches du GC</h2>
 <p>Dans le cadre des exigences de présentation de rapports du gouvernement du Canada, Emploi et Développement social Canada a adopté la méthode de sondage sur le succès des tâches comme principal moyen de mesurer le rendement du contenu et des services Web.</p>
-<p>Tous les ministères et organismes assujettis à la <cite>Directive sur la gestion des communications</cite> sont tenus de mettre en oeuvre le Sondage sur la réussite des tâches du GC sur leurs propriétés Web.</p>
+<p>Tous les ministères et organismes assujettis à la <cite>Directive sur la gestion des communications</cite> sont tenus de mettre en œuvre le Sondage sur la réussite des tâches du GC sur leurs propriétés Web.</p>
 <ul>
   <li><a href="https://conception.canada.ca/sondage/index.html">Sondage sur la réussite des tâches du GC</a></li>
 </ul>
