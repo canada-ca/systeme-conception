@@ -273,7 +273,7 @@ title: "Pied de page général"
         <summary><strong>Système de design GC</strong></summary>
         <p class="mrgn-tp-lg">Pour le Système de design GC :</p>
         <ul>
-          <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/pied-de-page/">Documentation de Système de design GC</a></li>
+          <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/pied-de-page/">Documentation du Système de design GC</a></li>
         </ul>
       </details>
       <details id="005">
@@ -281,7 +281,7 @@ title: "Pied de page général"
         <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC) :</p>
         <ul>
           <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_47/cdts/samples/footer-fr.html">Pied de page complet (les bandes contextuelle, principale, et sous pied de page)</a></li>
-          <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation de la SGDC</a></li>
+          <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation SGDC</a></li>
         </ul>
       </details>
       <details id="006">
@@ -316,7 +316,7 @@ title: "Pied de page général"
    <dt>
       <time datetime="2025-05-15" class="link-muted">2025-05-15</time>
     </dt>
-    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le le Système de design GC</dd>
+    <dd>Mise à jour des caractéristiques typographiques en parallèle avec les activités d'alignement pour GCWeb et le Système de design GC</dd>
     <dt>
       <time datetime="2023-02-08" class="link-muted">2023-02-08</time>
     </dt>
