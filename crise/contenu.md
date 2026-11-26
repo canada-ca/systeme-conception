@@ -7,7 +7,7 @@ breadcrumbs:
   title: "Conception"
 date: null
 dateModified: '2021-12-21'
-description: null
+description: Une aide-mémoire pour la conception du contenu des communications de crise
 title: "Aide-mémoire pour la conception du contenu des communications de crise"
 ---
 
@@ -112,7 +112,7 @@ title: "Aide-mémoire pour la conception du contenu des communications de crise"
   La majorité des visites sur les pages de crise sont effectuées par des visiteurs avec leurs appareils mobiles.
  </p>
  <p>
-  Un style non littéraire et adapté pour le mobile rend le contenu plus efficace. Les approbations et la traduction seront plus vites.
+  Un style non littéraire et adapté pour le mobile rend le contenu plus efficace. Les approbations et la traduction seront plus rapides.
  </p>
 </section>
 
@@ -311,7 +311,7 @@ title: "Aide-mémoire pour la conception du contenu des communications de crise"
  </h2>
  <ul>
   <li>
-   « actuel » - À moins que l’information est mise à jour quotidiennement et que la date est indiquée
+   « actuel » - À moins que l’information soit mise à jour quotidiennement et que la date est indiquée
   </li>
   <li>
    « afin que »  - Utilisez des mots simples comme « pour » (voir
