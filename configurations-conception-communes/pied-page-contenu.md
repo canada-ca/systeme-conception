@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/site-footer-content.html
 date: null
 dateModified: '2025-10-28'
-description: Orientation pour l'utilisation du pied de page de la zone du contenu
+description: null
 title: 'Pied de page de la zone du contenu '
 ---
 
@@ -31,7 +31,7 @@ title: 'Pied de page de la zone du contenu '
 
 <h2>Comment mettre en œuvre le pied de page de la zone du contenu</h2>
 
-<p>Le pied de page de la zone du contenu peut comporter jusqu'à 2 éléments&nbsp;:</p>
+<p>Le pied de page de la zone du contenu peut comporter jusqu'à 3 éléments&nbsp;:</p>
 <ul>
  <li><a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html">Rétroaction GC</a> (facultatif)</li>
  <li><a href="date-modification.html">Date de modification</a> (obligatoire, mais peut être un numéro de version lorsqu'il est utilisé pour une application)</li>
