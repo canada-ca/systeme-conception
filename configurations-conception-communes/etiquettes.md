@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/labels.html
 date: null
 dateModified: '2021-02-08'
-description: null
+description: Orientation pour l'utilisation des étiquettes
 section-title: "Système de conception de Canada.ca"
 title: "\xC9tiquettes"
 ---
@@ -71,11 +71,6 @@ title: "\xC9tiquettes"
   <li>
    <a href="#derniers">
     Derniers changements
-   </a>
-  </li>
-  <li>
-   <a href="#discussion">
-    Discussion
    </a>
   </li>
  </ul>
@@ -167,7 +162,7 @@ title: "\xC9tiquettes"
   <strong>
    Quand l'utiliser :
   </strong>
-  pour donner des renseignements supplémentaires sur un item, commme ajouter des dates à une liste d'items.
+  pour donner des renseignements supplémentaires sur un item, comme ajouter des dates à une liste d'items.
  </p>
  <div class="pattern-demo mrgn-bttm-md">
   <a href="#">
@@ -240,7 +235,7 @@ title: "\xC9tiquettes"
   <strong>
    Quand l'utiliser :
   </strong>
-  pour étiquetter un item avec une catégorie, comme pour identifier un nouvel article de blogue. Les étiquettes indiquant qu'un item est nouveau devraient être temporaires.
+  pour étiqueter un item avec une catégorie, comme pour identifier un nouvel article de blogue. Les étiquettes indiquant qu'un item est nouveau devraient être temporaires.
  </p>
  <div class="pattern-demo mrgn-bttm-md">
   <h3 class="h5">
