@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/common-design-patterns/ordered-multipage.html
 ate: null
 dateModified: '2018-12-19'
-description: null
+description: Orientation pour l'utilisation de la navigation dans plusieurs pages ordonnées
 title: "Navigation dans plusieurs pages ordonnées - Configuration de conception\
   \ de Canada.ca"
 ---
@@ -68,7 +68,7 @@ title: "Navigation dans plusieurs pages ordonnées - Configuration de conception
     Assurez-vous que l’ordre et la position des liens de la page sont identiques sur chaque page de la série.
    </li>
    <li>
-    Numérotez les liens de chaque étape pour indiquer l’ordre de préférence. Il n’est obligatoire de numéroter tous les liens, s’ils représentent des pages ou des étapes qui ne sont pas séquentielles.
+    Numérotez les liens de chaque étape pour indiquer l’ordre de préférence. Il n’est pas obligatoire de numéroter tous les liens, s’ils représentent des pages ou des étapes qui ne sont pas séquentielles.
    </li>
    <li>
     Mettez en évidence le lien de la page active. Ne le mettez pas en surbrillance avec la même couleur utilisée sur les boutons d’action principale.
