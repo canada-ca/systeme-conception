@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/continuous-improvement.html
 date: null
 dateModified: '2021-07-25'
-description: null
+description: Page pour des sujets reliés à  l'amélioration continue du contenu Web
 title: "Amélioration continue du contenu Web"
 ---
 
