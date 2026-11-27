@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/recommended-templates/pages-index.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Modèles de pages d’index, qui présentent une liste de liens vers d’autres pages ou documents, et comment choisir selon la longueur de la liste
 title: "Pages d\u2019index - Modèle de Canada.ca"
 ---
 
@@ -786,7 +786,7 @@ title: "Pages d\u2019index - Modèle de Canada.ca"
           </summary>
           <ul>
            <li>
-            La saisie de texte ne filtre pas les résultats en temps réel. Les mots clés ne sont appliqués pour filtrer les résultats que lorsqu’une personne clique sur le bouton (ou appuie sur la touche « Enter »).
+            La saisie de texte ne filtre pas les résultats en temps réel. Les mots clés ne sont appliqués pour filtrer les résultats que lorsqu’une personne clique sur le bouton (ou appuie sur la touche « Entrée »).
            </li>
            <li>
             Le fait de saisir des mots clés et de cliquer sur le bouton « Trouver » ne doit jamais rétablir les valeurs par défaut des contrôles de filtrage supplémentaires qui suivent.
