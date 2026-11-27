@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/specifications/information-findability.html
 date: null
 dateModified: '2024-08-21'
-description: null
+description: "Comment organiser et structurer les pages Web pour faciliter la recherche et la réussite des tâches : contenu, métadonnées et données structurées"
 section-title: "Spécifications de Canada.ca"
 title: "Architecture de l’information et trouvabilité"
 breadcrumbs: [{
