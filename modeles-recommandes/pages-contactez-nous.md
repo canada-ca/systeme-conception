@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/recommended-templates/contact-us-pages.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Comment utiliser les modèles de pages de coordonnées pour aider les gens à trouver des coordonnées et joindre un ministère ou un organisme
 title: "Pages de\_coordonnées - Modèle de Canada.ca"
 ---
 
