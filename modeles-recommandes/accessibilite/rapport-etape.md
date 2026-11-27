@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/recommended-templates/accessibility/progress-report.html
 date: null
 dateModified: '2024-12-05'
-description: null
+description: Modèle pour publier le rapport d’étape annuel sur l’accessibilité d’une institution, avec des liens pour donner son avis et voir d’autres rapports
 title: Rapport d'étape sur l'accessibilité [année] pour [Nom de l'institution]
 section-title: ""
 breadcrumbs: [{
