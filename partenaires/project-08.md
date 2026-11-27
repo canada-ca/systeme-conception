@@ -16,7 +16,7 @@ title: "Communiquer avec l'ARC"
 <p>L'amélioration de la facilité d'utilisation des coordonnées de l'ARC permettra de :</p>
 <ul class="lst-spcd">
   <li>réduire le temps que les Canadiens passent à chercher des réponses;</li>
-  <li>rlibérer les agents des centres d'appels afin qu'ils puissent travailler à résoudre des problèmes plus complexes.</li>
+  <li>libérer les agents des centres d'appels afin qu'ils puissent travailler à résoudre des problèmes plus complexes.</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
