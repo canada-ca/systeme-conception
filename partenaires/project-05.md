@@ -29,8 +29,8 @@ title: "Optimisation de la recherche de rappels et d’avis de sécurité (deuxi
   <li>Vous songez à acheter un VUS Honda Pilote 2003. Vérifiez si ce véhicule a fait l'objet de rappels avant de l'acheter.</li>
   <li>Vous avez acheté ce chargeur USB à une station-service. Lorsque vous l'avez branché, vous avez reçu une décharge électrique. Vous voulez savoir si Santé Canada a émis une mise en garde au sujet de cet appareil.</li>
   <li>Des jouets pour enfants font actuellement l'objet de rappels. Trouvez et fournissez le nom du jouet rappelé qui vous préoccupe le plus.</li>
-  <li>Votre fille est allergique aux arachides. Elle a eu une réaction cet après-midi à la maison. Elle n'a mangé que ces deux aliments. Vérifier si l'un ou l'autre en était la cause.</li>
-  <li>Vous regardez ce haut-parleur Bluetooth sur eBay. Vérifier s'il y a des problèmes avec cet appareil. Devriez-vous poser des questions au vendeur sur un détail en particulier?</li>
+  <li>Votre fille est allergique aux arachides. Elle a eu une réaction cet après-midi à la maison. Elle n'a mangé que ces deux aliments. Vérifiez si l'un ou l'autre en était la cause.</li>
+  <li>Vous regardez ce haut-parleur Bluetooth sur eBay. Vérifiez s'il y a des problèmes avec cet appareil. Devriez-vous poser des questions au vendeur sur un détail en particulier?</li>
 </ul>
 <h2>Résumé de recherche</h2>
 <p><a href="https://conception.canada.ca/resumes-recherche/rappels-securite-resume-recherche.html">Recherche de rappels et d'avis de sécurité</a></p>
