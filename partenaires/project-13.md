@@ -15,7 +15,7 @@ title: "Se préparer à passer l'examen de citoyenneté"
 <h2>Pourquoi ce travail est important</h2>
 <ul class="lst-spcd">
   <li>Le Canada confère la citoyenneté à plus de 100&nbsp;000 personnes chaque année</li>
-  <li>Les candidats de citoyenneté canadienne ont dû s'adapter à un nouveau pays, à une nouvelle culture et souvent à une nouvelle langue</li>
+  <li>Les candidats à la citoyenneté canadienne ont dû s'adapter à un nouveau pays, à une nouvelle culture et souvent à une nouvelle langue</li>
   <li>Accéder au matériel dont ils ont besoin pour leur test de citoyenneté devrait être le moindre de leurs soucis</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
