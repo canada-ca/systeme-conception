@@ -52,7 +52,7 @@ title: "Rappels et alertes de sécurité"
   <li>Un ami vous a donné un siège d'auto pour bébé - le modèle 2014 Britax B-SAFE 35. Que devez-vous faire?</li>
   <li>Votre EpiPen va bientôt expirer. Vous avez entendu dire qu'il y a des problèmes de production. Trouvez ce que vous devez faire si vous avez une réaction allergique avant d'en obtenir un nouveau.</li>
   <li>Vous avez acheté de la bière Stella Artois. Vous avez entendu dire qu'il y a un problème avec cette marque. Vos bouteilles ont l'étiquette suivante. Sont-elles affectées?</li>
-  <li>Il y a des rappels en ce moment pour des jouets d'enfants que des personnes pourraient avoir acheter. Touvez et indiquez le nom du jouet qui fait l'objet d'un rappel que vous pensez être le plus inquiétant.</li>
+  <li>Il y a des rappels en ce moment pour des jouets d'enfants que des personnes pourraient avoir acheté. Trouvez et indiquez le nom du jouet qui fait l'objet d'un rappel que vous pensez être le plus inquiétant.</li>
   <li>Vous voulez acheter de la laitue. Vous vous souvenez d'avoir vu quelque chose disant que de la laitue avait rendu des gens malades. Quels types de laitue devez-vous éviter lors de vos achats d'aujourd'hui?</li>
   <li>Votre fille est allergique aux arachides. Elle a subi une réaction cet après-midi à la maison. Elle n'a mangé que les deux aliments suivants. Vérifiez si l'un ou l'autre en était la cause. Que feriez-vous?</li>
   <li>Vous regardez cette chaise haute sur eBay. Vérifiez s'il y a des problèmes avec cette chaise pour décider si vous allez l'acheter ou non.</li>
