@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/crisis/alerts.html
 date: null
 dateModified: '2025-05-19'
-description: null
+description: Directive pour guider l'implementation des alertes en situations urgentes et évolutives
 title: Alertes sur Canada.ca pour des situations urgentes et évolutives
 ---
 
