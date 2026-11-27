@@ -118,6 +118,6 @@ title: "Optimisation des prêts et des bourses aux étudiants"
 <h2>Pour en savoir plus</h2>
 <ul>
   <li>Consultez les pages mises à jour&nbsp;: <a href="https://www.canada.ca/fr/services/prestations/education/aide-etudiants.html">Aide aux étudiants</a></li>
-  <li>Lisez notre billet de blogue&nbsp;:&nbsp;<a href=" {{ '/2019/08/26/conseils-conception-contentu.html' | prepend: site.urlalt[ page.language ] }} ">Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales</a></li>
-  <li>Consultez les aperçus de nos autres <a href=" {{ '/pages/apercu-projet.html#projets' | prepend: site.urlalt[ page.language ] }} ">projets avec nos partenaires</a></li>
+  <li>Lisez notre billet de blogue&nbsp;:&nbsp;<a href="https://blogue.canada.ca/2019/08/26/conseils-conception-contentu.html">Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales</a></li>
+  <li>Consultez les aperçus de nos autres <a href="{{ '/partenaires/' | absolute_url }}">projets avec nos partenaires</a></li>
 </ul>
