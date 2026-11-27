@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/recommended-templates/accessibility/feedback-process.html
 date: null
 dateModified: '2024-12-05'
-description: null
+description: "Modèle de processus de rétroaction sur l’accessibilité : comment donner son avis, ce qu’il en advient et comment demander un autre format"
 title: Processus de rétroaction sur l’accessibilité à [nom de l’institution]
 section-title: ""
 breadcrumbs: [{
