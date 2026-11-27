@@ -215,10 +215,10 @@ title: "Prestations de maternité et prestations parentales de l'assurance-emplo
             href="https://www.canada.ca/fr/services/prestations/ae/assurance-emploi-maternite-parentales.html">pages
             mises à jour&nbsp;: Prestations de maternité et prestations parentales de l'assurance-emploi</a></li>
     <li>Lisez notre billet de blogue&nbsp;:&nbsp;<a
-            href=" {{ '/2019/08/26/conseils-conception-contentu.html' | prepend: site.urlalt[ page.language ] }} ">Six
+            href="https://blogue.canada.ca/2019/08/26/conseils-conception-contentu.html">Six
             conseils en matière de conception de contenu tirées de nos projets d'optimisation sur les prêts étudiants et
             les prestations parentales</a></li>
     <li>Consultez les aperçus de nos autres <a
-            href=" {{ '/pages/apercu-projet.html#projets' | prepend: site.urlalt[ page.language ] }} ">projets avec nos
+            href="{{ '/partenaires/' | absolute_url }}">projets avec nos
             partenaires</a></li>
 </ul>
