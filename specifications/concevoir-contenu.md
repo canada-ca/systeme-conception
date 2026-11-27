@@ -32,7 +32,7 @@ breadcrumbs: [{
     <h2 id="comment">Comment concevoir du contenu pour Canada.ca</h2>
     <p>Lors de la conception du contenu, concentrez-vous toujours sur la tâche. Toutes les décisions de conception devraient rendre la tâche plus facile aux utilisateurs afin de :</p>
     <ul>
-      <li><strong>trouver la bonne page :</strong> la façon dont les utilsateurs accèdent à la page, soit en naviguant, soit en recherchant</li>
+      <li><strong>trouver la bonne page :</strong> la façon dont les utilisateurs accèdent à la page, soit en naviguant, soit en recherchant</li>
       <li><strong>comprendre l’information :</strong> le contenu fournit-il les bonnes réponses, en utilisant les bons mots</li>
       <li><strong>utiliser le contenu pour mener à bien leur tâche :</strong> les configurations de conception choisies aident-elles la personne à réussir</li>
     </ul>
