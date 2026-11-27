@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/recommended-templates/accessibility/accessibility
 date: null
 dateModified: '2024-12-05'
-description: null
+description: Modèle de page sur l’accessibilité d’une institution, avec des liens vers son plan sur l’accessibilité, ses rapports d’étape et sa rétroaction
 title: Accessibilité à [nom de l’institution]
 section-title: ""
 breadcrumbs: [{
