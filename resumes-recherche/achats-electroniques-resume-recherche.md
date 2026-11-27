@@ -157,5 +157,5 @@ title: "Portail de solution d'achats électroniques (SAE)"
 <p>Envoyez un gazouillis en utilisant le mot-clic #Canadapointca.</p>
 <h2>Pour en savoir plus</h2>
 <ul>
-  <li>Consultez les aperçus de nos autres <a href="{{ '/pages/apercu-projet.html#projets' | prepend: site.urlalt[ page.language ] }}">projets avec nos partenaires</a></li>
+  <li>Consultez les aperçus de nos autres <a href="{{ '/partenaires/' | absolute_url }}">projets avec nos partenaires</a></li>
 </ul>
