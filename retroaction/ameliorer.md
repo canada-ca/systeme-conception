@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/feedback/benefits.html
 date: null
 dateModified: 2023-02-28
-description: null
+description: Comment la rétroaction sur les pages peut aider à améliorer le contenu et la navigation, informer les responsables et professionnaliser vos activités
 title: Comment la rétroaction sur une page peut aider votre travail
 ---
 
@@ -33,29 +33,29 @@ Les types courants de problèmes de contenu et de navigation peuvent être déco
     <tr>
       <th scope="col">Type</th>
       <th scope="col">Problème</th>
-      <th scope="col">Measure</th>
+      <th scope="col">Solution</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td data-label="Type"><span class="text-left">Erreurs techniques</span></td>
       <td data-label="Problème"><span class="text-left">Quelque chose ne fonctionne pas</span></td>
-      <td data-label="Measure"><span class="text-left">Corriger les petits problèmes comme les liens brisés ou les fautes de frappe. Diagnostiquer les problèmes des fonctions interactives et les réparer</span></td>
+      <td data-label="Solution"><span class="text-left">Corriger les petits problèmes comme les liens brisés ou les fautes de frappe. Diagnostiquer les problèmes des fonctions interactives et les réparer</span></td>
     </tr>
     <tr>
       <td data-label="Type"><span class="text-left">Navigation et facilité de recherche</span></td>
       <td data-label="Problème"><span class="text-left">Je n’arrive pas à trouver la réponse</span></td>
-      <td data-label="Measure"><span class="text-left">Reconsidérer l’architecture de l’information, améliorer la trace de l’information de la page ou de la section du contenu (par exemple, améliorer les étiquettes des liens). Envisager des améliorations de la conception du contenu, comme la hiérarchie de l’information, les titres, l’utilisation de la fonction « élargir/réduire ».</span></td>
+      <td data-label="Solution"><span class="text-left">Reconsidérer l’architecture de l’information, améliorer la trace de l’information de la page ou de la section du contenu (par exemple, améliorer les étiquettes des liens). Envisager des améliorations de la conception du contenu, comme la hiérarchie de l’information, les titres, l’utilisation de la fonction « élargir/réduire ».</span></td>
     </tr>
     <tr>
       <td data-label="Type"><span class="text-left">Contenu</span></td>
       <td data-label="Problème"><span class="text-left">Il n’est pas possible de comprendre ou utiliser une réponse</span></td>
-      <td data-label="Measure"><span class="text-left">Réécrire ou modifier la réponse en utilisant un langage clair et simple. Améliorer la conception du contenu. </span></td>
+      <td data-label="Solution"><span class="text-left">Réécrire ou modifier la réponse en utilisant un langage clair et simple. Améliorer la conception du contenu. </span></td>
     </tr>
     <tr>
       <td data-label="Type"><span class="text-left">Lacune du contenu et de navigation</span></td>
       <td data-label="Problème"><span class="text-left">La réponse ne se trouve pas dans la page</span></td>
-      <td data-label="Measure"><span class="text-left">Inclure la réponse ou créer un lien vers la réponse dans le contenu</span></td>
+      <td data-label="Solution"><span class="text-left">Inclure la réponse ou créer un lien vers la réponse dans le contenu</span></td>
     </tr>
   </tbody>
 </table>
