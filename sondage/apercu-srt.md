@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/survey/about-tss.html
 date: null
 dateModified: 2023-04-05
-description: null
+description: "Pourquoi mesurer la réussite des tâches sur Canada.ca : les tâches principales, l’importance de la réussite et la prestation de meilleurs services"
 title: Pourquoi mesurer la réussite d’une tâche
 ---
 
@@ -49,7 +49,7 @@ Le sondage permet d’axer le travail sur les besoins des visiteurs&nbsp;:
 * recueillir les commentaires des visiteurs selon leur expérience d’utilisation
 * déterminer les domaines à améliorer de façon prioritaire
 
-### Indicateurs de rendements communs
+### Indicateurs de rendement communs
 
 Puisque toutes les institutions du gouvernement du Canada mènent ce sondage, on compte avec un ensemble commun d’indicateurs sur le rendement pour l’ensemble du canal Web qui peut servir à améliorer les services.
 
