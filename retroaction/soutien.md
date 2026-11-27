@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/feedback/support.html
 date: null
 dateModified: 2023-02-28
-description: null
+description: Comment obtenir du soutien pour Rétroaction GC et renseignements sur le groupe de travail sur Rétroaction GC
 title: Contacts pour Rétroaction GC
 ---
 
