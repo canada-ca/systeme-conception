@@ -8,7 +8,7 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner du
 <p>Le 19 mars 2024</p>
 <p>Pour la population canadienne et pour les personnes qui espéraient visiter le Canada ou y immigrer au plus fort de la pandémie de la COVID-19, les restrictions de voyage étaient complexes et en constante évolution. Durant la pandémie, la recherche de réponses à propos des déplacements dans le contexte de la COVID-19 a été l'une des principales tâches que les utilisateur·rice·s ont cherché à accomplir en ligne. Bien que de nombreuses informations aient été disponibles sur Canada.ca, il était difficile pour les voyageur·se·s individuel·le·s de trouver la bonne information et de la synthétiser pour obtenir des réponses claires. Les questions relatives aux voyages, aux transports et à l'immigration sont gérées par plusieurs services, ce qui complique la recherche de toutes les informations relatives à la situation particulière de chacun·e et aux plans de voyage.</p>
 <p>Nous avons effectué des tests d'utilisabilité avec des voyageur·se·s potentiel·le·s et nous avons constaté que la synthèse d'informations complexes sur les voyages en un assistant interactif aidait les participant·e·s à accomplir des tâches clés. Un assistant interactif permet de guider les personnes vers la réponse dont elles ont besoin par le biais d'une série de questions. Les participant·e·s qui ont utilisé l'assistant ont obtenu la bonne réponse plus fréquemment, pour des questions concernant les restrictions de voyage, que les participant·e·s qui développaient leurs propres réponses à partir d'informations disponibles sur des pages gérées par différentes institutions.</p>
-<p>The following example shows how the first 2 interactive questions guide a person toward completing their key task.</p>
+<p>L’exemple suivant montre comment les deux premières questions interactives guident une personne vers l’accomplissement de sa tâche principale.</p>
 <p>Essayez un des tout premiers prototypes de l'assistant pour découvrir comment il fonctionne.</p>
 <p><a href="https://test.canada.ca/covid-19-guidance-2021/travel-2.0/wizard-7-dec2021/wizard-start.html">Wizard prototype: Find out if you can travel to Canada</a> (en anglais seulement)</p>
 <h2>La conception de contenu en état de crise</h2>
@@ -37,19 +37,19 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner du
 <p>Nous pensions pouvoir atténuer ces difficultés en distillant l'information par le biais d'un assistant interactif. Dans le cadre d'ateliers interministériels avec nos partenaires et des expert·e·s en la matière, l'équipe a conçu l'assistant &laquo;&nbsp;Découvrez si vous pouvez entrer au Canada&nbsp;&raquo; ainsi qu'une série de pages en soutien. L'assistant propose à l'utilisateur·rice des questions concernant sa situation afin de lui fournir une réponse sur mesure. Si la personne préfère rechercher des détails pour une situation spécifique par elle-même, les pages de soutien lui permettent de trouver des réponses au sein d'un groupe consolidé de pages Web classées par thèmes, plutôt que sur plusieurs pages qui se chevauchent et qui ont été rédigées par plusieurs ministères et agences.</p>
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
-    <figure><img alt="Example of the wizard's first interactive question" class="img-responsive" id="travel-4" src="/resumes-recherche/images/travel-4-fr.png" />
+    <figure><img alt="Exemple de la première question interactive de l'assistant" class="img-responsive" id="travel-4" src="/resumes-recherche/images/travel-4-fr.png" />
       <figcaption class="well">
-        <p><strong>Example of the wizard's first interactive question</strong></p>
-        <p>A person can choose from "a Canadian citizen (including dual citizens), a permanent resident of Canada, a person registered under the Indian Act, or a protected person (refugee status)" and "a foreign national (including a United States citizen)".</p>
+        <p><strong>Exemple de la première question interactive de l'assistant</strong></p>
+        <p>Une personne peut choisir parmi les options suivantes : « un citoyen canadien (y compris une personne ayant une double citoyenneté), un résident permanent du Canada, une personne inscrite en vertu de la Loi sur les Indiens ou une personne protégée (demandeur d’asile) » et « un ressortissant étranger (y compris un citoyen américain) ».</p>
       </figcaption>
     </figure>
   </div>
 </div>
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
-    <figure><img alt="Example of integrated question" class="img-responsive" id="travel-5" src="/resumes-recherche/images/travel-5-fr.png" />
+    <figure><img alt="Exemple de la deuxième question interactive de l’assistant" class="img-responsive" id="travel-5" src="/resumes-recherche/images/travel-5-fr.png" />
       <figcaption class="well">
-        <p><strong>Example of a question as a person proceeds through the wizard</strong></p>
+        <p><strong>Exemple d’une question présentée à mesure qu’une personne progresse dans l’assistant</strong></p>
         <p>L’assistant demande : « Présentez-vous des signes et symptômes qui ressemblent à ceux de la COVID-19? » Une personne peut choisir « Oui, j’ai des symptômes de la COVID-19 » ou « Non, je n’ai pas de symptômes de la COVID-19 ».</p>
       </figcaption>
     </figure>
@@ -68,7 +68,7 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner du
     <thead>
       <tr>
         <th class="col-md-4">Tâche</th>
-        <th class="col-md-8">Sénario</th>
+        <th class="col-md-8">Scénario</th>
       </tr>
     </thead>
     <tbody>
@@ -126,10 +126,10 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner du
 <p>Ces résultats sont venus renforcer les constatations faites lors des premiers tests d'utilisabilité, qui nous ont amené·e·s à penser que le contenu présenté sous forme d'assistant serait plus efficace; lorsqu'ils ou elles essaient de comprendre des règles et des exigences, les utilisateur·rice·s ont besoin de réponses, et non d'informations. Les gens peuvent se sentir désorientés face à des contenus qui ne sont pas pertinents pour leur tâche. Les assistants réduisent la charge cognitive et aident les gens à se concentrer et à trouver des réponses personnalisées à leurs besoins.</p>
 <div class="row mrgn-tp-lg">
   <div class="col-md-8">
-    <figure><img alt="Example of a person's progess through the wizard" class="img-responsive" id="travel-fr-6" src="/resumes-recherche/images/travel-6-fr.png" />
+    <figure><img alt="Exemple du cheminement d’une personne dans l’assistant" class="img-responsive" id="travel-fr-6" src="/resumes-recherche/images/travel-6-fr.png" />
       <figcaption class="well">
-        <p><strong>Example of a person's progess through the wizard</strong></p>
-        <p>An example of a person progress through the wizard.  "You indicated that you are:" is followed by a list of previous answers that preceded the current question.</p>
+        <p><strong>Exemple du cheminement d’une personne dans l’assistant</strong></p>
+        <p>Exemple du cheminement d’une personne dans l’assistant. « Vous avez indiqué que vous êtes : » est suivi de la liste des réponses données avant la question actuelle.</p>
       </figcaption>
     </figure>
   </div>
@@ -146,5 +146,5 @@ title: "Utilisation d’un assistant afin d’aider les gens à se renseigner du
 <p>La mise en service de l'assistant a également rendu la mise à jour des informations moins complexe. En 2021, les restrictions de voyage ont été fréquemment modifiées en fonction de la disponibilité des vaccins, des possibilités de dépistage dans les différents pays, des exigences de quarantaine et de l'apparition du variant Omicron. Le contenu obsolète des pages de soutien est devenu un problème et a semé la confusion chez les visiteur·se·s qui arrivaient sur ces pages sans avoir utilisé l'assistant. L'équipe s'est finalement concentrée sur la mise à jour de l'assistant, en y apportant des modifications dès que des règles étaient annoncées, et a supprimé les pages de soutien qui faisaient office de doublons et qui avaient été créées en 2020. </p>
 <h3>Incidence</h3>
 <p>Après sa mise en service, l'assistant de voyage a été utilisé par plus de 19 millions de personnes entre juillet 2021 et juillet 2022. À une époque où l'incertitude faisait partie du quotidien, il était crucial de synthétiser les informations concernant les exigences, éparpillées sur diverses pages, en des réponses claires et personnalisées, dans le but d'assister les individus dans leurs prises de décisions déjà difficiles.</p>
-<p>Si vous ou votre équipe souhaitez en savoir plus sur les assistants, lisez notre billet de bogue&nbsp;:</p>
+<p>Si vous ou votre équipe souhaitez en savoir plus sur les assistants, lisez notre billet de blogue&nbsp;:</p>
 <p><a href="https://blogue.canada.ca/2021/04/08/utilisation-de-questions-interactives.html">Billet de bogue&nbsp;: Les questions interactives pour aider les gens</a></p>
