@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/mandatory-templates/news-pages.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Modèles obligatoires des pages de nouvelles de Canada.ca, qui présentent les dernières nouvelles des institutions et permettent de les parcourir
 title: "Pages de nouvelles - Modèle obligatoire de Canada.ca"
 ---
 
@@ -78,7 +78,7 @@ title: "Pages de nouvelles - Modèle obligatoire de Canada.ca"
    <a href="http://laws-lois.justice.gc.ca/fra/lois/f-11/">
     Loi sur la gestion des finances publiques
    </a>
-   (LGFP) et qui sont de le cadre de Canada.ca doivent publier les produits suivants par le biais des « Nouvelles »  :
+   (LGFP) et qui sont dans le cadre de Canada.ca doivent publier les produits suivants par le biais des « Nouvelles »  :
   </p>
   <dl class="dl-horizontal">
    <dt>
@@ -88,7 +88,7 @@ title: "Pages de nouvelles - Modèle obligatoire de Canada.ca"
    </dt>
    <dd>
     <p>
-     Renseignements généraux officiels qui complètent les communiqués de presse du gouvernement du Canada afin de donner un bref historique de l’enjeu ou d’un événement qui dépasse les renseignements inclus dans le communique de presse.
+     Renseignements généraux officiels qui complètent les communiqués de presse du gouvernement du Canada afin de donner un bref historique de l’enjeu ou d’un événement qui dépasse les renseignements inclus dans le communiqué de presse.
     </p>
    </dd>
    <dt>
@@ -128,7 +128,7 @@ title: "Pages de nouvelles - Modèle obligatoire de Canada.ca"
    </dt>
    <dd>
     <p>
-     Déclarations officielles du gouvernement du Canada qui sont diffusés au public et aux médias.
+     Déclarations officielles du gouvernement du Canada qui sont diffusées au public et aux médias.
     </p>
    </dd>
   </dl>
@@ -304,7 +304,7 @@ title: "Pages de nouvelles - Modèle obligatoire de Canada.ca"
             Le champ texte doit être étiqueté « Contient ».
            </li>
            <li>
-            Le champ texte doit comporter le signet texte « Mots clés ».
+            Le champ texte doit comporter le texte de remplissage « Mots clés ».
            </li>
            <li>
             Le champ texte doit permettre aux gens de saisir plusieurs mots clés.
@@ -720,7 +720,7 @@ title: "Pages de nouvelles - Modèle obligatoire de Canada.ca"
             Le champ texte doit être étiqueté « Contient ».
            </li>
            <li>
-            Le champ texte doit comporter le signet texte « Mots clés ».
+            Le champ texte doit comporter le texte de remplissage « Mots clés ».
            </li>
            <li>
             Le champ texte doit permettre aux gens de saisir plusieurs mots clés.
@@ -1081,7 +1081,7 @@ title: "Pages de nouvelles - Modèle obligatoire de Canada.ca"
           </summary>
           <ul>
            <li>
-            Doit fournir un lien vers un profile pour l’institution responsable du contenu.
+            Doit fournir un lien vers un profil pour l’institution responsable du contenu.
            </li>
           </ul>
          </details>
