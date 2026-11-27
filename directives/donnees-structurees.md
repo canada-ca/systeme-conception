@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/guidance/structured-data.html
 date: null
 dateModified: '2020-03-16'
-description: null
+description: Comment ajouter des données structurées aux pages de Canada.ca, mesurer leurs retombées et utiliser des exemples de code de schémas
 title: "Ajout de données structurées sur les pages de Canada.ca"
 ---
 
@@ -68,7 +68,7 @@ title: "Ajout de données structurées sur les pages de Canada.ca"
    Les moteurs de recherche contrôlent la façon dont les résultats de recherche apparaissent et ce qui est présenté dans les extraits en vedette. L'ajout de données structurées peut modifier ou non les résultats de la recherche.
   </p>
   <h3>
-   Exemple of d'un extrait enrichi
+   Exemple d'un extrait enrichi
   </h3>
   <figure>
    <img alt="Une longue description se trouve après l'image." class="img-responsive border" src="../images/extrait-vedette.png" title="Exampel of a rich snippet" width="700">
@@ -76,7 +76,7 @@ title: "Ajout de données structurées sur les pages de Canada.ca"
   </figure>
   <details>
    <summary>
-    Exemple of d'un extrait enrichi : recherche de « prestations covid »
+    Exemple d'un extrait enrichi : recherche de « prestations covid »
    </summary>
    <p>
     Quand on cherche « prestations covid » dans le moteur de recherche Google, il est possible qu'on nous présente un extrait enrichi qui montre les différentes sections qui peuvent être affichées et fournir des liens spécifiques. Afficher « Pour les entreprises » révèle 4 liens :
@@ -212,7 +212,7 @@ title: "Ajout de données structurées sur les pages de Canada.ca"
     <ul>
      <li>
       <a href="https://validator.w3.org/">
-       HTML Validateur HTML W3C
+       Validateur HTML W3C
       </a>
       (en anglais seulement)
      </li>
@@ -751,7 +751,7 @@ type="application/ld+json"&gt;
     Utilisez-le pour identifier toute section de contenu qui conviendrait le mieux à la synthèse vocale : la partie de la page qui résume la chose la plus importante que les gens recherchent sur cette page.
    </p>
    <p>
-    Vous pouvez utilise ce schéma sur n'importe quelle page.
+    Vous pouvez utiliser ce schéma sur n'importe quelle page.
    </p>
    <h4>
     Directives officielles
