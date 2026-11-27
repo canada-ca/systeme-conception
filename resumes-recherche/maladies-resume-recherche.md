@@ -204,6 +204,6 @@ title: "Maladies et vaccination"
 <ul>
   <li><a href="https://www.canada.ca/fr/sante-publique/services/vaccinations-pour-enfants.html">Consultez les nouvelles pages sur vaccination des enfants</a>, conçues en se basant sur les résultats du projet</li>
   <li><a href="http://pediatrics.aappublications.org/content/early/2016/08/25/peds.2016-2146">Countering vaccine hesitancy</a> (en anglais) est un article universitaire sur la manière de surmonter les préoccupations du public au sujet de la vaccination</li>
-  <li><a href=" {{ '/2018/05/10/concerte-sante.html' | prepend: site.urlalt[ page.language ] }} ">Travail concerté pour optimiser le contenu sur les maladies et la vaccination:</a> un billet de blogue écrit par Santé Canada, notre partenaire d'optimisation</li>
-  <li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.language ] }} ">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
+  <li><a href="https://blogue.canada.ca/2018/05/10/concerte-sante.html">Travail concerté pour optimiser le contenu sur les maladies et la vaccination:</a> un billet de blogue écrit par Santé Canada, notre partenaire d'optimisation</li>
+  <li><a href="{{ '/partenaires/' | absolute_url }}">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
 </ul>
