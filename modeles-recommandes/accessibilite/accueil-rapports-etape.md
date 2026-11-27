@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/recommended-templates/accessibility/progress-reports-landing.html
 date: null
 dateModified: '2024-12-05'
-description: null
+description: Modèle de page présentant les rapports d’étape sur l’accessibilité d’une institution, par année
 title: Rapports d’étape sur l’accessibilité pour [Nom de l’institution]
 section-title: ""
 breadcrumbs: [{
