@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/mandatory-templates/home-page.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Modèle obligatoire de la page d’accueil de Canada.ca, qui met en évidence les principales tâches du gouvernement et mène à tous les thèmes et publics
 title: "Page d\u2019accueil - Modèle obligatoire de Canada.ca"
 ---
 
@@ -169,7 +169,7 @@ title: "Page d\u2019accueil - Modèle obligatoire de Canada.ca"
            Les images doivent montrer des détails saisonniers (par exemple, de la neige en hiver, des fleurs au printemps).
           </li>
           <li>
-           Évitez les images de personnes ou de visage, qui peuvent distaire les gens.
+           Évitez les images de personnes ou de visages, qui peuvent distraire les gens.
           </li>
          </ul>
         </details>
@@ -218,7 +218,7 @@ title: "Page d\u2019accueil - Modèle obligatoire de Canada.ca"
            Le BCP contrôle le contenu dans cette section.
           </li>
           <li>
-           Il y 4 liens en vedette, et un seul est présenté à la fois.
+           Il y a 4 liens en vedette, et un seul est présenté à la fois.
           </li>
           <li>
            Utilisez un appel à l’action pour le texte
@@ -241,7 +241,13 @@ title: "Page d\u2019accueil - Modèle obligatoire de Canada.ca"
            Le lien vedette de la page d'accueil apparaît en surimpression dans la partie inférieure de la bannière de la page d'accueil
           </li>
           <li>
+           Chaque fois que la page d’accueil est chargée, l’un des quatre liens en vedette est affiché aléatoirement aux visiteurs
+          </li>
+          <li>
            Dans des situations exceptionnelles, telles qu'une annonce de politique gouvernementale importante (par exemple, un budget fédéral), la rotation aléatoire est éliminée un seul lien en vedette apparaît pour tous les visiteurs
+          </li>
+          <li>
+           Lorsque seul un lien en vedette est utilisé pour l’ensemble des visiteurs, l’image de la bannière de la page d’accueil peut être remplacée par une image qui complète le lien mis en vedette
           </li>
          </ul>
         </details>
@@ -270,7 +276,7 @@ title: "Page d\u2019accueil - Modèle obligatoire de Canada.ca"
          </summary>
          <ul>
           <li>
-           Elle dresse la liste des 8 principales tâches de l'ensemble du gouvernement du Canada en fonction des données relatives au nombre de pages vues et des recherches effectuées par les utilisateurs.
+           Elle dresse la liste des 8 principales tâches de l'ensemble du gouvernement du Canada en fonction des statistiques sur les pages vues et de la recherche sur les utilisateurs.
           </li>
          </ul>
         </details>
@@ -473,7 +479,7 @@ title: "Page d\u2019accueil - Modèle obligatoire de Canada.ca"
          </summary>
          <ul>
           <li>
-           Cette composante se trouve sous les puclics cibles à l'échelle du gouvernement.
+           Cette composante se trouve sous les publics cibles à l'échelle du gouvernement.
           </li>
           <li>
            Les liens et les descriptions sont présentés en 2 colonnes comportant 4 liens chacune.
