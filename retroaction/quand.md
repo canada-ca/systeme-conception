@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/feedback/when.html
 date: null
 dateModified: 2023-11-07
-description: null
+description: Quand utiliser Rétroaction GC sur vos pages, l'engagement requis de votre équipe et les situations où il ne faut pas l'utiliser
 title: Quand utiliser Rétroaction GC
 ---
 
@@ -97,7 +97,7 @@ Nous ne recommandons pas de garder l’outil de rétroaction sur une page contin
 
 Nous ne recommandons pas l'utilisation de l'outil dans les espaces sécurisés. Dans ces espaces, il est préférable de s'assurer que les utilisateurs ont un accès clair aux canaux d'assistance directe.
 
-### Contenu sensibles
+### Contenu sensible
 Si vous utilisez l’outil pour des pages traitant de sujets sensibles (comme le suicide), veillez à assurer fréquemment un suivi de la rétroaction et à agir lorsque nécessaire. L’outil devrait être ajouté pour de courts intervalles et retiré lorsque des modifications sont en cours.
 
 <nav role="navigation" class="mrgn-bttm-lg">
