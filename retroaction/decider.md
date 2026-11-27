@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/feedback/prioritize.html
 date: null
 dateModified: 2026-10-09
-description: null
+description: "Comment décider quoi améliorer à l’aide de la rétroaction : cerner les tâches problématiques, étudier les problèmes, les prioriser et évaluer la faisabilité"
 title: Décider de ce qui doit être amélioré
 ---
 
