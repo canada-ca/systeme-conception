@@ -11,7 +11,7 @@ breadcrumbs:
     link: https://conception.canada.ca/retroaction/ameliorer.html
 date: null
 dateModified: 2023-02-28
-description: null
+description: "Étude de cas : comment Santé Canada a utilisé la rétroaction sur les pages pour déceler un manque de contenu sur les ingrédients des vaccins"
 title: Étude de cas - déterminer un manque de contenu au moyen de Rétroaction GC
 ---
 
