@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/recommended-templates/collection-landing-pages.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Modèle des pages d’accueil des collections, qui regroupent au même endroit des types de contenu connexe provenant de l’ensemble de Canada.ca
 title: "Pages d\u2019accueil des collections - Modèle de Canada.ca"
 ---
 
@@ -15,7 +15,7 @@ title: "Pages d\u2019accueil des collections - Modèle de Canada.ca"
  <ul>
   <li>
    Les collections de Canada.ca fournissent à une personne un seul et même endroit pour consulter une agrégation de types de contenu connexe (voir la section sur les
-   <a href="{{ site.url }}/specifications/types-contenus.html">
+   <a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#types">
     types de contenu de Canada.ca
    </a>
    )
@@ -414,7 +414,7 @@ title: "Pages d\u2019accueil des collections - Modèle de Canada.ca"
          <ul>
           <li>
            Utilisez la configuration
-           <a href="{{ site.url }}/architecture/configurations-conception-communes.html#en-demande">
+           <a href="{{ site.url }}/configurations-conception-communes/en-demande.html">
             En demande
            </a>
            .
@@ -459,7 +459,7 @@ title: "Pages d\u2019accueil des collections - Modèle de Canada.ca"
          <ul>
           <li>
            Utilisez la configuration
-           <a href="{{ site.url }}/architecture/configurations-conception-communes.html#vignettes-promotionnelles">
+           <a href="{{ site.url }}/configurations-conception-communes/vignettes-promotionnelles.html">
             Promotions contextuelles
            </a>
            .
