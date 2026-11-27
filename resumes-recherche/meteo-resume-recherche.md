@@ -238,6 +238,6 @@ title: "Renseignements météorologiques"
 <ul>
     <li><a href="https://meteo.gc.ca/canada_f.html">Consultez les nouvelles pages météo</a>, conçues en se basant
         sur les résultats du projet</li>
-    <li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.language ] }} ">Consultez les aperçus
+    <li><a href="{{ '/partenaires/' | absolute_url }}">Consultez les aperçus
             de nos autres projets</a> avec nos partenaires</li>
 </ul>
