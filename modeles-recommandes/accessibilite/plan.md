@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/recommended-templates/accessibility/plan.html
 date: null
 dateModified: '2024-12-05'
-description: null
+description: Modèle pour publier le plan sur l’accessibilité d’une institution, avec des liens pour donner son avis et consulter les plans d’autres institutions
 title: Plan sur l’accessibilité à [nom de l’institution]
 section-title: ""
 breadcrumbs: [{
