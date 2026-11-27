@@ -3,7 +3,7 @@ altLangPage: "https://design.canada.ca/find-right-template-design-pattern-web-co
 date: 2019-11-06
 dateModified: 2019-11-06
 description: "Une série de questions pour vous aider à déterminer quel modèle ou conception de Canada.ca convient le mieux à votre contenu."
-title: "Trouvez des modèles et les configurations de conception pour votre contenu Web"
+title: "Trouvez des modèles et des configurations de conception pour votre contenu Web"
 ---
 <p>Répondez aux questions suivantes pour savoir si vous pourriez utiliser une configuration de modèle ou de conception pour concevoir du contenu centré sur les utilisateurs et les tâches.</p>
 <div class="wb-frmvld" data-gc-analytics-chatformname="ESDC|EDSC:Find the right template and design patterns" data-gc-analytics-collect='[{"value":"input[type=radio]","emptyField": "n/a"}]'>
@@ -4367,7 +4367,7 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
           <h2 class="panel-title">Sujets</h2>
         </header>
         <div class="panel-body">
-          <p>Utilisez la <a href="{{ site.url }}/modeles-obligatoire/page-sujet.html">page de sujet</a>.</p>
+          <p>Utilisez la <a href="{{ site.url }}/modeles-obligatoire/sujet.html">page de sujet</a>.</p>
           <p>Les pages de sujet doivent être utilisées pour les 2 premiers niveaux de l’<a href="https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/arborescence-thematique-types-contenu.html#arborescence">arborescence thématique</a>. Elles peuvent également être utilisées dans les niveaux inférieurs, mais elles ne sont pas obligatoires. Elles sont de nature navigationnelles et ne devraient pas être utilisées lorsque plusieurs tâches doivent être regroupées ensemble. Consultez toujours votre responsable de thème avant de créer une nouvelle page de sujet.</p>
         </div>
       </section>
@@ -4571,12 +4571,12 @@ title: "Trouvez des modèles et les configurations de conception pour votre cont
       <div class="panel-body">
         <p>Lorsque vous concevez du contenu, mettez toujours l’accent sur la tâche que l’utilisateur tente d’accomplir.</p>
         <p>Gardez à l'esprit que la mesure du succès dépasse le simple respect des lignes directrices. Il est tout aussi important d'aider les utilisateurs à mener à bien leurs tâches.</p>
-        <p>Utilisez les modèles et les configuations qui aident les gens à accomplir la tâche, et n’hésitez pas à utiliser votre créativité.</p>
+        <p>Utilisez les modèles et les configurations qui aident les gens à accomplir la tâche, et n’hésitez pas à utiliser votre créativité.</p>
         <p>Contactez-nous à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a> si vous voulez : </p>
         <ul>
           <li>nous donner de la rétroaction sur cet assistant </li>
           <li>nous poser une question sur les modèles et les configurations </li>
-          <li>suggérer un changement mis à l’essai par des utilisateurs aux modèles et aux configuration</li>
+          <li>suggérer un changement mis à l’essai par des utilisateurs aux modèles et aux configurations</li>
           <li>contribuer une configuration ou un modèle manquant</li>
         </ul>
       </div>
