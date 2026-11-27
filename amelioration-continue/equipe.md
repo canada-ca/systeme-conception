@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/continuous-improvement/team.html
 date: null
 dateModified: '2021-07-25'
-description: null
+description: Comment organiser et préparer votre équipe pour l'amélioration continue du contenu Web
 section-title: "Amélioration continue du contenu Web"
 title: "Organiser et préparer votre équipe"
 ---
@@ -35,7 +35,7 @@ title: "Organiser et préparer votre équipe"
 </h2>
 
 <p>
- Les projets d'amélioration du contenu Web nécessitent généralement la participation de nombreuses personnes. Différents rôles sont nécessaires pour assurer la coordination, la recherche, la conception et la mise en oeuvre.
+ Les projets d'amélioration du contenu Web nécessitent généralement la participation de nombreuses personnes. Différents rôles sont nécessaires pour assurer la coordination, la recherche, la conception et la mise en œuvre.
 </p>
 
 <p>
@@ -84,13 +84,13 @@ title: "Organiser et préparer votre équipe"
 
 <ul>
  <li>
-  supervise le projet jusqu'à sa mise en oeuvre;
+  supervise le projet jusqu'à sa mise en œuvre;
  </li>
  <li>
   s'assure qu'une stratégie de mesure de résultats est mise en place;
  </li>
  <li>
-  comprend et planifie l'atténuation des obstacles qui empêchent la mise en oeuvre du projet;
+  comprend et planifie l'atténuation des obstacles qui empêchent la mise en œuvre du projet;
  </li>
  <li>
   facilite les ateliers et les réunions pour que tout le monde travaille dans la même direction.
@@ -181,7 +181,7 @@ title: "Organiser et préparer votre équipe"
  <strong>
   haute gestion
  </strong>
- à l'approbation des décisions relatives au contenu, à la conception et aux interactions. Vous avez besoin de quelqu'un qui se fasse le champion de la mise en oeuvre une fois la recherche et les recommandations complétées. La conception de contenu Web axé sur la réussite des tâches peut entrer en conflit avec les pressions organisationnelles. Il est essentiel que la haute gestion soit impliquée rapidement et fréquemment, afin de comprendre les méthodes et de participer à l'élaboration des objectifs de projet appropriés.
+ à l'approbation des décisions relatives au contenu, à la conception et aux interactions. Vous avez besoin de quelqu'un qui se fasse le champion de la mise en œuvre une fois la recherche et les recommandations complétées. La conception de contenu Web axé sur la réussite des tâches peut entrer en conflit avec les pressions organisationnelles. Il est essentiel que la haute gestion soit impliquée rapidement et fréquemment, afin de comprendre les méthodes et de participer à l'élaboration des objectifs de projet appropriés.
 </p>
 
 <p>
@@ -264,7 +264,7 @@ title: "Organiser et préparer votre équipe"
   un chef de projet et des rôles et responsabilités bien définis;
  </li>
  <li>
-  une compréhension claire des obstacles potentiels à la mise en oeuvre et de la manière de les surmonter.
+  une compréhension claire des obstacles potentiels à la mise en œuvre et de la manière de les surmonter.
  </li>
 </ul>
 
@@ -296,7 +296,7 @@ title: "Organiser et préparer votre équipe"
   S'assurer que les bonnes personnes possédant les bonnes connaissances sont impliquées.
  </li>
  <li>
-  Comprendre les relations entre la conception et la mise en oeuvre technique.
+  Comprendre les relations entre la conception et la mise en œuvre technique.
  </li>
 </ul>
 
@@ -319,7 +319,7 @@ title: "Organiser et préparer votre équipe"
   Pour atteindre les objectifs, vous aurez besoin de personnes occupant des rôles dans lesquels elles seront responsables :
   <ul>
    <li>
-    de la mise en oeuvre le contenu amélioré;
+    de la mise en œuvre le contenu amélioré;
    </li>
    <li>
     d'utiliser les preuves pour guider les décisions;
@@ -334,7 +334,7 @@ title: "Organiser et préparer votre équipe"
     de s'assurer que le sujet est bien compris par l'ensemble de l'équipe;
    </li>
    <li>
-    s'assurer l'acceptation de l'approche basée sur les preuves par les experts en la matière.
+    s'assurer de l'acceptation de l'approche basée sur les preuves par les experts en la matière.
    </li>
   </ul>
  </li>
@@ -375,7 +375,7 @@ title: "Organiser et préparer votre équipe"
    </td>
    <td data-label="Responsable de">
     <span class="text-left">
-     Mise en oeuvre des améliorations
+     Mise en œuvre des améliorations
     </span>
    </td>
   </tr>
@@ -387,7 +387,7 @@ title: "Organiser et préparer votre équipe"
    </td>
    <td data-label="Tâche principale">
     <span class="text-left">
-     Mise en oeuvre des améliorations
+     Mise en œuvre des améliorations
     </span>
    </td>
    <td data-label="Responsable de">
@@ -525,7 +525,7 @@ title: "Organiser et préparer votre équipe"
 </p>
 
 <p>
- C'est à l'équipe de projet de faire les chose suivantes :
+ C'est à l'équipe de projet de faire les choses suivantes :
 </p>
 
 <ul>
