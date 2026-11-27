@@ -9,7 +9,7 @@ breadcrumbs:
   title: "Modèles et configurations"
 date: '2020-06-30'
 dateModified: '2025-10-24'
-description: null
+description: Les pages de sujet permettent d’accéder aux sujets et aux pages de destination qui permettent l’achèvement des tâches.
 title: "Page de sujet"
 ---
 <p><span class="label label-danger">Obligatoire</span></p>
