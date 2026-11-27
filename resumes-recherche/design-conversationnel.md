@@ -2,7 +2,7 @@
 altLangPage: "https://design.canada.ca/research-summaries/conversation-design.html"
 date: 2021-06-30
 dateModified: 2021-06-30
-description: "En savoir plus sur la façon dont divers types d’interaction peuvent aider les utilisateurs et utilisatrices à trouver des informations fournies par le gouvernement. Nous avons conçu un assistant de recherche de numéros de téléphone ainsi qu’un agent expérimental qui fonctionnait à la fois comme robot conversationnel (chatbot) sur un écran et comme agent vocal, afin de pouvoir comparer les processus de conception et les résultats de chacun. Date : Hiver 2019"
+description: "Ce que nous avons appris en comparant un assistant de recherche de numéros de téléphone et un agent conversationnel expérimental. Date : Hiver 2019"
 language: fr
 title: "Fournir des services gouvernementaux grâce au design conversationnel"
 ---
@@ -24,7 +24,7 @@ Les assistants interactifs sont un exemple d'interaction à tours multiples.
 
 ### Assistants interactifs
 
-Les assistants interactifs utilisent un ensemble de questions interactives pour aider les personnes à choisir parmi les options possibles pour obtenir la réponse dont ils ont besoin.
+Les assistants interactifs utilisent un ensemble de questions interactives pour aider les personnes à choisir parmi les options possibles pour obtenir la réponse dont elles ont besoin.
 
 Les assistants deviennent assez communs. Il a été démontré qu'ils augmentent la réussite des tâches dans plusieurs de nos projets d'optimisation.
 
