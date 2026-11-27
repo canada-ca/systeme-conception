@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/styles/colours.html
 date: null
 dateModified: '2019-10-01'
-description: null
+description: "Couleurs obligatoires des pages de Canada.ca : arrière-plan, texte et liens, couleurs supplémentaires et exigences de contraste"
 title: Couleurs - Style de Canada.ca
 ---
 
