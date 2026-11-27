@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/feedback/about-page-feedback.html
 date: null
 dateModified: 2024-04-17
-description: null
+description: Fonctionnement de l’outil Rétroaction GC, raisons de recueillir la rétroaction des utilisateurs et protection des renseignements personnels
 title: Comment fonctionne Rétroaction GC
 ---
 
@@ -124,12 +124,6 @@ L’outil de rétroaction invite les visiteurs à&nbsp;:
       </figure>
     </div>
   </div>
-
-Lorsqu'on soumet un commentaire contenant des renseignements personnels, un message contextuel apparaît.
-
-Toute donnée personnelle détectée sera affichée sous la forme ### dans l'aperçu. On peut soit modifier le commentaire original, soit continuer et soumettre le commentaire automatiquement censuré.
-
-Le bloc réutilisable afficher/masquer intitulé « Qu'est-ce qui est considéré comme un renseignement personnel? » sera fermé par défaut.
 
 ## Protéger les renseignements personnels
 
