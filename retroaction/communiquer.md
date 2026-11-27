@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/feedback/insights.html
 date: null
 dateModified: 2026-10-09
-description: null
+description: "Comment partager les idées tirées de la rétroaction : créer un récit avec des données, rédiger un résumé, utiliser des modèles et montrer les résultats"
 title: Partager les idées tirées de la rétroaction
 ---
 
@@ -35,7 +35,7 @@ Pour obtenir de bonnes idées et y donner suite, il faut&nbsp;:
 
 Grâce à votre analyse de rétroaction, vous voulez aider les gens à comprendre&nbsp;:
 
-* le contexte
+* le contexte (volume, dates clés, tendances et raisons possibles de la situation)
 * les problèmes que les gens signalent
 * les chemins possibles
 * les résultats avant et après des améliorations itératives
@@ -97,7 +97,7 @@ Vise à obtenir une affirmation ou un format de preuve
 * Utilisez le reste de l’espace pour fournir des preuves de votre affirmation.
 * Même si quelqu’un ne lit que les en-têtes, il comprendra les principaux problèmes de rétroaction.
 
-[Téléchargez des modèles pour savoir comment partager des idées sur la rétraction](images/templates-sharing-data.pptx) (PowerPoint, 621 Ko).
+[Téléchargez des modèles pour savoir comment partager des idées sur la rétroaction](images/templates-sharing-data.pptx) (PowerPoint, 621 Ko).
 
 ## Affichage des résultats avant et après
 
@@ -110,9 +110,9 @@ Partagez les petites et grandes victoires avec vos résultats.
 
 ### Détails supplémentaires à inclure
 
-* Instantané d’écran
+* Instantanés d’écran
 * Données à l’appui provenant d’autres canaux ou sources de données
-* Superposition d’analyses
+* Données analytiques sur les visites, les actions effectuées sur les pages et les superpositions de clics
 
 
 <nav role="navigation" class="mrgn-bttm-lg">
