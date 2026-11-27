@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/specifications.html
 date: null
 dateModified: '2024-08-21'
-description: null
+description: "Spécifications de Canada.ca : qui doit utiliser la conception de Canada.ca, éléments obligatoires, guide de rédaction et architecture de l’information"
 section-title: "Conception de Canada.ca"
 title: "Spécifications de Canada.ca"
 breadcrumbs: [{
