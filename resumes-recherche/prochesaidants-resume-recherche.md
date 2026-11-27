@@ -43,7 +43,7 @@ title: "Prestations d'assurance-emploi pour proches aidants"
     <summary> Description détaillée </summary>
     <p>Deux pages Web sont affichées côte à côte. La page de gauche portant la mention «&nbsp;Version de base&nbsp;» indique qu'il manque du contenu que les utilisateurs s'attendaient à trouver sur la page Web «&nbsp;Une fois votre demande présentée&nbsp;» concernant les prestations pour proches aidants et congés. Une flèche pointe vers la page Web et est assortie de l'annotation «&nbsp;Les documents requis n'ont pas été trouvés ici.&nbsp;»</p>
     <p>La page de droite porte la mention «&nbsp;Validation&nbsp;» et affiche la page «&nbsp;Présenter une demande&nbsp;» avec un ensemble d'icônes décrivant les diverses étapes relatives à la demande. Une flèche pointe vers les étapes et est assortie de l'annotation «&nbsp;Aperçu visuel du processus complet.&nbsp;» </p>
-    <p>En dessous, un en-tête intitulé «&nbsp;Commencez à rassembler les documents requis&nbsp;» présente la liste des documents requis. Une flèche pointe vers la liste et est assortie de l'annotation «&nbsp;Tous les documents requis accessibles.&nbsp;»"</p>
+    <p>En dessous, un en-tête intitulé «&nbsp;Commencez à rassembler les documents requis&nbsp;» présente la liste des documents requis. Une flèche pointe vers la liste et est assortie de l'annotation «&nbsp;Tous les documents requis accessibles.&nbsp;»</p>
   </details>
 </div>
 <h2>Mesure des taux de réussite du nouveau prototype</h2>
@@ -123,13 +123,13 @@ title: "Prestations d'assurance-emploi pour proches aidants"
   <li>Un langage clair et simplifié a aidé les gens à comprendre le contenu</li>
 </ol>
 <h2>Demander la recherche</h2>
-<p>Envoyez-nous un courriel à <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a> si vous avez des questions ou si vous souhaitez en savoir davantage sur cette recherche.</p>
+<p>Envoyez-nous un courriel à <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a> si vous avez des questions ou si vous souhaitez en savoir davantage sur cette recherche.</p>
 <h2>Qu'en pensez-vous? </h2>
 <p>Faites-nous savoir ce que vous pensez de ce projet. Envoyez un gazouillis en utilisant le mot-clic #Canadapointca.</p>
 <h2>Explorer davantage</h2>
 <ul>
   <li><a href="https://www.canada.ca/fr/services/prestations/ae/proches-aidants.html">Consultez les pages de prestations pour proches aidants mises à jour</a> en fonction des nouvelles conceptions de ce projet</li>
-  <li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.language ] }} ">Lire des aperçus d'autres projets</a> avec nos partenaires</li>
+  <li><a href="{{ '/partenaires/' | absolute_url }}">Lire des aperçus d'autres projets</a> avec nos partenaires</li>
 </ul>
 <div class="col-md-12">
   <aside class="wb-fnote" role="note">
