@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/designing-content.html
 date: null
 dateModified: '2022-01-21'
-description: null
+description: "Principes de conception du contenu de Canada.ca : la tâche d’abord, puis la confiance, la repérabilité, la compréhension, l’utilisabilité et l’accessibilité"
 title: Concevoir du contenu pour Canada.ca
 ---
 
@@ -243,17 +243,12 @@ title: Concevoir du contenu pour Canada.ca
     Aide-mémoire pour la conception du contenu des communications de crise
    </a>
   </li>
-  <li>
-   <a href="https://readability-lisibilite.tbs.alpha.canada.ca/?&amp;lang=fr">
-    Score de lisibilité Web - Expérimental
-   </a>
-  </li>
  </ul>
  <h2 id="utiliser">
   Concevoir pour l'utilisabilité
  </h2>
  <p>
-  Utilisez des conceptions et des mises en page qui permettront aux gens d'accomplir plus facilement leurs tâches. Il peut s'agir par exemple d'un simple texte, d'un tableau filtrable, d'un bouton, d'une lise à cocher interactive ou de tout autre modèle.
+  Utilisez des conceptions et des mises en page qui permettront aux gens d'accomplir plus facilement leurs tâches. Il peut s'agir par exemple d'un simple texte, d'un tableau filtrable, d'un bouton, d'une liste à cocher interactive ou de tout autre modèle.
  </p>
  <p>
   Si vous ne trouvez pas dans la bibliothèque une configuration ou un modèle qui a tout ce dont vous avez besoin, vous pouvez être créatifs en autant que vous respectiez les éléments obligatoires du système de conception. Si votre solution fonctionne bien, nous pourrions l'ajouter au système de conception de Canada.ca pour la rendre disponible aux autres personnes qui pourraient avoir des besoins semblables.
