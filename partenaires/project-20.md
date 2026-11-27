@@ -15,7 +15,7 @@ title: "Documents de voyage"
 <h2>Pourquoi ce travail est important</h2>
 <ul class="lst-spcd">
   <li>IRCC traite environ 1&nbsp;000&nbsp;000 de demandes de visa par année</li>
-  <li>IRCC traite environ 1&nbsp;000&nbsp;000 de demandes de visa par année</li>
+  <li>IRCC traite environ 3&nbsp;200&nbsp;000 demandes d’autorisation de voyage électronique (AVE) par année</li>
 </ul>
 <div class="row mrgn-tp-lg mrgn-bttm-lg">
   <div class="col-md-8">
