@@ -124,7 +124,7 @@ breadcrumbs: [{
         <li>Créez le contenu de vos balises &lt;title&gt; content et &lt;h1&gt; au même moment.</li>
         <li>Décrivez le contenu de la page de manière aussi succincte que possible.</li>
         <li>Placez les mots-clés en début de phrase.</li>
-        <li>Limitez vos titres à 60 caractères, espaces comprises.
+        <li>Limitez vos titres à 60 caractères, espaces compris.
           <ul>
           <li>Les titres plus longs sont plus susceptibles d’être tronqués sur la page de résultats des moteurs de recherche, en particulier sur mobile.</li>
           </ul>
@@ -219,7 +219,7 @@ breadcrumbs: [{
                     </table>
                 </li>
                 <li>
-                    Common service pages should have the name of the service preceding the page title
+                    Les pages consacrées aux services courants doivent comporter le nom du service avant le titre de la page.
                     <table class="table table-condensed table-bordered small">
                         <tr>
                             <th>Au lieu de&nbsp;:</th>
