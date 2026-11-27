@@ -7,7 +7,7 @@ breadcrumbs:
     link: https://www.canada.ca/fr/analytique.html
 date: null
 dateModified: 2026-10-09
-description: null
+description: "Instructions sur Rétroaction GC, l’outil de rétroaction sur les pages : fonctionnement, utilisation, mise en œuvre et analyse de la rétroaction"
 title: Instructions sur Rétroaction GC
 ---
 
