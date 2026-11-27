@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/mandatory-templates/ministerial-profile-pages.html
 date: '2021-09-27'
 dateModified: '2025-12-22'
-description: null
+description: Modèle obligatoire des pages de profil des ministres, secrétaires d’État, secrétaires parlementaires et chefs d’institutions quasi judiciaires
 section-title: "Système de conception de Canada.ca"
 title: Pages de profil des ministres
 ---
