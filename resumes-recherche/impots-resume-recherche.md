@@ -148,6 +148,6 @@ title: "Déclaration de la TPS/TVH et de retenues sur la paie"
 <p>Donnez-nous votre avis sur notre projet – envoyez un «&nbsp;gazouillis&nbsp;» au moyen du mot-clic #Canadapointca.</p>
 <h2>Pour en savoir plus </h2>
 <ul>
-  <li><a href=" {{ '/2018/08/16/collab-impots.html' | prepend: site.urlalt[ page.language ] }} ">L'ARC et le SCT collaborent pour optimiser le contenu des pages Web de la TPS/TVH et des retenues sur la paie</a>, une publication des partenaires de l'optimisation de l'<abbr title="Agence du revenu du Canada">ARC</abbr></li>
-  <li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.language ] }} ">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
+  <li><a href="https://blogue.canada.ca/2018/08/16/collab-impots.html">L'ARC et le SCT collaborent pour optimiser le contenu des pages Web de la TPS/TVH et des retenues sur la paie</a>, une publication des partenaires de l'optimisation de l'<abbr title="Agence du revenu du Canada">ARC</abbr></li>
+  <li><a href="{{ '/partenaires/' | absolute_url }}">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
 </ul>
