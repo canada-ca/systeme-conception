@@ -135,6 +135,6 @@ title: "Conseils aux voyageurs et avertissements"
 <p>Envoyez un gazouillis en utilisant le mot-clic #Canadapointca.</p>
 <h2>Pour en savoir plus</h2>
 <ul>
-  <li>Lisez notre billet de blogue&nbsp;:&nbsp;<a href=" {{ '/2019/11/01/conseils-voyageurs-contact.html' | prepend: site.urlalt[ page.language ] }} ">Conseils de conception de contenu tirés de nos projets d'optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l'ARC&nbsp;&raquo;</a></li>
-  <li>Consultez les aperçus de nos autres <a href=" {{ '/pages/apercu-projet.html#projets' | prepend: site.urlalt[ page.language ] }} ">projets avec nos partenaires</a></li>
+  <li>Lisez notre billet de blogue&nbsp;:&nbsp;<a href="https://blogue.canada.ca/2019/11/01/conseils-voyageurs-contact.html">Conseils de conception de contenu tirés de nos projets d'optimisation du contenu &laquo;&nbsp;Conseils aux voyageurs et avertissements&nbsp;&raquo; et &laquo;&nbsp;Communiquer avec l'ARC&nbsp;&raquo;</a></li>
+  <li>Consultez les aperçus de nos autres <a href="{{ '/partenaires/' | absolute_url }}">projets avec nos partenaires</a></li>
 </ul>
