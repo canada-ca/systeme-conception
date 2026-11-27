@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/mandatory-templates/organizational-profile-pages.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Modèle obligatoire de la page d’accueil sur Canada.ca d’une organisation à haute visibilité associée à une institution du gouvernement du Canada
 title: "Pages de profil organisationnel - Modèle obligatoire de Canada.ca"
 ---
 
@@ -262,7 +262,7 @@ title: "Pages de profil organisationnel - Modèle obligatoire de Canada.ca"
        </h4>
        <p>
         <span class="label label-warning">
-         Conditionelle
+         Conditionnelle
         </span>
        </p>
        <p>
@@ -418,7 +418,7 @@ title: "Pages de profil organisationnel - Modèle obligatoire de Canada.ca"
           </summary>
           <ul>
            <li>
-            Cette composante se trouve sous le mandat de de l’organisme.
+            Cette composante figure à droite du mandat de l’organisme.
            </li>
           </ul>
          </details>
@@ -494,7 +494,7 @@ title: "Pages de profil organisationnel - Modèle obligatoire de Canada.ca"
           </summary>
           <ul>
            <li>
-            Cette composante est obligatoire afin fournir des raccourcis vers les tâches les plus importantes de l’organisme. Cependant, elle ne devrait pas être utilisée si toutes les tâches principales de l’organisme sont déjà incluses en tant que liens directs sous « Services et renseignements ».
+            Cette composante est obligatoire afin de fournir des raccourcis vers les tâches les plus importantes de l’organisme. Cependant, elle ne devrait pas être utilisée si toutes les tâches principales de l’organisme sont déjà incluses en tant que liens directs sous « Services et renseignements ».
            </li>
            <li>
             Utilisez la configuration
@@ -531,7 +531,7 @@ title: "Pages de profil organisationnel - Modèle obligatoire de Canada.ca"
        </h4>
        <p>
         <span class="label label-warning">
-         Conditionelle
+         Conditionnelle
         </span>
        </p>
        <p>
@@ -1053,7 +1053,7 @@ title: "Pages de profil organisationnel - Modèle obligatoire de Canada.ca"
        </h4>
        <p>
         <span class="label label-warning">
-         Conditionelle
+         Conditionnelle
         </span>
        </p>
        <p>
@@ -1115,7 +1115,7 @@ title: "Pages de profil organisationnel - Modèle obligatoire de Canada.ca"
        </h4>
        <p>
         <span class="label label-warning">
-         Conditionelle
+         Conditionnelle
         </span>
        </p>
        <p>
