@@ -11,7 +11,7 @@ description: "Le Bureau de l’expérience Canada.ca travaille avec des organism
 title: "Travailler en partenariat pour améliorer la réussite des tâches sur Canada.ca"
 ---
 <p>Le Bureau de l’expérience Canada.ca travaille avec des organismes fédéraux pour rendre le contenu de Canada.ca plus facile à trouver et à comprendre.</p>
-<p>Notre méthode consiste à collaborer pou&nbsp;:</p>
+<p>Notre méthode consiste à collaborer pour&nbsp;:</p>
 <ul>
   <li>Fixer des objectifs d’utilisabilité concrets</li>
   <li>Conduire des tests d’utilisabilité pour des services précis du gouvernement du Canada</li>
@@ -84,7 +84,7 @@ title: "Travailler en partenariat pour améliorer la réussite des tâches sur C
     <div class="card hght-inhrt"><a href="{{ site.url }}/partenaires/project-07.html" aria-label="Conseils aux voyageurs et avertissements"><img src="images/blank-blue-lm.png" class="img-responsive" alt="">
       <div class="card-container">
         <h3>Conseils aux voyageurs et avertissements</h3>
-        <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: Affaires mondiales Canada (AMC); Immigration, Réfugiés et Citoyenneté Canada (IRCC); Agence de la santé publique du Canada (ASPC); Santé Canada (SC); Agence des services frontaliers du Canada (ASFC)</p>
+        <p class="mrgn-tp-lg"><strong>Objectif</strong>&nbsp;: Permettre aux Canadiens de trouver et de comprendre plus facilement les conseils et les avis du gouvernement du Canada en matière de voyage.</p>
         <p><strong>Date</strong>&nbsp;: 2019</p>
         <p><strong>Partenaires</strong>&nbsp;: Affaires mondiales Canada (AMC); Immigration, Réfugiés et Citoyenneté Canada (IRCC); Agence de la santé publique du Canada (ASPC); Santé Canada (SC); Agence des services frontaliers du Canada (ASFC)</p>
       </div>
