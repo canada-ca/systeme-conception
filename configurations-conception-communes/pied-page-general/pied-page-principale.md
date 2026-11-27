@@ -34,7 +34,7 @@ title: "Pied de page général&nbsp;: Bande principale"
 <section>
   <h2 id="eviter">Quoi éviter</h2>
   <p>N’ajustez pas les liens ou le contenu dans la bande principale. Elle doit rester la même dans l’ensemble du site Web du
-    gouvernement du Canada. Pour les liens qui sont propres à une organisation ou à un programme, utilisez la <a href="./pied-page-principale.html">bande contextuelle</a>.</p>
+    gouvernement du Canada. Pour les liens qui sont propres à une organisation ou à un programme, utilisez la <a href="{{ '../pied-page-contextuelle.html' | absolute_url }}">bande contextuelle</a>.</p>
 </section>
 <section>
   <h2 id="conception">Contenu et conception</h2>
@@ -124,7 +124,7 @@ title: "Pied de page général&nbsp;: Bande principale"
 <section>
   <h2 id="comment">Comment mettre en œuvre</h2>
   <p>Trouvez des exemples pratiques et du code pour mettre en œuvre le pied de page.</p>
-  <h3>Référence de mise en oeuvre du thème GCWeb</h3>
+  <h3>Référence de mise en œuvre du thème GCWeb</h3>
   <h4>Norme</h4>
   <ul>
     <li><a href="https://wet-boew.github.io/GCWeb/sites/footers/no-footer-contextual-fr.html">Bande principale et bande sous pied de page</a></li>
@@ -161,7 +161,7 @@ title: "Pied de page général&nbsp;: Bande principale"
         <p class="mrgn-tp-lg">Pour la Solution de gabarits à déploiement centralisé (SGDC) :</p>
         <ul>
           <li><a href="https://cdts.service.canada.ca/app/cls/WET/gcweb/v4_0_47/cdts/samples/footer-fr.html">Pied de page complet (les bandes contextuelle, principale, et sous pied de page)</a></li>
-          <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation SGDC documentation</a></li>
+          <li><a href="https://cenw-wscoe.github.io/sgdc-cdts/docs/index-fr.html">Documentation SGDC</a></li>
         </ul>
       </details>
       <details id="006">
