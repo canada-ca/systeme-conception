@@ -2,7 +2,7 @@
 altLangPage: https://design.canada.ca/recommended-templates/consultations-page.html
 date: null
 dateModified: '2018-12-19'
-description: null
+description: Modèle des pages de profil de consultation, qui décrivent une consultation du gouvernement du Canada, son état et ses résultats
 title: "Pages de profil d'une consultation - Modèle de Canada.ca"
 ---
 
@@ -423,7 +423,7 @@ title: "Pages de profil d'une consultation - Modèle de Canada.ca"
            Si des réunions de consultation sont menées dans plusieurs endroits, placez les sommaires de toutes les réunions dans une seule page, au lieu de les répartir dans plusieurs pages.
           </li>
           <li>
-           Lorsque des consultations sont actives, l’étiquette de l’en-tête recommandé est « Ce que nous entendons ». Pour les consultations fermées, l’étiquette de l’en-tête recommandé est « Ce que nous avons entendu ».
+           Lorsque des consultations sont actives, l’étiquette de l’en-tête recommandée est « Ce que nous entendons ». Pour les consultations fermées, l’étiquette de l’en-tête recommandée est « Ce que nous avons entendu ».
           </li>
           <li>
            À la fermeture d’une consultation, un lien vers le rapport final « Ce que nous avons entendu » doit également être placé ici.
