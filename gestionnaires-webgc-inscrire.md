@@ -3,7 +3,7 @@ altLangPage: https://design.canada.ca/gcweb-managers-signup.html
 breadcrumbs: []
 date: null
 dateModified: '2020-03-17'
-description: null
+description: Abonnez-vous à la liste d’envoi des Gestionnaires Web du GC avec votre adresse courriel du gouvernement du Canada
 title: "Abonnez-vous à la liste d\u2019envoi des Gestionnaires Web du GC"
 ---
 
@@ -159,7 +159,7 @@ title: "Abonnez-vous à la liste d\u2019envoi des Gestionnaires Web du GC"
      <li>
       <input id="mce-EMAILTYPE-1" name="EMAILTYPE" type="radio" value="text"/>
       <label for="mce-EMAILTYPE-1">
-       texte clair (Nous recommandons texte clair au cas où votre pare-feu bloque le HTML)
+       texte clair (Nous recommandons le texte clair au cas où votre pare-feu bloque le HTML)
       </label>
      </li>
     </ul>
